@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123c32">
+  <meta name="description" content="Ingrediënten en allergenen van de producten bij Meter 4 – Tafelzuur.">
+  <title>Meter 4 – Tafelzuur | Kosher Product Informatie</title>
+  <link rel="stylesheet" href="../assets/css/styles.css">
+</head>
+<body>
+  <header class="site-header compact">
+    <a class="brand" href="../" aria-label="Terug naar de startpagina">
+      <span class="brand-mark" aria-hidden="true">K</span>
+      <span>Kosher Product Informatie</span>
+    </a>
+  </header>
+
+  <main class="catalog-main">
+    <nav class="breadcrumb" aria-label="Kruimelpad"><a href="../">Start</a><span aria-hidden="true">/</span><span>Meter 4</span></nav>
+    <section class="catalog-intro">
+      <p class="eyebrow">Schapmeter 4</p>
+      <h1>Meter 4 – Tafelzuur</h1>
+      <p>Bekijk de Nederlandse ingrediënten en allergenen van de producten in dit schap.</p>
+    </section>
+
+    <section class="catalog-tools" aria-label="Producten zoeken en filteren">
+      <label class="search-box">
+        <span class="sr-only">Zoek een product of merk</span>
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" inputmode="search" autocomplete="off" placeholder="Zoek product of merk…">
+      </label>
+      <div class="filters" role="group" aria-label="Filter op productsoort">
+        <button class="filter active" type="button" data-filter="Alle" aria-pressed="true">Alle</button>
+        <button class="filter" type="button" data-filter="Groenten" aria-pressed="false">Groenten</button>
+        <button class="filter" type="button" data-filter="Olijven" aria-pressed="false">Olijven</button>
+        <button class="filter" type="button" data-filter="Augurken" aria-pressed="false">Augurken</button>
+      </div>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+    </section>
+
+    <section id="product-grid" class="product-grid" aria-label="Producten"></section>
+    <div id="empty-state" class="empty-state" hidden>
+      <strong id="empty-title">Nog geen producten toegevoegd</strong>
+      <p id="empty-copy">Meter 4 staat klaar voor de echte productgegevens.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer" data-site-disclaimer></footer>
+
+  <dialog id="product-dialog" class="product-dialog" aria-labelledby="dialog-title">
+    <button class="dialog-close" type="button" aria-label="Sluiten">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+
+  <script src="../assets/js/products-meter-4.js"></script>
+  <script src="../assets/js/catalog.js"></script>
+</body>
+</html>
