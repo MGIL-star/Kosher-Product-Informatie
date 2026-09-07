@@ -1,0 +1,25 @@
+/* Alleen Meter 4: bredere kaarten voor rustig leesbare productnamen. */
+.product-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 285px), 1fr));
+  gap: 16px;
+}
+.card-text {
+  width: 100%;
+  padding: 12px 14px 10px;
+  gap: 3px;
+}
+.card-text strong {
+  font-size: 16px;
+  line-height: 1.35;
+  letter-spacing: -0.015em;
+  margin: 0;
+}
+.card-text small {
+  letter-spacing: 0.025em;
+}
+.card-text > span {
+  line-height: 1.4;
+}
+.card-action {
+  padding: 10px 14px 14px;
+}
