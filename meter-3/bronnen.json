@@ -1,0 +1,1021 @@
+{
+  "referencePhotosAvailable": false,
+  "note": "17 artikelen; ingrediënten en allergenen bij alle 17 ingevuld. Barcodes hebben afzonderlijke openstaande controles. Alles lokaal.",
+  "products": [
+    {
+      "id": 1,
+      "product": "Schneider’s Crema Aceto Balsamico",
+      "imageSource": "https://elisha.be/en/crema-balsamic-cream-of-modena",
+      "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202023/10339-600x600.jpg",
+      "imageStatus": "originele webfoto",
+      "imageReview": "Originele Shneider’s Crema-packshot van door gebruiker aangewezen distributeur Elisha; 250 ml. Geen directe vergelijking met ontbrekende schapfoto uitgevoerd.",
+      "researchedSources": [
+        "https://e-kosher.gr/he/2-home?SubmitCurrency=1&id_currency=2&order=product.price.desc&page=3",
+        "https://elisha.be/en/crema-balsamic-cream-of-modena",
+        "https://elisha.be/en/all-products/crema-balsamic-cream-of-modena"
+      ],
+      "ean": "194961003061",
+      "eanSource": "https://elisha.be/en/crema-balsamic-cream-of-modena",
+      "ingredientsSource": "Nieuwste expliciete etikettranscriptie van gebruiker in deze chat; ingrediënten en allergenen definitief aangevuld volgens gebruikersopgave.",
+      "allergensSource": "Nieuwste expliciete etikettranscriptie van gebruiker in deze chat; ingrediënten en allergenen definitief aangevuld volgens gebruikersopgave.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Gevonden en geplaatst",
+        "reason": "Originele Shneider’s Crema-packshot van door gebruiker aangewezen distributeur Elisha; 250 ml. Geen directe vergelijking met ontbrekende schapfoto uitgevoerd.",
+        "sources": [
+          "https://elisha.be/en/crema-balsamic-cream-of-modena"
+        ],
+        "candidates": [
+          {
+            "source": "https://elisha.be/en/crema-balsamic-cream-of-modena",
+            "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202023/10339-600x600.jpg",
+            "visuallyInspected": true
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "Elisha — distributeur",
+        "productPageUrl": "https://elisha.be/en/crema-balsamic-cream-of-modena",
+        "directImageUrl": "https://elisha.be/image/cache/catalog/Pics%202023/10339-600x600.jpg",
+        "barcode": "194961003061",
+        "barcodeStatus": "opgenomen",
+        "barcodeSource": "https://elisha.be/en/crema-balsamic-cream-of-modena",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Originele Shneider’s Crema-packshot van door gebruiker aangewezen distributeur Elisha; 250 ml. Geen directe vergelijking met ontbrekende schapfoto uitgevoerd."
+      },
+      "displayNameNl": "Schneider’s Balsamicocrème",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld volgens nieuwste etiketopgave gebruiker",
+        "ingredients": "Balsamicoazijn van Modena 60% (wijnazijn, geconcentreerde druivenmost, kleurstof E150d), geconcentreerde druivenmost, suiker, gemodificeerd maïszetmeel, kleurstof E150d.",
+        "allergens": [
+          "BEVAT SULFIETEN"
+        ],
+        "source": "Nieuwste expliciete etikettranscriptie van gebruiker in deze chat; ingrediënten en allergenen definitief aangevuld volgens gebruikersopgave."
+      }
+    },
+    {
+      "id": 2,
+      "product": "Elisha Azijn – 1 liter",
+      "imageSource": "https://elisha.be/en/all-products/vinegar",
+      "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Vinegar-600x600.jpg",
+      "imageStatus": "originele webfoto",
+      "imageReview": "Gebruiker bevestigt dit als het juiste product ondanks mogelijk afwijkende dopkleur. Identiteit gecorrigeerd naar Elisha azijn 1 liter. Originele bronfoto visueel gecontroleerd; ingrediënten en allergenen blijven onbevestigd.",
+      "researchedSources": [
+        "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/81-shaker-balsamic-vinegar.html",
+        "https://elisha.be/en/all-products/vinegar"
+      ],
+      "ean": "5425000533481",
+      "eanSource": "https://elisha.be/en/all-products/vinegar",
+      "ingredientsSource": "Nieuwste expliciete etikettranscriptie van gebruiker in deze chat; ingrediënten en allergenen definitief aangevuld volgens gebruikersopgave.",
+      "allergensSource": "Nieuwste expliciete etikettranscriptie van gebruiker in deze chat; ingrediënten en allergenen definitief aangevuld volgens gebruikersopgave.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Gevonden en geplaatst",
+        "reason": "Gebruiker bevestigt dit als het juiste product ondanks mogelijk afwijkende dopkleur. Identiteit gecorrigeerd naar Elisha azijn 1 liter. Originele bronfoto visueel gecontroleerd; ingrediënten en allergenen blijven onbevestigd.",
+        "sources": [
+          "https://elisha.be/en/all-products/vinegar"
+        ],
+        "candidates": [
+          {
+            "source": "https://elisha.be/en/all-products/vinegar",
+            "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Vinegar-600x600.jpg",
+            "visuallyInspected": true
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "Elisha — merk",
+        "productPageUrl": "https://elisha.be/en/all-products/vinegar",
+        "directImageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Vinegar-600x600.jpg",
+        "barcode": "5425000533481",
+        "barcodeStatus": "opgenomen",
+        "barcodeSource": "https://elisha.be/en/all-products/vinegar",
+        "referenceMatch": "Productidentiteit bevestigd door gebruiker; geen directe vergelijking met schapfoto.",
+        "note": "Gebruiker bevestigt dit als het juiste product ondanks mogelijk afwijkende dopkleur. Identiteit gecorrigeerd naar Elisha azijn 1 liter. Originele bronfoto visueel gecontroleerd; ingrediënten en allergenen blijven onbevestigd."
+      },
+      "userSuggestedSource": {
+        "productPageUrl": "https://elisha.be/en/all-products/vinegar",
+        "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Vinegar-600x600.jpg",
+        "brand": "Elisha",
+        "volume": "1 liter",
+        "barcode": "5425000533481",
+        "visualReview": "Transparante kunststof fles met gele dop, blauw etiket Elisha Vinegar 7°. Wijkt af van Schneider’s balsamico / azijn – zwarte fles.",
+        "status": "Door gebruiker bevestigd; geplaatst"
+      },
+      "previousProductName": "Schneider’s balsamico / azijn – zwarte fles",
+      "displayNameNl": "Elisha Azijn",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld volgens nieuwste etiketopgave gebruiker",
+        "ingredients": "Alcoholazijn.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Nieuwste expliciete etikettranscriptie van gebruiker in deze chat; ingrediënten en allergenen definitief aangevuld volgens gebruikersopgave."
+      }
+    },
+    {
+      "id": 3,
+      "product": "Schneider’s Sunflower Oil Spray",
+      "imageSource": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html",
+      "imageUrl": "https://shneiders.fr/1015-large_default/Spray-huile-tournesol-o.jpg",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. 182 g; gele dop/blauw-geel etiket. Barcode is een Israëlische kandidaat, geen bevestigde schapbarcode.",
+      "researchedSources": [
+        "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html"
+      ],
+      "ean": "",
+      "eanSource": null,
+      "ingredientsSource": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html",
+      "allergensSource": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Officiële kandidaatpackshot visueel gecontroleerd",
+        "reason": "Gele dop, blauw-geel Shneider’s-etiket met zonnebloem en Sunflower Oil Spray; fabrikantpagina noemt 182 g. Schapverpakking en inhoud nog niet bevestigd.",
+        "sources": [
+          "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html"
+        ],
+        "candidates": [
+          {
+            "source": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html",
+            "imageUrl": "https://shneiders.fr/1015-large_default/Spray-huile-tournesol-o.jpg",
+            "visualReview": "Officiële packshot/etiketcompositie; geel-blauw, gele dop, geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "Shneider’s — merk",
+        "productPageUrl": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html",
+        "directImageUrl": "https://shneiders.fr/1015-large_default/Spray-huile-tournesol-o.jpg",
+        "barcode": "194961001920",
+        "barcodeStatus": "kandidaat; niet overgenomen in catalogus",
+        "barcodeSource": "https://chp.co.il/sitemap/1426",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "182 g; gele dop/blauw-geel etiket. Barcode is een Israëlische kandidaat, geen bevestigde schapbarcode."
+      },
+      "displayNameNl": "Schneider’s Zonnebloemolie in Spuitbus",
+      "eanStatus": "EAN nog te controleren",
+      "volume": "182 g",
+      "volumeSource": "Gebruiker bevestigt beide sprays als 182 g",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% geraffineerde zonnebloemolie. Drijfgas: perslucht.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/467-Spray-huile-tournesol-o.html",
+        "note": "Officiële pagina specificeert 182 g. Geen allergenen vermeld betekent niet gegarandeerd allergeenvrij."
+      }
+    },
+    {
+      "id": 4,
+      "product": "Schneider’s Olive Oil Spray",
+      "imageSource": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/466-Spray-huile-olives.html",
+      "imageUrl": "https://shneiders.fr/1013-large_default/Spray-huile-olives.jpg",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. 182 g; zwarte dop/blauw-goud etiket. Schapinhoud onbekend.",
+      "researchedSources": [
+        "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/466-Spray-huile-olives.html"
+      ],
+      "ean": "194961001913",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Officiële kandidaatpackshot visueel gecontroleerd",
+        "reason": "Zwarte dop, blauw-goud Shneider’s Gourmet-etiket en Olive Oil Spray; fabrikantpagina noemt 182 g. Schapverpakking en inhoud nog niet bevestigd.",
+        "sources": [
+          "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/466-Spray-huile-olives.html"
+        ],
+        "candidates": [
+          {
+            "source": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/466-Spray-huile-olives.html",
+            "imageUrl": "https://shneiders.fr/1013-large_default/Spray-huile-olives.jpg",
+            "visualReview": "Officiële packshot/etiketcompositie; blauw-goud, zwarte dop, geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "Shneider’s — merk",
+        "productPageUrl": "https://shneiders.fr/fr/sauces-froides-vinaigrettes-condiments/466-Spray-huile-olives.html",
+        "directImageUrl": "https://shneiders.fr/1013-large_default/Spray-huile-olives.jpg",
+        "barcode": null,
+        "barcodeStatus": "niet gevonden",
+        "barcodeSource": null,
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "182 g; zwarte dop/blauw-goud etiket. Schapinhoud onbekend."
+      },
+      "displayNameNl": "Schneider’s Olijfolie in Spuitbus",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "volume": "182 g",
+      "volumeSource": "Gebruiker bevestigt beide sprays als 182 g",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% extra vierge olijfolie. Drijfgas: perslucht.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "194961001913",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    },
+    {
+      "id": 5,
+      "product": "Southern Land Avocado Oil – kleine fles",
+      "imageSource": "https://www.israelwinkel.nl/producten/avocado-olie-extra-virgin",
+      "imageUrl": "https://isreal-winkel.ams3.digitaloceanspaces.com/63040%20Avocado%20olie-01KKVCR6GG1AHMJRW0A3ZMZJ4R.jpg",
+      "imageStatus": "originele webfoto",
+      "imageReview": "IPC-packshot met paars/roze Southern Land-etiket en 250 ml. Komt overeen met gebruikerscorrectie paars etiket; geen directe vergelijking met schapfoto.",
+      "researchedSources": [
+        "https://www.southern-land.com/products",
+        "https://www.carmelberry.co.il/en/products/avocado-oil"
+      ],
+      "ean": "",
+      "eanSource": null,
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Bronnen gevonden; kleine maat niet aan schap gekoppeld",
+        "reason": "Carmelberry vermeldt Southern Land avocado-olie in 250 en 500 ml. Klein is niet automatisch als 250 ml ingevuld. Het fabrikantbeeld is niet als afbeelding van beide maten hergebruikt.",
+        "sources": [
+          "https://www.southern-land.com/products",
+          "https://www.carmelberry.co.il/en/products/avocado-oil"
+        ],
+        "candidates": [],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "IPC Nijkerk — importeur/webshop",
+        "productPageUrl": "https://www.israelwinkel.nl/producten/avocado-olie-extra-virgin",
+        "directImageUrl": "https://isreal-winkel.ams3.digitaloceanspaces.com/63040%20Avocado%20olie-01KKVCR6GG1AHMJRW0A3ZMZJ4R.jpg",
+        "barcode": null,
+        "barcodeStatus": "niet gevonden",
+        "barcodeSource": null,
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "IPC-packshot met paars/roze Southern Land-etiket en 250 ml. Komt overeen met gebruikerscorrectie paars etiket; geen directe vergelijking met schapfoto."
+      },
+      "displayNameNl": "Southern Land Avocado Olie",
+      "eanStatus": "EAN nog te controleren",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% avocado-olie.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      }
+    },
+    {
+      "id": 7,
+      "product": "Southern Land Extra Virgin Olive Oil – kleine fles",
+      "imageSource": "https://www.israelwinkel.nl/producten/olijfolie-extra-virgin",
+      "imageUrl": "https://isreal-winkel.ams3.digitaloceanspaces.com/63041%20Olijfolie-01KKVCTBC1SVAP9BCTBMXBND76.jpg",
+      "imageStatus": "originele webfoto",
+      "imageReview": "Eerder gecontroleerde originele IPC-packshot van Southern Land Extra Virgin Olijfolie 250 ml toegewezen aan het overgebleven olijfolie-artikel op gebruikerscorrectie.",
+      "researchedSources": [
+        "https://www.southern-land.com/products",
+        "https://israelladen.de/southern-land/southern-land-extra-virgin-olivenoel-250-ml/SW5105"
+      ],
+      "ean": "",
+      "eanSource": null,
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Originele webshopfoto 250 ml visueel gecontroleerd",
+        "reason": "Southern Land extra virgin olive oil 250 ml op webshop en foto. Zalmroze/zwart etiket; fles gefotografeerd op een vlag. Geen supermarkt-schapfoto. Zonder referentie niet als kleine schapfles bevestigd.",
+        "sources": [
+          "https://www.southern-land.com/products",
+          "https://israelladen.de/southern-land/southern-land-extra-virgin-olivenoel-250-ml/SW5105"
+        ],
+        "candidates": [
+          {
+            "source": "https://israelladen.de/southern-land/southern-land-extra-virgin-olivenoel-250-ml/SW5105",
+            "imageUrl": "https://israelladen.de/media/ef/99/88/1770720637/250mlOlivenl.jpg?ts=1770720637",
+            "visualReview": "Originele webshopfoto, 250 ml leesbaar, zalmroze/zwart etiket; geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "IPC Nijkerk — importeur/webshop",
+        "productPageUrl": "https://www.israelwinkel.nl/producten/olijfolie-extra-virgin",
+        "directImageUrl": "https://isreal-winkel.ams3.digitaloceanspaces.com/63041%20Olijfolie-01KKVCTBC1SVAP9BCTBMXBND76.jpg",
+        "barcode": null,
+        "barcodeStatus": "niet gevonden",
+        "barcodeSource": null,
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Eerder gecontroleerde originele IPC-packshot van Southern Land Extra Virgin Olijfolie 250 ml toegewezen aan het overgebleven olijfolie-artikel op gebruikerscorrectie."
+      },
+      "displayNameNl": "Southern Land Extra Virgin Olijfolie",
+      "eanStatus": "EAN nog te controleren",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% koudgeperste extra vierge olijfolie.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      }
+    },
+    {
+      "id": 9,
+      "product": "Zeta Extra Virgin Olive Oil – 750 ml",
+      "imageSource": "https://www.food-showcase.com/products/7199-zeta-extra-virgin-olive-oil-750-ml",
+      "imageUrl": "https://3hr-images-prod.s3.amazonaws.com/ac08e82f-a8fe-46f4-b81f-6413e725fad713946655067107515067.jpeg",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. 750 ml-exportvermelding; groene dop en wit etiket. Lage resolutie. Nummer op productpagina nog niet aan schapbarcode gekoppeld.",
+      "researchedSources": [
+        "https://www.aviglatt.com/zeta-extra-virgin-olive-oil-750-ml"
+      ],
+      "ean": "",
+      "eanSource": null,
+      "ingredientsSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "allergensSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "750 ml-productvermelding gevonden; beeld niet bevestigd",
+        "reason": "AviGlatt vermeldt het juiste product maar blokkeert ophalen (403). Meerdere Zeta-verpakkingen bestaan; supermarktbeeldbronnen niet gebruikt.",
+        "sources": [
+          "https://www.aviglatt.com/zeta-extra-virgin-olive-oil-750-ml"
+        ],
+        "candidates": [],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "Food Showcase — kosjere webshop",
+        "productPageUrl": "https://www.food-showcase.com/products/7199-zeta-extra-virgin-olive-oil-750-ml",
+        "directImageUrl": "https://3hr-images-prod.s3.amazonaws.com/ac08e82f-a8fe-46f4-b81f-6413e725fad713946655067107515067.jpeg",
+        "barcode": "603741001161",
+        "barcodeStatus": "kandidaat; niet overgenomen in catalogus",
+        "barcodeSource": "https://www.food-showcase.com/products/7199-zeta-extra-virgin-olive-oil-750-ml",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "750 ml-exportvermelding; groene dop en wit etiket. Lage resolutie. Nummer op productpagina nog niet aan schapbarcode gekoppeld."
+      },
+      "displayNameNl": "Zeta Extra Virgin Olijfolie",
+      "eanStatus": "EAN nog te controleren",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% extra vierge olijfolie.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+        "note": "Exacte variantgegevens van gebruiker overgenomen. Cafeïne en kleurstoffen niet als allergeen aangemerkt."
+      }
+    },
+    {
+      "id": 10,
+      "product": "Saba Extra Virgin Olive Oil – 750 ml",
+      "imageSource": "https://www.israelwinkel.nl/producten/saba-olijfolie-750ml",
+      "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3765228568.jpg",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Originele vrijstaande IPC-packshot op witte achtergrond; SABA Extra Virgin Olive Oil, Our Family Blend en 750 ml zichtbaar; geen watermerk. Schapmatch nog te controleren.",
+      "researchedSources": [
+        "https://www.sabahabib.com/",
+        "https://israelladen.de/genuss/gewuerze-zutaten/2966/saba-extra-virgin-olivenoel-cold-press-750-ml",
+        "https://www.israelwinkel.nl/producten/saba-olijfolie-750ml"
+      ],
+      "ean": "603741001161",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Originele webshopfoto 750 ml visueel gecontroleerd",
+        "reason": "SABA Extra Virgin Olive Oil, First Cold Press, Our Family Blend, 750 ml op foto. Groen-zwarte verpakking met groene dop; nog niet met schapfoto vergeleken.",
+        "sources": [
+          "https://www.sabahabib.com/",
+          "https://israelladen.de/genuss/gewuerze-zutaten/2966/saba-extra-virgin-olivenoel-cold-press-750-ml"
+        ],
+        "candidates": [
+          {
+            "source": "https://israelladen.de/genuss/gewuerze-zutaten/2966/saba-extra-virgin-olivenoel-cold-press-750-ml",
+            "imageUrl": "https://israelladen.de/media/41/b1/0a/1742600588/saba0195b.jpg?ts=1742600588",
+            "visualReview": "Originele webshopfoto; 750 ml en Our Family Blend leesbaar, gefotografeerd op een vlag, geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "IPC Nijkerk — importeur/webshop",
+        "productPageUrl": "https://www.israelwinkel.nl/producten/saba-olijfolie-750ml",
+        "directImageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3765228568.jpg",
+        "barcode": null,
+        "barcodeStatus": "niet gevonden",
+        "barcodeSource": null,
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Originele vrijstaande IPC-packshot op witte achtergrond; SABA Extra Virgin Olive Oil, Our Family Blend en 750 ml zichtbaar; geen watermerk. Schapmatch nog te controleren."
+      },
+      "displayNameNl": "Saba Extra Virgin Olijfolie",
+      "eanStatus": "Verschil gevonden; niet automatisch overgenomen",
+      "reportedPackagingBarcode": "603741001161",
+      "eanConflict": {
+        "reportedBrand": "Saba",
+        "onlineBrand": "Zeta",
+        "volume": "750 ml",
+        "source": "https://www.kayco.com/product/zeta-extra-virgin-olive-oil-750-ml/",
+        "note": "Geldige UPC-A, maar merktoewijzing conflicteert. Achteretiket naast voorkant nodig; geen code aan Saba of Zeta toegewezen."
+      },
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% extra vierge olijfolie.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "603741001161",
+        "checkdigitValid": true,
+        "onlineDifference": "Kayco koppelt 603741001161 aan Zeta 750 ml. Nieuwste gebruikersopgave Saba blijft leidend."
+      }
+    },
+    {
+      "id": 11,
+      "product": "Elisha Canola Oil – 1 liter",
+      "imageSource": "https://elisha.be/en/Canola-Oil",
+      "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Canola%20oil-600x600.jpg",
+      "imageStatus": "originele internetpackshot",
+      "imageReview": "Originele fabrikantpackshot; blauwe Elisha-verpakking, juiste oliesoort, 1 liter, geen zichtbaar watermerk. Niet vergeleken met ontbrekende gebruikersfoto.",
+      "researchedSources": [],
+      "ean": "5425000533795",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Allergenen en eventuele aanvullende achteretiketgegevens controleren",
+        "Vergelijking met de ontbrekende gebruikersfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "Elisha — merk",
+        "productPageUrl": "https://elisha.be/en/Canola-Oil",
+        "directImageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Canola%20oil-600x600.jpg",
+        "barcode": "5425000533795",
+        "barcodeStatus": "reeds opgenomen",
+        "barcodeSource": "https://elisha.be/en/Canola-Oil",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Originele blauwe 1 L-verpakking; al op Meter 3. Schapfoto hier niet beschikbaar voor vergelijking."
+      },
+      "displayNameNl": "Elisha Koolzaadolie",
+      "volume": "1 Liter",
+      "volumeSource": "Expliciete verpakkingsopgave gebruiker",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% koolzaadolie (canola-olie).",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "5425000533795",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    },
+    {
+      "id": 12,
+      "product": "Elisha Sunflower Oil – 1 liter",
+      "imageSource": "https://elisha.be/en/Sunflower-Oil",
+      "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Sunflower%20oil-600x600.jpg",
+      "imageStatus": "originele internetpackshot",
+      "imageReview": "Originele fabrikantpackshot; blauwe Elisha-verpakking, juiste oliesoort, 1 liter, geen zichtbaar watermerk. Niet vergeleken met ontbrekende gebruikersfoto.",
+      "researchedSources": [],
+      "ean": "5425000533801",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Allergenen en eventuele aanvullende achteretiketgegevens controleren",
+        "Vergelijking met de ontbrekende gebruikersfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "Elisha — merk",
+        "productPageUrl": "https://elisha.be/en/Sunflower-Oil",
+        "directImageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/Sunflower%20oil-600x600.jpg",
+        "barcode": "5425000533801",
+        "barcodeStatus": "reeds opgenomen",
+        "barcodeSource": "https://elisha.be/en/Sunflower-Oil",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Originele blauwe 1 L-verpakking; al op Meter 3. Schapfoto hier niet beschikbaar voor vergelijking."
+      },
+      "displayNameNl": "Elisha Zonnebloemolie",
+      "volume": "1 Liter",
+      "volumeSource": "Expliciete verpakkingsopgave gebruiker",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Eén ingrediënt: 100% zonnebloemolie.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "5425000533801",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    },
+    {
+      "id": 13,
+      "product": "BLU Day Energy Drink",
+      "imageSource": "https://bluenergydrink.com/",
+      "imageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-day-website-1.webp",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. Zilver/lichtblauw DAY-blik. Barcode hoort bij Israëlische 250 ml-vermelding; schapinhoud niet bevestigd.",
+      "researchedSources": [
+        "https://bluenergydrink.com/",
+        "https://bluenergy.au/"
+      ],
+      "ean": "",
+      "eanSource": null,
+      "ingredientsSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "allergensSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Officiële kandidaatpackshot visueel gecontroleerd",
+        "reason": "Zilver/lichtblauw blik met BLU DAY. Inhoud en marktverpakking uit het schap onbekend.",
+        "sources": [
+          "https://bluenergydrink.com/",
+          "https://bluenergy.au/"
+        ],
+        "candidates": [
+          {
+            "source": "https://bluenergydrink.com/",
+            "imageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-day-website-1.webp",
+            "visualReview": "Originele merkpackshot van BLU DAY met condensdruppels; geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "BLU — merk",
+        "productPageUrl": "https://bluenergydrink.com/",
+        "directImageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-day-website-1.webp",
+        "barcode": "5904941751920",
+        "barcodeStatus": "kandidaat; niet overgenomen in catalogus",
+        "barcodeSource": "https://pricepilot.co.il/item/Blue%20Day%20Energy%20Drink%20250ml/89ab80c2-fd02-479a-8d61-6e9cd79cbba0",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Zilver/lichtblauw DAY-blik. Barcode hoort bij Israëlische 250 ml-vermelding; schapinhoud niet bevestigd."
+      },
+      "displayNameNl": "BLU Energiedrank Day",
+      "eanStatus": "EAN nog te controleren",
+      "volume": "250 ml",
+      "volumeSource": "Gebruiker bevestigt dat alle drie BLU-varianten 250 ml zijn.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Water, suiker, koolzuur, voedingszuren: citroenzuur (E330), natriumcitraten (E331), taurine (250 mg/100 ml), guarana-extract, cafeïne (15 mg/100 ml), aroma’s, kleurstoffen E129 en E133, vitaminen: niacine (B3), vitamine B6, vitamine B12.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+        "note": "Exacte variantgegevens van gebruiker overgenomen. Cafeïne en kleurstoffen niet als allergeen aangemerkt."
+      }
+    },
+    {
+      "id": 14,
+      "product": "BLU Mojito Energy Drink",
+      "imageSource": "https://bluenergydrink.com/",
+      "imageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-mojito-website-1.webp",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. Zwart/groen Mojito-blik. Barcode hoort bij Israëlische 250 ml-vermelding; niet bij de ook gevonden 150 ml-variant.",
+      "researchedSources": [
+        "https://bluenergydrink.com/",
+        "https://bluenergy.au/"
+      ],
+      "ean": "",
+      "eanSource": null,
+      "ingredientsSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "allergensSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Officiële kandidaatpackshot visueel gecontroleerd",
+        "reason": "Zwart/groen blik met BLU Mojito. Inhoud en marktverpakking uit het schap onbekend.",
+        "sources": [
+          "https://bluenergydrink.com/",
+          "https://bluenergy.au/"
+        ],
+        "candidates": [
+          {
+            "source": "https://bluenergydrink.com/",
+            "imageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-mojito-website-1.webp",
+            "visualReview": "Originele merkpackshot van BLU Mojito met condensdruppels; geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "BLU — merk",
+        "productPageUrl": "https://bluenergydrink.com/",
+        "directImageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-mojito-website-1.webp",
+        "barcode": "5904941750312",
+        "barcodeStatus": "kandidaat; niet overgenomen in catalogus",
+        "barcodeSource": "https://pricepilot.co.il/item/BLU%20Energy%20Drink%20Mojito%20250ml/014b448c-d050-4565-b623-be723607b840",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Zwart/groen Mojito-blik. Barcode hoort bij Israëlische 250 ml-vermelding; niet bij de ook gevonden 150 ml-variant."
+      },
+      "displayNameNl": "BLU Energiedrank Mojito",
+      "eanStatus": "EAN nog te controleren",
+      "volume": "250 ml",
+      "volumeSource": "Gebruiker bevestigt dat alle drie BLU-varianten 250 ml zijn.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Water, suiker, citroenzuur (E330), natriumcitraat (E331), taurine, cafeïne, aroma’s, vitaminen B5, B6 en B12, kleurstoffen E102 en E133.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+        "note": "Exacte variantgegevens van gebruiker overgenomen. Cafeïne en kleurstoffen niet als allergeen aangemerkt."
+      }
+    },
+    {
+      "id": 15,
+      "product": "BLU Original Energy Drink",
+      "imageSource": "https://bluenergydrink.com/",
+      "imageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-classic-website-1.webp",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. Blauw/rood blik. Merk noemt deze Classic; koppeling aan Original-schapetiket nog niet bevestigd.",
+      "researchedSources": [
+        "https://bluenergydrink.com/",
+        "https://www.drinkblu.com/blog/what-is-blu-energy-drink"
+      ],
+      "ean": "7350033980132",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "allergensSource": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Officiële kandidaatpackshot visueel gecontroleerd",
+        "reason": "Blauw/rood blik BLU Energy Drink; merkwebsite noemt dit Classic. Vergelijking met het Original-schapetiket nodig; geen variantgegevens overgenomen.",
+        "sources": [
+          "https://bluenergydrink.com/",
+          "https://www.drinkblu.com/blog/what-is-blu-energy-drink"
+        ],
+        "candidates": [
+          {
+            "source": "https://bluenergydrink.com/",
+            "imageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-classic-website-1.webp",
+            "visualReview": "Originele merkpackshot van de door deze website Classic genoemde variant; blauw/rood, geen zichtbaar watermerk.",
+            "visuallyInspected": true,
+            "referenceMatchConfirmed": false
+          }
+        ],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "BLU — merk",
+        "productPageUrl": "https://bluenergydrink.com/",
+        "directImageUrl": "https://bluenergydrink.com/wp-content/uploads/2024/01/blu-classic-website-1.webp",
+        "barcode": null,
+        "barcodeStatus": "niet gevonden",
+        "barcodeSource": null,
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Blauw/rood blik. Merk noemt deze Classic; koppeling aan Original-schapetiket nog niet bevestigd."
+      },
+      "displayNameNl": "BLU Energiedrank Original",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "volume": "250 ml",
+      "volumeSource": "Expliciete verpakkingsopgave gebruiker",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "Water, suiker, citroenzuur, koolzuur, taurine (0,4%), zuurteregelaars waaronder natriumcitraat, cafeïne (0,03%), vitaminen, natuurlijke aroma’s, karamelkleurstof.",
+        "allergens": [
+          "Geen allergenen vermeld"
+        ],
+        "source": "Door gebruiker expliciet aangeleverde etikettranscriptie voor deze variant in de huidige chat; niet opnieuw rechtstreeks van foto afgelezen.",
+        "note": "Exacte variantgegevens van gebruiker overgenomen. Cafeïne en kleurstoffen niet als allergeen aangemerkt."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "7350033980132",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    },
+    {
+      "id": 16,
+      "product": "Goldstar Original Dark Lager Beer – 330 ml",
+      "imageSource": "https://kedemeurope.com/spirits-liqueurs/goldstar-dark-lager-330ml/",
+      "imageUrl": "https://kedemeurope.com/wp-content/uploads/2022/11/TB04-scaled.jpg",
+      "imageStatus": "originele webfoto ter controle",
+      "imageReview": "Geplaatst in lokaal controlevoorbeeld op verzoek gebruiker; exacte verpakking/inhoud nog controleren. Vrijstaande enkele 330 ml Dark Lager-fles, rood/goud exportetiket. Afbeelding visueel bekeken; distributeurpagina bevestigt de 330 ml-foto.",
+      "researchedSources": [
+        "https://en.tempo.co.il/brands/gold-star/"
+      ],
+      "ean": "040487211001",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "https://israel-keizai.org/wp/wp-content/uploads/2022/04/31221-GS-export-brochure-ENG-NEW-DESIGN-High-res.pdf",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen. GERST bevestigd door Tempo: https://israel-keizai.org/wp/wp-content/uploads/2022/04/31221-GS-export-brochure-ENG-NEW-DESIGN-High-res.pdf",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto",
+        "Barcode alleen overnemen van de leesbare achteretiketfoto",
+        "Volledige ingrediëntenlijst controleren"
+      ],
+      "checkedOn": "2026-09-07",
+      "imageResearch": {
+        "status": "Fabrikantbron gevonden; exacte exportpackshot niet bevestigd",
+        "reason": "Tempo-fabrikantpagina opnieuw geprobeerd maar niet op te halen (503/time-out). Geen Slowbrew-, Unfiltered- of multipackafbeelding gebruikt. De 330 ml-exportverpakking blijft onbevestigd.",
+        "sources": [
+          "https://en.tempo.co.il/brands/gold-star/"
+        ],
+        "candidates": [],
+        "checkedOn": "2026-09-07"
+      },
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "twijfel",
+        "bestSource": "Kedem Europe — distributeur",
+        "productPageUrl": "https://kedemeurope.com/spirits-liqueurs/goldstar-dark-lager-330ml/",
+        "directImageUrl": "https://kedemeurope.com/wp-content/uploads/2022/11/TB04-scaled.jpg",
+        "barcode": null,
+        "barcodeStatus": "niet gevonden",
+        "barcodeSource": null,
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "Vrijstaande enkele 330 ml Dark Lager-fles, rood/goud exportetiket. Afbeelding visueel bekeken; distributeurpagina bevestigt de 330 ml-foto."
+      },
+      "displayNameNl": "Goldstar Donker Lagerbier Original",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "volume": "330 ml",
+      "volumeSource": "Expliciete verpakkingsopgave gebruiker",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "water, GERSTEMOUT, hop.",
+        "allergens": [
+          "GERST",
+          "GLUTEN"
+        ],
+        "source": "https://israel-keizai.org/wp/wp-content/uploads/2022/04/31221-GS-export-brochure-ENG-NEW-DESIGN-High-res.pdf",
+        "note": "Tempo-exportbrochure: Goldstar Premium/Original, glazen fles 33 cl, 4,9%."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "040487211001",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    },
+    {
+      "id": 17,
+      "product": "Nesher Malt – 330 ml",
+      "imageSource": "https://ourbasket.com/products/malta-non-alcoholic-malt-beverage-11-2-fl-oz-nesher-gold-malt",
+      "imageUrl": "https://ourbasket.com/cdn/shop/products/malta-non-alcoholic-malt-beverage-112-fl-oz-nesher-gold-malt-783576.webp?v=1738164353",
+      "imageStatus": "originele internetpackshot",
+      "imageReview": "Originele webshop-packshot van één fles Nesher Malt; 330 ml op de afbeelding, bron vermeldt exact de opgegeven barcode en ingrediënten. Geen zichtbaar watermerk. Niet vergeleken met ontbrekende gebruikersfoto.",
+      "researchedSources": [
+        "https://en.tempo.co.il/brands/nesher/",
+        "https://gmi-trading.com/collections/kvas"
+      ],
+      "ean": "897285002016",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "pending": [
+        "Controle met de oorspronkelijke voor- en achterkantfoto"
+      ],
+      "checkedOn": "2026-09-07",
+      "israelResearch": {
+        "checkedOn": "2026-09-07",
+        "status": "gevonden",
+        "bestSource": "OurBasket — kosjere webshop",
+        "productPageUrl": "https://ourbasket.com/products/malta-non-alcoholic-malt-beverage-11-2-fl-oz-nesher-gold-malt",
+        "directImageUrl": "https://ourbasket.com/cdn/shop/products/malta-non-alcoholic-malt-beverage-112-fl-oz-nesher-gold-malt-783576.webp?v=1738164353",
+        "barcode": "897285002016",
+        "barcodeStatus": "reeds opgenomen",
+        "barcodeSource": "Door de gebruiker verstrekt; bevestigd op de productpagina van OurBasket en bij GMI Trading",
+        "referenceMatch": "Niet controleerbaar: schapfoto’s ontbreken in deze taak en het project.",
+        "note": "330 ml-exportverpakking; barcode door gebruiker aangeleverd. Al op Meter 3; geen schapfoto beschikbaar."
+      },
+      "displayNameNl": "Nesher Moutdrank",
+      "volume": "330 ml",
+      "volumeSource": "Expliciete verpakkingsopgave gebruiker",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "water, gemoute GERST, fructose, suiker, koolzuur, hop.",
+        "allergens": [
+          "GERST",
+          "GLUTEN"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "897285002016",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    },
+    {
+      "id": 18,
+      "product": "Osem Azijn 5% – 1 liter",
+      "displayNameNl": "Osem Azijn 5%",
+      "imageSource": "https://www.nestleprofessional.co.il/sm/hwmz-5-1-lytr",
+      "imageUrl": "https://www.nestleprofessional.co.il/sites/default/files/styles/np_product_detail/public/product_images/6920074_7290000272726.jpg?itok=qBjtCebY",
+      "imageStatus": "originele webfoto",
+      "imageReview": "Officiële Osem-packshot met 5% en 1 liter op etiket; visueel gecontroleerd.",
+      "ean": "7290000272726",
+      "eanSource": "https://oshek.co.il/product/7290000272726",
+      "ingredientsSource": "https://www.nestleprofessional.co.il/sm/hwmz-5-1-lytr",
+      "allergensSource": "https://www.nestleprofessional.co.il/sm/hwmz-5-1-lytr",
+      "checkedOn": "2026-09-07",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "water, azijn uit natuurlijke alcohol, conserveermiddel (SULFIET), kleurstof (karamel).",
+        "allergens": [
+          "SULFIET"
+        ],
+        "source": "https://www.nestleprofessional.co.il/sm/hwmz-5-1-lytr",
+        "note": "Officiële productinformatie."
+      }
+    },
+    {
+      "id": 19,
+      "product": "Lemon Flavored Juice / citroensap met citroensmaak",
+      "displayNameNl": "Citroensap met Citroensmaak",
+      "imageSource": "Door gebruiker aangeleverde vrijstaande productfoto",
+      "imageUrl": null,
+      "imageStatus": "aangeleverde productfoto",
+      "ean": "7290014755260",
+      "eanSource": "Nieuwste expliciete barcode-opgave van gebruiker in deze chat",
+      "ingredientsSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "allergensSource": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+      "nutritionSource": "Gebruiker: uitgeschreven etiketgegevens",
+      "volumeSource": "Expliciete verpakkingsopgave gebruiker",
+      "referencePhotosAvailable": false,
+      "pending": [
+        "Exacte verpakking en productnaam met voorkantfoto controleren",
+        "Barcode controleren",
+        "Ingrediënten inclusief dubbele citroenzuurvermelding en voedingswaarden controleren met achterkantfoto"
+      ],
+      "researchedSources": [
+        "https://www.ayaakov.co.il/products/item/1797",
+        "https://elisha.be/en/lemon-juice",
+        "https://elisha.be/en/lemon-juice-big",
+        "https://www.nestleprofessional.co.il/sm/myz-lymwn-mswmr-1-lytr"
+      ],
+      "imageReview": "Op gebruikersverzoek de achtergrond en reflectie buiten de fles vervangen door puur wit. Originele fles- en etiketpixels behouden; geen AI gebruikt. Originele aangeleverde afbeelding apart bewaard.",
+      "imageFile": "assets/images/meter-3/lemon-flavor-juice-white.png",
+      "originalImageFile": "assets/images/meter-3/lemon-flavor-juice-user.png",
+      "eanReview": "Officiële bron toont exact dezelfde foto, 1 liter en geldige EAN-13. Gebruiker autoriseert barcode en behoud Merkloos in weergavenaam. Niet uit barcode op foto afgelezen.",
+      "volume": "1 Liter",
+      "eanStatus": "Bevestigd volgens verpakkingsopgave gebruiker; checkdigit geldig",
+      "eanEvidenceNote": "Geen nieuwe directe fotoaflezing door assistent; dit zijn de door gebruiker doorgegeven etiketgegevens.",
+      "ingredientAudit": {
+        "checkedOn": "2026-09-07",
+        "status": "Ingevuld op basis van bevestigde bron",
+        "ingredients": "water, voedingszuur: citroenzuur, suiker, conserveermiddel: kaliumsorbaat.",
+        "allergens": [
+          "SULFIET"
+        ],
+        "source": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen.",
+        "note": "Gebruikersbevestiging gebruikt; geen nieuwe rechtstreekse fotocontrole uitgevoerd."
+      },
+      "barcodeDecision": {
+        "status": "Definitief volgens nieuwste gebruikersopgave",
+        "barcode": "7290014755260",
+        "checkdigitValid": true,
+        "onlineDifference": null
+      }
+    }
+  ],
+  "removedProducts": [
+    {
+      "id": 8,
+      "product": "Southern Land Extra Virgin Olive Oil – grote fles",
+      "reason": "Gebruiker bevestigt dat er geen grote Southern Land-olijfolie is; artikel verwijderd."
+    },
+    {
+      "id": 6,
+      "product": "Southern Land Avocado Oil – grote fles",
+      "reason": "Gebruiker vraagt Southern Land-avocado-olie met groene etiket te verwijderen; paarse versie blijft."
+    }
+  ],
+  "barcodeAudit": "Zie CONTROLE-EAN-INHOUD.md en controle-ean-inhoud.json. Geldige UPC-A van crema en Nesher behouden met toestemming gebruiker. Geen 12-cijferige code kunstmatig aangevuld. Geen producttelling gewijzigd.",
+  "ingredientsAuditSummary": {
+    "checkedOn": "2026-09-07",
+    "products": 17,
+    "complete": 17,
+    "pending": 0,
+    "report": "CONTROLE-INGREDIENTEN-ALLERGENEN.md",
+    "referenceNote": "Door gebruiker bevestigde etiketgegevens in deze chat (7 september 2026); oorspronkelijke achterkantfoto niet opnieuw afgelezen."
+  },
+  "barcodePolicy": "Bronvolgorde: nieuwste gebruikersfoto van fysieke verpakking > nieuwste expliciete barcode-opgave gebruiker > officiële fabrikant/importeur > overige internetbronnen. Nieuwste gebruikersopgave is definitief totdat gebruiker een nieuwere opgave aanlevert. Internetafwijkingen uitsluitend noteren, niet automatisch overschrijven. Controlecijfer en dubbele codes controleren."
+}

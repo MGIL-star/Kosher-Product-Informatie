@@ -1,0 +1,158 @@
+{
+  "note": "Bronvolgorde: nieuwste gebruikersfoto van fysieke verpakking > nieuwste expliciete barcode-opgave gebruiker > officiële fabrikant/importeur > overige internetbronnen. Nieuwste gebruikersopgave is definitief totdat gebruiker een nieuwere opgave aanlevert. Internetafwijkingen uitsluitend noteren, niet automatisch overschrijven. Controlecijfer en dubbele codes controleren.",
+  "rows": [
+    {
+      "id": 1,
+      "product": "Schneider’s Balsamicocrème",
+      "volume": "250 ml",
+      "packagingBarcode": "Niet opnieuw opgegeven",
+      "online": "Elisha: 250 ml, UPC 194961003061",
+      "source": "https://elisha.be/en/crema-balsamic-cream-of-modena",
+      "status": "✅ bevestigd via bron"
+    },
+    {
+      "id": 2,
+      "product": "Elisha Azijn",
+      "volume": "1 liter, 7°",
+      "packagingBarcode": "Niet opnieuw opgegeven",
+      "online": "Elisha: 1 liter, 5425000533481",
+      "source": "https://elisha.be/en/all-products/vinegar",
+      "status": "✅ bevestigd via bron"
+    },
+    {
+      "id": 18,
+      "product": "Osem Azijn 5%",
+      "volume": "1 liter, 5%",
+      "packagingBarcode": "Niet opnieuw opgegeven",
+      "online": "Osem/Nestlé: 1 liter, 7290000272726",
+      "source": "https://www.nestleprofessional.co.il/sm/hwmz-5-1-lytr",
+      "status": "✅ bevestigd via bron"
+    },
+    {
+      "id": 19,
+      "product": "Merkloos Citroensap met Citroensmaak",
+      "volume": "1 liter",
+      "packagingBarcode": "7290014755260",
+      "online": "Meulle: identieke foto, 1 liter en EAN",
+      "source": "https://www.meulle.co.il/product/מיץ-לימון/",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 3,
+      "product": "Schneider’s Zonnebloemolie in Spuitbus",
+      "volume": "182 g",
+      "packagingBarcode": "EAN nog te controleren",
+      "online": "Elisha: 182 g, kandidaat-UPC 194961001920; niet nieuw toegewezen",
+      "source": "https://elisha.be/en/sunflower-oil-spray",
+      "status": "❓ barcode nog te controleren"
+    },
+    {
+      "id": 4,
+      "product": "Schneider’s Olijfolie in Spuitbus",
+      "volume": "182 g",
+      "packagingBarcode": "194961001913",
+      "online": "Elisha bevestigt variant, 182 g en UPC",
+      "source": "https://elisha.be/en/olive-oil-spray",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 5,
+      "product": "Southern Land Avocado Olie",
+      "volume": "250 ml",
+      "packagingBarcode": "EAN nog te controleren",
+      "online": "IPC: paarse avocado-olie 250 ml; geen barcode",
+      "source": "https://www.israelwinkel.nl/producten/avocado-olie-extra-virgin",
+      "status": "❓ barcode nog te controleren"
+    },
+    {
+      "id": 7,
+      "product": "Southern Land Extra Virgin Olijfolie",
+      "volume": "250 ml",
+      "packagingBarcode": "EAN nog te controleren",
+      "online": "IPC: Extra Virgin olijfolie 250 ml; geen barcode",
+      "source": "https://www.israelwinkel.nl/producten/olijfolie-extra-virgin",
+      "status": "❓ barcode nog te controleren"
+    },
+    {
+      "id": 9,
+      "product": "Zeta Extra Virgin Olijfolie",
+      "volume": "750 ml",
+      "packagingBarcode": "EAN nog te controleren",
+      "online": "Code 603741001161 niet aan Zeta toegewezen: nieuwste gebruikersopgave koppelt deze aan Saba.",
+      "source": "https://www.kayco.com/product/zeta-extra-virgin-olive-oil-750-ml/",
+      "status": "❓ barcode nog te controleren"
+    },
+    {
+      "id": 10,
+      "product": "Saba Extra Virgin Olijfolie",
+      "volume": "750 ml",
+      "packagingBarcode": "603741001161",
+      "online": "Kayco vermeldt dezelfde code bij Zeta; alleen als afwijking genoteerd. Saba houdt gebruikerscode 603741001161.",
+      "source": "https://www.kayco.com/product/zeta-extra-virgin-olive-oil-750-ml/",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 11,
+      "product": "Elisha Koolzaadolie",
+      "volume": "1 liter",
+      "packagingBarcode": "5425000533795",
+      "online": "Elisha bevestigt koolzaadolie, 1 liter en EAN",
+      "source": "https://elisha.be/en/Canola-Oil",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 12,
+      "product": "Elisha Zonnebloemolie",
+      "volume": "1 liter",
+      "packagingBarcode": "5425000533801",
+      "online": "Elisha bevestigt zonnebloemolie, 1 liter en EAN",
+      "source": "https://elisha.be/en/Sunflower-Oil",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 13,
+      "product": "BLU Energiedrank Day",
+      "volume": "250 ml",
+      "packagingBarcode": "EAN nog te controleren",
+      "online": "Kandidaat 5904941751920 voor Day 250 ml; niet nieuw toegewezen",
+      "source": "https://waselne.com/barcode/5904941751920",
+      "status": "❓ barcode nog te controleren"
+    },
+    {
+      "id": 14,
+      "product": "BLU Energiedrank Mojito",
+      "volume": "250 ml",
+      "packagingBarcode": "EAN nog te controleren",
+      "online": "Kandidaat 5904941750312 voor Mojito 250 ml; niet nieuw toegewezen",
+      "source": "https://savemycart.net/product/12902",
+      "status": "❓ barcode nog te controleren"
+    },
+    {
+      "id": 15,
+      "product": "BLU Energiedrank Original",
+      "volume": "250 ml",
+      "packagingBarcode": "7350033980132",
+      "online": "BLU 250 ml met dezelfde code gevonden; webshopvermelding per doos van 24. Gebruiker specificeert blauw/oranje Original",
+      "source": "https://rozetka.com.ua/blu_energy_drink_5904941751302_7350033980132/p52094892/",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 16,
+      "product": "Goldstar Donker Lagerbier Original",
+      "volume": "330 ml",
+      "packagingBarcode": "040487211001",
+      "online": "Geen exacte online barcodematch gevonden; geldige UPC-A, bevestigd door gebruiker",
+      "source": null,
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    },
+    {
+      "id": 17,
+      "product": "Nesher Moutdrank",
+      "volume": "330 ml",
+      "packagingBarcode": "897285002016",
+      "online": "330 ml en dezelfde UPC bevestigd",
+      "source": "https://www.food-showcase.com/products/3800-nesher-malt-330-ml",
+      "status": "✅ definitief volgens nieuwste gebruikersopgave"
+    }
+  ]
+}
