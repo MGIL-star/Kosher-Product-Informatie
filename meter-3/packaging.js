@@ -1,4 +1,4 @@
-// Extra verpakkingen binnen de bestaande productkaart, alleen voor Meter 3.
+// Extra verpakkingen als zelfstandige productkaarten, alleen voor Meter 3.
 (function () {
   const grid = document.querySelector('#product-grid');
   const observer = new MutationObserver(addPackagingCards);
@@ -47,30 +47,5 @@
         container.querySelector('.dialog-heading > span').textContent = selected.quantity + ' × ' + selected.unitContent + (product.alcoholLabel ? ' · Alcohol: ' + product.alcoholLabel : '');
       }
     }
-    const section = document.createElement('section');
-    section.className = 'packaging-variants';
-    const heading = document.createElement('h3');
-    heading.textContent = 'Extra Verpakking';
-    section.append(heading);
-    for (const variant of product.packagingVariants) {
-      const figure = document.createElement('figure');
-      if (variant.image) {
-        const image = document.createElement('img');
-        image.src = variant.image;
-        image.alt = variant.imageAlt;
-        image.loading = 'lazy';
-        figure.append(image);
-      }
-      const caption = document.createElement('figcaption');
-      caption.textContent = variant.name + ' · ' + variant.quantity + ' × ' + variant.unitContent + (product.alcoholLabel ? ' · Alcohol: ' + product.alcoholLabel : '');
-      figure.append(caption);
-      if (!variant.image) {
-        const pending = document.createElement('p');
-        pending.textContent = 'Verpakkingsfoto volgt';
-        figure.append(pending);
-      }
-      section.append(figure);
-    }
-    container.insertBefore(section, container.querySelector('.ean'));
   });
 }());

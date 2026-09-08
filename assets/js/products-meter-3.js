@@ -56,38 +56,7 @@ window.KPI_PRODUCTS = [
       "SULFIET"
     ],
     "ean": "7290014755260",
-    "image": "../assets/images/meter-3/lemon-flavor-juice-white.png",
-    "nutrition": [
-      [
-        "Energie",
-        "12 kcal"
-      ],
-      [
-        "Vet",
-        "0 g"
-      ],
-      [
-        "Verzadigd vet",
-        "0 g"
-      ],
-      [
-        "Koolhydraten",
-        "0 g"
-      ],
-      [
-        "Suikers",
-        "0 g"
-      ],
-      [
-        "Eiwit",
-        "0 g"
-      ],
-      [
-        "Natrium",
-        "0 g"
-      ]
-    ],
-    "nutritionNote": "Volgens de aangeleverde etiketgegevens."
+    "image": "../assets/images/meter-3/lemon-flavor-juice-white.png"
   },
   {
     "id": 3,
@@ -100,7 +69,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet beschikbaar",
+    "ean": "194961001920",
     "image": "../assets/images/meter-3/controle-3-spray-sunflower.jpg"
   },
   {
@@ -156,7 +125,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet beschikbaar",
+    "ean": "603741001161",
     "image": "../assets/images/meter-3/controle-9-zeta-export.jpg"
   },
   {
@@ -212,7 +181,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet beschikbaar",
+    "ean": "7350033980149",
     "image": "../assets/images/meter-3/controle-13-blu-day.webp"
   },
   {
