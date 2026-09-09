@@ -4,6 +4,9 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
+    "kosher": "Rabbi E.L. Schneebalg · STAR-K",
+    "kosherSource": "https://elisha.be/en/all-products/crema-balsamic-cream-of-modena",
+    "kosherStatus": "online-source",
     "brand": "Schneider’s",
     "name": "Balsamicocrème",
     "englishName": "",
@@ -18,6 +21,9 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
+    "kosher": "Machsike Hadass Antwerpen",
+    "kosherSource": "https://elisha.be/en/all-products/vinegar",
+    "kosherStatus": "online-source",
     "brand": "Elisha",
     "name": "Azijn",
     "englishName": "",
@@ -32,12 +38,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
+    "kosher": "Badatz Eda HaCharedit",
+    "kosherSource": "https://hahishook.com/product/חומץ-5/",
+    "kosherStatus": "online-source",
     "brand": "Osem",
     "name": "Azijn 5%",
     "englishName": "",
     "variant": "1 Liter",
     "category": "Azijn",
-    "ingredients": "water, azijn uit natuurlijke alcohol, conserveermiddel (SULFIET), kleurstof (karamel).",
+    "ingredients": "Water, azijn uit natuurlijke alcohol, conserveermiddel sulfiet, kleurstof karamel.",
     "allergens": [
       "SULFIET"
     ],
@@ -46,12 +55,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 19,
+    "kosher": "Badatz Eda HaCharedit",
+    "kosherSource": "https://www.meulle.co.il/product/מיץ-לימון/",
+    "kosherStatus": "online-source",
     "brand": "Merkloos",
     "name": "Citroensap met Citroensmaak",
     "englishName": "",
     "variant": "1 Liter",
     "category": "Dranken",
-    "ingredients": "water, voedingszuur: citroenzuur, suiker, conserveermiddel: kaliumsorbaat.",
+    "ingredients": "Water, voedingszuur citroenzuur, suiker, conserveermiddel kaliumsorbaat.",
     "allergens": [
       "SULFIET"
     ],
@@ -60,12 +72,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
+    "kosher": "CRC Hisachdus Harabonim · Rabbi E.L. Schneebalg · OK Kosher",
+    "kosherSource": "https://elisha.be/en/shneiders/sunflower-oil-spray",
+    "kosherStatus": "online-source",
     "brand": "Schneider’s",
     "name": "Zonnebloemolie in Spuitbus",
     "englishName": "",
     "variant": "182 g",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% geraffineerde zonnebloemolie. Drijfgas: perslucht.",
+    "ingredients": "100% geraffineerde zonnebloemolie. Het drijfgas is perslucht.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -74,12 +89,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
+    "kosher": "CRC Hisachdus Harabonim · Rabbi E.L. Schneebalg · OK Kosher",
+    "kosherSource": "https://elisha.be/en/olive-oil-spray",
+    "kosherStatus": "online-source",
     "brand": "Schneider’s",
     "name": "Olijfolie in Spuitbus",
     "englishName": "",
     "variant": "182 g",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% extra vierge olijfolie. Drijfgas: perslucht.",
+    "ingredients": "100% extra vierge olijfolie. Het drijfgas is perslucht.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -88,40 +106,49 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
+    "kosher": "OU (Orthodox Union)",
+    "kosherStatus": "user-confirmed",
+    "kosherSource": "Gebruikersopgave 9 september 2026",
     "brand": "Southern Land",
     "name": "Avocado Olie",
     "englishName": "",
     "variant": "250 ml",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% avocado-olie.",
+    "ingredients": "100% avocado olie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet beschikbaar",
+    "ean": "7290020340047",
     "image": "../assets/images/meter-3/southern-land-avocado-paars-250ml.jpg"
   },
   {
     "id": 7,
+    "kosher": "OU (Orthodox Union)",
+    "kosherStatus": "user-confirmed",
+    "kosherSource": "Gebruikersopgave 9 september 2026",
     "brand": "Southern Land",
     "name": "Extra Virgin Olijfolie",
     "englishName": "",
     "variant": "250 ml",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% koudgeperste extra vierge olijfolie.",
+    "ingredients": "100% koudgeperste extra vierge olijfolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet beschikbaar",
+    "ean": "7290020340054",
     "image": "../assets/images/meter-3/southern-land-olive-oil-groot-250ml.jpg"
   },
   {
     "id": 9,
+    "kosher": "OU (Orthodox Union)",
+    "kosherSource": "https://www.kayco.com/product/zeta-extra-virgin-olive-oil-750-ml/",
+    "kosherStatus": "online-source",
     "brand": "Zeta",
     "name": "Extra Virgin Olijfolie",
     "englishName": "",
     "variant": "750 ml",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% extra vierge olijfolie.",
+    "ingredients": "100% extra vierge olijfolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -135,21 +162,24 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "750 ml",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% extra vierge olijfolie.",
+    "ingredients": "100% extra vierge olijfolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "603741001161",
+    "ean": "Niet bekend",
     "image": "../assets/images/meter-3/saba-extra-virgin-750ml-ipc.jpg"
   },
   {
     "id": 11,
+    "kosher": "Machsike Hadass Antwerpen",
+    "kosherSource": "https://elisha.be/en/Canola-Oil",
+    "kosherStatus": "online-source",
     "brand": "Elisha",
     "name": "Koolzaadolie",
     "englishName": "",
     "variant": "1 Liter",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% koolzaadolie (canola-olie).",
+    "ingredients": "100% koolzaadolie (canola olie).",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -158,12 +188,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 12,
+    "kosher": "Machsike Hadass Antwerpen",
+    "kosherSource": "https://elisha.be/en/Sunflower-Oil",
+    "kosherStatus": "online-source",
     "brand": "Elisha",
     "name": "Zonnebloemolie",
     "englishName": "",
     "variant": "1 Liter",
     "category": "Oliën",
-    "ingredients": "Eén ingrediënt: 100% zonnebloemolie.",
+    "ingredients": "100% zonnebloemolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -172,12 +205,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
+    "kosher": "OK Kosher · BIR (Badatz Igud Harabbonim)",
+    "kosherSource": "https://kusher.world/product/משקה-אנרגיה-בלו-דיי-blu-day/",
+    "kosherStatus": "online-source",
     "brand": "BLU",
     "name": "Energiedrank Day",
     "englishName": "",
     "variant": "250 ml",
     "category": "Dranken",
-    "ingredients": "Water, suiker, koolzuur, voedingszuren: citroenzuur (E330), natriumcitraten (E331), taurine (250 mg/100 ml), guarana-extract, cafeïne (15 mg/100 ml), aroma’s, kleurstoffen E129 en E133, vitaminen: niacine (B3), vitamine B6, vitamine B12.",
+    "ingredients": "Water, suiker, koolzuur, voedingszuren citroenzuur (E330), natriumcitraten (E331), taurine (250 mg/100 ml), guarana-extract, cafeïne (15 mg/100 ml), aroma’s, kleurstoffen E129 en E133, vitaminen niacine (B3), vitamine B6, vitamine B12.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -186,6 +222,9 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
+    "kosher": "BIR (Badatz Igud Harabbonim)",
+    "kosherSource": "https://www.school-market.co.il/פחית-בלו-מוחיטו--124-i907",
+    "kosherStatus": "online-source",
     "brand": "BLU",
     "name": "Energiedrank Mojito",
     "englishName": "",
@@ -195,11 +234,14 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet beschikbaar",
+    "ean": "5904941750312",
     "image": "../assets/images/meter-3/controle-14-blu-mojito.webp"
   },
   {
     "id": 15,
+    "kosher": "OK Kosher",
+    "kosherSource": "https://www.ok.org/consumers/a-closer-look-alcohol-beverages/kosher-energy-drinks/",
+    "kosherStatus": "online-source",
     "brand": "BLU",
     "name": "Energiedrank Original",
     "englishName": "",
@@ -214,12 +256,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
+    "kosher": "Rabbinaat Netanya",
+    "kosherSource": "https://www.tempo.co.il/brands/gold-star/",
+    "kosherStatus": "online-source",
     "brand": "Goldstar",
     "name": "Donker Lagerbier Original",
     "englishName": "",
     "variant": "330 ml · Alcohol: 4,9% vol.",
     "category": "Dranken",
-    "ingredients": "water, GERSTEMOUT, hop.",
+    "ingredients": "Water, gerstemout, hop.",
     "allergens": [
       "GERST",
       "GLUTEN"
@@ -242,12 +287,15 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
+    "kosher": "Badatz Eda HaCharedit",
+    "kosherSource": "https://en.tempo.co.il/brands/nesher/",
+    "kosherStatus": "online-source",
     "brand": "Nesher",
     "name": "Moutdrank",
     "englishName": "",
     "variant": "330 ml · Alcohol: max. 0,5% vol.",
     "category": "Dranken",
-    "ingredients": "water, gemoute GERST, fructose, suiker, koolzuur, hop.",
+    "ingredients": "Water, gemoute gerst, fructose, suiker, koolzuur, hop.",
     "allergens": [
       "GERST",
       "GLUTEN"

@@ -56,7 +56,9 @@
 
   function openProduct(product) {
     const allergens = product.allergens.length
-      ? product.allergens.map(item => `<span class="allergen">${escapeHtml(item)}</span>`).join('')
+      ? product.allergens.map(item => /^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(item.trim())
+        ? '<span class="allergen-free">Geen declaratieplichtige allergenen vermeld</span>'
+        : `<span class="allergen">${escapeHtml(item)}</span>`).join('')
       : '<span class="allergen-free">Geen declaratieplichtige allergenen vermeld</span>';
     dialogContent.innerHTML = `<div class="dialog-product">
       ${productImage(product, true)}
@@ -65,6 +67,7 @@
       <section><h3>Ingrediënten</h3><p>${escapeHtml(product.ingredients)}</p></section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div></section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
+      ${product.kosher ? `<section class="hechsher"><h3>Hechsher</h3><p>${escapeHtml(product.kosher)}</p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || 'Niet bekend')}</p></section>
     </div>`;
     dialog.showModal();

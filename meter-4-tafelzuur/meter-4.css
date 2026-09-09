@@ -23,3 +23,12 @@
 .card-action {
   padding: 10px 14px 14px;
 }
+
+.product-warning {
+  background: #fff1ee;
+  border-color: #d99b90;
+}
+.product-warning h3,
+.product-warning p {
+  color: #9f241c;
+}

@@ -5,15 +5,16 @@ window.KPI_PRODUCTS = [
     "brand": "A&B Famous",
     "category": "Vis",
     "variant": "400 g",
-    "ingredients": "VIS (heek: Merluccius capensis/paradoxus), paneermeel (TARWEbloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen [natriumbicarbonaat, natriumfosfaat], emulgator [mono- en diglyceriden, xanthaangom]), maïsbloem, geel maïsmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. Kort voorgebakken in zonnebloemolie.",
+    "ingredients": "vis (heek merluccius capensis/paradoxus), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen natriumbicarbonaat en natriumfosfaat, emulgator monoglyceriden en diglyceriden en xanthaangom), maïsbloem, geel maïsmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. kort voorgebakken in zonnebloemolie.",
     "allergens": [
       "VIS",
       "TARWE"
     ],
     "allergenNote": "",
-    "kosher": "Nog niet onafhankelijk bevestigd voor deze verpakkingsuitvoering.",
+    "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
-    "image": "./images/01-vissticks.jpg"
+    "image": "./images/01-vissticks.jpg",
+    "ean": "732973000083"
   },
   {
     "id": 2,
@@ -21,15 +22,16 @@ window.KPI_PRODUCTS = [
     "brand": "A&B Famous",
     "category": "Vis",
     "variant": "400 g",
-    "ingredients": "VIS (tilapia), paneermeel (TARWEbloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen [natriumbicarbonaat, natriumfosfaat], emulgator [mono- en diglyceriden, xanthaangom]), geel maïsmeel, maïszetmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. Kort voorgebakken in koolzaadolie.",
+    "ingredients": "vis (tilapia), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen natriumbicarbonaat en natriumfosfaat, emulgator monoglyceriden en diglyceriden en xanthaangom), geel maïsmeel, maïszetmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. kort voorgebakken in koolzaadolie.",
     "allergens": [
       "VIS",
       "TARWE"
     ],
     "allergenNote": "",
-    "kosher": "OU / parve en CRC zichtbaar op de online verpakking van dit product. Overige zegels nog niet volledig bevestigd.",
+    "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
-    "image": "./images/02-gepaneerde-tilapianuggets.jpg"
+    "image": "./images/02-gepaneerde-tilapianuggets.jpg",
+    "ean": "732973000809"
   },
   {
     "id": 3,
@@ -37,14 +39,16 @@ window.KPI_PRODUCTS = [
     "brand": "A&B Famous",
     "category": "Vis",
     "variant": "400 g",
-    "ingredients": "Tilapia (VIS).",
+    "ingredients": "tilapia (vis).",
     "allergens": [
-      "VIS"
+      "VIS",
+      "TARWE"
     ],
-    "allergenNote": "De online productpagina vermeldt ook tarwe, maar geeft uitsluitend tilapia als ingrediënt op. Deze tegenstrijdigheid moet nog op het etiket worden gecontroleerd.",
-    "kosher": "OU-P / parve en CRC zichtbaar op de online verpakking van dit product. De verpakking vermeldt ook geschikt voor Pesach; controle van de actuele verpakking blijft nodig.",
+    "allergenNote": "Allergenen volgens de online productinformatie; nog te controleren op de verpakking.",
+    "kosher": "OU en CRC (Central Rabbinical Congress). De getoonde verpakking vermeldt ook geschikt voor Pesach.",
     "note": "",
-    "image": "./images/03-tilapiafilets.jpg"
+    "image": "./images/03-tilapiafilets.jpg",
+    "ean": "732973000120"
   },
   {
     "id": 4,
@@ -52,13 +56,13 @@ window.KPI_PRODUCTS = [
     "brand": "A&B Famous",
     "category": "Vis",
     "variant": "454 g",
-    "ingredients": "VIS (tilapia), paneermeel (TARWEbloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen [natriumbicarbonaat, natriumfosfaat], emulgator [mono- en diglyceriden, xanthaangom]), maïsbloem, maïszetmeel, aardappelzetmeel, zout, guargom, knoflookpoeder, specerijen. Voorgebakken in koolzaadolie.",
+    "ingredients": "vis (tilapia), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen natriumbicarbonaat en natriumfosfaat, emulgator monoglyceriden en diglyceriden en xanthaangom), maïsbloem, maïszetmeel, aardappelzetmeel, zout, guargom, knoflookpoeder, specerijen. voorgebakken in koolzaadolie.",
     "allergens": [
       "VIS",
       "TARWE"
     ],
     "allergenNote": "",
-    "kosher": "OU / parve, CRC, Pas Yisroel en Yoshon staan op de verpakking. CRC wordt ook vermeld door distributeur Hatov voor de verpakking van 454 g.",
+    "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
     "image": "./images/04-gepaneerde-tilapiafilets.jpg"
   },
@@ -67,29 +71,30 @@ window.KPI_PRODUCTS = [
     "name": "Runderburgers",
     "brand": "Prime Cut",
     "category": "Rundvlees",
-    "variant": "4 stuks",
-    "ingredients": "Nog te controleren: de volledige ingrediëntenlijst en E-nummers zijn niet scherp genoeg leesbaar. Leesbaar is onder meer rundvlees (85%).",
+    "variant": "4 x 100 g",
+    "ingredients": "Rundvlees (85%), ui, water, specerijen (SOJA, SELDERIJ, SULFIETEN), smeltzouten (E450, E451), zuurteregelaars (E500, E516), smaakversterker (E621), aardappelzetmeel.",
     "allergens": [
       "SOJA",
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Leesbaar op het Prime Cut-etiket.",
-    "kosher": "Kedassia, Londen, volgens distributeur Hatov voor Prime Cut-runderburgers. Nog te bevestigen voor deze verpakkingsuitvoering.",
+    "kosher": "Kedassia",
     "note": "",
-    "image": "./images/05-runderburgers.png"
+    "image": "./images/05-runderburgers.png",
+    "ean": "5060199311610"
   },
   {
     "id": 6,
     "name": "Rundergehakt",
-    "brand": "Kowalczyk",
+    "brand": "Glatt Kosher",
     "category": "Rundvlees",
     "variant": "",
     "ingredients": "Rundergehakt",
     "allergens": [],
     "allergenNote": "",
     "kosher": "Glatt Beth Josef LaMehadrin",
-    "note": "De merk-/leverancierskoppeling van dit gehakt wordt nog gecontroleerd.",
+    "note": "",
     "image": "./images/06-rundergehakt.jpg",
     "allergensConfirmedAbsent": true
   },
@@ -102,7 +107,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/07-kippenfilet.png",
     "allergensConfirmedAbsent": true
@@ -116,7 +121,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/08-kippendrumsticks.png",
     "allergensConfirmedAbsent": true
@@ -130,7 +135,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/09-kippenvleugels.png",
     "allergensConfirmedAbsent": true
@@ -144,7 +149,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/10-kippendrumettes.png",
     "allergensConfirmedAbsent": true
@@ -158,7 +163,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/11-kippenbillen.png",
     "allergensConfirmedAbsent": true
@@ -172,7 +177,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/12-kippendijvlees.png",
     "allergensConfirmedAbsent": true
@@ -186,7 +191,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/13-hele-kip.png",
     "allergensConfirmedAbsent": true
@@ -200,7 +205,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "Dit product is rauwe, dun gesneden kipfilet, zonder panering of paneermeel.",
     "image": "./images/14-kip-schnitzels-gesneden.png",
     "allergensConfirmedAbsent": true
@@ -214,7 +219,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/16-kip-gehakt.png",
     "allergensConfirmedAbsent": true
@@ -228,7 +233,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% kip",
     "allergens": [],
     "allergenNote": "",
-    "kosher": "Badatz Amsterdam - Rav Wolf",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/15-kip-karbonade.png",
     "allergensConfirmedAbsent": true
