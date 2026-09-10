@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123c32">
+  <meta name="description" content="Ingrediënten en allergenen van de producten bij Diepvries schap 2.">
+  <title>Diepvries schap 2 | Kosher Product Informatie</title>
+  <link rel="stylesheet" href="../assets/css/styles.css">
+  <link rel="stylesheet" href="../meter-4-tafelzuur/meter-4.css">
+  <link rel="stylesheet" href="../assets/css/catalog-responsive.css">
+  <link rel="stylesheet" href="./diepvries.css">
+</head>
+<body>
+  <header class="site-header compact">
+    <a class="brand" href="../" aria-label="Terug naar de startpagina">
+      <span class="brand-mark" aria-hidden="true">K</span>
+      <span>Kosher Product Informatie</span>
+    </a>
+  </header>
+
+  <main class="catalog-main">
+    <nav class="breadcrumb" aria-label="Kruimelpad"><a href="../">Start</a><span aria-hidden="true">/</span><span>Diepvries schap 2</span></nav>
+    <section class="catalog-intro">
+      <p class="eyebrow">Diepvries</p>
+      <h1>Diepvries schap 2</h1>
+      <p>Bekijk de Nederlandse ingrediënten en allergenen van de producten in dit schap.</p>
+    </section>
+
+    <section class="catalog-tools" aria-label="Producten zoeken en filteren">
+      <label class="search-box">
+        <span class="sr-only">Zoek een product of merk</span>
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" inputmode="search" autocomplete="off" placeholder="Zoek product of merk…">
+      </label>
+      <div class="filters" role="group" aria-label="Filter op productsoort">
+        <button class="filter active" type="button" data-filter="Alle" aria-pressed="true">Alle</button>
+        <button class="filter" type="button" data-filter="Bagels" aria-pressed="false">Bagels</button>
+        <button class="filter" type="button" data-filter="Bourekas" aria-pressed="false">Bourekas</button>
+        <button class="filter" type="button" data-filter="Hartige Snacks" aria-pressed="false">Hartige Snacks</button>
+        <button class="filter" type="button" data-filter="Jachnun &amp; Malawach" aria-pressed="false">Jachnun &amp; Malawach</button>
+        <button class="filter" type="button" data-filter="Deeg" aria-pressed="false">Deeg</button>
+        <button class="filter" type="button" data-filter="Desserts" aria-pressed="false">Desserts</button>
+        <button class="filter" type="button" data-filter="Vis" aria-pressed="false">Vis</button>
+        <button class="filter" type="button" data-filter="Pizza" aria-pressed="false">Pizza</button>
+      </div>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+    </section>
+
+    <section id="product-grid" class="product-grid" aria-label="Producten"></section>
+    <div id="empty-state" class="empty-state" hidden>
+      <strong id="empty-title">Nog geen producten toegevoegd</strong>
+      <p id="empty-copy">Diepvries schap 2 staat klaar voor de echte productgegevens.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer" data-site-disclaimer></footer>
+
+  <dialog id="product-dialog" class="product-dialog" aria-labelledby="dialog-title">
+    <button class="dialog-close" type="button" aria-label="Sluiten">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+
+  <script src="./products.js?v=tekstcontrole-10"></script>
+  <script src="./catalog.js?v=tekstcontrole-10"></script>
+</body>
+</html>
