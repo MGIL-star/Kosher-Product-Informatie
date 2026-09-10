@@ -41,10 +41,9 @@ window.KPI_PRODUCTS = [
     "variant": "400 g",
     "ingredients": "tilapia (vis).",
     "allergens": [
-      "VIS",
-      "TARWE"
+      "VIS"
     ],
-    "allergenNote": "Allergenen volgens de online productinformatie; nog te controleren op de verpakking.",
+    "allergenNote": "",
     "kosher": "OU en CRC (Central Rabbinical Congress). De getoonde verpakking vermeldt ook geschikt voor Pesach.",
     "note": "",
     "image": "./images/03-tilapiafilets.jpg",
@@ -64,7 +63,8 @@ window.KPI_PRODUCTS = [
     "allergenNote": "",
     "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
-    "image": "./images/04-gepaneerde-tilapiafilets.jpg"
+    "image": "./images/04-gepaneerde-tilapiafilets.jpg",
+    "ean": "732973000816"
   },
   {
     "id": 5,

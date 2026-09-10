@@ -166,7 +166,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Geen allergenen vermeld"
     ],
-    "ean": "Niet bekend",
+    "ean": "890261002253",
     "image": "../assets/images/meter-3/saba-extra-virgin-750ml-ipc.jpg"
   },
   {
