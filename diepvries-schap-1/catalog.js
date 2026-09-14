@@ -19,6 +19,14 @@
   const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
   const normalize = (value) => value.toLocaleLowerCase('nl-NL').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 
+  function hechsherText(value) {
+    let text = String(value);
+    text = text.replace(/^Kosher Parve\s*·\s*([^·.]+)/i, '$1 (Parve)');
+    text = text.replace(/^Parve\s*·\s*([^·.]+)/i, '$1 (Parve)');
+    text = text.replace(/\s*·\s*Parve\b/gi, ' (Parve)');
+    return text.replace(/\s*[·,]\s*/g, ' ').replace(/\.$/, '').trim();
+  }
+
   function productImage(product, large = false) {
     const sizeClass = large ? ' product-visual-large' : '';
     if (product.image) {
@@ -66,7 +74,7 @@
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      <section><h3>Hechsher / kosherinformatie</h3><p>${escapeHtml(product.kosher)}</p></section>${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
+      <section><h3>Hechsher / kosherinformatie</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
     </div>`;
     dialog.showModal();
   }
