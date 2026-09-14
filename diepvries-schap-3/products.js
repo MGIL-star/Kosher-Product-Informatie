@@ -814,7 +814,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Rio Minies",
-    "name": "Mini ijsjes chocolade & krokante rijst",
+    "name": "Mini ijsjes Chocolade & Krokante Rijst",
     "englishName": "",
     "variant": "32 stuks · 608 g",
     "category": "IJs",
@@ -861,7 +861,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "brand": "Rio Minies",
-    "name": "Mini ijsjes vanille & aardbei",
+    "name": "Mini ijsjes Vanille & Aardbei",
     "englishName": "",
     "variant": "32 stuks · 704 g",
     "category": "IJs",
