@@ -49,6 +49,82 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "brand": "Chicof",
+    "englishName": "",
+    "variant": "600 g",
+    "category": "Kipproducten",
+    "ingredientNote": "",
+    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
+    "kosherNote": "",
+    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
+    "reviewNeeded": [],
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Detailfoto van de fysieke verpakking",
+    "reviewStatus": "Etiket verwerkt",
+    "id": 23,
+    "name": "Kipschnitzels",
+    "ingredients": "vleesgedeelte 63% (kippenvlees 76%, water, aardappelzetmeel, plantaardige vezels (soja, cellulose), soja-eiwitisolaat, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), maïsmeel, maltodextrine), paneerlaag 37% (paneermeel 42% (tarwebloem, gist, zout, paprikapoeder, kleurstof paprika-extract, gerstemoutextract), paneermeel 35% (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water)",
+    "allergens": [
+      "TARWE",
+      "GERST",
+      "SOJA"
+    ],
+    "ean": "3770021861566",
+    "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
+    "image": "./images/chicof-schnitzel-web.jpg",
+    "imageSource": {
+      "type": "Distributeur",
+      "page": "https://msdistribution.be/index.php?route=product/product&product_id=838",
+      "url": "https://msdistribution.be/image/cache/data/Schintzel-500x500.jpg"
+    },
+    "labelSource": {
+      "photos": [
+        "084d3f93-1cc8-4b62-92ec-bb0a496b58d3.jpg",
+        "470759f3-a961-4dfe-8c78-19b70394ae6b.jpg"
+      ],
+      "priority": "Fysieke verpakking van gebruiker"
+    }
+  },
+  {
+    "brand": "Chicof",
+    "englishName": "",
+    "variant": "600 g",
+    "category": "Kipproducten",
+    "ingredientNote": "",
+    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
+    "kosherNote": "",
+    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
+    "reviewNeeded": [],
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Detailfoto van de fysieke verpakking",
+    "reviewStatus": "Etiket verwerkt",
+    "id": 24,
+    "name": "Kiptenders",
+    "ingredients": "Vleesgedeelte 67% (kipfilet 97%, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), dextrose, chilipoeder, gemalen zwarte peper, water), paneerlaag 33% (paneermeel (tarwebloem, zout, gist, specerijen (paprika, kurkuma)), paneermeel (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water).",
+    "allergens": [
+      "TARWE"
+    ],
+    "ean": "3770021861191",
+    "kosher": "Rav Yisroel Yosef HaCohen Hendel (Kosher Lemehadrin) Shechitat Lubavitch",
+    "image": "./images/chicof-tenders-packshot.png",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "4a1f51e1-ccd8-406e-97b7-ad20b8f121ef.jpg",
+      "edit": "Achtergrond verwijderd en verpakking rechtgezet met beeldbewerking; illustratie"
+    },
+    "labelSource": {
+      "photos": [
+        "4a1f51e1-ccd8-406e-97b7-ad20b8f121ef.jpg",
+        "df21c598-ff17-471d-8283-85fa4fbc1cf8.jpg"
+      ],
+      "priority": "Fysieke verpakking van gebruiker"
+    }
+  },
+  {
     "id": 2,
     "brand": "Lutosa",
     "name": "Classic Friet",
