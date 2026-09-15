@@ -25,3 +25,9 @@
 }
 
 /* Waarschuwingen gebruiken de gedeelde stijl in assets/css/styles.css. */
+
+/* Compenseer de ruime witte rand in de foto van de hete pepers. */
+.product-visual img[src$="shmurei-yavne-pickled-hot-peppers-own-photo.png"] {
+  padding: 0;
+  transform: scale(1.45);
+}
