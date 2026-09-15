@@ -697,7 +697,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/06-eigen-foto.jpg",
+    "image": "./images/hatov-06-straight.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
@@ -711,10 +711,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Eigen verpakkingsfoto",
-      "file": "8.jpg",
-      "edit": "Fotografische uitsnede, rechtop gedraaid en gecentreerd op wit. Geen AI-gegenereerde productpixels gebruikt",
-      "research": "Geen betrouwbare internetfoto van exact deze variant gevonden bij de geraadpleegde fabrikant-, distributeur- en winkelbronnen"
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
@@ -738,7 +737,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/07-eigen-foto.jpg",
+    "image": "./images/hatov-07-straight.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
@@ -752,10 +751,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Eigen verpakkingsfoto",
-      "file": "10.jpg",
-      "edit": "Fotografische uitsnede, rechtop gedraaid en gecentreerd op wit. Geen AI-gegenereerde productpixels gebruikt",
-      "research": "Geen betrouwbare internetfoto van exact deze variant gevonden bij de geraadpleegde fabrikant-, distributeur- en winkelbronnen"
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
@@ -778,7 +776,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 25 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/08-eigen-foto.jpg",
+    "image": "./images/hatov-08-straight.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
@@ -792,10 +790,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Eigen verpakkingsfoto",
-      "file": "12.jpg",
-      "edit": "Fotografische uitsnede, rechtop gedraaid en gecentreerd op wit. Geen AI-gegenereerde productpixels gebruikt",
-      "research": "Geen betrouwbare internetfoto van exact deze variant gevonden bij de geraadpleegde fabrikant-, distributeur- en winkelbronnen"
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
@@ -818,7 +815,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/09-eigen-foto.jpg",
+    "image": "./images/hatov-09-straight.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
@@ -832,10 +829,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Eigen verpakkingsfoto",
-      "file": "14.jpg",
-      "edit": "Fotografische uitsnede, rechtop gedraaid en gecentreerd op wit. Geen AI-gegenereerde productpixels gebruikt",
-      "research": "Geen betrouwbare internetfoto van exact deze variant gevonden bij de geraadpleegde fabrikant-, distributeur- en winkelbronnen"
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
@@ -858,7 +854,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/11-eigen-foto.jpg",
+    "image": "./images/hatov-11-straight.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
@@ -872,10 +868,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Eigen verpakkingsfoto",
-      "file": "18.jpg",
-      "edit": "Fotografische uitsnede, rechtop gedraaid en gecentreerd op wit. Geen AI-gegenereerde productpixels gebruikt",
-      "research": "Geen betrouwbare internetfoto van exact deze variant gevonden bij de geraadpleegde fabrikant-, distributeur- en winkelbronnen"
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
@@ -898,7 +893,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/12-eigen-foto.jpg",
+    "image": "./images/hatov-12-straight.png",
     "reviewNeeded": [],
     "ingredientNote": "",
     "labelSource": {
@@ -913,10 +908,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Eigen verpakkingsfoto",
-      "file": "20.jpg",
-      "edit": "Fotografische uitsnede, rechtop gedraaid en gecentreerd op wit. Geen AI-gegenereerde productpixels gebruikt",
-      "research": "Geen betrouwbare internetfoto van exact deze variant gevonden bij de geraadpleegde fabrikant-, distributeur- en winkelbronnen"
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
