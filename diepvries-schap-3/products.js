@@ -89,7 +89,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "brand": "Chicof",
-    "name": "Dino-schnitzels",
+    "name": "Dinoschnitzels",
     "englishName": "",
     "variant": "600 g",
     "category": "Kipproducten",
