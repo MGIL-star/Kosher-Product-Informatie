@@ -1,0 +1,7 @@
+/* Uniform photo frames for the local meter-15 preview. */
+.product-card .product-visual { height: 160px; }
+.product-card .product-visual img { padding: 6px; }
+@media (min-width: 640px) {
+  .product-card .product-visual { height: 230px; }
+  .product-card .product-visual img { padding: 10px; }
+}
