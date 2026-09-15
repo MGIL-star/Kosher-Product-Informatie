@@ -19,7 +19,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Glatt Kosher Mehadrin",
     "kosherNote": "",
     "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren",
-    "image": "./images/chicof-nuggets-fitted.jpg",
+    "image": "./images/chicof-nuggets-selected.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
@@ -32,11 +32,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Detailfoto’s van de fysieke verpakking aangeleverd op 14 september 2026",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": {
-      "type": "Webshop",
-      "page": "https://kosherfoodineurope.com/products/kosher-chicken-nuggets-chic-of-600-gr",
-      "url": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_CHICKEN_NUGGETS_CHIC-OF_600_GR..jpg?v=1778793020",
-      "match": "Zelfde merk en productvariant. Verpakkingsversie kan afwijken; fysieke verpakking blijft leidend voor productgegevens",
-      "edit": "Originele pixels behouden; witte marge en uitsnede afgestemd op kiptenders. Kipschnitzels licht opgehelderd. Geen gegenereerde etikettekst."
+      "type": "Door gebruiker gekozen bewerkte illustratie",
+      "date": "2026-09-15",
+      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
     },
     "allergensConfirmedAbsent": false,
     "supplementalLabelSource": {
@@ -74,12 +72,11 @@ window.KPI_PRODUCTS = [
     ],
     "ean": "3770021861566",
     "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
-    "image": "./images/chicof-schnitzel-fitted.jpg",
+    "image": "./images/chicof-schnitzel-selected.png",
     "imageSource": {
-      "type": "Distributeur",
-      "page": "https://msdistribution.be/index.php?route=product/product&product_id=838",
-      "url": "https://msdistribution.be/image/cache/data/Schintzel-500x500.jpg",
-      "edit": "Originele pixels behouden; witte marge en uitsnede afgestemd op kiptenders. Kipschnitzels licht opgehelderd. Geen gegenereerde etikettekst."
+      "type": "Door gebruiker gekozen bewerkte illustratie",
+      "date": "2026-09-15",
+      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
     },
     "labelSource": {
       "photos": [
@@ -108,12 +105,12 @@ window.KPI_PRODUCTS = [
     "ean": "3770021861580",
     "kosher": "",
     "note": "",
-    "image": "./images/chicof-dino-fitted.jpg",
+    "image": "./images/chicof-dino-selected.png",
     "reviewStatus": "Webshopetiket verwerkt; fysieke verpakking nog te vergelijken",
     "imageSource": {
-      "type": "Webshop",
-      "page": "https://kosherfood.it/products/nuggets-di-pollo-kosher-a-forma-dinosauri-chic-of-600-gr",
-      "edit": "Originele pixels behouden; witte marge en uitsnede afgestemd op kiptenders. Kipschnitzels licht opgehelderd. Geen gegenereerde etikettekst."
+      "type": "Door gebruiker gekozen bewerkte illustratie",
+      "date": "2026-09-15",
+      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
     },
     "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
     "ingredientsSource": "Leesbaar Nederlands etiket op originele productfoto Shop Makolet; fysieke foto gebruiker volgt",
