@@ -454,8 +454,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 53,
     "brand": "Osem",
-    "name": "Uiencrackers",
-    "englishName": "Onion Crackers",
+    "name": "Crackers met Ui",
     "variant": "250 g",
     "category": "Crackers",
     "ean": "7290000061061",

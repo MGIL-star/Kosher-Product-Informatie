@@ -366,7 +366,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "brand": "Osem",
-    "name": "Popco met Butterscotchsmaak",
+    "name": "Popco Popcorn met Boterkaramelsmaak",
     "variant": "40 g",
     "category": "Popco",
     "ean": "077544001817",
