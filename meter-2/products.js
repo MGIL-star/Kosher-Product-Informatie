@@ -967,7 +967,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
     "ean": "087752030622",
-    "image": "images/barkan-platinum-cabernet-sauvignon.jpg",
+    "image": "images/barkan-platinum-cabernet-sauvignon-zonder-schaduw.png",
     "isWine": true,
     "productInfo": {
       "Type": "Rode wijn",
