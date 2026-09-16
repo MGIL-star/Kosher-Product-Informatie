@@ -18,5 +18,5 @@
     page.inert = false;
     document.body.classList.remove('age-pending');
     welcome.remove();
-  }, 7000);
+  }, 10000);
 }());

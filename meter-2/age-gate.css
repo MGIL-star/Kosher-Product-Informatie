@@ -7,6 +7,6 @@ body.age-pending { overflow: hidden; }
 .age-gate p { line-height: 1.6; margin: 12px 0; }
 .age-next { color: #69776f; font-size: 14px; }
 .age-progress { display: block; height: 3px; width: 96px; margin: 22px auto 0; border-radius: 4px; background: #e5ece5; overflow: hidden; }
-.age-progress::after { content: ''; display: block; height: 100%; background: #789382; transform-origin: left; animation: welcome-progress 7s linear forwards; }
+.age-progress::after { content: ''; display: block; height: 100%; background: #789382; transform-origin: left; animation: welcome-progress 10s linear forwards; }
 @keyframes welcome-progress { from { transform: scaleX(0); } to { transform: scaleX(1); } }
 @media (prefers-reduced-motion: reduce) { .age-progress::after { animation: none; } }
