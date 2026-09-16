@@ -1,9 +1,7 @@
-/* Consistent packaging scale and card alignment for meter 14. */
-.product-card .product-visual { height: 180px; background: #fff; }
-.product-card .product-visual img { padding: 12px; }
-.product-card .card-text strong { min-height: 2.6em; }
-.product-card .card-text { flex: 1; }
+/* Uniform photo frames for the local meter-15 preview. */
+.product-card .product-visual { height: 160px; }
+.product-card .product-visual img { padding: 6px; }
 @media (min-width: 640px) {
   .product-card .product-visual { height: 230px; }
-  .product-card .product-visual img { padding: 12px; }
+  .product-card .product-visual img { padding: 10px; }
 }
