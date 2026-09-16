@@ -1,0 +1,7 @@
+/* Uniform photo frames, identical to the existing meters. */
+.product-card .product-visual { height: 160px; }
+.product-card .product-visual img { padding: 6px; }
+@media (min-width: 640px) {
+  .product-card .product-visual { height: 230px; }
+  .product-card .product-visual img { padding: 10px; }
+}

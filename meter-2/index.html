@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123c32">
+  <meta name="description" content="Ingrediënten en allergenen van de producten bij Meter 2.">
+  <title>DKW Meter 2 | Kosher Product Informatie</title>
+  <link rel="stylesheet" href="../assets/css/styles.css?v=uniform-ruimte-1">
+  <link rel="stylesheet" href="../meter-3/meter-3.css">
+  <link rel="stylesheet" href="../assets/css/catalog-responsive.css">
+  <link rel="stylesheet" href="./../meter-6/meter-6.css?v=uniform-ruimte-1">
+  <link rel="stylesheet" href="./photos.css?v=3">
+  <link rel="stylesheet" href="./age-gate.css?v=3">
+</head>
+<body class="age-pending"><div id="catalog-page" hidden inert>
+  <header class="site-header compact">
+    <a class="brand" href="../" aria-label="Terug naar de startpagina">
+      <span class="brand-mark" aria-hidden="true">K</span>
+      <span>Kosher Product Informatie</span>
+    </a>
+  </header>
+
+  <main class="catalog-main">
+    <nav class="breadcrumb" aria-label="Kruimelpad"><a href="../">Start</a><span aria-hidden="true">/</span><span>Meter 2</span></nav>
+    <section class="catalog-intro">
+      <p class="eyebrow">Schapmeter 2</p>
+      <h1>DKW Meter 2</h1>
+      <p>Bekijk hier de Nederlandse ingrediënten en allergenen van deze producten.</p>
+    </section>
+
+    <section class="catalog-tools" aria-label="Producten zoeken en filteren">
+      <label class="search-box">
+        <span class="sr-only">Zoek een product of merk</span>
+        <span aria-hidden="true">⌕</span>
+        <input id="search" type="search" inputmode="search" autocomplete="off" placeholder="Zoek product of merk…">
+      </label>
+      <div class="filters" role="group" aria-label="Filter op productsoort"><button class="filter active" type="button" data-filter="Alle" aria-pressed="true">Alle</button></div>
+      <p class="result-count" id="result-count" aria-live="polite"></p>
+    </section>
+
+    <section id="product-grid" class="product-grid" aria-label="Producten"></section>
+    <div id="empty-state" class="empty-state" hidden>
+      <strong id="empty-title">Nog geen producten toegevoegd</strong>
+      <p id="empty-copy">Meter 2 staat klaar voor de echte productgegevens.</p>
+    </div>
+  </main>
+
+  <footer class="site-footer" data-site-disclaimer></footer>
+
+  <dialog id="product-dialog" class="product-dialog" aria-labelledby="dialog-title">
+    <button class="dialog-close" type="button" aria-label="Sluiten">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+
+</div>
+  <script src="./age-gate.js?v=3"></script>
+  <script src="./products.js?v=3"></script>
+  <script src="./catalog.js?v=3"></script>
+  <script src="../meter-6/image-fit.js?v=1"></script>
+</body>
+</html>
+
+
