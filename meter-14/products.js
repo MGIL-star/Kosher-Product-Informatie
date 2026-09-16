@@ -364,6 +364,25 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://t.me/s/kosher_israel?q=%23%D7%A8%D7%91%D7%A0%D7%95%D7%AA_%D7%9E%D7%A7%D7%95%D7%9E%D7%99%D7%AA_%D7%A9%D7%93%D7%A8%D7%95%D7%AA"
   },
   {
+    "id": 25,
+    "brand": "Osem",
+    "name": "Popco met Butterscotchsmaak",
+    "variant": "40 g",
+    "category": "Popco",
+    "ean": "077544001817",
+    "ingredients": "Suiker, maïs (37%), zonnebloemolie, glucosestroop, dextrose, zout, emulgator (sojalecithine), rijsmiddel (natriumwaterstofcarbonaat), aroma.",
+    "allergens": ["Soja"],
+    "mayContain": "Pinda’s, tarwe en sesam.",
+    "warning": "Koel en droog bewaren. De glucosestroop is geproduceerd uit genetisch gemodificeerde maïs; de sojalecithine uit genetisch gemodificeerde soja.",
+    "kosher": "Chief Rabbinate Kiryat Gat (Parve)",
+    "image": "images/osem-popco.jpg",
+    "imageBounds": [0.109, 0.009, 0.891, 0.99],
+    "imageDisclaimer": "De foto toont de 80g-verpakking. De productinformatie betreft de 40g-verpakking.",
+    "imageSource": "Door gebruiker aangeleverde en geselecteerde productfoto popco.jpg.",
+    "sourcePhotos": ["912ef4c2-119d-4b47-b2f2-318996bfbb82.jpg", "61a956f9-0934-44eb-a471-f998088194b6.jpg", "c87afe71-6b2f-44e8-bb20-efc47f688fd8.jpg"],
+    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket."
+  },
+  {
     "id": 19,
     "brand": "Hamama Nuts",
     "name": "Geroosterde Gezouten Zonnebloempitten",

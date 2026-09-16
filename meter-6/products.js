@@ -452,6 +452,28 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
   },
   {
+    "id": 53,
+    "brand": "Osem",
+    "name": "Uiencrackers",
+    "englishName": "Onion Crackers",
+    "variant": "250 g",
+    "category": "Crackers",
+    "ean": "7290000061061",
+    "ingredients": "Tarwebloem (68%, bevat gluten), plantaardige vetten, gedroogde ui (7%), tarwezemelen, suiker, gerstemoutextract, rijsmiddel (E503), gedroogde knoflook, zout, gistextract, emulgator (sojalecithine), tarwegluten, tarwekiemen, deegverbeteraar (sulfiet), zuurteregelaar (citroenzuur), antioxidant (rozemarijnextract).",
+    "allergens": ["Tarwe", "Gerst", "Soja", "Sulfieten"],
+    "warning": "Kan noten, sesam en selderij bevatten.",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "image": "./images/osem-onion-crackers-250g.png",
+    "imageBounds": [0, 0.3622222222, 1, 0.6366666667],
+    "imageSource": "Door gebruiker aangeleverde en geselecteerde productfoto cracker.png.",
+    "ingredientsSource": "Fysieke verpakking, foto 151aac77-de18-45a2-b53d-8407b354dc2a.jpg.",
+    "barcodeSource": "Fysieke verpakking, foto 62100ddc-4f6b-426c-97df-e92bdd6bec76.jpg; bevestigd door gebruiker.",
+    "kosherSource": "Badatz Edah HaChareidis zichtbaar op aangeleverde productfoto cracker.png; parve volgens verpakking. Bestaande gebruikersbevestiging voor Osem crackers.",
+    "vegan": true,
+    "veganSource": "Vegan Friendly zichtbaar op de fysieke verpakking.",
+    "sourcePhotos": ["1e439ae7-79be-4f85-98ee-e016e67a3250.jpg", "151aac77-de18-45a2-b53d-8407b354dc2a.jpg", "62100ddc-4f6b-426c-97df-e92bdd6bec76.jpg", "bdf3f8b8-b79d-4003-a1ce-88768d38327f.jpg"]
+  },
+  {
     "id": 13,
     "brand": "Osem",
     "name": "Dunne Crackers met Kalamata Olijven en Kruiden",
