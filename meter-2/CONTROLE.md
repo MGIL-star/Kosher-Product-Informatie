@@ -1,3 +1,33 @@
+Aanvulling witte Zmora: aangewezen Kosher Wine World-pagina noemt halfzoet en dezelfde UPC (met voorloopnullen). Wijnstijl lokaal aangevuld als Halfzoet volgens productinformatie; smaak in het Nederlands samengevat. Pagina noemt 2023 ondanks 2020 in URL. Afwijkende 12,2%, OU en Galilea niet overgenomen; fysieke registratie blijft leidend. Dit vervangt het lege wijnstijlveld, maar is geen fysieke bevestiging van zoetheid. Bron: https://kosherwineworld.com/products/ben-ami-zmora-white-2020
+
+Aanvulling Kinor: op verzoek gebruiker Wijnbox gevolgd voor 12%, mevushal, zoete rode Carignan uit Judea, smaak, schroefdop, serveren en Kiddush/Havdalah. Pesach als metadata bevestigd. Specifieke hechsher niet genoemd op die pagina; blijft onbekend. Bestaande ingrediënten/allergenen, inhoud en barcode behouden met oorspronkelijke bronnen. Eerdere open punten alcohol/mevushal vervangen door deze expliciete bronkeuze; geen nieuwe fysieke flescontrole. Bron: https://www.wijnbox.nl/products/barkan-kinor-sacramental-red-kiddush
+
+Nieuwe fysieke foto kleine fles: 52c2471b-71c6-4139-a7f8-63fe7edd45b6.jpg bevestigt Badatz Edah HaChareidis Jeruzalem, mevushal, 12,5% en barcode 7290000023915. Geen omcirkeld K-P zichtbaar; die vermelding wordt niet toegevoegd aan de mini. Dit vervangt het eerdere open controlepunt voor de mini-hechsher.
+
+Aanvullende gebruikersbevestiging: Classic Cabernet Sauvignon mini is 187 ml, 12,5% en mevushal. Het eerdere controlepunt voor het alcoholpercentage van de mini is opgelost. K-P-vermelding wacht nog op koppeling aan de juiste Cabernet Sauvignon-variant.
+
+# Correctieronde 17 september 2026 — uitsluitend lokaal
+
+Deze aanvulling vervangt de oudere controlepunten hieronder voor de genoemde producten. Nog niet gecommit, gepusht of gepubliceerd.
+
+- Classic Merlot Argaman: 750 ml, 12%, droog, 50% Merlot / 50% Argaman, barcode 087752013663, mevushal en Pesach bevestigd in de aangeleverde transcriptie. Afzonderlijk product gebleven; hechsher niet onafhankelijk leesbaar.
+- Classic Pinot Noir en Ben Ami Cabernet Sauvignon: mevushal bevestigd door gebruiker; sulfieten als etiketvermelding verwerkt. Pesach als bronmetadata opgeslagen; eerdere voorkeur om deze redundante vermelding niet te tonen behouden.
+- Reserve Merlot: 13%, Galilea en fysieke sulfietenvermelding aangevuld. Hechsher en mevushal onbekend.
+- Gold Edition Chardonnay en Reserve Cabernet Sauvignon: opgegeven inhoud, alcohol, type en barcode kwamen al overeen. Onbevestigd omcirkeld K-P verwijderd bij Gold Edition Chardonnay en Cabernet mini; overige leesbare gegevens behouden.
+- Zmora Emerald Riesling en Colombard: mevushal/Pesach bevestigd; zoetheid niet betrouwbaar opnieuw te controleren en daarom Niet bekend.
+- Sauvignon Blanc: producent bevestigt 100% Sauvignon Blanc; Israëlwinkel noemt droog, 750 ml en 11% voor referentiejaargang 2024. Geen actuele fysieke jaargang vastgelegd. Certificering/mevushal van actuele fles niet bewezen.
+- Kinor: zoete rode kiddushwijn blijft apart van Tirosh. Online bronnen noemen 11% én 12%; alcohol blijft Niet bekend. Online kosher-/mevushalvermeldingen niet als bevestiging van actuele fles overgenomen.
+- Cabernet mini: barcode 7290000023915 behouden, 187 ml uit bestaande exacte barcode-match; alcohol blijft Niet bekend. De in de opdracht genoemde nieuwe foto's waren niet bijgevoegd.
+- Welkomstscherm ongewijzigd: automatisch na 10 seconden, zonder knop, volgens expliciete keuze gebruiker.
+
+## Nog nodig voor definitieve flescontrole
+
+Leesbare aanvullende flesfoto's voor hechsher/mevushal van Gold Edition Chardonnay, Reserve Merlot, Reserve Cabernet Sauvignon, Merlot Argaman, Sauvignon Blanc en Kinor; alcohol van mini en Kinor; zoetheidsvermelding van Zmora wit. Bestaande certificeringsclaims zijn niet aangevuld vanuit een andere jaargang.
+
+Layout, volgorde, afbeeldingen en overige producten ongewijzigd. De onderstaande historische controle is niet bijgewerkt en kan verouderde waarden bevatten; products.js en deze aanvulling zijn leidend.
+
+---
+
 # DKW meter 2 — lokale controleversie
 
 Niet gecommit, gepusht of gepubliceerd. Controle samengesteld op 16 september 2026.
