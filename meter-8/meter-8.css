@@ -1,0 +1,19 @@
+/* Vaste tussenruimte voor alle productdetails, op desktop en mobiel. */
+.dialog-product > section {
+  margin: 0 21px;
+  padding: 20px 0 0;
+}
+.dialog-product > section > h3 {
+  margin: 0 0 9px;
+}
+.dialog-product > section > p {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.6;
+}
+.dialog-product > section > p + p {
+  margin-top: 6px;
+}
+.dialog-product > section > :last-child {
+  margin-bottom: 0;
+}
