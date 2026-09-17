@@ -37,7 +37,7 @@ window.KPI_PRODUCTS = [
     "id": 2,
     "brand": "Yehuda",
     "name": "Volkoren Speltmatzes",
-    "variant": "",
+    "variant": "400 g",
     "category": "Matzes & toast",
     "ean": "7290012738524",
     "ingredients": "Volkoren speltmeel (gluten), water.",
