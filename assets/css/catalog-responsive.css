@@ -1,6 +1,6 @@
 /* Eén gedeelde catalogusopmaak voor alle meters en diepvries-schappen. */
 .catalog-main { padding: 28px 16px 48px; }
-.product-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; }
+.product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
 .product-card, .product-card button, .card-text { min-width: 0; }
 .product-card button { border-radius: 14px; }
 .card-text { width: 100%; gap: 4px; padding: 12px 12px 10px; overflow-wrap: anywhere; }
@@ -38,13 +38,13 @@
 .packaging-variants figcaption { margin-top: 8px; font-weight: 600; }
 @media (max-width: 639px) {
  .catalog-main { padding-inline: 10px; }
- .card-text { padding: 8px 5px 6px; }
- .card-text strong { font-size: 11px; hyphens: auto; }
- .card-text small { font-size: 9px; }
+ .card-text { padding: 9px 7px 7px; }
+ .card-text strong { font-size: 12px; hyphens: auto; }
+ .card-text small { font-size: 10px; }
  .card-text > span { font-size: 10px; }
- .card-action { padding: 8px 5px 10px; font-size: 9px; gap: 2px; }
- .product-card .product-visual { height: 105px; }
- .product-card .product-visual img { padding: 5px; }
+ .card-action { padding: 8px 7px; font-size: 10px; gap: 3px; }
+ .product-card .product-visual { height: 120px; }
+ .product-card .product-visual img { padding: 8px; }
 }
 @media (min-width: 640px) {
  .catalog-main { padding: 36px 28px 64px; }
