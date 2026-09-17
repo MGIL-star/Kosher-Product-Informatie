@@ -632,7 +632,7 @@ window.KPI_PRODUCTS = [
     "ean": "8715645279019",
     "ingredients": "Water, fenegriek, zout, citroenzuur, chilipeper, xanthaangom, natriumbenzoaat, kaliumsorbaat.",
     "allergens": [],
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-amba.png",
     "imageIllustration": true,
     "productInfo": {
@@ -650,7 +650,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% sumak.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-sumak.png",
     "imageIllustration": true,
     "productInfo": {
@@ -667,7 +667,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% zoete paprika.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-paprika.png",
     "imageIllustration": true,
     "productInfo": {
@@ -686,7 +686,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-shoarma.png",
     "imageIllustration": true,
     "productInfo": {
@@ -704,7 +704,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% ui.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-ui.png",
     "imageIllustration": true,
     "productInfo": {
@@ -721,7 +721,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
     "allergens": [],
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-ras.png",
     "imageIllustration": true,
     "productInfo": {
@@ -739,7 +739,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% grove paprika.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-pulbiber.png",
     "imageIllustration": true,
     "productInfo": {
@@ -758,7 +758,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-curry.png",
     "imageIllustration": true,
     "productInfo": {
@@ -776,7 +776,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% chili.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-chili.png",
     "imageIllustration": true,
     "productInfo": {
@@ -793,7 +793,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "100% koriander.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-koriander.png",
     "imageIllustration": true,
     "productInfo": {
@@ -881,19 +881,14 @@ window.KPI_PRODUCTS = [
     "ingredients": "Dadels (64%), suiker, citroenzuur, kaliumsorbaat.",
     "allergens": null,
     "kosher": null,
-    "image": "images/dates-spread.png",
+    "image": "images/dates-spread-large.png",
+    "kosherStatus": "Pareve",
     "productInfo": {
-      "Inhoud": "450 g",
-      "Koosjerstatus": "Pareve"
+      "Inhoud": "450 g"
     },
     "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld.",
     "imageSource": "https://tzurfarm.com/wp-content/uploads/elementor/thumbs/ממרח-לאפייה-qssn9tb3melyotbn0f2ul7dyidtvhhyrhj6p0zokag.png",
-    "imageBounds": [
-      0.26,
-      0.28,
-      0.6925,
-      0.8866666666666667
-    ],
+    "imageBounds": [0.283, 0.275, 0.675, 0.89],
     "sources": [
       {
         "label": "Productfoto",
@@ -912,6 +907,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "kosher": null,
     "image": "images/mehadrin-dadelpasta.png",
+    "imageBounds": [0.17, 0.065, 0.83, 0.93],
     "productInfo": {
       "Inhoud": "450 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
@@ -1004,8 +1000,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859025",
     "ingredients": "100% dadels.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-dadelstroop.png",
+    "imageBounds": [0.345, 0.07, 0.67, 0.925],
     "productInfo": {
       "Inhoud": "340 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
@@ -1030,11 +1027,12 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SOJA"
     ],
-    "kosher": null,
-    "image": "images/hatov-original.jpg",
+    "kosher": "OU / Rabbijn Weissmandl (Parve)",
+    "image": "images/hatov-original-sharp.png",
+    "imageEdited": true,
+    "kosherStatus": "Parve",
     "productInfo": {
-      "Inhoud": "400 g",
-      "Koosjerstatus": "Parve"
+      "Inhoud": "400 g"
     },
     "sources": [
       {
@@ -1043,12 +1041,7 @@ window.KPI_PRODUCTS = [
       }
     ],
     "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
-    "imageBounds": [
-      0.155,
-      0.105,
-      0.84,
-      0.94
-    ]
+    "imageBounds": [0.125, 0.055, 0.87, 0.95]
   },
   {
     "id": 38,
@@ -1062,7 +1055,7 @@ window.KPI_PRODUCTS = [
       "HAZELNOTEN",
       "MELK"
     ],
-    "kosher": null,
+    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Zuivel)",
     "image": "images/spread-milky.jpg",
     "productInfo": {
       "Inhoud": "350 g",
@@ -1095,7 +1088,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "HAZELNOTEN"
     ],
-    "kosher": null,
+    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/delinut-original.jpg",
     "productInfo": {
       "Inhoud": "350 g",
@@ -1127,7 +1120,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "HAZELNOTEN"
     ],
-    "kosher": null,
+    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/spread-duo.jpg",
     "productInfo": {
       "Inhoud": "350 g",
@@ -1159,11 +1152,11 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "PINDA"
     ],
-    "kosher": null,
+    "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/spread-creamy.jpg",
+    "kosherStatus": "Parve",
     "productInfo": {
-      "Omschrijving": "Romige pindakaas zonder toegevoegde suiker.",
-      "Koosjerstatus": "Parve"
+      "Omschrijving": "Romige pindakaas zonder toegevoegde suiker."
     },
     "sources": [
       {
@@ -1190,12 +1183,11 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "PINDA"
     ],
-    "kosher": null,
+    "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/spread-crunchy.jpg",
     "productInfo": {
       "Inhoud": "340 g",
-      "Omschrijving": "Pindakaas met stukjes pinda.",
-      "Koosjerstatus": "Parve"
+      "Omschrijving": "Pindakaas met stukjes pinda."
     },
     "sources": [
       {
@@ -1221,7 +1213,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbijn Heinz",
     "image": "images/honing-bloemen.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1239,7 +1231,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbijn Heinz",
     "image": "images/honing-linde.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1257,7 +1249,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbijn Heinz",
     "image": "images/honing-lavendel.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1275,7 +1267,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbijn Heinz",
     "image": "images/honing-tijm.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1293,7 +1285,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbijn Heinz",
     "image": "images/honing-acacia.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1311,7 +1303,7 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "Rabbijn Heinz",
     "image": "images/honing-kastanje.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1334,6 +1326,7 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan cashewnoten, pijnboompitten, pistache, amandelen, hazelnoten, pinda, soja, mosterd en selderij bevatten.",
     "kosher": null,
     "image": "images/neptune-zaatar-sharp.png",
+    "imageBounds": [0.1866, 0.05742, 0.8134, 0.95215],
     "productInfo": {
       "Inhoud": "180 g",
       "Omschrijving": "Za’atarsmeersel met olijfolie, voor op brood of als dip."
@@ -1366,6 +1359,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosher": null,
     "image": "images/beit-yitzhak-harosset-sharp.png",
+    "imageBounds": [0.17943, 0.08612, 0.81818, 0.94737],
     "productInfo": {
       "Inhoud": "250 g"
     },
@@ -1381,16 +1375,17 @@ window.KPI_PRODUCTS = [
     "category": "Spreads & Pasta’s",
     "variant": "240 g",
     "ean": "7290017181486",
-    "ingredients": null,
+    "ingredients": "Dadelpasta, dadels, suiker, citroenzuur, conserveermiddel (kaliumsorbaat), silan (dadelstroop), water, appel, rode wijn, pectine, kaneel, kruidnagel, citroenzuur, hazelnootaroma.",
     "allergens": [
       "SULFIET"
     ],
     "kosher": null,
     "image": "images/aunt-charoset-sharp.png",
+    "imageBounds": [0.22249, 0.10766, 0.77273, 0.9067],
     "productInfo": {
       "Inhoud": "240 g"
     },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. IPC-ingrediënten ambigu genest (dadelpasta/dadelpercentages); daarom niet als zekere receptuur overgenomen. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
+    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten overgenomen van Israelwinkel-productpagina voor 240 g; percentages 53% en 64% weggelaten omdat de bron de samenstelling van dadelpasta niet duidelijk afbakent. Geen aanvullende ingrediënten verondersteld. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67020%20nwe%20charoset%20najaar%202026%20klein%20formaat-01M2QA36QVKZS08MAACNHPDJEF.png",
     "sources": [
       {
@@ -1399,6 +1394,7 @@ window.KPI_PRODUCTS = [
       }
     ],
     "allergenNote": "Kan soja, sesamzaad, walnoten en hazelnoten bevatten.",
+    "warning": "Kan stukjes vruchtenpitten bevatten.",
     "imageEdited": true
   },
   {
@@ -1410,8 +1406,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859193",
     "ingredients": "Appel (50%), suiker, kaneel (0,1%), citroenzuur, pectine, ascorbinezuur.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-apple-340g.png",
+    "imageBounds": [0.23445, 0.04545, 0.76555, 0.97368],
     "productInfo": {
       "Inhoud": "340 g",
       "Bewaren": "Na opening gekoeld bewaren."
@@ -1428,8 +1425,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859513",
     "ingredients": "Vijg (50%), suiker, citroenzuur, pectine, geconcentreerd vlierbessensap en zwartewortelsap.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-fig-340g.png",
+    "imageBounds": [0.23684, 0.04785, 0.76316, 0.90431],
     "productInfo": {
       "Inhoud": "340 g",
       "Bewaren": "Na opening gekoeld bewaren."
@@ -1446,8 +1444,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859216",
     "ingredients": "Kers (50%), suiker, pectine, citroenzuur.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-cherry-340g.png",
+    "imageBounds": [0.23684, 0.04545, 0.76077, 0.94737],
     "productInfo": {
       "Inhoud": "340 g",
       "Bewaren": "Na opening gekoeld bewaren."
@@ -1464,8 +1463,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859179",
     "ingredients": "Aardbeien (50%), suiker, pectine, citroenzuur.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-strawberry-340g.png",
+    "imageBounds": [0.23684, 0.04545, 0.76555, 0.94498],
     "productInfo": {
       "Inhoud": "340 g",
       "Bewaren": "Na opening gekoeld bewaren."
@@ -1482,8 +1482,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290012668296",
     "ingredients": "Perzik (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-67016.png",
+    "imageBounds": [0.36064, 0.03807, 0.64787, 0.97081],
     "productInfo": {
       "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
@@ -1506,8 +1507,9 @@ window.KPI_PRODUCTS = [
     "ean": null,
     "ingredients": "Aardbei (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-67017.png",
+    "imageBounds": [0.33511, 0.04188, 0.61915, 0.94416],
     "productInfo": {
       "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
@@ -1530,8 +1532,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290012668616",
     "ingredients": "Bessenmix (51%: aardbeien 17%, zwarte bessen 17%, kersen 17%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU",
     "image": "images/aunt-67018.jpg",
+    "imageBounds": [0.14784, 0.06793, 0.9166, 0.95658],
     "productInfo": {
       "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
@@ -1558,8 +1561,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290012313653",
     "ingredients": "Knoflook (74%), koolzaadolie, citroenconcentraat, suiker, zout.",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/yavne-knoflook.png",
+    "imageBounds": [0.19617, 0.04306, 0.80144, 0.97129],
     "productInfo": {
       "Inhoud": "190 g"
     },
@@ -1576,13 +1580,14 @@ window.KPI_PRODUCTS = [
     "ean": "7290112870292",
     "ingredients": "Peterselie (42%), witte ui (17%), rode paprika (17%), water, plantaardige olie, gedroogde knoflook (3%), zuurteregelaars (azijnzuur, citroenconcentraat), zout, suiker, conserveermiddel (kaliumsorbaat).",
     "allergens": null,
-    "kosher": null,
-    "image": "images/bnei-chimichurri-user.png",
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
+    "image": "images/bnei-chimichurri-correct.png",
+    "imageBounds": [0.28, 0.0, 0.71, 0.995],
     "productInfo": {
       "Inhoud": "190 g"
     },
     "mayContain": "Cashewnoten.",
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Gebruiker heeft expliciet de basilicumpesto-foto als productafbeelding voor Chimichurri bevestigd nadat het verschil is benoemd. Geen voedingswaarden opgenomen op verzoek gebruiker.",
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
     "sources": [
       {
         "label": "Fabrikantcatalogus",
@@ -1599,8 +1604,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290112870247",
     "ingredients": "Verse basilicum (44%), plantaardige oliën, water, zout, stabilisatoren (cellulosevezels, xanthaangom), gedroogde knoflookvlokken, zuurteregelaars (melkzuur, ascorbinezuur), gemalen zwarte peper, conserveermiddel (sorbaat).",
     "allergens": null,
-    "kosher": null,
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/bnei-basilicumpesto.png",
+    "imageBounds": [0.16125, 0.015, 0.84, 0.99],
     "productInfo": {
       "Inhoud": "190 g"
     },
@@ -1617,8 +1623,9 @@ window.KPI_PRODUCTS = [
     "ingredients": "Gerehydrateerde gedroogde tomaten (45%) (gedroogde tomaten, water, zout), plantaardige oliën (koolzaadolie en olijfolie), suiker, tomatenpoeder, specerijen (oregano, gemalen zwarte peper en rozemarijn), zuurteregelaar (citroenzuur), conserveermiddel (E202).",
     "allergens": null,
     "mayContain": "Cashewnoten.",
-    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss, Bnei Darom.",
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/bnei-tomatenpasta.png",
+    "imageBounds": [0.16268, 0.0622, 0.83971, 0.95455],
     "imageEdited": true,
     "productInfo": {
       "Inhoud": "190 g"

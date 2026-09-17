@@ -69,7 +69,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Op het etiket vermeld: zwaveldioxide en sorbinezuur.",
+    "ingredients": "Zwaveldioxide en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -123,7 +123,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Op het etiket vermeld: zwaveldioxide en sorbinezuur.",
+    "ingredients": "Zwaveldioxide en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -176,7 +176,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Op het etiket vermeld: zwaveldioxide en sorbinezuur.",
+    "ingredients": "Zwaveldioxide en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -230,7 +230,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Op het etiket vermeld: zwaveldioxide en sorbinezuur.",
+    "ingredients": "Zwaveldioxide en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -288,7 +288,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rosé",
     "variant": "750 ml · 11%",
-    "ingredients": "Op het etiket vermeld: zwaveldioxide en sorbinezuur.",
+    "ingredients": "Zwaveldioxide en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -342,7 +342,7 @@ window.KPI_PRODUCTS = [
     "brand": "Zmora",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -459,7 +459,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -569,7 +569,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Het fysieke etiket vermeldt zwaveldioxide (sulfieten).",
+    "ingredients": "Zwaveldioxide (sulfieten).",
     "allergens": [
       "SULFIETEN"
     ],
@@ -631,7 +631,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -685,7 +685,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -744,7 +744,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -797,7 +797,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -908,7 +908,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -967,7 +967,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13,5%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1020,7 +1020,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1077,7 +1077,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1130,7 +1130,7 @@ window.KPI_PRODUCTS = [
     "brand": "Zmora",
     "category": "Rode wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1183,7 +1183,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1237,7 +1237,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Rode wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1294,7 +1294,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Rode wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Het etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1346,7 +1346,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "187 ml · 12,5%",
-    "ingredients": "De online productinformatie vermeldt dat deze wijn sulfieten bevat.",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1393,7 +1393,7 @@ window.KPI_PRODUCTS = [
       "page": "https://www.cpm-diffusion.com/en/product/barkan-cabernet-sauvignon-classique-187-ml/",
       "url": "https://www.cpm-diffusion.com/wp-content/uploads/2022/07/BARKAN-CABERNET-SAUVIGNON-CLASSIQUE-187-ML-660x660.png"
     },
-    "allergenNote": "Volgens de productinformatie van de webwinkel: bevat sulfieten.",
+    "allergenNote": "Bevat sulfieten.",
     "mevushalStatus": "mevushal",
     "kosherForPassover": true,
     "additionalSourcePhotos": [
@@ -1406,7 +1406,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11%",
-    "ingredients": "Volgens de Israëlische productinformatie: Sauvignon Blanc-druiven en zwaveldioxide (sulfieten).",
+    "ingredients": "Sauvignon Blanc-druiven en zwaveldioxide (sulfieten).",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1471,7 +1471,7 @@ window.KPI_PRODUCTS = [
       0.95
     ],
     "shelfBarcode": "7290000023823",
-    "allergenNote": "Volgens de productinformatie van de webwinkel: bevat sulfieten.",
+    "allergenNote": "Bevat sulfieten.",
     "mevushalStatus": "Niet bekend"
   },
   {
@@ -1480,7 +1480,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Volgens de Nederlandse webwinkel Experience Israel: gefermenteerde druiven, geconcentreerde druivenmost, suiker en conserveermiddel (sulfieten).",
+    "ingredients": "Gefermenteerde druiven, geconcentreerde druivenmost, suiker en conserveermiddel (sulfieten).",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1544,7 +1544,7 @@ window.KPI_PRODUCTS = [
       0.903
     ],
     "shelfBarcode": "9310489001773",
-    "allergenNote": "Volgens de productinformatie van de webwinkel: bevat sulfieten.",
+    "allergenNote": "Bevat sulfieten.",
     "mevushalStatus": "mevushal",
     "kosherForPassover": true
   },
@@ -1554,7 +1554,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Druivensap",
     "variant": "1 liter · Alcoholvrij",
-    "ingredients": "Druivensap (100%). Het Nederlandse etiket vermeldt: bevat sulfieten.",
+    "ingredients": "Druivensap (100%). Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],

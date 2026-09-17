@@ -1,32 +1,52 @@
-/* Gedeelde kaartindeling voor Meter 3 en Meter 4. */
-.product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+/* Eén gedeelde catalogusopmaak voor alle meters en diepvries-schappen. */
+.catalog-main { padding: 28px 16px 48px; }
+.product-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
 .product-card, .product-card button, .card-text { min-width: 0; }
-.card-text { width: 100%; gap: 3px; padding: 9px 7px 7px; overflow-wrap: anywhere; }
-.card-text strong { font-size: 12px; line-height: 1.3; letter-spacing: -.015em; margin: 0; }
-.card-text small { font-size: 10px; line-height: 1.3; letter-spacing: .015em; }
-.card-text > span { font-size: 10px; line-height: 1.35; }
-.card-action { min-height: 44px; align-items: center; gap: 3px; padding: 8px 7px; font-size: 10px; line-height: 1.3; overflow-wrap: anywhere; }
+.product-card button { border-radius: 14px; }
+.card-text { width: 100%; gap: 4px; padding: 12px 12px 10px; overflow-wrap: anywhere; }
+.card-text strong { font-size: 14px; line-height: 1.35; letter-spacing: -.015em; margin: 0; }
+.card-text small { font-size: 11px; line-height: 1.4; letter-spacing: .025em; }
+.card-text > span { font-size: 12px; line-height: 1.4; }
+.card-text small:empty { display: none; }
+.card-action { min-height: 44px; align-items: center; gap: 6px; padding: 10px 12px 12px; font-size: 11px; line-height: 1.4; overflow-wrap: anywhere; }
 .card-action > span { flex-shrink: 0; }
-.product-card .product-visual { height: 120px; }
-.product-card .product-visual img { padding: 8px; }
-.filters { flex-wrap: wrap; overflow-x: visible; }
-@media (max-width: 639px) {
-  .catalog-main { padding: 24px 10px 40px; }
-  .product-card button { border-radius: 11px; }
-  .filter { padding: 9px 12px; }
-  .search-box { min-width: 0; }
-  .search-box input { min-width: 0; }
-}
+.product-card .product-visual { height: 150px; background: #fff; }
+.product-card .product-visual img { padding: 12px; }
+.filters { flex-wrap: wrap; overflow-x: visible; gap: 8px; }
+.filter { min-height: 42px; padding: 9px 12px; }
+.search-box, .search-box input { min-width: 0; }
+/* Uniforme afstand tussen detailblokken en tussen opeenvolgende regels. */
+.dialog-product { padding-bottom: 24px; }
+.dialog-product > .product-visual-large { height: 250px; background: #fff; }
+.dialog-heading, .dialog-product > section { margin: 0 20px; }
+.dialog-heading { padding: 20px 0; }
+.dialog-heading h2 { line-height: 1.2; overflow-wrap: anywhere; }
+.dialog-heading p { line-height: 1.5; }
+.dialog-product > section { padding: 20px 0 0; }
+.dialog-product > section > h3 { margin: 0 0 9px; }
+.dialog-product > section > p { margin: 0; font-size: 17px; line-height: 1.6; overflow-wrap: anywhere; }
+.dialog-product > section > p + p { margin-top: 6px; }
+.dialog-product > section > .allergen-list + p { margin-top: 8px; }
+.dialog-product > section > :last-child { margin-bottom: 0; }
+.image-disclaimer { margin: 8px 20px 0; }
+.nutrition-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.nutrition-table th, .nutrition-table td { padding: 7px 0; border-bottom: 1px solid var(--line); }
+.nutrition-table th { text-align: left; font-weight: 500; }
+.nutrition-table td { text-align: right; white-space: nowrap; }
+.packaging-variants figure { margin: 0; }
+.packaging-variants img { display: block; width: 100%; max-height: 220px; object-fit: contain; background: #fff; }
+.packaging-variants figcaption { margin-top: 8px; font-weight: 600; }
 @media (min-width: 640px) {
-  .product-grid { gap: 16px; }
-  .product-card .product-visual { height: 180px; }
-  .product-card .product-visual img { padding: 16px; }
-  .card-text { padding: 12px 14px 10px; }
-  .card-text strong { font-size: 16px; }
-  .card-text small { font-size: 12px; }
-  .card-text > span { font-size: 13px; }
-  .card-action { padding: 10px 14px 14px; font-size: 13px; }
+ .catalog-main { padding: 36px 28px 64px; }
+ .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+ .product-card .product-visual { height: 180px; }
+ .product-card .product-visual img { padding: 16px; }
+ .card-text { padding: 12px 14px 10px; }
+ .card-text strong { font-size: 16px; }
+ .card-text small { font-size: 12px; }
+ .card-text > span { font-size: 13px; }
+ .card-action { padding: 10px 14px 14px; font-size: 13px; }
 }
 @media (min-width: 920px) {
-  .product-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+ .product-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
