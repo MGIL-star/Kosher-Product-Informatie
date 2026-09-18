@@ -3,21 +3,21 @@
 // Bronnen en openstaande etiketcontroles: meter-3/bronnen.json en meter-3/OVERZICHT.md.
 window.KPI_PRODUCTS = [
   {
-    "id": 1,
-    "kosher": "Rabbi E.L. Schneebalg · STAR-K",
-    "kosherSource": "https://elisha.be/en/all-products/crema-balsamic-cream-of-modena",
+    "id": 19,
+    "kosher": "Badatz Eda HaCharedit",
+    "kosherSource": "https://www.meulle.co.il/product/מיץ-לימון/",
     "kosherStatus": "online-source",
-    "brand": "Schneider’s",
-    "name": "Balsamicocrème",
+    "brand": "Merkloos",
+    "name": "Citroensap met Citroensmaak",
     "englishName": "",
-    "variant": "250 ml",
-    "category": "Azijn",
-    "ingredients": "Balsamicoazijn van Modena 60% (wijnazijn, geconcentreerde druivenmost, kleurstof E150d), geconcentreerde druivenmost, suiker, gemodificeerd maïszetmeel, kleurstof E150d.",
+    "variant": "1 Liter",
+    "category": "Dranken",
+    "ingredients": "Water, voedingszuur citroenzuur, suiker, conserveermiddel kaliumsorbaat.",
     "allergens": [
-      "BEVAT SULFIETEN"
+      "SULFIET"
     ],
-    "ean": "194961003061",
-    "image": "../assets/images/meter-3/schneiders-crema-balsamico-250ml.jpg"
+    "ean": "7290014755260",
+    "image": "../assets/images/meter-3/lemon-flavor-juice-white.png"
   },
   {
     "id": 2,
@@ -54,21 +54,21 @@ window.KPI_PRODUCTS = [
     "image": "../assets/images/meter-3/osem-azijn-5-procent-1l.jpg"
   },
   {
-    "id": 19,
-    "kosher": "Badatz Eda HaCharedit",
-    "kosherSource": "https://www.meulle.co.il/product/מיץ-לימון/",
+    "id": 1,
+    "kosher": "Rabbi E.L. Schneebalg · STAR-K",
+    "kosherSource": "https://elisha.be/en/all-products/crema-balsamic-cream-of-modena",
     "kosherStatus": "online-source",
-    "brand": "Merkloos",
-    "name": "Citroensap met Citroensmaak",
+    "brand": "Schneider’s",
+    "name": "Balsamicocrème",
     "englishName": "",
-    "variant": "1 Liter",
-    "category": "Dranken",
-    "ingredients": "Water, voedingszuur citroenzuur, suiker, conserveermiddel kaliumsorbaat.",
+    "variant": "250 ml",
+    "category": "Azijn",
+    "ingredients": "Balsamicoazijn van Modena 60% (wijnazijn, geconcentreerde druivenmost, kleurstof E150d), geconcentreerde druivenmost, suiker, gemodificeerd maïszetmeel, kleurstof E150d.",
     "allergens": [
-      "SULFIET"
+      "BEVAT SULFIETEN"
     ],
-    "ean": "7290014755260",
-    "image": "../assets/images/meter-3/lemon-flavor-juice-white.png"
+    "ean": "194961003061",
+    "image": "../assets/images/meter-3/schneiders-crema-balsamico-250ml.jpg"
   },
   {
     "id": 3,

@@ -7,6 +7,7 @@
     grid.querySelectorAll('[data-packaging-card]').forEach(card => card.remove());
     const originals = [...grid.querySelectorAll('.product-card')];
     let extra = 0;
+    const packagingCards = [];
     for (const original of originals) {
       const originalButton = original.querySelector('[data-product-id]');
       const product = window.KPI_PRODUCTS.find(p => p.id === Number(originalButton.dataset.productId));
@@ -22,10 +23,14 @@
         image.alt = variant.imageAlt;
         card.querySelector('.card-text strong').textContent = product.name + ' Sixpack';
         card.querySelector('.card-text > span').textContent = variant.quantity + ' × ' + variant.unitContent + (product.alcoholLabel ? ' · Alcohol: ' + product.alcoholLabel : '');
-        original.after(card);
+        packagingCards.push({ productId: product.id, card });
         extra++;
       }
     }
+    // Onderste planken op de schapfoto: Nesher-sixpack, daarna Goldstar-sixpack.
+    const shelfOrder = [17, 16];
+    packagingCards.sort((a, b) => shelfOrder.indexOf(a.productId) - shelfOrder.indexOf(b.productId));
+    for (const { card } of packagingCards) grid.append(card);
     if (extra) document.querySelector('#result-count').textContent = originals.length + ' producten · ' + (originals.length + extra) + ' verpakkingen';
     observer.observe(grid, { childList: true });
   }
