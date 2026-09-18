@@ -28,9 +28,11 @@
   }
 
   function productImage(product, large = false) {
+    const cropStyle = product.imageFrontOnly && product.imageBounds
+      ? ` style="clip-path: inset(${product.imageBounds[1] * 100}% ${(1 - product.imageBounds[2]) * 100}% ${(1 - product.imageBounds[3]) * 100}% ${product.imageBounds[0] * 100}%);"` : '';
     const sizeClass = large ? ' product-visual-large' : '';
     if (product.image) {
-      return `<div class="product-visual${sizeClass}"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.brand)} ${escapeHtml(product.name)}" loading="lazy"></div>`;
+      return `<div class="product-visual${sizeClass}"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.brand)} ${escapeHtml(product.name)}" loading="lazy"${cropStyle}></div>`;
     }
     return `<div class="product-visual product-image-pending${sizeClass}" role="img" aria-label="Productfoto nog niet beschikbaar"><span>Productfoto volgt</span></div>`;
   }

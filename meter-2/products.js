@@ -119,7 +119,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
-    "name": "Classic Emerald Riesling Colombard",
+    "name": "Classic Emerald Riesling & Colombard",
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
@@ -134,7 +134,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Halfdroog",
-      "Druiven": "Emerald Riesling en Colombard",
+      "Druiven": "Emerald Riesling & Colombard",
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
@@ -226,7 +226,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
-    "name": "Premieur Emerald Riesling Colombard",
+    "name": "Premieur Emerald Riesling & Colombard",
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
@@ -241,7 +241,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Halfdroog",
-      "Druiven": "Emerald Riesling en Colombard",
+      "Druiven": "Emerald Riesling & Colombard",
       "Lijn / serie": "Premieur",
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
@@ -299,7 +299,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Rosé",
       "Wijnstijl": "Halfdroog volgens producentenetiket",
-      "Druiven": "Cabernet Sauvignon en Shiraz",
+      "Druiven": "Cabernet Sauvignon & Shiraz",
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "11%",
@@ -338,7 +338,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 7,
-    "name": "Emerald Riesling en Colombard",
+    "name": "Emerald Riesling & Colombard",
     "brand": "Zmora",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
@@ -353,7 +353,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Halfzoet volgens productinformatie",
-      "Druiven": "Emerald Riesling en Colombard",
+      "Druiven": "Emerald Riesling & Colombard",
       "Lijn / serie": "Zmora",
       "Herkomst": "Israël, Dan",
       "Alcohol": "11,5%",
@@ -580,7 +580,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Droog",
-      "Druiven": "Sauvignon Blanc, Colombard en Muscat",
+      "Druiven": "Sauvignon Blanc, Colombard & Muscat",
       "Lijn / serie": "Segal",
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
@@ -681,7 +681,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
-    "name": "Classic Merlot Argaman",
+    "name": "Classic Merlot & Argaman",
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
@@ -696,7 +696,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Rode wijn",
       "Wijnstijl": "Droog",
-      "Druiven": "50% Merlot en 50% Argaman",
+      "Druiven": "50% Merlot & 50% Argaman",
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12%",
@@ -1194,7 +1194,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Rode wijn",
       "Wijnstijl": "Droog",
-      "Druiven": "85% Merlot en 15% Cabernet Sauvignon",
+      "Druiven": "85% Merlot & 15% Cabernet Sauvignon",
       "Lijn / serie": "Ben Ami",
       "Herkomst": "Israël, Galil",
       "Alcohol": "13%",
@@ -1602,5 +1602,90 @@ window.KPI_PRODUCTS = [
       0.915806
     ],
     "mevushalStatus": "mevushal"
+  },
+  {
+    "brand": "Barkan",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "isWine": true,
+    "year": null,
+    "volume": "750 ml",
+    "ingredients": "Zwaveldioxide (sulfieten).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "imageFrontOnly": true,
+    "id": 29,
+    "name": "Premieur Cabernet Sauvignon & Malbec",
+    "ean": "7290012576607",
+    "alcohol": "13%",
+    "category": "Rode wijn",
+    "variant": "750 ml · 13%",
+    "image": "images/barkan-premieur-cabernet-malbec-2025.png",
+    "imageBounds": [
+      0.075,
+      0.02,
+      0.45,
+      0.982
+    ],
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "Cabernet Sauvignon & Malbec",
+      "Lijn / serie": "Premieur",
+      "Herkomst": "Israël",
+      "Alcohol": "13%",
+      "Inhoud": "750 ml",
+      "Bewaren": "Koel en donker bewaren, bij voorkeur bij 12 tot 15 °C.",
+      "Serveertemperatuur": "16 tot 18 °C",
+      "Mevushal": "Nee"
+    },
+    "sourcePhotos": [
+      "codex-clipboard-be09ec82-5612-491c-8c82-a525bfb744ef.png"
+    ],
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "sources": [
+      {
+        "label": "Israëlwinkel — productvermelding",
+        "url": "https://www.israelwinkel.nl/producten/barkan-premieur-cabernet-sauvignon-malbec"
+      }
+    ]
+  },
+  {
+    "brand": "Barkan",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "isWine": true,
+    "year": null,
+    "volume": "750 ml",
+    "ingredients": "Zwaveldioxide (sulfieten).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "imageFrontOnly": true,
+    "id": 30,
+    "name": "Moscato",
+    "ean": "7290019220596",
+    "alcohol": "5,5%",
+    "category": "Witte wijn",
+    "variant": "750 ml · 5,5%",
+    "image": "images/barkan-moscato-2025.png",
+    "imageBounds": [
+      0.11,
+      0.096,
+      0.435,
+      0.982
+    ],
+    "productInfo": {
+      "Type": "Witte wijn",
+      "Wijnstijl": "Zoet, licht mousserend",
+      "Herkomst": "Israël",
+      "Alcohol": "5,5%",
+      "Inhoud": "750 ml",
+      "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
+      "Serveertemperatuur": "9 tot 12 °C"
+    },
+    "sourcePhotos": [
+      "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
+    ],
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen."
   }
 ];
