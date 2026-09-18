@@ -1,5 +1,726 @@
 window.KPI_PRODUCTS = [
   {
+    "id": 43,
+    "name": "Bloemenhoning",
+    "brand": "",
+    "category": "Honing",
+    "variant": "250 g",
+    "ean": null,
+    "ingredients": null,
+    "allergens": null,
+    "kosher": "Rabbijn Heinz",
+    "image": "images/honing-bloemen.png",
+    "imageIllustration": true,
+    "productInfo": {
+      "Inhoud": "250 g",
+      "Bijzonderheden": "Imkerhoning"
+    },
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+  },
+  {
+    "id": 44,
+    "name": "Lindehoning",
+    "brand": "",
+    "category": "Honing",
+    "variant": "250 g",
+    "ean": null,
+    "ingredients": null,
+    "allergens": null,
+    "kosher": "Rabbijn Heinz",
+    "image": "images/honing-linde.png",
+    "imageIllustration": true,
+    "productInfo": {
+      "Inhoud": "250 g",
+      "Bijzonderheden": "Imkerhoning"
+    },
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+  },
+  {
+    "id": 45,
+    "name": "Lavendelhoning",
+    "brand": "",
+    "category": "Honing",
+    "variant": "250 g",
+    "ean": null,
+    "ingredients": null,
+    "allergens": null,
+    "kosher": "Rabbijn Heinz",
+    "image": "images/honing-lavendel.png",
+    "imageIllustration": true,
+    "productInfo": {
+      "Inhoud": "250 g",
+      "Bijzonderheden": "Imkerhoning"
+    },
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+  },
+  {
+    "id": 46,
+    "name": "Tijmhoning",
+    "brand": "",
+    "category": "Honing",
+    "variant": "250 g",
+    "ean": null,
+    "ingredients": null,
+    "allergens": null,
+    "kosher": "Rabbijn Heinz",
+    "image": "images/honing-tijm.png",
+    "imageIllustration": true,
+    "productInfo": {
+      "Inhoud": "250 g",
+      "Bijzonderheden": "Imkerhoning"
+    },
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+  },
+  {
+    "id": 47,
+    "name": "Acaciahoning",
+    "brand": "",
+    "category": "Honing",
+    "variant": "250 g",
+    "ean": null,
+    "ingredients": null,
+    "allergens": null,
+    "kosher": "Rabbijn Heinz",
+    "image": "images/honing-acacia.png",
+    "imageIllustration": true,
+    "productInfo": {
+      "Inhoud": "250 g",
+      "Bijzonderheden": "Imkerhoning"
+    },
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+  },
+  {
+    "id": 48,
+    "name": "Kastanjehoning",
+    "brand": "",
+    "category": "Honing",
+    "variant": "250 g",
+    "ean": null,
+    "ingredients": null,
+    "allergens": null,
+    "kosher": "Rabbijn Heinz",
+    "image": "images/honing-kastanje.png",
+    "imageIllustration": true,
+    "productInfo": {
+      "Inhoud": "250 g",
+      "Bijzonderheden": "Imkerhoning"
+    },
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+  },
+  {
+    "id": 62,
+    "name": "Chimichurri",
+    "brand": "Bnei Darom",
+    "category": "Spreads & Pasta’s",
+    "variant": "190 g",
+    "ean": "7290112870292",
+    "ingredients": "Peterselie (42%), witte ui (17%), rode paprika (17%), water, plantaardige olie, gedroogde knoflook (3%), zuurteregelaars (azijnzuur, citroenconcentraat), zout, suiker, conserveermiddel (kaliumsorbaat).",
+    "allergens": null,
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
+    "image": "images/bnei-chimichurri-correct.png",
+    "imageBounds": [
+      0.28,
+      0,
+      0.71,
+      0.995
+    ],
+    "productInfo": {
+      "Inhoud": "190 g"
+    },
+    "mayContain": "Cashewnoten.",
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
+    "sources": [
+      {
+        "label": "Fabrikantcatalogus",
+        "url": "https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Basilicumpesto",
+    "brand": "Bnei Darom",
+    "category": "Spreads & Pasta’s",
+    "variant": "190 g",
+    "ean": "7290112870247",
+    "ingredients": "Verse basilicum (44%), plantaardige oliën, water, zout, stabilisatoren (cellulosevezels, xanthaangom), gedroogde knoflookvlokken, zuurteregelaars (melkzuur, ascorbinezuur), gemalen zwarte peper, conserveermiddel (sorbaat).",
+    "allergens": null,
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
+    "image": "images/bnei-basilicumpesto.png",
+    "imageBounds": [
+      0.16125,
+      0.015,
+      0.84,
+      0.99
+    ],
+    "productInfo": {
+      "Inhoud": "190 g"
+    },
+    "reviewNotes": "Volledige ingrediënten en allergenenwaarschuwing rechtstreeks van fysieke etiketfoto codex-clipboard-1b7d8460-6b40-497b-861d-447aa41cc4c6.png. Cashewnoten uitsluitend als kan bevatten vermeld, niet als ingrediënt. Sorbaat zonder nadere specificatie overgenomen. Eerdere gedeeltelijke transcriptie hiermee vervangen. Barcode bevestigd op IMG_4272; productfoto door gebruiker aangeleverd. Geen voedingswaardeblok op verzoek gebruiker.",
+    "mayContain": "Cashewnoten."
+  },
+  {
+    "id": 61,
+    "name": "Knoflookpasta",
+    "brand": "Kvuzat Yavne",
+    "category": "Spreads & Pasta’s",
+    "variant": "190 g",
+    "ean": "7290012313653",
+    "ingredients": "Knoflook (74%), koolzaadolie, citroenconcentraat, suiker, zout.",
+    "allergens": null,
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
+    "image": "images/yavne-knoflook.png",
+    "imageBounds": [
+      0.19617,
+      0.04306,
+      0.80144,
+      0.97129
+    ],
+    "productInfo": {
+      "Inhoud": "190 g"
+    },
+    "mayContain": "Cashewnoten.",
+    "imageEdited": true,
+    "reviewNotes": "Rechtstreeks afgelezen van fysieke fotos IMG_4273, IMG_4274 en IMG_4275 teruggevonden in eerder gesprek. Bewerkte voorfoto; ingrediënten en sporenwaarschuwing uitsluitend vanaf fysiek etiket."
+  },
+  {
+    "id": 64,
+    "name": "Gedroogde Tomatenpasta",
+    "brand": "Bnei Darom",
+    "category": "Spreads & Pasta’s",
+    "variant": "190 g",
+    "ean": "7290112870254",
+    "ingredients": "Gerehydrateerde gedroogde tomaten (45%) (gedroogde tomaten, water, zout), plantaardige oliën (koolzaadolie en olijfolie), suiker, tomatenpoeder, specerijen (oregano, gemalen zwarte peper en rozemarijn), zuurteregelaar (citroenzuur), conserveermiddel (E202).",
+    "allergens": null,
+    "mayContain": "Cashewnoten.",
+    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
+    "image": "images/bnei-tomatenpasta.png",
+    "imageBounds": [
+      0.16268,
+      0.0622,
+      0.83971,
+      0.95455
+    ],
+    "imageEdited": true,
+    "productInfo": {
+      "Inhoud": "190 g"
+    },
+    "reviewNotes": "Naam, inhoud, ingrediënten en cashewsporen rechtstreeks van IMG_4276–4278; barcode 7290112870254. Eerdere samenvatting pikante paprika was onjuist. Geen voedingswaardeblok op verzoek gebruiker. Voorfoto met ingebouwde imagegen rechtgezet en vrijstaand gemaakt; gegevens uitsluitend fysiek etiket."
+  },
+  {
+    "id": 49,
+    "name": "Za’atar met Olijfolie",
+    "brand": "Neptune",
+    "category": "Spreads & Pasta’s",
+    "variant": "180 g",
+    "ean": "877300009213",
+    "ingredients": "Water, geraffineerde koolzaadolie, dextrose, olijfolie (8%), za’atar (7%), gedroogde knoflook, citroenconcentraat, sesam, natuurazijn, zout, specerijen, citroenzuur, xanthaangom.",
+    "allergens": [
+      "SESAM"
+    ],
+    "allergenNote": "Kan cashewnoten, pijnboompitten, pistache, amandelen, hazelnoten, pinda, soja, mosterd en selderij bevatten.",
+    "kosher": null,
+    "image": "images/neptune-zaatar-sharp.png",
+    "imageBounds": [
+      0.1866,
+      0.05742,
+      0.8134,
+      0.95215
+    ],
+    "productInfo": {
+      "Inhoud": "180 g",
+      "Omschrijving": "Za’atarsmeersel met olijfolie, voor op brood of als dip."
+    },
+    "sources": [
+      {
+        "label": "Productfoto en variantgegevens",
+        "url": "https://www.israelwinkel.nl/producten/dipsauzen"
+      },
+      {
+        "label": "Fabrikantcatalogus met barcode",
+        "url": "https://fliphtml5.com/Neptunefood/bdbh/Neptune_Food_Products_Retail_Catalog_2025/"
+      }
+    ],
+    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/68210%20SPREAD-olijf-01KC6ZPXDX33WQC4CDAK32A4E5.jpg",
+    "reviewNotes": "Ingrediënten, allergenen, barcode en inhoud uit gebruikersopgave. IPC bevestigt variant en receptuur; echte foto toont Neptune Za’atar with olive oil 180 g. Geen hechsher uit online verpakking afgeleid. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
+    "imageEdited": true
+  },
+  {
+    "id": 58,
+    "name": "Bessenmix Fruitpasta",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "284 g",
+    "ean": "7290012668616",
+    "ingredients": "Bessenmix (51%: aardbeien 17%, zwarte bessen 17%, kersen 17%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-67018.jpg",
+    "imageBounds": [
+      0.14784,
+      0.06793,
+      0.9166,
+      0.95658
+    ],
+    "productInfo": {
+      "Inhoud": "284 g",
+      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
+    },
+    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid.",
+    "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4848455759.jpg",
+    "sources": [
+      {
+        "label": "Passende variant en productfoto",
+        "url": "https://www.israelwinkel.nl/producten/fruitspread"
+      },
+      {
+        "label": "Barcode Bessenmix bevestigd",
+        "url": "https://www.hertog.nl/artikel/7290012668616/Berry%20Mix/"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Aardbeien Fruitpasta",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "284 g",
+    "ean": null,
+    "ingredients": "Aardbei (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-67017.png",
+    "imageBounds": [
+      0.33511,
+      0.04188,
+      0.61915,
+      0.94416
+    ],
+    "productInfo": {
+      "Inhoud": "284 g",
+      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
+    },
+    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid. Opgegeven barcode 7290012668616 hoort bij Bessenmix; aardbeienbarcode leeg tot bevestiging.",
+    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67017%20strawberry%20klein%20formaat-01KKEATHSMATDDGJQPXHGE3M79.png",
+    "sources": [
+      {
+        "label": "Passende variant en productfoto",
+        "url": "https://www.israelwinkel.nl/producten/fruitspread"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Perzik Fruitpasta",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "284 g",
+    "ean": "7290012668296",
+    "ingredients": "Perzik (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-67016.png",
+    "imageBounds": [
+      0.36064,
+      0.03807,
+      0.64787,
+      0.97081
+    ],
+    "productInfo": {
+      "Inhoud": "284 g",
+      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
+    },
+    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid.",
+    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67016%20perzik%20jam%20klein%20formaat-01KKEATHSMXP2KBX21V03086B3.png",
+    "sources": [
+      {
+        "label": "Passende variant en productfoto",
+        "url": "https://www.israelwinkel.nl/producten/fruitspread"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Aardbeienjam",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "340 g",
+    "ean": "7290018859179",
+    "ingredients": "Aardbeien (50%), suiker, pectine, citroenzuur.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-strawberry-340g.png",
+    "imageBounds": [
+      0.23684,
+      0.04545,
+      0.76555,
+      0.94498
+    ],
+    "productInfo": {
+      "Inhoud": "340 g",
+      "Bewaren": "Na opening gekoeld bewaren."
+    },
+    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
+    "imageEdited": true
+  },
+  {
+    "id": 54,
+    "name": "Kersenjam",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "340 g",
+    "ean": "7290018859216",
+    "ingredients": "Kers (50%), suiker, pectine, citroenzuur.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-cherry-340g.png",
+    "imageBounds": [
+      0.23684,
+      0.04545,
+      0.76077,
+      0.94737
+    ],
+    "productInfo": {
+      "Inhoud": "340 g",
+      "Bewaren": "Na opening gekoeld bewaren."
+    },
+    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
+    "imageEdited": true
+  },
+  {
+    "id": 53,
+    "name": "Vijgenjam",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "340 g",
+    "ean": "7290018859513",
+    "ingredients": "Vijg (50%), suiker, citroenzuur, pectine, geconcentreerd vlierbessensap en zwartewortelsap.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-fig-340g.png",
+    "imageBounds": [
+      0.23684,
+      0.04785,
+      0.76316,
+      0.90431
+    ],
+    "productInfo": {
+      "Inhoud": "340 g",
+      "Bewaren": "Na opening gekoeld bewaren."
+    },
+    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
+    "imageEdited": true
+  },
+  {
+    "id": 52,
+    "name": "Appel & Kaneel",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "340 g",
+    "ean": "7290018859193",
+    "ingredients": "Appel (50%), suiker, kaneel (0,1%), citroenzuur, pectine, ascorbinezuur.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-apple-340g.png",
+    "imageBounds": [
+      0.23445,
+      0.04545,
+      0.76555,
+      0.97368
+    ],
+    "productInfo": {
+      "Inhoud": "340 g",
+      "Bewaren": "Na opening gekoeld bewaren."
+    },
+    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
+    "imageEdited": true
+  },
+  {
+    "id": 59,
+    "name": "Dadelstroop 100% Dadels",
+    "brand": "Aunt Berta",
+    "category": "Dadelproducten",
+    "variant": "340 g",
+    "ean": "7290018859025",
+    "ingredients": "100% dadels.",
+    "allergens": null,
+    "kosher": "OU",
+    "image": "images/aunt-dadelstroop.png",
+    "imageBounds": [
+      0.345,
+      0.07,
+      0.67,
+      0.925
+    ],
+    "productInfo": {
+      "Inhoud": "340 g",
+      "Omschrijving": "Zonder toegevoegde suiker.",
+      "Voedingsvoorkeur": "Vegan"
+    },
+    "reviewNotes": "Teruggevonden in eerdere etikettranscriptie 56c3a6ee, gesprek Koosjere productdatabase opzetten. Foto passende 340 g IPC-variant.",
+    "sources": [
+      {
+        "label": "Productfoto",
+        "url": "https://www.israelwinkel.nl/producten/dadelstroop"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Chocoladepasta Origineel",
+    "brand": "Hatov",
+    "category": "Spreads & Pasta’s",
+    "variant": "400 g",
+    "ean": "031513477268",
+    "ingredients": "Suiker, plantaardige olie (palmolie en gedeeltelijk gehydrogeneerde palmolie), magere cacao, sojalecithine, zout, vanilline en aroma.",
+    "allergens": [
+      "SOJA"
+    ],
+    "kosher": "OU / Rabbijn Weissmandl (Parve)",
+    "image": "images/hatov-original-sharp.png",
+    "imageEdited": true,
+    "kosherStatus": "Parve",
+    "productInfo": {
+      "Inhoud": "400 g"
+    },
+    "sources": [
+      {
+        "label": "Productpagina",
+        "url": "https://www.justkosher.co.uk/Product/Chocolate_Spread/465/"
+      }
+    ],
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
+    "imageBounds": [
+      0.125,
+      0.055,
+      0.87,
+      0.95
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Delinut Melk",
+    "brand": "Schneider’s",
+    "category": "Spreads & Pasta’s",
+    "variant": "350 g",
+    "ean": "838948007726",
+    "ingredients": "Suiker, koolzaadolie, hazelnoten (13%), magere melkpoeder (7,5%), magere cacaopoeder (7,5%), palmolie, cacaoboter (1,3%), koolzaadlecithine.",
+    "allergens": [
+      "HAZELNOTEN",
+      "MELK"
+    ],
+    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Zuivel)",
+    "image": "images/spread-milky.jpg",
+    "productInfo": {
+      "Inhoud": "350 g",
+      "Omschrijving": "Hazelnootpasta met melk."
+    },
+    "sources": [
+      {
+        "label": "Productpagina",
+        "url": "https://elisha.be/en/delinut-milky-chocolate-spread"
+      }
+    ],
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave. Op herhaald verzoek van gebruiker foto van Elisha gekoppeld; productpagina heeft barcode 838948007726 en inhoud 350 g. De foto toont een oudere/andere 400 g-verpakking. Opgegeven inhoud 350 g en ingrediënten ongewijzigd behouden.",
+    "allergenNote": "Kan sporen bevatten van andere noten en soja.",
+    "imageSource": "https://elisha.be/image/cache/catalog/new%20pics%202017/06-2017/10240-600x600.jpg",
+    "imageBounds": [
+      0.185,
+      0.09333333333333334,
+      0.785,
+      0.8933333333333333
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Delinut Origineel",
+    "brand": "Schneider’s",
+    "category": "Spreads & Pasta’s",
+    "variant": "350 g",
+    "ean": "838948000031",
+    "ingredients": "Suiker, koolzaadolie, hazelnoten (13%), magere cacaopoeder (7,5%), palmolie, rijststrooppoeder, cacaoboter (1,5%), koolzaadlecithine.",
+    "allergens": [
+      "HAZELNOTEN"
+    ],
+    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
+    "image": "images/delinut-original.jpg",
+    "productInfo": {
+      "Inhoud": "350 g",
+      "Omschrijving": "Hazelnootpasta met cacao."
+    },
+    "sources": [
+      {
+        "label": "Productpagina",
+        "url": "https://elisha.be/en/Chocopasta"
+      }
+    ],
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
+    "allergenNote": "Geproduceerd in een omgeving waar ook andere noten, melk en soja worden verwerkt.",
+    "imageBounds": [
+      0.15833333333333333,
+      0.06666666666666667,
+      0.8316666666666667,
+      0.9533333333333334
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Delinut Duo",
+    "brand": "Schneider’s",
+    "category": "Spreads & Pasta’s",
+    "variant": "350 g",
+    "ean": "838948007412",
+    "ingredients": "Suiker, koolzaadolie, hazelnoten (6,5%), palmolie, magere cacaopoeder (3,8%), rijststrooppoeder, cacaoboter (1,5%), koolzaadlecithine.",
+    "allergens": [
+      "HAZELNOTEN"
+    ],
+    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
+    "image": "images/spread-duo.jpg",
+    "productInfo": {
+      "Inhoud": "350 g",
+      "Omschrijving": "Chocoladepasta en witte hazelnootpasta."
+    },
+    "sources": [
+      {
+        "label": "Productpagina",
+        "url": "https://elisha.be/en/Duo-Dellinut-Chocopasta"
+      }
+    ],
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
+    "allergenNote": "Geproduceerd in een omgeving waar ook andere noten, melk en soja worden verwerkt.",
+    "imageBounds": [
+      0.11833333333333333,
+      0.01,
+      0.8633333333333333,
+      0.9933333333333333
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Pindakaas Romig",
+    "brand": "Schneider’s",
+    "category": "Spreads & Pasta’s",
+    "variant": "350 g",
+    "ean": "194961002804",
+    "ingredients": "Geroosterde pinda’s (98,8%), volledig gehydrogeneerde koolzaadolie, zout.",
+    "allergens": [
+      "PINDA"
+    ],
+    "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
+    "image": "images/spread-creamy.jpg",
+    "kosherStatus": "Parve",
+    "productInfo": {
+      "Omschrijving": "Romige pindakaas zonder toegevoegde suiker."
+    },
+    "sources": [
+      {
+        "label": "Productpagina",
+        "url": "https://elisha.be/en/peanut-butter2"
+      }
+    ],
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen. Netto gewicht 350 g bevestigd door gebruiker.",
+    "imageBounds": [
+      0.21333333333333335,
+      0.013333333333333334,
+      0.7866666666666666,
+      0.99
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Pindakaas met Stukjes",
+    "brand": "Schneider’s",
+    "category": "Spreads & Pasta’s",
+    "variant": "350 g",
+    "ean": "194961002811",
+    "ingredients": "Geroosterde pinda’s (94,8%), suiker, volledig gehydrogeneerde koolzaadolie, zout.",
+    "allergens": [
+      "PINDA"
+    ],
+    "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
+    "image": "images/spread-crunchy.jpg",
+    "productInfo": {
+      "Inhoud": "340 g",
+      "Omschrijving": "Pindakaas met stukjes pinda."
+    },
+    "sources": [
+      {
+        "label": "Productpagina",
+        "url": "https://elisha.be/en/crunchy-peanut-butter"
+      }
+    ],
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave. Op herhaald verzoek van gebruiker Elisha-foto gekoppeld; productpagina heeft dezelfde barcode 194961002811. Afbeelding en webshop noemen 350 g; fysieke inhoud 340 g en ingrediënten uit gebruikersopgave behouden. Netto gewicht 350 g bevestigd door gebruiker.",
+    "imageSource": "https://elisha.be/image/cache/catalog/Pics%202023/ISK_02-600x600.jpg",
+    "imageBounds": [
+      0.21333333333333335,
+      0.013333333333333334,
+      0.7866666666666666,
+      0.9933333333333333
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Harosset",
+    "brand": "Beit-Yitzhak Natural Products",
+    "category": "Spreads & Pasta’s",
+    "variant": "250 g",
+    "ean": "7290004067458",
+    "ingredients": "Suiker, dadelpasta (40%), appels (9%), water, walnoten (4%), amandelen (1,5%), wijn, gemodificeerd aardappelzetmeel, kaneel, gember, citroenzuur (zuurteregelaar), kaliumsorbaat (conserveermiddel).",
+    "allergens": [
+      "WALNOTEN",
+      "AMANDELEN"
+    ],
+    "kosher": null,
+    "image": "images/beit-yitzhak-harosset-sharp.png",
+    "imageBounds": [
+      0.17943,
+      0.08612,
+      0.81818,
+      0.94737
+    ],
+    "productInfo": {
+      "Inhoud": "250 g"
+    },
+    "reviewNotes": "Gebruiker bevestigt Beit-Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Geen hechsher zichtbaar op deze foto. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
+    "imageEdited": true,
+    "mayContain": "Paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten.",
+    "warning": "Kan stukjes pitten bevatten."
+  },
+  {
+    "id": 51,
+    "name": "Charoset Dadelpasta",
+    "brand": "Aunt Berta",
+    "category": "Spreads & Pasta’s",
+    "variant": "240 g",
+    "ean": "7290017181486",
+    "ingredients": "Dadelpasta, dadels, suiker, citroenzuur, conserveermiddel (kaliumsorbaat), silan (dadelstroop), water, appel, rode wijn, pectine, kaneel, kruidnagel, citroenzuur, hazelnootaroma.",
+    "allergens": [
+      "SULFIET"
+    ],
+    "kosher": null,
+    "image": "images/aunt-charoset-sharp.png",
+    "imageBounds": [
+      0.22249,
+      0.10766,
+      0.77273,
+      0.9067
+    ],
+    "productInfo": {
+      "Inhoud": "240 g"
+    },
+    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten overgenomen van Israelwinkel-productpagina voor 240 g; percentages 53% en 64% weggelaten omdat de bron de samenstelling van dadelpasta niet duidelijk afbakent. Geen aanvullende ingrediënten verondersteld. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
+    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67020%20nwe%20charoset%20najaar%202026%20klein%20formaat-01M2QA36QVKZS08MAACNHPDJEF.png",
+    "sources": [
+      {
+        "label": "Passende variant en productfoto",
+        "url": "https://www.israelwinkel.nl/producten/charosset-dadel-appel-spread"
+      }
+    ],
+    "allergenNote": "Kan soja, sesamzaad, walnoten en hazelnoten bevatten.",
+    "warning": "Kan stukjes vruchtenpitten bevatten.",
+    "imageEdited": true
+  },
+  {
     "id": 1,
     "name": "Italiaanse Mediterrane Kruidenmix",
     "brand": "Ta’am Vareach",
@@ -149,6 +870,35 @@ window.KPI_PRODUCTS = [
       0.072311,
       0.87386,
       0.936047
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Baharat",
+    "brand": "Ta’am Vareach",
+    "category": "Kruidenmixen",
+    "variant": "80 g",
+    "ean": "7290015324557",
+    "ingredients": "Specerijen, zout.",
+    "allergens": [],
+    "kosher": "OU",
+    "image": "images/67157.jpg",
+    "productInfo": {
+      "Inhoud": "80 g"
+    },
+    "sources": [
+      {
+        "label": "Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/kruiden?sku=67157"
+      }
+    ],
+    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67157 baharat van voren-01KC70TRRJWMVF4SCGJDGEGA6M.jpg",
+    "reviewNotes": "Barcode, inhoud en ingrediënten uit eerdere etikettranscriptie 63bf62a1-adec-49db-a8c7-ebe742f90f2b; fysieke ingrediënten hebben voorrang boven de leveranciersomschrijving. OU bevestigd door gebruiker.",
+    "imageBounds": [
+      0.11233480176211454,
+      0.05553398058252427,
+      0.7878120411160059,
+      0.9809708737864078
     ]
   },
   {
@@ -572,7 +1322,7 @@ window.KPI_PRODUCTS = [
     "name": "Barbecue Kip Kruidenmix",
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
-    "variant": "",
+    "variant": "100 g",
     "ean": "7290020046208",
     "ingredients": "Zout, zoete paprika, dextrose, knoflook, antiklontermiddel (E551), zwarte peper.",
     "allergens": null,
@@ -586,41 +1336,12 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67175 (2)-01KC70TRRMYZJ552PS0VSNBZC3.jpg",
-    "reviewNotes": "Barcode en ingrediënten teruggevonden in eerdere etikettranscriptie 113ec5bc-31a0-410e-8ff8-e1224198206a. Gewicht en allergenen nog niet bevestigd. Online gewichten 100 en 120 g spreken elkaar tegen. OU bevestigd door gebruiker.",
+    "reviewNotes": "Barcode en ingrediënten uit eerdere etikettranscriptie 113ec5bc-31a0-410e-8ff8-e1224198206a. Netto gewicht 100 g leesbaar op bestaande Israëlwinkel-productfoto 67175.jpg (Contents: 100 gr.). Yarden noemt 120 g voor een andere uitvoering; foto van de gebruikte variant gevolgd. Allergenen nog niet bevestigd. OU bevestigd door gebruiker.",
     "imageBounds": [
       0.332,
       0.05,
       0.668,
       0.95
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Baharat",
-    "brand": "Ta’am Vareach",
-    "category": "Kruidenmixen",
-    "variant": "80 g",
-    "ean": "7290015324557",
-    "ingredients": "Specerijen, zout.",
-    "allergens": [],
-    "kosher": "OU",
-    "image": "images/67157.jpg",
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
-    "sources": [
-      {
-        "label": "Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/kruiden?sku=67157"
-      }
-    ],
-    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67157 baharat van voren-01KC70TRRJWMVF4SCGJDGEGA6M.jpg",
-    "reviewNotes": "Barcode, inhoud en ingrediënten uit eerdere etikettranscriptie 63bf62a1-adec-49db-a8c7-ebe742f90f2b; fysieke ingrediënten hebben voorrang boven de leveranciersomschrijving. OU bevestigd door gebruiker.",
-    "imageBounds": [
-      0.11233480176211454,
-      0.05553398058252427,
-      0.7878120411160059,
-      0.9809708737864078
     ]
   },
   {
@@ -888,7 +1609,12 @@ window.KPI_PRODUCTS = [
     },
     "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld.",
     "imageSource": "https://tzurfarm.com/wp-content/uploads/elementor/thumbs/ממרח-לאפייה-qssn9tb3melyotbn0f2ul7dyidtvhhyrhj6p0zokag.png",
-    "imageBounds": [0.283, 0.275, 0.675, 0.89],
+    "imageBounds": [
+      0.283,
+      0.275,
+      0.675,
+      0.89
+    ],
     "sources": [
       {
         "label": "Productfoto",
@@ -907,7 +1633,12 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "kosher": null,
     "image": "images/mehadrin-dadelpasta.png",
-    "imageBounds": [0.17, 0.065, 0.83, 0.93],
+    "imageBounds": [
+      0.17,
+      0.065,
+      0.83,
+      0.93
+    ],
     "productInfo": {
       "Inhoud": "450 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
@@ -990,646 +1721,5 @@ window.KPI_PRODUCTS = [
         "url": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-900-1-600x600.jpg"
       }
     ]
-  },
-  {
-    "id": 59,
-    "name": "Dadelstroop 100% Dadels",
-    "brand": "Aunt Berta",
-    "category": "Dadelproducten",
-    "variant": "340 g",
-    "ean": "7290018859025",
-    "ingredients": "100% dadels.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-dadelstroop.png",
-    "imageBounds": [0.345, 0.07, 0.67, 0.925],
-    "productInfo": {
-      "Inhoud": "340 g",
-      "Omschrijving": "Zonder toegevoegde suiker.",
-      "Voedingsvoorkeur": "Vegan"
-    },
-    "reviewNotes": "Teruggevonden in eerdere etikettranscriptie 56c3a6ee, gesprek Koosjere productdatabase opzetten. Foto passende 340 g IPC-variant.",
-    "sources": [
-      {
-        "label": "Productfoto",
-        "url": "https://www.israelwinkel.nl/producten/dadelstroop"
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "name": "Chocoladepasta Origineel",
-    "brand": "Hatov",
-    "category": "Spreads & Pasta’s",
-    "variant": "400 g",
-    "ean": "031513477268",
-    "ingredients": "Suiker, plantaardige olie (palmolie en gedeeltelijk gehydrogeneerde palmolie), magere cacao, sojalecithine, zout, vanilline en aroma.",
-    "allergens": [
-      "SOJA"
-    ],
-    "kosher": "OU / Rabbijn Weissmandl (Parve)",
-    "image": "images/hatov-original-sharp.png",
-    "imageEdited": true,
-    "kosherStatus": "Parve",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
-    "sources": [
-      {
-        "label": "Productpagina",
-        "url": "https://www.justkosher.co.uk/Product/Chocolate_Spread/465/"
-      }
-    ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
-    "imageBounds": [0.125, 0.055, 0.87, 0.95]
-  },
-  {
-    "id": 38,
-    "name": "Delinut Melk",
-    "brand": "Schneider’s",
-    "category": "Spreads & Pasta’s",
-    "variant": "350 g",
-    "ean": "838948007726",
-    "ingredients": "Suiker, koolzaadolie, hazelnoten (13%), magere melkpoeder (7,5%), magere cacaopoeder (7,5%), palmolie, cacaoboter (1,3%), koolzaadlecithine.",
-    "allergens": [
-      "HAZELNOTEN",
-      "MELK"
-    ],
-    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Zuivel)",
-    "image": "images/spread-milky.jpg",
-    "productInfo": {
-      "Inhoud": "350 g",
-      "Omschrijving": "Hazelnootpasta met melk."
-    },
-    "sources": [
-      {
-        "label": "Productpagina",
-        "url": "https://elisha.be/en/delinut-milky-chocolate-spread"
-      }
-    ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave. Op herhaald verzoek van gebruiker foto van Elisha gekoppeld; productpagina heeft barcode 838948007726 en inhoud 350 g. De foto toont een oudere/andere 400 g-verpakking. Opgegeven inhoud 350 g en ingrediënten ongewijzigd behouden.",
-    "allergenNote": "Kan sporen bevatten van andere noten en soja.",
-    "imageSource": "https://elisha.be/image/cache/catalog/new%20pics%202017/06-2017/10240-600x600.jpg",
-    "imageBounds": [
-      0.185,
-      0.09333333333333334,
-      0.785,
-      0.8933333333333333
-    ]
-  },
-  {
-    "id": 39,
-    "name": "Delinut Origineel",
-    "brand": "Schneider’s",
-    "category": "Spreads & Pasta’s",
-    "variant": "350 g",
-    "ean": "838948000031",
-    "ingredients": "Suiker, koolzaadolie, hazelnoten (13%), magere cacaopoeder (7,5%), palmolie, rijststrooppoeder, cacaoboter (1,5%), koolzaadlecithine.",
-    "allergens": [
-      "HAZELNOTEN"
-    ],
-    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
-    "image": "images/delinut-original.jpg",
-    "productInfo": {
-      "Inhoud": "350 g",
-      "Omschrijving": "Hazelnootpasta met cacao."
-    },
-    "sources": [
-      {
-        "label": "Productpagina",
-        "url": "https://elisha.be/en/Chocopasta"
-      }
-    ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
-    "allergenNote": "Geproduceerd in een omgeving waar ook andere noten, melk en soja worden verwerkt.",
-    "imageBounds": [
-      0.15833333333333333,
-      0.06666666666666667,
-      0.8316666666666667,
-      0.9533333333333334
-    ]
-  },
-  {
-    "id": 40,
-    "name": "Delinut Duo",
-    "brand": "Schneider’s",
-    "category": "Spreads & Pasta’s",
-    "variant": "350 g",
-    "ean": "838948007412",
-    "ingredients": "Suiker, koolzaadolie, hazelnoten (6,5%), palmolie, magere cacaopoeder (3,8%), rijststrooppoeder, cacaoboter (1,5%), koolzaadlecithine.",
-    "allergens": [
-      "HAZELNOTEN"
-    ],
-    "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
-    "image": "images/spread-duo.jpg",
-    "productInfo": {
-      "Inhoud": "350 g",
-      "Omschrijving": "Chocoladepasta en witte hazelnootpasta."
-    },
-    "sources": [
-      {
-        "label": "Productpagina",
-        "url": "https://elisha.be/en/Duo-Dellinut-Chocopasta"
-      }
-    ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
-    "allergenNote": "Geproduceerd in een omgeving waar ook andere noten, melk en soja worden verwerkt.",
-    "imageBounds": [
-      0.11833333333333333,
-      0.01,
-      0.8633333333333333,
-      0.9933333333333333
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Pindakaas Romig",
-    "brand": "Schneider’s",
-    "category": "Spreads & Pasta’s",
-    "variant": null,
-    "ean": "194961002804",
-    "ingredients": "Geroosterde pinda’s (98,8%), volledig gehydrogeneerde koolzaadolie, zout.",
-    "allergens": [
-      "PINDA"
-    ],
-    "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
-    "image": "images/spread-creamy.jpg",
-    "kosherStatus": "Parve",
-    "productInfo": {
-      "Omschrijving": "Romige pindakaas zonder toegevoegde suiker."
-    },
-    "sources": [
-      {
-        "label": "Productpagina",
-        "url": "https://elisha.be/en/peanut-butter2"
-      }
-    ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen. Gewicht niet opgegeven; Elisha noemt 350 g maar fysieke verpakking blijft leidend.",
-    "imageBounds": [
-      0.21333333333333335,
-      0.013333333333333334,
-      0.7866666666666666,
-      0.99
-    ]
-  },
-  {
-    "id": 42,
-    "name": "Pindakaas met Stukjes",
-    "brand": "Schneider’s",
-    "category": "Spreads & Pasta’s",
-    "variant": "340 g",
-    "ean": "194961002811",
-    "ingredients": "Geroosterde pinda’s (94,8%), suiker, volledig gehydrogeneerde koolzaadolie, zout.",
-    "allergens": [
-      "PINDA"
-    ],
-    "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
-    "image": "images/spread-crunchy.jpg",
-    "productInfo": {
-      "Inhoud": "340 g",
-      "Omschrijving": "Pindakaas met stukjes pinda."
-    },
-    "sources": [
-      {
-        "label": "Productpagina",
-        "url": "https://elisha.be/en/crunchy-peanut-butter"
-      }
-    ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave. Op herhaald verzoek van gebruiker Elisha-foto gekoppeld; productpagina heeft dezelfde barcode 194961002811. Afbeelding en webshop noemen 350 g; fysieke inhoud 340 g en ingrediënten uit gebruikersopgave behouden.",
-    "imageSource": "https://elisha.be/image/cache/catalog/Pics%202023/ISK_02-600x600.jpg",
-    "imageBounds": [
-      0.21333333333333335,
-      0.013333333333333334,
-      0.7866666666666666,
-      0.9933333333333333
-    ]
-  },
-  {
-    "id": 43,
-    "name": "Bloemenhoning",
-    "brand": "",
-    "category": "Honing",
-    "variant": "250 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "kosher": "Rabbijn Heinz",
-    "image": "images/honing-bloemen.png",
-    "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "250 g",
-      "Bijzonderheden": "Imkerhoning"
-    },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
-  },
-  {
-    "id": 44,
-    "name": "Lindehoning",
-    "brand": "",
-    "category": "Honing",
-    "variant": "250 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "kosher": "Rabbijn Heinz",
-    "image": "images/honing-linde.png",
-    "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "250 g",
-      "Bijzonderheden": "Imkerhoning"
-    },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
-  },
-  {
-    "id": 45,
-    "name": "Lavendelhoning",
-    "brand": "",
-    "category": "Honing",
-    "variant": "250 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "kosher": "Rabbijn Heinz",
-    "image": "images/honing-lavendel.png",
-    "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "250 g",
-      "Bijzonderheden": "Imkerhoning"
-    },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
-  },
-  {
-    "id": 46,
-    "name": "Tijmhoning",
-    "brand": "",
-    "category": "Honing",
-    "variant": "250 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "kosher": "Rabbijn Heinz",
-    "image": "images/honing-tijm.png",
-    "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "250 g",
-      "Bijzonderheden": "Imkerhoning"
-    },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
-  },
-  {
-    "id": 47,
-    "name": "Acaciahoning",
-    "brand": "",
-    "category": "Honing",
-    "variant": "250 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "kosher": "Rabbijn Heinz",
-    "image": "images/honing-acacia.png",
-    "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "250 g",
-      "Bijzonderheden": "Imkerhoning"
-    },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
-  },
-  {
-    "id": 48,
-    "name": "Kastanjehoning",
-    "brand": "",
-    "category": "Honing",
-    "variant": "250 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "kosher": "Rabbijn Heinz",
-    "image": "images/honing-kastanje.png",
-    "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "250 g",
-      "Bijzonderheden": "Imkerhoning"
-    },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
-  },
-  {
-    "id": 49,
-    "name": "Za’atar met Olijfolie",
-    "brand": "Neptune",
-    "category": "Spreads & Pasta’s",
-    "variant": "180 g",
-    "ean": "877300009213",
-    "ingredients": "Water, geraffineerde koolzaadolie, dextrose, olijfolie (8%), za’atar (7%), gedroogde knoflook, citroenconcentraat, sesam, natuurazijn, zout, specerijen, citroenzuur, xanthaangom.",
-    "allergens": [
-      "SESAM"
-    ],
-    "allergenNote": "Kan cashewnoten, pijnboompitten, pistache, amandelen, hazelnoten, pinda, soja, mosterd en selderij bevatten.",
-    "kosher": null,
-    "image": "images/neptune-zaatar-sharp.png",
-    "imageBounds": [0.1866, 0.05742, 0.8134, 0.95215],
-    "productInfo": {
-      "Inhoud": "180 g",
-      "Omschrijving": "Za’atarsmeersel met olijfolie, voor op brood of als dip."
-    },
-    "sources": [
-      {
-        "label": "Productfoto en variantgegevens",
-        "url": "https://www.israelwinkel.nl/producten/dipsauzen"
-      },
-      {
-        "label": "Fabrikantcatalogus met barcode",
-        "url": "https://fliphtml5.com/Neptunefood/bdbh/Neptune_Food_Products_Retail_Catalog_2025/"
-      }
-    ],
-    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/68210%20SPREAD-olijf-01KC6ZPXDX33WQC4CDAK32A4E5.jpg",
-    "reviewNotes": "Ingrediënten, allergenen, barcode en inhoud uit gebruikersopgave. IPC bevestigt variant en receptuur; echte foto toont Neptune Za’atar with olive oil 180 g. Geen hechsher uit online verpakking afgeleid. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
-    "imageEdited": true
-  },
-  {
-    "id": 50,
-    "name": "Harosset",
-    "brand": "Beit-Yitzhak Natural Products",
-    "category": "Spreads & Pasta’s",
-    "variant": "250 g",
-    "ean": "7290004067458",
-    "ingredients": "Suiker, dadelpasta (40%), appels (9%), water, walnoten (4%), amandelen (1,5%), wijn, gemodificeerd aardappelzetmeel, kaneel, gember, citroenzuur (zuurteregelaar), kaliumsorbaat (conserveermiddel).",
-    "allergens": [
-      "WALNOTEN",
-      "AMANDELEN"
-    ],
-    "kosher": null,
-    "image": "images/beit-yitzhak-harosset-sharp.png",
-    "imageBounds": [0.17943, 0.08612, 0.81818, 0.94737],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
-    "reviewNotes": "Gebruiker bevestigt Beit-Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Geen hechsher zichtbaar op deze foto. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
-    "imageEdited": true,
-    "mayContain": "Paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten.",
-    "warning": "Kan stukjes pitten bevatten."
-  },
-  {
-    "id": 51,
-    "name": "Charoset Dadelpasta",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "240 g",
-    "ean": "7290017181486",
-    "ingredients": "Dadelpasta, dadels, suiker, citroenzuur, conserveermiddel (kaliumsorbaat), silan (dadelstroop), water, appel, rode wijn, pectine, kaneel, kruidnagel, citroenzuur, hazelnootaroma.",
-    "allergens": [
-      "SULFIET"
-    ],
-    "kosher": null,
-    "image": "images/aunt-charoset-sharp.png",
-    "imageBounds": [0.22249, 0.10766, 0.77273, 0.9067],
-    "productInfo": {
-      "Inhoud": "240 g"
-    },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten overgenomen van Israelwinkel-productpagina voor 240 g; percentages 53% en 64% weggelaten omdat de bron de samenstelling van dadelpasta niet duidelijk afbakent. Geen aanvullende ingrediënten verondersteld. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
-    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67020%20nwe%20charoset%20najaar%202026%20klein%20formaat-01M2QA36QVKZS08MAACNHPDJEF.png",
-    "sources": [
-      {
-        "label": "Passende variant en productfoto",
-        "url": "https://www.israelwinkel.nl/producten/charosset-dadel-appel-spread"
-      }
-    ],
-    "allergenNote": "Kan soja, sesamzaad, walnoten en hazelnoten bevatten.",
-    "warning": "Kan stukjes vruchtenpitten bevatten.",
-    "imageEdited": true
-  },
-  {
-    "id": 52,
-    "name": "Appel & Kaneel",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "340 g",
-    "ean": "7290018859193",
-    "ingredients": "Appel (50%), suiker, kaneel (0,1%), citroenzuur, pectine, ascorbinezuur.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-apple-340g.png",
-    "imageBounds": [0.23445, 0.04545, 0.76555, 0.97368],
-    "productInfo": {
-      "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
-    },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
-  },
-  {
-    "id": 53,
-    "name": "Vijgenjam",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "340 g",
-    "ean": "7290018859513",
-    "ingredients": "Vijg (50%), suiker, citroenzuur, pectine, geconcentreerd vlierbessensap en zwartewortelsap.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-fig-340g.png",
-    "imageBounds": [0.23684, 0.04785, 0.76316, 0.90431],
-    "productInfo": {
-      "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
-    },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
-  },
-  {
-    "id": 54,
-    "name": "Kersenjam",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "340 g",
-    "ean": "7290018859216",
-    "ingredients": "Kers (50%), suiker, pectine, citroenzuur.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-cherry-340g.png",
-    "imageBounds": [0.23684, 0.04545, 0.76077, 0.94737],
-    "productInfo": {
-      "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
-    },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
-  },
-  {
-    "id": 55,
-    "name": "Aardbeienjam",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "340 g",
-    "ean": "7290018859179",
-    "ingredients": "Aardbeien (50%), suiker, pectine, citroenzuur.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-strawberry-340g.png",
-    "imageBounds": [0.23684, 0.04545, 0.76555, 0.94498],
-    "productInfo": {
-      "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
-    },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
-  },
-  {
-    "id": 56,
-    "name": "Perzik Fruitpasta",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "284 g",
-    "ean": "7290012668296",
-    "ingredients": "Perzik (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-67016.png",
-    "imageBounds": [0.36064, 0.03807, 0.64787, 0.97081],
-    "productInfo": {
-      "Inhoud": "284 g",
-      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
-    },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid.",
-    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67016%20perzik%20jam%20klein%20formaat-01KKEATHSMXP2KBX21V03086B3.png",
-    "sources": [
-      {
-        "label": "Passende variant en productfoto",
-        "url": "https://www.israelwinkel.nl/producten/fruitspread"
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "name": "Aardbeien Fruitpasta",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "284 g",
-    "ean": null,
-    "ingredients": "Aardbei (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-67017.png",
-    "imageBounds": [0.33511, 0.04188, 0.61915, 0.94416],
-    "productInfo": {
-      "Inhoud": "284 g",
-      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
-    },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid. Opgegeven barcode 7290012668616 hoort bij Bessenmix; aardbeienbarcode leeg tot bevestiging.",
-    "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67017%20strawberry%20klein%20formaat-01KKEATHSMATDDGJQPXHGE3M79.png",
-    "sources": [
-      {
-        "label": "Passende variant en productfoto",
-        "url": "https://www.israelwinkel.nl/producten/fruitspread"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "name": "Bessenmix Fruitpasta",
-    "brand": "Aunt Berta",
-    "category": "Spreads & Pasta’s",
-    "variant": "284 g",
-    "ean": "7290012668616",
-    "ingredients": "Bessenmix (51%: aardbeien 17%, zwarte bessen 17%, kersen 17%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
-    "allergens": null,
-    "kosher": "OU",
-    "image": "images/aunt-67018.jpg",
-    "imageBounds": [0.14784, 0.06793, 0.9166, 0.95658],
-    "productInfo": {
-      "Inhoud": "284 g",
-      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
-    },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid.",
-    "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4848455759.jpg",
-    "sources": [
-      {
-        "label": "Passende variant en productfoto",
-        "url": "https://www.israelwinkel.nl/producten/fruitspread"
-      },
-      {
-        "label": "Barcode Bessenmix bevestigd",
-        "url": "https://www.hertog.nl/artikel/7290012668616/Berry%20Mix/"
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "name": "Knoflookpasta",
-    "brand": "Kvuzat Yavne",
-    "category": "Spreads & Pasta’s",
-    "variant": "190 g",
-    "ean": "7290012313653",
-    "ingredients": "Knoflook (74%), koolzaadolie, citroenconcentraat, suiker, zout.",
-    "allergens": null,
-    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
-    "image": "images/yavne-knoflook.png",
-    "imageBounds": [0.19617, 0.04306, 0.80144, 0.97129],
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
-    "mayContain": "Cashewnoten.",
-    "imageEdited": true,
-    "reviewNotes": "Rechtstreeks afgelezen van fysieke fotos IMG_4273, IMG_4274 en IMG_4275 teruggevonden in eerder gesprek. Bewerkte voorfoto; ingrediënten en sporenwaarschuwing uitsluitend vanaf fysiek etiket."
-  },
-  {
-    "id": 62,
-    "name": "Chimichurri",
-    "brand": "Bnei Darom",
-    "category": "Spreads & Pasta’s",
-    "variant": "190 g",
-    "ean": "7290112870292",
-    "ingredients": "Peterselie (42%), witte ui (17%), rode paprika (17%), water, plantaardige olie, gedroogde knoflook (3%), zuurteregelaars (azijnzuur, citroenconcentraat), zout, suiker, conserveermiddel (kaliumsorbaat).",
-    "allergens": null,
-    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
-    "image": "images/bnei-chimichurri-correct.png",
-    "imageBounds": [0.28, 0.0, 0.71, 0.995],
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
-    "mayContain": "Cashewnoten.",
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
-    "sources": [
-      {
-        "label": "Fabrikantcatalogus",
-        "url": "https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "name": "Basilicumpesto",
-    "brand": "Bnei Darom",
-    "category": "Spreads & Pasta’s",
-    "variant": "190 g",
-    "ean": "7290112870247",
-    "ingredients": "Verse basilicum (44%), plantaardige oliën, water, zout, stabilisatoren (cellulosevezels, xanthaangom), gedroogde knoflookvlokken, zuurteregelaars (melkzuur, ascorbinezuur), gemalen zwarte peper, conserveermiddel (sorbaat).",
-    "allergens": null,
-    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
-    "image": "images/bnei-basilicumpesto.png",
-    "imageBounds": [0.16125, 0.015, 0.84, 0.99],
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
-    "reviewNotes": "Volledige ingrediënten en allergenenwaarschuwing rechtstreeks van fysieke etiketfoto codex-clipboard-1b7d8460-6b40-497b-861d-447aa41cc4c6.png. Cashewnoten uitsluitend als kan bevatten vermeld, niet als ingrediënt. Sorbaat zonder nadere specificatie overgenomen. Eerdere gedeeltelijke transcriptie hiermee vervangen. Barcode bevestigd op IMG_4272; productfoto door gebruiker aangeleverd. Geen voedingswaardeblok op verzoek gebruiker.",
-    "mayContain": "Cashewnoten."
-  },
-  {
-    "id": 64,
-    "name": "Gedroogde Tomatenpasta",
-    "brand": "Bnei Darom",
-    "category": "Spreads & Pasta’s",
-    "variant": "190 g",
-    "ean": "7290112870254",
-    "ingredients": "Gerehydrateerde gedroogde tomaten (45%) (gedroogde tomaten, water, zout), plantaardige oliën (koolzaadolie en olijfolie), suiker, tomatenpoeder, specerijen (oregano, gemalen zwarte peper en rozemarijn), zuurteregelaar (citroenzuur), conserveermiddel (E202).",
-    "allergens": null,
-    "mayContain": "Cashewnoten.",
-    "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
-    "image": "images/bnei-tomatenpasta.png",
-    "imageBounds": [0.16268, 0.0622, 0.83971, 0.95455],
-    "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
-    "reviewNotes": "Naam, inhoud, ingrediënten en cashewsporen rechtstreeks van IMG_4276–4278; barcode 7290112870254. Eerdere samenvatting pikante paprika was onjuist. Geen voedingswaardeblok op verzoek gebruiker. Voorfoto met ingebouwde imagegen rechtgezet en vrijstaand gemaakt; gegevens uitsluitend fysiek etiket."
   }
 ];
