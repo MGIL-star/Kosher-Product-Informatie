@@ -895,17 +895,19 @@ window.KPI_PRODUCTS = [
     "name": "Romige Flespompoensoep",
     "variant": "400 g",
     "ean": "4779039732614",
-    "ingredients": "Flespompoen (35%), kokoscrème.",
+    "ingredients": "Water, flespompoenpuree (35%), kokoscrème (kokosextract, water), wortelen, maïsmeel, zeezout, uipoeder, knoflookpoeder, gember.",
     "allergens": [],
     "category": "Biologische Soepen",
     "kosher": "KLBD (Parve)",
     "image": "images/27.jpg",
     "productInfo": {
       "Inhoud": "400 g",
-      "Kenmerken": "Biologisch. Vegan. Glutenvrij"
+      "Kenmerken": "Biologisch. Vegan. Glutenvrij",
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
+      "Bishul Yisrael": "Ja"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": true,
+    "ingredientsPartial": false,
     "claims": [
       "Biologisch",
       "Vegan",
@@ -913,7 +915,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosherStatus": "Parve",
     "reviewNotes": [
-      "Fabrikant toont nieuwe receptuur met 45% pompoen en zoete aardappel. Retailfoto en informatie 35% sluiten aan op de brief; volledige etiketlijst blijft te controleren."
+      "Volledige receptuur met 35% flespompoen bevestigd op etiket met barcode 4779039732614."
     ],
     "sources": [
       "https://realflavors.nl/groente-olie-pasta-rijst/activus-pompoensoep-bio-400-g"
@@ -925,7 +927,8 @@ window.KPI_PRODUCTS = [
       0.972
     ],
     "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "ingredientSource": "Gebruikersfoto etiket: 705b4027-90ff-4177-ad47-d5aebc03e54c.jpg"
   },
   {
     "id": 28,
