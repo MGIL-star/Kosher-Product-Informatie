@@ -171,6 +171,80 @@ window.KPI_PRODUCTS = [
     "mevushalStatus": "niet mevushal"
   },
   {
+    "id": 26,
+    "name": "Classic Sauvignon Blanc",
+    "brand": "Barkan",
+    "category": "Witte wijn",
+    "variant": "750 ml · 11%",
+    "ingredients": "Sauvignon Blanc-druiven en zwaveldioxide (sulfieten).",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Hechsher niet bekend (mevushalstatus niet bekend).",
+    "ean": "7290000023823",
+    "image": "images/barkan-classic-sauvignon-blanc.jpg",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Witte wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "100% Sauvignon Blanc",
+      "Lijn / serie": "Classic",
+      "Herkomst": "Israël",
+      "Alcohol": "11%",
+      "Inhoud": "750 ml",
+      "Smaakomschrijving": "Fris wit fruit, appel en citrus, met een lange afdronk."
+    },
+    "reviewNotes": "Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd.",
+    "sourcePhotos": [
+      6
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/barkan-classic-sauvignon-blanc"
+      },
+      {
+        "label": "Tempo producentencatalogus (barcodecontrole)",
+        "url": "https://www.tempo.co.il/assets/catalog-tempo-7-2020.pdf"
+      },
+      {
+        "label": "Vivino — Classic Sauvignon Blanc — aanvullende allergenencontrole",
+        "url": "https://www.vivino.com/en/barkan-classic-sauvignon-blanc/w/80198"
+      },
+      {
+        "label": "Machsaney Hashuk Israël — Sauvignon Blanc ingrediënten",
+        "url": "https://www.mck.co.il/categories/79711/products?catalogProduct=4437"
+      },
+      {
+        "label": "Barkan Israël — druivensamenstelling Sauvignon Blanc",
+        "url": "https://www.barkan-winery.co.il/wines/classic-series/classic-sauvignon-blanc"
+      },
+      {
+        "label": "IsraelWein — online variantinformatie, geen bevestiging actuele fles",
+        "url": "https://israelwein.de/products/classic-sauvignon-blanc"
+      }
+    ],
+    "series": "Classic",
+    "year": null,
+    "alcohol": "11%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "barkan-classic-sauvignon-blanc.jpg",
+      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607627885.jpg",
+      "page": "https://www.israelwinkel.nl/producten/barkan-classic-sauvignon-blanc",
+      "alt": "Barkan Classic Sauvignon Blanc - product image"
+    },
+    "imageBounds": [
+      0.399,
+      0.05,
+      0.6,
+      0.95
+    ],
+    "shelfBarcode": "7290000023823",
+    "allergenNote": "Bevat sulfieten.",
+    "mevushalStatus": "Niet bekend"
+  },
+  {
     "id": 4,
     "name": "Classic Emerald Riesling",
     "brand": "Barkan",
@@ -394,6 +468,44 @@ window.KPI_PRODUCTS = [
     ],
     "mevushalStatus": "mevushal",
     "kosherForPassover": true
+  },
+  {
+    "brand": "Barkan",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "isWine": true,
+    "year": null,
+    "volume": "750 ml",
+    "ingredients": "Zwaveldioxide (sulfieten).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "imageFrontOnly": true,
+    "id": 30,
+    "name": "Moscato",
+    "ean": "7290019220596",
+    "alcohol": "5,5%",
+    "category": "Witte wijn",
+    "variant": "750 ml · 5,5%",
+    "image": "images/barkan-moscato-2025.png",
+    "imageBounds": [
+      0.11,
+      0.096,
+      0.435,
+      0.982
+    ],
+    "productInfo": {
+      "Type": "Witte wijn",
+      "Wijnstijl": "Zoet, licht mousserend",
+      "Herkomst": "Israël",
+      "Alcohol": "5,5%",
+      "Inhoud": "750 ml",
+      "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
+      "Serveertemperatuur": "9 tot 12 °C"
+    },
+    "sourcePhotos": [
+      "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
+    ],
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen."
   },
   {
     "id": 8,
@@ -624,6 +736,53 @@ window.KPI_PRODUCTS = [
       0.941624
     ],
     "mevushalStatus": "niet mevushal"
+  },
+  {
+    "brand": "Barkan",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "isWine": true,
+    "year": null,
+    "volume": "750 ml",
+    "ingredients": "Zwaveldioxide (sulfieten).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "imageFrontOnly": true,
+    "id": 29,
+    "name": "Premieur Cabernet Sauvignon & Malbec",
+    "ean": "7290012576607",
+    "alcohol": "13%",
+    "category": "Rode wijn",
+    "variant": "750 ml · 13%",
+    "image": "images/barkan-premieur-cabernet-malbec-2025.png",
+    "imageBounds": [
+      0.075,
+      0.02,
+      0.45,
+      0.982
+    ],
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "Cabernet Sauvignon & Malbec",
+      "Lijn / serie": "Premieur",
+      "Herkomst": "Israël",
+      "Alcohol": "13%",
+      "Inhoud": "750 ml",
+      "Bewaren": "Koel en donker bewaren, bij voorkeur bij 12 tot 15 °C.",
+      "Serveertemperatuur": "16 tot 18 °C",
+      "Mevushal": "Nee"
+    },
+    "sourcePhotos": [
+      "codex-clipboard-be09ec82-5612-491c-8c82-a525bfb744ef.png"
+    ],
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "sources": [
+      {
+        "label": "Israëlwinkel — productvermelding",
+        "url": "https://www.israelwinkel.nl/producten/barkan-premieur-cabernet-sauvignon-malbec"
+      }
+    ]
   },
   {
     "id": 12,
@@ -962,385 +1121,6 @@ window.KPI_PRODUCTS = [
     "kosherForPassover": true
   },
   {
-    "id": 18,
-    "name": "Platinum Cabernet Sauvignon",
-    "brand": "Barkan",
-    "category": "Rode wijn",
-    "variant": "750 ml · 13,5%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
-    "ean": "087752030622",
-    "image": "images/barkan-platinum-cabernet-sauvignon-zonder-schaduw.png",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Druiven": "Cabernet Sauvignon",
-      "Lijn / serie": "Platinum",
-      "Herkomst": "Israël, Boven Galilea",
-      "Alcohol": "13,5%",
-      "Inhoud": "750 ml",
-      "Smaakomschrijving": "Donker fruit en kruidige houttonen. Achttien maanden gerijpt in Franse eikenhouten vaten."
-    },
-    "reviewNotes": "IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
-    "sourcePhotos": [
-      33,
-      34
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/barkan-platinum-cabernet-sauvignon"
-      }
-    ],
-    "series": "Platinum",
-    "year": 2023,
-    "alcohol": "13,5%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "barkan-platinum-cabernet-sauvignon.jpg",
-      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3850427837.jpg",
-      "page": "https://www.israelwinkel.nl/producten/barkan-platinum-cabernet-sauvignon",
-      "alt": "Barkan Platinum Cabernet Sauvignon - product image"
-    },
-    "imageBounds": [
-      0.202559,
-      0.085752,
-      0.71855,
-      0.922493
-    ],
-    "mevushalStatus": "mevushal"
-  },
-  {
-    "id": 19,
-    "name": "Reserve Merlot",
-    "brand": "Barkan",
-    "category": "Rode wijn",
-    "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Hechsher niet bekend (mevushalstatus niet bekend).",
-    "ean": "7290000024264",
-    "image": "images/barkan-reserve-merlot.jpg",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Druiven": "Merlot",
-      "Lijn / serie": "Reserve",
-      "Herkomst": "Israël, Galilea",
-      "Alcohol": "13%",
-      "Inhoud": "750 ml",
-      "Smaakomschrijving": "Rode bessen, kersen en milde kruidigheid, met een zachte smaak."
-    },
-    "reviewNotes": "Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
-    "sourcePhotos": [
-      35,
-      36
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/barkan-reserve-merlot"
-      },
-      {
-        "label": "IsraelWein — Reserve Merlot — aanvullende allergenencontrole",
-        "url": "https://israelwein.de/en/products/reserve-merlot"
-      }
-    ],
-    "series": "Reserve",
-    "year": 2022,
-    "alcohol": "13%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "barkan-reserve-merlot.jpg",
-      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607635777.jpg",
-      "page": "https://www.israelwinkel.nl/producten/barkan-reserve-merlot",
-      "alt": "Barkan Reserve Merlot - product image"
-    },
-    "imageBounds": [
-      0.4,
-      0.05,
-      0.599,
-      0.95
-    ],
-    "mevushalStatus": "Niet bekend"
-  },
-  {
-    "id": 20,
-    "name": "Reserve Cabernet Sauvignon",
-    "brand": "Barkan",
-    "category": "Rode wijn",
-    "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël (mevushalstatus niet bekend).",
-    "ean": "7290000024202",
-    "image": "images/barkan-reserve-cabernet-sauvignon.jpg",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Druiven": "Cabernet Sauvignon",
-      "Lijn / serie": "Reserve",
-      "Herkomst": "Israël, Galilea",
-      "Alcohol": "13%",
-      "Inhoud": "750 ml",
-      "Smaakomschrijving": "Donker fruit en milde kruidigheid. Twaalf maanden gerijpt in Franse eikenhouten vaten."
-    },
-    "reviewNotes": "Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
-    "sourcePhotos": [
-      37,
-      38
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon"
-      }
-    ],
-    "series": "Reserve",
-    "year": 2022,
-    "alcohol": "13%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "barkan-reserve-cabernet-sauvignon.jpg",
-      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607641228.jpg",
-      "page": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon",
-      "alt": "Barkan Reserve Cabernet Sauvignon  - product image"
-    },
-    "imageBounds": [
-      0.4,
-      0.05,
-      0.599,
-      0.95
-    ],
-    "mevushalStatus": "Niet bekend"
-  },
-  {
-    "id": 21,
-    "name": "Cabernet Sauvignon",
-    "brand": "Zmora",
-    "category": "Rode wijn",
-    "variant": "750 ml · 11,5%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushalstatus nog te controleren).",
-    "ean": "087752013236",
-    "image": "images/zmora-cabernet-sauvignon.jpg",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Halfzoet",
-      "Druiven": "Cabernet Sauvignon",
-      "Lijn / serie": "Zmora",
-      "Herkomst": "Israël",
-      "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
-      "Smaakomschrijving": "Jonge, zachte rode wijn met bessen, kersen en bloemige aroma’s."
-    },
-    "reviewNotes": "Mevushal niet leesbaar op foto; daarom niet ingevuld.",
-    "sourcePhotos": [
-      39,
-      40
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon"
-      }
-    ],
-    "series": "Zmora",
-    "year": 2023,
-    "alcohol": "11,5%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "zmora-cabernet-sauvignon.jpg",
-      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4132145202.jpg",
-      "page": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon",
-      "alt": "Zmora Cabernet Sauvignon - product image"
-    },
-    "imageBounds": [
-      0.064483,
-      0.009752,
-      0.850563,
-      0.97695
-    ],
-    "mevushalStatus": "mevushalstatus nog te controleren"
-  },
-  {
-    "id": 22,
-    "name": "Merlot Galil",
-    "brand": "Ben Ami",
-    "category": "Rode wijn",
-    "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
-    "ean": "087752008171",
-    "image": "images/ben-ami-2.jpg",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Druiven": "85% Merlot & 15% Cabernet Sauvignon",
-      "Lijn / serie": "Ben Ami",
-      "Herkomst": "Israël, Galil",
-      "Alcohol": "13%",
-      "Inhoud": "750 ml",
-      "Smaakomschrijving": "Fruitig en bloemig, met stevigheid door de Cabernet Sauvignon.",
-      "Serveertemperatuur": "16 tot 18 °C"
-    },
-    "reviewNotes": "",
-    "sourcePhotos": [
-      41,
-      42
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/ben-ami"
-      }
-    ],
-    "series": "Ben Ami",
-    "year": 2024,
-    "alcohol": "13%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "ben-ami-2.jpg",
-      "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/09205-01KC9HX119GP39NGP1G7BGS8AY.jpg",
-      "page": "https://www.israelwinkel.nl/producten/ben-ami",
-      "alt": "Ben Ami - product image"
-    },
-    "imageBounds": [
-      0.39475,
-      0.05025,
-      0.605,
-      0.95
-    ],
-    "mevushalStatus": "mevushal"
-  },
-  {
-    "id": 23,
-    "name": "Cabernet Sauvignon Galil",
-    "brand": "Ben Ami",
-    "category": "Rode wijn",
-    "variant": "750 ml · 12,5%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
-    "ean": "087752008157",
-    "image": "images/ben-ami-1.jpg",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Druiven": "100% Cabernet Sauvignon",
-      "Lijn / serie": "Ben Ami",
-      "Herkomst": "Israël, Galil",
-      "Alcohol": "12,5%",
-      "Inhoud": "750 ml"
-    },
-    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
-    "sourcePhotos": [
-      43,
-      44
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/ben-ami"
-      },
-      {
-        "label": "IsraelWein — Ben Ami Cabernet Sauvignon — aanvullende allergenencontrole",
-        "url": "https://israelwein.de/en/products/ben-ami-cabernet-sauvignon"
-      }
-    ],
-    "series": "Ben Ami",
-    "year": 2024,
-    "alcohol": "12,5%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "ben-ami-1.jpg",
-      "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/09204-01KC9HX10ZBF59A6BXATKQ1WPT.jpg",
-      "page": "https://www.israelwinkel.nl/producten/ben-ami",
-      "alt": "Ben Ami - product image"
-    },
-    "imageBounds": [
-      0.39825,
-      0.05025,
-      0.6015,
-      0.95
-    ],
-    "mevushalStatus": "mevushal",
-    "kosherForPassover": true
-  },
-  {
-    "id": 24,
-    "name": "Droge rode wijn",
-    "brand": "Segal",
-    "category": "Rode wijn",
-    "variant": "750 ml · 11,5%",
-    "ingredients": "Bevat sulfieten.",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "kosher": "Etiket vermeldt heter mechira, Opperrabbinaat van Israël (niet mevushal).",
-    "ean": "7290000521008",
-    "image": "images/segal-droge-rode-wijn.jpg",
-    "isWine": true,
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Lijn / serie": "Segal",
-      "Herkomst": "Israël",
-      "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
-      "Smaakomschrijving": "Frisse, fruitige rode wijn."
-    },
-    "reviewNotes": "IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt.",
-    "sourcePhotos": [
-      45,
-      46
-    ],
-    "sources": [
-      {
-        "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/segal-droge-rode-wijn"
-      }
-    ],
-    "series": "Segal",
-    "year": 2022,
-    "alcohol": "11,5%",
-    "volume": "750 ml",
-    "imageSource": {
-      "file": "segal-droge-rode-wijn.jpg",
-      "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/09201%20segal%20rood%2006-2026-01KVFCBWXRT5XMP194FSSY9GMV.jpg",
-      "page": "https://www.israelwinkel.nl/producten/segal-droge-rode-wijn",
-      "alt": "Segal droge rode wijn - product image"
-    },
-    "imageBounds": [
-      0.380381,
-      0.050106,
-      0.618207,
-      0.949894
-    ],
-    "mevushalStatus": "niet mevushal"
-  },
-  {
     "id": 25,
     "name": "Classic Cabernet Sauvignon mini",
     "brand": "Barkan",
@@ -1401,78 +1181,383 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
-    "id": 26,
-    "name": "Classic Sauvignon Blanc",
-    "brand": "Barkan",
-    "category": "Witte wijn",
-    "variant": "750 ml · 11%",
-    "ingredients": "Sauvignon Blanc-druiven en zwaveldioxide (sulfieten).",
+    "id": 24,
+    "name": "Droge rode wijn",
+    "brand": "Segal",
+    "category": "Rode wijn",
+    "variant": "750 ml · 11,5%",
+    "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend (mevushalstatus niet bekend).",
-    "ean": "7290000023823",
-    "image": "images/barkan-classic-sauvignon-blanc.jpg",
+    "kosher": "Etiket vermeldt heter mechira, Opperrabbinaat van Israël (niet mevushal).",
+    "ean": "7290000521008",
+    "image": "images/segal-droge-rode-wijn.jpg",
     "isWine": true,
     "productInfo": {
-      "Type": "Witte wijn",
+      "Type": "Rode wijn",
       "Wijnstijl": "Droog",
-      "Druiven": "100% Sauvignon Blanc",
-      "Lijn / serie": "Classic",
+      "Lijn / serie": "Segal",
       "Herkomst": "Israël",
-      "Alcohol": "11%",
+      "Alcohol": "11,5%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Fris wit fruit, appel en citrus, met een lange afdronk."
+      "Smaakomschrijving": "Frisse, fruitige rode wijn."
     },
-    "reviewNotes": "Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd.",
+    "reviewNotes": "IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt.",
     "sourcePhotos": [
-      6
+      45,
+      46
     ],
     "sources": [
       {
         "label": "IPC / Israëlwinkel",
-        "url": "https://www.israelwinkel.nl/producten/barkan-classic-sauvignon-blanc"
-      },
-      {
-        "label": "Tempo producentencatalogus (barcodecontrole)",
-        "url": "https://www.tempo.co.il/assets/catalog-tempo-7-2020.pdf"
-      },
-      {
-        "label": "Vivino — Classic Sauvignon Blanc — aanvullende allergenencontrole",
-        "url": "https://www.vivino.com/en/barkan-classic-sauvignon-blanc/w/80198"
-      },
-      {
-        "label": "Machsaney Hashuk Israël — Sauvignon Blanc ingrediënten",
-        "url": "https://www.mck.co.il/categories/79711/products?catalogProduct=4437"
-      },
-      {
-        "label": "Barkan Israël — druivensamenstelling Sauvignon Blanc",
-        "url": "https://www.barkan-winery.co.il/wines/classic-series/classic-sauvignon-blanc"
-      },
-      {
-        "label": "IsraelWein — online variantinformatie, geen bevestiging actuele fles",
-        "url": "https://israelwein.de/products/classic-sauvignon-blanc"
+        "url": "https://www.israelwinkel.nl/producten/segal-droge-rode-wijn"
       }
     ],
-    "series": "Classic",
-    "year": null,
-    "alcohol": "11%",
+    "series": "Segal",
+    "year": 2022,
+    "alcohol": "11,5%",
     "volume": "750 ml",
     "imageSource": {
-      "file": "barkan-classic-sauvignon-blanc.jpg",
-      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607627885.jpg",
-      "page": "https://www.israelwinkel.nl/producten/barkan-classic-sauvignon-blanc",
-      "alt": "Barkan Classic Sauvignon Blanc - product image"
+      "file": "segal-droge-rode-wijn.jpg",
+      "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/09201%20segal%20rood%2006-2026-01KVFCBWXRT5XMP194FSSY9GMV.jpg",
+      "page": "https://www.israelwinkel.nl/producten/segal-droge-rode-wijn",
+      "alt": "Segal droge rode wijn - product image"
     },
     "imageBounds": [
-      0.399,
-      0.05,
-      0.6,
+      0.380381,
+      0.050106,
+      0.618207,
+      0.949894
+    ],
+    "mevushalStatus": "niet mevushal"
+  },
+  {
+    "id": 23,
+    "name": "Cabernet Sauvignon Galil",
+    "brand": "Ben Ami",
+    "category": "Rode wijn",
+    "variant": "750 ml · 12,5%",
+    "ingredients": "Bevat sulfieten.",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
+    "ean": "087752008157",
+    "image": "images/ben-ami-1.jpg",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "100% Cabernet Sauvignon",
+      "Lijn / serie": "Ben Ami",
+      "Herkomst": "Israël, Galil",
+      "Alcohol": "12,5%",
+      "Inhoud": "750 ml"
+    },
+    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
+    "sourcePhotos": [
+      43,
+      44
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/ben-ami"
+      },
+      {
+        "label": "IsraelWein — Ben Ami Cabernet Sauvignon — aanvullende allergenencontrole",
+        "url": "https://israelwein.de/en/products/ben-ami-cabernet-sauvignon"
+      }
+    ],
+    "series": "Ben Ami",
+    "year": 2024,
+    "alcohol": "12,5%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "ben-ami-1.jpg",
+      "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/09204-01KC9HX10ZBF59A6BXATKQ1WPT.jpg",
+      "page": "https://www.israelwinkel.nl/producten/ben-ami",
+      "alt": "Ben Ami - product image"
+    },
+    "imageBounds": [
+      0.39825,
+      0.05025,
+      0.6015,
       0.95
     ],
-    "shelfBarcode": "7290000023823",
-    "allergenNote": "Bevat sulfieten.",
+    "mevushalStatus": "mevushal",
+    "kosherForPassover": true
+  },
+  {
+    "id": 22,
+    "name": "Merlot Galil",
+    "brand": "Ben Ami",
+    "category": "Rode wijn",
+    "variant": "750 ml · 13%",
+    "ingredients": "Bevat sulfieten.",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
+    "ean": "087752008171",
+    "image": "images/ben-ami-2.jpg",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "85% Merlot & 15% Cabernet Sauvignon",
+      "Lijn / serie": "Ben Ami",
+      "Herkomst": "Israël, Galil",
+      "Alcohol": "13%",
+      "Inhoud": "750 ml",
+      "Smaakomschrijving": "Fruitig en bloemig, met stevigheid door de Cabernet Sauvignon.",
+      "Serveertemperatuur": "16 tot 18 °C"
+    },
+    "reviewNotes": "",
+    "sourcePhotos": [
+      41,
+      42
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/ben-ami"
+      }
+    ],
+    "series": "Ben Ami",
+    "year": 2024,
+    "alcohol": "13%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "ben-ami-2.jpg",
+      "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/09205-01KC9HX119GP39NGP1G7BGS8AY.jpg",
+      "page": "https://www.israelwinkel.nl/producten/ben-ami",
+      "alt": "Ben Ami - product image"
+    },
+    "imageBounds": [
+      0.39475,
+      0.05025,
+      0.605,
+      0.95
+    ],
+    "mevushalStatus": "mevushal"
+  },
+  {
+    "id": 21,
+    "name": "Cabernet Sauvignon",
+    "brand": "Zmora",
+    "category": "Rode wijn",
+    "variant": "750 ml · 11,5%",
+    "ingredients": "Bevat sulfieten.",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushalstatus nog te controleren).",
+    "ean": "087752013236",
+    "image": "images/zmora-cabernet-sauvignon.jpg",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Halfzoet",
+      "Druiven": "Cabernet Sauvignon",
+      "Lijn / serie": "Zmora",
+      "Herkomst": "Israël",
+      "Alcohol": "11,5%",
+      "Inhoud": "750 ml",
+      "Smaakomschrijving": "Jonge, zachte rode wijn met bessen, kersen en bloemige aroma’s."
+    },
+    "reviewNotes": "Mevushal niet leesbaar op foto; daarom niet ingevuld.",
+    "sourcePhotos": [
+      39,
+      40
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon"
+      }
+    ],
+    "series": "Zmora",
+    "year": 2023,
+    "alcohol": "11,5%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "zmora-cabernet-sauvignon.jpg",
+      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4132145202.jpg",
+      "page": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon",
+      "alt": "Zmora Cabernet Sauvignon - product image"
+    },
+    "imageBounds": [
+      0.064483,
+      0.009752,
+      0.850563,
+      0.97695
+    ],
+    "mevushalStatus": "mevushalstatus nog te controleren"
+  },
+  {
+    "id": 20,
+    "name": "Reserve Cabernet Sauvignon",
+    "brand": "Barkan",
+    "category": "Rode wijn",
+    "variant": "750 ml · 13%",
+    "ingredients": "Bevat sulfieten.",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël (mevushalstatus niet bekend).",
+    "ean": "7290000024202",
+    "image": "images/barkan-reserve-cabernet-sauvignon.jpg",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "Cabernet Sauvignon",
+      "Lijn / serie": "Reserve",
+      "Herkomst": "Israël, Galilea",
+      "Alcohol": "13%",
+      "Inhoud": "750 ml",
+      "Smaakomschrijving": "Donker fruit en milde kruidigheid. Twaalf maanden gerijpt in Franse eikenhouten vaten."
+    },
+    "reviewNotes": "Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
+    "sourcePhotos": [
+      37,
+      38
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon"
+      }
+    ],
+    "series": "Reserve",
+    "year": 2022,
+    "alcohol": "13%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "barkan-reserve-cabernet-sauvignon.jpg",
+      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607641228.jpg",
+      "page": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon",
+      "alt": "Barkan Reserve Cabernet Sauvignon  - product image"
+    },
+    "imageBounds": [
+      0.4,
+      0.05,
+      0.599,
+      0.95
+    ],
     "mevushalStatus": "Niet bekend"
+  },
+  {
+    "id": 19,
+    "name": "Reserve Merlot",
+    "brand": "Barkan",
+    "category": "Rode wijn",
+    "variant": "750 ml · 13%",
+    "ingredients": "Bevat sulfieten.",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Hechsher niet bekend (mevushalstatus niet bekend).",
+    "ean": "7290000024264",
+    "image": "images/barkan-reserve-merlot.jpg",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "Merlot",
+      "Lijn / serie": "Reserve",
+      "Herkomst": "Israël, Galilea",
+      "Alcohol": "13%",
+      "Inhoud": "750 ml",
+      "Smaakomschrijving": "Rode bessen, kersen en milde kruidigheid, met een zachte smaak."
+    },
+    "reviewNotes": "Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
+    "sourcePhotos": [
+      35,
+      36
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/barkan-reserve-merlot"
+      },
+      {
+        "label": "IsraelWein — Reserve Merlot — aanvullende allergenencontrole",
+        "url": "https://israelwein.de/en/products/reserve-merlot"
+      }
+    ],
+    "series": "Reserve",
+    "year": 2022,
+    "alcohol": "13%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "barkan-reserve-merlot.jpg",
+      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607635777.jpg",
+      "page": "https://www.israelwinkel.nl/producten/barkan-reserve-merlot",
+      "alt": "Barkan Reserve Merlot - product image"
+    },
+    "imageBounds": [
+      0.4,
+      0.05,
+      0.599,
+      0.95
+    ],
+    "mevushalStatus": "Niet bekend"
+  },
+  {
+    "id": 18,
+    "name": "Platinum Cabernet Sauvignon",
+    "brand": "Barkan",
+    "category": "Rode wijn",
+    "variant": "750 ml · 13,5%",
+    "ingredients": "Bevat sulfieten.",
+    "allergens": [
+      "SULFIETEN"
+    ],
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "ean": "087752030622",
+    "image": "images/barkan-platinum-cabernet-sauvignon-zonder-schaduw.png",
+    "isWine": true,
+    "productInfo": {
+      "Type": "Rode wijn",
+      "Wijnstijl": "Droog",
+      "Druiven": "Cabernet Sauvignon",
+      "Lijn / serie": "Platinum",
+      "Herkomst": "Israël, Boven Galilea",
+      "Alcohol": "13,5%",
+      "Inhoud": "750 ml",
+      "Smaakomschrijving": "Donker fruit en kruidige houttonen. Achttien maanden gerijpt in Franse eikenhouten vaten."
+    },
+    "reviewNotes": "IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "sourcePhotos": [
+      33,
+      34
+    ],
+    "sources": [
+      {
+        "label": "IPC / Israëlwinkel",
+        "url": "https://www.israelwinkel.nl/producten/barkan-platinum-cabernet-sauvignon"
+      }
+    ],
+    "series": "Platinum",
+    "year": 2023,
+    "alcohol": "13,5%",
+    "volume": "750 ml",
+    "imageSource": {
+      "file": "barkan-platinum-cabernet-sauvignon.jpg",
+      "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3850427837.jpg",
+      "page": "https://www.israelwinkel.nl/producten/barkan-platinum-cabernet-sauvignon",
+      "alt": "Barkan Platinum Cabernet Sauvignon - product image"
+    },
+    "imageBounds": [
+      0.202559,
+      0.085752,
+      0.71855,
+      0.922493
+    ],
+    "mevushalStatus": "mevushal"
   },
   {
     "id": 27,
@@ -1602,90 +1687,5 @@ window.KPI_PRODUCTS = [
       0.915806
     ],
     "mevushalStatus": "mevushal"
-  },
-  {
-    "brand": "Barkan",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "isWine": true,
-    "year": null,
-    "volume": "750 ml",
-    "ingredients": "Zwaveldioxide (sulfieten).",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem",
-    "imageFrontOnly": true,
-    "id": 29,
-    "name": "Premieur Cabernet Sauvignon & Malbec",
-    "ean": "7290012576607",
-    "alcohol": "13%",
-    "category": "Rode wijn",
-    "variant": "750 ml · 13%",
-    "image": "images/barkan-premieur-cabernet-malbec-2025.png",
-    "imageBounds": [
-      0.075,
-      0.02,
-      0.45,
-      0.982
-    ],
-    "productInfo": {
-      "Type": "Rode wijn",
-      "Wijnstijl": "Droog",
-      "Druiven": "Cabernet Sauvignon & Malbec",
-      "Lijn / serie": "Premieur",
-      "Herkomst": "Israël",
-      "Alcohol": "13%",
-      "Inhoud": "750 ml",
-      "Bewaren": "Koel en donker bewaren, bij voorkeur bij 12 tot 15 °C.",
-      "Serveertemperatuur": "16 tot 18 °C",
-      "Mevushal": "Nee"
-    },
-    "sourcePhotos": [
-      "codex-clipboard-be09ec82-5612-491c-8c82-a525bfb744ef.png"
-    ],
-    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
-    "sources": [
-      {
-        "label": "Israëlwinkel — productvermelding",
-        "url": "https://www.israelwinkel.nl/producten/barkan-premieur-cabernet-sauvignon-malbec"
-      }
-    ]
-  },
-  {
-    "brand": "Barkan",
-    "allergens": [
-      "SULFIETEN"
-    ],
-    "isWine": true,
-    "year": null,
-    "volume": "750 ml",
-    "ingredients": "Zwaveldioxide (sulfieten).",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem",
-    "imageFrontOnly": true,
-    "id": 30,
-    "name": "Moscato",
-    "ean": "7290019220596",
-    "alcohol": "5,5%",
-    "category": "Witte wijn",
-    "variant": "750 ml · 5,5%",
-    "image": "images/barkan-moscato-2025.png",
-    "imageBounds": [
-      0.11,
-      0.096,
-      0.435,
-      0.982
-    ],
-    "productInfo": {
-      "Type": "Witte wijn",
-      "Wijnstijl": "Zoet, licht mousserend",
-      "Herkomst": "Israël",
-      "Alcohol": "5,5%",
-      "Inhoud": "750 ml",
-      "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
-      "Serveertemperatuur": "9 tot 12 °C"
-    },
-    "sourcePhotos": [
-      "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
-    ],
-    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen."
   }
 ];
