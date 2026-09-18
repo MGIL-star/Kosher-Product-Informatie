@@ -827,7 +827,9 @@ window.KPI_PRODUCTS = [
     "image": "images/25.png",
     "productInfo": {
       "Inhoud": "400 g",
-      "Kenmerken": "Biologisch. Vegan. Glutenvrij"
+      "Kenmerken": "Biologisch. Vegan. Glutenvrij",
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
+      "Bishul Yisrael": "Ja"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -849,7 +851,11 @@ window.KPI_PRODUCTS = [
       0.9336
     ],
     "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "storageSources": [
+      "https://www.dolphinfitness.co.uk/en/activus-organic-carrot-soup-9-x-400g/482511"
+    ],
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
   },
   {
     "id": 26,
@@ -864,7 +870,9 @@ window.KPI_PRODUCTS = [
     "image": "images/26.png",
     "productInfo": {
       "Inhoud": "400 g",
-      "Kenmerken": "Biologisch. Vegan. Glutenvrij"
+      "Kenmerken": "Biologisch. Vegan. Glutenvrij",
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
+      "Bishul Yisrael": "Ja"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -887,7 +895,12 @@ window.KPI_PRODUCTS = [
       0.9336
     ],
     "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "storageSources": [
+      "https://bioshi.ie/en/products/organic-cream-of-tomato-soup-400-g-activus-100354",
+      "https://barbora.lv/produkti/bio-tomatu-kremzupa-activus-400-g"
+    ],
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
   },
   {
     "id": 27,
@@ -943,7 +956,9 @@ window.KPI_PRODUCTS = [
     "image": "images/28.png",
     "productInfo": {
       "Inhoud": "400 g",
-      "Kenmerken": "Biologisch. Vegan. Glutenvrij"
+      "Kenmerken": "Biologisch. Vegan. Glutenvrij",
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
+      "Bishul Yisrael": "Ja"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -966,7 +981,11 @@ window.KPI_PRODUCTS = [
       0.9346
     ],
     "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "storageSources": [
+      "https://www.amanvida.eu/en/auga-creamy-champignon-soup-400g-organic-auga-socham"
+    ],
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
   },
   {
     "id": 29,
