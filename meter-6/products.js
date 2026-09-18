@@ -174,6 +174,128 @@ window.KPI_PRODUCTS = [
     "kosherSourceNote": "EAN gecontroleerd op Elisha. Kosher Supervision vermeldt Rabbi E.L Schneebalg en STAR-K; Parve: Yes. Afiyat Yisrael volgens eigen etiketfoto."
   },
   {
+    "id": 12,
+    "brand": "Osem",
+    "name": "Tarwecrackers Naturel",
+    "variant": "250 g",
+    "category": "Crackers",
+    "ean": "077544131002",
+    "ingredients": "Tarwebloem (91%), palmolie, koolzaadolie, maïssiroop, gerstemoutextract, zeezout, ammoniumbicarbonaat, natriumbicarbonaat, natriumzuurpyrofosfaat, gist, maïszetmeel, tarwegluten, sojalecithine, natriummetabisulfiet.",
+    "allergens": [
+      "Tarwe",
+      "Gerst",
+      "Soja",
+      "Sulfieten"
+    ],
+    "warning": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room.",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "image": "./images/osem-12-clean-front.png",
+    "sourcePhotos": [
+      32,
+      33,
+      35,
+      44
+    ],
+    "imageSource": "https://www.tesco.com/shop/en-GB/products/263386406",
+    "sourcePdfPhotos": [
+      14,
+      15,
+      16
+    ],
+    "originalName": "Cream Crackers",
+    "imageBounds": [
+      0.024720893141945772,
+      0.33811802232854865,
+      0.9744816586921851,
+      0.6610845295055822
+    ],
+    "ingredientPercentageSources": [
+      "https://www.tesco.com/shop/en-GB/products/263386406",
+      "https://groceries.morrisons.com/products/osem-cream-crackers/100385471"
+    ],
+    "ingredientSourceNote": "Percentage tarwebloem aangevuld uit productinformatie voor Osem Cream Crackers 250 g bij Tesco en Morrisons. Overige ingrediënten blijven van de aangeleverde verpakking.",
+    "imageBeforeTextCleanup": "./images/osem-cream.jpg",
+    "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+  },
+  {
+    "id": 11,
+    "brand": "Osem",
+    "name": "Sesamcrackers",
+    "variant": "250 g",
+    "category": "Crackers",
+    "ean": "077544132009",
+    "ingredients": "Tarwebloem (84%), sesamzaad (7%), zonnebloemolie, palmolie, suiker, tarwegluten, gerstemoutextract, gist, zeezout, glucosestroop, gemodificeerd zetmeel, rijsmiddel (E500), meelbehandelingsmiddel E223 (sulfieten).",
+    "allergens": [
+      "Tarwe",
+      "Sesam",
+      "Gerst",
+      "Sulfieten"
+    ],
+    "warning": "Kan soja en noten bevatten.",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "image": "./images/osem-11-clean-front.png",
+    "sourcePhotos": [
+      30,
+      31
+    ],
+    "imageSource": "https://www.tesco.com/shop/en-GB/products/263385279",
+    "sourcePdfPhotos": [
+      17,
+      18
+    ],
+    "imageOriginalUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/5913e905-9e95-45f2-aedd-07ee4912ec86/726ee133-6b2d-4049-8b6a-1cbfe2586fde_980792844.jpeg?h=960&w=960",
+    "originalName": "Sesame Crackers",
+    "imageBounds": [
+      0.024720893141945772,
+      0.29904306220095694,
+      0.9752791068580542,
+      0.7009569377990431
+    ],
+    "imageBeforeTextCleanup": "./images/osem-sesame-front.jpg",
+    "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+  },
+  {
+    "id": 9,
+    "brand": "Osem",
+    "name": "Ronde Tarwecrackers",
+    "variant": "250 g",
+    "category": "Crackers",
+    "ean": "077544134003",
+    "ingredients": "Tarwebloem (75%), zonnebloemolie, tarwezemelen, suiker, palmolie, gerstemoutextract, rijsmiddel (ammoniumbicarbonaat), zeezout, gistextract, emulgator: lecithinen (soja), tarwegluten, tarwekiemen, meelbehandelingsmiddel (natriummetabisulfiet), zuurteregelaar (citroenzuur).",
+    "allergens": [
+      "Tarwe",
+      "Gerst",
+      "Soja",
+      "Sulfieten"
+    ],
+    "warning": "Kan sesamzaad en noten bevatten.",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "image": "./images/osem-9-clean-front.png",
+    "sourcePhotos": [
+      24,
+      25,
+      26
+    ],
+    "imageSource": "https://www.tesco.com/shop/en-GB/products/266651017",
+    "sourcePdfPhotos": [
+      19,
+      20,
+      21
+    ],
+    "originalName": "Wheaten Crackers",
+    "imageBounds": [
+      0.024720893141945772,
+      0.3484848484848485,
+      0.9744816586921851,
+      0.6515151515151515
+    ],
+    "imageBeforeTextCleanup": "./images/osem-wheaten.jpg",
+    "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+  },
+  {
     "id": 6,
     "brand": "Osem",
     "name": "Snackcrackers met Zeezout",
@@ -291,45 +413,6 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
   },
   {
-    "id": 9,
-    "brand": "Osem",
-    "name": "Ronde Tarwecrackers",
-    "variant": "250 g",
-    "category": "Crackers",
-    "ean": "077544134003",
-    "ingredients": "Tarwebloem (75%), zonnebloemolie, tarwezemelen, suiker, palmolie, gerstemoutextract, rijsmiddel (ammoniumbicarbonaat), zeezout, gistextract, emulgator: lecithinen (soja), tarwegluten, tarwekiemen, meelbehandelingsmiddel (natriummetabisulfiet), zuurteregelaar (citroenzuur).",
-    "allergens": [
-      "Tarwe",
-      "Gerst",
-      "Soja",
-      "Sulfieten"
-    ],
-    "warning": "Kan sesamzaad en noten bevatten.",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "image": "./images/osem-9-clean-front.png",
-    "sourcePhotos": [
-      24,
-      25,
-      26
-    ],
-    "imageSource": "https://www.tesco.com/shop/en-GB/products/266651017",
-    "sourcePdfPhotos": [
-      19,
-      20,
-      21
-    ],
-    "originalName": "Wheaten Crackers",
-    "imageBounds": [
-      0.024720893141945772,
-      0.3484848484848485,
-      0.9744816586921851,
-      0.6515151515151515
-    ],
-    "imageBeforeTextCleanup": "./images/osem-wheaten.jpg",
-    "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
-  },
-  {
     "id": 10,
     "brand": "Osem",
     "name": "Goudbruine Tarwecrackers",
@@ -369,89 +452,6 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
   },
   {
-    "id": 11,
-    "brand": "Osem",
-    "name": "Sesamcrackers",
-    "variant": "250 g",
-    "category": "Crackers",
-    "ean": "077544132009",
-    "ingredients": "Tarwebloem (84%), sesamzaad (7%), zonnebloemolie, palmolie, suiker, tarwegluten, gerstemoutextract, gist, zeezout, glucosestroop, gemodificeerd zetmeel, rijsmiddel (E500), meelbehandelingsmiddel E223 (sulfieten).",
-    "allergens": [
-      "Tarwe",
-      "Sesam",
-      "Gerst",
-      "Sulfieten"
-    ],
-    "warning": "Kan soja en noten bevatten.",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "image": "./images/osem-11-clean-front.png",
-    "sourcePhotos": [
-      30,
-      31
-    ],
-    "imageSource": "https://www.tesco.com/shop/en-GB/products/263385279",
-    "sourcePdfPhotos": [
-      17,
-      18
-    ],
-    "imageOriginalUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/5913e905-9e95-45f2-aedd-07ee4912ec86/726ee133-6b2d-4049-8b6a-1cbfe2586fde_980792844.jpeg?h=960&w=960",
-    "originalName": "Sesame Crackers",
-    "imageBounds": [
-      0.024720893141945772,
-      0.29904306220095694,
-      0.9752791068580542,
-      0.7009569377990431
-    ],
-    "imageBeforeTextCleanup": "./images/osem-sesame-front.jpg",
-    "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
-  },
-  {
-    "id": 12,
-    "brand": "Osem",
-    "name": "Tarwecrackers Naturel",
-    "variant": "250 g",
-    "category": "Crackers",
-    "ean": "077544131002",
-    "ingredients": "Tarwebloem (91%), palmolie, koolzaadolie, maïssiroop, gerstemoutextract, zeezout, ammoniumbicarbonaat, natriumbicarbonaat, natriumzuurpyrofosfaat, gist, maïszetmeel, tarwegluten, sojalecithine, natriummetabisulfiet.",
-    "allergens": [
-      "Tarwe",
-      "Gerst",
-      "Soja",
-      "Sulfieten"
-    ],
-    "warning": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room.",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "image": "./images/osem-12-clean-front.png",
-    "sourcePhotos": [
-      32,
-      33,
-      35,
-      44
-    ],
-    "imageSource": "https://www.tesco.com/shop/en-GB/products/263386406",
-    "sourcePdfPhotos": [
-      14,
-      15,
-      16
-    ],
-    "originalName": "Cream Crackers",
-    "imageBounds": [
-      0.024720893141945772,
-      0.33811802232854865,
-      0.9744816586921851,
-      0.6610845295055822
-    ],
-    "ingredientPercentageSources": [
-      "https://www.tesco.com/shop/en-GB/products/263386406",
-      "https://groceries.morrisons.com/products/osem-cream-crackers/100385471"
-    ],
-    "ingredientSourceNote": "Percentage tarwebloem aangevuld uit productinformatie voor Osem Cream Crackers 250 g bij Tesco en Morrisons. Overige ingrediënten blijven van de aangeleverde verpakking.",
-    "imageBeforeTextCleanup": "./images/osem-cream.jpg",
-    "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
-  },
-  {
     "id": 53,
     "brand": "Osem",
     "name": "Crackers met Ui",
@@ -459,18 +459,33 @@ window.KPI_PRODUCTS = [
     "category": "Crackers",
     "ean": "7290000061061",
     "ingredients": "Tarwebloem (68%, bevat gluten), plantaardige vetten, gedroogde ui (7%), tarwezemelen, suiker, gerstemoutextract, rijsmiddel (E503), gedroogde knoflook, zout, gistextract, emulgator (sojalecithine), tarwegluten, tarwekiemen, deegverbeteraar (sulfiet), zuurteregelaar (citroenzuur), antioxidant (rozemarijnextract).",
-    "allergens": ["Tarwe", "Gerst", "Soja", "Sulfieten"],
+    "allergens": [
+      "Tarwe",
+      "Gerst",
+      "Soja",
+      "Sulfieten"
+    ],
     "warning": "Kan noten, sesam en selderij bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-onion-crackers-250g.png",
-    "imageBounds": [0, 0.3622222222, 1, 0.6366666667],
+    "imageBounds": [
+      0,
+      0.3622222222,
+      1,
+      0.6366666667
+    ],
     "imageSource": "Door gebruiker aangeleverde en geselecteerde productfoto cracker.png.",
     "ingredientsSource": "Fysieke verpakking, foto 151aac77-de18-45a2-b53d-8407b354dc2a.jpg.",
     "barcodeSource": "Fysieke verpakking, foto 62100ddc-4f6b-426c-97df-e92bdd6bec76.jpg; bevestigd door gebruiker.",
     "kosherSource": "Badatz Edah HaChareidis zichtbaar op aangeleverde productfoto cracker.png; parve volgens verpakking. Bestaande gebruikersbevestiging voor Osem crackers.",
     "vegan": true,
     "veganSource": "Vegan Friendly zichtbaar op de fysieke verpakking.",
-    "sourcePhotos": ["1e439ae7-79be-4f85-98ee-e016e67a3250.jpg", "151aac77-de18-45a2-b53d-8407b354dc2a.jpg", "62100ddc-4f6b-426c-97df-e92bdd6bec76.jpg", "bdf3f8b8-b79d-4003-a1ce-88768d38327f.jpg"]
+    "sourcePhotos": [
+      "1e439ae7-79be-4f85-98ee-e016e67a3250.jpg",
+      "151aac77-de18-45a2-b53d-8407b354dc2a.jpg",
+      "62100ddc-4f6b-426c-97df-e92bdd6bec76.jpg",
+      "bdf3f8b8-b79d-4003-a1ce-88768d38327f.jpg"
+    ]
   },
   {
     "id": 13,
@@ -740,196 +755,318 @@ window.KPI_PRODUCTS = [
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
   },
   {
-    "id": 22,
-    "brand": "Elite",
-    "name": "Chocolit Pesek Zman Cacaodrankpoeder",
-    "variant": "500 g",
-    "ean": "815871017756",
-    "ingredients": "Poedersuiker, cacao (behandeld met alkali), zonnebloemlecithine, kunstmatige aroma’s.",
+    "id": 47,
+    "brand": "Wissotzky",
+    "name": "Groene Thee met Citroengras en Verbena",
+    "englishName": "Lemongrass & Verbena",
+    "variant": "20 zakjes",
+    "ean": "603741000423",
+    "ingredients": "Groene thee, citroengras, verbena, natuurlijk citroenaroma.",
     "allergens": [],
     "warning": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "category": "Koffie & Chocolit",
-    "image": "images/pesek.jpg",
-    "imageSource": "https://miamikosherfood.com/products/chocolit-pesek-zman-flavored-17-6-oz",
-    "sourcePdfPhotos": [
-      91,
-      92,
-      93
-    ],
-    "originalName": "Chocolit Pesek Zman",
-    "imageOriginalUrl": "https://miamikosherfood.com/cdn/shop/files/815871017756.jpg?v=1765825207",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-47.png",
     "imageBounds": [
-      0.216,
-      0.076,
-      0.786,
+      0.284,
+      0.07733,
+      0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: Chocolit Pesek Zman uitsluitend Badatz Edah HaChareidis (Parve)."
+    "imageSource": "https://www.wtea.com/product/lemongrass-verbena/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/LEMONGRASS-VERBENA-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/lemongrass-verbena/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-verbena-lemongrass-green-tea/"
   },
   {
-    "id": 23,
-    "brand": "Elite",
-    "name": "Chocolit Cacaodrankpoeder voor Pesach",
-    "variant": "500 g",
-    "ean": "815871017626",
-    "ingredients": "Suiker, cacaopoeder (18,5%), aroma (vanilline).",
+    "id": 48,
+    "brand": "Wissotzky",
+    "name": "Groene Thee met Gember en Citroengras",
+    "englishName": "Ginger & Lemongrass",
+    "variant": "20 zakjes",
+    "ean": "603741000720",
+    "ingredients": "Groene thee, citroengras, gemberwortel, natuurlijk citroenaroma, citroenschillen.",
     "allergens": [],
     "warning": "",
-    "kosher": "Parve · Geschikt voor Pesach onder toezicht van het Rabbinaat Safed",
-    "category": "Koffie & Chocolit",
-    "image": "images/chocolit-kayco.png",
-    "imageSource": "https://www.kayco.com/product/elite-chocolit-drink-mix/",
-    "sourcePdfPhotos": [
-      94,
-      95
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-48.png",
+    "imageBounds": [
+      0.284,
+      0.07733,
+      0.746,
+      0.92
     ],
-    "originalName": "Chocolit — Kosher for Passover",
-    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2023/01/160203-1.png",
+    "imageSource": "https://www.wtea.com/product/ginger-lemongrass/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/GINGER-LEMONGRASS-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/ginger-lemongrass/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-ginger-lemongrass-green-tea/"
+  },
+  {
+    "id": 46,
+    "brand": "Wissotzky",
+    "name": "Kruidenthee met Mango en Passievrucht",
+    "englishName": "Mango & Passion Fruit",
+    "variant": "20 zakjes",
+    "ean": "603741000621",
+    "ingredients": "Rozenbottels, hibiscus, passievruchtaroma, appels, sinaasappelschillen, vlierbessen, mangoaroma, mango.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-46.png",
+    "imageBounds": [
+      0.284,
+      0.07733,
+      0.746,
+      0.92
+    ],
+    "imageSource": "https://www.wtea.com/product/mango-passion-fruit/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/MANGO-PASSION-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/mango-passion-fruit/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-mango-passion-tea/"
+  },
+  {
+    "id": 43,
+    "brand": "Wissotzky",
+    "name": "Kruidenthee met Pepermunt",
+    "englishName": "Cool Peppermint",
+    "variant": "20 zakjes",
+    "ean": "603741000089",
+    "ingredients": "Pepermuntbladeren.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-43.png",
+    "imageBounds": [
+      0.284,
+      0.07733,
+      0.746,
+      0.92
+    ],
+    "imageSource": "https://www.wtea.com/product/cool-peppermint/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/COOL-PEPPERMINT-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/cool-peppermint/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-peppermint-tea/"
+  },
+  {
+    "id": 42,
+    "brand": "Wissotzky",
+    "name": "Groene Thee met Jasmijn",
+    "englishName": "Jasmine Green",
+    "variant": "20 zakjes",
+    "ean": "603741000454",
+    "ingredients": "Groene thee, jasmijnbloemen.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-42.png",
+    "imageBounds": [
+      0.284,
+      0.07733,
+      0.746,
+      0.92
+    ],
+    "imageSource": "https://www.wtea.com/product/jasmine/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/JASMINE-GREEN-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/jasmine/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-jasmine-green-tea/"
+  },
+  {
+    "id": 45,
+    "brand": "Wissotzky",
+    "name": "Kruidenthee voor de Nachtrust",
+    "englishName": "Sleep Herbal Tea",
+    "variant": "20 zakjes",
+    "ean": "603741000478",
+    "ingredients": "Kamillebloemen, verbena, lavendel, passiebloem, citroenmelisse, rooibos, bramenbladeren, salie.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-45-front.png",
+    "imageBounds": [
+      0.164,
+      0.062,
+      0.835,
+      0.938
+    ],
+    "imageSource": "https://www.wtea.com/product/sleep-relaxation-wellness-herbal-tea-2/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2025/02/VS-SLEEP.jpg",
+    "ingredientsSource": "https://www.wtea.com/product/sleep-relaxation-wellness-herbal-tea-2/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "imageEdit": "Officiële Wissotzky-foto met ingebouwde imagegen rechtgezet naar vooraanzicht op witte achtergrond; verpakkingstekst en kleuren behouden.",
+    "barcodeSource": "https://www.koshervitamins.com/Wissotzky-Tea-Kosher-Wellness-Sleep-Herbal-Tea-20-Tea-Bags"
+  },
+  {
+    "id": 34,
+    "brand": "Wissotzky",
+    "name": "Kruidenthee met Aardbei",
+    "variant": "20 zakjes · 50 g",
+    "ean": "603741000690",
+    "ingredients": "Hibiscus, appels, aardbeienaroma, citrusschillen, rozenbottels, rode biet, geroosterde cichoreiwortel, kaneel, aardbei.",
+    "allergens": [],
+    "warning": "",
+    "ingredientSourceNote": "Oorspronkelijke Engelse ingrediëntenlijst op PDF foto 71. Beide zichtbare lijsten noemen geen allergenen. De Nederlandse sticker wijkt af in volgorde en laat rode biet weg.",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-34.png",
+    "imageSource": "https://www.wtea.com/product/strawberry-burst/",
+    "sourcePdfPhotos": [
+      70,
+      71,
+      72
+    ],
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/STRAWBERRY-vf.png",
+    "originalName": "Strawberry Burst",
+    "imageBounds": [
+      0.284,
+      0.07733,
+      0.748,
+      0.92
+    ],
+    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+  },
+  {
+    "id": 49,
+    "brand": "Wissotzky",
+    "name": "Zwarte Thee Earl Grey",
+    "englishName": "Earl Grey",
+    "variant": "20 zakjes",
+    "ean": "603741000072",
+    "ingredients": "Zwarte thee, kunstmatig bergamotaroma.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-49.png",
+    "imageBounds": [
+      0.284,
+      0.07733,
+      0.746,
+      0.92
+    ],
+    "imageSource": "https://www.wtea.com/product/earl-grey-20-tea-bags/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/EARL-GREY-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/earl-grey-20-tea-bags/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-earl-grey-tea/"
+  },
+  {
+    "id": 50,
+    "brand": "Wissotzky",
+    "name": "Zwarte Thee Classic",
+    "englishName": "Classic Black Tea",
+    "variant": "100 zakjes",
+    "ean": "603741000133",
+    "ingredients": "Zwarte thee.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-50-kayco.jpg",
+    "imageBounds": [
+      0.018,
+      0,
+      0.985,
+      1
+    ],
+    "imageSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/",
+    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2023/11/260102.jpg",
+    "ingredientsSource": "https://www.wtea.com/product/classic-black-tea/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/"
+  },
+  {
+    "id": 51,
+    "brand": "Wissotzky",
+    "name": "Cold Breeze met Watermeloen en Nanamunt",
+    "englishName": "Watermelon Nana Mint",
+    "variant": "18 zakjes · 45 g",
+    "ean": "603741002526",
+    "ingredients": "Verbena, watermeloenaroma, hibiscus, groene-muntaroma, groene munt, zoete bramenbladeren, zoethoutwortel, rozenbottels, rode biet.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-51.jpg",
     "imageBounds": [
       0,
       0,
       1,
       1
-    ]
+    ],
+    "imageSource": "https://www.wtea.com/product/watermelon-nana-mint-cold-brew-iced-tea/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-R.jpg",
+    "ingredientsSource": "https://www.wtea.com/product/watermelon-nana-mint-cold-brew-iced-tea/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-V.jpg"
   },
   {
-    "id": 24,
-    "brand": "Nescafé",
-    "name": "Taster’s Choice Oploskoffie Naturel",
-    "variant": "200 g",
-    "ean": "7290000072753",
-    "ingredients": "Koffie (100%).",
+    "id": 41,
+    "brand": "Wissotzky",
+    "name": "Cold Breeze met Ananas en Kokos",
+    "englishName": "Pineapple Coconut",
+    "variant": "18 zakjes · 45 g",
+    "ean": "603741002540",
+    "ingredients": "Rozenbottels, appels, zoete bramenbladeren, ananasaroma, verbena, zoethoutwortel, kokosaroma, citroenaroma.",
     "allergens": [],
     "warning": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "category": "Koffie & Chocolit",
-    "image": "images/nescafe-official.jpg",
-    "imageSource": "https://www.nestleprofessional.co.il/tyystrs-zwys/nsqph-tyystrs-zwys-200-grm",
-    "sourcePdfPhotos": [
-      96,
-      97
-    ],
-    "originalName": "Taster’s Choice Original",
-    "imageOriginalUrl": "https://www.nestleprofessional.co.il/sites/default/files/styles/np_product_detail/public/product_images/132431_7290000072753.jpg?itok=T4nOdKyj",
-    "imageBounds": [
-      0.188,
-      0.028,
-      0.824,
-      0.978
-    ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
-  },
-  {
-    "id": 25,
-    "brand": "Elite",
-    "name": "Oploskoffie Naturel",
-    "variant": "200 g",
-    "ean": "077245102530",
-    "ingredients": "Oploskoffie (100%).",
-    "allergens": [],
-    "warning": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "category": "Koffie & Chocolit",
-    "image": "./images/elite-target.jpg",
-    "imageSource": "https://www.target.com/p/-/A-47089245",
-    "sourcePdfPhotos": [
-      98,
-      99
-    ],
-    "originalName": "Instant Coffee",
-    "imageOriginalUrl": "https://target.scene7.com/is/image/Target/GUEST_12ce399b-cefa-4a4c-bfae-17e3cc6d73a1",
-    "imageBounds": [
-      0.245,
-      0.0025,
-      0.755,
-      0.9975
-    ],
-    "kosherSource": "Laatste gebruikersbevestiging: Oploskoffie Naturel Badatz Edah HaChareidis (Parve)."
-  },
-  {
-    "id": 26,
-    "brand": "Elite",
-    "name": "Oploskoffie met Mokkasmaak",
-    "variant": "200 g",
-    "ean": "7290104065187",
-    "ingredients": "Oploskoffie, aroma’s.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "category": "Koffie & Chocolit",
-    "image": "images/mocha-en.png",
-    "imageSource": "https://www.kayco.com/product/elite-mocha-instant-coffee-tin/",
-    "sourcePdfPhotos": [
-      100,
-      101,
-      102
-    ],
-    "originalName": "Instant Coffee Mokka",
-    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2020/09/160605.png",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-41.jpg",
     "imageBounds": [
       0,
       0,
       1,
       1
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+    "imageSource": "https://www.wtea.com/product/pineapple-coconut-cold-brew-iced-tea/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-R.jpg",
+    "ingredientsSource": "https://www.wtea.com/product/pineapple-coconut-cold-brew-iced-tea/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-V.jpg"
   },
   {
-    "id": 27,
-    "brand": "Elite",
-    "name": "Oploskoffie met Vanillesmaak",
-    "variant": "200 g",
-    "ean": "7290102032334",
-    "ingredients": "Oploskoffie, aroma’s.",
+    "id": 44,
+    "brand": "Wissotzky",
+    "name": "Groene Thee Naturel",
+    "englishName": "Pure Green",
+    "variant": "20 zakjes",
+    "ean": "603741000508",
+    "ingredients": "Groene thee.",
     "allergens": [],
     "warning": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "category": "Koffie & Chocolit",
-    "image": "images/vanilla-en.png",
-    "imageSource": "https://www.kayco.com/product/elite-vanilla-instant-coffee-tin/",
-    "sourcePdfPhotos": [
-      103,
-      104,
-      105
-    ],
-    "originalName": "Instant Coffee Vanille",
-    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2020/09/160602.png",
+    "kosher": "OU P (Parve)",
+    "category": "Thee",
+    "image": "./images/wissotzky-44.png",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
+      0.284,
+      0.07733,
+      0.746,
+      0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
-  },
-  {
-    "id": 28,
-    "brand": "Elite",
-    "name": "Turkse Koffie met Kardemom",
-    "variant": "100 g",
-    "ean": "7290000176079",
-    "ingredients": "Koffie, kardemom.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "category": "Koffie & Chocolit",
-    "image": "images/turkish-en.jpg",
-    "imageSource": "https://bethyosef.mx/elite-turkish-coffee-with-cardamom-100-g/",
-    "sourcePdfPhotos": [
-      106,
-      107,
-      108
-    ],
-    "originalName": "Turkish Coffee met kardemom",
-    "imageOriginalUrl": "https://cdn11.bigcommerce.com/s-3oa0ln1on6/products/2936/images/4147/077245107931__99622.1721777291.386.513.jpg?c=1",
-    "imageBounds": [
-      0.14508,
-      0.05843,
-      0.83938,
-      0.93483
-    ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+    "imageSource": "https://www.wtea.com/product/pure-green/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/PURE-GREEN-vf.png",
+    "ingredientsSource": "https://www.wtea.com/product/pure-green/",
+    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-pure-green-tea/"
   },
   {
     "id": 29,
@@ -1073,33 +1210,37 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
   },
   {
-    "id": 34,
+    "id": 52,
     "brand": "Wissotzky",
-    "name": "Kruidenthee met Aardbei",
+    "name": "Kruidenthee met Granaatappelnectar",
+    "englishName": "Pomegranate Nectar",
+    "originalName": "Pomegranate Nectar",
     "variant": "20 zakjes · 50 g",
-    "ean": "603741000690",
-    "ingredients": "Hibiscus, appels, aardbeienaroma, citrusschillen, rozenbottels, rode biet, geroosterde cichoreiwortel, kaneel, aardbei.",
-    "allergens": [],
+    "ean": "603741001130",
+    "ingredients": "Hibiscus, bramenbladeren, rozenbottels, granaatappelaroma, appels, sinaasappelschillen, granaatappel.",
+    "allergens": [
+      "Geen declaratieplichtige allergenen vermeld"
+    ],
     "warning": "",
-    "ingredientSourceNote": "Oorspronkelijke Engelse ingrediëntenlijst op PDF foto 71. Beide zichtbare lijsten noemen geen allergenen. De Nederlandse sticker wijkt af in volgorde en laat rode biet weg.",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU-P",
     "category": "Thee",
-    "image": "./images/wissotzky-34.png",
-    "imageSource": "https://www.wtea.com/product/strawberry-burst/",
-    "sourcePdfPhotos": [
-      70,
-      71,
-      72
-    ],
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/STRAWBERRY-vf.png",
-    "originalName": "Strawberry Burst",
+    "origin": "Product of Israel",
+    "caffeineFree": true,
+    "image": "./images/wissotzky-pomegranate-nectar.png",
     "imageBounds": [
-      0.284,
-      0.07733,
-      0.748,
-      0.92
+      0.334,
+      0.0844,
+      0.692,
+      0.8862
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "imageSource": "https://www.wtea.com/product/pomegranate-nectar/",
+    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/POMEGRANATE-vf.png",
+    "productDataSource": "Fysieke voorkantfoto van gebruiker en door gebruiker overgenomen verpakkingsgegevens.",
+    "barcodeSource": "Door gebruiker overgenomen van fysieke verpakking: 603741001130.",
+    "ingredientsSource": "https://www.wtea.com/product/pomegranate-nectar/",
+    "allergenStatusSource": "Afgeleid uit de ingrediëntenlijst op de officiële Wissotzky-productpagina: geen declaratieplichtige allergenen vermeld. Geen afzonderlijke verklaring over mogelijke sporen gevonden; geen allergenenvrijgarantie.",
+    "allergensSource": "https://www.wtea.com/product/pomegranate-nectar/",
+    "kosherSource": "OU-P zichtbaar op de fysieke voorkantfoto; extra hechsher-logo niet betrouwbaar geïdentificeerd en niet overgenomen."
   },
   {
     "id": 35,
@@ -1270,314 +1411,195 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
   },
   {
-    "id": 42,
-    "brand": "Wissotzky",
-    "name": "Groene Thee met Jasmijn",
-    "englishName": "Jasmine Green",
-    "variant": "20 zakjes",
-    "ean": "603741000454",
-    "ingredients": "Groene thee, jasmijnbloemen.",
+    "id": 28,
+    "brand": "Elite",
+    "name": "Turkse Koffie met Kardemom",
+    "variant": "100 g",
+    "ean": "7290000176079",
+    "ingredients": "Koffie, kardemom.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-42.png",
-    "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "images/turkish-en.jpg",
+    "imageSource": "https://bethyosef.mx/elite-turkish-coffee-with-cardamom-100-g/",
+    "sourcePdfPhotos": [
+      106,
+      107,
+      108
     ],
-    "imageSource": "https://www.wtea.com/product/jasmine/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/JASMINE-GREEN-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/jasmine/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-jasmine-green-tea/"
-  },
-  {
-    "id": 43,
-    "brand": "Wissotzky",
-    "name": "Kruidenthee met Pepermunt",
-    "englishName": "Cool Peppermint",
-    "variant": "20 zakjes",
-    "ean": "603741000089",
-    "ingredients": "Pepermuntbladeren.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-43.png",
+    "originalName": "Turkish Coffee met kardemom",
+    "imageOriginalUrl": "https://cdn11.bigcommerce.com/s-3oa0ln1on6/products/2936/images/4147/077245107931__99622.1721777291.386.513.jpg?c=1",
     "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
+      0.14508,
+      0.05843,
+      0.83938,
+      0.93483
     ],
-    "imageSource": "https://www.wtea.com/product/cool-peppermint/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/COOL-PEPPERMINT-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/cool-peppermint/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-peppermint-tea/"
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
   },
   {
-    "id": 44,
-    "brand": "Wissotzky",
-    "name": "Groene Thee Naturel",
-    "englishName": "Pure Green",
-    "variant": "20 zakjes",
-    "ean": "603741000508",
-    "ingredients": "Groene thee.",
+    "id": 27,
+    "brand": "Elite",
+    "name": "Oploskoffie met Vanillesmaak",
+    "variant": "200 g",
+    "ean": "7290102032334",
+    "ingredients": "Oploskoffie, aroma’s.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-44.png",
-    "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "images/vanilla-en.png",
+    "imageSource": "https://www.kayco.com/product/elite-vanilla-instant-coffee-tin/",
+    "sourcePdfPhotos": [
+      103,
+      104,
+      105
     ],
-    "imageSource": "https://www.wtea.com/product/pure-green/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/PURE-GREEN-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/pure-green/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-pure-green-tea/"
-  },
-  {
-    "id": 45,
-    "brand": "Wissotzky",
-    "name": "Kruidenthee voor de Nachtrust",
-    "englishName": "Sleep Herbal Tea",
-    "variant": "20 zakjes",
-    "ean": "603741000478",
-    "ingredients": "Kamillebloemen, verbena, lavendel, passiebloem, citroenmelisse, rooibos, bramenbladeren, salie.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-45-front.png",
-    "imageBounds": [
-      0.164,
-      0.062,
-      0.835,
-      0.938
-    ],
-    "imageSource": "https://www.wtea.com/product/sleep-relaxation-wellness-herbal-tea-2/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2025/02/VS-SLEEP.jpg",
-    "ingredientsSource": "https://www.wtea.com/product/sleep-relaxation-wellness-herbal-tea-2/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "imageEdit": "Officiële Wissotzky-foto met ingebouwde imagegen rechtgezet naar vooraanzicht op witte achtergrond; verpakkingstekst en kleuren behouden.",
-    "barcodeSource": "https://www.koshervitamins.com/Wissotzky-Tea-Kosher-Wellness-Sleep-Herbal-Tea-20-Tea-Bags"
-  },
-  {
-    "id": 46,
-    "brand": "Wissotzky",
-    "name": "Kruidenthee met Mango en Passievrucht",
-    "englishName": "Mango & Passion Fruit",
-    "variant": "20 zakjes",
-    "ean": "603741000621",
-    "ingredients": "Rozenbottels, hibiscus, passievruchtaroma, appels, sinaasappelschillen, vlierbessen, mangoaroma, mango.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-46.png",
-    "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
-    ],
-    "imageSource": "https://www.wtea.com/product/mango-passion-fruit/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/MANGO-PASSION-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/mango-passion-fruit/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-mango-passion-tea/"
-  },
-  {
-    "id": 47,
-    "brand": "Wissotzky",
-    "name": "Groene Thee met Citroengras en Verbena",
-    "englishName": "Lemongrass & Verbena",
-    "variant": "20 zakjes",
-    "ean": "603741000423",
-    "ingredients": "Groene thee, citroengras, verbena, natuurlijk citroenaroma.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-47.png",
-    "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
-    ],
-    "imageSource": "https://www.wtea.com/product/lemongrass-verbena/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/LEMONGRASS-VERBENA-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/lemongrass-verbena/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-verbena-lemongrass-green-tea/"
-  },
-  {
-    "id": 48,
-    "brand": "Wissotzky",
-    "name": "Groene Thee met Gember en Citroengras",
-    "englishName": "Ginger & Lemongrass",
-    "variant": "20 zakjes",
-    "ean": "603741000720",
-    "ingredients": "Groene thee, citroengras, gemberwortel, natuurlijk citroenaroma, citroenschillen.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-48.png",
-    "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
-    ],
-    "imageSource": "https://www.wtea.com/product/ginger-lemongrass/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/GINGER-LEMONGRASS-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/ginger-lemongrass/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-ginger-lemongrass-green-tea/"
-  },
-  {
-    "id": 49,
-    "brand": "Wissotzky",
-    "name": "Zwarte Thee Earl Grey",
-    "englishName": "Earl Grey",
-    "variant": "20 zakjes",
-    "ean": "603741000072",
-    "ingredients": "Zwarte thee, kunstmatig bergamotaroma.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-49.png",
-    "imageBounds": [
-      0.284,
-      0.07733,
-      0.746,
-      0.92
-    ],
-    "imageSource": "https://www.wtea.com/product/earl-grey-20-tea-bags/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/EARL-GREY-vf.png",
-    "ingredientsSource": "https://www.wtea.com/product/earl-grey-20-tea-bags/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-earl-grey-tea/"
-  },
-  {
-    "id": 52,
-    "brand": "Wissotzky",
-    "name": "Kruidenthee met Granaatappelnectar",
-    "englishName": "Pomegranate Nectar",
-    "originalName": "Pomegranate Nectar",
-    "variant": "20 zakjes · 50 g",
-    "ean": "603741001130",
-    "ingredients": "Hibiscus, bramenbladeren, rozenbottels, granaatappelaroma, appels, sinaasappelschillen, granaatappel.",
-    "allergens": ["Geen declaratieplichtige allergenen vermeld"],
-    "warning": "",
-    "kosher": "OU-P",
-    "category": "Thee",
-    "origin": "Product of Israel",
-    "caffeineFree": true,
-    "image": "./images/wissotzky-pomegranate-nectar.png",
-    "imageBounds": [0.334, 0.0844, 0.692, 0.8862],
-    "imageSource": "https://www.wtea.com/product/pomegranate-nectar/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/POMEGRANATE-vf.png",
-    "productDataSource": "Fysieke voorkantfoto van gebruiker en door gebruiker overgenomen verpakkingsgegevens.",
-    "barcodeSource": "Door gebruiker overgenomen van fysieke verpakking: 603741001130.",
-    "ingredientsSource": "https://www.wtea.com/product/pomegranate-nectar/",
-    "allergenStatusSource": "Afgeleid uit de ingrediëntenlijst op de officiële Wissotzky-productpagina: geen declaratieplichtige allergenen vermeld. Geen afzonderlijke verklaring over mogelijke sporen gevonden; geen allergenenvrijgarantie.",
-    "allergensSource": "https://www.wtea.com/product/pomegranate-nectar/",
-    "kosherSource": "OU-P zichtbaar op de fysieke voorkantfoto; extra hechsher-logo niet betrouwbaar geïdentificeerd en niet overgenomen."
-  },
-  {
-    "id": 50,
-    "brand": "Wissotzky",
-    "name": "Zwarte Thee Classic",
-    "englishName": "Classic Black Tea",
-    "variant": "100 zakjes",
-    "ean": "603741000133",
-    "ingredients": "Zwarte thee.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-50-kayco.jpg",
-    "imageBounds": [
-      0.018,
-      0,
-      0.985,
-      1
-    ],
-    "imageSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/",
-    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2023/11/260102.jpg",
-    "ingredientsSource": "https://www.wtea.com/product/classic-black-tea/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/"
-  },
-  {
-    "id": 41,
-    "brand": "Wissotzky",
-    "name": "Cold Breeze met Ananas en Kokos",
-    "englishName": "Pineapple Coconut",
-    "variant": "18 zakjes · 45 g",
-    "ean": "603741002540",
-    "ingredients": "Rozenbottels, appels, zoete bramenbladeren, ananasaroma, verbena, zoethoutwortel, kokosaroma, citroenaroma.",
-    "allergens": [],
-    "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-41.jpg",
+    "originalName": "Instant Coffee Vanille",
+    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2020/09/160602.png",
     "imageBounds": [
       0,
       0,
       1,
       1
     ],
-    "imageSource": "https://www.wtea.com/product/pineapple-coconut-cold-brew-iced-tea/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-R.jpg",
-    "ingredientsSource": "https://www.wtea.com/product/pineapple-coconut-cold-brew-iced-tea/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-V.jpg"
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
   },
   {
-    "id": 51,
-    "brand": "Wissotzky",
-    "name": "Cold Breeze met Watermeloen en Nanamunt",
-    "englishName": "Watermelon Nana Mint",
-    "variant": "18 zakjes · 45 g",
-    "ean": "603741002526",
-    "ingredients": "Verbena, watermeloenaroma, hibiscus, groene-muntaroma, groene munt, zoete bramenbladeren, zoethoutwortel, rozenbottels, rode biet.",
+    "id": 26,
+    "brand": "Elite",
+    "name": "Oploskoffie met Mokkasmaak",
+    "variant": "200 g",
+    "ean": "7290104065187",
+    "ingredients": "Oploskoffie, aroma’s.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
-    "category": "Thee",
-    "image": "./images/wissotzky-51.jpg",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "images/mocha-en.png",
+    "imageSource": "https://www.kayco.com/product/elite-mocha-instant-coffee-tin/",
+    "sourcePdfPhotos": [
+      100,
+      101,
+      102
+    ],
+    "originalName": "Instant Coffee Mokka",
+    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2020/09/160605.png",
     "imageBounds": [
       0,
       0,
       1,
       1
     ],
-    "imageSource": "https://www.wtea.com/product/watermelon-nana-mint-cold-brew-iced-tea/",
-    "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-R.jpg",
-    "ingredientsSource": "https://www.wtea.com/product/watermelon-nana-mint-cold-brew-iced-tea/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-V.jpg"
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+  },
+  {
+    "id": 25,
+    "brand": "Elite",
+    "name": "Oploskoffie Naturel",
+    "variant": "200 g",
+    "ean": "077245102530",
+    "ingredients": "Oploskoffie (100%).",
+    "allergens": [],
+    "warning": "",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "./images/elite-target.jpg",
+    "imageSource": "https://www.target.com/p/-/A-47089245",
+    "sourcePdfPhotos": [
+      98,
+      99
+    ],
+    "originalName": "Instant Coffee",
+    "imageOriginalUrl": "https://target.scene7.com/is/image/Target/GUEST_12ce399b-cefa-4a4c-bfae-17e3cc6d73a1",
+    "imageBounds": [
+      0.245,
+      0.0025,
+      0.755,
+      0.9975
+    ],
+    "kosherSource": "Laatste gebruikersbevestiging: Oploskoffie Naturel Badatz Edah HaChareidis (Parve)."
+  },
+  {
+    "id": 24,
+    "brand": "Nescafé",
+    "name": "Taster’s Choice Oploskoffie Naturel",
+    "variant": "200 g",
+    "ean": "7290000072753",
+    "ingredients": "Koffie (100%).",
+    "allergens": [],
+    "warning": "",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "images/nescafe-official.jpg",
+    "imageSource": "https://www.nestleprofessional.co.il/tyystrs-zwys/nsqph-tyystrs-zwys-200-grm",
+    "sourcePdfPhotos": [
+      96,
+      97
+    ],
+    "originalName": "Taster’s Choice Original",
+    "imageOriginalUrl": "https://www.nestleprofessional.co.il/sites/default/files/styles/np_product_detail/public/product_images/132431_7290000072753.jpg?itok=T4nOdKyj",
+    "imageBounds": [
+      0.188,
+      0.028,
+      0.824,
+      0.978
+    ],
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+  },
+  {
+    "id": 23,
+    "brand": "Elite",
+    "name": "Chocolit Cacaodrankpoeder voor Pesach",
+    "variant": "500 g",
+    "ean": "815871017626",
+    "ingredients": "Suiker, cacaopoeder (18,5%), aroma (vanilline).",
+    "allergens": [],
+    "warning": "",
+    "kosher": "Parve · Geschikt voor Pesach onder toezicht van het Rabbinaat Safed",
+    "category": "Koffie & Chocolit",
+    "image": "images/chocolit-kayco.png",
+    "imageSource": "https://www.kayco.com/product/elite-chocolit-drink-mix/",
+    "sourcePdfPhotos": [
+      94,
+      95
+    ],
+    "originalName": "Chocolit — Kosher for Passover",
+    "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2023/01/160203-1.png",
+    "imageBounds": [
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 22,
+    "brand": "Elite",
+    "name": "Chocolit Pesek Zman Cacaodrankpoeder",
+    "variant": "500 g",
+    "ean": "815871017756",
+    "ingredients": "Poedersuiker, cacao (behandeld met alkali), zonnebloemlecithine, kunstmatige aroma’s.",
+    "allergens": [],
+    "warning": "",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "images/pesek.jpg",
+    "imageSource": "https://miamikosherfood.com/products/chocolit-pesek-zman-flavored-17-6-oz",
+    "sourcePdfPhotos": [
+      91,
+      92,
+      93
+    ],
+    "originalName": "Chocolit Pesek Zman",
+    "imageOriginalUrl": "https://miamikosherfood.com/cdn/shop/files/815871017756.jpg?v=1765825207",
+    "imageBounds": [
+      0.216,
+      0.076,
+      0.786,
+      0.92
+    ],
+    "kosherSource": "Gebruikersbevestiging: Chocolit Pesek Zman uitsluitend Badatz Edah HaChareidis (Parve)."
   }
 ];
