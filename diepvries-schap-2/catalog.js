@@ -70,7 +70,7 @@
       ${productImage(product, true)}
       <p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
-      <section><h3>Ingrediënten</h3><p>${escapeHtml(product.ingredients)}</p>${product.ingredientNote ? `<p class="verification-copy">${escapeHtml(product.ingredientNote)}</p>` : ""}</section>
+      <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientNote ? `<p class="verification-copy">${escapeHtml(product.ingredientNote)}</p>` : ""}</section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}

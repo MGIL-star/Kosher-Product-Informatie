@@ -1,0 +1,7 @@
+/* Align original supplier snapshots without redrawing the labels. */
+.product-visual[data-photo-id="29"] img {
+  rotate: -3deg;
+}
+.product-visual[data-photo-id="30"] img {
+  rotate: 1.5deg;
+}
