@@ -123,214 +123,52 @@ window.KPI_PRODUCTS = [
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/BAMBA_BISSLI_BARBECUE_OSEM_KOSHER_80_GR..jpg?v=1772393115"
   },
   {
-    "id": 1,
+    "id": 17,
     "brand": "Osem",
-    "name": "Bissli BBQ",
-    "variant": "70 g",
-    "category": "Bissli",
-    "ean": "077544826007",
-    "ingredients": "Tarwebloem, zonnebloemolie, gedroogde gist, gehydrolyseerd soja-eiwit, zout, suiker, dextrose, rijstmeel, mononatriumglutamaat, uienpoeder, knoflookpoeder, dinatriumguanylaat, dinatriuminosinaat, kunstmatig rookaroma, koolzaadolie, kunstmatige aroma’s, paprika-extract, gistextract.",
-    "allergens": [
-      "Tarwe",
-      "Soja"
-    ],
-    "mayContain": "",
-    "kosher": "Badatz Edah HaChareidis",
-    "image": "images/bissli-bbq-70-osem-snapshot-v2.png",
-    "sourcePhotos": [
-      25,
-      26,
-      27
-    ],
-    "reviewNote": "",
-    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-bbq-25-oz-0",
-    "imageBounds": [
-      0.352,
-      0.135,
-      0.652,
-      0.84
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_BARBECUE_OSEM_70_GR..jpg?v=1759095113",
-    "imageDisclaimer": "Officiële Osem-foto van de opgegeven 2.5 oz-productpagina. Op de afgebeelde zak staat 35 g; de productgegevens hieronder horen bij de 70 g-verpakking."
-  },
-  {
-    "id": 4,
-    "brand": "Osem",
-    "name": "Bissli Pizza",
-    "variant": "70 g",
-    "category": "Bissli",
-    "ean": "077544829008",
-    "ingredients": "Tarwebloem, zonnebloemolie, zout, gedroogde gist, dextrose, gehydrolyseerd soja-eiwit, specerijen, mononatriumglutamaat, gedroogde peterselie, uienpoeder, knoflookpoeder, koolzaadolie, chili-extract, paprika-extract, oregano-extract.",
-    "allergens": [
-      "Tarwe",
-      "Soja"
-    ],
-    "mayContain": "",
-    "kosher": "Badatz Edah HaChareidis",
-    "image": "images/official-4-snapshot.png",
-    "sourcePhotos": [
-      28,
-      29,
-      30
-    ],
-    "reviewNote": "",
-    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-pizza-25-oz",
-    "imageBounds": [
-      0.284,
-      0.068,
-      0.722,
-      0.943
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_PIZZA_SNACK_OSEM_70_GR..jpg?v=1759095134"
-  },
-  {
-    "id": 7,
-    "brand": "Osem",
-    "name": "Bissli Falafel",
-    "variant": "70 g",
-    "category": "Bissli",
-    "ean": "077544825000",
-    "ingredients": "Tarwebloem, zonnebloemolie, specerijen, zout, uienpoeder, knoflookpoeder, mononatriumglutamaat, gistextract, zwartepeperextract, komijnextract.",
-    "allergens": [
-      "Tarwe"
-    ],
+    "name": "Apropo Tubes Gezouten",
+    "variant": "50 g",
+    "category": "Apropo",
+    "ean": "077544006423",
+    "ingredients": "Maïsmeel, zonnebloemolie, suiker, zout.",
+    "allergens": [],
     "mayContain": "Soja.",
-    "kosher": "OU Badatz Edah HaChareidis (Parve)",
-    "image": "images/official-7-snapshot.png",
-    "sourcePhotos": [
-      34,
-      35,
-      36
-    ],
-    "reviewNote": "",
-    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-falafel-25-oz",
-    "imageBounds": [
-      0.292,
-      0.082,
-      0.721,
-      0.933
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_FALAFEL_SNACK_OSEM_70_GR..jpg?v=1759095127"
-  },
-  {
-    "id": 9,
-    "brand": "Osem",
-    "name": "Bissli Ui",
-    "variant": "70 g",
-    "category": "Bissli",
-    "ean": "077544827004",
-    "ingredients": "Tarwebloem, zonnebloemolie, uienpoeder, zout, gehydrolyseerd soja-eiwit, knoflookpoeder, gedroogde peterselie, maïszetmeel, gistextract, citroenzuur, palmolie.",
-    "allergens": [
-      "Tarwe",
-      "Soja"
-    ],
-    "mayContain": "",
     "kosher": "Badatz Edah HaChareidis",
-    "image": "images/bissli-ui-70g-approved.png",
+    "image": "images/apropo-gezouten-approved.png",
     "sourcePhotos": [
-      31,
-      32,
-      33
-    ],
-    "reviewNote": "Badatz zichtbaar rechtsonder op online verpakking Bissli Onion 70 g; niet afgeleid van andere Osem-producten. Geen Parve-status toegevoegd zonder leesbare verklaring.",
-    "imageSource": "Door gebruiker aangeleverd op 16 september 2026",
-    "imageBounds": [
-      0.135,
-      0.012,
-      0.875,
-      1
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_ONION_SNACK_OSEM_70_GR..jpg?v=1759095129"
-  },
-  {
-    "id": 10,
-    "brand": "Osem",
-    "name": "Bissli Remix",
-    "variant": "70 g",
-    "category": "Bissli",
-    "ean": "077544843004",
-    "ingredients": "Tarwebloem, zonnebloemolie, gedroogde gist, gehydrolyseerd soja-eiwit, zout, suiker, dextrose, rijstmeel, mononatriumglutamaat, uienpoeder, knoflookpoeder, dinatriumguanylaat, dinatriuminosinaat, kunstmatig rookaroma, koolzaadolie, kunstmatige aroma’s, paprika-extract, gistextract.",
-    "allergens": [
-      "Tarwe",
-      "Soja"
-    ],
-    "mayContain": "",
-    "kosher": "OU Badatz Edah HaChareidis (Parve)",
-    "image": "images/bissli-remix-osem-snapshot.png",
-    "sourcePhotos": [
-      37,
-      38,
-      39
+      49,
+      50
     ],
     "reviewNote": "",
-    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-remix-194-oz",
+    "imageSource": "Scherpere foto aangeleverd door gebruiker.",
     "imageBounds": [
-      0.342,
-      0.125,
-      0.663,
-      0.884
-    ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_REMIX_SNACK_OSEM_70_GR..jpg?v=1759095132",
-    "imageDisclaimer": "Op verzoek gebruikte officiële Osem-foto van de 55 g-verpakking. De productgegevens hieronder horen bij de gefotografeerde 70 g-verpakking."
-  },
-  {
-    "id": 2,
-    "brand": "Osem",
-    "name": "Bissli BBQ",
-    "variant": "200 g",
-    "category": "Bissli",
-    "ean": "077544000933",
-    "ingredients": "Tarwebloem, zonnebloemolie, gedroogde gist, gehydrolyseerd soja-eiwit, zout, suiker, dextrose, rijstmeel, mononatriumglutamaat, uienpoeder, knoflookpoeder, dinatriumguanylaat, dinatriuminosinaat, kunstmatig rookaroma, koolzaadolie, kunstmatige aroma’s, paprika-extract, gistextract.",
-    "allergens": [
-      "Tarwe",
-      "Soja"
-    ],
-    "mayContain": "",
-    "kosher": "OU Badatz Edah HaChareidis Chief Rabbinate Sderot (Parve)",
-    "image": "images/official-bbq-200-full-snapshot.png",
-    "sourcePhotos": [
-      19,
-      20,
-      21
-    ],
-    "reviewNote": "",
-    "imageSource": "https://www.osem-nestleusa.com/product/bissli-bbq-7-oz",
-    "imageBounds": [
-      0.344,
-      0.135,
-      0.659,
-      0.878
+      0.152,
+      0.142,
+      0.864,
+      0.904
     ]
   },
   {
-    "id": 5,
+    "id": 18,
     "brand": "Osem",
-    "name": "Bissli Pizza",
-    "variant": "200 g",
-    "category": "Bissli",
-    "ean": "077544000957",
-    "ingredients": "Tarwebloem, zonnebloemolie, zout, gedroogde gist, dextrose, gehydrolyseerd soja-eiwit, specerijen, mononatriumglutamaat, gedroogde peterselie, uienpoeder, knoflookpoeder, gistextract, koolzaadolie, chili-extract, paprika-extract, oregano-extract.",
+    "name": "Apropo Tubes Pittig Zuur",
+    "variant": "50 g",
+    "category": "Apropo",
+    "ean": "7290118428770",
+    "ingredients": "Maïsmeel (75,6%), zonnebloemolie, suiker, zout, rijstmeel, specerijen, gedroogde groenten (rode paprika, peterselie), zuurteregelaars (citroenzuur, E262), aroma’s, specerijenextract, kleurstof (bietenpoeder), koolzaadolie, smaakversterker (E635).",
     "allergens": [
-      "Tarwe",
       "Soja"
     ],
     "mayContain": "",
-    "kosher": "Chief Rabbinate Sderot (Parve)",
-    "image": "images/official-5-snapshot.png",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "image": "images/18.jpg",
     "sourcePhotos": [
-      22,
-      23,
-      24
+      51,
+      52,
+      53
     ],
-    "reviewNote": "Hechsher en Parve extern bevestigd voor Bissli Pizza 200 g bij Morrisons; de foto van het fysieke keurmerk is aan de zijkant afgesneden. Ingrediënten uitsluitend volgens eigen foto 23, niet volgens de andere receptuur op Morrisons.",
-    "imageSource": "https://www.osem-nestleusa.com/product/bissli-pizza-7-oz",
-    "imageBounds": [
-      0.293,
-      0.071,
-      0.72,
-      0.922
-    ],
-    "kosherSource": "https://groceries.morrisons.com/products/Osem-Bissli-Pizza/114855040"
+    "imageSource": "https://www.nestleprofessional.co.il/sm/prwpw-tywbs-hmwz-hryp",
+    "reviewNote": "Soja expliciet als aanwezig vermeld in het allergenenkader op foto 52.",
+    "warning": "Consumptie door jonge kinderen alleen zittend en onder toezicht van een volwassene."
   },
   {
     "id": 11,
@@ -371,43 +209,27 @@ window.KPI_PRODUCTS = [
     "category": "Popco",
     "ean": "077544001817",
     "ingredients": "Suiker, maïs (37%), zonnebloemolie, glucosestroop, dextrose, zout, emulgator (sojalecithine), rijsmiddel (natriumwaterstofcarbonaat), aroma.",
-    "allergens": ["Soja"],
+    "allergens": [
+      "Soja"
+    ],
     "mayContain": "Pinda’s, tarwe en sesam.",
     "warning": "Koel en droog bewaren. De glucosestroop is geproduceerd uit genetisch gemodificeerde maïs; de sojalecithine uit genetisch gemodificeerde soja.",
     "kosher": "Chief Rabbinate Kiryat Gat (Parve)",
     "image": "images/osem-popco.jpg",
-    "imageBounds": [0.109, 0.009, 0.891, 0.99],
+    "imageBounds": [
+      0.109,
+      0.009,
+      0.891,
+      0.99
+    ],
     "imageDisclaimer": "De foto toont de 80g-verpakking. De productinformatie betreft de 40g-verpakking.",
     "imageSource": "Door gebruiker aangeleverde en geselecteerde productfoto popco.jpg.",
-    "sourcePhotos": ["912ef4c2-119d-4b47-b2f2-318996bfbb82.jpg", "61a956f9-0934-44eb-a471-f998088194b6.jpg", "c87afe71-6b2f-44e8-bb20-efc47f688fd8.jpg"],
-    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket."
-  },
-  {
-    "id": 19,
-    "brand": "Hamama Nuts",
-    "name": "Geroosterde Gezouten Zonnebloempitten",
-    "variant": "200 g",
-    "category": "Hamama",
-    "ean": "7290000561202",
-    "ingredients": "Zonnebloempitten (91%), zout (7,8%), zetmeel (tapioca/aardappel).",
-    "allergens": [],
-    "mayContain": "Tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja.",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "image": "images/19.jpg",
     "sourcePhotos": [
-      1,
-      2,
-      3
+      "912ef4c2-119d-4b47-b2f2-318996bfbb82.jpg",
+      "61a956f9-0934-44eb-a471-f998088194b6.jpg",
+      "c87afe71-6b2f-44e8-bb20-efc47f688fd8.jpg"
     ],
-    "reviewNote": "",
-    "warning": "Niet geschikt voor kinderen jonger dan 5 jaar wegens verstikkingsgevaar.",
-    "imageSource": "https://exportil.com/manufacturer/hamama-nuts/",
-    "imageBounds": [
-      0.24032,
-      0.05806,
-      0.75968,
-      0.90323
-    ]
+    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket."
   },
   {
     "id": 20,
@@ -434,6 +256,33 @@ window.KPI_PRODUCTS = [
       0.0797,
       0.72676,
       0.90607
+    ]
+  },
+  {
+    "id": 19,
+    "brand": "Hamama Nuts",
+    "name": "Geroosterde Gezouten Zonnebloempitten",
+    "variant": "200 g",
+    "category": "Hamama",
+    "ean": "7290000561202",
+    "ingredients": "Zonnebloempitten (91%), zout (7,8%), zetmeel (tapioca/aardappel).",
+    "allergens": [],
+    "mayContain": "Tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja.",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "image": "images/19.jpg",
+    "sourcePhotos": [
+      1,
+      2,
+      3
+    ],
+    "reviewNote": "",
+    "warning": "Niet geschikt voor kinderen jonger dan 5 jaar wegens verstikkingsgevaar.",
+    "imageSource": "https://exportil.com/manufacturer/hamama-nuts/",
+    "imageBounds": [
+      0.24032,
+      0.05806,
+      0.75968,
+      0.90323
     ]
   },
   {
@@ -562,52 +411,214 @@ window.KPI_PRODUCTS = [
     "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk en formaat (150 g). De productgegevens hieronder horen bij Hamama 100 g."
   },
   {
-    "id": 17,
+    "id": 2,
     "brand": "Osem",
-    "name": "Apropo Tubes Gezouten",
-    "variant": "50 g",
-    "category": "Apropo",
-    "ean": "077544006423",
-    "ingredients": "Maïsmeel, zonnebloemolie, suiker, zout.",
-    "allergens": [],
-    "mayContain": "Soja.",
-    "kosher": "Badatz Edah HaChareidis",
-    "image": "images/apropo-gezouten-approved.png",
-    "sourcePhotos": [
-      49,
-      50
-    ],
-    "reviewNote": "",
-    "imageSource": "Scherpere foto aangeleverd door gebruiker.",
-    "imageBounds": [
-      0.152,
-      0.142,
-      0.864,
-      0.904
-    ]
-  },
-  {
-    "id": 18,
-    "brand": "Osem",
-    "name": "Apropo Tubes Pittig Zuur",
-    "variant": "50 g",
-    "category": "Apropo",
-    "ean": "7290118428770",
-    "ingredients": "Maïsmeel (75,6%), zonnebloemolie, suiker, zout, rijstmeel, specerijen, gedroogde groenten (rode paprika, peterselie), zuurteregelaars (citroenzuur, E262), aroma’s, specerijenextract, kleurstof (bietenpoeder), koolzaadolie, smaakversterker (E635).",
+    "name": "Bissli BBQ",
+    "variant": "200 g",
+    "category": "Bissli",
+    "ean": "077544000933",
+    "ingredients": "Tarwebloem, zonnebloemolie, gedroogde gist, gehydrolyseerd soja-eiwit, zout, suiker, dextrose, rijstmeel, mononatriumglutamaat, uienpoeder, knoflookpoeder, dinatriumguanylaat, dinatriuminosinaat, kunstmatig rookaroma, koolzaadolie, kunstmatige aroma’s, paprika-extract, gistextract.",
     "allergens": [
+      "Tarwe",
       "Soja"
     ],
     "mayContain": "",
-    "kosher": "Badatz Edah HaChareidis (Parve)",
-    "image": "images/18.jpg",
+    "kosher": "OU Badatz Edah HaChareidis Chief Rabbinate Sderot (Parve)",
+    "image": "images/official-bbq-200-full-snapshot.png",
     "sourcePhotos": [
-      51,
-      52,
-      53
+      19,
+      20,
+      21
     ],
-    "imageSource": "https://www.nestleprofessional.co.il/sm/prwpw-tywbs-hmwz-hryp",
-    "reviewNote": "Soja expliciet als aanwezig vermeld in het allergenenkader op foto 52.",
-    "warning": "Consumptie door jonge kinderen alleen zittend en onder toezicht van een volwassene."
+    "reviewNote": "",
+    "imageSource": "https://www.osem-nestleusa.com/product/bissli-bbq-7-oz",
+    "imageBounds": [
+      0.344,
+      0.135,
+      0.659,
+      0.878
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "Osem",
+    "name": "Bissli Pizza",
+    "variant": "200 g",
+    "category": "Bissli",
+    "ean": "077544000957",
+    "ingredients": "Tarwebloem, zonnebloemolie, zout, gedroogde gist, dextrose, gehydrolyseerd soja-eiwit, specerijen, mononatriumglutamaat, gedroogde peterselie, uienpoeder, knoflookpoeder, gistextract, koolzaadolie, chili-extract, paprika-extract, oregano-extract.",
+    "allergens": [
+      "Tarwe",
+      "Soja"
+    ],
+    "mayContain": "",
+    "kosher": "Chief Rabbinate Sderot (Parve)",
+    "image": "images/official-5-snapshot.png",
+    "sourcePhotos": [
+      22,
+      23,
+      24
+    ],
+    "reviewNote": "Hechsher en Parve extern bevestigd voor Bissli Pizza 200 g bij Morrisons; de foto van het fysieke keurmerk is aan de zijkant afgesneden. Ingrediënten uitsluitend volgens eigen foto 23, niet volgens de andere receptuur op Morrisons.",
+    "imageSource": "https://www.osem-nestleusa.com/product/bissli-pizza-7-oz",
+    "imageBounds": [
+      0.293,
+      0.071,
+      0.72,
+      0.922
+    ],
+    "kosherSource": "https://groceries.morrisons.com/products/Osem-Bissli-Pizza/114855040"
+  },
+  {
+    "id": 1,
+    "brand": "Osem",
+    "name": "Bissli BBQ",
+    "variant": "70 g",
+    "category": "Bissli",
+    "ean": "077544826007",
+    "ingredients": "Tarwebloem, zonnebloemolie, gedroogde gist, gehydrolyseerd soja-eiwit, zout, suiker, dextrose, rijstmeel, mononatriumglutamaat, uienpoeder, knoflookpoeder, dinatriumguanylaat, dinatriuminosinaat, kunstmatig rookaroma, koolzaadolie, kunstmatige aroma’s, paprika-extract, gistextract.",
+    "allergens": [
+      "Tarwe",
+      "Soja"
+    ],
+    "mayContain": "",
+    "kosher": "Badatz Edah HaChareidis",
+    "image": "images/bissli-bbq-70-osem-snapshot-v2.png",
+    "sourcePhotos": [
+      25,
+      26,
+      27
+    ],
+    "reviewNote": "",
+    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-bbq-25-oz-0",
+    "imageBounds": [
+      0.352,
+      0.135,
+      0.652,
+      0.84
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_BARBECUE_OSEM_70_GR..jpg?v=1759095113",
+    "imageDisclaimer": "Officiële Osem-foto van de opgegeven 2.5 oz-productpagina. Op de afgebeelde zak staat 35 g; de productgegevens hieronder horen bij de 70 g-verpakking."
+  },
+  {
+    "id": 4,
+    "brand": "Osem",
+    "name": "Bissli Pizza",
+    "variant": "70 g",
+    "category": "Bissli",
+    "ean": "077544829008",
+    "ingredients": "Tarwebloem, zonnebloemolie, zout, gedroogde gist, dextrose, gehydrolyseerd soja-eiwit, specerijen, mononatriumglutamaat, gedroogde peterselie, uienpoeder, knoflookpoeder, koolzaadolie, chili-extract, paprika-extract, oregano-extract.",
+    "allergens": [
+      "Tarwe",
+      "Soja"
+    ],
+    "mayContain": "",
+    "kosher": "Badatz Edah HaChareidis",
+    "image": "images/official-4-snapshot.png",
+    "sourcePhotos": [
+      28,
+      29,
+      30
+    ],
+    "reviewNote": "",
+    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-pizza-25-oz",
+    "imageBounds": [
+      0.284,
+      0.068,
+      0.722,
+      0.943
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_PIZZA_SNACK_OSEM_70_GR..jpg?v=1759095134"
+  },
+  {
+    "id": 9,
+    "brand": "Osem",
+    "name": "Bissli Ui",
+    "variant": "70 g",
+    "category": "Bissli",
+    "ean": "077544827004",
+    "ingredients": "Tarwebloem, zonnebloemolie, uienpoeder, zout, gehydrolyseerd soja-eiwit, knoflookpoeder, gedroogde peterselie, maïszetmeel, gistextract, citroenzuur, palmolie.",
+    "allergens": [
+      "Tarwe",
+      "Soja"
+    ],
+    "mayContain": "",
+    "kosher": "Badatz Edah HaChareidis",
+    "image": "images/bissli-ui-70g-approved.png",
+    "sourcePhotos": [
+      31,
+      32,
+      33
+    ],
+    "reviewNote": "Badatz zichtbaar rechtsonder op online verpakking Bissli Onion 70 g; niet afgeleid van andere Osem-producten. Geen Parve-status toegevoegd zonder leesbare verklaring.",
+    "imageSource": "Door gebruiker aangeleverd op 16 september 2026",
+    "imageBounds": [
+      0.135,
+      0.012,
+      0.875,
+      1
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_ONION_SNACK_OSEM_70_GR..jpg?v=1759095129"
+  },
+  {
+    "id": 7,
+    "brand": "Osem",
+    "name": "Bissli Falafel",
+    "variant": "70 g",
+    "category": "Bissli",
+    "ean": "077544825000",
+    "ingredients": "Tarwebloem, zonnebloemolie, specerijen, zout, uienpoeder, knoflookpoeder, mononatriumglutamaat, gistextract, zwartepeperextract, komijnextract.",
+    "allergens": [
+      "Tarwe"
+    ],
+    "mayContain": "Soja.",
+    "kosher": "OU Badatz Edah HaChareidis (Parve)",
+    "image": "images/official-7-snapshot.png",
+    "sourcePhotos": [
+      34,
+      35,
+      36
+    ],
+    "reviewNote": "",
+    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-falafel-25-oz",
+    "imageBounds": [
+      0.292,
+      0.082,
+      0.721,
+      0.933
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_FALAFEL_SNACK_OSEM_70_GR..jpg?v=1759095127"
+  },
+  {
+    "id": 10,
+    "brand": "Osem",
+    "name": "Bissli Remix",
+    "variant": "70 g",
+    "category": "Bissli",
+    "ean": "077544843004",
+    "ingredients": "Tarwebloem, zonnebloemolie, gedroogde gist, gehydrolyseerd soja-eiwit, zout, suiker, dextrose, rijstmeel, mononatriumglutamaat, uienpoeder, knoflookpoeder, dinatriumguanylaat, dinatriuminosinaat, kunstmatig rookaroma, koolzaadolie, kunstmatige aroma’s, paprika-extract, gistextract.",
+    "allergens": [
+      "Tarwe",
+      "Soja"
+    ],
+    "mayContain": "",
+    "kosher": "OU Badatz Edah HaChareidis (Parve)",
+    "image": "images/bissli-remix-osem-snapshot.png",
+    "sourcePhotos": [
+      37,
+      38,
+      39
+    ],
+    "reviewNote": "",
+    "imageSource": "https://www.osem-nestleusa.com/osem-bissli/bissli-remix-194-oz",
+    "imageBounds": [
+      0.342,
+      0.125,
+      0.663,
+      0.884
+    ],
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_REMIX_SNACK_OSEM_70_GR..jpg?v=1759095132",
+    "imageDisclaimer": "Op verzoek gebruikte officiële Osem-foto van de 55 g-verpakking. De productgegevens hieronder horen bij de gefotografeerde 70 g-verpakking."
   },
   {
     "id": 3,
