@@ -1,0 +1,586 @@
+{
+  "description": "Registratie ontvangen foto’s; fysieke verpakkingen leidend boven voorlopige PDF. Geen publieksdataset.",
+  "receivedPhotoNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+  ],
+  "products": [
+    {
+      "key": "osem-chocolate-500",
+      "brand": "Osem",
+      "name": "Petit Beurre Chocolade",
+      "weight": "500 g (2 × 250 g)",
+      "barcode": "7290000741531",
+      "barcodeCheckDigitValid": false,
+      "sourcePhotos": [
+        "1.jpg",
+        "2.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "osem-classic-250",
+      "brand": "Osem",
+      "name": "Petit Beurre Classic",
+      "weight": "250 g",
+      "barcode": "077544121031",
+      "barcodeCheckDigitValid": false,
+      "sourcePhotos": [
+        "3.jpg",
+        "4.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "hadar-animals",
+      "brand": "Hadar",
+      "name": "Dierenkoekjes",
+      "weight": null,
+      "barcode": "7290015856546",
+      "barcodeCheckDigitValid": true,
+      "sourcePhotos": [
+        "5.jpg",
+        "6.jpg",
+        "7.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken",
+        "Gewicht niet zichtbaar in ontvangen foto’s"
+      ]
+    },
+    {
+      "key": "hadar-vanilla-120",
+      "brand": "Hadar",
+      "name": "Petit Beurre Vanille",
+      "weight": "120 g",
+      "barcode": "7290005317194",
+      "barcodeCheckDigitValid": true,
+      "sourcePhotos": [
+        "8.jpg",
+        "9.jpg",
+        "10.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "hadar-chocolate-110",
+      "brand": "Hadar",
+      "name": "Petit Beurre Chocolade",
+      "weight": "110 g",
+      "barcode": "7290011489625",
+      "barcodeCheckDigitValid": true,
+      "sourcePhotos": [
+        "11.jpg",
+        "12.jpg",
+        "13.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "hadar-chocolate-175",
+      "brand": "Hadar",
+      "name": "Theekoekjes met Chocoladesmaak",
+      "weight": "175 g",
+      "barcode": "070420006852",
+      "barcodeCheckDigitValid": true,
+      "sourcePhotos": [
+        "14.jpg",
+        "15.jpg",
+        "16.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "hadar-traditional-175",
+      "brand": "Hadar",
+      "name": "Traditionele Theekoekjes",
+      "weight": "175 g",
+      "barcode": "070420006548",
+      "barcodeCheckDigitValid": true,
+      "sourcePhotos": [
+        "17.jpg",
+        "18.jpg",
+        "19.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "hadar-vanilla-175",
+      "brand": "Hadar",
+      "name": "Theekoekjes met Vanillesmaak",
+      "weight": "175 g",
+      "barcode": "070420006869",
+      "barcodeCheckDigitValid": true,
+      "sourcePhotos": [
+        "20.jpg",
+        "21.jpg",
+        "22.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Volledige productgegevens en officiële productafbeelding verwerken"
+      ]
+    },
+    {
+      "key": "gross-crunch",
+      "brand": "Gross & Co",
+      "name": "Crunch Cookies",
+      "weight": "250 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "23.jpg",
+        "24.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "gross-goldrings",
+      "brand": "Gross & Co",
+      "name": "Goldrings Cookies",
+      "weight": "300 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "25.jpg",
+        "26.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "gross-vanilla-spritz",
+      "brand": "Gross & Co",
+      "name": "Vanilla Spritz",
+      "weight": "300 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "27.jpg",
+        "28.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "gross-choco-spritz",
+      "brand": "Gross & Co",
+      "name": "Choco Choco Spritz",
+      "weight": "300 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "29.jpg",
+        "30.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "gross-chocolate-goldrings",
+      "brand": "Gross & Co",
+      "name": "Chocolate Goldrings Cookies",
+      "weight": "300 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "31.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-double",
+      "brand": "Shneider’s",
+      "name": "Cookies Double Chocolat",
+      "weight": "200 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "32.jpg",
+        "33.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-classic",
+      "brand": "Shneider’s",
+      "name": "Cookies Classic",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "44.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-hazelnut",
+      "brand": "Shneider’s",
+      "name": "Cookies Éclats de Noisettes",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "45.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-galette",
+      "brand": "Shneider’s",
+      "name": "French Galette",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "46.jpg",
+        "47.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ],
+      "notes": "Foto 46 en 47 tonen hetzelfde product; één record."
+    },
+    {
+      "key": "shneiders-palmines-raspberry",
+      "brand": "Shneider’s",
+      "name": "Palmines Framboos & Chocolade",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "48.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-palmiers",
+      "brand": "Shneider’s",
+      "name": "Palmiers Nature",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "49.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-palmines-original",
+      "brand": "Shneider’s",
+      "name": "Palmines Original",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "50.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-tchoc-dark",
+      "brand": "Shneider’s",
+      "name": "T-Choc Pure Chocolade",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "51.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-tchoc-milk",
+      "brand": "Shneider’s",
+      "name": "T-Choc Melkchocolade",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "52.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-breakfast-dark",
+      "brand": "Shneider’s",
+      "name": "Breakfast Dark Chocolate 4 Cereals",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "53.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "shneiders-breakfast-hazelnut",
+      "brand": "Shneider’s",
+      "name": "Breakfast Hazelnuts-Choc 4 Cereals",
+      "weight": null,
+      "barcode": null,
+      "sourcePhotos": [
+        "54.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-coffee",
+      "brand": "BERMAN",
+      "name": "Koekjes voor bij de koffie – chocolade & vanille",
+      "weight": "200 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "55.jpg",
+        "56.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-smiley",
+      "brand": "BERMAN",
+      "name": "Smiley",
+      "weight": "200 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "57.jpg",
+        "58.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-filled",
+      "brand": "BERMAN",
+      "name": "Koekjes met chocoladesmaakvulling",
+      "weight": "200 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "59.jpg",
+        "60.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ],
+      "labelConflict": "Foto 60: Nederlandse sticker noemt Smiley en coating; verpakking noemt chocoladesmaakvulling. Sticker niet gebruiken voor ingrediënten of voedingswaarden van dit product. Originele fabrikanttekst controleren."
+    },
+    {
+      "key": "berman-circles",
+      "brand": "BERMAN",
+      "name": "Circles Mini Cookies",
+      "weight": "180 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "61.jpg",
+        "62.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-rings",
+      "brand": "BERMAN",
+      "name": "Coated Rings",
+      "weight": "180 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "63.jpg",
+        "64.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-chips",
+      "brand": "BERMAN",
+      "name": "Chocolate Chips Flavored Cookies",
+      "weight": "200 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "65.jpg",
+        "66.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-bites",
+      "brand": "BERMAN",
+      "name": "Choco Bites Mini Cacaokoekjes",
+      "weight": "180 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "67.jpg",
+        "68.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    },
+    {
+      "key": "berman-pretzel",
+      "brand": "BERMAN",
+      "name": "Cookies Pretzel Cream",
+      "weight": "180 g",
+      "barcode": null,
+      "sourcePhotos": [
+        "69.jpg",
+        "70.jpg"
+      ],
+      "sourceDirectory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "status": "intake; nog geen publicatie",
+      "openChecks": [
+        "Barcode en volledige productgegevens controleren; officiële productafbeelding zoeken"
+      ]
+    }
+  ]
+}

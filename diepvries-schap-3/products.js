@@ -1,5 +1,115 @@
 window.KPI_PRODUCTS = [
   {
+    "brand": "Chicof",
+    "englishName": "",
+    "variant": "600 g",
+    "category": "Kipproducten",
+    "ingredientNote": "",
+    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
+    "kosherNote": "",
+    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
+    "reviewNeeded": [],
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Detailfoto van de fysieke verpakking",
+    "reviewStatus": "Etiket verwerkt",
+    "id": 23,
+    "name": "Kipschnitzels",
+    "ingredients": "vleesgedeelte 63% (kippenvlees 76%, water, aardappelzetmeel, plantaardige vezels (soja, cellulose), soja-eiwitisolaat, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), maïsmeel, maltodextrine), paneerlaag 37% (paneermeel 42% (tarwebloem, gist, zout, paprikapoeder, kleurstof paprika-extract, gerstemoutextract), paneermeel 35% (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water)",
+    "allergens": [
+      "TARWE",
+      "GERST",
+      "SOJA"
+    ],
+    "ean": "3770021861566",
+    "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
+    "image": "./images/chicof-schnitzel-selected.png",
+    "imageSource": {
+      "type": "Door gebruiker gekozen bewerkte illustratie",
+      "date": "2026-09-15",
+      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
+    },
+    "labelSource": {
+      "photos": [
+        "084d3f93-1cc8-4b62-92ec-bb0a496b58d3.jpg",
+        "470759f3-a961-4dfe-8c78-19b70394ae6b.jpg"
+      ],
+      "priority": "Fysieke verpakking van gebruiker"
+    }
+  },
+  {
+    "brand": "Chicof",
+    "englishName": "",
+    "variant": "600 g",
+    "category": "Kipproducten",
+    "ingredientNote": "",
+    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
+    "kosherNote": "",
+    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
+    "reviewNeeded": [],
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Detailfoto van de fysieke verpakking",
+    "reviewStatus": "Etiket verwerkt",
+    "id": 24,
+    "name": "Kiptenders",
+    "ingredients": "Vleesgedeelte 67% (kipfilet 97%, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), dextrose, chilipoeder, gemalen zwarte peper, water), paneerlaag 33% (paneermeel (tarwebloem, zout, gist, specerijen (paprika, kurkuma)), paneermeel (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water).",
+    "allergens": [
+      "TARWE"
+    ],
+    "ean": "3770021861191",
+    "kosher": "Rav Yisroel Yosef HaCohen Hendel (Kosher Lemehadrin) Shechitat Lubavitch",
+    "image": "./images/chicof-tenders-packshot.png",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "4a1f51e1-ccd8-406e-97b7-ad20b8f121ef.jpg",
+      "edit": "Achtergrond verwijderd en verpakking rechtgezet met beeldbewerking; illustratie"
+    },
+    "labelSource": {
+      "photos": [
+        "4a1f51e1-ccd8-406e-97b7-ad20b8f121ef.jpg",
+        "df21c598-ff17-471d-8283-85fa4fbc1cf8.jpg"
+      ],
+      "priority": "Fysieke verpakking van gebruiker"
+    }
+  },
+  {
+    "id": 25,
+    "brand": "Chicof",
+    "name": "Dinoschnitzels",
+    "englishName": "",
+    "variant": "600 g",
+    "category": "Kipproducten",
+    "ingredients": "vleesgedeelte 63% (kippenvlees 76%, water, aardappelzetmeel, plantaardige vezels (soja, cellulose), soja-eiwitisolaat, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), maïsmeel, maltodextrine), paneerlaag 37% (paneermeel 42% (tarwebloem, gist, zout, paprikapoeder, kleurstof paprika-extract, gerstemoutextract), paneermeel 35% (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water)",
+    "ingredientNote": "",
+    "ingredientsComplete": true,
+    "allergens": [
+      "TARWE",
+      "GERST",
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "ean": "3770021861580",
+    "kosher": "",
+    "note": "",
+    "image": "./images/chicof-dino-selected.png",
+    "reviewStatus": "Webshopetiket verwerkt; fysieke verpakking nog te vergelijken",
+    "imageSource": {
+      "type": "Door gebruiker gekozen bewerkte illustratie",
+      "date": "2026-09-15",
+      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
+    },
+    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
+    "ingredientsSource": "Leesbaar Nederlands etiket op originele productfoto Shop Makolet; fysieke foto gebruiker volgt",
+    "barcodeSource": "Originele productfoto Shop Makolet, etiket onderaan rechts",
+    "labelSource": {
+      "url": "https://static.wixstatic.com/media/3115c6_a0c562ece8d9472aae6822b588b9e191~mv2.png",
+      "page": "https://www.shopmakolet.com/product-page/שניצל-דינוזאור-chicof"
+    }
+  },
+  {
     "id": 1,
     "brand": "Chicof",
     "name": "Kipnuggets",
@@ -48,191 +158,39 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "brand": "Chicof",
+    "id": 5,
+    "brand": "Maames",
+    "name": "Kubba voor Soep",
     "englishName": "",
     "variant": "600 g",
-    "category": "Kipproducten",
-    "ingredientNote": "",
-    "ingredientsComplete": true,
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
-    "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
-    "reviewNeeded": [],
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Detailfoto van de fysieke verpakking",
-    "reviewStatus": "Etiket verwerkt",
-    "id": 23,
-    "name": "Kipschnitzels",
-    "ingredients": "vleesgedeelte 63% (kippenvlees 76%, water, aardappelzetmeel, plantaardige vezels (soja, cellulose), soja-eiwitisolaat, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), maïsmeel, maltodextrine), paneerlaag 37% (paneermeel 42% (tarwebloem, gist, zout, paprikapoeder, kleurstof paprika-extract, gerstemoutextract), paneermeel 35% (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water)",
-    "allergens": [
-      "TARWE",
-      "GERST",
-      "SOJA"
-    ],
-    "ean": "3770021861566",
-    "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
-    "image": "./images/chicof-schnitzel-selected.png",
-    "imageSource": {
-      "type": "Door gebruiker gekozen bewerkte illustratie",
-      "date": "2026-09-15",
-      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
-    },
-    "labelSource": {
-      "photos": [
-        "084d3f93-1cc8-4b62-92ec-bb0a496b58d3.jpg",
-        "470759f3-a961-4dfe-8c78-19b70394ae6b.jpg"
-      ],
-      "priority": "Fysieke verpakking van gebruiker"
-    }
-  },
-  {
-    "id": 25,
-    "brand": "Chicof",
-    "name": "Dinoschnitzels",
-    "englishName": "",
-    "variant": "600 g",
-    "category": "Kipproducten",
-    "ingredients": "vleesgedeelte 63% (kippenvlees 76%, water, aardappelzetmeel, plantaardige vezels (soja, cellulose), soja-eiwitisolaat, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), maïsmeel, maltodextrine), paneerlaag 37% (paneermeel 42% (tarwebloem, gist, zout, paprikapoeder, kleurstof paprika-extract, gerstemoutextract), paneermeel 35% (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water)",
-    "ingredientNote": "",
+    "category": "Vegetarisch",
+    "ingredients": "bulgur, groentebouillon, ui, tarwemeel, amandelen, kruiden, stabilisator E412, smaakversterker mononatriumglutamaat",
     "ingredientsComplete": true,
     "allergens": [
       "TARWE",
-      "GERST",
-      "SOJA"
+      "SOJA",
+      "AMANDELEN"
     ],
-    "allergensConfirmedAbsent": false,
-    "ean": "3770021861580",
-    "kosher": "",
-    "note": "",
-    "image": "./images/chicof-dino-selected.png",
-    "reviewStatus": "Webshopetiket verwerkt; fysieke verpakking nog te vergelijken",
-    "imageSource": {
-      "type": "Door gebruiker gekozen bewerkte illustratie",
-      "date": "2026-09-15",
-      "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
-    },
-    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
-    "ingredientsSource": "Leesbaar Nederlands etiket op originele productfoto Shop Makolet; fysieke foto gebruiker volgt",
-    "barcodeSource": "Originele productfoto Shop Makolet, etiket onderaan rechts",
-    "labelSource": {
-      "url": "https://static.wixstatic.com/media/3115c6_a0c562ece8d9472aae6822b588b9e191~mv2.png",
-      "page": "https://www.shopmakolet.com/product-page/שניצל-דינוזאור-chicof"
-    }
-  },
-  {
-    "brand": "Chicof",
-    "englishName": "",
-    "variant": "600 g",
-    "category": "Kipproducten",
-    "ingredientNote": "",
-    "ingredientsComplete": true,
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
-    "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
-    "reviewNeeded": [],
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Detailfoto van de fysieke verpakking",
-    "reviewStatus": "Etiket verwerkt",
-    "id": 24,
-    "name": "Kiptenders",
-    "ingredients": "Vleesgedeelte 67% (kipfilet 97%, zout, aroma, smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), dextrose, chilipoeder, gemalen zwarte peper, water), paneerlaag 33% (paneermeel (tarwebloem, zout, gist, specerijen (paprika, kurkuma)), paneermeel (tarwebloem, gist, zout), tarwebloem, zonnebloemolie, water).",
-    "allergens": [
-      "TARWE"
-    ],
-    "ean": "3770021861191",
-    "kosher": "Rav Yisroel Yosef HaCohen Hendel (Kosher Lemehadrin) Shechitat Lubavitch",
-    "image": "./images/chicof-tenders-packshot.png",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "4a1f51e1-ccd8-406e-97b7-ad20b8f121ef.jpg",
-      "edit": "Achtergrond verwijderd en verpakking rechtgezet met beeldbewerking; illustratie"
-    },
-    "labelSource": {
-      "photos": [
-        "4a1f51e1-ccd8-406e-97b7-ad20b8f121ef.jpg",
-        "df21c598-ff17-471d-8283-85fa4fbc1cf8.jpg"
-      ],
-      "priority": "Fysieke verpakking van gebruiker"
-    }
-  },
-  {
-    "id": 2,
-    "brand": "Lutosa",
-    "name": "Classic Friet",
-    "englishName": "",
-    "variant": "1 kg",
-    "category": "Aardappelproducten",
-    "ingredients": "aardappelen (België, Frankrijk, Nederland, Duitsland), zonnebloemolie",
-    "ingredientsComplete": true,
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "ean": "5410376830258",
-    "kosher": "KF (Federation of Synagogues, Londen) · Rabbijn Pinchas Avraham Meyers (Vaad HaKashrut Den Haag)",
-    "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen",
-    "image": "./images/02-web.png",
+    "allergenNote": "Kan sesam en ei bevatten. Soja staat in de allergenenverklaring op het etiket",
+    "ean": "7290000426730",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "image": "./images/05-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
-        "2.jpg",
-        "3.jpg"
+        "7.jpg"
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
     },
     "barcodeSource": "Fysieke verpakkingsfoto",
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Distributeur",
-      "page": "https://msdistribution.be/chips",
-      "url": "https://msdistribution.be/image/cache/data/Lutosa/straight%20cut-500x500.png",
-      "match": "Zelfde merk en productvariant. Verpakkingsversie kan afwijken; fysieke verpakking blijft leidend voor productgegevens"
-    },
-    "supplementalLabelSource": {
-      "date": "2026-09-14",
-      "photos": [
-        "2.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
-  },
-  {
-    "id": 3,
-    "brand": "Odel",
-    "name": "Weense Kipworstjes",
-    "englishName": "",
-    "variant": "380 g",
-    "category": "Kipproducten",
-    "ingredients": "kippenvlees 49%, gevogeltevet 16%, water, kippenhuid, aardappelzetmeel, soja-eiwit, kruiden (zout, toevoeging E621), witte peperkorrels, natriumtrifosfaat E451, poedersuiker, antioxidant E301, natuurlijke aroma’s (kruiden, rookaroma), kleurstoffen (paprika, bietenrood E162)",
-    "ingredientsComplete": true,
-    "ingredientNote": "",
-    "allergens": [
-      "SOJA"
-    ],
-    "ean": "5014155750036",
-    "kosher": "KLBD (London Beth Din)",
-    "note": "Ingevroren bewaren bij −18 °C",
-    "image": "./images/03-gekozen-voorbeeld.png",
-    "reviewNeeded": [],
-    "labelSource": {
-      "photos": [
-        "4.jpg",
-        "5.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
+    "reviewStatus": "Gecontroleerd",
     "imageSource": {
       "type": "Door gebruiker gekozen bewerkte voorbeeldafbeelding",
-      "file": "codex-clipboard-5d5152ff-a3f0-4e3d-83a3-2a59ea5ada28.png",
-      "originalAsset": "./images/03-web.jpg",
+      "file": "codex-clipboard-0782ce15-d10a-40e3-9699-2668a45f93bc.png",
+      "originalAsset": "./images/05-eigen-foto.jpg",
       "edit": "Exact overgenomen uit de aangeleverde PNG, zonder verdere beeldbewerking",
       "note": "Gebruiker heeft deze afbeelding expliciet gekozen op 12 september 2026. Ingebakken etiketgegevens kunnen afwijken; geen bron voor ingrediënten, allergenen, gewicht of hechsher."
     },
@@ -278,41 +236,239 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false
   },
   {
-    "id": 5,
-    "brand": "Maames",
-    "name": "Kubba voor Soep",
+    "id": 3,
+    "brand": "Odel",
+    "name": "Weense Kipworstjes",
     "englishName": "",
-    "variant": "600 g",
-    "category": "Vegetarisch",
-    "ingredients": "bulgur, groentebouillon, ui, tarwemeel, amandelen, kruiden, stabilisator E412, smaakversterker mononatriumglutamaat",
+    "variant": "380 g",
+    "category": "Kipproducten",
+    "ingredients": "kippenvlees 49%, gevogeltevet 16%, water, kippenhuid, aardappelzetmeel, soja-eiwit, kruiden (zout, toevoeging E621), witte peperkorrels, natriumtrifosfaat E451, poedersuiker, antioxidant E301, natuurlijke aroma’s (kruiden, rookaroma), kleurstoffen (paprika, bietenrood E162)",
     "ingredientsComplete": true,
+    "ingredientNote": "",
     "allergens": [
-      "TARWE",
-      "SOJA",
-      "AMANDELEN"
+      "SOJA"
     ],
-    "allergenNote": "Kan sesam en ei bevatten. Soja staat in de allergenenverklaring op het etiket",
-    "ean": "7290000426730",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "image": "./images/05-gekozen-voorbeeld.png",
+    "ean": "5014155750036",
+    "kosher": "KLBD (London Beth Din)",
+    "note": "Ingevroren bewaren bij −18 °C",
+    "image": "./images/03-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
-        "7.jpg"
+        "4.jpg",
+        "5.jpg"
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
     },
     "barcodeSource": "Fysieke verpakkingsfoto",
     "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Gecontroleerd",
+    "reviewStatus": "Etiket verwerkt",
     "imageSource": {
       "type": "Door gebruiker gekozen bewerkte voorbeeldafbeelding",
-      "file": "codex-clipboard-0782ce15-d10a-40e3-9699-2668a45f93bc.png",
-      "originalAsset": "./images/05-eigen-foto.jpg",
+      "file": "codex-clipboard-5d5152ff-a3f0-4e3d-83a3-2a59ea5ada28.png",
+      "originalAsset": "./images/03-web.jpg",
       "edit": "Exact overgenomen uit de aangeleverde PNG, zonder verdere beeldbewerking",
       "note": "Gebruiker heeft deze afbeelding expliciet gekozen op 12 september 2026. Ingebakken etiketgegevens kunnen afwijken; geen bron voor ingrediënten, allergenen, gewicht of hechsher."
+    },
+    "allergensConfirmedAbsent": false
+  },
+  {
+    "id": 2,
+    "brand": "Lutosa",
+    "name": "Classic Friet",
+    "englishName": "",
+    "variant": "1 kg",
+    "category": "Aardappelproducten",
+    "ingredients": "aardappelen (België, Frankrijk, Nederland, Duitsland), zonnebloemolie",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "ean": "5410376830258",
+    "kosher": "KF (Federation of Synagogues, Londen) · Rabbijn Pinchas Avraham Meyers (Vaad HaKashrut Den Haag)",
+    "kosherNote": "",
+    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen",
+    "image": "./images/02-web.png",
+    "reviewNeeded": [],
+    "labelSource": {
+      "photos": [
+        "2.jpg",
+        "3.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Distributeur",
+      "page": "https://msdistribution.be/chips",
+      "url": "https://msdistribution.be/image/cache/data/Lutosa/straight%20cut-500x500.png",
+      "match": "Zelfde merk en productvariant. Verpakkingsversie kan afwijken; fysieke verpakking blijft leidend voor productgegevens"
+    },
+    "supplementalLabelSource": {
+      "date": "2026-09-14",
+      "photos": [
+        "2.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
+    }
+  },
+  {
+    "id": 6,
+    "brand": "Hatov",
+    "name": "Aardappellatkes",
+    "englishName": "",
+    "variant": "750 g",
+    "category": "Aardappelproducten",
+    "ingredients": "aardappelen 48%, water, sojaolie, aardappelvlokken, maïsmeel, gebakken ui (ui 88%, koolzaadolie, zout), maltodextrine, methylcellulose, zwarte peper, gistextract",
+    "ingredientsComplete": true,
+    "allergens": [
+      "SULFIET",
+      "SOJA"
+    ],
+    "allergenNote": "Kan noten, sesam, ei, pinda’s, selderij en gluten bevatten",
+    "ean": "5060922743244",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
+    "image": "./images/hatov-06-straight.png",
+    "reviewNeeded": [],
+    "labelSource": {
+      "photos": [
+        "8.jpg",
+        "9.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
+    },
+    "allergensConfirmedAbsent": false
+  },
+  {
+    "id": 7,
+    "brand": "Hatov",
+    "name": "Vegan Nuggets",
+    "englishName": "",
+    "variant": "750 g",
+    "category": "Vegetarisch",
+    "ingredients": "sojavlokken 44% (sojavlokken, water), paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, maïszetmeel, plantaardige stabilisator E461, gluten, tarwebloem, soja-eiwit, uipoeder, zout, knoflookpoeder, gistextract, maltodextrine, zwarte peper, plantaardige stabilisator E412",
+    "ingredientsComplete": true,
+    "ingredientNote": "",
+    "allergens": [
+      "TARWE",
+      "SULFIET",
+      "SOJA"
+    ],
+    "allergenNote": "Kan selderij, sesam en ei bevatten",
+    "ean": "5060922743220",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
+    "image": "./images/hatov-07-straight.png",
+    "reviewNeeded": [],
+    "labelSource": {
+      "photos": [
+        "10.jpg",
+        "11.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
+    },
+    "allergensConfirmedAbsent": false
+  },
+  {
+    "id": 8,
+    "brand": "Hatov",
+    "name": "Gepaneerde Maïshapjes",
+    "englishName": "",
+    "variant": "400 g",
+    "category": "Vegetarisch",
+    "ingredients": "maïskorrels 52%, water, paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, tarwebloem, zout, soja-eiwit, suiker, stabilisator E461, gluten, maïszetmeel, gistextract, cellulosevezels, maïsmeel, aardappelvlokken, uipoeder, stabilisator E412",
+    "ingredientsComplete": true,
+    "allergens": [
+      "TARWE",
+      "SULFIET",
+      "SOJA"
+    ],
+    "allergenNote": "Kan selderij, sesam en ei bevatten",
+    "ean": "5060922743459",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 25 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
+    "image": "./images/hatov-08-straight.png",
+    "reviewNeeded": [],
+    "labelSource": {
+      "photos": [
+        "12.jpg",
+        "13.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
+    },
+    "allergensConfirmedAbsent": false
+  },
+  {
+    "id": 9,
+    "brand": "Hatov",
+    "name": "Gepaneerde Aardappelhapjes",
+    "englishName": "",
+    "variant": "400 g",
+    "category": "Aardappelproducten",
+    "ingredients": "aardappelen 48%, water, sojaolie, aardappelvlokken, maïsmeel, gebakken ui (ui 88%, koolzaadolie, zout), maltodextrine, methylcellulose, gistextract, specerijen, paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract, rozemarijnextract), tarwebloem, uipoeder, stabilisator E412",
+    "ingredientsComplete": true,
+    "allergens": [
+      "TARWE",
+      "SULFIET",
+      "SOJA"
+    ],
+    "allergenNote": "Kan noten, sesam en ei bevatten",
+    "ean": "5060922743442",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
+    "image": "./images/hatov-09-straight.png",
+    "reviewNeeded": [],
+    "labelSource": {
+      "photos": [
+        "14.jpg",
+        "15.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
     "allergensConfirmedAbsent": false
   },
@@ -367,6 +523,85 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
     }
+  },
+  {
+    "id": 11,
+    "brand": "Hatov",
+    "name": "Vegan Maïsschnitzels",
+    "englishName": "",
+    "variant": "750 g",
+    "category": "Vegetarisch",
+    "ingredients": "maïskorrels 52%, water, paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, tarwebloem, zout, soja-eiwit, suiker, stabilisator E461, gluten, maïszetmeel, gistextract, cellulosevezels, maïsmeel, aardappelvlokken, uipoeder, stabilisator E412",
+    "ingredientsComplete": true,
+    "allergens": [
+      "TARWE",
+      "SULFIET",
+      "SOJA"
+    ],
+    "allergenNote": "Kan selderij, sesam en ei bevatten",
+    "ean": "5060922740847",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
+    "image": "./images/hatov-11-straight.png",
+    "reviewNeeded": [],
+    "labelSource": {
+      "photos": [
+        "18.jpg",
+        "19.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
+    },
+    "allergensConfirmedAbsent": false
+  },
+  {
+    "id": 12,
+    "brand": "Hatov",
+    "name": "Vegan Schnitzels",
+    "englishName": "",
+    "variant": "750 g",
+    "category": "Vegetarisch",
+    "ingredients": "sojavlokken 44% (sojavlokken, water), paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, maïszetmeel, plantaardige stabilisator E461, gluten, tarwebloem, soja-eiwit, uipoeder, zout, knoflookpoeder, gistextract, maltodextrine, zwarte peper, plantaardige stabilisator E412",
+    "ingredientsComplete": true,
+    "allergens": [
+      "TARWE",
+      "SULFIET",
+      "SOJA"
+    ],
+    "allergenNote": "Kan selderij, sesam en ei bevatten",
+    "ean": "5060922743206",
+    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
+    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
+    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
+    "image": "./images/hatov-12-straight.png",
+    "reviewNeeded": [],
+    "ingredientNote": "",
+    "labelSource": {
+      "photos": [
+        "20.jpg",
+        "21.jpg"
+      ],
+      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
+      "priority": "Fysieke verpakking van gebruiker"
+    },
+    "barcodeSource": "Fysieke verpakkingsfoto",
+    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
+    "reviewStatus": "Etiket verwerkt",
+    "imageSource": {
+      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
+      "date": "2026-09-15",
+      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
+    },
+    "allergensConfirmedAbsent": false
   },
   {
     "id": 13,
@@ -550,48 +785,47 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 17,
+    "id": 19,
     "brand": "Tivall",
-    "name": "Vegan Burgers",
+    "name": "Vegan Schnitzels",
     "englishName": "",
-    "variant": "334 g",
+    "variant": "332 g",
     "category": "Vegetarisch",
-    "ingredients": "getextureerde plantaardige eiwitten 66% (water 46,2%, soja-eiwitconcentraat 14,9%, tarwe-eiwitten 4,9%), gehakte ui, water, plantaardige oliën (raapzaad, zonnebloem), maïszetmeel, stabilisator methylcellulose, bietenazijn, zout, aroma’s, gerstemoutextract, gistextract, gemalen knoflook, citrusvezels, specerijen (zwarte peper, komijn, rozemarijn), rijsmiddelen (difosfaten, natriumcarbonaten), rijstbloem",
+    "ingredients": "water, soja-eiwit 17%, paneermeel (tarwebloem, water, zout, gist, zonnebloemolie, kleurstof paprika-extract), koolzaadolie, tarwebloem, maïszetmeel, stabilisatoren (guarpitmeel, methylcellulose), zout, gistextract, gehydrolyseerd tarwe-eiwit, erwtenvezels, uienpoeder, erwtenzetmeel, knoflookpoeder, aardappelmaltodextrine, gemalen zwarte peper",
     "ingredientsComplete": true,
     "ingredientNote": "",
     "allergens": [
       "TARWE",
-      "SOJA",
-      "GERST"
+      "SOJA"
     ],
     "allergenNote": "Kan ei, sesamzaad, selderij en mosterd bevatten. Gemaakt volgens een veganistisch recept, maar vervaardigd in een fabriek waar eieren worden gebruikt. Niet geschikt voor mensen met een ei-allergie",
-    "ean": "7290112969156",
+    "ean": "7290013998163",
     "kosher": "Badatz Machzikei Hadass (Belz)",
     "note": "Ingevroren bewaren (Parve)",
-    "image": "./images/17-importeur.jpg",
+    "image": "./images/19-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
-        "29.jpg",
-        "30.jpg"
+        "33.jpg",
+        "34.jpg"
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
     },
-    "barcodeSource": "Door gebruiker doorgegeven op 14 september 2026: 7290112969156",
-    "ingredientsSource": "Volledige ingrediënten- en allergenenverklaring op burger.jpg, aangeleverd door gebruiker op 14 september 2026",
+    "barcodeSource": "Door gebruiker bevestigd: 7290013998163",
+    "ingredientsSource": "Volledige ingrediënten- en allergenenverklaring op snitzel.jpg, aangeleverd door gebruiker op 14 september 2026",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": "https://msdistribution.be/vegetarian-tivall?setListingType=list",
     "allergensConfirmedAbsent": false,
     "supplementalLabelSource": {
       "date": "2026-09-14",
       "photos": [
-        "27.jpg",
-        "burger.jpg"
+        "snitzel.jpg"
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
-    }
+    },
+    "weightSource": "Door gebruiker bevestigd: 332 g"
   },
   {
     "id": 18,
@@ -637,282 +871,48 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 19,
+    "id": 17,
     "brand": "Tivall",
-    "name": "Vegan Schnitzels",
+    "name": "Vegan Burgers",
     "englishName": "",
-    "variant": "332 g",
+    "variant": "334 g",
     "category": "Vegetarisch",
-    "ingredients": "water, soja-eiwit 17%, paneermeel (tarwebloem, water, zout, gist, zonnebloemolie, kleurstof paprika-extract), koolzaadolie, tarwebloem, maïszetmeel, stabilisatoren (guarpitmeel, methylcellulose), zout, gistextract, gehydrolyseerd tarwe-eiwit, erwtenvezels, uienpoeder, erwtenzetmeel, knoflookpoeder, aardappelmaltodextrine, gemalen zwarte peper",
+    "ingredients": "getextureerde plantaardige eiwitten 66% (water 46,2%, soja-eiwitconcentraat 14,9%, tarwe-eiwitten 4,9%), gehakte ui, water, plantaardige oliën (raapzaad, zonnebloem), maïszetmeel, stabilisator methylcellulose, bietenazijn, zout, aroma’s, gerstemoutextract, gistextract, gemalen knoflook, citrusvezels, specerijen (zwarte peper, komijn, rozemarijn), rijsmiddelen (difosfaten, natriumcarbonaten), rijstbloem",
     "ingredientsComplete": true,
     "ingredientNote": "",
     "allergens": [
       "TARWE",
-      "SOJA"
+      "SOJA",
+      "GERST"
     ],
     "allergenNote": "Kan ei, sesamzaad, selderij en mosterd bevatten. Gemaakt volgens een veganistisch recept, maar vervaardigd in een fabriek waar eieren worden gebruikt. Niet geschikt voor mensen met een ei-allergie",
-    "ean": "7290013998163",
+    "ean": "7290112969156",
     "kosher": "Badatz Machzikei Hadass (Belz)",
     "note": "Ingevroren bewaren (Parve)",
-    "image": "./images/19-importeur.jpg",
+    "image": "./images/17-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
       "photos": [
-        "33.jpg",
-        "34.jpg"
+        "29.jpg",
+        "30.jpg"
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
     },
-    "barcodeSource": "Door gebruiker bevestigd: 7290013998163",
-    "ingredientsSource": "Volledige ingrediënten- en allergenenverklaring op snitzel.jpg, aangeleverd door gebruiker op 14 september 2026",
+    "barcodeSource": "Door gebruiker doorgegeven op 14 september 2026: 7290112969156",
+    "ingredientsSource": "Volledige ingrediënten- en allergenenverklaring op burger.jpg, aangeleverd door gebruiker op 14 september 2026",
     "reviewStatus": "Etiket verwerkt",
     "imageSource": "https://msdistribution.be/vegetarian-tivall?setListingType=list",
     "allergensConfirmedAbsent": false,
     "supplementalLabelSource": {
       "date": "2026-09-14",
       "photos": [
-        "snitzel.jpg"
+        "27.jpg",
+        "burger.jpg"
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
-    },
-    "weightSource": "Door gebruiker bevestigd: 332 g"
-  },
-  {
-    "id": 6,
-    "brand": "Hatov",
-    "name": "Aardappellatkes",
-    "englishName": "",
-    "variant": "750 g",
-    "category": "Aardappelproducten",
-    "ingredients": "aardappelen 48%, water, sojaolie, aardappelvlokken, maïsmeel, gebakken ui (ui 88%, koolzaadolie, zout), maltodextrine, methylcellulose, zwarte peper, gistextract",
-    "ingredientsComplete": true,
-    "allergens": [
-      "SULFIET",
-      "SOJA"
-    ],
-    "allergenNote": "Kan noten, sesam, ei, pinda’s, selderij en gluten bevatten",
-    "ean": "5060922743244",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/hatov-06-straight.png",
-    "reviewNeeded": [],
-    "labelSource": {
-      "photos": [
-        "8.jpg",
-        "9.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
-      "date": "2026-09-15",
-      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
-    },
-    "allergensConfirmedAbsent": false
-  },
-  {
-    "id": 7,
-    "brand": "Hatov",
-    "name": "Vegan Nuggets",
-    "englishName": "",
-    "variant": "750 g",
-    "category": "Vegetarisch",
-    "ingredients": "sojavlokken 44% (sojavlokken, water), paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, maïszetmeel, plantaardige stabilisator E461, gluten, tarwebloem, soja-eiwit, uipoeder, zout, knoflookpoeder, gistextract, maltodextrine, zwarte peper, plantaardige stabilisator E412",
-    "ingredientsComplete": true,
-    "ingredientNote": "",
-    "allergens": [
-      "TARWE",
-      "SULFIET",
-      "SOJA"
-    ],
-    "allergenNote": "Kan selderij, sesam en ei bevatten",
-    "ean": "5060922743220",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/hatov-07-straight.png",
-    "reviewNeeded": [],
-    "labelSource": {
-      "photos": [
-        "10.jpg",
-        "11.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
-      "date": "2026-09-15",
-      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
-    },
-    "allergensConfirmedAbsent": false
-  },
-  {
-    "id": 8,
-    "brand": "Hatov",
-    "name": "Gepaneerde Maïshapjes",
-    "englishName": "",
-    "variant": "400 g",
-    "category": "Vegetarisch",
-    "ingredients": "maïskorrels 52%, water, paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, tarwebloem, zout, soja-eiwit, suiker, stabilisator E461, gluten, maïszetmeel, gistextract, cellulosevezels, maïsmeel, aardappelvlokken, uipoeder, stabilisator E412",
-    "ingredientsComplete": true,
-    "allergens": [
-      "TARWE",
-      "SULFIET",
-      "SOJA"
-    ],
-    "allergenNote": "Kan selderij, sesam en ei bevatten",
-    "ean": "5060922743459",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 25 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/hatov-08-straight.png",
-    "reviewNeeded": [],
-    "labelSource": {
-      "photos": [
-        "12.jpg",
-        "13.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
-      "date": "2026-09-15",
-      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
-    },
-    "allergensConfirmedAbsent": false
-  },
-  {
-    "id": 9,
-    "brand": "Hatov",
-    "name": "Gepaneerde Aardappelhapjes",
-    "englishName": "",
-    "variant": "400 g",
-    "category": "Aardappelproducten",
-    "ingredients": "aardappelen 48%, water, sojaolie, aardappelvlokken, maïsmeel, gebakken ui (ui 88%, koolzaadolie, zout), maltodextrine, methylcellulose, gistextract, specerijen, paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract, rozemarijnextract), tarwebloem, uipoeder, stabilisator E412",
-    "ingredientsComplete": true,
-    "allergens": [
-      "TARWE",
-      "SULFIET",
-      "SOJA"
-    ],
-    "allergenNote": "Kan noten, sesam en ei bevatten",
-    "ean": "5060922743442",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/hatov-09-straight.png",
-    "reviewNeeded": [],
-    "labelSource": {
-      "photos": [
-        "14.jpg",
-        "15.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
-      "date": "2026-09-15",
-      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
-    },
-    "allergensConfirmedAbsent": false
-  },
-  {
-    "id": 11,
-    "brand": "Hatov",
-    "name": "Vegan Maïsschnitzels",
-    "englishName": "",
-    "variant": "750 g",
-    "category": "Vegetarisch",
-    "ingredients": "maïskorrels 52%, water, paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, tarwebloem, zout, soja-eiwit, suiker, stabilisator E461, gluten, maïszetmeel, gistextract, cellulosevezels, maïsmeel, aardappelvlokken, uipoeder, stabilisator E412",
-    "ingredientsComplete": true,
-    "allergens": [
-      "TARWE",
-      "SULFIET",
-      "SOJA"
-    ],
-    "allergenNote": "Kan selderij, sesam en ei bevatten",
-    "ean": "5060922740847",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/hatov-11-straight.png",
-    "reviewNeeded": [],
-    "labelSource": {
-      "photos": [
-        "18.jpg",
-        "19.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
-      "date": "2026-09-15",
-      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
-    },
-    "allergensConfirmedAbsent": false
-  },
-  {
-    "id": 12,
-    "brand": "Hatov",
-    "name": "Vegan Schnitzels",
-    "englishName": "",
-    "variant": "750 g",
-    "category": "Vegetarisch",
-    "ingredients": "sojavlokken 44% (sojavlokken, water), paneermeel (tarwebloem, palmolie, gist, zout, water, paprika-extract), sojaolie, maïszetmeel, plantaardige stabilisator E461, gluten, tarwebloem, soja-eiwit, uipoeder, zout, knoflookpoeder, gistextract, maltodextrine, zwarte peper, plantaardige stabilisator E412",
-    "ingredientsComplete": true,
-    "allergens": [
-      "TARWE",
-      "SULFIET",
-      "SOJA"
-    ],
-    "allergenNote": "Kan selderij, sesam en ei bevatten",
-    "ean": "5060922743206",
-    "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
-    "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
-    "image": "./images/hatov-12-straight.png",
-    "reviewNeeded": [],
-    "ingredientNote": "",
-    "labelSource": {
-      "photos": [
-        "20.jpg",
-        "21.jpg"
-      ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Etiket verwerkt",
-    "imageSource": {
-      "type": "Bewerkte illustratie op basis van eigen verpakkingsfoto",
-      "date": "2026-09-15",
-      "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
-    },
-    "allergensConfirmedAbsent": false
+    }
   },
   {
     "id": 20,

@@ -1,0 +1,206 @@
+{
+  "gross-crunch": {
+    "page": "https://elisha.be/en/Biscuits/crunch-cookies",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS  2021/Gross_Cokies__CrunchCookies__EU.jpg",
+    "localImage": "images/gross-crunch-official.jpg",
+    "width": 322,
+    "height": 600
+  },
+  "gross-goldrings": {
+    "page": "https://elisha.be/en/Biscuits/goldring-cookies",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS 2020/Gross__Goldrings_Cookies__2.jpg",
+    "localImage": "images/gross-goldrings-official.jpg",
+    "width": 348,
+    "height": 600
+  },
+  "gross-vanilla-spritz": {
+    "page": "https://elisha.be/en/Biscuits/vanilla-spritz",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS 2020/Gross__VanilaSpritz_Cookies_2.jpg",
+    "localImage": "images/gross-vanilla-spritz-official.jpg",
+    "width": 305,
+    "height": 600
+  },
+  "gross-choco-spritz": {
+    "page": "https://elisha.be/en/Biscuits/choco-choco-spritz",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS 2020/Gross__ChocoChocoSpritz_Cookies__2.jpg",
+    "localImage": "images/gross-choco-spritz-official.jpg",
+    "width": 333,
+    "height": 600
+  },
+  "gross-chocolate-goldrings": {
+    "page": "https://elisha.be/en/Biscuits/chocolate-goldrings-cookies",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS 2020/Gross__ChocolateGoldrings_Cookies__2.jpg",
+    "localImage": "images/gross-chocolate-goldrings-official.jpg",
+    "width": 335,
+    "height": 600
+  },
+  "shneiders-double": {
+    "page": "https://elisha.be/en/Biscuits/Double-Chocolate-Chips-Cookies",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2025/10017.jpg",
+    "localImage": "images/shneiders-double-official.jpg",
+    "width": 1289,
+    "height": 600
+  },
+  "shneiders-classic": {
+    "page": "https://elisha.be/en/Biscuits/Gourmet-Chocolate-Chips-Cookies",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2025/10022.jpg",
+    "localImage": "images/shneiders-classic-official.jpg",
+    "width": 1276,
+    "height": 600
+  },
+  "shneiders-hazelnut": {
+    "page": "https://elisha.be/en/Biscuits/Hazelnuts-Chocolate-Chips-Cookies",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2025/10019.jpg",
+    "localImage": "images/shneiders-hazelnut-official.jpg",
+    "width": 1302,
+    "height": 600
+  },
+  "shneiders-galette": {
+    "page": "https://elisha.be/en/Biscuits/ougalettes",
+    "imageUrl": "https://www.elisha.be/image/catalog/new pics 2017/Biscuit_2014_Ougalettes.jpg",
+    "localImage": "images/shneiders-galette-official.jpg",
+    "width": 562,
+    "height": 266
+  },
+  "shneiders-palmines-raspberry": {
+    "page": "https://elisha.be/en/Biscuits/palmines-raspberry-amp-choco-chips",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2024/10263.jpg",
+    "localImage": "images/shneiders-palmines-raspberry-official.jpg",
+    "width": 600,
+    "height": 262
+  },
+  "shneiders-palmiers": {
+    "page": "https://elisha.be/en/Biscuits/Privileges-Palmier",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2024/10369.jpg",
+    "localImage": "images/shneiders-palmiers-official.jpg",
+    "width": 600,
+    "height": 262
+  },
+  "shneiders-palmines-original": {
+    "page": "https://elisha.be/en/Biscuits/palmines-nature",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2024/10262.jpg",
+    "localImage": "images/shneiders-palmines-original-official.jpg",
+    "width": 600,
+    "height": 257
+  },
+  "shneiders-tchoc-dark": {
+    "page": "https://elisha.be/en/Biscuits/t-choc2",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2025/10319.jpg",
+    "localImage": "images/shneiders-tchoc-dark-official.jpg",
+    "width": 1638,
+    "height": 758
+  },
+  "shneiders-tchoc-milk": {
+    "page": "https://elisha.be/en/Biscuits/t-choc",
+    "imageUrl": "https://www.elisha.be/image/catalog/Pics 2025/10397.jpg",
+    "localImage": "images/shneiders-tchoc-milk-official.jpg",
+    "width": 1654,
+    "height": 742
+  },
+  "shneiders-breakfast-dark": {
+    "page": "https://elisha.be/en/Biscuits/Start-up2",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS 2020/ABI_11 copie.jpg",
+    "localImage": "images/shneiders-breakfast-dark-official.jpg",
+    "width": 734,
+    "height": 500
+  },
+  "shneiders-breakfast-hazelnut": {
+    "page": "https://elisha.be/en/Biscuits/start-up-honey-amp-hazelnut",
+    "imageUrl": "https://www.elisha.be/image/catalog/PICS 2020/ABI_12 copie.jpg",
+    "localImage": "images/shneiders-breakfast-hazelnut-official.jpg",
+    "width": 728,
+    "height": 488
+  },
+  "berman-smiley": {
+    "page": "https://drumstickproducts.co.uk/product/berman-smiley-cookies/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/03/43mpwr3u_bi250.jpg",
+    "localImage": "images/berman-smiley-official.jpg"
+  },
+  "berman-circles": {
+    "page": "https://drumstickproducts.co.uk/product/berman-circle-cookies/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/03/ebfofzmk_bi202.jpg",
+    "localImage": "images/berman-circles-official.jpg"
+  },
+  "berman-rings": {
+    "page": "https://drumstickproducts.co.uk/product/berman-coated-rings-%c2%96-coated-crunchy-cookies/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/07/gz57mvwq_berman_bi448-1024x1024.jpg",
+    "localImage": "images/berman-rings-official.jpg"
+  },
+  "berman-bites": {
+    "page": "https://drumstickproducts.co.uk/product/berman-choco-bites-%c2%96-mini-cocoa-cookies/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/07/zeo6pr9e_berman_bi447-1024x1024.jpg",
+    "localImage": "images/berman-bites-official.jpg"
+  },
+  "berman-pretzel": {
+    "page": "https://drumstickproducts.co.uk/product/berman-cookies-pretzel-cream-filling/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/07/59ocy3z9_berman_bi472-1024x1024.jpg",
+    "localImage": "images/berman-pretzel-official.jpg"
+  },
+  "hadar-traditional-175": {
+    "page": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-plain/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/07/durjm7ze_hadar_bi003.jpg",
+    "localImage": "images/hadar-traditional-175-official.jpg"
+  },
+  "hadar-vanilla-175": {
+    "page": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-vanilla/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/07/6dt27jnb_hadar_bi004.jpg",
+    "localImage": "images/hadar-vanilla-175-official.jpg"
+  },
+  "hadar-chocolate-175": {
+    "page": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-chocolate/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/07/l4y6c1nv_hadar_bi005.jpg",
+    "localImage": "images/hadar-chocolate-175-official.jpg"
+  },
+  "osem-chocolate-500": {
+    "page": "https://golanlagan.co.il/Catalog.asp?PRodID=2239406&Page=NewShowProd.asp",
+    "imageUrl": "https://golanlagan.co.il/Cat_482584_5637.jpg",
+    "localImage": "images/osem-chocolate-500-official.jpg"
+  },
+  "osem-classic-250": {
+    "page": "https://benedikts.com/products/ospbr",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2005/1601/products/OSPBR-OSEM_PETITE_BEURRE_BISCUIT_250G.jpg?v=1499237423",
+    "localImage": "images/osem-classic-250-official.jpg"
+  },
+  "hadar-animals": {
+    "page": "https://hadar-afifit.com/?page_id=49",
+    "imageUrl": "https://hadar-afifit.com/wp-content/uploads/2022/11/עוגיות-מיוחדות-2.jpg",
+    "localImage": "images/hadar-animals-manufacturer.jpg",
+    "width": 264,
+    "height": 343
+  },
+  "berman-coffee": {
+    "page": "https://drumstickproducts.co.uk/product/berman-coffee-cookies/",
+    "imageUrl": "https://drumstickproducts.co.uk/content/uploads/2023/03/e9adnpmm_bi237-scaled.jpg",
+    "localImage": "images/berman-coffee-official.jpg"
+  },
+  "hadar-vanilla-120": {
+    "page": "https://hadar-afifit.com/?page_id=49",
+    "imageUrl": "https://hadar-afifit.com/wp-content/uploads/2026/01/פתי-בר-וניל.png",
+    "localImage": "images/hadar-vanilla-120-official.png"
+  },
+  "berman-filled": {
+    "page": "https://benedikts.com/products/bchf",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/2005/1601/products/BCHF-BERMANS_CHOCALATE_FILLED_COOKIES_200G.jpg?v=1499239299",
+    "localImage": "images/berman-filled-benedikts.jpg",
+    "note": "Strakkere originele leveranciersfoto; oudere verpakking van dezelfde 200 g chocoladevulling."
+  },
+  "hadar-tirosh-175": {
+    "source": "Door gebruiker aangeleverde originele productfoto",
+    "sourceFile": "codex-clipboard-530d807d-bfee-4c9e-84d9-d69b65e2df30.png",
+    "localImage": "images/hadar-tirosh-half-omhulde-biscuitjes-175g.png"
+  },
+  "hadar-animals-kayco": {
+    "imageUrl": "https://www.kayco.com/wp-content/uploads/2022/01/686300-1.png",
+    "localImage": "images/hadar-animals-kayco.png",
+    "width": 1183,
+    "height": 1600,
+    "note": "Door gebruiker gekozen afbeelding. Toont Haddar 340 g; bestaande productkaart Hadar 180 g blijft op verzoek ongewijzigd."
+  },
+  "hadar-animals-kayco-180g-edited": {
+    "imageUrl": "https://www.kayco.com/wp-content/uploads/2022/01/686300-1.png",
+    "localImage": "images/hadar-animals-kayco-180g-edited.png",
+    "width": 1078,
+    "height": 1459,
+    "note": "Op uitdrukkelijk verzoek gebruiker gewicht op Kayco-afbeelding gewijzigd naar 180 g met imagegen. Illustratieve bewerkte foto, geen bewijs van verpakking of productgegevens."
+  }
+}

@@ -435,39 +435,6 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Etiketfoto gebruiker 3ee22808-0c86-4b3a-b8fc-f69441569e55.jpg, 18 september 2026"
   },
   {
-    "id": 14,
-    "brand": "Osem",
-    "name": "Ketchup",
-    "variant": "750 g",
-    "ean": "077544159617",
-    "ingredients": "Tomatenconcentraat (35%), water, suiker, azijn, zout, smaakstoffen.",
-    "allergens": [],
-    "category": "Sauzen & Dressings",
-    "kosher": "OU (Parve)",
-    "image": "images/14-supplied.png",
-    "productInfo": {
-      "Inhoud": "750 g",
-      "Kenmerken": "Geschikt voor vegetariërs"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "claims": [
-      "Geschikt voor vegetariërs"
-    ],
-    "sources": [
-      "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz"
-    ],
-    "imageBounds": [
-      0.26953,
-      0.0166,
-      0.7207,
-      0.99902
-    ],
-    "kosherSource": "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz",
-    "kosherChecked": "2026-09-18",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
-  },
-  {
     "id": 15,
     "brand": "Elisha",
     "name": "Gele Mosterd",
@@ -523,187 +490,6 @@ window.KPI_PRODUCTS = [
       0.1867,
       0.7533,
       0.8567
-    ]
-  },
-  {
-    "id": 17,
-    "brand": "Elisha",
-    "name": "Mayonaise",
-    "variant": "1 liter · 950 g",
-    "ean": "5425000531876",
-    "ingredients": "Raapzaadolie (80%), water, eigeel (7,8%), azijn, zout, suiker, mosterd (sulfiet) (azijn, mosterdzaad, zout, kurkuma), zuurteregelaar: E575, conserveermiddelen: E202 en E211, verdikkingsmiddelen: guargom en xanthaangom, specerijen (peperextract), antioxidant: E385.",
-    "allergens": [
-      "EI",
-      "MOSTERD",
-      "SULFIETEN"
-    ],
-    "category": "Mosterd & Mayonaise",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/17.jpg",
-    "productInfo": {
-      "Inhoud": "1 liter · 950 g"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "sources": [
-      "https://elisha.be/en/Mayonnaise-Big"
-    ],
-    "imageBounds": [
-      0.2817,
-      0.0083,
-      0.725,
-      0.88
-    ],
-    "allergenNote": "Gemaakt in een bedrijf waar ook gluten, soja, melk (inclusief lactose) en selderij worden verwerkt.",
-    "ingredientSource": "Gebruikersfoto etiket: 02ed3280-23fb-4e8e-9f24-6452e265ea9f.jpg",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
-    ]
-  },
-  {
-    "id": 18,
-    "brand": "Elisha",
-    "name": "Mayonaise Light",
-    "variant": "1 liter",
-    "ean": "5425000535621",
-    "ingredients": "Water, raapzaadolie (25%), gemodificeerd zetmeel, eigeel (3,7%), suiker, mosterd (water, mosterdzaad, azijn, zout, specerijen (kurkuma), antioxidant: E224), azijn, zout, invertsuikerstroop, glucosestroop, voedingszuur: melkzuur, verdikkingsmiddelen: xanthaangom en guarpitmeel, conserveermiddelen: E202 en E211, zuurteregelaar: E575, kleurstof: carotenen, antioxidant: E385, peperextract.",
-    "allergens": [
-      "EI",
-      "MOSTERD",
-      "SULFIETEN"
-    ],
-    "category": "Mosterd & Mayonaise",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/18.jpg",
-    "productInfo": {
-      "Inhoud": "1 liter",
-      "Kenmerken": "60% minder vet"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "claims": [
-      "60% minder vet"
-    ],
-    "reviewNotes": [
-      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
-    ],
-    "sources": [
-      "https://elisha.be/en/mayo-light-large"
-    ],
-    "imageBounds": [
-      0.2483,
-      0.0167,
-      0.7433,
-      0.9817
-    ],
-    "mayContain": "Glutenbevattende granen, soja, melk (inclusief lactose) en selderij.",
-    "ingredientSource": "Gebruikersfoto etiket: 90dcee60-9a08-4b72-b4ae-7c7ac03a08ec.jpg"
-  },
-  {
-    "id": 19,
-    "brand": "Elisha",
-    "name": "Mayonaise in Glazen Pot",
-    "variant": "500 ml · 470 g",
-    "ean": "5425000531869",
-    "ingredients": "Raapzaadolie (80%), water, eigeel (7,8%), azijn, zout, suiker, mosterd (sulfiet) (azijn, mosterdzaad, zout, kurkuma), zuurteregelaar: E575, conserveermiddelen: E202 en E211, verdikkingsmiddelen: guargom en xanthaangom, specerijen (peperextract), antioxidant: E385.",
-    "allergens": [
-      "EI",
-      "MOSTERD",
-      "SULFIETEN"
-    ],
-    "category": "Mosterd & Mayonaise",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/19.jpg",
-    "productInfo": {
-      "Inhoud": "500 ml · 470 g"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "sources": [
-      "https://elisha.be/en/Mayonnaise"
-    ],
-    "imageBounds": [
-      0.3017,
-      0.01,
-      0.7017,
-      0.8133
-    ],
-    "allergenNote": "Gemaakt in een bedrijf waar ook gluten, soja, melk (inclusief lactose) en selderij worden verwerkt.",
-    "ingredientSource": "Gebruikersfoto etiket: 7ba54e30-4b91-4425-8c2a-becf19dff2f0.jpg",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
-    ]
-  },
-  {
-    "id": 20,
-    "brand": "Elisha",
-    "name": "Suikervrije Mayonaise",
-    "variant": "465 g",
-    "ean": "5425000533993",
-    "ingredients": "Raapzaadolie (80%), water, eigeel (7,7%), azijn, zout, mosterd (sulfiet) (azijn, mosterdzaad, zout, kurkuma), zuurteregelaar: E575, conserveermiddelen: E202 en E211, verdikkingsmiddelen: guargom en xanthaangom, specerijen, zoetstoffen: E954 en steviolglycoside, antioxidant: E385.",
-    "allergens": [
-      "EI",
-      "MOSTERD",
-      "SULFIETEN"
-    ],
-    "category": "Mosterd & Mayonaise",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/20.jpg",
-    "productInfo": {
-      "Inhoud": "465 g",
-      "Kenmerken": "Met zoetstoffen"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "sources": [
-      "https://elisha.be/en/mayonnaise-sugar-free-small"
-    ],
-    "imageBounds": [
-      0.2733,
-      0.005,
-      0.7233,
-      0.9017
-    ],
-    "allergenNote": "Gemaakt in een bedrijf waar ook gluten, soja, melk (inclusief lactose) en selderij worden verwerkt.",
-    "ingredientSource": "Gebruikersfoto etiket: 5817ea63-3742-4025-9a2c-c3be2c368a27.jpg",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
-    ]
-  },
-  {
-    "id": 21,
-    "brand": "Elisha",
-    "name": "Mayonaise in Knijpfles",
-    "variant": "470 g",
-    "ean": "5425000533399",
-    "ingredients": "Raapzaadolie (80%), water, eigeel (7,8%), azijn, zout, suiker, zuurteregelaar: E575, mosterdzaad, conserveermiddelen: E202 en E211, specerijen (kurkuma), antioxidanten: E224 en E385, verdikkingsmiddelen: guarpitmeel en xanthaangom, peperextract.",
-    "allergens": [
-      "EI",
-      "MOSTERD",
-      "SULFIETEN"
-    ],
-    "category": "Mosterd & Mayonaise",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/21.jpg",
-    "productInfo": {
-      "Inhoud": "470 g",
-      "Bewaren": "Op kamertemperatuur bewaren en beschermen tegen direct licht. Na opening beperkt houdbaar in de koelkast."
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "sources": [
-      "https://elisha.be/en/mayonnaise-squeezable"
-    ],
-    "imageBounds": [
-      0.2833,
-      0.0167,
-      0.7083,
-      0.99
-    ],
-    "allergenNote": "Gemaakt in een bedrijf waar ook glutenbevattende granen, soja, melk (inclusief lactose) en selderij worden verwerkt.",
-    "ingredientSource": "Gebruikersfoto etiket: cbaf28d2-468d-4723-897a-016257b07c1c.jpg",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
     ]
   },
   {
@@ -858,6 +644,50 @@ window.KPI_PRODUCTS = [
     "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
   },
   {
+    "id": 28,
+    "brand": "Activus Organic",
+    "name": "Romige Champignonsoep",
+    "variant": "400 g",
+    "ean": "4779039732553",
+    "ingredients": "Champignons (51%), water, kokoscrème (kokosextract, water), rijstmeel, zeezout, uipoeder, prei, knoflookpoeder, specerijen.",
+    "allergens": [],
+    "category": "Biologische Soepen",
+    "kosher": "KLBD (Parve)",
+    "image": "images/28.png",
+    "productInfo": {
+      "Inhoud": "400 g",
+      "Kenmerken": "Biologisch. Vegan. Glutenvrij",
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
+      "Bishul Yisrael": "Ja"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "claims": [
+      "Biologisch",
+      "Vegan",
+      "Glutenvrij"
+    ],
+    "kosherStatus": "Parve",
+    "reviewNotes": [
+      "Officiële ingrediëntenlijst sluit aan op percentages in de brief. Nederlandse vertaling aangevuld vanuit fabrikant."
+    ],
+    "sources": [
+      "https://activus.lt/en/Products/activus-ekologiska-trinta-pievagrybiu-sriuba/"
+    ],
+    "imageBounds": [
+      0.1414,
+      0.0898,
+      0.8548,
+      0.9346
+    ],
+    "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "storageSources": [
+      "https://www.amanvida.eu/en/auga-creamy-champignon-soup-400g-organic-auga-socham"
+    ],
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
+  },
+  {
     "id": 26,
     "brand": "Activus Organic",
     "name": "Romige Tomatensoep",
@@ -942,50 +772,6 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
     "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
     "ingredientSource": "Gebruikersfoto etiket: 705b4027-90ff-4177-ad47-d5aebc03e54c.jpg"
-  },
-  {
-    "id": 28,
-    "brand": "Activus Organic",
-    "name": "Romige Champignonsoep",
-    "variant": "400 g",
-    "ean": "4779039732553",
-    "ingredients": "Champignons (51%), water, kokoscrème (kokosextract, water), rijstmeel, zeezout, uipoeder, prei, knoflookpoeder, specerijen.",
-    "allergens": [],
-    "category": "Biologische Soepen",
-    "kosher": "KLBD (Parve)",
-    "image": "images/28.png",
-    "productInfo": {
-      "Inhoud": "400 g",
-      "Kenmerken": "Biologisch. Vegan. Glutenvrij",
-      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
-      "Bishul Yisrael": "Ja"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "claims": [
-      "Biologisch",
-      "Vegan",
-      "Glutenvrij"
-    ],
-    "kosherStatus": "Parve",
-    "reviewNotes": [
-      "Officiële ingrediëntenlijst sluit aan op percentages in de brief. Nederlandse vertaling aangevuld vanuit fabrikant."
-    ],
-    "sources": [
-      "https://activus.lt/en/Products/activus-ekologiska-trinta-pievagrybiu-sriuba/"
-    ],
-    "imageBounds": [
-      0.1414,
-      0.0898,
-      0.8548,
-      0.9346
-    ],
-    "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
-    "storageSources": [
-      "https://www.amanvida.eu/en/auga-creamy-champignon-soup-400g-organic-auga-socham"
-    ],
-    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
   },
   {
     "id": 29,
@@ -1174,6 +960,36 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 37,
+    "brand": "Eden Gourmet",
+    "name": "Tonijnfilets in Olijfolie",
+    "variant": "200 g",
+    "ean": "3760059041214",
+    "ingredients": "Tonijn (vis), olijfolie van eerste persing (29,5%), zout (0,5%).",
+    "allergens": [
+      "VIS"
+    ],
+    "category": "Visconserven",
+    "kosher": null,
+    "image": "images/37-supplied.png",
+    "productInfo": {
+      "Inhoud": "200 g",
+      "Bewaren": "Na openen binnen 48 uur gebruiken."
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "storage": "Na openen binnen 48 uur gebruiken.",
+    "sources": [],
+    "imageBounds": [
+      0.24083,
+      0.07576,
+      0.80941,
+      0.91946
+    ],
+    "imageEdited": true,
+    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd."
+  },
+  {
     "id": 35,
     "brand": "Riga Gold",
     "name": "Gerookte Sprot in Plantaardige Olie",
@@ -1236,36 +1052,6 @@ window.KPI_PRODUCTS = [
     "storage": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren."
   },
   {
-    "id": 37,
-    "brand": "Eden Gourmet",
-    "name": "Tonijnfilets in Olijfolie",
-    "variant": "200 g",
-    "ean": "3760059041214",
-    "ingredients": "Tonijn (vis), olijfolie van eerste persing (29,5%), zout (0,5%).",
-    "allergens": [
-      "VIS"
-    ],
-    "category": "Visconserven",
-    "kosher": null,
-    "image": "images/37-supplied.png",
-    "productInfo": {
-      "Inhoud": "200 g",
-      "Bewaren": "Na openen binnen 48 uur gebruiken."
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "storage": "Na openen binnen 48 uur gebruiken.",
-    "sources": [],
-    "imageBounds": [
-      0.24083,
-      0.07576,
-      0.80941,
-      0.91946
-    ],
-    "imageEdited": true,
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd."
-  },
-  {
     "id": 49,
     "brand": "Eden Gourmet",
     "name": "Tonijn in Olijfolie",
@@ -1295,6 +1081,136 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientSource": "Gebruikersfoto etiket: 352700f3-60b4-4d5c-902d-2b91750a084f.jpg",
     "kosherSource": "Gebruikersfoto etiket: ad34dd0d-9014-400e-aea0-63c5fdc5ce34.jpg"
+  },
+  {
+    "id": 44,
+    "brand": "",
+    "name": "Gefilte Fish Zonder Toegevoegde Suiker",
+    "variant": "510 g · 4 stuks",
+    "ean": "7290002475101",
+    "ingredients": "Water, karper (15,3%), zilverkarper (15,3%), gedroogde uistukjes, aardappelzetmeel, wortel (1,6%), zout, aardappelvlokken, gedroogd ei, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
+    "allergens": [
+      "VIS",
+      "EI"
+    ],
+    "category": "Gefilte Fish",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
+    "image": "images/44.png",
+    "productInfo": {
+      "Inhoud": "510 g · 4 stuks",
+      "Visgehalte": "Minimaal 50% vis per bal.",
+      "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
+      "Let op": "Kan visgraten bevatten.",
+      "Kenmerken": "Zonder toegevoegde suiker. Met zoetstof."
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "kosherStatus": "Parve",
+    "reviewNotes": [
+      "Volledige ingrediënten en allergenen bevestigd op etiket; barcode 7290002475101. Zonder toegevoegde suiker op verzoek in productnaam opgenomen."
+    ],
+    "fishPerBall": "Minimaal 50% vis per bal.",
+    "sources": [
+      "https://sovafoods.co.uk/catalog/dag12"
+    ],
+    "imageBounds": [
+      0.1973,
+      0.1357,
+      0.8027,
+      0.8682
+    ],
+    "kosherSource": "https://sovafoods.co.uk/catalog/dag12",
+    "kosherChecked": "2026-09-18",
+    "ingredientSource": "Gebruikersfoto: 639b8c3f-f3e1-4035-9ed1-7d9bcf505c12.jpg"
+  },
+  {
+    "id": 45,
+    "brand": "Dag Eden",
+    "name": "Gefilte Fish Hongaarse Stijl",
+    "variant": "6 stuks",
+    "ean": "7290008737296",
+    "ingredients": "Water, vis (25,4%; karper, zilverkarper), wortel (6,4%), suiker, aardappelzetmeel, gedroogde uistukjes, aardappelvlokken, zout, gedroogd ei, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
+    "allergens": [
+      "VIS",
+      "EI"
+    ],
+    "category": "Gefilte Fish",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
+    "image": "images/45-online.png",
+    "productInfo": {
+      "Inhoud": "6 stuks",
+      "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
+      "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
+      "Let op": "Kan visgraten bevatten.",
+      "Visgehalte": "Minimaal 42% vis per bal."
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "claims": [
+      "Glutenvrij",
+      "Zonder toegevoegde conserveermiddelen en kleurstoffen"
+    ],
+    "kosherStatus": "Parve",
+    "reviewNotes": [
+      "Volledige ingrediënten en allergenen bevestigd op etiket; barcode 7290008737296. Nettogewicht nog niet zichtbaar op aangeleverde foto’s."
+    ],
+    "sources": [
+      "https://alwaystogether.community/products/gefilte-fish-hungarian-style-6-units-dag-eden-570g"
+    ],
+    "imageBounds": [
+      0.22,
+      0.0022,
+      0.7778,
+      1.0
+    ],
+    "kosherSource": "https://sovafoods.co.uk/catalog/dag11",
+    "kosherChecked": "2026-09-18",
+    "fishPerBall": "Minimaal 42% vis per bal.",
+    "ingredientSource": "Gebruikersfoto: d36679ce-e738-47c8-8d90-3a084ef15907.jpg"
+  },
+  {
+    "id": 46,
+    "brand": "Dag Eden",
+    "name": "Gefilte Fish Poolse Stijl",
+    "variant": "6 stuks",
+    "ean": "7290008737289",
+    "ingredients": "Water, vis (25,7%; karper, zilverkarper), suiker, gedroogde uistukjes, wortel (2,1%), aardappelzetmeel, aardappelvlokken, zout, gedroogd ei, palmolie, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
+    "allergens": [
+      "VIS",
+      "EI"
+    ],
+    "category": "Gefilte Fish",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
+    "image": "images/46-online.jpg",
+    "productInfo": {
+      "Inhoud": "6 stuks",
+      "Visgehalte": "Minimaal 42% vis per bal.",
+      "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
+      "Let op": "Kan visgraten bevatten.",
+      "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "reviewNotes": [
+      "Volledige ingrediënten en allergenen bevestigd op gebruikersetiket; barcode 7290008737289. Nettogewicht niet volledig leesbaar op de foto; 6 stuks behouden."
+    ],
+    "fishPerBall": "Minimaal 42% vis per bal.",
+    "sources": [
+      "https://alwaystogether.community/products/gefilte-fish-polish-style-6-units-570g"
+    ],
+    "imageBounds": [
+      0.22,
+      0.0022,
+      0.78,
+      1.0
+    ],
+    "kosherSource": "https://alwaystogether.community/products/gefilte-fish-polish-style-6-units-570g",
+    "kosherChecked": "2026-09-18",
+    "claims": [
+      "Glutenvrij",
+      "Zonder toegevoegde conserveermiddelen en kleurstoffen"
+    ],
+    "ingredientSource": "Gebruikersfoto etiket: f43924a7-c22f-4eb4-b352-2ec8191bd4f8.jpg"
   },
   {
     "id": 38,
@@ -1493,136 +1409,6 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
-    "id": 44,
-    "brand": "",
-    "name": "Gefilte Fish Zonder Toegevoegde Suiker",
-    "variant": "510 g · 4 stuks",
-    "ean": "7290002475101",
-    "ingredients": "Water, karper (15,3%), zilverkarper (15,3%), gedroogde uistukjes, aardappelzetmeel, wortel (1,6%), zout, aardappelvlokken, gedroogd ei, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
-    "allergens": [
-      "VIS",
-      "EI"
-    ],
-    "category": "Gefilte Fish",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
-    "image": "images/44.png",
-    "productInfo": {
-      "Inhoud": "510 g · 4 stuks",
-      "Visgehalte": "Minimaal 50% vis per bal.",
-      "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
-      "Let op": "Kan visgraten bevatten.",
-      "Kenmerken": "Zonder toegevoegde suiker. Met zoetstof."
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "kosherStatus": "Parve",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergenen bevestigd op etiket; barcode 7290002475101. Zonder toegevoegde suiker op verzoek in productnaam opgenomen."
-    ],
-    "fishPerBall": "Minimaal 50% vis per bal.",
-    "sources": [
-      "https://sovafoods.co.uk/catalog/dag12"
-    ],
-    "imageBounds": [
-      0.1973,
-      0.1357,
-      0.8027,
-      0.8682
-    ],
-    "kosherSource": "https://sovafoods.co.uk/catalog/dag12",
-    "kosherChecked": "2026-09-18",
-    "ingredientSource": "Gebruikersfoto: 639b8c3f-f3e1-4035-9ed1-7d9bcf505c12.jpg"
-  },
-  {
-    "id": 45,
-    "brand": "Dag Eden",
-    "name": "Gefilte Fish Hongaarse Stijl",
-    "variant": "6 stuks",
-    "ean": "7290008737296",
-    "ingredients": "Water, vis (25,4%; karper, zilverkarper), wortel (6,4%), suiker, aardappelzetmeel, gedroogde uistukjes, aardappelvlokken, zout, gedroogd ei, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
-    "allergens": [
-      "VIS",
-      "EI"
-    ],
-    "category": "Gefilte Fish",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
-    "image": "images/45-online.png",
-    "productInfo": {
-      "Inhoud": "6 stuks",
-      "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
-      "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
-      "Let op": "Kan visgraten bevatten.",
-      "Visgehalte": "Minimaal 42% vis per bal."
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "claims": [
-      "Glutenvrij",
-      "Zonder toegevoegde conserveermiddelen en kleurstoffen"
-    ],
-    "kosherStatus": "Parve",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergenen bevestigd op etiket; barcode 7290008737296. Nettogewicht nog niet zichtbaar op aangeleverde foto’s."
-    ],
-    "sources": [
-      "https://alwaystogether.community/products/gefilte-fish-hungarian-style-6-units-dag-eden-570g"
-    ],
-    "imageBounds": [
-      0.22,
-      0.0022,
-      0.7778,
-      1.0
-    ],
-    "kosherSource": "https://sovafoods.co.uk/catalog/dag11",
-    "kosherChecked": "2026-09-18",
-    "fishPerBall": "Minimaal 42% vis per bal.",
-    "ingredientSource": "Gebruikersfoto: d36679ce-e738-47c8-8d90-3a084ef15907.jpg"
-  },
-  {
-    "id": 46,
-    "brand": "Dag Eden",
-    "name": "Gefilte Fish Poolse Stijl",
-    "variant": "6 stuks",
-    "ean": "7290008737289",
-    "ingredients": "Water, vis (25,7%; karper, zilverkarper), suiker, gedroogde uistukjes, wortel (2,1%), aardappelzetmeel, aardappelvlokken, zout, gedroogd ei, palmolie, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
-    "allergens": [
-      "VIS",
-      "EI"
-    ],
-    "category": "Gefilte Fish",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
-    "image": "images/46-online.jpg",
-    "productInfo": {
-      "Inhoud": "6 stuks",
-      "Visgehalte": "Minimaal 42% vis per bal.",
-      "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
-      "Let op": "Kan visgraten bevatten.",
-      "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen"
-    },
-    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": false,
-    "reviewNotes": [
-      "Volledige ingrediënten en allergenen bevestigd op gebruikersetiket; barcode 7290008737289. Nettogewicht niet volledig leesbaar op de foto; 6 stuks behouden."
-    ],
-    "fishPerBall": "Minimaal 42% vis per bal.",
-    "sources": [
-      "https://alwaystogether.community/products/gefilte-fish-polish-style-6-units-570g"
-    ],
-    "imageBounds": [
-      0.22,
-      0.0022,
-      0.78,
-      1.0
-    ],
-    "kosherSource": "https://alwaystogether.community/products/gefilte-fish-polish-style-6-units-570g",
-    "kosherChecked": "2026-09-18",
-    "claims": [
-      "Glutenvrij",
-      "Zonder toegevoegde conserveermiddelen en kleurstoffen"
-    ],
-    "ingredientSource": "Gebruikersfoto etiket: f43924a7-c22f-4eb4-b352-2ec8191bd4f8.jpg"
-  },
-  {
     "id": 47,
     "brand": "King of the Ocean",
     "name": "Sardines in Tomatensaus",
@@ -1665,5 +1451,219 @@ window.KPI_PRODUCTS = [
       0.9837,
       0.9034
     ]
+  },
+  {
+    "id": 17,
+    "brand": "Elisha",
+    "name": "Mayonaise",
+    "variant": "1 liter · 950 g",
+    "ean": "5425000531876",
+    "ingredients": "Raapzaadolie (80%), water, eigeel (7,8%), azijn, zout, suiker, mosterd (sulfiet) (azijn, mosterdzaad, zout, kurkuma), zuurteregelaar: E575, conserveermiddelen: E202 en E211, verdikkingsmiddelen: guargom en xanthaangom, specerijen (peperextract), antioxidant: E385.",
+    "allergens": [
+      "EI",
+      "MOSTERD",
+      "SULFIETEN"
+    ],
+    "category": "Mosterd & Mayonaise",
+    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "image": "images/17.jpg",
+    "productInfo": {
+      "Inhoud": "1 liter · 950 g"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "sources": [
+      "https://elisha.be/en/Mayonnaise-Big"
+    ],
+    "imageBounds": [
+      0.2817,
+      0.0083,
+      0.725,
+      0.88
+    ],
+    "allergenNote": "Gemaakt in een bedrijf waar ook gluten, soja, melk (inclusief lactose) en selderij worden verwerkt.",
+    "ingredientSource": "Gebruikersfoto etiket: 02ed3280-23fb-4e8e-9f24-6452e265ea9f.jpg",
+    "reviewNotes": [
+      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ]
+  },
+  {
+    "id": 18,
+    "brand": "Elisha",
+    "name": "Mayonaise Light",
+    "variant": "1 liter",
+    "ean": "5425000535621",
+    "ingredients": "Water, raapzaadolie (25%), gemodificeerd zetmeel, eigeel (3,7%), suiker, mosterd (water, mosterdzaad, azijn, zout, specerijen (kurkuma), antioxidant: E224), azijn, zout, invertsuikerstroop, glucosestroop, voedingszuur: melkzuur, verdikkingsmiddelen: xanthaangom en guarpitmeel, conserveermiddelen: E202 en E211, zuurteregelaar: E575, kleurstof: carotenen, antioxidant: E385, peperextract.",
+    "allergens": [
+      "EI",
+      "MOSTERD",
+      "SULFIETEN"
+    ],
+    "category": "Mosterd & Mayonaise",
+    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "image": "images/18.jpg",
+    "productInfo": {
+      "Inhoud": "1 liter",
+      "Kenmerken": "60% minder vet"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "claims": [
+      "60% minder vet"
+    ],
+    "reviewNotes": [
+      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ],
+    "sources": [
+      "https://elisha.be/en/mayo-light-large"
+    ],
+    "imageBounds": [
+      0.2483,
+      0.0167,
+      0.7433,
+      0.9817
+    ],
+    "mayContain": "Glutenbevattende granen, soja, melk (inclusief lactose) en selderij.",
+    "ingredientSource": "Gebruikersfoto etiket: 90dcee60-9a08-4b72-b4ae-7c7ac03a08ec.jpg"
+  },
+  {
+    "id": 19,
+    "brand": "Elisha",
+    "name": "Mayonaise in Glazen Pot",
+    "variant": "500 ml · 470 g",
+    "ean": "5425000531869",
+    "ingredients": "Raapzaadolie (80%), water, eigeel (7,8%), azijn, zout, suiker, mosterd (sulfiet) (azijn, mosterdzaad, zout, kurkuma), zuurteregelaar: E575, conserveermiddelen: E202 en E211, verdikkingsmiddelen: guargom en xanthaangom, specerijen (peperextract), antioxidant: E385.",
+    "allergens": [
+      "EI",
+      "MOSTERD",
+      "SULFIETEN"
+    ],
+    "category": "Mosterd & Mayonaise",
+    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "image": "images/19.jpg",
+    "productInfo": {
+      "Inhoud": "500 ml · 470 g"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "sources": [
+      "https://elisha.be/en/Mayonnaise"
+    ],
+    "imageBounds": [
+      0.3017,
+      0.01,
+      0.7017,
+      0.8133
+    ],
+    "allergenNote": "Gemaakt in een bedrijf waar ook gluten, soja, melk (inclusief lactose) en selderij worden verwerkt.",
+    "ingredientSource": "Gebruikersfoto etiket: 7ba54e30-4b91-4425-8c2a-becf19dff2f0.jpg",
+    "reviewNotes": [
+      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ]
+  },
+  {
+    "id": 20,
+    "brand": "Elisha",
+    "name": "Suikervrije Mayonaise",
+    "variant": "465 g",
+    "ean": "5425000533993",
+    "ingredients": "Raapzaadolie (80%), water, eigeel (7,7%), azijn, zout, mosterd (sulfiet) (azijn, mosterdzaad, zout, kurkuma), zuurteregelaar: E575, conserveermiddelen: E202 en E211, verdikkingsmiddelen: guargom en xanthaangom, specerijen, zoetstoffen: E954 en steviolglycoside, antioxidant: E385.",
+    "allergens": [
+      "EI",
+      "MOSTERD",
+      "SULFIETEN"
+    ],
+    "category": "Mosterd & Mayonaise",
+    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "image": "images/20.jpg",
+    "productInfo": {
+      "Inhoud": "465 g",
+      "Kenmerken": "Met zoetstoffen"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "sources": [
+      "https://elisha.be/en/mayonnaise-sugar-free-small"
+    ],
+    "imageBounds": [
+      0.2733,
+      0.005,
+      0.7233,
+      0.9017
+    ],
+    "allergenNote": "Gemaakt in een bedrijf waar ook gluten, soja, melk (inclusief lactose) en selderij worden verwerkt.",
+    "ingredientSource": "Gebruikersfoto etiket: 5817ea63-3742-4025-9a2c-c3be2c368a27.jpg",
+    "reviewNotes": [
+      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ]
+  },
+  {
+    "id": 21,
+    "brand": "Elisha",
+    "name": "Mayonaise in Knijpfles",
+    "variant": "470 g",
+    "ean": "5425000533399",
+    "ingredients": "Raapzaadolie (80%), water, eigeel (7,8%), azijn, zout, suiker, zuurteregelaar: E575, mosterdzaad, conserveermiddelen: E202 en E211, specerijen (kurkuma), antioxidanten: E224 en E385, verdikkingsmiddelen: guarpitmeel en xanthaangom, peperextract.",
+    "allergens": [
+      "EI",
+      "MOSTERD",
+      "SULFIETEN"
+    ],
+    "category": "Mosterd & Mayonaise",
+    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "image": "images/21.jpg",
+    "productInfo": {
+      "Inhoud": "470 g",
+      "Bewaren": "Op kamertemperatuur bewaren en beschermen tegen direct licht. Na opening beperkt houdbaar in de koelkast."
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "sources": [
+      "https://elisha.be/en/mayonnaise-squeezable"
+    ],
+    "imageBounds": [
+      0.2833,
+      0.0167,
+      0.7083,
+      0.99
+    ],
+    "allergenNote": "Gemaakt in een bedrijf waar ook glutenbevattende granen, soja, melk (inclusief lactose) en selderij worden verwerkt.",
+    "ingredientSource": "Gebruikersfoto etiket: cbaf28d2-468d-4723-897a-016257b07c1c.jpg",
+    "reviewNotes": [
+      "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ]
+  },
+  {
+    "id": 14,
+    "brand": "Osem",
+    "name": "Ketchup",
+    "variant": "750 g",
+    "ean": "077544159617",
+    "ingredients": "Tomatenconcentraat (35%), water, suiker, azijn, zout, smaakstoffen.",
+    "allergens": [],
+    "category": "Sauzen & Dressings",
+    "kosher": "OU (Parve)",
+    "image": "images/14-supplied.png",
+    "productInfo": {
+      "Inhoud": "750 g",
+      "Kenmerken": "Geschikt voor vegetariërs"
+    },
+    "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
+    "ingredientsPartial": false,
+    "claims": [
+      "Geschikt voor vegetariërs"
+    ],
+    "sources": [
+      "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz"
+    ],
+    "imageBounds": [
+      0.26953,
+      0.0166,
+      0.7207,
+      0.99902
+    ],
+    "kosherSource": "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz",
+    "kosherChecked": "2026-09-18",
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
   }
 ];

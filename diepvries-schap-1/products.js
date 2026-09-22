@@ -113,20 +113,6 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": true
   },
   {
-    "id": 8,
-    "name": "Kippendrumsticks",
-    "brand": "Kosher Poultry",
-    "category": "Kip",
-    "variant": "",
-    "ingredients": "100% kip",
-    "allergens": [],
-    "allergenNote": "",
-    "kosher": "Badatz Amsterdam · Rav Wolf",
-    "note": "",
-    "image": "./images/08-kippendrumsticks.png",
-    "allergensConfirmedAbsent": true
-  },
-  {
     "id": 9,
     "name": "Kippenvleugels",
     "brand": "Kosher Poultry",
@@ -138,6 +124,20 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/09-kippenvleugels.png",
+    "allergensConfirmedAbsent": true
+  },
+  {
+    "id": 8,
+    "name": "Kippendrumsticks",
+    "brand": "Kosher Poultry",
+    "category": "Kip",
+    "variant": "",
+    "ingredients": "100% kip",
+    "allergens": [],
+    "allergenNote": "",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
+    "note": "",
+    "image": "./images/08-kippendrumsticks.png",
     "allergensConfirmedAbsent": true
   },
   {
@@ -169,6 +169,48 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": true
   },
   {
+    "id": 15,
+    "name": "Kip karbonade",
+    "brand": "Kosher Poultry",
+    "category": "Kip",
+    "variant": "",
+    "ingredients": "100% kip",
+    "allergens": [],
+    "allergenNote": "",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
+    "note": "",
+    "image": "./images/15-kip-karbonade.png",
+    "allergensConfirmedAbsent": true
+  },
+  {
+    "id": 16,
+    "name": "Kip gehakt",
+    "brand": "Kosher Poultry",
+    "category": "Kip",
+    "variant": "",
+    "ingredients": "100% kip",
+    "allergens": [],
+    "allergenNote": "",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
+    "note": "",
+    "image": "./images/16-kip-gehakt.png",
+    "allergensConfirmedAbsent": true
+  },
+  {
+    "id": 14,
+    "name": "Kip schnitzels gesneden",
+    "brand": "Kosher Poultry",
+    "category": "Kip",
+    "variant": "",
+    "ingredients": "100% kip",
+    "allergens": [],
+    "allergenNote": "",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
+    "note": "Dit product is rauwe, dun gesneden kipfilet, zonder panering of paneermeel.",
+    "image": "./images/14-kip-schnitzels-gesneden.png",
+    "allergensConfirmedAbsent": true
+  },
+  {
     "id": 12,
     "name": "Kippendijvlees",
     "brand": "Kosher Poultry",
@@ -194,48 +236,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/13-hele-kip.png",
-    "allergensConfirmedAbsent": true
-  },
-  {
-    "id": 14,
-    "name": "Kip schnitzels gesneden",
-    "brand": "Kosher Poultry",
-    "category": "Kip",
-    "variant": "",
-    "ingredients": "100% kip",
-    "allergens": [],
-    "allergenNote": "",
-    "kosher": "Badatz Amsterdam · Rav Wolf",
-    "note": "Dit product is rauwe, dun gesneden kipfilet, zonder panering of paneermeel.",
-    "image": "./images/14-kip-schnitzels-gesneden.png",
-    "allergensConfirmedAbsent": true
-  },
-  {
-    "id": 16,
-    "name": "Kip gehakt",
-    "brand": "Kosher Poultry",
-    "category": "Kip",
-    "variant": "",
-    "ingredients": "100% kip",
-    "allergens": [],
-    "allergenNote": "",
-    "kosher": "Badatz Amsterdam · Rav Wolf",
-    "note": "",
-    "image": "./images/16-kip-gehakt.png",
-    "allergensConfirmedAbsent": true
-  },
-  {
-    "id": 15,
-    "name": "Kip karbonade",
-    "brand": "Kosher Poultry",
-    "category": "Kip",
-    "variant": "",
-    "ingredients": "100% kip",
-    "allergens": [],
-    "allergenNote": "",
-    "kosher": "Badatz Amsterdam · Rav Wolf",
-    "note": "",
-    "image": "./images/15-kip-karbonade.png",
     "allergensConfirmedAbsent": true
   }
 ];

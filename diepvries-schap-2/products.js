@@ -1,5 +1,51 @@
 window.KPI_PRODUCTS = [
   {
+    "id": 3,
+    "brand": "Just Bagels",
+    "name": "Bagels met Kaneel en Rozijnen",
+    "englishName": "",
+    "variant": "6 stuks · 680 g",
+    "category": "Bagels",
+    "ingredients": "bloem (tarwebloem, gemoute gerstebloem), water, rozijnen, suiker, zout, tarwebloem, melasse, gist, karamelkleurstof, kaneel, tarwezetmeel, natuurlijke aroma’s, gefermenteerd tarwezetmeel, enzymen, gemoute gerstebloem, ascorbinezuur als deegverbeteraar, zonnebloemolie, xanthaangom, maïseiwit",
+    "allergens": [
+      "TARWE",
+      "GERST"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Geproduceerd in een bedrijf dat ook sesam verwerkt",
+    "kosher": "OU (Orthodox Union)",
+    "ean": "743672013076",
+    "image": "./images/03-just-bagels-cinnamon.jpg",
+    "warning": "",
+    "note": "Ingevroren bewaren (Parve)",
+    "reviewStatus": "manufacturer-spec-matched-upc",
+    "quantitySource": "Actuele fysieke verpakking; 6 stuks, netto 680 g / 24 oz",
+    "kosherStatus": "Parve",
+    "veganStatus": "Niet expliciet bevestigd op de aangeleverde verpakking",
+    "barcodeSource": "Verpakkingsfoto 6.jpg",
+    "imageSource": {
+      "type": "manufacturer",
+      "page": "https://justbagels.com/products/box-set-2-packs-of-6-cinnamon-raisin-bagels",
+      "url": "https://cdn.shopify.com/s/files/1/0796/7496/6265/files/1500x1500_CinnamonRaisin.jpg?v=1778269016"
+    },
+    "labelSource": {
+      "front": "5.jpg",
+      "back": "6.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "ingredientsComplete": true,
+    "ingredientNote": "",
+    "ingredientReviewDate": "2026-09-10",
+    "kosherSource": "Eigen verpakkingsfoto’s 5.jpg en 6.jpg",
+    "ingredientsSource": {
+      "url": "https://www.webstaurantstore.com/documents/nutrition/retail-cinnamon-raisin-bagel-spec-01307-11-1-22-.pdf",
+      "issuer": "Just Bagels",
+      "issued": "2022-11-01",
+      "match": "Zelfde UPC en retail-zesverpakking; leesbare ingrediënten komen overeen",
+      "reviewDate": "2026-09-10"
+    }
+  },
+  {
     "id": 1,
     "brand": "Just Bagels",
     "name": "Volkoren Bagels",
@@ -87,13 +133,13 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Eigen verpakkingsfoto’s 3.jpg en 4.jpg"
   },
   {
-    "id": 3,
+    "id": 5,
     "brand": "Just Bagels",
-    "name": "Bagels met Kaneel en Rozijnen",
+    "name": "Bagels met Maanzaad",
     "englishName": "",
     "variant": "6 stuks · 680 g",
     "category": "Bagels",
-    "ingredients": "bloem (tarwebloem, gemoute gerstebloem), water, rozijnen, suiker, zout, tarwebloem, melasse, gist, karamelkleurstof, kaneel, tarwezetmeel, natuurlijke aroma’s, gefermenteerd tarwezetmeel, enzymen, gemoute gerstebloem, ascorbinezuur als deegverbeteraar, zonnebloemolie, xanthaangom, maïseiwit",
+    "ingredients": "bloem (tarwebloem, gemoute gerstebloem), water, suiker, minder dan 2% van elk van de volgende ingrediënten, zout, maanzaad, tarwebloem, melasse, gist, gefermenteerd tarwezetmeel, enzymen, gemoute gerstebloem, ascorbinezuur als deegverbeteraar, xanthaangom, maïseiwit",
     "allergens": [
       "TARWE",
       "GERST"
@@ -101,36 +147,28 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "allergenNote": "Geproduceerd in een bedrijf dat ook sesam verwerkt",
     "kosher": "OU (Orthodox Union)",
-    "ean": "743672013076",
-    "image": "./images/03-just-bagels-cinnamon.jpg",
+    "ean": "743672013021",
+    "image": "./images/05-just-bagels-poppy.jpg",
     "warning": "",
     "note": "Ingevroren bewaren (Parve)",
-    "reviewStatus": "manufacturer-spec-matched-upc",
+    "reviewStatus": "label-verified",
     "quantitySource": "Actuele fysieke verpakking; 6 stuks, netto 680 g / 24 oz",
     "kosherStatus": "Parve",
     "veganStatus": "Niet expliciet bevestigd op de aangeleverde verpakking",
-    "barcodeSource": "Verpakkingsfoto 6.jpg",
+    "barcodeSource": "Verpakkingsfoto 10.jpg",
     "imageSource": {
       "type": "manufacturer",
-      "page": "https://justbagels.com/products/box-set-2-packs-of-6-cinnamon-raisin-bagels",
-      "url": "https://cdn.shopify.com/s/files/1/0796/7496/6265/files/1500x1500_CinnamonRaisin.jpg?v=1778269016"
+      "page": "https://justbagels.com/products/box-set-2-packs-of-6-poppy-bagels",
+      "url": "https://cdn.shopify.com/s/files/1/0796/7496/6265/files/1500x1500_Poppy.jpg?v=1778269982"
     },
     "labelSource": {
-      "front": "5.jpg",
-      "back": "6.jpg",
+      "front": "9.jpg",
+      "back": "10.jpg",
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "ingredientsComplete": true,
-    "ingredientNote": "",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 5.jpg en 6.jpg",
-    "ingredientsSource": {
-      "url": "https://www.webstaurantstore.com/documents/nutrition/retail-cinnamon-raisin-bagel-spec-01307-11-1-22-.pdf",
-      "issuer": "Just Bagels",
-      "issued": "2022-11-01",
-      "match": "Zelfde UPC en retail-zesverpakking; leesbare ingrediënten komen overeen",
-      "reviewDate": "2026-09-10"
-    }
+    "kosherSource": "Eigen verpakkingsfoto’s 9.jpg en 10.jpg"
   },
   {
     "id": 4,
@@ -170,44 +208,6 @@ window.KPI_PRODUCTS = [
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 7.jpg en 8.jpg"
-  },
-  {
-    "id": 5,
-    "brand": "Just Bagels",
-    "name": "Bagels met Maanzaad",
-    "englishName": "",
-    "variant": "6 stuks · 680 g",
-    "category": "Bagels",
-    "ingredients": "bloem (tarwebloem, gemoute gerstebloem), water, suiker, minder dan 2% van elk van de volgende ingrediënten, zout, maanzaad, tarwebloem, melasse, gist, gefermenteerd tarwezetmeel, enzymen, gemoute gerstebloem, ascorbinezuur als deegverbeteraar, xanthaangom, maïseiwit",
-    "allergens": [
-      "TARWE",
-      "GERST"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Geproduceerd in een bedrijf dat ook sesam verwerkt",
-    "kosher": "OU (Orthodox Union)",
-    "ean": "743672013021",
-    "image": "./images/05-just-bagels-poppy.jpg",
-    "warning": "",
-    "note": "Ingevroren bewaren (Parve)",
-    "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; 6 stuks, netto 680 g / 24 oz",
-    "kosherStatus": "Parve",
-    "veganStatus": "Niet expliciet bevestigd op de aangeleverde verpakking",
-    "barcodeSource": "Verpakkingsfoto 10.jpg",
-    "imageSource": {
-      "type": "manufacturer",
-      "page": "https://justbagels.com/products/box-set-2-packs-of-6-poppy-bagels",
-      "url": "https://cdn.shopify.com/s/files/1/0796/7496/6265/files/1500x1500_Poppy.jpg?v=1778269982"
-    },
-    "labelSource": {
-      "front": "9.jpg",
-      "back": "10.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
-    },
-    "ingredientsComplete": true,
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 9.jpg en 10.jpg"
   },
   {
     "id": 6,
@@ -326,6 +326,47 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Eigen verpakkingsfoto’s 15.jpg en 16.jpg"
   },
   {
+    "id": 24,
+    "brand": "Mount Ridge",
+    "name": "Pizzabagels",
+    "englishName": "",
+    "variant": "12 bagelhelften · 2 × 6 stuks · 646 g",
+    "category": "Pizza",
+    "ingredients": "verrijkte tarwebloem (tarwebloem, niacine, ijzer, thiaminemononitraat, riboflavine, foliumzuur, gemoute gerstebloem), mozzarella en/of muensterkaas (gedeeltelijk afgeroomde en/of volle melk, zuursel, zout, koosjere enzymen), tomaten, appelsap, sojaolie, zout, oregano, knoflook, suiker, gemodificeerd zetmeel, citroenzuur, gist, zwarte peper en specerijen",
+    "allergens": [
+      "TARWE",
+      "GERST",
+      "MELK",
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Op het etiket worden tarwe, melk en soja genoemd. Gerst is ook aanwezig als gemoute gerstebloem",
+    "kosher": "OU (Orthodox Union) en CRC",
+    "ean": "607984050221",
+    "image": "./images/24-mount-ridge-web.jpg",
+    "warning": "",
+    "note": "Dairy (Chalav Yisrael)",
+    "reviewStatus": "label-verified-additional-certification-unreadable",
+    "quantitySource": "Voorkantfoto 17.jpg: 12 bagelhelften, 2 × 323 g, totaal 646 g / 22.8 oz",
+    "barcodeSource": "Actuele achterkantfoto 18.jpg",
+    "kosherStatus": "Dairy",
+    "veganStatus": "Niet vegan; bevat melk",
+    "labelSource": {
+      "front": "17.jpg",
+      "back": "18.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "imageSource": {
+      "type": "webshop",
+      "page": "https://shop.moishas.com/",
+      "url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/8325323/12659624/large.jpg",
+      "note": "Originele packshot: 12 bagelhelften, 2 x 323 g, totaal 646 g. Visueel gecontroleerd; 450 aan de zijkant is oventemperatuur, geen gewicht."
+    },
+    "ingredientsComplete": true,
+    "ingredientReviewDate": "2026-09-10",
+    "kosherSource": "Eigen verpakkingsfoto’s 17.jpg en 18.jpg"
+  },
+  {
     "id": 9,
     "brand": "Ariel Bakery & Patisserie",
     "name": "Bourekas met Kaas",
@@ -365,6 +406,47 @@ window.KPI_PRODUCTS = [
     "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 19.jpg en 20.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "Ariel Bakery & Patisserie",
+    "name": "Bourekas met Aardappel",
+    "englishName": "",
+    "variant": "18 stuks · 600 g",
+    "category": "Bourekas",
+    "ingredients": "water, tarwemeel, plantaardige vetten en oliën (soja), gedroogde aardappelvlokken (5%), zout, gedroogde gebakken ui, suiker, gemodificeerd voedselzetmeel (E1442), emulgatoren (sojalecithine, E471), zetmeel (aardappel, tapioca), specerijen, gistextract, kunstmatige smaak, gedehydrateerde groente (selderij), zuurteregelaar (citroenzuur), kleurstof (bètacaroteen)",
+    "allergens": [
+      "TARWE",
+      "SOJA",
+      "SELDERIJ",
+      "SESAM"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Sesamzaad in een meegeleverd zakje. Kan noten, eieren, pinda’s, melk, sesam, selderij en andere glutenbevattende granen bevatten",
+    "kosher": "OU (Orthodox Union) en Badatz Edah HaChareidis",
+    "ean": "7290000131030",
+    "image": "./images/11-potato-web.jpg",
+    "warning": "",
+    "note": "Bewaren bij -18 °C (Parve). Vegan volgens de verpakking. Na ontdooien niet opnieuw invriezen. Voor consumptie bakken",
+    "reviewStatus": "label-verified",
+    "quantitySource": "Actuele fysieke verpakking; foto 21.jpg",
+    "ingredientsComplete": true,
+    "barcodeSource": "Afgelezen op verpakkingsfoto 22.jpg",
+    "labelSource": {
+      "front": "21.jpg",
+      "back": "22.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "imageSource": {
+      "type": "webshop",
+      "page": "https://kosherfood.it/en/products/burekas-con-patata-kosher-600-gr",
+      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_POTATO_BOUREKAS.jpg?v=1759095993"
+    },
+    "kosherStatus": "Parve",
+    "veganStatus": "Vegan volgens de voorkant van de verpakking",
+    "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
+    "ingredientReviewDate": "2026-09-10",
+    "kosherSource": "Eigen verpakkingsfoto’s 21.jpg en 22.jpg"
   },
   {
     "id": 10,
@@ -407,47 +489,6 @@ window.KPI_PRODUCTS = [
     "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 23.jpg en 24.jpg"
-  },
-  {
-    "id": 11,
-    "brand": "Ariel Bakery & Patisserie",
-    "name": "Bourekas met Aardappel",
-    "englishName": "",
-    "variant": "18 stuks · 600 g",
-    "category": "Bourekas",
-    "ingredients": "water, tarwemeel, plantaardige vetten en oliën (soja), gedroogde aardappelvlokken (5%), zout, gedroogde gebakken ui, suiker, gemodificeerd voedselzetmeel (E1442), emulgatoren (sojalecithine, E471), zetmeel (aardappel, tapioca), specerijen, gistextract, kunstmatige smaak, gedehydrateerde groente (selderij), zuurteregelaar (citroenzuur), kleurstof (bètacaroteen)",
-    "allergens": [
-      "TARWE",
-      "SOJA",
-      "SELDERIJ",
-      "SESAM"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Sesamzaad in een meegeleverd zakje. Kan noten, eieren, pinda’s, melk, sesam, selderij en andere glutenbevattende granen bevatten",
-    "kosher": "OU (Orthodox Union) en Badatz Edah HaChareidis",
-    "ean": "7290000131030",
-    "image": "./images/11-potato-web.jpg",
-    "warning": "",
-    "note": "Bewaren bij -18 °C (Parve). Vegan volgens de verpakking. Na ontdooien niet opnieuw invriezen. Voor consumptie bakken",
-    "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 21.jpg",
-    "ingredientsComplete": true,
-    "barcodeSource": "Afgelezen op verpakkingsfoto 22.jpg",
-    "labelSource": {
-      "front": "21.jpg",
-      "back": "22.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
-    },
-    "imageSource": {
-      "type": "webshop",
-      "page": "https://kosherfood.it/en/products/burekas-con-patata-kosher-600-gr",
-      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_POTATO_BOUREKAS.jpg?v=1759095993"
-    },
-    "kosherStatus": "Parve",
-    "veganStatus": "Vegan volgens de voorkant van de verpakking",
-    "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 21.jpg en 22.jpg"
   },
   {
     "id": 12,
@@ -499,6 +540,83 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 15,
+    "brand": "Ariel Bakery & Patisserie",
+    "name": "Malawach",
+    "englishName": "",
+    "variant": "5 stuks · 700 g",
+    "category": "Jachnun & Malawach",
+    "ingredients": "tarwebloem (gluten), water, plantaardige vetten en oliën (palm en soja), suiker, zout, rijsmiddelen (E450, E500), emulgatoren (sojalecithine, mono- en diglyceriden), zuurteregelaar (citroenzuur), kunstmatige smaakstof, meelverbeteraar (synthetische L-cysteïne)",
+    "allergens": [
+      "TARWE",
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan noten (walnoten, hazelnoten, cashewnoten, pecannoten, kokos, amandelen), melk, pinda’s, eieren en sesam bevatten",
+    "kosher": "OU (Orthodox Union) en Badatz Edah HaChareidis",
+    "ean": "7290000131078",
+    "image": "./images/15-malawach-web.jpg",
+    "warning": "",
+    "note": "Bewaren bij -18 °C (Parve). Vegan volgens de verpakking. Na ontdooien niet opnieuw invriezen. Voor consumptie bakken",
+    "reviewStatus": "label-verified",
+    "quantitySource": "Actuele fysieke verpakking; foto 33.jpg",
+    "ingredientsComplete": true,
+    "barcodeSource": "Afgelezen op verpakkingsfoto 34.jpg",
+    "labelSource": {
+      "front": "33.jpg",
+      "back": "34.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "imageSource": {
+      "type": "webshop",
+      "page": "https://kosherfood.it/en/products/kosher-malawach-700-gr",
+      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_MALAWACH.jpg?v=1759095995"
+    },
+    "kosherStatus": "Parve",
+    "veganStatus": "Vegan volgens de voorkant van de verpakking",
+    "ingredientReviewDate": "2026-09-10",
+    "kosherSource": "Eigen verpakkingsfoto’s 33.jpg en 34.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "Shahaf",
+    "name": "Jemenitische Jachnun",
+    "englishName": "",
+    "variant": "6 stuks · 800 g",
+    "category": "Jachnun & Malawach",
+    "ingredients": "witte tarwebloem (gluten), water, plantaardige oliën en vetten (bevat soja), suiker, glucose, zout, melasse, rijsmiddelen (E500, E450), emulgatoren (sojalecithine, E471), zuurteregelaar (citroenzuur), smaak- en geurstoffen, kleurstoffen (karamel, bètacaroteen)",
+    "allergens": [
+      "TARWE",
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan eieren, walnoten, hazelnoten, pecannoten, kokos, amandelen, pinda’s, sesam, melk, rogge, spelt, gerst en haver bevatten. Geproduceerd op een lijn of in een werkomgeving waar ook melkproducten worden gemaakt",
+    "kosher": "Badatz Edah HaChareidis",
+    "ean": "7290006243737",
+    "image": "./images/14-jachnun-web.jpg",
+    "warning": "",
+    "note": "Bewaren bij -18 °C (Parve). Na ontdooien niet opnieuw invriezen. Voor consumptie bakken",
+    "reviewStatus": "label-verified",
+    "quantitySource": "Actuele fysieke verpakking; foto 29.jpg",
+    "ingredientsComplete": true,
+    "barcodeSource": "Afgelezen op verpakkingsfoto 30.jpg",
+    "labelSource": {
+      "front": "29.jpg",
+      "back": "30.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "imageSource": {
+      "type": "webshop",
+      "page": "https://kosherfood.it/en/products/kosher-jachnun-shahaf-6-units-800-gr",
+      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_JACHNUN_SHAHAF_6_UNITS_800_GR..jpg?v=1759096406"
+    },
+    "kosherStatus": "Parve",
+    "veganStatus": "Niet expliciet bevestigd op de verpakking",
+    "ingredientSourceNote": "Vertaald uit het Hebreeuwse etiket op foto 30.",
+    "ingredientReviewDate": "2026-09-10",
+    "kosherSource": "Eigen verpakkingsfoto’s 29.jpg en 30.jpg"
+  },
+  {
     "id": 13,
     "brand": "Hatov",
     "name": "Gebakken Jachnun",
@@ -543,81 +661,42 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Eigen verpakkingsfoto’s 27.jpg en 28.jpg"
   },
   {
-    "id": 14,
-    "brand": "Shahaf",
-    "name": "Jemenitische Jachnun",
+    "id": 17,
+    "brand": "Haddar",
+    "name": "Topping Zonder Zuivel",
     "englishName": "",
-    "variant": "6 stuks · 800 g",
-    "category": "Jachnun & Malawach",
-    "ingredients": "witte tarwebloem (gluten), water, plantaardige oliën en vetten (bevat soja), suiker, glucose, zout, melasse, rijsmiddelen (E500, E450), emulgatoren (sojalecithine, E471), zuurteregelaar (citroenzuur), smaak- en geurstoffen, kleurstoffen (karamel, bètacaroteen)",
+    "variant": "453 g",
+    "category": "Desserts",
+    "ingredients": "water, fructoserijke maïssiroop, geharde plantaardige olie (palm, palmpit, kokos en/of katoenzaad), minder dan 2% van johannesbroodpitmeel, suiker, polysorbaat 60, polyglycerolesters van vetzuren, zout, natriumalginaat, sojalecithine, natriumcitraat, natuurlijke en kunstmatige aroma’s, natuurlijk aroma, kleurstoffen uit kurkuma- en annatto-extracten",
     "allergens": [
-      "TARWE",
       "SOJA"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Kan eieren, walnoten, hazelnoten, pecannoten, kokos, amandelen, pinda’s, sesam, melk, rogge, spelt, gerst en haver bevatten. Geproduceerd op een lijn of in een werkomgeving waar ook melkproducten worden gemaakt",
-    "kosher": "Badatz Edah HaChareidis",
-    "ean": "7290006243737",
-    "image": "./images/14-jachnun-web.jpg",
+    "allergenNote": "Bevat soja",
+    "kosher": "OU (Orthodox Union), CRC Hisachdus Harabonim en Nirbater",
+    "ean": "077028141046",
+    "image": "./images/17-haddar-instacart.jpg",
     "warning": "",
-    "note": "Bewaren bij -18 °C (Parve). Na ontdooien niet opnieuw invriezen. Voor consumptie bakken",
+    "note": "Zonder melk of melkvet volgens de verpakking (Parve)",
     "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 29.jpg",
+    "quantitySource": "Actuele fysieke verpakking; foto 35.jpg",
     "ingredientsComplete": true,
-    "barcodeSource": "Afgelezen op verpakkingsfoto 30.jpg",
+    "barcodeSource": "Kayco fabrikantpagina voor Haddar topping 453 g https://www.kayco.com/product/haddar-16-oz-topping/",
     "labelSource": {
-      "front": "29.jpg",
-      "back": "30.jpg",
+      "front": "35.jpg",
+      "back": "36.jpg",
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
-    "imageSource": {
-      "type": "webshop",
-      "page": "https://kosherfood.it/en/products/kosher-jachnun-shahaf-6-units-800-gr",
-      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_JACHNUN_SHAHAF_6_UNITS_800_GR..jpg?v=1759096406"
-    },
-    "kosherStatus": "Parve",
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
-    "ingredientSourceNote": "Vertaald uit het Hebreeuwse etiket op foto 30.",
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 29.jpg en 30.jpg"
-  },
-  {
-    "id": 15,
-    "brand": "Ariel Bakery & Patisserie",
-    "name": "Malawach",
-    "englishName": "",
-    "variant": "5 stuks · 700 g",
-    "category": "Jachnun & Malawach",
-    "ingredients": "tarwebloem (gluten), water, plantaardige vetten en oliën (palm en soja), suiker, zout, rijsmiddelen (E450, E500), emulgatoren (sojalecithine, mono- en diglyceriden), zuurteregelaar (citroenzuur), kunstmatige smaakstof, meelverbeteraar (synthetische L-cysteïne)",
-    "allergens": [
-      "TARWE",
-      "SOJA"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Kan noten (walnoten, hazelnoten, cashewnoten, pecannoten, kokos, amandelen), melk, pinda’s, eieren en sesam bevatten",
-    "kosher": "OU (Orthodox Union) en Badatz Edah HaChareidis",
-    "ean": "7290000131078",
-    "image": "./images/15-malawach-web.jpg",
-    "warning": "",
-    "note": "Bewaren bij -18 °C (Parve). Vegan volgens de verpakking. Na ontdooien niet opnieuw invriezen. Voor consumptie bakken",
-    "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 33.jpg",
-    "ingredientsComplete": true,
-    "barcodeSource": "Afgelezen op verpakkingsfoto 34.jpg",
-    "labelSource": {
-      "front": "33.jpg",
-      "back": "34.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
-    },
+    "kosherStatus": "Parve",
     "imageSource": {
       "type": "webshop",
-      "page": "https://kosherfood.it/en/products/kosher-malawach-700-gr",
-      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_MALAWACH.jpg?v=1759095995"
+      "page": "https://www.instacart.ca/products/20063528-haddar-frozen-non-dairy-topping-16-oz",
+      "url": "https://www.instacart.com/image-server/1864x1864/www.instacart.com/assets/domains/product-image/file/large_26784af7-a472-4769-a842-6808a33b9403.jpg",
+      "note": "Originele internetpackshot van de gele Parve-verpakking, 453 g; geen AI."
     },
-    "kosherStatus": "Parve",
-    "veganStatus": "Vegan volgens de voorkant van de verpakking",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 33.jpg en 34.jpg"
+    "kosherSource": "Kayco vermeldt OU, CRC en Hisachdus, Nirbater, OU bij dit product. https://www.kayco.com/product/haddar-16-oz-topping/"
   },
   {
     "id": 16,
@@ -656,44 +735,6 @@ window.KPI_PRODUCTS = [
     },
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 38.jpg en 37.jpg"
-  },
-  {
-    "id": 17,
-    "brand": "Haddar",
-    "name": "Topping Zonder Zuivel",
-    "englishName": "",
-    "variant": "453 g",
-    "category": "Desserts",
-    "ingredients": "water, fructoserijke maïssiroop, geharde plantaardige olie (palm, palmpit, kokos en/of katoenzaad), minder dan 2% van johannesbroodpitmeel, suiker, polysorbaat 60, polyglycerolesters van vetzuren, zout, natriumalginaat, sojalecithine, natriumcitraat, natuurlijke en kunstmatige aroma’s, natuurlijk aroma, kleurstoffen uit kurkuma- en annatto-extracten",
-    "allergens": [
-      "SOJA"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Bevat soja",
-    "kosher": "OU (Orthodox Union), CRC Hisachdus Harabonim en Nirbater",
-    "ean": "077028141046",
-    "image": "./images/17-haddar-instacart.jpg",
-    "warning": "",
-    "note": "Zonder melk of melkvet volgens de verpakking (Parve)",
-    "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 35.jpg",
-    "ingredientsComplete": true,
-    "barcodeSource": "Kayco fabrikantpagina voor Haddar topping 453 g https://www.kayco.com/product/haddar-16-oz-topping/",
-    "labelSource": {
-      "front": "35.jpg",
-      "back": "36.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
-    },
-    "veganStatus": "Niet expliciet bevestigd op de verpakking",
-    "kosherStatus": "Parve",
-    "imageSource": {
-      "type": "webshop",
-      "page": "https://www.instacart.ca/products/20063528-haddar-frozen-non-dairy-topping-16-oz",
-      "url": "https://www.instacart.com/image-server/1864x1864/www.instacart.com/assets/domains/product-image/file/large_26784af7-a472-4769-a842-6808a33b9403.jpg",
-      "note": "Originele internetpackshot van de gele Parve-verpakking, 453 g; geen AI."
-    },
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Kayco vermeldt OU, CRC en Hisachdus, Nirbater, OU bij dit product. https://www.kayco.com/product/haddar-16-oz-topping/"
   },
   {
     "id": 18,
@@ -929,46 +970,5 @@ window.KPI_PRODUCTS = [
     },
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 49.jpg en 50.jpg"
-  },
-  {
-    "id": 24,
-    "brand": "Mount Ridge",
-    "name": "Pizzabagels",
-    "englishName": "",
-    "variant": "12 bagelhelften · 2 × 6 stuks · 646 g",
-    "category": "Pizza",
-    "ingredients": "verrijkte tarwebloem (tarwebloem, niacine, ijzer, thiaminemononitraat, riboflavine, foliumzuur, gemoute gerstebloem), mozzarella en/of muensterkaas (gedeeltelijk afgeroomde en/of volle melk, zuursel, zout, koosjere enzymen), tomaten, appelsap, sojaolie, zout, oregano, knoflook, suiker, gemodificeerd zetmeel, citroenzuur, gist, zwarte peper en specerijen",
-    "allergens": [
-      "TARWE",
-      "GERST",
-      "MELK",
-      "SOJA"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Op het etiket worden tarwe, melk en soja genoemd. Gerst is ook aanwezig als gemoute gerstebloem",
-    "kosher": "OU (Orthodox Union) en CRC",
-    "ean": "607984050221",
-    "image": "./images/24-mount-ridge-web.jpg",
-    "warning": "",
-    "note": "Dairy (Chalav Yisrael)",
-    "reviewStatus": "label-verified-additional-certification-unreadable",
-    "quantitySource": "Voorkantfoto 17.jpg: 12 bagelhelften, 2 × 323 g, totaal 646 g / 22.8 oz",
-    "barcodeSource": "Actuele achterkantfoto 18.jpg",
-    "kosherStatus": "Dairy",
-    "veganStatus": "Niet vegan; bevat melk",
-    "labelSource": {
-      "front": "17.jpg",
-      "back": "18.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
-    },
-    "imageSource": {
-      "type": "webshop",
-      "page": "https://shop.moishas.com/",
-      "url": "https://d226b0iufwcjmj.cloudfront.net/product-images/global/8325323/12659624/large.jpg",
-      "note": "Originele packshot: 12 bagelhelften, 2 x 323 g, totaal 646 g. Visueel gecontroleerd; 450 aan de zijkant is oventemperatuur, geen gewicht."
-    },
-    "ingredientsComplete": true,
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 17.jpg en 18.jpg"
   }
 ];

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9,
+    "url": "https://elisha.be/en/Biscuits/crunch-cookies",
+    "ean": "712963004437",
+    "kosher": "Badatz Eida Hacharedis",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 10,
+    "url": "https://elisha.be/en/Biscuits/goldring-cookies",
+    "ean": "712963004420",
+    "kosher": "Badatz Eida Hacharedis",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 11,
+    "url": "https://elisha.be/en/Biscuits/vanilla-spritz",
+    "ean": "712963004413",
+    "kosher": "Badatz Eida Hacharedis",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 12,
+    "url": "https://elisha.be/en/Biscuits/choco-choco-spritz",
+    "ean": "712963004390",
+    "kosher": "Badatz Eida Hacharedis",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 13,
+    "url": "https://elisha.be/en/Biscuits/chocolate-goldrings-cookies",
+    "ean": "712963004406",
+    "kosher": "Badatz Eida Hacharedis",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 14,
+    "url": "https://elisha.be/en/Biscuits/Double-Chocolate-Chips-Cookies",
+    "ean": "838948002271",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 15,
+    "url": "https://elisha.be/en/Biscuits/Gourmet-Chocolate-Chips-Cookies",
+    "ean": "838948004497",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 16,
+    "url": "https://elisha.be/en/Biscuits/Hazelnuts-Chocolate-Chips-Cookies",
+    "ean": "838948002257",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 17,
+    "url": "https://elisha.be/en/Biscuits/ougalettes",
+    "ean": "838948002172",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 18,
+    "url": "https://elisha.be/en/Biscuits/palmines-raspberry-amp-choco-chips",
+    "ean": "838948012355",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 19,
+    "url": "https://elisha.be/en/Biscuits/Privileges-Palmier",
+    "ean": "838948002165",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 20,
+    "url": "https://elisha.be/en/Biscuits/palmines-nature",
+    "ean": "838948012348",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 21,
+    "url": "https://elisha.be/en/Biscuits/t-choc2",
+    "ean": "194961000404",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 22,
+    "url": "https://elisha.be/en/Biscuits/t-choc",
+    "ean": "194961000398",
+    "kosher": "Rabbi E.L Schneebalg STAR-K. Badatz Beit Yosef",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 23,
+    "url": "https://elisha.be/en/Biscuits/Start-up2",
+    "ean": "838948000567",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  },
+  {
+    "id": 24,
+    "url": "https://elisha.be/en/Biscuits/start-up-honey-amp-hazelnut",
+    "ean": "838948000574",
+    "kosher": "Rabbi E.L Schneebalg STAR-K",
+    "evidence": "Previously downloaded Elisha product page; live refresh returned HTTP 403."
+  }
+]
