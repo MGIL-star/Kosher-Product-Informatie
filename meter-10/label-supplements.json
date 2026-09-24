@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-25",
+  "sourceFolder": "toevoegen koekjes",
+  "barcodes": [
+    {
+      "id": 25,
+      "ean": "7290004267209",
+      "photo": "112f3103-3c47-40c1-b569-72dda123187a.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 26,
+      "ean": "7290004267087",
+      "photo": "a9a57d41-c27f-4a1b-b1fb-1ba542c0261f.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 27,
+      "ean": "7290004267124",
+      "photo": "cf2d63f0-1d14-495d-b05f-34b9f8e7390c.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 28,
+      "ean": "7290004267742",
+      "photo": "e7fdb6be-b075-45bc-ba79-ac251b73b234.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 29,
+      "ean": "7290004267704",
+      "photo": "3a2a610b-1e88-4f55-91c0-8fa0a56dc6d3.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 30,
+      "ean": "7290000436203",
+      "photo": "06aca26c-af82-46ab-b068-4ff3df40e488.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 31,
+      "ean": "7290004267094",
+      "photo": "035766b8-aa0b-4b26-8240-8fe4b9a7e4a2.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 32,
+      "ean": "7290004267698",
+      "photo": "aa2fafb9-a721-4f01-bd93-ff3dd41cacde.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    },
+    {
+      "id": 33,
+      "ean": "047039003251",
+      "photo": "029b6c10-fc26-43a8-8bd7-d7cfc47133f1.jpg",
+      "evidence": "Afgelezen van de barcode op de aangeleverde verpakking; controlecijfer geldig."
+    }
+  ],
+  "osemHechsher": {
+    "id": 2,
+    "photo": "f49e3345-219f-47fa-b6e2-394ec672bad3.jpg",
+    "value": "OU (Parve)"
+  },
+  "tiroshLabel": {
+    "id": 33,
+    "photo": "ebc0a185-812e-424a-82da-3ba676184ffe.jpg",
+    "fields": [
+      "ingredients",
+      "allergens",
+      "mayContain",
+      "kosher"
+    ]
+  }
+}

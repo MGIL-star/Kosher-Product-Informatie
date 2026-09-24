@@ -202,5 +202,12 @@
     "width": 1078,
     "height": 1459,
     "note": "Op uitdrukkelijk verzoek gebruiker gewicht op Kayco-afbeelding gewijzigd naar 180 g met imagegen. Illustratieve bewerkte foto, geen bewijs van verpakking of productgegevens."
+  },
+  "shneiders-chunky": {
+    "localImage": "images/shneiders-chunky-edited.png",
+    "sourcePhoto": "e536eae9-7ee0-403f-8bbe-d1e6fd51e434.jpg",
+    "tool": "Built-in image_gen",
+    "note": "Geen exacte online foto gevonden. Door gebruiker aangeleverde foto vrijstaand gemaakt en rechtgezet met AI. Geen bron voor etiketgegevens.",
+    "prompt": "Extract only the blue and gold Shneider’s CHUNKY Cookies front package. Remove hand and store background, straighten perspective, white background. Preserve original logo, CHUNKY Cookies text, two cookies, colors and proportions. Do not invent lettering; retain small print softly photographic."
   }
 }

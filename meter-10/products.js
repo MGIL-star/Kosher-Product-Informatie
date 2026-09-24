@@ -58,11 +58,12 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "kosher": null,
+    "kosher": "OU (Parve)",
     "image": "images/osem-classic-250-official.jpg",
     "sourcePhotos": [
       "3.jpg",
-      "4.jpg"
+      "4.jpg",
+      "f49e3345-219f-47fa-b6e2-394ec672bad3.jpg"
     ],
     "productInfo": {
       "Inhoud": "250 g"
@@ -90,7 +91,8 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 2.54627539503386
     },
-    "barcodeSource": "Door gebruiker opgegeven"
+    "barcodeSource": "Door gebruiker opgegeven",
+    "kosherSource": "OU-logo en PARVE zichtbaar op f49e3345-219f-47fa-b6e2-394ec672bad3.jpg"
   },
   {
     "id": 33,
@@ -98,18 +100,23 @@ window.KPI_PRODUCTS = [
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "175 g",
-    "ean": null,
-    "ingredients": null,
-    "allergens": null,
-    "mayContain": null,
-    "kosher": "OU (Parve)",
+    "ean": "047039003251",
+    "ingredients": "Tarwebloem (gluten), laag met chocoladesmaak (30%) (witte suiker, geharde palmolie, cacaopoeder (1,5%), emulgatoren (sojalecithine, E476), vanilline), suikers (witte suiker, isoglucose), plantaardig bakvet, maïszetmeel, rijsmiddelen (ammoniumbicarbonaat, natriumbicarbonaat, dinatriumdifosfaat), zout, emulgator (sojalecithine), kunstmatig aroma, meelverbeteraar (natriummetabisulfiet), antioxidant (rozemarijnextract).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja",
+      "Sulfieten"
+    ],
+    "mayContain": "Sesam.",
+    "kosher": "OU, Rabbinaat Nof HaGalil (Parve)",
     "image": "images/hadar-tirosh-half-omhulde-biscuitjes-175g.png",
     "sourcePhotos": [
-      "codex-clipboard-530d807d-bfee-4c9e-84d9-d69b65e2df30.png"
+      "codex-clipboard-530d807d-bfee-4c9e-84d9-d69b65e2df30.png",
+      "029b6c10-fc26-43a8-8bd7-d7cfc47133f1.jpg",
+      "ebc0a185-812e-424a-82da-3ba676184ffe.jpg"
     ],
     "productInfo": {
-      "Inhoud": "175 g",
-      "Status": "Ingrediënten en allergenen volgen."
+      "Inhoud": "175 g"
     },
     "imagePresentation": {
       "corners": [
@@ -132,7 +139,9 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 2.380952380952381
     },
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "OU eerder door gebruiker bevestigd; Rabbinaat Nof HaGalil en Parve vermeld op ebc0a185-812e-424a-82da-3ba676184ffe.jpg.",
+    "barcodeSource": "Aangeleverde verpakkingsfoto: 029b6c10-fc26-43a8-8bd7-d7cfc47133f1.jpg",
+    "ingredientsSource": "Engelse ingrediënten- en allergenenverklaring op ebc0a185-812e-424a-82da-3ba676184ffe.jpg, vertaald naar het Nederlands."
   },
   {
     "id": 3,
@@ -790,6 +799,57 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Door gebruiker bevestigd"
   },
   {
+    "id": 34,
+    "name": "Koekjes met 25% chocolade",
+    "brand": "Shneider’s",
+    "category": "Koekjes",
+    "variant": "150 g",
+    "ean": "194961005096",
+    "ingredients": "Suiker, tarwebloem, plantaardige oliën (palm, zonnebloem), cacaomassa, haverbloem, glucosestroop, cacaoboter, rijsmiddelen (E450, E500), zout, natuurlijk aroma, emulgator (lecithinen (soja)).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Haver (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Andere glutenbevattende granen, noten en ei.",
+    "kosher": "STAR-K (Parve)",
+    "image": "images/shneiders-chunky-edited.png",
+    "sourcePhotos": [
+      "e536eae9-7ee0-403f-8bbe-d1e6fd51e434.jpg",
+      "2da55909-e741-448a-ae45-35743168d7d6.jpg",
+      "fd146d3a-a4bb-49ea-ac76-d4e7b333ed23.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "150 g"
+    },
+    "searchName": "Chunky Cookies",
+    "barcodeSource": "Aangeleverde verpakkingsfoto fd146d3a-a4bb-49ea-ac76-d4e7b333ed23.jpg",
+    "ingredientsSource": "Nederlandse ingrediënten op 2da55909-e741-448a-ae45-35743168d7d6.jpg",
+    "kosherSource": "STAR-K-logo en Kosher Parve op fd146d3a-a4bb-49ea-ac76-d4e7b333ed23.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.005,
+          0.11
+        ],
+        [
+          0.995,
+          0.11
+        ],
+        [
+          0.995,
+          0.9
+        ],
+        [
+          0.005,
+          0.9
+        ]
+      ],
+      "aspectRatio": 3.34
+    },
+    "imageEdited": true
+  },
+  {
     "id": 17,
     "name": "Franse vanillekoekjes",
     "brand": "Shneider’s",
@@ -1182,7 +1242,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
-    "ean": null,
+    "ean": "7290004267209",
     "ingredients": "Tarwemeel (gluten), witte suiker, ongehard palmvet, water, vetarm cacaopoeder, zout, aroma’s (vanille, chocolade), zuurteregelaar (E330).",
     "allergens": [
       "Tarwe (gluten)"
@@ -1191,7 +1251,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-coffee-official.jpg",
     "sourcePhotos": [
       "55.jpg",
-      "56.jpg"
+      "56.jpg",
+      "112f3103-3c47-40c1-b569-72dda123187a.jpg"
     ],
     "productInfo": {
       "Inhoud": "200 g"
@@ -1218,7 +1279,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.69
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: 112f3103-3c47-40c1-b569-72dda123187a.jpg"
   },
   {
     "id": 26,
@@ -1226,7 +1288,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
-    "ean": null,
+    "ean": "7290004267087",
     "ingredients": "Tarwemeel, laag met chocoladesmaak (20%) (gehydrogeneerd palmvet, suiker, vetarm cacaopoeder, emulgatoren (sojalecithine, E476), vanillinepoeder), suiker, niet-gehydrogeneerd palmvet, water, zout, rijsmiddelen (E450(i), E500(ii)), vanillearoma, zuurteregelaar (citroenzuur, E330).",
     "allergens": [
       "Tarwe (gluten)",
@@ -1236,7 +1298,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-smiley-official.jpg",
     "sourcePhotos": [
       "57.jpg",
-      "58.jpg"
+      "58.jpg",
+      "a9a57d41-c27f-4a1b-b1fb-1ba542c0261f.jpg"
     ],
     "productInfo": {
       "Inhoud": "200 g"
@@ -1263,7 +1326,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.69
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: a9a57d41-c27f-4a1b-b1fb-1ba542c0261f.jpg"
   },
   {
     "id": 27,
@@ -1271,7 +1335,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
-    "ean": null,
+    "ean": "7290004267124",
     "ingredients": "Tarwemeel, niet-gehydrogeneerd palmvet, crème met chocoladesmaak (20%) (suiker, olie (soja), vetarm cacaopoeder, gemodificeerd aardappelzetmeel (E1442), voedingsvezels, stabilisatoren (E466, E460(i)), palmvet, emulgatoren (E322, E476), aroma’s, conserveermiddel (E202), zuurteregelaar (E270), zout), suiker, water, invertsuikerstroop, rijsmiddel (E500), citroenzuur, maïszetmeel, tarwegluten, vanille-extract, zout.",
     "allergens": [
       "Tarwe (gluten)",
@@ -1281,7 +1345,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-filled-benedikts.jpg",
     "sourcePhotos": [
       "59.jpg",
-      "60.jpg"
+      "60.jpg",
+      "cf2d63f0-1d14-495d-b05f-34b9f8e7390c.jpg"
     ],
     "productInfo": {
       "Inhoud": "200 g"
@@ -1308,7 +1373,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.69
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: cf2d63f0-1d14-495d-b05f-34b9f8e7390c.jpg"
   },
   {
     "id": 28,
@@ -1316,7 +1382,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
-    "ean": null,
+    "ean": "7290004267742",
     "ingredients": "Tarwemeel (gluten), witte suiker, ongehard palmvet, water, vetarm cacaopoeder, zout, rijsmiddelen (E450i, E500ii), aroma’s (vanille, chocolade), zuurteregelaar (E330).",
     "allergens": [
       "Tarwe (gluten)"
@@ -1325,7 +1391,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-circles-official.jpg",
     "sourcePhotos": [
       "61.jpg",
-      "62.jpg"
+      "62.jpg",
+      "e7fdb6be-b075-45bc-ba79-ac251b73b234.jpg"
     ],
     "productInfo": {
       "Inhoud": "180 g"
@@ -1352,7 +1419,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.69
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: e7fdb6be-b075-45bc-ba79-ac251b73b234.jpg"
   },
   {
     "id": 29,
@@ -1360,7 +1428,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
-    "ean": null,
+    "ean": "7290004267704",
     "ingredients": "Tarwebloem, suiker, niet-gehydrogeneerd palmvet, laag met chocoladesmaak (20%) (suiker, plantaardig vet, cacaopoeder, emulgatoren (sojalecithine, E476), aroma’s, zout), water, invertsuikerstroop, maïszetmeel, emulgator (sojalecithine), bakpoeder (rijsmiddelen (E450, E500(ii))), zout, vanille-extract.",
     "allergens": [
       "Tarwe (gluten)",
@@ -1370,7 +1438,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-rings-official.jpg",
     "sourcePhotos": [
       "63.jpg",
-      "64.jpg"
+      "64.jpg",
+      "3a2a610b-1e88-4f55-91c0-8fa0a56dc6d3.jpg"
     ],
     "productInfo": {
       "Inhoud": "180 g"
@@ -1397,7 +1466,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6669950738916256
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: 3a2a610b-1e88-4f55-91c0-8fa0a56dc6d3.jpg"
   },
   {
     "id": 30,
@@ -1405,7 +1475,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
-    "ean": null,
+    "ean": "7290000436203",
     "ingredients": "Tarwemeel, niet-gehydrogeneerd palmvet, suiker, chocoladestukjes (11,6%) (bevat emulgator (sojalecithine)), water, zout, rijsmiddelen (E450(i), E500(ii)), vanillearoma, zuurteregelaar (E330).",
     "allergens": [
       "Tarwe (gluten)",
@@ -1415,7 +1485,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-chips-official.jpg",
     "sourcePhotos": [
       "65.jpg",
-      "66.jpg"
+      "66.jpg",
+      "06aca26c-af82-46ab-b068-4ff3df40e488.jpg"
     ],
     "productInfo": {
       "Inhoud": "200 g"
@@ -1442,7 +1513,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.69
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: 06aca26c-af82-46ab-b068-4ff3df40e488.jpg"
   },
   {
     "id": 31,
@@ -1450,7 +1522,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
-    "ean": null,
+    "ean": "7290004267094",
     "ingredients": "Tarwebloem, niet-gehydrogeneerd palmvet, suiker, water, chocoladestukjes (suiker, cacaomassa (cacaopoeder (21,7%), cacaoboter (26,6%)), emulgator (sojalecithine)), vetarm cacaopoeder, bruine suiker, maïszetmeel, zout, rijsmiddel (E500), vanille-extract.",
     "allergens": [
       "Tarwe (gluten)",
@@ -1460,7 +1532,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-bites-official.jpg",
     "sourcePhotos": [
       "67.jpg",
-      "68.jpg"
+      "68.jpg",
+      "035766b8-aa0b-4b26-8240-8fe4b9a7e4a2.jpg"
     ],
     "productInfo": {
       "Inhoud": "180 g"
@@ -1487,7 +1560,8 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6676528599605522
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: 035766b8-aa0b-4b26-8240-8fe4b9a7e4a2.jpg"
   },
   {
     "id": 32,
@@ -1495,7 +1569,7 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
-    "ean": null,
+    "ean": "7290004267698",
     "ingredients": "Tarwemeel, niet-gehydrogeneerd palmvet, zoete en zoute pretzelvulling (18%) (suiker, gehard plantaardig palmvet, pretzels (24%) (tarwemeel, plantaardig vet, suiker, gerstemout, zout, rijsmiddel (E500(i)), emulgator (E322), antioxidant (rozemarijnextract), zuurteregelaar (E524)), rijstmeel, emulgator (E322), zout), poedersuiker, water, invertsuiker, maïsmeel, bakpoeder (rijsmiddelen (E450(i), E500(ii))), vanillearoma, zout.",
     "allergens": [
       "Tarwe (gluten)",
@@ -1506,7 +1580,8 @@ window.KPI_PRODUCTS = [
     "image": "images/berman-pretzel-official.jpg",
     "sourcePhotos": [
       "69.jpg",
-      "70.jpg"
+      "70.jpg",
+      "aa2fafb9-a721-4f01-bd93-ff3dd41cacde.jpg"
     ],
     "productInfo": {
       "Inhoud": "180 g"
@@ -1533,6 +1608,7 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6676528599605522
-    }
+    },
+    "barcodeSource": "Aangeleverde verpakkingsfoto: aa2fafb9-a721-4f01-bd93-ff3dd41cacde.jpg"
   }
 ];
