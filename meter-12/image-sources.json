@@ -1,0 +1,1724 @@
+{
+  "1.jpg": {
+    "localImage": "images/product-1-web.jpg",
+    "page": "https://carmit.com/en/product/5-pack-rafaels-nuts-cranberries-snack-bars/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/09/7290018333952.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.075,
+          0.18
+        ],
+        [
+          0.82125,
+          0.135
+        ],
+        [
+          0.82125,
+          0.87125
+        ],
+        [
+          0.0725,
+          0.81625
+        ]
+      ],
+      "aspectRatio": 1.05
+    }
+  },
+  "3.jpg": {
+    "localImage": "images/product-3-web.jpg",
+    "page": "https://carmit.com/en/product/5-pack-rafaels-coconut-cashews-snack-bars/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/10/Coconut-cashew-granola-snack.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.06191588785046729,
+          0.13200934579439252
+        ],
+        [
+          0.9042056074766355,
+          0.0794392523364486
+        ],
+        [
+          0.905373831775701,
+          0.9077102803738317
+        ],
+        [
+          0.05841121495327103,
+          0.8469626168224299
+        ]
+      ],
+      "aspectRatio": 1.05
+    }
+  },
+  "5.jpg": {
+    "localImage": "images/product-5-web.jpg",
+    "page": "https://carmit.com/en/product/5-pack-rafaels-pecan-pie-snack-bars/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/09/7290019545545.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.075,
+          0.18
+        ],
+        [
+          0.82125,
+          0.135
+        ],
+        [
+          0.82125,
+          0.87125
+        ],
+        [
+          0.0725,
+          0.81625
+        ]
+      ],
+      "aspectRatio": 1.05
+    }
+  },
+  "7.jpg": {
+    "localImage": "images/product-7-web.jpg",
+    "page": "https://carmit.com/en/product/5-pack-rafaels-almonds-tahini-snack-bars/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/09/7290018333969.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.075,
+          0.18
+        ],
+        [
+          0.82125,
+          0.135
+        ],
+        [
+          0.82125,
+          0.87125
+        ],
+        [
+          0.0725,
+          0.81625
+        ]
+      ],
+      "aspectRatio": 1.05
+    }
+  },
+  "9.jpg": {
+    "localImage": "images/product-9-web.jpg",
+    "page": "https://carmit.com/en/product/rafaels-granola-crunch-chcocolate-hazelnuts/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/10/Granola-crunchy-with-dark-chocolate-and-hazelnuts.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.11448598130841121,
+          0.04439252336448598
+        ],
+        [
+          0.8785046728971962,
+          0.04439252336448598
+        ],
+        [
+          0.8785046728971962,
+          0.9100467289719626
+        ],
+        [
+          0.11448598130841121,
+          0.9100467289719626
+        ]
+      ],
+      "aspectRatio": 0.8825910931174089
+    }
+  },
+  "12.jpg": {
+    "localImage": "images/product-12-web.jpg",
+    "page": "https://carmit.com/en/product/rafaels-granola-crunch-banana-pecan/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/10/Granola-crunchy-with-banana-and-pecan.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.11448598130841121,
+          0.0455607476635514
+        ],
+        [
+          0.8785046728971962,
+          0.0455607476635514
+        ],
+        [
+          0.8785046728971962,
+          0.9100467289719626
+        ],
+        [
+          0.11448598130841121,
+          0.9100467289719626
+        ]
+      ],
+      "aspectRatio": 0.8837837837837837
+    }
+  },
+  "15.jpg": {
+    "localImage": "images/product-15-web.jpg",
+    "page": "https://carmit.com/en/product/rafaels-granola-crunch-cashews-cranberries/",
+    "imageUrl": "https://carmit.com/wp-content/uploads/2024/09/7290019644477.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.11375,
+          0.045
+        ],
+        [
+          0.8775,
+          0.045
+        ],
+        [
+          0.8775,
+          0.9225
+        ],
+        [
+          0.11375,
+          0.9225
+        ]
+      ],
+      "aspectRatio": 0.8703703703703703
+    }
+  },
+  "18.jpg": {
+    "localImage": "images/product-18-web.jpg",
+    "page": "https://elisha.be/en/baking-mix-cr%C3%AApes-shaker",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/11157-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.295,
+          0.01
+        ],
+        [
+          0.695,
+          0.01
+        ],
+        [
+          0.695,
+          0.9983333333333333
+        ],
+        [
+          0.295,
+          0.9983333333333333
+        ]
+      ],
+      "aspectRatio": 0.40472175379426645
+    }
+  },
+  "20.jpg": {
+    "localImage": "images/product-20-web.jpg",
+    "page": "https://elisha.be/en/Groceries/baking-mix-pastry-cream",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/11155-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.225,
+          0.018333333333333333
+        ],
+        [
+          0.855,
+          0.06
+        ],
+        [
+          0.8616666666666667,
+          0.9583333333333334
+        ],
+        [
+          0.225,
+          0.9816666666666667
+        ]
+      ],
+      "aspectRatio": 0.72
+    }
+  },
+  "23.jpg": {
+    "localImage": "images/product-23-web.jpg",
+    "page": "https://elisha.be/en/Groceries/baking-mix-muffins-jck22",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/11156-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.225,
+          0.018333333333333333
+        ],
+        [
+          0.855,
+          0.06
+        ],
+        [
+          0.8616666666666667,
+          0.9583333333333334
+        ],
+        [
+          0.225,
+          0.9816666666666667
+        ]
+      ],
+      "aspectRatio": 0.72
+    }
+  },
+  "26.jpg": {
+    "localImage": "images/product-26-web.jpg",
+    "page": "https://elisha.be/en/Groceries/baking-mix-cr%C3%A8me-br%C3%BBl%C3%A9e",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/11154-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.225,
+          0.018333333333333333
+        ],
+        [
+          0.855,
+          0.06
+        ],
+        [
+          0.8616666666666667,
+          0.9583333333333334
+        ],
+        [
+          0.225,
+          0.9816666666666667
+        ]
+      ],
+      "aspectRatio": 0.72
+    }
+  },
+  "118.jpg": {
+    "localImage": "images/product-118-web.png",
+    "page": "https://elisha.be/en/WOW/chocolate-coated-balls",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/10555-600x600.png",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.14833333333333334,
+          0.013333333333333334
+        ],
+        [
+          0.85,
+          0.013333333333333334
+        ],
+        [
+          0.85,
+          1
+        ],
+        [
+          0.14833333333333334,
+          1
+        ]
+      ],
+      "aspectRatio": 0.7111486486486487
+    }
+  },
+  "121.jpg": {
+    "localImage": "images/product-121-edited.png",
+    "page": "https://elisha.be/en/WOW/chocolate-coated-cornflakes",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/10552-600x600.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "images/product-121-web.png",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.13556618819776714,
+          0.005582137161084529
+        ],
+        [
+          0.8644338118022329,
+          0.005582137161084529
+        ],
+        [
+          0.8644338118022329,
+          0.992822966507177
+        ],
+        [
+          0.13556618819776714,
+          0.992822966507177
+        ]
+      ],
+      "aspectRatio": 0.7382875605815832
+    }
+  },
+  "123.jpg": {
+    "localImage": "images/product-123-edited.png",
+    "page": "https://elisha.be/en/WOW/chocolate-coated-cookies",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/10554-600x600.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "images/product-123-web.png",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.12440191387559808,
+          0.005582137161084529
+        ],
+        [
+          0.8763955342902712,
+          0.005582137161084529
+        ],
+        [
+          0.8763955342902712,
+          0.992822966507177
+        ],
+        [
+          0.12440191387559808,
+          0.992822966507177
+        ]
+      ],
+      "aspectRatio": 0.7617124394184168
+    }
+  },
+  "125.jpg": {
+    "localImage": "images/product-125-edited.png",
+    "page": "https://elisha.be/en/WOW/chocolate-coated-mix-balls",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/10556-600x600.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "images/product-125-web.png",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.1419457735247209,
+          0.007177033492822967
+        ],
+        [
+          0.8580542264752791,
+          0.007177033492822967
+        ],
+        [
+          0.8580542264752791,
+          0.9920255183413078
+        ],
+        [
+          0.1419457735247209,
+          0.9920255183413078
+        ]
+      ],
+      "aspectRatio": 0.7271255060728745
+    }
+  },
+  "127.jpg": {
+    "localImage": "images/product-127-edited.png",
+    "page": "https://elisha.be/en/chocolate-coated-wafer-rolls",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202026/10553-600x600.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "images/product-127-web.png",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.1419457735247209,
+          0.006379585326953748
+        ],
+        [
+          0.8580542264752791,
+          0.006379585326953748
+        ],
+        [
+          0.8580542264752791,
+          0.9912280701754386
+        ],
+        [
+          0.1419457735247209,
+          0.9912280701754386
+        ]
+      ],
+      "aspectRatio": 0.7271255060728745
+    }
+  },
+  "130.jpg": {
+    "localImage": "images/product-130-web.jpg",
+    "page": "https://elisha.be/en/chocolates/elisha-cocoa-powder",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202018/cocooa-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.30333333333333334,
+          0.006666666666666667
+        ],
+        [
+          0.8216666666666667,
+          0.045
+        ],
+        [
+          0.8216666666666667,
+          0.8966666666666666
+        ],
+        [
+          0.30666666666666664,
+          0.9833333333333333
+        ]
+      ],
+      "aspectRatio": 0.66
+    }
+  },
+  "132.jpg": {
+    "localImage": "images/product-132-web.jpg",
+    "page": "https://elisha.be/en/chocolates/Baking-Chocolate",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%202020/10131-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.041666666666666664,
+          0.3433333333333333
+        ],
+        [
+          0.965,
+          0.3433333333333333
+        ],
+        [
+          0.965,
+          0.6616666666666666
+        ],
+        [
+          0.041666666666666664,
+          0.6616666666666666
+        ]
+      ],
+      "aspectRatio": 2.900523560209424
+    }
+  },
+  "136.jpg": {
+    "localImage": "images/product-136-web.png",
+    "page": "https://elisha.be/en/shneiders/whipping-cream?page=9",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%20%202021/TVL%2002-600x600.png",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.205,
+          0.07333333333333333
+        ],
+        [
+          0.67,
+          0.05
+        ],
+        [
+          0.6633333333333333,
+          0.9383333333333334
+        ],
+        [
+          0.215,
+          0.8983333333333333
+        ]
+      ],
+      "aspectRatio": 0.56
+    }
+  },
+  "139.jpg": {
+    "localImage": "images/product-139-web.png",
+    "page": "https://elisha.be/en/shneiders/whipping-cream-spray?page=10",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%20%202021/TVL%2003-600x600.png",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.375,
+          0.25833333333333336
+        ],
+        [
+          0.6266666666666667,
+          0.25833333333333336
+        ],
+        [
+          0.6266666666666667,
+          0.9683333333333334
+        ],
+        [
+          0.375,
+          0.9683333333333334
+        ]
+      ],
+      "aspectRatio": 0.3544600938967136
+    }
+  },
+  "148.jpg": {
+    "localImage": "images/product-148-web.jpg",
+    "page": "https://elisha.be/en/chocolates/chocolate-squares",
+    "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/06-2017/nint_chocolate-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.01,
+          0.30666666666666664
+        ],
+        [
+          0.9883333333333333,
+          0.25666666666666665
+        ],
+        [
+          0.9866666666666667,
+          0.6833333333333333
+        ],
+        [
+          0.058333333333333334,
+          0.79
+        ]
+      ],
+      "aspectRatio": 2.08
+    }
+  },
+  "151.jpg": {
+    "localImage": "images/product-151-web.jpg",
+    "page": "https://elisha.be/en/chocolates/chocolate-squares2",
+    "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/06-2017/orange_chocolate-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.011666666666666667,
+          0.23
+        ],
+        [
+          0.8816666666666667,
+          0.305
+        ],
+        [
+          0.8416666666666667,
+          0.81
+        ],
+        [
+          0.03333333333333333,
+          0.65
+        ]
+      ],
+      "aspectRatio": 2.08
+    }
+  },
+  "154.jpg": {
+    "localImage": "images/product-154-web.jpg",
+    "page": "https://elisha.be/en/chocolates/chocolate-squares-raspberry",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%202019/Lampone%20Gross-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.07666666666666666,
+          0.27666666666666667
+        ],
+        [
+          0.835,
+          0.32
+        ],
+        [
+          0.8166666666666667,
+          0.76
+        ],
+        [
+          0.08333333333333333,
+          0.655
+        ]
+      ],
+      "aspectRatio": 2.08
+    }
+  },
+  "70.jpg": {
+    "localImage": "images/product-70-web.png",
+    "page": "https://israelifooddirect.com/product/blanc-white-sugar-free-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-Blanc-White-Sugar-Free-100G.png",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.28,
+          0.05375
+        ],
+        [
+          0.70125,
+          0.035
+        ],
+        [
+          0.73875,
+          0.915
+        ],
+        [
+          0.335,
+          0.96875
+        ]
+      ],
+      "aspectRatio": 0.47
+    }
+  },
+  "72.jpg": {
+    "localImage": "images/product-72-edited.png",
+    "page": "https://israelifooddirect.com/product/rosemarie-harmony-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-Rosemarie-Harmony-100G.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.022328548644338118,
+          0.2527910685805423
+        ],
+        [
+          0.9776714513556619,
+          0.2527910685805423
+        ],
+        [
+          0.9776714513556619,
+          0.7575757575757576
+        ],
+        [
+          0.022328548644338118,
+          0.7575757575757576
+        ]
+      ],
+      "aspectRatio": 1.8925750394944707
+    }
+  },
+  "74.jpg": {
+    "localImage": "images/product-74-final.png",
+    "page": "https://israelifooddirect.com/product/rosemarie-cappuccino-mocha-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-Rosemarie-Cappuccino-Mocha-100G.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.013556618819776715,
+          0.26156299840510366
+        ],
+        [
+          0.9872408293460925,
+          0.26156299840510366
+        ],
+        [
+          0.9872408293460925,
+          0.7607655502392344
+        ],
+        [
+          0.013556618819776715,
+          0.7607655502392344
+        ]
+      ],
+      "aspectRatio": 1.950479233226837
+    }
+  },
+  "77.jpg": {
+    "localImage": "images/product-77-final.png",
+    "page": "https://israelifooddirect.com/product/rosemarie-split-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-Rosemarie-Split-100G.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.012759170653907496,
+          0.2535885167464115
+        ],
+        [
+          0.9864433811802232,
+          0.2535885167464115
+        ],
+        [
+          0.9864433811802232,
+          0.7703349282296651
+        ],
+        [
+          0.012759170653907496,
+          0.7703349282296651
+        ]
+      ],
+      "aspectRatio": 1.8842592592592593
+    }
+  },
+  "82.jpg": {
+    "localImage": "images/product-82-web.png",
+    "page": "https://israelifooddirect.com/product/white-almond-white-chocolate-almonds-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-White-Almond-White-Chocolate-Almonds-100G.png",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.28,
+          0.05375
+        ],
+        [
+          0.70125,
+          0.035
+        ],
+        [
+          0.73875,
+          0.915
+        ],
+        [
+          0.335,
+          0.96875
+        ]
+      ],
+      "aspectRatio": 0.47
+    }
+  },
+  "84.jpg": {
+    "localImage": "images/product-84-web.png",
+    "page": "https://israelifooddirect.com/product/chocolate-blanc-white-chocolate-no-nuts-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-Chocolate-Blanc-White-Chocolate-No-Nuts-100G.png",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.28,
+          0.05375
+        ],
+        [
+          0.70125,
+          0.035
+        ],
+        [
+          0.73875,
+          0.915
+        ],
+        [
+          0.335,
+          0.96875
+        ]
+      ],
+      "aspectRatio": 0.47
+    }
+  },
+  "88.jpg": {
+    "localImage": "images/product-88-edited.png",
+    "page": "https://israelifooddirect.com/product/72-cocoa-parve-100g/",
+    "imageUrl": "https://israelifooddirect.com/wp-content/uploads/2022/03/products-72-cocoa-Parve-100G.png",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.048723897911832945,
+          0.03561643835616438
+        ],
+        [
+          0.9524361948955916,
+          0.03561643835616438
+        ],
+        [
+          0.9524361948955916,
+          0.9567123287671233
+        ],
+        [
+          0.048723897911832945,
+          0.9567123287671233
+        ]
+      ],
+      "aspectRatio": 0.4634146341463415
+    }
+  },
+  "44.jpg": {
+    "localImage": "images/product-44-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63161",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63161%20Cashew_Cranberry-01KC6VCC1YJ8R1XB804R2W7QG9.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.06770833333333333,
+          0.1702127659574468
+        ],
+        [
+          0.9578125,
+          0.1702127659574468
+        ],
+        [
+          0.9578125,
+          0.8723404255319149
+        ],
+        [
+          0.06770833333333333,
+          0.8723404255319149
+        ]
+      ],
+      "aspectRatio": 3.0463458110516934
+    }
+  },
+  "47.jpg": {
+    "localImage": "images/product-47-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63162",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63162%20Walnuts-01KC6VCC24V8300Q0Q3QH4X2QH.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.06770833333333333,
+          0.1702127659574468
+        ],
+        [
+          0.9578125,
+          0.1702127659574468
+        ],
+        [
+          0.9578125,
+          0.8723404255319149
+        ],
+        [
+          0.06770833333333333,
+          0.8723404255319149
+        ]
+      ],
+      "aspectRatio": 3.0463458110516934
+    }
+  },
+  "50.jpg": {
+    "localImage": "images/product-50-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63165",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63165%20HADMAYA_BANANA-01KC6VCC2H75PA1V2S9CAD2HSW.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.071875,
+          0.1702127659574468
+        ],
+        [
+          0.9536458333333333,
+          0.1702127659574468
+        ],
+        [
+          0.9536458333333333,
+          0.8660826032540676
+        ],
+        [
+          0.071875,
+          0.8660826032540676
+        ]
+      ],
+      "aspectRatio": 3.0449640287769784
+    }
+  },
+  "53.jpg": {
+    "localImage": "images/product-53-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63164",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63164%20Coconut_Hazelnut-01KC6VCC2D7E005HH29WFCN04Z.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.0734375,
+          0.1702127659574468
+        ],
+        [
+          0.9463541666666667,
+          0.1702127659574468
+        ],
+        [
+          0.9463541666666667,
+          0.853566958698373
+        ],
+        [
+          0.0734375,
+          0.853566958698373
+        ]
+      ],
+      "aspectRatio": 3.06959706959707
+    }
+  },
+  "55.jpg": {
+    "localImage": "images/product-55-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63163",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63163%20Peanuts-01KC6VCC28HBS7X1Z26G486GXJ.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.06770833333333333,
+          0.1702127659574468
+        ],
+        [
+          0.9578125,
+          0.1702127659574468
+        ],
+        [
+          0.9578125,
+          0.8723404255319149
+        ],
+        [
+          0.06770833333333333,
+          0.8723404255319149
+        ]
+      ],
+      "aspectRatio": 3.0463458110516934
+    }
+  },
+  "58.jpg": {
+    "localImage": "images/product-58-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63151",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63151%20coconut%20almond-01KFB9237JSG1FQ336AT20QXNW.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18385416666666668,
+          0.21709194005670313
+        ],
+        [
+          0.815625,
+          0.21709194005670313
+        ],
+        [
+          0.815625,
+          0.9323612798703929
+        ],
+        [
+          0.18385416666666668,
+          0.9323612798703929
+        ]
+      ],
+      "aspectRatio": 0.6868629671574179
+    }
+  },
+  "61.jpg": {
+    "localImage": "images/product-61-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63152",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63152%20wildberries-01KFB9237PAKXAPQBAVMHP58MX.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18385416666666668,
+          0.21709194005670313
+        ],
+        [
+          0.815625,
+          0.21709194005670313
+        ],
+        [
+          0.815625,
+          0.9323612798703929
+        ],
+        [
+          0.18385416666666668,
+          0.9323612798703929
+        ]
+      ],
+      "aspectRatio": 0.6868629671574179
+    }
+  },
+  "64.jpg": {
+    "localImage": "images/product-64-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63155",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63155%20Pistachio-01KFB9237WE2M0KVAH3F57VGTS.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18385416666666668,
+          0.21709194005670313
+        ],
+        [
+          0.815625,
+          0.21709194005670313
+        ],
+        [
+          0.815625,
+          0.9323612798703929
+        ],
+        [
+          0.18385416666666668,
+          0.9323612798703929
+        ]
+      ],
+      "aspectRatio": 0.6868629671574179
+    }
+  },
+  "67.jpg": {
+    "localImage": "images/product-67-web.webp",
+    "page": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63153",
+    "imageUrl": "https://www.israelwinkel.nl/_next/image?url=https%3A%2F%2Fisreal-winkel.ams3.digitaloceanspaces.com%2F63153%20Banana-01KFB9237S1E1WYEBGCKS1C0DF.jpg&w=1920&q=75",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18541666666666667,
+          0.21992709599027946
+        ],
+        [
+          0.8151041666666666,
+          0.21992709599027946
+        ],
+        [
+          0.8151041666666666,
+          0.9323612798703929
+        ],
+        [
+          0.18541666666666667,
+          0.9323612798703929
+        ]
+      ],
+      "aspectRatio": 0.6873223422399091
+    }
+  },
+  "134.jpg": {
+    "localImage": "images/product-134-edited.png",
+    "page": "https://elisha.be/en/Marzipan-Chocolate",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202024/10202-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "Gebruikersfoto 134.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.009569377990430622,
+          0.2113237639553429
+        ],
+        [
+          0.981658692185008,
+          0.2113237639553429
+        ],
+        [
+          0.981658692185008,
+          0.861244019138756
+        ],
+        [
+          0.009569377990430622,
+          0.861244019138756
+        ]
+      ],
+      "aspectRatio": 1.4957055214723927
+    }
+  },
+  "135.jpg": {
+    "localImage": "images/product-135-edited.png",
+    "page": "https://elisha.be/en/Elisha/Marzipan-White",
+    "imageUrl": "https://elisha.be/image/cache/catalog/new%20pics%202017/elisha-13%20copy-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontaal naast chocoladevariant, etiket volgens gebruikersfoto135",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.007974481658692184,
+          0.1810207336523126
+        ],
+        [
+          0.992822966507177,
+          0.1810207336523126
+        ],
+        [
+          0.992822966507177,
+          0.8652312599681021
+        ],
+        [
+          0.007974481658692184,
+          0.8652312599681021
+        ]
+      ],
+      "aspectRatio": 1.4393939393939394
+    }
+  },
+  "90.jpg": {
+    "localImage": "images/product-90-edited.png",
+    "page": "https://kosherfood.it/products/cioccolato-kosher-extra-fondente-85-shmerling-100-gr",
+    "imageUrl": "https://kosherfood.it/cdn/shop/files/KOSHER_EXTRA_DARK_85_CHOCOLATE_SHMERLING_100_GR..jpg?v=1788731280",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0
+        ]
+      ],
+      "aspectRatio": 0.49022892238972643
+    }
+  },
+  "29.jpg": {
+    "localImage": "images/product-29-web.jpg",
+    "page": "https://snackfood.delivery/product/osem-instant-pudding-vanilla-flavor-80-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/08/Osem-Instant-Pudding-Vanilla-Flavor-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.15333333333333332,
+          0.09166666666666666
+        ],
+        [
+          0.7533333333333333,
+          0.07166666666666667
+        ],
+        [
+          0.7516666666666667,
+          0.9333333333333333
+        ],
+        [
+          0.15333333333333332,
+          0.875
+        ]
+      ],
+      "aspectRatio": 0.77
+    }
+  },
+  "32.jpg": {
+    "localImage": "images/product-32-web.jpg",
+    "page": "https://snackfood.delivery/product/osem-instant-pudding-french-vanilla-flavor-80-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/08/Osem-Instant-Pudding-French-Vanilla-Flavor-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.155,
+          0.09666666666666666
+        ],
+        [
+          0.7566666666666667,
+          0.08
+        ],
+        [
+          0.7516666666666667,
+          0.9383333333333334
+        ],
+        [
+          0.155,
+          0.8833333333333333
+        ]
+      ],
+      "aspectRatio": 0.77
+    }
+  },
+  "38.jpg": {
+    "localImage": "images/product-38-web.jpg",
+    "page": "https://snackfood.delivery/product/osem-instant-jello-gelatin-strawberry-flavor-85-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/08/Osem-Jello-Strawberry-Flavor-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.175,
+          0.10166666666666667
+        ],
+        [
+          0.76,
+          0.08333333333333333
+        ],
+        [
+          0.7583333333333333,
+          0.9233333333333333
+        ],
+        [
+          0.175,
+          0.865
+        ]
+      ],
+      "aspectRatio": 0.77
+    }
+  },
+  "41.jpg": {
+    "localImage": "images/product-41-web.jpg",
+    "page": "https://snackfood.delivery/product/osem-instant-pudding-milk-cream-flavor-84-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2024/05/Osem-Pudding-Milk-Cream-Flavor-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.17666666666666667,
+          0.095
+        ],
+        [
+          0.7883333333333333,
+          0.075
+        ],
+        [
+          0.7833333333333333,
+          0.9516666666666667
+        ],
+        [
+          0.17666666666666667,
+          0.8916666666666667
+        ]
+      ],
+      "aspectRatio": 0.77
+    }
+  },
+  "79.jpg": {
+    "localImage": "images/product-79-web.jpg",
+    "page": "https://snackfood.delivery/product/schmerlings-swiss-ice-coffee-chocolate-bar-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/10/Schmerlings-Swiss-Ice-Coffee-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.27666666666666667,
+          0.075
+        ],
+        [
+          0.715,
+          0.075
+        ],
+        [
+          0.715,
+          0.9116666666666666
+        ],
+        [
+          0.27666666666666667,
+          0.9116666666666666
+        ]
+      ],
+      "aspectRatio": 0.5239043824701195
+    }
+  },
+  "35.jpg": {
+    "localImage": "images/product-35-edited.png",
+    "page": "https://www.osem-nestleusa.com/osem-soups-mixes/chocolate-pudding-33-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/styles/product_full_590x390/public/2025-01/chocolate_pudding_0.png?h=ef78be2b&itok=0iT9fA_K",
+    "retrieved": "2026-09-24",
+    "originalPhoto": "Gebruikersfoto 35.jpg",
+    "imageEdited": true,
+    "editMethod": "ImageGen: vrijstaand frontaal, oorspronkelijk ontwerp en etiket behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.038181818181818185,
+          0.03918824352694192
+        ],
+        [
+          0.9618181818181818,
+          0.03918824352694192
+        ],
+        [
+          0.9618181818181818,
+          0.9489153254023793
+        ],
+        [
+          0.038181818181818185,
+          0.9489153254023793
+        ]
+      ],
+      "aspectRatio": 0.7815384615384615
+    }
+  },
+  "86.jpg": {
+    "localImage": "images/product-86-web.jpg",
+    "page": "https://snackfood.delivery/product/schmerlings-swiss-milk-chocolate-bar-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/10/Schmerlings-Swiss-Milk-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.28833333333333333,
+          0.045
+        ],
+        [
+          0.705,
+          0.045
+        ],
+        [
+          0.705,
+          0.89
+        ],
+        [
+          0.28833333333333333,
+          0.89
+        ]
+      ],
+      "aspectRatio": 0.4930966469428008
+    }
+  },
+  "92.jpg": {
+    "localImage": "images/product-92-web.jpg",
+    "page": "https://snackfood.delivery/product/elite-blondi-chocolate-bar-with-cream-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2025/11/Elite-White-Chocolate-Caramel-Bar-Filled-With-Cream-Flavor-600x604.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3283333333333333,
+          0.04470198675496689
+        ],
+        [
+          0.6933333333333334,
+          0.04470198675496689
+        ],
+        [
+          0.6933333333333334,
+          0.9470198675496688
+        ],
+        [
+          0.3283333333333333,
+          0.9470198675496688
+        ]
+      ],
+      "aspectRatio": 0.4018348623853211
+    }
+  },
+  "95.jpg": {
+    "localImage": "images/product-95-web.jpg",
+    "page": "https://snackfood.delivery/product/elite-blondi-chocolate-bar-with-hazelnut-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2025/11/Elite-White-Chocolate-Caramel-Bar-Filled-With-Hazelnut-Cream-600x604.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.34,
+          0.048013245033112585
+        ],
+        [
+          0.705,
+          0.048013245033112585
+        ],
+        [
+          0.705,
+          0.9503311258278145
+        ],
+        [
+          0.34,
+          0.9503311258278145
+        ]
+      ],
+      "aspectRatio": 0.4018348623853211
+    }
+  },
+  "98.jpg": {
+    "localImage": "images/product-98-edited.png",
+    "page": "https://snackfood.delivery/product/elite-milk-chocolate-bar-with-nougat-cream-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2025/11/Elite-Milk-Chocolate-Bar-Filled-With-Nougat-Cream-600x604.jpg",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: strakke frontale verpakking zoals witte chocolade met koekjes",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.004557291666666667,
+          0.208984375
+        ],
+        [
+          0.9947916666666666,
+          0.208984375
+        ],
+        [
+          0.9947916666666666,
+          0.83203125
+        ],
+        [
+          0.004557291666666667,
+          0.83203125
+        ]
+      ],
+      "aspectRatio": 2.384012539184953
+    }
+  },
+  "100.jpg": {
+    "localImage": "images/product-100-edited.png",
+    "page": "https://snackfood.delivery/product/elite-milk-chocolate-bar-filled-with-milk-cream-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2025/11/Elite-Milk-Chocolate-Bar-Filled-With-Milk-Cream-600x604.jpg",
+    "retrieved": "2026-09-24",
+    "imageEdited": true,
+    "editMethod": "ImageGen: strakke frontale verpakking zoals witte chocolade met koekjes",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.00390625,
+          0.205078125
+        ],
+        [
+          0.9954427083333334,
+          0.205078125
+        ],
+        [
+          0.9954427083333334,
+          0.8251953125
+        ],
+        [
+          0.00390625,
+          0.8251953125
+        ]
+      ],
+      "aspectRatio": 2.398425196850394
+    }
+  },
+  "104.jpg": {
+    "localImage": "images/product-104-user.png",
+    "originalPhoto": "Door gebruiker aangeleverde PesekZman Classic met Latijnse tekst",
+    "imagePresentation": {
+      "corners": [
+        [
+          0,
+          0.377
+        ],
+        [
+          1,
+          0.377
+        ],
+        [
+          1,
+          0.623
+        ],
+        [
+          0,
+          0.623
+        ]
+      ],
+      "aspectRatio": 4.065
+    }
+  },
+  "110.jpg": {
+    "localImage": "images/product-110-web.jpg",
+    "page": "https://snackfood.delivery/product/elite-taami-chocolate-bar-40-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/08/Elite-Taami-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.05333333333333334,
+          0.32
+        ],
+        [
+          0.935,
+          0.32
+        ],
+        [
+          0.935,
+          0.58
+        ],
+        [
+          0.05333333333333334,
+          0.58
+        ]
+      ],
+      "aspectRatio": 3.391025641025641
+    }
+  },
+  "113.jpg": {
+    "localImage": "images/product-113-web.jpg",
+    "page": "https://snackfood.delivery/product/elite-mekupelet-chocolate-bar-25-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2023/08/Elite-Mekupelet-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.06833333333333333,
+          0.34833333333333333
+        ],
+        [
+          0.9216666666666666,
+          0.34833333333333333
+        ],
+        [
+          0.9216666666666666,
+          0.5883333333333334
+        ],
+        [
+          0.06833333333333333,
+          0.5883333333333334
+        ]
+      ],
+      "aspectRatio": 3.5555555555555554
+    }
+  },
+  "116.jpg": {
+    "localImage": "images/product-116-web.jpg",
+    "page": "https://snackfood.delivery/product/elite-crunch-chocolate-bar-biscuit-filled-with-hazelnut-cream-100-grams-from-israel-kosher-certified/",
+    "imageUrl": "https://snackfood.delivery/wp-content/uploads/2025/08/Elite-Crunch-Chocolate-Bar-Biscuit-Filled-With-Hazelnut-Cream-600x604.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.13333333333333333,
+          0.2119205298013245
+        ],
+        [
+          0.8983333333333333,
+          0.2119205298013245
+        ],
+        [
+          0.8983333333333333,
+          0.8195364238410596
+        ],
+        [
+          0.13333333333333333,
+          0.8195364238410596
+        ]
+      ],
+      "aspectRatio": 1.2506811989100817
+    }
+  },
+  "144.jpg": {
+    "localImage": "images/product-144-final.png",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "Gebruikersfoto 144.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.07097288676236045,
+          0.06220095693779904
+        ],
+        [
+          0.9338118022328549,
+          0.06220095693779904
+        ],
+        [
+          0.9338118022328549,
+          0.9338118022328549
+        ],
+        [
+          0.07097288676236045,
+          0.9338118022328549
+        ]
+      ],
+      "aspectRatio": 0.989935956084172
+    }
+  },
+  "146.jpg": {
+    "localImage": "images/product-146-edited.png",
+    "imageEdited": true,
+    "editMethod": "ImageGen: frontale productfoto, witte achtergrond, oorspronkelijke variant behouden",
+    "originalPhoto": "Gebruikersfoto 146.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.06618819776714513,
+          0.06698564593301436
+        ],
+        [
+          0.937799043062201,
+          0.06698564593301436
+        ],
+        [
+          0.937799043062201,
+          0.9385964912280702
+        ],
+        [
+          0.06618819776714513,
+          0.9385964912280702
+        ]
+      ],
+      "aspectRatio": 1
+    }
+  },
+  "141.jpg": {
+    "localImage": "images/product-141-user.png",
+    "originalPhoto": "Door gebruiker aangeleverde mascarponefoto",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.061197916666666664,
+          0.1796875
+        ],
+        [
+          0.7513020833333334,
+          0.17447916666666666
+        ],
+        [
+          0.7213541666666666,
+          0.8932291666666666
+        ],
+        [
+          0.09505208333333333,
+          0.796875
+        ]
+      ],
+      "aspectRatio": 1
+    }
+  },
+  "106.jpg": {
+    "localImage": "images/product-106-user.png",
+    "originalPhoto": "Door gebruiker aangeleverde Pesek Zman Big Bite 52 g",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.07166666666666667,
+          0.4083333333333333
+        ],
+        [
+          0.93,
+          0.4083333333333333
+        ],
+        [
+          0.93,
+          0.5916666666666667
+        ],
+        [
+          0.07166666666666667,
+          0.5916666666666667
+        ]
+      ],
+      "aspectRatio": 4.681818181818182
+    }
+  },
+  "102.jpg": {
+    "localImage": "images/product-102-edited.png",
+    "originalPhoto": "Gebruikersfoto 102.jpg",
+    "imageEdited": true,
+    "editMethod": "ImageGen: vrijstaand frontaal, oorspronkelijk ontwerp en etiket behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.00390625,
+          0.1552734375
+        ],
+        [
+          0.9954427083333334,
+          0.1552734375
+        ],
+        [
+          0.9954427083333334,
+          0.8505859375
+        ],
+        [
+          0.00390625,
+          0.8505859375
+        ]
+      ],
+      "aspectRatio": 2.139044943820225
+    }
+  },
+  "orange-noir": {
+    "localImage": "images/product-orange-noir-user.png",
+    "originalPhoto": "Door gebruiker aangeleverde Orange Noir",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.30078125,
+          0.1904296875
+        ],
+        [
+          0.6533203125,
+          0.1904296875
+        ],
+        [
+          0.6533203125,
+          0.9072265625
+        ],
+        [
+          0.30078125,
+          0.9072265625
+        ]
+      ],
+      "aspectRatio": 0.49182561307901906
+    }
+  }
+}
