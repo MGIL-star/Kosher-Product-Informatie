@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "brand": "Neviot",
+    "name": "Mineraalwaterdrank met appelsmaak",
+    "category": "Water met smaak",
+    "variant": "1,5 L",
+    "ean": "850335003128",
+    "ingredients": "Mineraalwater, fructose, aroma, zuurteregelaar (citroenzuur), niacine (vitamine B3), pantotheenzuur (vitamine B5), vitamine B6, vitamine B12.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Badatz Edah Hachareidis of Jerusalem (Parve)",
+    "image": "images/neviot-apple-edited.png",
+    "sourcePhotos": [
+      "1.jpg",
+      "2.jpg",
+      "3.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1,5 L"
+    },
+    "imageEdited": true
+  },
+  {
+    "id": 4,
+    "brand": "Neviot",
+    "name": "Mineraalwaterdrank met druivensmaak",
+    "category": "Water met smaak",
+    "variant": "1,5 L",
+    "ean": "850335003159",
+    "ingredients": "Mineraalwater, fructose, aroma, zuurteregelaar (citroenzuur), niacine (vitamine B3), pantotheenzuur (vitamine B5), vitamine B6, vitamine B12.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Badatz Edah Hachareidis of Jerusalem (Parve)",
+    "image": "images/neviot-grape-edited.png",
+    "sourcePhotos": [
+      "4.jpg",
+      "5.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1,5 L"
+    },
+    "imageEdited": true
+  },
+  {
+    "id": 6,
+    "brand": "Neviot",
+    "name": "Mineraalwaterdrank met perziksmaak",
+    "category": "Water met smaak",
+    "variant": "1,5 L",
+    "ean": "850335003111",
+    "ingredients": "Mineraalwater, fructose, aroma, zuurteregelaar (citroenzuur), niacine (vitamine B3), pantotheenzuur (vitamine B5), vitamine B6, vitamine B12.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Badatz Edah Hachareidis of Jerusalem (Parve)",
+    "image": "images/neviot-peach-edited.png",
+    "sourcePhotos": [
+      "6.jpg",
+      "7.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1,5 L"
+    },
+    "imageEdited": true
+  },
+  {
+    "id": 8,
+    "brand": "Elisha",
+    "name": "Helder appelsap",
+    "category": "Vruchtensap",
+    "variant": "1 L",
+    "ean": "5425000532460",
+    "ingredients": "100% appelsap uit geconcentreerd sap.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
+    "image": "images/elisha-apple-user.png",
+    "sourcePhotos": [
+      "8.jpg",
+      "9.jpg",
+      "10.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1 L"
+    }
+  },
+  {
+    "id": 11,
+    "brand": "Elisha",
+    "name": "Troebel appelsap",
+    "category": "Vruchtensap",
+    "variant": "1 L",
+    "ean": "5425000532019",
+    "ingredients": "100% appelsap, niet uit concentraat.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
+    "image": "images/elisha-cloudy-user.png",
+    "sourcePhotos": [
+      "11.jpg",
+      "12.jpg",
+      "13.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1 L"
+    }
+  },
+  {
+    "id": 14,
+    "brand": "Elisha",
+    "name": "Sinaasappelsap",
+    "category": "Vruchtensap",
+    "variant": "1 L",
+    "ean": "5425000531883",
+    "ingredients": "100% sinaasappelsap uit geconcentreerd sap.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
+    "image": "images/elisha-orange-user.png",
+    "sourcePhotos": [
+      "14.jpg",
+      "15.jpg",
+      "16.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1 L"
+    }
+  },
+  {
+    "id": 17,
+    "brand": "Elisha",
+    "name": "Wit druivensap",
+    "category": "Vruchtensap",
+    "variant": "1 L",
+    "ean": "5425000533467",
+    "ingredients": "100% puur druivensap.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
+    "image": "images/elisha-white-user.png",
+    "sourcePhotos": [
+      "17.jpg",
+      "18.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1 L"
+    }
+  },
+  {
+    "id": 19,
+    "brand": "Elisha",
+    "name": "Rood druivensap",
+    "category": "Vruchtensap",
+    "variant": "1 L",
+    "ean": "5425000533894",
+    "ingredients": "100% puur druivensap.",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
+    "image": "images/elisha-red-user.png",
+    "sourcePhotos": [
+      "19.jpg",
+      "20.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "1 L"
+    }
+  }
+]
