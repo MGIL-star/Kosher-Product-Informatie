@@ -200,6 +200,29 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-18"
   },
   {
+    "id": 50,
+    "brand": "Albadya",
+    "name": "Amba",
+    "variant": "380 g",
+    "ean": null,
+    "ingredients": "",
+    "allergens": null,
+    "mayContain": "Sesam, selderij, mosterd en gluten.",
+    "category": "Sauzen",
+    "kosher": null,
+    "image": "images/albadya-amba-clean.png",
+    "productInfo": {
+      "Inhoud": "380 g"
+    },
+    "sourceDocument": "Door gebruiker aangeleverde product- en etiketfoto’s",
+    "labelSources": [
+      "codex-clipboard-a0cf3ef7-2951-4e3e-bf99-738f7f9acd29.jpg",
+      "codex-clipboard-ad495a07-d623-46f8-838e-5d20804dd3ba.jpg",
+      "codex-clipboard-cb943e65-0874-4f87-badc-2efcfe46bb9e.jpg"
+    ],
+    "imageEdited": true
+  },
+  {
     "id": 7,
     "brand": "Keter Harimon",
     "name": "Granaatappelsiroop",
@@ -1665,28 +1688,5 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz",
     "kosherChecked": "2026-09-18",
     "allergenSource": "Door gebruiker bevestigd: geen allergenen."
-  },
-  {
-    "id": 50,
-    "brand": "Albadya",
-    "name": "Amba",
-    "variant": "380 g",
-    "ean": null,
-    "ingredients": "",
-    "allergens": null,
-    "mayContain": "Sesam, selderij, mosterd en gluten.",
-    "category": "Sauzen",
-    "kosher": null,
-    "image": "images/albadya-amba-clean.png",
-    "productInfo": {
-      "Inhoud": "380 g"
-    },
-    "sourceDocument": "Door gebruiker aangeleverde product- en etiketfoto’s",
-    "labelSources": [
-      "codex-clipboard-a0cf3ef7-2951-4e3e-bf99-738f7f9acd29.jpg",
-      "codex-clipboard-ad495a07-d623-46f8-838e-5d20804dd3ba.jpg",
-      "codex-clipboard-cb943e65-0874-4f87-badc-2efcfe46bb9e.jpg"
-    ],
-    "imageEdited": true
   }
 ];
