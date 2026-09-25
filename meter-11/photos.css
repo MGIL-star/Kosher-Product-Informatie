@@ -1,0 +1,26 @@
+/* Equal photo frames with proportional, centered packshots. */
+.product-card .product-visual { height: auto; aspect-ratio: 1; background: #fff; }
+.dialog-product > .product-visual-large { width: min(100%, 360px); height: auto; aspect-ratio: 1; margin-inline: auto; background: #fff; }
+.product-visual[data-photo-id] img { position: absolute; max-width: none; padding: 0; object-fit: contain; transform: none; }
+.product-visual[data-photo-id="1"] img { width: 110.920%; height: 110.920%; left: -7.914%; top: -7.669%; }
+.product-visual[data-photo-id="2"] img { width: 104.803%; height: 104.803%; left: -2.314%; top: -4.498%; }
+.product-visual[data-photo-id="3"] img { width: 98.439%; height: 98.439%; left: -0.236%; top: 2.450%; }
+.product-visual[data-photo-id="4"] img { width: 108.480%; height: 108.480%; left: -6.720%; top: -8.560%; }
+.product-visual[data-photo-id="5"] img { width: 108.108%; height: 108.108%; left: -4.054%; top: -6.937%; }
+.product-visual[data-photo-id="6"] img { width: 59.791%; height: 80.167%; left: 20.104%; top: 9.833%; }
+.product-visual[data-photo-id="7"] img { width: 91.255%; height: 91.255%; left: 3.764%; top: 3.004%; }
+.product-visual[data-photo-id="8"] img { width: 98.969%; height: 98.969%; left: 0.845%; top: 1.588%; }
+.product-visual[data-photo-id="9"] img { width: 88.090%; height: 88.090%; left: 5.146%; top: 4.787%; }
+.product-visual[data-photo-id="10"] img { width: 93.023%; height: 93.023%; left: 3.488%; top: 3.488%; }
+.product-visual[data-photo-id="11"] img { width: 79.086%; height: 80.000%; left: 10.457%; top: 10.000%; }
+.product-visual[data-photo-id="12"] img { width: 86.260%; height: 86.260%; left: 6.905%; top: 6.870%; }
+.product-visual[data-photo-id="13"] img { width: 81.356%; height: 81.356%; left: 9.390%; top: 8.644%; }
+.product-visual[data-photo-id="14"] img { width: 82.616%; height: 82.616%; left: 8.830%; top: 8.348%; }
+.product-visual[data-photo-id="15"] img { width: 81.772%; height: 81.772%; left: 8.978%; top: 9.182%; }
+.product-visual[data-photo-id="16"] img { width: 82.051%; height: 82.051%; left: 8.906%; top: 8.632%; }
+.product-visual[data-photo-id="17"] img { width: 81.911%; height: 81.911%; left: 8.771%; top: 9.044%; }
+.product-visual[data-photo-id="18"] img { width: 82.192%; height: 82.192%; left: 8.562%; top: 8.630%; }
+.product-visual[data-photo-id="19"] img { width: 88.203%; height: 88.203%; left: 5.546%; top: 6.384%; }
+.product-visual[data-photo-id="20"] img { width: 88.203%; height: 88.203%; left: 5.546%; top: 6.384%; }
+.product-visual[data-photo-id="21"] img { width: 88.203%; height: 88.203%; left: 5.546%; top: 6.384%; }
+.product-visual[data-photo-id="22"] img { width: 82.333%; height: 82.333%; left: 8.902%; top: 9.039%; }

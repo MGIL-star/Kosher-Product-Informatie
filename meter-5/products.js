@@ -204,17 +204,18 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "name": "Amba",
     "variant": "380 g",
-    "ean": null,
-    "ingredients": "",
-    "allergens": null,
+    "ean": "8715645279019",
+    "ingredients": "Kraanwater, gemalen fenegriek, zout, citroenzuur, gemalen kurkuma, gemalen chilipepers (premium), xanthaangom, natriumbenzoaat, kaliumbenzoaat.",
+    "allergens": [],
     "mayContain": "Sesam, selderij, mosterd en gluten.",
     "category": "Sauzen",
     "kosher": null,
     "image": "images/albadya-amba-clean.png",
     "productInfo": {
-      "Inhoud": "380 g"
+      "Inhoud": "380 g",
+      "Productie": "Dit product wordt geproduceerd en verpakt in een gecertificeerde omgeving."
     },
-    "sourceDocument": "Door gebruiker aangeleverde product- en etiketfoto’s",
+    "sourceDocument": "Door gebruiker aangeleverde product- en etiketfoto’s; ingrediënten en sporenvermelding aangevuld door gebruiker op 25 september 2026",
     "labelSources": [
       "codex-clipboard-a0cf3ef7-2951-4e3e-bf99-738f7f9acd29.jpg",
       "codex-clipboard-ad495a07-d623-46f8-838e-5d20804dd3ba.jpg",
