@@ -200,7 +200,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "",
-    "kosher": null,
+    "kosher": "Av Beit Din Den Haag (אב״ד האג)",
     "category": "Cake en gebak",
     "image": "images/08.png",
     "imageEdited": true,
@@ -697,8 +697,8 @@ window.KPI_PRODUCTS = [
       "source-labels/235bfd3d-eb60-4c5f-abe4-a00084ce8765.jpg"
     ],
     "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar.",
-    "barcodeNeedsCheck": true,
-    "barcodeNote": "0796554370620 volgens Epicurium en Wholefoodsbox voor de 50 g amandel-appelreep. De barcode op de aangeleverde sticker wijkt af; controle van de eigen verpakking blijft nodig.",
+    "barcodeNeedsCheck": false,
+    "barcodeConfirmedBy": "Gebruiker",
     "barcodeSources": [
       "https://shop.epicurium.co.uk/products/Bars-Bites-Functional/Fruit-Nut-Bars/EP-PRE-B-001_Gut-Friendly-Protein-Bar-Almond-Apple-12x50g",
       "https://wholefoodsbox.co.uk/products/presteez-presteez-bar-almond-apple-protein-50g-sold-in-multiple-of-12"

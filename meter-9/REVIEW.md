@@ -9,9 +9,9 @@ Alle 28 records zijn nagelopen op ingrediënten, allergenen/sporen, gewicht, hec
 - **Spitzer vanillegebak met chocoladestukjes:** opgelost — 400 g volgens CHP, met exact dezelfde barcode 7290010473106 (webcontrole 25-09-2026; https://chp.co.il/sitemap/201).
 - **Agadata, beide cakes:** opgelost — visgelatine (vis), opnieuw vergroot en bevestigd met de Franse verklaring “gélatine de poisson”.
 - **Spitzer kaneel- en chocoladevlechtcake:** voor- en achterkant van dezelfde verpakking om de barcodes te koppelen. Gebruiker gaf kaneel 7290010473069 en chocolade 7290010473076; de aangeleverde chocoladefoto toont 7290010473069. Beide codes staan zichtbaar als te controleren. De laatste ingrediëntenregel van chocolade zit achter een vouw.
-- **Rimon vanillewafels met chocolade:** leesbare hechsher.
+- **Rimon vanillewafels met chocolade:** opgelost — gebruiker bevestigt אב״ד האג; opgenomen als Av Beit Din Den Haag.
 - **Rimon kaneelcake en chocoladecake:** scherpe ingrediëntenfoto. Bij kaneel zijn percentage/kleurstof onduidelijk; bij chocolade zijn percentage en kleine additieftekst nog niet definitief bevestigd.
-- **Presteez amandel-appel:** juiste barcode van de eigen verpakking. Op de aangeleverde sticker lijkt dezelfde code te staan als bij banaan-kokos. Online is inmiddels 0796554370620 gevonden voor 50 g en dezelfde ingrediënten. Ingevuld met een zichtbare melding dat de eigen sticker afwijkt.
+- **Presteez amandel-appel:** opgelost — gebruiker bevestigt barcode 0796554370620; controlemelding verwijderd.
 - **Osem Argaliot, beide smaken:** opgelost — gebruiker bevestigt 300 g op 25-09-2026.
 
 ## Gecorrigeerd tijdens deze controle
@@ -40,7 +40,7 @@ Alle 28 records zijn nagelopen op ingrediënten, allergenen/sporen, gewicht, hec
 | 5 | Spitzer Kaneelvlechtcake | 400 g | 7290010473069 | Badatz Edah HaChareidis (Parve) | Barcodekoppeling met chocoladevariant betwist. |
 | 6 | Spitzer Chocoladevlechtcake | 400 g | 7290010473076 | Badatz Edah HaChareidis (Parve) | Laatste E-nummer achter vouw; barcodekoppeling met kaneelvariant betwist. |
 | 7 | Spitzer Chocoladerolletjes | 400 g | 7290010473090 | Badatz Edah HaChareidis (Parve) | Geen extra open punt. |
-| 8 | Rimon Vanillewafels met chocolade | 252 g (8 stuks) | 5425024681700 | Ontbreekt | Hechsher op foto onvoldoende leesbaar. |
+| 8 | Rimon Vanillewafels met chocolade | 252 g (8 stuks) | 5425024681700 | Av Beit Din Den Haag (אב״ד האג) | Door gebruiker bevestigd. |
 | 9 | Rimon Kaneelcake | 400 g | 7290020012227 | OU (Parve) | Kaneelpercentage en kleurstof onvoldoende leesbaar; gewicht 400 g wel leesbaar na vergroten. |
 | 10 | Rimon Vanillecake | 400 g | 7290020012210 | OU (Parve) | Geen extra open punt. |
 | 11 | Rimon Chocoladecake | 400 g | 7290020012203 | OU (Parve) | Cacaopercentage en kleine additieftekst nog onvoldoende scherp voor definitieve vrijgave. |
@@ -59,7 +59,7 @@ Alle 28 records zijn nagelopen op ingrediënten, allergenen/sporen, gewicht, hec
 | 24 | Presteez Reep met vijg en pistache | 35 g | 0796554370521 | K | Geen extra open punt. |
 | 25 | Presteez Eiwitreep met pinda en banaan | 50 g | 0796554370606 | K-D (melk) | K-D en wei-eiwit (melk) op etiket; eiwitreep van 50 g. |
 | 26 | Presteez Reep met olijven en zaden | 35 g | 0796554370583 | K | K op bevestiging gebruiker; naam certificerende instantie niet uit deze foto afgeleid. |
-| 27 | Presteez Eiwitreep met amandel en appel | 50 g | 0796554370620 (web; controle sticker nodig) | K-D (melk) | Barcode op sticker niet betrouwbaar aan deze variant te koppelen; K-D en melk wel zichtbaar. |
+| 27 | Presteez Eiwitreep met amandel en appel | 50 g | 0796554370620 | K-D (melk) | Barcode expliciet bevestigd door gebruiker; controlepunt gesloten. |
 | 28 | Presteez Reep met banaan en kokos | 35 g | 0796554370507 | K | Geen extra open punt. |
 
 ## Bronnen en grenzen
@@ -72,7 +72,7 @@ De originele foto’s staan in source-labels/. De koppeling per product staat in
 
 ## Aanvullend internetonderzoek — 25 september 2026
 
-- Presteez amandel-appel 50 g: Epicurium noemt unit-barcode 796554370620 (EAN-13 met voorloopnul: 0796554370620) en dezelfde receptuur met 44% amandelen en 4% appel. Wholefoodsbox bevestigt EAN-13. Ingevuld, maar stickerconflict blijft zichtbaar. De omdooscode 0796554370637 is niet de code van één reep.
+- Presteez amandel-appel 50 g: Epicurium noemt unit-barcode 796554370620 (EAN-13 met voorloopnul: 0796554370620) en dezelfde receptuur met 44% amandelen en 4% appel. Wholefoodsbox bevestigt EAN-13. Daarna expliciet bevestigd door gebruiker; controlemelding verwijderd. De omdooscode 0796554370637 is niet de code van één reep.
   - https://shop.epicurium.co.uk/products/Bars-Bites-Functional/Fruit-Nut-Bars/EP-PRE-B-001_Gut-Friendly-Protein-Bar-Almond-Apple-12x50g
   - https://wholefoodsbox.co.uk/products/presteez-presteez-bar-almond-apple-protein-50g-sold-in-multiple-of-12
 - Spitzer: CHP vermeldt chocolade 400 g als 7290010473069 en kaneel 400 g als 7290010473076, tegengesteld aan de eerdere gebruikersopgave. De chocoladefoto ondersteunt de online koppeling. Nog geen onafhankelijke duidelijke kaneelverpakking gevonden; bestaande gebruikerscodes blijven als betwist gemarkeerd. Online verwijzing kaneel: https://m.chp.co.il/sitemap/153 (zoekresultaat; detailpagina kon niet worden opgehaald).
@@ -81,7 +81,7 @@ De originele foto’s staan in source-labels/. De koppeling per product staat in
   - https://exportil.com/?product=choco-swirl-cake
 - Rimon: bij de importeur de juiste productgroep gevonden, maar geen bruikbare volledige ingrediëntenlijst of duidelijke etiketfoto verkregen. Productpagina’s liepen vast bij ophalen. Geen ontbrekend percentage, kleurstof of hechsher geraden. https://msdistribution.be/dry-products
 - Spitzer chocolade: geen betrouwbare volledige online ingrediëntenlijst gevonden die het E-nummer achter de vouw bevestigt.
-- Rimon wafels: originele voorkant vergroot; keurmerk te klein/onscherp om de naam met zekerheid te lezen. Blijft open.
+- Rimon wafels: originele voorkant vergroot; keurmerk op foto te klein/onscherp; daarna door gebruiker bevestigd als אב״ד האג. Controlepunt gesloten.
 
 Hercontrole oorspronkelijke Agadata-etiketten vóór publicatie: eerdere lezing “vogeltarwe” was fout. Beide stickers vermelden visgelatine. De Franse tekst bevestigt gélatine de poisson. Dit vervangt de eerdere onopgeloste notitie.
 
