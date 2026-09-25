@@ -1,0 +1,1303 @@
+{
+  "67.jpg": {
+    "localImage": "images/product-67-web.jpg",
+    "page": "https://elisha.be/en/mini-snacks-red-rice-amp-chickpeas",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%20%202021/IMG_6497-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3,
+          0.008333333333333333
+        ],
+        [
+          0.6833333333333333,
+          0.016666666666666666
+        ],
+        [
+          0.7566666666666667,
+          0.7933333333333333
+        ],
+        [
+          0.36666666666666664,
+          0.8116666666666666
+        ]
+      ],
+      "aspectRatio": 0.56
+    }
+  },
+  "70.jpg": {
+    "localImage": "images/product-70-web.jpg",
+    "page": "https://elisha.be/en/mini-snacks-corn-amp-legumes",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%20%202021/IMG_6496-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.28833333333333333,
+          0.006666666666666667
+        ],
+        [
+          0.6816666666666666,
+          0.01
+        ],
+        [
+          0.7566666666666667,
+          0.8033333333333333
+        ],
+        [
+          0.36,
+          0.8266666666666667
+        ]
+      ],
+      "aspectRatio": 0.56
+    }
+  },
+  "72.jpg": {
+    "localImage": "images/product-72-web.jpg",
+    "page": "https://elisha.be/en/mini-snacks-corn-crisps",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%20%202021/IMG_6495-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3016666666666667,
+          0.008333333333333333
+        ],
+        [
+          0.6783333333333333,
+          0.018333333333333333
+        ],
+        [
+          0.7483333333333333,
+          0.78
+        ],
+        [
+          0.37166666666666665,
+          0.8
+        ]
+      ],
+      "aspectRatio": 0.56
+    }
+  },
+  "74.jpg": {
+    "localImage": "images/product-74-web.jpg",
+    "page": "https://elisha.be/en/mini-snacks-red-lentils-amp-black-rice",
+    "imageUrl": "https://elisha.be/image/cache/catalog/PICS%20%202021/IMG_6498-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.2916666666666667,
+          0.01
+        ],
+        [
+          0.6883333333333334,
+          0.018333333333333333
+        ],
+        [
+          0.7616666666666667,
+          0.8116666666666666
+        ],
+        [
+          0.365,
+          0.8366666666666667
+        ]
+      ],
+      "aspectRatio": 0.56
+    }
+  },
+  "52.jpg": {
+    "localImage": "images/product-52-web.jpg",
+    "page": "https://elisha.be/en/potato-crisps2",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202023/potato-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18333333333333332,
+          0.01
+        ],
+        [
+          0.8066666666666666,
+          0.01
+        ],
+        [
+          0.8066666666666666,
+          0.9916666666666667
+        ],
+        [
+          0.18333333333333332,
+          0.9916666666666667
+        ]
+      ],
+      "aspectRatio": 0.634974533106961
+    }
+  },
+  "45.jpg": {
+    "localImage": "images/product-45-web.jpg",
+    "page": "https://elisha.be/en/sweet-potato-crisps",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics%202023/sweet-600x600.jpg",
+    "retrieved": "2026-09-24",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18166666666666667,
+          0.011666666666666667
+        ],
+        [
+          0.8183333333333334,
+          0.011666666666666667
+        ],
+        [
+          0.8183333333333334,
+          0.9966666666666667
+        ],
+        [
+          0.18166666666666667,
+          0.9966666666666667
+        ]
+      ],
+      "aspectRatio": 0.6463620981387479
+    }
+  },
+  "49.jpg": {
+    "localImage": "images/product-49-web.jpg",
+    "page": "https://elisha.be/en/vegetable-crisps",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics 2023/vegetable-600x600.jpg",
+    "retrieved": "2026-09-25",
+    "eanMatched": "5425000531777",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.185,
+          0.005
+        ],
+        [
+          0.8216666666666667,
+          0.005
+        ],
+        [
+          0.8216666666666667,
+          1
+        ],
+        [
+          0.185,
+          1
+        ]
+      ],
+      "aspectRatio": 0.6398659966499163
+    }
+  },
+  "100.jpg": {
+    "localImage": "images/product-100-web.jpg",
+    "page": "https://elisha.be/en/crispy-sugar-cones",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics 2026/10217-600x600.jpg",
+    "retrieved": "2026-09-25",
+    "eanMatched": "5425000532644",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.021666666666666667,
+          0.30666666666666664
+        ],
+        [
+          0.7983333333333333,
+          0.37166666666666665
+        ],
+        [
+          0.7733333333333333,
+          0.7966666666666666
+        ],
+        [
+          0.03833333333333333,
+          0.685
+        ]
+      ],
+      "aspectRatio": 1.8
+    }
+  },
+  "102.jpg": {
+    "localImage": "images/product-102-web.png",
+    "page": "https://elisha.be/en/shevach-corn-balls-classic",
+    "imageUrl": "https://elisha.be/image/cache/catalog/Pics 2026/10011-600x600.png",
+    "retrieved": "2026-09-25",
+    "eanMatched": "5425000534945",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.305,
+          0.0016666666666666668
+        ],
+        [
+          0.7816666666666666,
+          0.075
+        ],
+        [
+          0.78,
+          0.8883333333333333
+        ],
+        [
+          0.315,
+          0.9983333333333333
+        ]
+      ],
+      "aspectRatio": 0.61
+    }
+  },
+  "76.jpg": {
+    "localImage": "images/product-76-web.png",
+    "page": "https://www.shufra.com/product-category/chips/microwave-popcorn/",
+    "imageUrl": "https://www.shufra.com/wp-content/uploads/2022/08/Shufra-Microwave-Popcorn-Light-500x395.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.222,
+          0.04810126582278481
+        ],
+        [
+          0.972,
+          0.11139240506329114
+        ],
+        [
+          0.972,
+          0.9037974683544304
+        ],
+        [
+          0.222,
+          0.9645569620253165
+        ]
+      ],
+      "aspectRatio": 1.12
+    }
+  },
+  "1.jpg": {
+    "localImage": "images/product-1-web.png",
+    "page": "https://www.osem-nestleusa.com/osem-pretzels/osem-salted-pretzel-thins-1235-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-01/Thins%20Front.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.30847457627118646,
+          0.11025641025641025
+        ],
+        [
+          0.6627118644067796,
+          0.11025641025641025
+        ],
+        [
+          0.6627118644067796,
+          0.8923076923076924
+        ],
+        [
+          0.30847457627118646,
+          0.8923076923076924
+        ]
+      ],
+      "aspectRatio": 0.6852459016393443
+    }
+  },
+  "6.jpg": {
+    "localImage": "images/product-6-web.png",
+    "page": "https://www.osem-nestleusa.com/osem-pretzels/osem-sesame-pretzel-flat-1235-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-01/Sesame%20Thins%20Front.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3220338983050847,
+          0.11025641025641025
+        ],
+        [
+          0.6830508474576271,
+          0.11025641025641025
+        ],
+        [
+          0.6830508474576271,
+          0.9051282051282051
+        ],
+        [
+          0.3220338983050847,
+          0.9051282051282051
+        ]
+      ],
+      "aspectRatio": 0.6870967741935484
+    }
+  },
+  "9.jpg": {
+    "localImage": "images/product-9-web.png",
+    "page": "https://www.osem-nestleusa.com/osem-pretzels/osem-salted-pretzel-twist-141-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-01/Twists%20Front_0.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.32372881355932204,
+          0.11025641025641025
+        ],
+        [
+          0.6796610169491526,
+          0.11025641025641025
+        ],
+        [
+          0.6796610169491526,
+          0.8948717948717949
+        ],
+        [
+          0.32372881355932204,
+          0.8948717948717949
+        ]
+      ],
+      "aspectRatio": 0.6862745098039216
+    }
+  },
+  "3.jpg": {
+    "localImage": "images/product-3-web.png",
+    "page": "https://www.osem-nestleusa.com/osem-pretzels/osem-sesame-pretzel-rings-105-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-01/Rings%20Front.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3254237288135593,
+          0.11538461538461539
+        ],
+        [
+          0.6779661016949152,
+          0.11538461538461539
+        ],
+        [
+          0.6779661016949152,
+          0.8897435897435897
+        ],
+        [
+          0.3254237288135593,
+          0.8897435897435897
+        ]
+      ],
+      "aspectRatio": 0.6887417218543046
+    }
+  },
+  "24.jpg": {
+    "localImage": "images/product-24-web.png",
+    "page": "https://www.osem-nestleusa.com/gratify-gluten-free/gratify-everything-thins-105-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-03/ET%20Front_0.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.31864406779661014,
+          0.10512820512820513
+        ],
+        [
+          0.6576271186440678,
+          0.10512820512820513
+        ],
+        [
+          0.6576271186440678,
+          0.9102564102564102
+        ],
+        [
+          0.31864406779661014,
+          0.9102564102564102
+        ]
+      ],
+      "aspectRatio": 0.6369426751592356
+    }
+  },
+  "27.jpg": {
+    "localImage": "images/product-27-web.png",
+    "page": "https://www.osem-nestleusa.com/gratify-gluten-free/gratify-sesame-thins-105-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-01/Sesame%20Front.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.33220338983050846,
+          0.11282051282051282
+        ],
+        [
+          0.6677966101694915,
+          0.11282051282051282
+        ],
+        [
+          0.6677966101694915,
+          0.9102564102564102
+        ],
+        [
+          0.33220338983050846,
+          0.9102564102564102
+        ]
+      ],
+      "aspectRatio": 0.6366559485530546
+    }
+  },
+  "30.jpg": {
+    "localImage": "images/product-30-web.png",
+    "page": "https://www.osem-nestleusa.com/gratify-gluten-free/gratify-pretzel-twists-105-oz",
+    "imageUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-01/Twists%20Front.png",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.33728813559322035,
+          0.11282051282051282
+        ],
+        [
+          0.6627118644067796,
+          0.11282051282051282
+        ],
+        [
+          0.6627118644067796,
+          0.8846153846153846
+        ],
+        [
+          0.33728813559322035,
+          0.8846153846153846
+        ]
+      ],
+      "aspectRatio": 0.6378737541528239
+    }
+  },
+  "58.jpg": {
+    "localImage": "images/product-58-web.jpg",
+    "page": "https://shneiders.fr/fr/chips-aperitifs/468-chips-sel-mer.html",
+    "imageUrl": "https://shneiders.fr/1018-large_default/chips-sel-mer.jpg",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.161,
+          0.037
+        ],
+        [
+          0.843,
+          0.037
+        ],
+        [
+          0.843,
+          0.964
+        ],
+        [
+          0.161,
+          0.964
+        ]
+      ],
+      "aspectRatio": 0.7357065803667745
+    }
+  },
+  "55.jpg": {
+    "localImage": "images/product-55-web.jpg",
+    "page": "https://shneiders.fr/fr/chips-aperitifs/470-chips-sel-mediterraneenne.html",
+    "imageUrl": "https://shneiders.fr/1022-large_default/chips-sel-mediterraneenne.jpg",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.161,
+          0.037
+        ],
+        [
+          0.843,
+          0.037
+        ],
+        [
+          0.843,
+          0.964
+        ],
+        [
+          0.161,
+          0.964
+        ]
+      ],
+      "aspectRatio": 0.7357065803667745
+    }
+  },
+  "79.jpg": {
+    "localImage": "images/product-79-supplied.png",
+    "source": "Door gebruiker gekozen foto: Beigel & Beigel Cracker Crisps Sour Cream & Onion 300 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, productnaam, smaak en 300 g gecontroleerd; oorspronkelijke etiketgegevens behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "aspectRatio": 0.605
+    }
+  },
+  "39.jpg": {
+    "localImage": "images/product-39-straight.png",
+    "page": "https://hadar-afifit.com/?page_id=49",
+    "imageUrl": "https://hadar-afifit.com/wp-content/uploads/elementor/thumbs/7290018790588-בייגלה-רשתות-מלח-rg5ca3qt5dj7inlosswvwqruafjqxjzio7alzdy8r4.jpg",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.165,
+          0.01
+        ],
+        [
+          0.835,
+          0.01
+        ],
+        [
+          0.835,
+          0.985
+        ],
+        [
+          0.165,
+          0.985
+        ]
+      ],
+      "aspectRatio": 0.6871794871794872
+    },
+    "imageEdited": true
+  },
+  "42.jpg": {
+    "localImage": "images/product-42-straight.png",
+    "page": "https://hadar-afifit.com/?page_id=49",
+    "imageUrl": "https://hadar-afifit.com/wp-content/uploads/elementor/thumbs/7290018790618_בייגלה-רשתות-עם-שומשום-rg5ca8g03jpn4pev1cy0r7l59cwl01i6cuk1drr9w0.jpg",
+    "retrieved": "2026-09-25",
+    "matchStatus": "visual-review-pending",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.23,
+          0.025
+        ],
+        [
+          0.77,
+          0.025
+        ],
+        [
+          0.77,
+          0.975
+        ],
+        [
+          0.23,
+          0.975
+        ]
+      ],
+      "aspectRatio": 0.568421052631579
+    },
+    "imageEdited": true
+  },
+  "61.jpg": {
+    "localImage": "images/product-61-supplied.png",
+    "source": "Door gebruiker aangeleverde productfoto",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, variant en 75 g komen overeen met aangeleverde verpakking",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.22,
+          0.09333333333333334
+        ],
+        [
+          0.7733333333333333,
+          0.09333333333333334
+        ],
+        [
+          0.7733333333333333,
+          0.91
+        ],
+        [
+          0.22,
+          0.91
+        ]
+      ],
+      "aspectRatio": 0.6775510204081633
+    }
+  },
+  "64.jpg": {
+    "localImage": "images/product-64-supplied-sharp.png",
+    "source": "Door gebruiker aangeleverde scherpere foto, 25 september 2026",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Elisha Potato Snack Salted 75 g; gecontroleerd tegen originele foto 64.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.23,
+          0.09
+        ],
+        [
+          0.765,
+          0.09
+        ],
+        [
+          0.765,
+          0.92
+        ],
+        [
+          0.23,
+          0.92
+        ]
+      ],
+      "aspectRatio": 0.6445783132530121
+    }
+  },
+  "85.jpg": {
+    "localImage": "images/product-85-supplied.png",
+    "source": "Door gebruiker gekozen sesamcocktail 300 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, variant en gewicht visueel gecontroleerd; oorspronkelijke etiketgegevens behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.255,
+          0.056666666666666664
+        ],
+        [
+          0.795,
+          0.056666666666666664
+        ],
+        [
+          0.795,
+          0.9416666666666667
+        ],
+        [
+          0.255,
+          0.9416666666666667
+        ]
+      ],
+      "aspectRatio": 0.6101694915254238
+    }
+  },
+  "12.jpg": {
+    "localImage": "images/product-12-supplied.png",
+    "source": "Door gebruiker aangeleverde foto: Osem Salted Pretzel Sticks 400 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "confirmed",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.22325581395348837,
+          0.016913319238900635
+        ],
+        [
+          0.7763213530655391,
+          0.016913319238900635
+        ],
+        [
+          0.7763213530655391,
+          0.9826638477801268
+        ],
+        [
+          0.22325581395348837,
+          0.9826638477801268
+        ]
+      ],
+      "aspectRatio": 0.5726795096322241
+    }
+  },
+  "36.jpg": {
+    "localImage": "images/product-36-supplied.png",
+    "source": "Door gebruiker geselecteerde exportverpakking Sesame Sticks 150 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Door gebruiker aangewezen; merk, stokjesvariant en gewicht zichtbaar",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.12,
+          0
+        ],
+        [
+          0.88,
+          0
+        ],
+        [
+          0.88,
+          1
+        ],
+        [
+          0.12,
+          1
+        ]
+      ],
+      "aspectRatio": 0.76
+    }
+  },
+  "18.jpg": {
+    "localImage": "images/product-18-cleaned.png",
+    "source": "Eigen productfoto 18.jpg, vrijstaand gemaakt met ingebouwde imagegen",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "matchStatus": "XL en juiste zout/sesamvariant visueel gecontroleerd; etiketgegevens uit originele fotos behouden",
+    "editNote": "Achtergrond verwijderd, rechtgezet en reflecties verminderd. Kleine onleesbare onderrandtekst niet gereconstrueerd.",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.03130755064456722,
+          0
+        ],
+        [
+          0.9668508287292817,
+          0
+        ],
+        [
+          0.9668508287292817,
+          1
+        ],
+        [
+          0.03130755064456722,
+          1
+        ]
+      ],
+      "aspectRatio": 0.7016574585635359
+    }
+  },
+  "33.jpg": {
+    "localImage": "images/product-33-supplied.png",
+    "source": "Door gebruiker geselecteerde exportverpakking Thin Sticks 150 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Door gebruiker aangewezen; merk, stokjesvariant en gewicht zichtbaar",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.12815884476534295,
+          0.016245487364620937
+        ],
+        [
+          0.871841155234657,
+          0.016245487364620937
+        ],
+        [
+          0.871841155234657,
+          0.9819494584837545
+        ],
+        [
+          0.12815884476534295,
+          0.9819494584837545
+        ]
+      ],
+      "aspectRatio": 0.7700934579439253
+    }
+  },
+  "107.jpg": {
+    "localImage": "images/product-107-supplied-current.png",
+    "source": "Door gebruiker gekozen foto van Poco Loco 6 Wraps Original maat L",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, Original, 6 stuks, maat L en blauw-oranje verpakking komen overeen met 107.jpg; etiketgegevens behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.10784313725490197,
+          0.10576923076923077
+        ],
+        [
+          0.9117647058823529,
+          0.10576923076923077
+        ],
+        [
+          0.9117647058823529,
+          0.9086538461538461
+        ],
+        [
+          0.10784313725490197,
+          0.9086538461538461
+        ]
+      ],
+      "aspectRatio": 0.9820359281437125
+    }
+  },
+  "105.jpg": {
+    "localImage": "images/product-105-supplied.png",
+    "source": "Door gebruiker aangeleverde foto: Poco Loco 8 Tortillas Original maat M 320 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, Original, maat M, 8 stuks, 320 g en verpakkingsontwerp komen overeen met 105.jpg; etiketgegevens uit 106.jpg behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.1390403489640131,
+          0.1398282340311326
+        ],
+        [
+          0.8775899672846238,
+          0.1398282340311326
+        ],
+        [
+          0.8775899672846238,
+          0.8768115942028986
+        ],
+        [
+          0.1390403489640131,
+          0.8768115942028986
+        ]
+      ],
+      "aspectRatio": 0.9865258557902403
+    }
+  },
+  "82.jpg": {
+    "localImage": "images/product-82-supplied.png",
+    "source": "Door gebruiker aangeleverde Dag Dag gezouten visjes 250 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, variant en gewicht visueel gecontroleerd; oorspronkelijke etiketgegevens behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.22403560830860533,
+          0.06784660766961652
+        ],
+        [
+          0.8056379821958457,
+          0.06784660766961652
+        ],
+        [
+          0.8056379821958457,
+          0.9454277286135693
+        ],
+        [
+          0.22403560830860533,
+          0.9454277286135693
+        ]
+      ],
+      "aspectRatio": 0.6588235294117647
+    }
+  },
+  "94.jpg": {
+    "localImage": "images/product-94-cleaned.png",
+    "source": "Door gebruiker aangeleverde Hot & Spicy 125 g, overlaid tekst verwijderd met ingebouwde imagegen",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, variant en gewicht visueel gecontroleerd; oorspronkelijke etiketgegevens behouden",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.15151515151515152,
+          0.0645933014354067
+        ],
+        [
+          0.868421052631579,
+          0.0645933014354067
+        ],
+        [
+          0.868421052631579,
+          0.960127591706539
+        ],
+        [
+          0.15151515151515152,
+          0.960127591706539
+        ]
+      ],
+      "aspectRatio": 0.8005342831700801
+    }
+  },
+  "97.jpg": {
+    "localImage": "images/product-97-cleaned.png",
+    "source": "Door gebruiker aangeleverde Sweet Tomato 125 g, overlaid tekst verwijderd met ingebouwde imagegen",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, variant en gewicht visueel gecontroleerd; oorspronkelijke etiketgegevens behouden",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.145933014354067,
+          0.04864433811802233
+        ],
+        [
+          0.8580542264752791,
+          0.04864433811802233
+        ],
+        [
+          0.8580542264752791,
+          0.9696969696969697
+        ],
+        [
+          0.145933014354067,
+          0.9696969696969697
+        ]
+      ],
+      "aspectRatio": 0.7731601731601732
+    }
+  },
+  "91.jpg": {
+    "localImage": "images/product-91-supplied.png",
+    "source": "Door gebruiker aangeleverde foto: Beigel & Beigel zoutcocktail 300 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, Hebreeuwse variant zoutcocktail, gemengde crackervormen, 300 g en paars-rode verpakking komen overeen met 91.jpg; etiketgegevens behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.225,
+          0.035
+        ],
+        [
+          0.7966666666666666,
+          0.035
+        ],
+        [
+          0.7966666666666666,
+          0.9216666666666666
+        ],
+        [
+          0.225,
+          0.9216666666666666
+        ]
+      ],
+      "aspectRatio": 0.6447368421052632
+    }
+  },
+  "88.jpg": {
+    "localImage": "images/product-88-supplied.png",
+    "source": "Door gebruiker aangeleverde foto: Beigel & Beigel ronde gezouten crackers 300 g",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Merk, Hebreeuwse variant ronde gezouten crackers en 300 g gecontroleerd; andere verpakkingsvormgeving, oorspronkelijke etiketgegevens behouden",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.23166666666666666,
+          0.045
+        ],
+        [
+          0.8033333333333333,
+          0.045
+        ],
+        [
+          0.8033333333333333,
+          0.9316666666666666
+        ],
+        [
+          0.23166666666666666,
+          0.9316666666666666
+        ]
+      ],
+      "aspectRatio": 0.6447368421052632
+    }
+  },
+  "15.jpg": {
+    "localImage": "images/product-15-cleaned.png",
+    "source": "Eigen productfoto 15.jpg, vrijstaand gemaakt met ingebouwde imagegen",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "matchStatus": "XL en juiste zout/sesamvariant visueel gecontroleerd; etiketgegevens uit originele fotos behouden",
+    "editNote": "Achtergrond verwijderd, rechtgezet en reflecties verminderd. Kleine onleesbare onderrandtekst niet gereconstrueerd.",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.07918968692449356,
+          0.004143646408839779
+        ],
+        [
+          0.9189686924493554,
+          0.004143646408839779
+        ],
+        [
+          0.9189686924493554,
+          0.988950276243094
+        ],
+        [
+          0.07918968692449356,
+          0.988950276243094
+        ]
+      ],
+      "aspectRatio": 0.6395511921458625
+    }
+  },
+  "21.jpg": {
+    "localImage": "images/product-21-supplied.png",
+    "source": "Door gebruiker expliciet gekozen foto Beigel & Beigel Traditional",
+    "retrieved": "2026-09-25",
+    "matchStatus": "Door gebruiker toegewezen; foto vermeldt 200 g, gewicht oorspronkelijke verpakking nog onbevestigd.",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18,
+          0.02
+        ],
+        [
+          0.82,
+          0.02
+        ],
+        [
+          0.82,
+          0.98
+        ],
+        [
+          0.18,
+          0.98
+        ]
+      ],
+      "aspectRatio": 0.6666666666666666
+    }
+  },
+  "110.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#110",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3333333333333333,
+          0
+        ],
+        [
+          0.3333333333333333,
+          0.3333333333333333
+        ],
+        [
+          0,
+          0.3333333333333333
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "111.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#111",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3333333333333333,
+          0
+        ],
+        [
+          0.6666666666666666,
+          0
+        ],
+        [
+          0.6666666666666666,
+          0.3333333333333333
+        ],
+        [
+          0.3333333333333333,
+          0.3333333333333333
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "112.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#112",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.6666666666666666,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          1,
+          0.3333333333333333
+        ],
+        [
+          0.6666666666666666,
+          0.3333333333333333
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "113.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#113",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0,
+          0.3333333333333333
+        ],
+        [
+          0.3333333333333333,
+          0.3333333333333333
+        ],
+        [
+          0.3333333333333333,
+          0.6666666666666666
+        ],
+        [
+          0,
+          0.6666666666666666
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "114.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#114",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3333333333333333,
+          0.3333333333333333
+        ],
+        [
+          0.6666666666666666,
+          0.3333333333333333
+        ],
+        [
+          0.6666666666666666,
+          0.6666666666666666
+        ],
+        [
+          0.3333333333333333,
+          0.6666666666666666
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "115.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#115",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.6666666666666666,
+          0.3333333333333333
+        ],
+        [
+          1,
+          0.3333333333333333
+        ],
+        [
+          1,
+          0.6666666666666666
+        ],
+        [
+          0.6666666666666666,
+          0.6666666666666666
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "116.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#116",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0,
+          0.6666666666666666
+        ],
+        [
+          0.3333333333333333,
+          0.6666666666666666
+        ],
+        [
+          0.3333333333333333,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "117.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#117",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.3333333333333333,
+          0.6666666666666666
+        ],
+        [
+          0.6666666666666666,
+          0.6666666666666666
+        ],
+        [
+          0.6666666666666666,
+          1
+        ],
+        [
+          0.3333333333333333,
+          1
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  },
+  "118.jpg": {
+    "localImage": "images/elisha-sprinkles-clean.png#118",
+    "source": "Bewerkte illustratie op basis van door gebruiker aangeleverde foto’s; sticker bevat alleen ELISHA Coloured Nonpareils, zoals gevraagd. Volledige potjes met witte ruimte rondom.",
+    "retrieved": "2026-09-25",
+    "imageEdited": true,
+    "imagePresentation": {
+      "corners": [
+        [
+          0.6666666666666666,
+          0.6666666666666666
+        ],
+        [
+          1,
+          0.6666666666666666
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          0.6666666666666666,
+          1
+        ]
+      ],
+      "aspectRatio": 1
+    },
+    "imageIllustration": true
+  }
+}
