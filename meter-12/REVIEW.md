@@ -6,7 +6,7 @@
 
 `build-data.cjs` is de bron; `node meter-12/build-data.cjs` bouwt `products.js` opnieuw. Ingrediënten zijn vertaald van de aangeleverde etiketten. Voor witte chocolade met koffie is op verzoek het oorspronkelijke etiket gebruikt, niet de Nederlandse importsticker.
 
-Orange Noir: ingrediënten gecontroleerd bij [Instacart](https://www.instacart.ca/products/17459788-schmerling-s-finest-swiss-dark-chocolate-orange-noir-3-5-oz): suiker, cacaomassa, cacaoboter, amandelen 8%, sinaasappelaroma en vanilline; minimaal 55% cacao; mogelijke sporen van hazelnoten. De winkelverpakking heeft nog geen aangeleverde achterzijde.
+Orange Noir: de gebruiker heeft de achterzijde aangeleverd (f78ae15d-799b-4967-ab89-9f0afc74fb5b.jpg). Etiket overgenomen: suiker, cacaomassa, cacaoboter, amandelen 8%, sinaasappelaroma en vanille-extract; minimaal 55% cacao; kan hazelnoten bevatten; fabriek verwerkt ook melk en soja. OU-P Parve, koosjer voor Pesach zonder lecithine, vervangt voor dit artikel de eerdere algemene Schmerling-vermelding.
 
 De hechshervermeldingen voor alle Schmerling-, Elite- en Shneider’s-artikelen zijn aangepast volgens de expliciete correcties van de gebruiker. Dit zijn redactionele correcties, geen nieuwe onafhankelijke certificeringscontrole. Bij Shneider’s melkfondue staat geen Parve. Osem vanille, Franse vanille en melkkaramel: Badatz Edah Hachareidis of Jerusalem, bevestigd in de productvermeldingen van SnackFood.Delivery; de afwijkende chocolade-Pesachverpakking behoudt haar eigen vermelding.
 

@@ -63,7 +63,7 @@ window.KPI_PRODUCTS = [
     ],
     "imageBounds": [
       0.0095,
-      0.0,
+      0,
       0.9991,
       0.9995
     ],
@@ -92,10 +92,10 @@ window.KPI_PRODUCTS = [
       "https://www.rushdiindustries.com/catalog/"
     ],
     "imageBounds": [
-      0.0,
+      0,
       0.0033,
       0.9778,
-      1.0
+      1
     ],
     "kosherSource": "https://israelifooddirect.com/product/baracke-tahini-100-500g/",
     "kosherChecked": "2026-09-18"
@@ -291,10 +291,10 @@ window.KPI_PRODUCTS = [
       "https://www.carrefour.be/fr/sauce-dressing-a-lorange-romarin-et-a-lhuile-dolive-240ml/07015458.html"
     ],
     "imageBounds": [
-      0.0,
-      0.0,
-      1.0,
-      1.0
+      0,
+      0,
+      1,
+      1
     ],
     "kosherSource": "https://kosherlist.lt/",
     "kosherChecked": "2026-09-18"
@@ -325,10 +325,10 @@ window.KPI_PRODUCTS = [
       "https://diddenfood.com/en/products/dressings/pesto-dressing-olive-oil"
     ],
     "imageBounds": [
-      0.0,
-      0.0,
-      1.0,
-      1.0
+      0,
+      0,
+      1,
+      1
     ],
     "allergenNote": "De volledige ingrediënten- en allergenenlijst moet nog op het etiket worden gecontroleerd.",
     "kosherSource": "https://kosherlist.lt/",
@@ -426,9 +426,9 @@ window.KPI_PRODUCTS = [
     ],
     "imageBounds": [
       0.368,
-      0.0,
+      0,
       0.632,
-      1.0
+      1
     ],
     "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "mayContain": "Ei en soja.",
@@ -1161,7 +1161,7 @@ window.KPI_PRODUCTS = [
       0.22,
       0.0022,
       0.7778,
-      1.0
+      1
     ],
     "kosherSource": "https://sovafoods.co.uk/catalog/dag11",
     "kosherChecked": "2026-09-18",
@@ -1202,7 +1202,7 @@ window.KPI_PRODUCTS = [
       0.22,
       0.0022,
       0.78,
-      1.0
+      1
     ],
     "kosherSource": "https://alwaystogether.community/products/gefilte-fish-polish-style-6-units-570g",
     "kosherChecked": "2026-09-18",
@@ -1270,9 +1270,9 @@ window.KPI_PRODUCTS = [
       "https://rumplers.co.uk/"
     ],
     "imageBounds": [
-      0.0,
+      0,
       0.00401,
-      1.0,
+      1,
       0.98798
     ],
     "ingredientSource": "Gebruikersfoto etiket: db005554-87e9-4a44-9207-e51f1cb3572c.jpg"
@@ -1665,5 +1665,28 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz",
     "kosherChecked": "2026-09-18",
     "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+  },
+  {
+    "id": 50,
+    "brand": "Albadya",
+    "name": "Amba",
+    "variant": "380 g",
+    "ean": null,
+    "ingredients": "",
+    "allergens": null,
+    "mayContain": "Sesam, selderij, mosterd en gluten.",
+    "category": "Sauzen",
+    "kosher": null,
+    "image": "images/albadya-amba-clean.png",
+    "productInfo": {
+      "Inhoud": "380 g"
+    },
+    "sourceDocument": "Door gebruiker aangeleverde product- en etiketfoto’s",
+    "labelSources": [
+      "codex-clipboard-a0cf3ef7-2951-4e3e-bf99-738f7f9acd29.jpg",
+      "codex-clipboard-ad495a07-d623-46f8-838e-5d20804dd3ba.jpg",
+      "codex-clipboard-cb943e65-0874-4f87-badc-2efcfe46bb9e.jpg"
+    ],
+    "imageEdited": true
   }
 ];

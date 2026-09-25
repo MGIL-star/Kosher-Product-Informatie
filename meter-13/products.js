@@ -1495,48 +1495,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
-    "id": 110,
-    "brand": "Elisha",
-    "name": "Sprinkles donkerblauw",
-    "category": "Bakdecoratie",
-    "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
-    "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/elisha-sprinkles-clean.png#110",
-    "sourcePhotos": [],
-    "productInfo": {
-      "Inhoud": "120 g",
-      "Kleur": "donkerblauw",
-      "Allergenen": "Nog te controleren op het etiket."
-    },
-    "imagePresentation": {
-      "corners": [
-        [
-          0,
-          0
-        ],
-        [
-          0.3333333333333333,
-          0
-        ],
-        [
-          0.3333333333333333,
-          0.3333333333333333
-        ],
-        [
-          0,
-          0.3333333333333333
-        ]
-      ],
-      "aspectRatio": 1
-    },
-    "imageEdited": true,
-    "imageIllustration": true
-  },
-  {
     "id": 111,
     "brand": "Elisha",
     "name": "Sprinkles geel",
@@ -1570,48 +1528,6 @@ window.KPI_PRODUCTS = [
         ],
         [
           0.3333333333333333,
-          0.3333333333333333
-        ]
-      ],
-      "aspectRatio": 1
-    },
-    "imageEdited": true,
-    "imageIllustration": true
-  },
-  {
-    "id": 112,
-    "brand": "Elisha",
-    "name": "Sprinkles lichtblauw",
-    "category": "Bakdecoratie",
-    "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
-    "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/elisha-sprinkles-clean.png#112",
-    "sourcePhotos": [],
-    "productInfo": {
-      "Inhoud": "120 g",
-      "Kleur": "lichtblauw",
-      "Allergenen": "Nog te controleren op het etiket."
-    },
-    "imagePresentation": {
-      "corners": [
-        [
-          0.6666666666666666,
-          0
-        ],
-        [
-          1,
-          0
-        ],
-        [
-          1,
-          0.3333333333333333
-        ],
-        [
-          0.6666666666666666,
           0.3333333333333333
         ]
       ],
@@ -1749,7 +1665,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 116,
     "brand": "Elisha",
-    "name": "Sprinkles lila",
+    "name": "Sprinkles paars",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "",
@@ -1761,7 +1677,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "lila",
+      "Kleur": "paars",
       "Allergenen": "Nog te controleren op het etiket."
     },
     "imagePresentation": {

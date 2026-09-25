@@ -47,20 +47,16 @@ add(102,'Shevach','Corn Balls Classic maïsbolletjes','375 g','5425000534945','V
 const tortilla='Tarwebloem (64%), water, stabilisator (E422), raapzaadolie, tarwegluten, tarwevezel, dextrose, voedingszuur (E296), emulgator (E471), rijsmiddel (E500), zout, conserveermiddel (E282), meelverbeteraar (E920).';
 add(105,'Poco Loco','Tortilla’s Original, maat M','320 g (8 stuks)','5412514555559',tortilla,'Tarwe (gluten)','','Parve','105,106','Tortilla’s en wraps');
 add(107,'Poco Loco','Wraps Original, maat L','370 g (6 stuks)','5412514350000',tortilla,'Tarwe (gluten)','','Rabbijn Pinchas Avraham Meyers (Parve)','107,108','Tortilla’s en wraps');
-add(110,'Elisha','Sprinkles donkerblauw','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
-Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'donkerblauw',Allergenen:'Nog te controleren op het etiket.'}});
 add(111,'Elisha','Sprinkles geel','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
 Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'geel',Allergenen:'Nog te controleren op het etiket.'}});
-add(112,'Elisha','Sprinkles lichtblauw','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
-Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'lichtblauw',Allergenen:'Nog te controleren op het etiket.'}});
 add(113,'Elisha','Sprinkles rood','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
 Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'rood',Allergenen:'Nog te controleren op het etiket.'}});
 add(114,'Elisha','Sprinkles oranje','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
 Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'oranje',Allergenen:'Nog te controleren op het etiket.'}});
 add(115,'Elisha','Sprinkles groen','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
 Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'groen',Allergenen:'Nog te controleren op het etiket.'}});
-add(116,'Elisha','Sprinkles lila','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
-Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'lila',Allergenen:'Nog te controleren op het etiket.'}});
+add(116,'Elisha','Sprinkles paars','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
+Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'paars',Allergenen:'Nog te controleren op het etiket.'}});
 add(117,'Elisha','Sprinkles wit','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
 Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'wit',Allergenen:'Nog te controleren op het etiket.'}});
 add(118,'Elisha','Sprinkles kleurenmix','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
@@ -75,7 +71,7 @@ const shelfOrder = [
   58,55,52,49,45,
   61,64,67,70,72,74,76,
   79,82,85,88,91,94,97,
-  110,111,112,113,114,115,116,117,118,
+  111,113,114,115,116,117,118,
   100,102,105,107
 ];
 if (shelfOrder.length !== rows.length || new Set(shelfOrder).size !== rows.length || rows.some(p=>!shelfOrder.includes(p.id))) throw new Error('Schapvolgorde mist een product of bevat een duplicaat.');

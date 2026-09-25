@@ -855,7 +855,7 @@ window.KPI_PRODUCTS = [
     "name": "Dadelreep banaan & walnoot",
     "category": "Repen",
     "variant": "37 g",
-    "ean": null,
+    "ean": "890867000592",
     "ingredients": "Medjooldadels, walnoten, zonnebloempitten, gevriesdroogde bananen, sesamzaadjes, natuurlijke aroma’s.",
     "allergens": [
       "Walnoten",
@@ -901,7 +901,7 @@ window.KPI_PRODUCTS = [
     "name": "Dadelreep kokos & hazelnoot",
     "category": "Repen",
     "variant": "37 g",
-    "ean": null,
+    "ean": "890867000455",
     "ingredients": "Medjooldadels, kokos, rozijnen, hazelnoten, zonnebloempitten, natuurlijke aroma’s.",
     "allergens": [
       "Hazelnoten"
@@ -1430,19 +1430,19 @@ window.KPI_PRODUCTS = [
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643070057",
-    "ingredients": "Suiker, cacaomassa, cacaoboter, amandelen (8%), aroma’s (sinaasappel, vanilline). Cacaobestanddelen: minimaal 55%.",
+    "ingredients": "Suiker, cacaomassa, cacaoboter, amandelen (8%), aroma’s (sinaasappel, vanille-extract). Cacaobestanddelen: minimaal 55%.",
     "allergens": [
       "Amandelen"
     ],
     "mayContain": "Hazelnoten.",
-    "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
+    "kosher": "OU-P (Parve; koosjer voor Pesach zonder lecithine)",
     "image": "images/product-orange-noir-user.png",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "100 g"
     },
-    "allergenNote": "Productinformatie uit een online productvermelding; het etiket van de winkelverpakking is nog niet aangeleverd.",
-    "dataSourceUrl": "https://www.instacart.ca/products/17459788-schmerling-s-finest-swiss-dark-chocolate-orange-noir-3-5-oz",
+    "allergenNote": "Geproduceerd in een fabriek waar ook melk en soja worden verwerkt.",
+    "labelSource": "Door gebruiker aangeleverde achterzijde: f78ae15d-799b-4967-ab89-9f0afc74fb5b.jpg",
     "searchName": "Orange Noir pure chocolade met sinaasappel & amandelen",
     "imagePresentation": {
       "corners": [
@@ -1940,7 +1940,7 @@ window.KPI_PRODUCTS = [
     "name": "Wafelreep met melkchocolade en hazelnootcrème",
     "category": "Chocoladerepen",
     "variant": "45 g",
-    "ean": null,
+    "ean": "815871010146",
     "ingredients": "Melkchocolade [suiker, cacaoboter, magere melkpoeder, cacaomassa, melkvet, raapzaadlecithine, PGPR, kunstmatig aroma (vanilline)], suiker, hazelnootpasta, plantaardige vetten en oliën (palm), tarwebloem, sojameel, cacaomassa, raapzaadlecithine, rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat), zout, enzym (proteïnase).",
     "allergens": [
       "Melk",
