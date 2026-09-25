@@ -66,6 +66,20 @@ Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{I
 add(118,'Elisha','Sprinkles kleurenmix','120 g','','Ingrediënten nog te controleren op het etiket.','','',M,'','Bakdecoratie');
 Object.assign(rows[rows.length-1],{allergens:null,sourcePhotos:[],productInfo:{Inhoud:'120 g',Kleur:'kleurenmix',Allergenen:'Nog te controleren op het etiket.'}});
 rows.find(p=>p.id===55).warning='Bevat een bron van fenylalanine.';
+// Schapfoto 120.jpg: links naar rechts, daarna de volgende plank.
+// Sprinkles op de lege plank boven de hoorntjes en wraps, zoals opgegeven.
+const shelfOrder = [
+  1,6,3,9,12,
+  15,18,21,24,27,30,
+  33,36,39,42,
+  58,55,52,49,45,
+  61,64,67,70,72,74,76,
+  79,82,85,88,91,94,97,
+  110,111,112,113,114,115,116,117,118,
+  100,102,105,107
+];
+if (shelfOrder.length !== rows.length || new Set(shelfOrder).size !== rows.length || rows.some(p=>!shelfOrder.includes(p.id))) throw new Error('Schapvolgorde mist een product of bevat een duplicaat.');
+rows.sort((a,b)=>shelfOrder.indexOf(a.id)-shelfOrder.indexOf(b.id));
 for (const id of [45,49,52]) rows.find(p=>p.id===id).allergenNote='Geproduceerd in een fabriek waar ook pinda’s, sesam, soja en noten worden verwerkt.';
 // Frontkleur is geen bewijs voor ingrediënten. De foto's en labels blijven afzonderlijk traceerbaar.
 const sourcesPath=path.join(__dirname,'image-sources.json');

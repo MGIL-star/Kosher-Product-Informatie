@@ -1495,177 +1495,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
-    "id": 100,
-    "brand": "Elisha",
-    "name": "Knapperige suikerhoorntjes",
-    "category": "IJshoorntjes",
-    "variant": "30 stuks",
-    "ean": "5425000532644",
-    "ingredients": "Tarwebloem, suiker, voedingsvezels, kokosolie, emulgator (lecithine, E322), zout, aroma (vanilline).",
-    "allergens": [
-      "Tarwe (gluten)"
-    ],
-    "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
-    "image": "images/product-100-web.jpg",
-    "sourcePhotos": [
-      "100.jpg",
-      "101.jpg"
-    ],
-    "productInfo": {
-      "Inhoud": "30 stuks"
-    },
-    "imagePresentation": {
-      "corners": [
-        [
-          0.021666666666666667,
-          0.30666666666666664
-        ],
-        [
-          0.7983333333333333,
-          0.37166666666666665
-        ],
-        [
-          0.7733333333333333,
-          0.7966666666666666
-        ],
-        [
-          0.03833333333333333,
-          0.685
-        ]
-      ],
-      "aspectRatio": 1.8
-    }
-  },
-  {
-    "id": 102,
-    "brand": "Shevach",
-    "name": "Corn Balls Classic maïsbolletjes",
-    "category": "Ontbijtgranen",
-    "variant": "375 g",
-    "ean": "5425000534945",
-    "ingredients": "Volkoren maïsmeel (90%), suiker, zout.",
-    "allergens": [],
-    "mayContain": "Pinda’s en andere noten.",
-    "kosher": "Badatz Edah Hachareidis (Parve)",
-    "image": "images/product-102-web.png",
-    "sourcePhotos": [
-      "102.jpg",
-      "103.jpg",
-      "104.jpg"
-    ],
-    "productInfo": {
-      "Inhoud": "375 g"
-    },
-    "imagePresentation": {
-      "corners": [
-        [
-          0.305,
-          0.0016666666666666668
-        ],
-        [
-          0.7816666666666666,
-          0.075
-        ],
-        [
-          0.78,
-          0.8883333333333333
-        ],
-        [
-          0.315,
-          0.9983333333333333
-        ]
-      ],
-      "aspectRatio": 0.61
-    }
-  },
-  {
-    "id": 105,
-    "brand": "Poco Loco",
-    "name": "Tortilla’s Original, maat M",
-    "category": "Tortilla’s en wraps",
-    "variant": "320 g (8 stuks)",
-    "ean": "5412514555559",
-    "ingredients": "Tarwebloem (64%), water, stabilisator (E422), raapzaadolie, tarwegluten, tarwevezel, dextrose, voedingszuur (E296), emulgator (E471), rijsmiddel (E500), zout, conserveermiddel (E282), meelverbeteraar (E920).",
-    "allergens": [
-      "Tarwe (gluten)"
-    ],
-    "mayContain": "",
-    "kosher": "Parve",
-    "image": "images/product-105-supplied.png",
-    "sourcePhotos": [
-      "105.jpg",
-      "106.jpg"
-    ],
-    "productInfo": {
-      "Inhoud": "320 g (8 stuks)"
-    },
-    "imagePresentation": {
-      "corners": [
-        [
-          0.1390403489640131,
-          0.1398282340311326
-        ],
-        [
-          0.8775899672846238,
-          0.1398282340311326
-        ],
-        [
-          0.8775899672846238,
-          0.8768115942028986
-        ],
-        [
-          0.1390403489640131,
-          0.8768115942028986
-        ]
-      ],
-      "aspectRatio": 0.9865258557902403
-    }
-  },
-  {
-    "id": 107,
-    "brand": "Poco Loco",
-    "name": "Wraps Original, maat L",
-    "category": "Tortilla’s en wraps",
-    "variant": "370 g (6 stuks)",
-    "ean": "5412514350000",
-    "ingredients": "Tarwebloem (64%), water, stabilisator (E422), raapzaadolie, tarwegluten, tarwevezel, dextrose, voedingszuur (E296), emulgator (E471), rijsmiddel (E500), zout, conserveermiddel (E282), meelverbeteraar (E920).",
-    "allergens": [
-      "Tarwe (gluten)"
-    ],
-    "mayContain": "",
-    "kosher": "Rabbijn Pinchas Avraham Meyers (Parve)",
-    "image": "images/product-107-supplied-current.png",
-    "sourcePhotos": [
-      "107.jpg",
-      "108.jpg"
-    ],
-    "productInfo": {
-      "Inhoud": "370 g (6 stuks)"
-    },
-    "imagePresentation": {
-      "corners": [
-        [
-          0.10784313725490197,
-          0.10576923076923077
-        ],
-        [
-          0.9117647058823529,
-          0.10576923076923077
-        ],
-        [
-          0.9117647058823529,
-          0.9086538461538461
-        ],
-        [
-          0.10784313725490197,
-          0.9086538461538461
-        ]
-      ],
-      "aspectRatio": 0.9820359281437125
-    }
-  },
-  {
     "id": 110,
     "brand": "Elisha",
     "name": "Sprinkles donkerblauw",
@@ -2042,5 +1871,176 @@ window.KPI_PRODUCTS = [
     },
     "imageEdited": true,
     "imageIllustration": true
+  },
+  {
+    "id": 100,
+    "brand": "Elisha",
+    "name": "Knapperige suikerhoorntjes",
+    "category": "IJshoorntjes",
+    "variant": "30 stuks",
+    "ean": "5425000532644",
+    "ingredients": "Tarwebloem, suiker, voedingsvezels, kokosolie, emulgator (lecithine, E322), zout, aroma (vanilline).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "",
+    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "image": "images/product-100-web.jpg",
+    "sourcePhotos": [
+      "100.jpg",
+      "101.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "30 stuks"
+    },
+    "imagePresentation": {
+      "corners": [
+        [
+          0.021666666666666667,
+          0.30666666666666664
+        ],
+        [
+          0.7983333333333333,
+          0.37166666666666665
+        ],
+        [
+          0.7733333333333333,
+          0.7966666666666666
+        ],
+        [
+          0.03833333333333333,
+          0.685
+        ]
+      ],
+      "aspectRatio": 1.8
+    }
+  },
+  {
+    "id": 102,
+    "brand": "Shevach",
+    "name": "Corn Balls Classic maïsbolletjes",
+    "category": "Ontbijtgranen",
+    "variant": "375 g",
+    "ean": "5425000534945",
+    "ingredients": "Volkoren maïsmeel (90%), suiker, zout.",
+    "allergens": [],
+    "mayContain": "Pinda’s en andere noten.",
+    "kosher": "Badatz Edah Hachareidis (Parve)",
+    "image": "images/product-102-web.png",
+    "sourcePhotos": [
+      "102.jpg",
+      "103.jpg",
+      "104.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "375 g"
+    },
+    "imagePresentation": {
+      "corners": [
+        [
+          0.305,
+          0.0016666666666666668
+        ],
+        [
+          0.7816666666666666,
+          0.075
+        ],
+        [
+          0.78,
+          0.8883333333333333
+        ],
+        [
+          0.315,
+          0.9983333333333333
+        ]
+      ],
+      "aspectRatio": 0.61
+    }
+  },
+  {
+    "id": 105,
+    "brand": "Poco Loco",
+    "name": "Tortilla’s Original, maat M",
+    "category": "Tortilla’s en wraps",
+    "variant": "320 g (8 stuks)",
+    "ean": "5412514555559",
+    "ingredients": "Tarwebloem (64%), water, stabilisator (E422), raapzaadolie, tarwegluten, tarwevezel, dextrose, voedingszuur (E296), emulgator (E471), rijsmiddel (E500), zout, conserveermiddel (E282), meelverbeteraar (E920).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "",
+    "kosher": "Parve",
+    "image": "images/product-105-supplied.png",
+    "sourcePhotos": [
+      "105.jpg",
+      "106.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "320 g (8 stuks)"
+    },
+    "imagePresentation": {
+      "corners": [
+        [
+          0.1390403489640131,
+          0.1398282340311326
+        ],
+        [
+          0.8775899672846238,
+          0.1398282340311326
+        ],
+        [
+          0.8775899672846238,
+          0.8768115942028986
+        ],
+        [
+          0.1390403489640131,
+          0.8768115942028986
+        ]
+      ],
+      "aspectRatio": 0.9865258557902403
+    }
+  },
+  {
+    "id": 107,
+    "brand": "Poco Loco",
+    "name": "Wraps Original, maat L",
+    "category": "Tortilla’s en wraps",
+    "variant": "370 g (6 stuks)",
+    "ean": "5412514350000",
+    "ingredients": "Tarwebloem (64%), water, stabilisator (E422), raapzaadolie, tarwegluten, tarwevezel, dextrose, voedingszuur (E296), emulgator (E471), rijsmiddel (E500), zout, conserveermiddel (E282), meelverbeteraar (E920).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "",
+    "kosher": "Rabbijn Pinchas Avraham Meyers (Parve)",
+    "image": "images/product-107-supplied-current.png",
+    "sourcePhotos": [
+      "107.jpg",
+      "108.jpg"
+    ],
+    "productInfo": {
+      "Inhoud": "370 g (6 stuks)"
+    },
+    "imagePresentation": {
+      "corners": [
+        [
+          0.10784313725490197,
+          0.10576923076923077
+        ],
+        [
+          0.9117647058823529,
+          0.10576923076923077
+        ],
+        [
+          0.9117647058823529,
+          0.9086538461538461
+        ],
+        [
+          0.10784313725490197,
+          0.9086538461538461
+        ]
+      ],
+      "aspectRatio": 0.9820359281437125
+    }
   }
 ];
