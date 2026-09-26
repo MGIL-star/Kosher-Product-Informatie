@@ -1,17 +1,11 @@
-# Productlabels (57 x 32 mm)
+# Productlabels (57 × 32 mm)
 
-Alle 14 DKW-meters en 3 diepvries-schappen laden product-print.js en product-print.css. Bestaande catalogusrenderers en productdata zijn niet gewijzigd. Kaartknoppen zijn aparte knoppen, geen geneste knoppen. Mobiel staan de iconen onder de foto's; in modals naast de naam.
+Alle 14 DKW-meters en 3 diepvries-schappen gebruiken dezelfde product-print.js/.css en label.html/.js/.css. Printericonen staan onder het gewicht, uitgelijnd per rij; productvensters hebben hetzelfde kleine icoon. Bestaande catalogusdata en renderers blijven de bron. Voor negen lange namen is een shortName toegevoegd in de bestaande data van meters 10, 11 en 12; de naam op de website blijft gelijk.
 
-De gedeelde label.html/label.js/label.css laden de bestaande products.js van de gekozen groep (meter 3 en 4 gebruiken hun bestaande gedeelde databestanden). Een klik opent één productlabel en roept eenmaal window.print() aan. Alleen naam, ingrediënten en allergenen worden weergegeven; sporeninformatie valt onder allergenen. Bron-/redactienotities, foto, barcode, voedingswaarden en hechsher worden niet afgedrukt. Onbekende informatie blijft onbekend; gedeeltelijke ingrediënten heten Bekende ingrediënten.
+Eén label per product: één vetgedrukte naamregel, Nederlandse ingrediënten en volledige vetgedrukte allergenen/sporeninformatie. Geen foto, barcode, voedingswaarden, hechsher of bronnotities. Onbekende informatie blijft als onbekend vermeld; gedeeltelijke ingrediënten blijven als bekende ingrediënten benoemd.
 
-@page: 57mm 32mm, marge 0; labelbinnenmarge 2mm. Tekst past zich aan beschikbare hoogte en breedte aan, zonder afkappen. Heel lange lijsten worden noodzakelijkerwijs klein.
+Papier exact 57 × 32 mm; compacte binnenmarge 1 mm. Arial voor de inhoud: automatisch de grootst passende tekst voor de volledige beschikbare labelruimte, met 4,5 pt als ondergrens. Voor uitzonderlijk lange lijsten Arial Narrow; zonder dat lettertype kan de tekst horizontaal compacter worden gezet. De naam begint op 7 pt en wordt onafhankelijk op één regel passend gemaakt. Geen afkappen of tweede label. Een veiligheidscontrole voorkomt het afdrukken van een onvolledig label als toekomstige data toch te lang wordt.
 
-Selecteer in de gewone browser de DYMO LabelWriter 450, papier 57 x 32 mm, schaal 100%, geen extra printermarges en kop-/voetteksten uit. Browsercode kan de printer en driverinstellingen niet automatisch afdwingen. Mobiel vereist een beschikbare printerverbinding/printservice. Geen DYMO SDK of installatie toegevoegd.
+Controle lokale browser: alle 542 kaarten (540 producten plus twee sixpacks) op 17 pagina's; kaart- en modalkoppelingen, naam, ingrediënten, alle genoemde allergenen en geometrie gecontroleerd. Geen overloop; alle labels passen. Kleinste gemeten inhoud 4,72 pt. De 47 artikelen met gedeeltelijke/onbevestigde data gebruiken uitsluitend de beschikbare gegevens.
 
-Controle 26 september 2026:
-- Meter 11 desktop: kaartknoppen en modalknop, juiste productkoppeling.
-- Diepvries schap 1: 16 knoppen; na zoeken op Tilapia 3 producten en 3 knoppen.
-- Mobiele 390px iframeweergaven: meter 11 en diepvries 1; foto's vrij van printericonen.
-- 20 labels, inclusief langste ingrediëntenlijst uit elk van de 17 groepen, korte lijst, ontbrekende allergenen en Prime Cut-bronnotitie: afmetingen 215.42 x 120.94 CSS pixels (57 x 32 mm), geen overloop, exact naam en twee tekstblokken. Alle controles geslaagd.
-- Lange Mini Snap en Vissticks visueel gecontroleerd.
-- In-app browser toont label maar geen native printpreview. Native preview, driverinstellingen en fysieke DYMO-afdruk nog op gebruikers-pc te controleren; geen fysieke print geclaimd.
+Normale browserprint: selecteer DYMO LabelWriter 450, papier 57 × 32 mm, schaal 100%, geen browserkop-/voettekst of extra marges. De website kan printer- en driverkeuze niet afdwingen. Fysieke leesbaarheid en printermarges moeten met een DYMO-proefafdruk worden gecontroleerd; geen hardwaretest geclaimd. Publicatie wordt afzonderlijk gecontroleerd.

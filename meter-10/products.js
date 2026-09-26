@@ -1187,6 +1187,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 24,
     "name": "Viergranen ontbijtkoekjes met hazelnoten en chocolade",
+    "shortName": "Viergranenkoekjes hazelnoot & chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "205 g",

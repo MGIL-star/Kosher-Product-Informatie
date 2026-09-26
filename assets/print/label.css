@@ -1,9 +1,13 @@
 @page{size:57mm 32mm;margin:0}
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;background:white;color:black}
-#label{width:57mm;height:32mm;padding:2mm;break-inside:avoid;break-after:avoid;font-family:Arial,Helvetica,sans-serif;font-size:8px;line-height:1.12}
+#label{width:57mm;height:32mm;padding:1mm;break-inside:avoid;break-after:avoid;font-family:Arial,Helvetica,sans-serif;font-size:6pt;line-height:1}
 #label-content{width:100%;overflow-wrap:anywhere}
-h1{font-size:1.25em;line-height:1.1;margin:0 0 .3em;font-weight:700}
-p{margin:0 0 .2em}p:last-child{margin-bottom:0}
+h1{font-size:7pt;white-space:nowrap;line-height:1;margin:0 0 .15em;font-weight:700}
+p{margin:0 0 .12em}p:last-child{margin-bottom:0}
+.label-heading{font-size:1em}
+#fit-notice{max-width:460px;font:14px/1.5 Arial,Helvetica,sans-serif;margin-top:20px}
+@media screen{body[data-fits="false"] #label{height:auto;min-height:32mm}}
+@media print{#fit-notice{display:none!important}body[data-fits="false"] #label{display:none}}
 @media screen{body{padding:24px;background:#eee}#label{background:white;box-shadow:0 1px 8px #0002}}
 @media print{html,body{width:57mm;height:32mm}#label{box-shadow:none}}
