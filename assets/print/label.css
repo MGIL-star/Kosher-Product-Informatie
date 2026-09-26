@@ -1,0 +1,9 @@
+@page{size:57mm 32mm;margin:0}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:white;color:black}
+#label{width:57mm;height:32mm;padding:2mm;break-inside:avoid;break-after:avoid;font-family:Arial,Helvetica,sans-serif;font-size:8px;line-height:1.12}
+#label-content{width:100%;overflow-wrap:anywhere}
+h1{font-size:1.25em;line-height:1.1;margin:0 0 .3em;font-weight:700}
+p{margin:0 0 .2em}p:last-child{margin-bottom:0}
+@media screen{body{padding:24px;background:#eee}#label{background:white;box-shadow:0 1px 8px #0002}}
+@media print{html,body{width:57mm;height:32mm}#label{box-shadow:none}}

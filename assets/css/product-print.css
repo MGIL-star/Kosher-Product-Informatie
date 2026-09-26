@@ -1,0 +1,14 @@
+/* Small independent controls; existing product buttons retain their layout. */
+.product-card{position:relative}
+.product-card button.kpi-print-button,.dialog-heading button.kpi-print-button{display:grid;place-items:center;position:absolute;right:7px;top:7px;width:32px;height:32px;min-height:0;padding:6px;margin:0;border:1px solid #cbd6d1;border-radius:7px;background:#fff;color:#123c32;box-shadow:0 1px 4px #0001;cursor:pointer;z-index:2;transform:none}
+.kpi-print-button svg{width:18px;height:18px;pointer-events:none}
+.kpi-print-button:focus-visible{outline:3px solid #b88739;outline-offset:2px}
+.dialog-heading{position:relative}
+.dialog-heading button.kpi-print-button{top:22px;right:0}
+.dialog-heading:has(.kpi-print-button) h2{padding-right:40px}
+@media print{.kpi-print-button{display:none!important}}
+@media (max-width:767px),(hover:none) and (pointer:coarse){
+  .product-card button.kpi-print-button{top:auto;bottom:9px;right:7px}
+  .product-card .card-action{padding-right:43px}
+  .product-card .card-action>span[aria-hidden]{display:none}
+}
