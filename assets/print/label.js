@@ -14,20 +14,22 @@
     label.style.fontFamily = 'Arial, Helvetica, sans-serif';
     content.style.width = '100%'; content.style.transform = 'none';
     const style = getComputedStyle(label);
-    const height = label.getBoundingClientRect().width * 32 / 57 - parseFloat(style.paddingTop) - parseFloat(style.paddingBottom) - 1;
+    const height = label.clientWidth * 32 / 57 - parseFloat(style.paddingTop) - parseFloat(style.paddingBottom) - 1;
     const title = content.querySelector('h1');
     title.style.fontSize = '7pt';
     // Keep the complete short name on one line, scaling independently of the body.
-    const range = document.createRange(); range.selectNodeContents(title);
-    const width = range.getBoundingClientRect().width;
+    // Measure layout before rotation so beforeprint cannot shrink the label twice.
+    title.style.width = 'max-content';
+    const width = title.offsetWidth;
+    title.style.width = '';
     const titleSize = Math.min(7, 7 * (content.clientWidth - 1) / width);
     title.style.fontSize = titleSize + 'pt';
     label.style.fontSize = '4.5pt';
-    if (content.getBoundingClientRect().height > height) {
+    if (content.offsetHeight > height) {
       label.style.fontFamily = '"Arial Narrow", Arial, Helvetica, sans-serif';
     }
     // Keep one complete label even on devices without Arial Narrow.
-    if (content.getBoundingClientRect().height > height) {
+    if (content.offsetHeight > height) {
       content.style.width = (100 / .85) + '%';
       content.style.transformOrigin = 'top left';
       content.style.transform = 'scaleX(.85)';
@@ -35,10 +37,10 @@
     let low = 4.5, high = 32;
     for (let i = 0; i < 22; i++) {
       const size = (low + high) / 2; label.style.fontSize = size + 'pt';
-      if (content.getBoundingClientRect().height <= height && content.scrollWidth <= content.clientWidth) low = size; else high = size;
+      if (content.offsetHeight <= height && content.scrollWidth <= content.clientWidth) low = size; else high = size;
     }
     label.style.fontSize = low + 'pt';
-    const fits = content.getBoundingClientRect().height <= height && content.scrollWidth <= content.clientWidth;
+    const fits = content.offsetHeight <= height && content.scrollWidth <= content.clientWidth;
     document.body.dataset.fits = String(fits);
     let notice = document.querySelector('#fit-notice');
     if (!notice) {
