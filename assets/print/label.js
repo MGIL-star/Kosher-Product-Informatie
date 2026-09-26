@@ -1,7 +1,7 @@
 (function () {
   'use strict';
   const params = new URLSearchParams(location.search);
-  const groups = ['meter-1','meter-2','meter-3','meter-4-tafelzuur','meter-5','meter-6','meter-8','meter-9','meter-10','meter-11','meter-12','meter-13','meter-14','meter-15','diepvries-schap-1','diepvries-schap-2','diepvries-schap-3'];
+  const validGroup = /^(?:meter-[1-9][0-9]*(?:-[a-z0-9]+)*|diepvries-schap-[1-9][0-9]*)$/;
   const label = document.querySelector('#label');
   const content = document.querySelector('#label-content');
   function paragraph(title, text, bold = false) {
@@ -11,33 +11,30 @@
     value.textContent = text; p.append(b, value); content.append(p);
   }
   function fit() {
-    label.style.fontFamily = 'Arial, Helvetica, sans-serif';
+    label.style.fontFamily = 'Calibri, Arial, sans-serif';
     content.style.width = '100%'; content.style.transform = 'none';
     const style = getComputedStyle(label);
     const height = label.clientWidth * 32 / 57 - parseFloat(style.paddingTop) - parseFloat(style.paddingBottom) - 1;
     const title = content.querySelector('h1');
-    title.style.fontSize = '7pt';
-    // Keep the complete short name on one line, scaling independently of the body.
-    // Measure layout before rotation so beforeprint cannot shrink the label twice.
-    title.style.width = 'max-content';
-    const width = title.offsetWidth;
-    title.style.width = '';
-    const titleSize = Math.min(7, 7 * (content.clientWidth - 1) / width);
-    title.style.fontSize = titleSize + 'pt';
+    title.style.fontSize = '1em';
+    const fitsContent = () => content.offsetHeight <= height && content.scrollWidth <= content.clientWidth;
     label.style.fontSize = '4.5pt';
-    if (content.offsetHeight > height) {
-      label.style.fontFamily = '"Arial Narrow", Arial, Helvetica, sans-serif';
-    }
-    // Keep one complete label even on devices without Arial Narrow.
-    if (content.offsetHeight > height) {
+    // Only exceptionally long text needs narrower spacing.
+    if (!fitsContent()) {
       content.style.width = (100 / .85) + '%';
       content.style.transformOrigin = 'top left';
       content.style.transform = 'scaleX(.85)';
     }
-    let low = 4.5, high = 32;
+    if (!fitsContent()) {
+      content.style.width = (100 / .75) + '%';
+      content.style.transformOrigin = 'top left';
+      content.style.transform = 'scaleX(.75)';
+    }
+    // Maximize the common size without clipping any title or body text.
+    let low = 4.5, high = 8;
     for (let i = 0; i < 22; i++) {
       const size = (low + high) / 2; label.style.fontSize = size + 'pt';
-      if (content.offsetHeight <= height && content.scrollWidth <= content.clientWidth) low = size; else high = size;
+      if (fitsContent()) low = size; else high = size;
     }
     label.style.fontSize = low + 'pt';
     const fits = content.offsetHeight <= height && content.scrollWidth <= content.clientWidth;
@@ -51,7 +48,7 @@
     notice.textContent = 'Deze tekst past nog niet volledig op één label van 57 × 32 mm bij 4,5 pt. Er is niets weggelaten. Automatisch afdrukken is gestopt.';
     return fits;
   }
-  if (!groups.includes(params.get('group'))) {content.textContent = 'Onbekende productgroep.'; return;}
+  if (!validGroup.test(params.get('group') || '')) {content.textContent = 'Onbekende productgroep.'; return;}
   const script = document.createElement('script');
   const sharedSources = {'meter-3': '../js/products-meter-3.js', 'meter-4-tafelzuur': '../js/products-meter-4.js'};
   script.src = sharedSources[params.get('group')] || '../../' + params.get('group') + '/products.js';
@@ -74,7 +71,7 @@
       /^Niet geschikt.*allergie/i.test(sentence));
     if (p.mayContain) allergens += ' Kan bevatten: ' + p.mayContain;
     if (traces.length) allergens += ' ' + traces.join(' ');
-    paragraph('Allergenen', allergens, true);
+    paragraph('Allergenen', allergens);
     await document.fonts.ready;
     const fits = fit(); document.body.dataset.ready = 'true';
     window.addEventListener('beforeprint', fit);

@@ -1,15 +1,11 @@
-# Productlabels (57 × 32 mm)
+# DYMO productlabels
 
-Alle 14 DKW-meters en 3 diepvries-schappen gebruiken dezelfde product-print.js/.css en label.html/.js/.css. Printericonen staan onder het gewicht, uitgelijnd per rij; productvensters hebben hetzelfde kleine icoon. Bestaande catalogusdata en renderers blijven de bron. Voor negen lange namen is een shortName toegevoegd in de bestaande data van meters 10, 11 en 12; de naam op de website blijft gelijk.
+Werkende printerinstelling door gebruiker bevestigd: DYMO LabelWriter 450, papier 30334 – 2-1/4 in × 1-1/4 in, Actual size. Niet Fit to printable area.
 
-Eén label per product: één vetgedrukte naamregel, Nederlandse ingrediënten en volledige vetgedrukte allergenen/sporeninformatie. Geen foto, barcode, voedingswaarden, hechsher of bronnotities. Onbekende informatie blijft als onbekend vermeld; gedeeltelijke ingrediënten blijven als bekende ingrediënten benoemd.
+Gedeelde opmaak voor 14 DKW-meters en 3 diepvries-schappen: fysiek 57 × 32 mm, horizontale tekst zonder rotatie, 2 mm binnenmarge. De eerdere 32 × 57 mm-rotatieproef is vervallen.
 
-DYMO-pagina exact 32 × 57 mm; inhoud 57 × 32 mm, één print-only rotatie van 90 graden, binnenmarge 2 mm. Arial voor de inhoud: automatisch de grootst passende tekst voor de volledige beschikbare labelruimte, met 4,5 pt als ondergrens. Voor uitzonderlijk lange lijsten Arial Narrow; zonder dat lettertype kan de tekst horizontaal compacter worden gezet. De naam begint op 7 pt en wordt onafhankelijk op één regel passend gemaakt. Geen afkappen of tweede label. Een veiligheidscontrole voorkomt het afdrukken van een onvolledig label als toekomstige data toch te lang wordt.
+Calibri, basis 8 pt, automatisch kleiner wanneer nodig, productnaam en kopjes vet; overige ingrediënten- en allergenentekst normaal. Alle onderdelen gebruiken dezelfde lettergrootte. Circa 0,45 mm tussen productnaam, ingrediënten en allergenen; compacte regelafstand. De tekst groeit of krimpt als geheel binnen de beschikbare ruimte (ondergrens 4,5 pt); uitzonderlijk lange lijsten kunnen horizontaal compacter worden gezet. Niets afkappen, geen tweede label.
 
-Controle lokale browser: alle 542 kaarten (540 producten plus twee sixpacks) op 17 pagina's; kaart- en modalkoppelingen, naam, ingrediënten, alle genoemde allergenen en geometrie gecontroleerd. Geen overloop; alle labels passen. De 47 artikelen met gedeeltelijke/onbevestigde data gebruiken uitsluitend de beschikbare gegevens.
+Alleen bestaande productgegevens gebruiken; korte naam uit shortName waar aanwezig. Ontbrekende of gedeeltelijke gegevens blijven herkenbaar, niets verzonnen. De kaartknoppen en productvensters gebruiken één gedeelde printactie. Automatisch window.print() zodra het label klaarstaat. Geen directe printeraansturing.
 
-Normale browserprint: selecteer DYMO LabelWriter 450, papier 32 × 57 mm, schaal 100%, geen extra rotatie, geen browserkop-/voettekst of extra marges. De website kan printer- en driverkeuze niet afdwingen. Fysieke leesbaarheid en printermarges moeten met een DYMO-proefafdruk worden gecontroleerd; geen hardwaretest geclaimd. Publicatie wordt afzonderlijk gecontroleerd.
-
-Oriëntatiecorrectie: pasvormberekening gebruikt ongeroteerde layoutmaten, ook bij beforeprint. Alle pagina's delen deze opmaak. Schermweergave blijft horizontaal. De fysieke richting en één-labeluitvoer moeten nog met één DYMO-proefafdruk worden bevestigd; de codecontrole bewijst geen drivergedrag. Deze correctie is nog niet gepusht/gepubliceerd.
-
-Hercontrole oriëntatie: 542 kaart- en modalkoppelingen op alle 17 pagina's; ieder label gecontroleerd met de print-CSS en beforeprint. Geen fouten of overloop; geroteerde begrenzing 32 × 57 mm, veilige marge 2 mm. Kleinste gemeten inhoud 4,65 pt. Geen productdata, cataloguslayout, volgorde, filters of modals aangepast.
+Vaste projectstandaard: nieuwe productpagina’s worden gemaakt met scripts/create-product-page.cjs en templates/product-page/index.html. De gedeelde catalogus, modal en printknoppen worden automatisch geladen. De labelrenderer accepteert nieuwe meter- en diepvries-schapnummers zonder wijziging van een vaste lijst.
