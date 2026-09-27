@@ -109,7 +109,7 @@ window.KPI_PRODUCTS = [
     "brand": "Spitzer",
     "name": "Kaneelvlechtcake",
     "variant": "400 g",
-    "ean": "7290010473069",
+    "ean": "7290010473076",
     "ingredients": "Witte tarwebloem (bevat gluten), water, kaneelvulling [suiker, kaneel (1,1% van het product), bakkerijmix, maïszetmeel, glucosestroop, verdikkingsmiddelen (E460(ii), E1412, E1442, E466), kleurstof (E160a(ii)), stabilisatoren (E412, E415), zuurteregelaars (ascorbinezuur, citroenzuur, E331(iii), E327), aroma’s], margarine, geraffineerde sojaolie, gist, emulgatoren (sojalecithine, E472e, E481, E471), bevochtigingsmiddel (glycerol), gepasteuriseerd eipoeder, bakkerijhulpmiddel, keukenzout, conserveermiddelen (E282, E202), enzymen, meelverbeteraar (E920).",
     "allergens": [
       "Tarwe (gluten)",
@@ -126,18 +126,20 @@ window.KPI_PRODUCTS = [
     },
     "sourcePhotos": [
       "source-labels/4d311ff8-189c-4a3d-8ea9-73f1b275f191.jpg",
-      "source-labels/160b819a-7263-4727-9665-1fbe8e4d663a.jpg"
+      "source-labels/160b819a-7263-4727-9665-1fbe8e4d663a.jpg",
+      "source-labels/d4a1c15b-cbad-4343-93bc-2f12461d66f4.jpg",
+      "source-labels/eccac2c2-a023-408b-9b90-08000e8e6902.jpg",
+      "source-labels/e50a895b-7821-42bc-8d93-31a0de9feb87.jpg"
     ],
-    "barcodeNeedsCheck": true,
-    "barcodeNote": "De opgegeven barcode en de aangeleverde verpakkingsfoto spreken elkaar tegen. De koppeling tussen kaneel en chocolade moet nog worden bevestigd."
+    "barcodeConfirmedBy": "Verpakkingsfoto gebruiker, 27-09-2026"
   },
   {
     "id": 6,
     "brand": "Spitzer",
     "name": "Chocoladevlechtcake",
     "variant": "400 g",
-    "ean": "7290010473076",
-    "ingredients": "Witte tarwebloem (bevat gluten), water, vulling met chocoladesmaak [witte suiker, geraffineerde sojaolie, cacaopoeder, cacaomassa, bakkerijmix, maïszetmeel, verdikkingsmiddelen (E460(ii), E1412, E1442), stabilisatoren (E412, E415), zuurteregelaars (ascorbinezuur, citroenzuur, E331(iii), E327), aroma’s], margarine, gist, emulgatoren (sojalecithine, E472e, E481, E471), bevochtigingsmiddel (glycerol), gepasteuriseerd eipoeder, bakkerijhulpmiddel, keukenzout, conserveermiddelen (E202, E282), enzymen, meelbehandelingsmiddel (E-nummer niet leesbaar).",
+    "ean": "7290010473069",
+    "ingredients": "Witte tarwebloem (bevat gluten), water, vulling met chocoladesmaak [witte suiker, geraffineerde sojaolie, cacaopoeder, cacaomassa, bakkerijmix, maïszetmeel, verdikkingsmiddelen (E460(ii), E1412, E1442), stabilisatoren (E412, E415), zuurteregelaars (ascorbinezuur, citroenzuur, E331(iii), E327), aroma’s], margarine, gist, emulgatoren (sojalecithine, E472e, E481, E471), bevochtigingsmiddel (glycerol), gepasteuriseerd eipoeder, bakkerijhulpmiddel, keukenzout, conserveermiddelen (E202, E282), enzymen, meelbehandelingsmiddel (E920).",
     "allergens": [
       "Tarwe (gluten)",
       "Soja",
@@ -154,12 +156,12 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "source-labels/1d2220dd-24b7-4639-ba14-cf3e908553a9.jpg",
       "source-labels/ea5b46a8-9620-4f83-8e2c-4bb7b92117a6.jpg",
-      "source-labels/c3b89e69-e042-4b7e-9744-27c7a81f09f7.jpg"
+      "source-labels/c3b89e69-e042-4b7e-9744-27c7a81f09f7.jpg",
+      "source-labels/8a6335ca-6f8b-405c-965a-0022f9f92bd0.jpg",
+      "source-labels/3365354d-f254-4f78-a7a9-154df2a32ee6.jpg",
+      "source-labels/21fcf162-bd40-4595-8217-e3094a999beb.jpg"
     ],
-    "ingredientsPartial": true,
-    "allergenNote": "Het laatste E-nummer bij het meelbehandelingsmiddel valt achter een vouw op de foto en is nog niet bevestigd.",
-    "barcodeNeedsCheck": true,
-    "barcodeNote": "De opgegeven barcode en de aangeleverde verpakkingsfoto spreken elkaar tegen. De koppeling tussen kaneel en chocolade moet nog worden bevestigd."
+    "barcodeConfirmedBy": "Verpakkingsfoto gebruiker, 27-09-2026"
   },
   {
     "id": 7,
@@ -218,7 +220,7 @@ window.KPI_PRODUCTS = [
     "name": "Kaneelcake",
     "variant": "400 g",
     "ean": "7290020012227",
-    "ingredients": "Tarwebloem (gluten), witte suiker, geraffineerde sojaolie, water, palmvet, emulgatoren (E322, E471, E481), kaneel, bevochtigingsmiddelen (E422, E1520), zout, sojameel, gist, tarwegluten, gemodificeerd zetmeel (E1414), stabilisatoren (E410, E415), zuurteregelaars (E330, E331, E327, E336), conserveermiddelen (E202, E282), calciumcarbonaat (E170), kleurstof, antioxidant (E300), enzymen, smaakstoffen.",
+    "ingredients": "Tarwebloem (gluten), witte suiker, geraffineerde sojaolie, water, palmvet, emulgatoren (E322, E471, E481), kaneel (1,9%), bevochtigingsmiddelen (E422, E1520), zout, sojameel, gist, tarwegluten, gemodificeerd zetmeel (E1414), stabilisatoren (E410, E415), zuurteregelaars (E330, E331, E327, E336), conserveermiddelen (E202, E282), calciumcarbonaat (E170), dextrose, antioxidant (E300), enzymen, smaakstoffen.",
     "allergens": [
       "Tarwe (gluten)",
       "Soja"
@@ -232,10 +234,10 @@ window.KPI_PRODUCTS = [
       "Inhoud": "400 g"
     },
     "sourcePhotos": [
-      "source-labels/98e95812-bd30-4d70-9bc9-7319e001dd99.jpg"
+      "source-labels/98e95812-bd30-4d70-9bc9-7319e001dd99.jpg",
+      "source-labels/3a712dce-659b-4d5c-b870-a051ca897116.jpg"
     ],
-    "ingredientsPartial": true,
-    "ingredientsNote": "Het kaneelpercentage en de aanduiding van de kleurstof zijn op de foto niet betrouwbaar leesbaar."
+    "ingredientsConfirmedBy": "Kaneelpercentage (1,9%) en dextrose bevestigd door gebruiker op 27-09-2026."
   },
   {
     "id": 10,
@@ -280,7 +282,8 @@ window.KPI_PRODUCTS = [
       "Inhoud": "400 g"
     },
     "sourcePhotos": [
-      "source-labels/f5a96ea2-0226-461c-8a83-88adfc169aee.jpg"
+      "source-labels/f5a96ea2-0226-461c-8a83-88adfc169aee.jpg",
+      "source-labels/a431f479-8d8d-41fd-9cfe-46262a14a62a.jpg"
     ],
     "ingredientsPartial": true,
     "ingredientsNote": "Het cacaopercentage is op de foto niet betrouwbaar leesbaar."
@@ -678,7 +681,7 @@ window.KPI_PRODUCTS = [
     "brand": "Presteez",
     "name": "Eiwitreep met amandel en appel",
     "variant": "50 g",
-    "ean": "0796554370620",
+    "ean": "0796554370507",
     "ingredients": "Amandelen (44%), rozijnen, gedroogde abrikozen, cichoreiwortelvezel, pompoenpitten, wei-eiwitconcentraat (melk), gedroogde appels (4%), vitamine C, kaneel, vanille, zout.",
     "allergens": [
       "Amandelen",
@@ -694,15 +697,13 @@ window.KPI_PRODUCTS = [
     },
     "sourcePhotos": [
       "source-labels/1eeb80b6-c959-481b-b64d-4bd03c5058ba.jpg",
-      "source-labels/235bfd3d-eb60-4c5f-abe4-a00084ce8765.jpg"
+      "source-labels/235bfd3d-eb60-4c5f-abe4-a00084ce8765.jpg",
+      "source-labels/76642a32-2f0e-4632-9b9e-5e747d51ec24.jpg",
+      "source-labels/8bad99f1-1a9e-4ef9-ad09-8ef7e0277b03.jpg"
     ],
     "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar.",
     "barcodeNeedsCheck": false,
-    "barcodeConfirmedBy": "Gebruiker",
-    "barcodeSources": [
-      "https://shop.epicurium.co.uk/products/Bars-Bites-Functional/Fruit-Nut-Bars/EP-PRE-B-001_Gut-Friendly-Protein-Bar-Almond-Apple-12x50g",
-      "https://wholefoodsbox.co.uk/products/presteez-presteez-bar-almond-apple-protein-50g-sold-in-multiple-of-12"
-    ]
+    "barcodeConfirmedBy": "Verpakkingsfoto gebruiker, 27-09-2026"
   },
   {
     "id": 28,
