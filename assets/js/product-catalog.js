@@ -30,6 +30,11 @@
   function productImage(product, large = false) {
     const sizeClass = large ? ' product-visual-large' : '';
     if (product.image) {
+      const crop = product.imageFrame;
+      if (crop && [crop.x, crop.y, crop.width, crop.height].every(Number.isFinite) && crop.width > 0 && crop.height > 0) {
+        const style = `--pack-ratio:${crop.aspectRatio};--image-width:${100 / crop.width}%;--image-height:${100 / crop.height}%;--image-left:${-100 * crop.x / crop.width}%;--image-top:${-100 * crop.y / crop.height}%`;
+        return `<div class="product-visual${sizeClass}"><div class="product-packshot" style="${style}"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.brand)} ${escapeHtml(product.name)}" loading="lazy"></div></div>`;
+      }
       return `<div class="product-visual${sizeClass}"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.brand)} ${escapeHtml(product.name)}" loading="lazy"></div>`;
     }
     return `<div class="product-visual product-image-pending${sizeClass}" role="img" aria-label="Productfoto nog niet beschikbaar"><span>Productfoto volgt</span></div>`;
@@ -58,7 +63,7 @@
     if (!visible.length) {
       const hasProducts = products.length > 0;
       document.querySelector('#empty-title').textContent = hasProducts ? 'Geen producten gevonden' : 'Nog geen producten toegevoegd';
-      document.querySelector('#empty-copy').textContent = hasProducts ? 'Probeer een andere zoekterm of kies een ander filter.' : 'Meter 1 staat klaar voor de echte productgegevens.';
+      document.querySelector('#empty-copy').textContent = hasProducts ? 'Probeer een andere zoekterm of kies een ander filter.' : 'Deze pagina staat klaar voor de echte productgegevens.';
     }
   }
 
@@ -75,11 +80,11 @@
       <p class="image-disclaimer">${product.imageEdited ? 'Bewerkte productfoto; verpakking kan afwijken.' : product.imageIllustration ? 'Illustratie van het product, geen verpakkingsfoto.' : 'Afbeelding kan afwijken van de actuele verpakking.'}</p>
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
       ${product.productInfo ? `<section><h3>${product.isWine ? 'Productinformatie / wijnstijl' : 'Productinformatie'}</h3>${Object.entries(product.productInfo).map(([label, value]) => `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`).join('')}</section>` : ''}
-      ${product.ingredients ? `<section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p></section>` : ''}
+      ${product.ingredients ? `<section><h3>${product.ingredientsPartial ? 'Bekende ingrediënten' : 'Ingrediënten'}</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientsNote ? `<p>${escapeHtml(product.ingredientsNote)}</p>` : ''}</section>` : ''}
       ${product.allergens !== null ? `<section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p>${escapeHtml(product.allergenNote)}</p>` : ''}</section>` : ''}
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechsher</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
+      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p>${product.kosherNote ? `<p class="kosher-note">${escapeHtml(product.kosherNote)}</p>` : ''}</section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;
     dialog.showModal();
