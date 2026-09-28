@@ -1,0 +1,1500 @@
+{
+  "checkedAt": "2026-09-28",
+  "status": "Concept — niet gepubliceerd",
+  "order": "Van boven naar beneden en per plank van links naar rechts. Overlappende foto’s samengevoegd. 72 kaarten zijn waargenomen productposities; onzekere varianten kunnen nog worden samengevoegd.",
+  "sourcePhotos": [
+    "2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+    "c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+    "daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+    "f9099abb-4e91-4f82-80d3-24db24816b86.jpg"
+  ],
+  "counts": {
+    "cards": 72,
+    "pending": 32
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Toiletblok",
+      "brand": "Sano Bon",
+      "shelf": 1,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Het aantal blokken per verpakking is nog te bevestigen.",
+      "sources": [
+        {
+          "label": "Sano — fabrikant",
+          "url": "https://www.sano-international.com/sano/"
+        }
+      ],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.0671875,
+        "y": 0.34791666666666665,
+        "width": 0.109375,
+        "height": 0.15208333333333332,
+        "aspectRatio": 0.958904109589041
+      }
+    },
+    {
+      "id": 2,
+      "name": "Allesreiniger in gelvorm met dennenolie",
+      "brand": "Sano Jet+",
+      "shelf": 1,
+      "variant": "1 liter",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Sano — productinformatie",
+          "url": "https://sanobg.com/product/jet-universal-gel-with-pine-oil/"
+        }
+      ],
+      "image": "images/product-2.jpg",
+      "imageSource": "https://sanobg.com/product/jet-universal-gel-with-pine-oil/"
+    },
+    {
+      "id": 3,
+      "name": "Luchtverfrisser met roze bloemen",
+      "brand": "",
+      "shelf": 1,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.471875,
+        "y": 0.25833333333333336,
+        "width": 0.0484375,
+        "height": 0.24166666666666667,
+        "aspectRatio": 0.2672413793103448
+      }
+    },
+    {
+      "id": 4,
+      "name": "Luchtverfrisser met blauwe bloemen",
+      "brand": "",
+      "shelf": 1,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.5203125,
+        "y": 0.25625,
+        "width": 0.046875,
+        "height": 0.24375,
+        "aspectRatio": 0.2564102564102564
+      }
+    },
+    {
+      "id": 5,
+      "name": "Schuurspons 2 in 1",
+      "brand": "More",
+      "shelf": 1,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "2 in 1 is zichtbaar; materiaal, aantal en geschikte oppervlakken zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.56875,
+        "y": 0.35625,
+        "width": 0.09375,
+        "height": 0.14375,
+        "aspectRatio": 0.8695652173913043
+      }
+    },
+    {
+      "id": 6,
+      "name": "Schuursponzen",
+      "brand": "",
+      "shelf": 1,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.6609375,
+        "y": 0.35833333333333334,
+        "width": 0.090625,
+        "height": 0.1375,
+        "aspectRatio": 0.8787878787878788
+      }
+    },
+    {
+      "id": 7,
+      "name": "Wonderspons",
+      "brand": "",
+      "shelf": 1,
+      "variant": "6 stuks",
+      "status": "nog te bevestigen",
+      "note": "De doos vermeldt 6 stuks. Het merk en de precieze gebruiksaanwijzing zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.765625,
+        "y": 0.3625,
+        "width": 0.184375,
+        "height": 0.1375,
+        "aspectRatio": 1.7878787878787878
+      }
+    },
+    {
+      "id": 8,
+      "name": "Gezichtscrème linker doos",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.0734375,
+        "y": 0.6145833333333334,
+        "width": 0.0890625,
+        "height": 0.11666666666666667,
+        "aspectRatio": 1.0178571428571428
+      }
+    },
+    {
+      "id": 9,
+      "name": "Gezichtscrème rechter doos",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.1609375,
+        "y": 0.6125,
+        "width": 0.0765625,
+        "height": 0.11875,
+        "aspectRatio": 0.8596491228070176
+      }
+    },
+    {
+      "id": 10,
+      "name": "Lichaamsboter met aloë vera",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "350 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
+        }
+      ],
+      "image": "images/product-10.jpg",
+      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3855910711.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Verzorgingscrème lichte afbeelding",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.30625,
+        "y": 0.71875,
+        "width": 0.0734375,
+        "height": 0.09583333333333334,
+        "aspectRatio": 1.0217391304347827
+      }
+    },
+    {
+      "id": 12,
+      "name": "Verzorgingscrème bruine afbeelding",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.3890625,
+        "y": 0.71875,
+        "width": 0.0734375,
+        "height": 0.09791666666666667,
+        "aspectRatio": 1
+      }
+    },
+    {
+      "id": 13,
+      "name": "Gezichtsreiniging in roze flacon",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De roze gezichtszeep en gezichtsscrub lijken op elkaar. De exacte variant en inhoud op deze foto zijn nog te bevestigen.",
+      "sources": [
+        {
+          "label": "Mogelijke variant: gezichtszeep",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
+        },
+        {
+          "label": "Mogelijke variant: gezichtsscrub",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-facial-peeling-250ml"
+        }
+      ],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.46875,
+        "y": 0.5791666666666667,
+        "width": 0.05625,
+        "height": 0.23958333333333334,
+        "aspectRatio": 0.3130434782608696
+      }
+    },
+    {
+      "id": 14,
+      "name": "Balsem na het scheren",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "100 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
+        }
+      ],
+      "image": "images/product-14.jpg",
+      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4143713234.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bodylotion met olijfolie en honing",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "400 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
+        }
+      ],
+      "image": "images/product-15.jpg",
+      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/74766%20body%20lotion%20nwe%20verpakking%20-%20klein%20formaat-01KPDDJTG3T6NE09RJ94VAXT1K.png"
+    },
+    {
+      "id": 16,
+      "name": "Bodylotion fles",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De precieze geur en inhoud van deze bodylotion zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.63125,
+        "y": 0.5833333333333334,
+        "width": 0.084375,
+        "height": 0.2375,
+        "aspectRatio": 0.47368421052631576
+      }
+    },
+    {
+      "id": 17,
+      "name": "Dode Zeemodder",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "300 g",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Productinformatie leverancier",
+          "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html"
+        }
+      ],
+      "image": "images/product-17.jpg",
+      "imageSource": "https://cdn.webshopapp.com/shops/330706/files/502023632/shemen-amour-shemen-amour-dode-zee-modder-300-g.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Dode Zee badzout",
+      "brand": "Shemen Amour",
+      "shelf": 2,
+      "variant": "300 g",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Productinformatie leverancier",
+          "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html"
+        }
+      ],
+      "image": "images/product-18.jpg",
+      "imageSource": "https://cdn.webshopapp.com/shops/330706/files/384508503/shemen-amour-shemen-amour-dode-zee-badzout.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Product in witte doos met turquoise rand",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De verpakking lijkt op de minerale zeep van HB. Productnaam, variant en gewicht zijn nog niet voldoende leesbaar om dit te bevestigen.",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.00625,
+        "y": 0.29375,
+        "width": 0.0609375,
+        "height": 0.0875,
+        "aspectRatio": 0.9285714285714286
+      }
+    },
+    {
+      "id": 20,
+      "name": "Lichaamsboter met lavendel en patchouli",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "350 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/aromatic-body-butter"
+        },
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/hb-bodybutter-lavendel"
+        }
+      ],
+      "image": "images/product-20.jpg",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0623/3466/4793/files/244-1-copy.jpg?v=1754322678"
+    },
+    {
+      "id": 21,
+      "name": "Hand- en nagelcrème met lavendel",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "100 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/hands-nails-cream"
+        }
+      ],
+      "image": "images/product-21.jpg",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0623/3466/4793/files/2223.jpg?v=1754322637"
+    },
+    {
+      "id": 22,
+      "name": "Hand- en nagelcrème met avocado en aloë vera",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "100 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/intensive-hand-nail-cream-enriched-with-avocado-oil-aloe-vera"
+        }
+      ],
+      "image": "images/product-22.jpg",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0623/3466/4793/files/2224-copy-300x300-1.jpg?v=1747377454"
+    },
+    {
+      "id": 23,
+      "name": "Voetcrème met vitaminen",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "100 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/multi-vitamin-treatment-anti-crack-foot-cream-2"
+        }
+      ],
+      "image": "images/product-23.jpg",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0623/3466/4793/files/200-copy.jpg?v=1755366811"
+    },
+    {
+      "id": 24,
+      "name": "Voetcrème met avocado en aloë vera",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "100 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/intensive-treatment-anti-crack-foot-cream-enriched-with-avocado-oil-aloe-vera"
+        }
+      ],
+      "image": "images/product-24.jpg",
+      "imageSource": "https://cdn.shopify.com/s/files/1/0623/3466/4793/files/2019-copy.jpg?v=1755366698"
+    },
+    {
+      "id": 25,
+      "name": "Verzorgingscrème voor lichaam handen en voeten",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "180 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/aloe-vera-gel"
+        },
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+        }
+      ],
+      "image": "images/product-25.jpg",
+      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/73133%20HB%20multi%20aloe%20klein%20bestand-01KKP3Y3HJBCDQE1YP9SE3E38K.png"
+    },
+    {
+      "id": 26,
+      "name": "Douchegel met lavendel",
+      "brand": "HB",
+      "shelf": 3,
+      "variant": "780 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/moisture-rich-shower-cream-lavender"
+        },
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/hb-douchegel-met-lavendel"
+        }
+      ],
+      "image": "images/product-26.jpg",
+      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/73137%20HB%20paarse%20pompverpakking-01KKP44YAJXJ9YNJYK1DZKY7MG.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Haarverzorging met arganolie",
+      "brand": "Shemen Amour",
+      "shelf": 3,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De arganreeks is herkenbaar; shampoo of conditioner en inhoud zijn nog te bevestigen.",
+      "sources": [
+        {
+          "label": "Vergelijkingsbron: arganshampoo",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-shampoo-met-arganolie"
+        },
+        {
+          "label": "Vergelijkingsbron: arganconditioner",
+          "url": "https://cosmetics-israel.com/en/product/shemen-amour-hair-conditioner-argan-oil-from-morocco/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.5453125,
+        "y": 0.2,
+        "width": 0.065625,
+        "height": 0.20416666666666666,
+        "aspectRatio": 0.42857142857142855
+      }
+    },
+    {
+      "id": 28,
+      "name": "Shampoo met Dode Zeemodder",
+      "brand": "Shemen Amour",
+      "shelf": 3,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De inhoud van de gefotografeerde fles is nog te bevestigen.",
+      "sources": [
+        {
+          "label": "Productinformatie leverancier",
+          "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
+        }
+      ],
+      "image": "images/product-28.jpg",
+      "imageSource": "https://cdn.webshopapp.com/shops/330706/files/384508508/shemen-amour-shemen-amour-dode-zee-modder-shampoo.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Minerale zeep",
+      "brand": "Shemen Amour",
+      "shelf": 3,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Het gaat om kleine zeepdoosjes; de precieze variant en inhoud zijn niet leesbaar.",
+      "sources": [
+        {
+          "label": "Vergelijkingsbron: modderzeep",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.684375,
+        "y": 0.31875,
+        "width": 0.0578125,
+        "height": 0.0875,
+        "aspectRatio": 0.8809523809523809
+      }
+    },
+    {
+      "id": 30,
+      "name": "Douchegel met olijfolie",
+      "brand": "Shemen Amour",
+      "shelf": 3,
+      "variant": "770 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769"
+        }
+      ],
+      "image": "images/product-30.jpg",
+      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/74769 Shower gel grote groene pomp-01KFDVMGNKKKAKRK2PXSHSWX7V.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Shampoo voor mannen",
+      "brand": "Shemen Amour",
+      "shelf": 3,
+      "variant": "770 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74757"
+        },
+        {
+          "label": "Productomschrijving shampoo 770 ml",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-set-shampoo-en-aftershave"
+        }
+      ],
+      "image": "images/product-31.jpg",
+      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/74757 amour-MEN-shampoo-01KFDVMGNTYQ9BC30225SB80MB.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Deodorantroller met gele bloemen",
+      "brand": "HB",
+      "shelf": 4,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.034375,
+        "y": 0.5916666666666667,
+        "width": 0.04375,
+        "height": 0.12291666666666666,
+        "aspectRatio": 0.4745762711864407
+      }
+    },
+    {
+      "id": 33,
+      "name": "Deodorantroller met paarse bloemen",
+      "brand": "HB",
+      "shelf": 4,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.0796875,
+        "y": 0.5916666666666667,
+        "width": 0.04375,
+        "height": 0.12291666666666666,
+        "aspectRatio": 0.4745762711864407
+      }
+    },
+    {
+      "id": 34,
+      "name": "Deodorantroller met roze bloemen",
+      "brand": "HB",
+      "shelf": 4,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.1265625,
+        "y": 0.5916666666666667,
+        "width": 0.04375,
+        "height": 0.12291666666666666,
+        "aspectRatio": 0.4745762711864407
+      }
+    },
+    {
+      "id": 35,
+      "name": "Handzeep Sweet Kiss",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "500 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Productassortiment Careline",
+          "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        }
+      ],
+      "image": "images/product-35.jpg",
+      "imageSource": "https://cdn.webshopapp.com/shops/330706/files/384508692/500x500x2/image.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Handzeep Spring Blossom",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "500 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Productassortiment Careline",
+          "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        }
+      ],
+      "image": "images/product-36.jpg",
+      "imageSource": "https://cdn.webshopapp.com/shops/330706/files/384508691/500x500x2/image.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Handzeep Wild Breeze",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "500 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Productassortiment Careline",
+          "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        }
+      ],
+      "image": "images/product-37.jpg",
+      "imageSource": "https://cdn.webshopapp.com/shops/330706/files/384508693/500x500x2/image.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Dagcrème Pro Collagen 3%",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "50 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Careline — productcatalogus",
+          "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+        },
+        {
+          "label": "Terminal X — productfoto",
+          "url": "https://www.terminalx.com/brands/careline/W95234"
+        }
+      ],
+      "image": "images/product-38.jpg",
+      "imageSource": "https://media.terminalx.com/pub/media/catalog/product/cache/f112238e8de94b6d480bd02e7a9501b8/w/9/w952340968-11741522108.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Gezichtscrème C Power links",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+      "sources": [
+        {
+          "label": "Careline — fabrikant",
+          "url": "https://careline.co.il/c-power/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.4734375,
+        "y": 0.5625,
+        "width": 0.065625,
+        "height": 0.15833333333333333,
+        "aspectRatio": 0.5526315789473685
+      }
+    },
+    {
+      "id": 40,
+      "name": "Nachtcrème Pro Retinol 2%",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "50 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Careline — fabrikant",
+          "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
+        }
+      ],
+      "image": "images/product-40.jpg",
+      "imageSource": "https://cdn.istores.co.il/image/upload/c_limit,w_1200,h_630/clients/113088/cc4dd0548e3a6485389f15f5c4f670b683b5a319.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Gezichtscrème C Power rechts",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+      "sources": [
+        {
+          "label": "Careline — fabrikant",
+          "url": "https://careline.co.il/c-power/"
+        }
+      ],
+      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.6109375,
+        "y": 0.5604166666666667,
+        "width": 0.0640625,
+        "height": 0.16041666666666668,
+        "aspectRatio": 0.5324675324675324
+      }
+    },
+    {
+      "id": 42,
+      "name": "Gezichtsreiniger C Power",
+      "brand": "Careline",
+      "shelf": 4,
+      "variant": "300 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Careline — fabrikant",
+          "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
+        }
+      ],
+      "image": "images/product-42.jpg",
+      "imageSource": "https://cdn.istores.co.il/image/upload/c_limit,w_1200,h_630/clients/113088/116494a5305a22a7b55318a9b1a81b8e7c7dfd3a.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Shampoo en douchegel met munt 2 in 1",
+      "brand": "Crema Men",
+      "shelf": 4,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%9E%D7%A0%D7%98%D7%94-2-%D7%91-1/p/343105"
+        }
+      ],
+      "image": "images/product-43.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290012117428.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.56,
+        "height": 1,
+        "aspectRatio": 0.5194893617021277
+      }
+    },
+    {
+      "id": 44,
+      "name": "Shampoo en douchegel met aloë vera 2 in 1",
+      "brand": "Crema Men",
+      "shelf": 4,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-2-%D7%91-1/p/343104"
+        }
+      ],
+      "image": "images/product-44.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290012117435.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Shampoo en conditioner 2 in 1",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo-and-conditioner/%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%9E%D7%A8%D7%9B%D7%9A-2-%D7%91-1-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/606404"
+        }
+      ],
+      "image": "images/product-45.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492463.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.5247765957446808
+      }
+    },
+    {
+      "id": 46,
+      "name": "Shampoo voor normaal haar",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/604212"
+        }
+      ],
+      "image": "images/product-46.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492449.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.5247765957446808
+      }
+    },
+    {
+      "id": 47,
+      "name": "Antiroosshampoo",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%9C%D7%9E%D7%A0%D7%99%D7%A2%D7%AA-%D7%A7%D7%A9%D7%A7%D7%A9%D7%99%D7%9D/p/628507"
+        }
+      ],
+      "image": "images/product-47.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290116531250.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.5985
+      }
+    },
+    {
+      "id": 48,
+      "name": "Shampoo en douchegel voor mannen 3 in 1",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%95%D7%A1%D7%91%D7%95%D7%9F-%D7%A4%D7%A0%D7%99%D7%9D-3-%D7%91-1-%D7%9C%D7%92%D7%91%D7%A8-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7/p/603467"
+        }
+      ],
+      "image": "images/product-48.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492630.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.6266489361702127
+      }
+    },
+    {
+      "id": 49,
+      "name": "Conditioner voor droog en beschadigd haar",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "SuperCare Israël",
+          "url": "https://supercare.co.il/product/פינוק-מרכך-לשיער-יבש-פגום-700מל"
+        }
+      ],
+      "image": "images/product-49.jpg",
+      "imageSource": "https://supercare.co.il/wp-content/uploads/2024/08/פינוק-ורוד-בהיר.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Conditioner voor normaal haar",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/conditioner/%D7%9E%D7%A8%D7%9B%D7%9A-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/606405"
+        }
+      ],
+      "image": "images/product-50.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492531.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.5247765957446808
+      }
+    },
+    {
+      "id": 51,
+      "name": "Conditioner met Marokkaanse olie",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/conditioner/%D7%9E%D7%A8%D7%9B%D7%9A-%D7%91%D7%AA%D7%95%D7%A1%D7%A4%D7%AA-%D7%A9%D7%9E%D7%9F-%D7%9E%D7%A8%D7%95%D7%A7%D7%90%D7%99/p/620428"
+        }
+      ],
+      "image": "images/product-51.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112499448.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.5247765957446808
+      }
+    },
+    {
+      "id": 52,
+      "name": "Douchecrème met lavendel en vanille",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%9C%D7%91%D7%A0%D7%93%D7%A8-%D7%95%D7%95%D7%A0%D7%99%D7%9C/p/603471"
+        }
+      ],
+      "image": "images/product-52.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492609.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.5247765957446808
+      }
+    },
+    {
+      "id": 53,
+      "name": "Douchecrème met witte rozen",
+      "brand": "Pinuk",
+      "shelf": 5,
+      "variant": "700 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%91%D7%A0%D7%99%D7%97%D7%95%D7%97-%D7%95%D7%A8%D7%93%D7%99%D7%9D-%D7%9C%D7%91%D7%A0%D7%99%D7%9D-%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94-%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%AA/p/648003"
+        }
+      ],
+      "image": "images/product-53.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290116533117.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.63,
+        "height": 1,
+        "aspectRatio": 0.6266489361702127
+      }
+    },
+    {
+      "id": 54,
+      "name": "Douchecrème met yoghurt en aloë vera",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98-%D7%91%D7%A0%D7%99%D7%97%D7%95%D7%97-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94/p/650210"
+        }
+      ],
+      "image": "images/product-54.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860380.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.44310638297872346
+      }
+    },
+    {
+      "id": 55,
+      "name": "Douchecrème met yoghurt en amandelgeur",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98-%D7%91%D7%A0%D7%99%D7%97%D7%95%D7%97-%D7%A9%D7%A7%D7%93%D7%99%D7%9D/p/650208"
+        }
+      ],
+      "image": "images/product-55.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860991.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.4348085106382979
+      }
+    },
+    {
+      "id": 56,
+      "name": "Douchecrème met yoghurt en kokosgeur",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98-%D7%91%D7%A0%D7%99%D7%97%D7%95%D7%97-%D7%A7%D7%95%D7%A7%D7%95%D7%A1/p/650207"
+        }
+      ],
+      "image": "images/product-56.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860946.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.4320425531914894
+      }
+    },
+    {
+      "id": 57,
+      "name": "Douchecrème met yoghurt en bosbessengeur",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/תחליב-רחצה-יוגורט-בניחוח-אוכמניות/p/650209"
+        }
+      ],
+      "image": "images/product-57.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860038.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.430936170212766
+      }
+    },
+    {
+      "id": 58,
+      "name": "Antiroosshampoo met exotisch fruit en calendula",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/שמפו-פירות-אקזוטיים-וקלנדולה-למניעת-קשקשים/p/650191"
+        }
+      ],
+      "image": "images/product-58.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860144.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.421531914893617
+      }
+    },
+    {
+      "id": 59,
+      "name": "Shampoo met wilde roos en macadamia",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%A9%D7%9E%D7%9F-%D7%95%D7%A8%D7%93-%D7%94%D7%91%D7%A8-%D7%95%D7%A9%D7%9E%D7%9F-%D7%9E%D7%A7%D7%93%D7%9E%D7%99%D7%94-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%99%D7%91%D7%A9/p/650189"
+        }
+      ],
+      "image": "images/product-59.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860199.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.4193191489361702
+      }
+    },
+    {
+      "id": 60,
+      "name": "Shampoo met aloë vera en groene thee",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/650190"
+        }
+      ],
+      "image": "images/product-60.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860045.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.4236421725239617
+      }
+    },
+    {
+      "id": 61,
+      "name": "Conditioner met aloë vera en groene thee",
+      "brand": "Hawaii",
+      "shelf": 6,
+      "variant": "650 ml",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/conditioner/%D7%9E%D7%A8%D7%9B%D7%9A-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/650199"
+        }
+      ],
+      "image": "images/product-61.jpg",
+      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290117860090.jpg",
+      "imageFrame": {
+        "x": 0,
+        "y": 0,
+        "width": 0.52,
+        "height": 1,
+        "aspectRatio": 0.42429787234042554
+      }
+    },
+    {
+      "id": 62,
+      "name": "Kaarsen gekleurde verpakking links",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0,
+        "y": 0.4708333333333333,
+        "width": 0.0796875,
+        "height": 0.26458333333333334,
+        "aspectRatio": 0.4015748031496063
+      }
+    },
+    {
+      "id": 63,
+      "name": "Kaarsen donkerblauwe doos",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.0921875,
+        "y": 0.5625,
+        "width": 0.1265625,
+        "height": 0.058333333333333334,
+        "aspectRatio": 2.892857142857143
+      }
+    },
+    {
+      "id": 64,
+      "name": "Kaarsen lichtblauwe doos",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.2265625,
+        "y": 0.55,
+        "width": 0.0984375,
+        "height": 0.05416666666666667,
+        "aspectRatio": 2.423076923076923
+      }
+    },
+    {
+      "id": 65,
+      "name": "Herdenkingskaars voor 7 dagen",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Het merk en de barcode van deze specifieke verpakking zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.328125,
+        "y": 0.5020833333333333,
+        "width": 0.065625,
+        "height": 0.23333333333333334,
+        "aspectRatio": 0.375
+      }
+    },
+    {
+      "id": 66,
+      "name": "Kaarsenaccessoires kleine blauwe doosjes",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "De kleine blauwe doosjes zijn te onscherp om de inhoud betrouwbaar te herkennen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.40625,
+        "y": 0.575,
+        "width": 0.034375,
+        "height": 0.04791666666666667,
+        "aspectRatio": 0.9565217391304348
+      }
+    },
+    {
+      "id": 67,
+      "name": "Kaarsen in houders kartonnen doos",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.4421875,
+        "y": 0.5333333333333333,
+        "width": 0.2015625,
+        "height": 0.21666666666666667,
+        "aspectRatio": 1.2403846153846154
+      }
+    },
+    {
+      "id": 68,
+      "name": "Kaarsen wit-groene doos",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Op de doos staat 10. Merk, type en brandduur zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.6671875,
+        "y": 0.6833333333333333,
+        "width": 0.059375,
+        "height": 0.04791666666666667,
+        "aspectRatio": 1.6521739130434783
+      }
+    },
+    {
+      "id": 69,
+      "name": "Kaarsen of houders doorzichtige verpakking",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Het is niet duidelijk of dit kaarsen, lege houders of een combinatie is.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.6828125,
+        "y": 0.4708333333333333,
+        "width": 0.10625,
+        "height": 0.09166666666666666,
+        "aspectRatio": 1.5454545454545454
+      }
+    },
+    {
+      "id": 70,
+      "name": "Kaarsen in glas blauwe verpakking",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Merk, aantal en brandduur zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.7265625,
+        "y": 0.6125,
+        "width": 0.065625,
+        "height": 0.10208333333333333,
+        "aspectRatio": 0.8571428571428571
+      }
+    },
+    {
+      "id": 71,
+      "name": "Chanoekakaarsen blauwe doos links",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Chanoekakaarsen zijn herkenbaar. Merk, aantal en afmetingen zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.803125,
+        "y": 0.6125,
+        "width": 0.0578125,
+        "height": 0.13958333333333334,
+        "aspectRatio": 0.5522388059701493
+      }
+    },
+    {
+      "id": 72,
+      "name": "Chanoekakaarsen blauwe doos rechts",
+      "brand": "",
+      "shelf": 7,
+      "variant": "",
+      "status": "nog te bevestigen",
+      "note": "Deze doos heeft een andere opdruk. Merk, aantal en afmetingen zijn nog te bevestigen.",
+      "sources": [],
+      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+      "imageSource": "Eigen schapfoto",
+      "imageFrame": {
+        "x": 0.8640625,
+        "y": 0.6125,
+        "width": 0.0671875,
+        "height": 0.13958333333333334,
+        "aspectRatio": 0.6417910447761194
+      }
+    }
+  ]
+}

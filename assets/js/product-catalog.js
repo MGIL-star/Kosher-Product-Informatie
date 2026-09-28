@@ -2,6 +2,7 @@
   'use strict';
 
   const products = window.KPI_PRODUCTS || [];
+  const nonFood = window.KPI_CATALOG_MODE === 'nonfood';
   const grid = document.querySelector('#product-grid');
   const search = document.querySelector('#search');
   const count = document.querySelector('#result-count');
@@ -13,7 +14,7 @@
 
   const siteDisclaimer = `<div class="site-disclaimer">
     <strong>Productinformatie &amp; afbeeldingen</strong>
-    <p>De getoonde productinformatie is met zorg samengesteld. Ingrediënten, allergenen, verpakking en productsamenstelling kunnen door de fabrikant worden gewijzigd. De getoonde foto’s dienen ter illustratie en kunnen afwijken van de actuele verpakking of het product zoals dit in de winkel verkrijgbaar is. Controleer bij twijfel altijd het etiket op de actuele verpakking.</p>
+    <p>De getoonde productinformatie is met zorg samengesteld. ${nonFood ? 'Verpakking, uitvoering en gebruiksaanwijzing kunnen door de fabrikant worden gewijzigd.' : 'Ingrediënten, allergenen, verpakking en productsamenstelling kunnen door de fabrikant worden gewijzigd.'} De getoonde foto’s dienen ter illustratie en kunnen afwijken van de actuele verpakking of het product zoals dit in de winkel verkrijgbaar is. Controleer bij twijfel altijd het etiket op de actuele verpakking.</p>
   </div>`;
 
   const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
@@ -44,8 +45,8 @@
     return `<article class="product-card">
       <button type="button" data-product-id="${product.id}" aria-label="Bekijk ${escapeHtml(product.brand)} ${escapeHtml(product.name)}">
         ${productImage(product)}
-        <span class="card-text"><strong>${escapeHtml(product.name)}</strong><small>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</small>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</span>
-        <span class="card-action">Ingrediënten &amp; allergenen <span aria-hidden="true">→</span></span>
+        <span class="card-text"><strong>${escapeHtml(product.name)}</strong><small>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</small>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}${product.identificationNote ? '<span class="identification-status">Variant nog te bevestigen</span>' : ''}</span>
+        <span class="card-action">${nonFood ? 'Productinformatie' : 'Ingrediënten &amp; allergenen'} <span aria-hidden="true">→</span></span>
       </button>
     </article>`;
   }
@@ -68,7 +69,7 @@
   }
 
   function openProduct(product) {
-    const allergens = product.allergens === null
+    const allergens = nonFood || product.allergens === null
       ? '<span class="allergen-free">Nog te controleren op de verpakking</span>'
       : product.allergens.length
       ? product.allergens.map(item => /^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(item.trim())
@@ -80,11 +81,13 @@
       <p class="image-disclaimer">${product.imageEdited ? 'Bewerkte productfoto; verpakking kan afwijken.' : product.imageIllustration ? 'Illustratie van het product, geen verpakkingsfoto.' : 'Afbeelding kan afwijken van de actuele verpakking.'}</p>
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
       ${product.productInfo ? `<section><h3>${product.isWine ? 'Productinformatie / wijnstijl' : 'Productinformatie'}</h3>${Object.entries(product.productInfo).map(([label, value]) => `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`).join('')}</section>` : ''}
-      ${product.ingredients ? `<section><h3>${product.ingredientsPartial ? 'Bekende ingrediënten' : 'Ingrediënten'}</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientsNote ? `<p>${escapeHtml(product.ingredientsNote)}</p>` : ''}</section>` : ''}
-      ${product.allergens !== null ? `<section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p>${escapeHtml(product.allergenNote)}</p>` : ''}</section>` : ''}
+      ${!nonFood && product.ingredients ? `<section><h3>${product.ingredientsPartial ? 'Bekende ingrediënten' : 'Ingrediënten'}</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientsNote ? `<p>${escapeHtml(product.ingredientsNote)}</p>` : ''}</section>` : ''}
+      ${!nonFood && product.allergens !== null ? `<section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p>${escapeHtml(product.allergenNote)}</p>` : ''}</section>` : ''}
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p>${product.kosherNote ? `<p class="kosher-note">${escapeHtml(product.kosherNote)}</p>` : ''}</section>` : ''}
+      ${nonFood && product.identificationNote ? `<section class="identification-note"><h3>Identificatie</h3><p>${escapeHtml(product.identificationNote)}</p></section>` : ''}
+      ${nonFood && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;
     dialog.showModal();

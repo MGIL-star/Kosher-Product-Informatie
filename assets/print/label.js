@@ -59,6 +59,13 @@
     if (!p) {content.textContent = 'Product niet gevonden.'; return;}
     document.title = 'Label - ' + p.name;
     const title = document.createElement('h1'); title.textContent = p.shortName || p.name; content.append(title);
+    if (p.catalogType === 'nonfood') {
+      paragraph('Merk', p.brand || 'Nog te bevestigen');
+      if (p.variant) paragraph('Inhoud', p.variant);
+      for (const [key, value] of Object.entries(p.productInfo || {})) paragraph(key, value);
+      if (p.warning) paragraph('Waarschuwing', p.warning);
+      if (p.identificationNote) paragraph('Let op', p.identificationNote);
+    } else {
     paragraph(p.ingredientsPartial ? 'Bekende ingrediënten' : 'Ingrediënten', p.ingredients || 'Niet bevestigd.');
     let allergens = 'Niet bevestigd.';
     if (Array.isArray(p.allergens) && p.allergens.length) allergens = p.allergens.join(', ');
@@ -72,6 +79,7 @@
     if (p.mayContain) allergens += ' Kan bevatten: ' + p.mayContain;
     if (traces.length) allergens += ' ' + traces.join(' ');
     paragraph('Allergenen', allergens);
+    }
     await document.fonts.ready;
     const fits = fit(); document.body.dataset.ready = 'true';
     window.addEventListener('beforeprint', fit);
