@@ -495,6 +495,43 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
+    "id": 42,
+    "brand": "Creative Pea",
+    "name": "Vegan burger mix",
+    "variant": "65 g",
+    "ean": "",
+    "barcodeNeedsCheck": true,
+    "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gerookte paprika, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), bietenpoeder (natuurlijke kleurstof), cacaopoeder, natuurlijke aroma’s.",
+    "allergens": [],
+    "mayContain": "Sporen van sesam.",
+    "kosher": "OU (Orthodox Union)",
+    "category": "Vegan mixen",
+    "image": "images/product-42-online.png",
+    "imageNeedsCheck": false,
+    "productInfo": {
+      "Inhoud": "65 g"
+    },
+    "sourcePhotos": [
+      "source-labels/creative-pea-burger-pack.png",
+      "source-labels/creative-pea-burger-ingredients.png"
+    ],
+    "imageSource": "https://shopcreativepea.com/products/burger-4-pack",
+    "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0690/6861/9953/files/Burger_4_pack__product_page.png?v=1766031330",
+    "imageSourceChecked": "2026-09-28",
+    "imageFrame": {
+      "x": 0.14391392064559516,
+      "y": 0.14794889038332212,
+      "width": 0.4989912575655683,
+      "height": 0.7047747141896435,
+      "aspectRatio": 0.7080152671755725
+    },
+    "ingredientsSource": "https://shopcreativepea.com/products/burger-4-pack",
+    "ingredientsChecked": "2026-09-28",
+    "ingredientsVerification": "manufacturer-label",
+    "kosherChecked": "2026-09-28",
+    "kosherVerification": "manufacturer-label"
+  },
+  {
     "id": 14,
     "brand": "Creative Pea",
     "name": "Vegan nuggets mix",

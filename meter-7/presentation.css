@@ -18,6 +18,7 @@
   object-fit: fill;
 }
 .product-grid { grid-auto-rows: 1fr; }
+.product-packshot:has(img[src="images/product-42-online.png"]),
 .product-packshot:has(img[src="images/product-14.png"]),
 .product-packshot:has(img[src="images/product-15.png"]),
 .product-packshot:has(img[src="images/product-16.png"]) {

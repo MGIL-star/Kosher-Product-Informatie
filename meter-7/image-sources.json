@@ -628,6 +628,14 @@
         "width": 270,
         "height": 270
       }
+    },
+    {
+      "id": 42,
+      "file": "images/product-42-online.png",
+      "source": "https://shopcreativepea.com/products/burger-4-pack",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0690/6861/9953/files/Burger_4_pack__product_page.png?v=1766031330",
+      "checked": "2026-09-28",
+      "note": "Fabrikantfoto; voorste zak weergegeven via dezelfde CSS-uitsnede als de andere Creative Pea-mixen."
     }
   ],
   "pending": [
