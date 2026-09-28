@@ -112,7 +112,6 @@ window.KPI_PRODUCTS = [
     "variant": "800 g",
     "ean": "",
     "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), volkoren speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E471, E322, E481, E472), conserveermiddelen (E200, E282, E202), haver (gluten), meelverbeteraars (sojameel, L-cysteïne, ascorbinezuur [vitamine C]), zuurteregelaar (citroenzuur).",
-    "ingredientsNote": "Ingrediënten en allergenen volgens de fabrikant voor de 400 g verpakking (barcode 7290015033299). Deze barcode wijkt af van de gefotografeerde verpakking; controleer daarom het etiket op jouw verpakking. Dezelfde samenstelling is op jouw aanwijzing ook bij 800 g gebruikt.",
     "allergens": [
       "Tarwe (gluten)",
       "Rogge (gluten)",
@@ -126,7 +125,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "",
-    "kosher": "Rabbinaat Kiryat Ata (parve)",
+    "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (parve)",
     "barcodeNeedsCheck": true,
     "id": 3,
     "category": "Paneermeel",
@@ -149,9 +148,8 @@ window.KPI_PRODUCTS = [
       "height": 0.944870900209351,
       "aspectRatio": 0.7496307237813885
     },
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "label",
-    "kosherNote": "Rabbinaat Kiryat Ata en parve zijn leesbaar. Een eventueel aanvullend keurmerk is op deze foto niet voldoende herkenbaar.",
+    "kosherChecked": "2026-09-28",
+    "kosherVerification": "user-confirmed-and-400g-label",
     "ingredientsSource": "https://www.davidovitz.co.il/product/פרור-לחם-שקית-400-גרם-12/",
     "ingredientsSourceEan": "7290015033299",
     "ingredientsChecked": "2026-09-27",
@@ -199,7 +197,7 @@ window.KPI_PRODUCTS = [
       "height": 0.95390625,
       "aspectRatio": 0.7207207207207207
     },
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-09-28",
     "kosherVerification": "label",
     "ingredientsSource": "https://www.davidovitz.co.il/product/פרור-לחם-שקית-400-גרם-12/",
     "ingredientsSourceEan": "7290015033299",
@@ -207,10 +205,10 @@ window.KPI_PRODUCTS = [
     "ingredientsVerification": "manufacturer-different-barcode"
   },
   {
-    "brand": "",
+    "brand": "Davidovich",
     "name": "Paneermeel met knoflook en sesam",
     "shortName": "Paneermeel knoflook en sesam",
-    "variant": "",
+    "variant": "400 g",
     "ean": "7290011553142",
     "ingredients": "Tarwebloem (gluten), sesamzaad, knoflookpoeder (2%), gist, keukenzout, plantaardige olie, kleurstof (paprika-extract).",
     "ingredientsPartial": true,
@@ -223,7 +221,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (parve)",
     "productInfo": {
       "Uitvoering": "Golden Garlic & Sesame",
-      "Merk en inhoud": "Nog te bevestigen op een scherpere foto"
+      "Inhoud": "400 g"
     },
     "id": 5,
     "category": "Paneermeel",
@@ -848,7 +846,6 @@ window.KPI_PRODUCTS = [
     },
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
-    "kosherNote": "Overgenomen van de gefotografeerde verpakking. De actuele fabrikantpagina noemt een ander keurmerk; dat is niet op deze verpakking toegepast.",
     "kosherSources": [
       "https://www.osem-nestle.co.il/brands/אסם/פתיתים-ותוספות/קוסקוס-אסם-בינוני",
       "https://www.kosharot.com/index2.php?id=281&lang=HEB"
@@ -990,8 +987,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7098765432098766
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label",
-    "kosherNote": "Het Badatz-logo is zichtbaar. De kleine voorwaarden daarbij zijn niet volledig leesbaar; de Pesach-vermelding hierboven hoort bij OU-P en Sderot."
+    "kosherVerification": "label"
   },
   {
     "id": 28,
@@ -1027,8 +1023,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7650602409638554
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label",
-    "kosherNote": "Bij het Badatz-logo staat expliciet dat dit toezicht Pesach niet omvat. De Pesach-goedkeuring hierboven hoort bij OU-P en Sderot."
+    "kosherVerification": "label"
   },
   {
     "id": 29,
@@ -1148,7 +1143,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "",
-    "kosher": "STAR-K / CRC / rabbijn Schneebalg (parve; Bishul Yisroel)",
+    "kosher": "STAR-K / CRC / rabbijn Schneebalg (parve Bishul Yisroel)",
     "category": "Toppings",
     "image": "images/product-32-online.jpg",
     "imageNeedsCheck": false,
@@ -1182,8 +1177,8 @@ window.KPI_PRODUCTS = [
     "brand": "Osem",
     "name": "Jusmix voor gebraad",
     "variant": "22 g",
-    "ean": "",
-    "ingredients": "Tarwebloem (gluten), maltodextrine, plantaardige oliën, zetmeel, specerijen, zout, smaakversterkers (mononatriumglutamaat, E635, E631, E627), zoutvervanger (kaliumchloride), suikers, gistextract, gedehydrateerde groenten (champignons, tomaten), kleurstof (karamel), smaakstoffen, antiklontermiddel, antioxidant (rozemarijnextract).",
+    "ean": "7290000493176",
+    "ingredients": "Tarwebloem (gluten), maltodextrine, plantaardige oliën, zetmeel, specerijen, zout, smaakversterkers (mononatriumglutamaat, E635, E631, E627), zoutvervanger (kaliumchloride), suikers, gistextract, gedroogde groenten (champignons, tomaten), kleurstof (karamel), aroma’s, selderijextract, antioxidant (rozemarijnextract).",
     "allergens": [
       "Tarwe (gluten)",
       "Selderij"
@@ -1200,9 +1195,6 @@ window.KPI_PRODUCTS = [
       "source-labels/a8dc356e-fd6e-45ee-be8b-8ede34625b67.jpg",
       "source-labels/17a9c7c9-745b-4420-a11a-14671f671df7.jpg"
     ],
-    "ingredientsPartial": true,
-    "ingredientsNote": "De volledige ingrediëntenlijst moet nog worden gecontroleerd; de beschikbare etiketfoto is deels afgesneden of onvoldoende leesbaar.",
-    "barcodeNeedsCheck": true,
     "kosherNeedsCheck": true,
     "imageSource": "https://www.bishulim.co.il/כל-המוצרים/רוטב-צלי-לבקר-30-גרם/",
     "imageSourceUrl": "https://www.bishulim.co.il/sites/default/files/product_images_new/6919930_7290000493176.jpg",
@@ -1215,7 +1207,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6585477941176471
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "barcodeSource": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/2025-05/תקנון תחרות שבועות - ניננגה במטבח.pdf",
+    "ingredientsSource": "https://www.osem-nestle.co.il/brands/אסם/עזרי-בישול/אבקה-להכנת-רוטב-צלי",
+    "ingredientsChecked": "2026-09-28",
+    "ingredientsVerification": "label-and-manufacturer"
   },
   {
     "id": 34,
@@ -1296,7 +1292,7 @@ window.KPI_PRODUCTS = [
     "id": 36,
     "brand": "Osem",
     "name": "Aardappelpuree met groenten beker",
-    "variant": "",
+    "variant": "55 g",
     "ean": "7290000065335",
     "ingredients": "Gedroogde aardappelen (54%) (emulgator E471, zuurteregelaar E450, antioxidant citroenzuur), maltodextrine, gedroogde groenten (11%) (ui (7%), wortel (3,5%), peterselie (0,2%)), plantaardige oliën, zout, gemodificeerd zetmeel (E1450), specerijen (knoflook, witte peper), citroenzuur, kleurstof (kurkuma-extract), antioxidant (rozemarijnextract).",
     "allergens": [],
@@ -1306,7 +1302,7 @@ window.KPI_PRODUCTS = [
     "image": "images/product-36-straight.png",
     "imageNeedsCheck": false,
     "productInfo": {
-      "Inhoud": "Nog te bevestigen"
+      "Inhoud": "55 g"
     },
     "sourcePhotos": [
       "source-labels/c65c7f6d-60da-429c-9f1b-89a6ace845f2.jpg",
@@ -1314,7 +1310,6 @@ window.KPI_PRODUCTS = [
       "source-labels/a6c0f1e0-52d6-4567-9319-13bf5fc41e46.jpg"
     ],
     "ingredientsPartial": false,
-    "ingredientsNote": "Etiketgegevens aangevuld met de ingrediëntenlijst van Osem-Nestlé voor dit product.",
     "imageSource": "Bestaande productfoto op verzoek recht van voren gemaakt met imagegen op 27 september 2026",
     "imageSourceChecked": "2026-09-27",
     "imageFrame": {
@@ -1327,7 +1322,9 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "https://www.osem-nestle.co.il/brands/מנה-חמה/מנה-חמה-פירה-ירקות",
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
-    "imageEdited": true
+    "imageEdited": true,
+    "weightSource": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/2025-05/תקנון תחרות שבועות - ניננגה במטבח.pdf",
+    "weightChecked": "2026-09-28"
   },
   {
     "id": 37,
@@ -1335,7 +1332,7 @@ window.KPI_PRODUCTS = [
     "name": "Instant noedels met kipsmaak",
     "variant": "68 g",
     "ean": "3770021861603",
-    "ingredients": "Tarwebloem, palmolie, cassavezetmeel.",
+    "ingredients": "Noedels: tarwebloem (gluten), palmolie, cassavezetmeel, zout, stabilisatoren (guargom [E412], xanthaangom [E415], natriumtrifosfaat [E451], natriumhexametafosfaat [E452], tetranatriumpyrofosfaat [E450]). Kruidenmengsel: zout, smaakversterker (mononatriumglutamaat [E621]), suiker, kunstmatig kiparoma, uienpoeder, knoflookpoeder, gemberpoeder, kurkumapoeder, gistextract, peperpoeder, kerriepoeder, smaakversterker (E635), maltodextrine. Gedroogde groenten: wortel, kool en lente-ui.",
     "allergens": [
       "Tarwe (gluten)",
       "Soja"
@@ -1353,9 +1350,9 @@ window.KPI_PRODUCTS = [
       "source-labels/6e2f0df2-71e1-4d76-a763-df5d083e7802.jpg"
     ],
     "ingredientsPartial": true,
-    "ingredientsNote": "De volledige ingrediëntenlijst moet nog worden gecontroleerd; de beschikbare etiketfoto is deels afgesneden of onvoldoende leesbaar.",
+    "ingredientsNote": "De ingrediënten zijn afgelezen van de vergrote etiketfoto. Enkele woorden aan de rand van de beker zijn niet volledig leesbaar; de lijst is nog niet volledig bevestigd.",
     "kosherNeedsCheck": true,
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-09-28",
     "kosherVerification": "unconfirmed",
     "kosherNote": "Er staat een keurmerk op de etiketfoto, maar de naam is onvoldoende leesbaar. Ook online is de certificerende instantie voor deze variant niet bevestigd.",
     "imageSource": "Bestaande productfoto op verzoek recht van voren gemaakt met imagegen op 27 september 2026",
@@ -1367,7 +1364,15 @@ window.KPI_PRODUCTS = [
       "height": 0.6854493580599144,
       "aspectRatio": 0.8522372528616025
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "productSources": [
+      "https://www.broadwaycandy.com/products/aye101",
+      "https://alwaystogether.community/collections/soup-stocks"
+    ],
+    "productChecked": "2026-09-28",
+    "ingredientsChecked": "2026-09-28",
+    "ingredientsVerification": "original-label-enlarged-partial",
+    "ingredientsSource": "source-labels/6e2f0df2-71e1-4d76-a763-df5d083e7802.jpg"
   },
   {
     "id": 38,
@@ -1375,12 +1380,13 @@ window.KPI_PRODUCTS = [
     "name": "Instant noedels met groentesmaak",
     "variant": "68 g",
     "ean": "3770021861627",
-    "ingredients": "Tarwebloem, palmolie, cassavezetmeel.",
+    "ingredients": "Noedels: tarwebloem (gluten), palmolie, cassavezetmeel, zout, stabilisatoren (guargom [E412], xanthaangom [E415], natriumtrifosfaat [E451], natriumhexametafosfaat [E452], tetranatriumpyrofosfaat [E450]). Kruidenmengsel: zout, smaakversterker (mononatriumglutamaat [E621]), suiker, groentepoeders (koriander, selderij, champignon, tomaat), gistextract, sojasauspoeder, gehydrolyseerd plantaardig eiwit (water, soja, maïs, maltodextrine), smaakversterker (E635), maltodextrine. Gedroogde groenten: wortel, kool en lente-ui.",
     "allergens": [
       "Tarwe (gluten)",
-      "Soja"
+      "Soja",
+      "Selderij"
     ],
-    "mayContain": "",
+    "mayContain": "Sesam.",
     "kosher": "Nog niet bevestigd",
     "category": "Maaltijdbekers",
     "image": "images/product-38-straight.png",
@@ -1393,9 +1399,9 @@ window.KPI_PRODUCTS = [
       "source-labels/7915a2ff-7443-40b8-a4c9-81e1d8963ca4.jpg"
     ],
     "ingredientsPartial": true,
-    "ingredientsNote": "De volledige ingrediëntenlijst moet nog worden gecontroleerd; de beschikbare etiketfoto is deels afgesneden of onvoldoende leesbaar.",
+    "ingredientsNote": "De ingrediënten zijn afgelezen van de vergrote etiketfoto. Enkele woorden aan de rand van de beker zijn niet volledig leesbaar; de lijst is nog niet volledig bevestigd.",
     "kosherNeedsCheck": true,
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-09-28",
     "kosherVerification": "unconfirmed",
     "kosherNote": "Er staat een keurmerk op de etiketfoto, maar de naam is onvoldoende leesbaar. Ook online is de certificerende instantie voor deze variant niet bevestigd.",
     "imageSource": "Bestaande productfoto op verzoek recht van voren gemaakt met imagegen op 27 september 2026",
@@ -1407,7 +1413,15 @@ window.KPI_PRODUCTS = [
       "height": 0.7039942938659058,
       "aspectRatio": 0.8348530901722391
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "productSources": [
+      "https://www.broadwaycandy.com/products/aye103",
+      "https://alwaystogether.community/collections/soup-stocks"
+    ],
+    "productChecked": "2026-09-28",
+    "ingredientsChecked": "2026-09-28",
+    "ingredientsVerification": "original-label-enlarged-partial",
+    "ingredientsSource": "source-labels/7915a2ff-7443-40b8-a4c9-81e1d8963ca4.jpg"
   },
   {
     "id": 39,

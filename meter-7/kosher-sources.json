@@ -50,15 +50,16 @@
       "name": "Klassiek paneermeel",
       "brand": "Davidovich",
       "variant": "800 g",
-      "kosher": "Rabbinaat Kiryat Ata (parve)",
-      "status": "label",
-      "note": "Rabbinaat Kiryat Ata en parve zijn leesbaar. Een eventueel aanvullend keurmerk is op deze foto niet voldoende herkenbaar.",
+      "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (parve)",
+      "status": "user-confirmed-and-400g-label",
+      "note": "Op verzoek gebruiker gelijkgesteld aan de 400 g verpakking. Badatz Edah HaChareidis is zichtbaar op het 400 g etiket; de aanvullende stempel op de 800 g foto is niet zelfstandig leesbaar.",
       "photos": [
         "source-labels/916fc5ce-c884-48aa-b7b6-28f749c5978b.jpg",
         "source-labels/64a5329b-9275-428d-8eb1-01a4edc35e85.jpg",
         "source-labels/5d5bbf23-5bc0-4edb-94aa-9e3577009716.jpg"
       ],
-      "online": []
+      "online": [],
+      "checked": "2026-09-28"
     },
     {
       "id": 4,
@@ -72,7 +73,9 @@
         "source-labels/bbb5c9b2-fca4-42a5-a325-fb3f2c68d03d.jpg",
         "source-labels/d0e0b391-cb12-4e53-9d20-c3fb47b5dc46.jpg"
       ],
-      "online": []
+      "online": [],
+      "checked": "2026-09-28",
+      "note": "Hebreeuws Badatz Edah HaChareidis-logo en Rabbinaat Kiryat Ata, parve, op etiket."
     },
     {
       "id": 5,
