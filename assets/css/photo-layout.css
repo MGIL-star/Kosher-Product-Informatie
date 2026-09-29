@@ -1,0 +1,5 @@
+/* Consistent visible packshot area across all meters. Never stretch products. */
+.product-card .product-visual { height:180px; aspect-ratio:auto; }
+.dialog-product > .product-visual-large { height:250px; width:100%; aspect-ratio:auto; }
+.product-visual[data-photo-fitted] > img { rotate:0deg; }
+@media(max-width:639px) { .product-card .product-visual { height:120px; } }

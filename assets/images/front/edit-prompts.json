@@ -1,0 +1,188 @@
+[
+  {
+    "key": "4-1",
+    "source": "assets/images/meter-4/kvuzat-yavne-chickpeas.jpg",
+    "output": "assets/images/front/product-4-1.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Kikkererwten into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-2",
+    "source": "assets/images/meter-4/kvuzat-yavne-garden-peas-carrots.jpg",
+    "output": "assets/images/front/product-4-2.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Erwten & Wortelen into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-10",
+    "source": "assets/images/meter-4/shmurei-yavne-pitted-black-olives-catalog.png",
+    "output": "assets/images/front/product-4-10.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Ontpitte Zwarte Olijven into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-11",
+    "source": "assets/images/meter-4/kvuzat-yavne-cracked-olives-original-web.png",
+    "output": "assets/images/front/product-4-11.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Gebarsten Olijven met Olijfolie into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-12",
+    "source": "assets/images/meter-4/kvuzat-yavne-mixed-olives.jpg",
+    "output": "assets/images/front/product-4-12.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Gemengde Olijven into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-14",
+    "source": "assets/images/meter-4/shmurei-yavne-pitted-green-olives-catalog.png",
+    "output": "assets/images/front/product-4-14.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Ontpitte Groene Olijven into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-15",
+    "source": "assets/images/meter-4/shmurei-yavne-sliced-green-olives-catalog.png",
+    "output": "assets/images/front/product-4-15.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Gesneden Groene Olijven into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-19",
+    "source": "assets/images/meter-4/kvuzat-yavne-cucumbers-10-12-medium-user-photo.jpg",
+    "output": "assets/images/front/product-4-19.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Augurken in Pekel 10/12 into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "4-20",
+    "source": "assets/images/meter-4/shmurei-yavne-cucumbers-18-25-catalog.png",
+    "output": "assets/images/front/product-4-20.png",
+    "prompt": "Use case: precise-object-edit. Edit the supplied photograph of Augurken in Pekel 18/25 into an accurate frontal catalog packshot. Camera at the middle height of the package, straight on, no looking down onto the lid, vertical symmetrical side edges, near-horizontal upper and lower rims. Keep original cylinder proportions, exact packaging, Hebrew and other text, logos, artwork and colors unchanged. Do not redesign labels or add claims. Preserve realistic cylindrical slight curvature, but remove tilt and oblique perspective. Pure white #FFFFFF background with no cast shadow, reflection or props. Sharp and neat, square canvas with full product centered and occupying 84 percent of canvas height."
+  },
+  {
+    "key": "5-6",
+    "source": "meter-5/images/6-single.jpg",
+    "output": "assets/images/front/product-5-6.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Biologische Tahini) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-29",
+    "source": "meter-5/images/29.png",
+    "output": "assets/images/front/product-5-29.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Harissa Bedouine) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-30",
+    "source": "meter-5/images/30.png",
+    "output": "assets/images/front/product-5-30.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Mini Citroenen in Zeezout) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-32",
+    "source": "meter-5/images/32.png",
+    "output": "assets/images/front/product-5-32.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Knoflookcrème) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-35",
+    "source": "meter-5/images/35-fr.jpg",
+    "output": "assets/images/front/product-5-35.png",
+    "prompt": "Precise perspective edit: lower the camera fully to the MIDPOINT OF THE SIDE LABEL of this Riga Gold shallow round tin. STRICT EYE-LEVEL FRONT ELEVATION. The top disk with fish should NOT be visible; top rim becomes an almost straight horizontal line. Bottom rim horizontal too. Preserve this exact short wide round tin: do not make it taller. Keep all original front label text, Riga Gold logo, colors and lettering exactly unchanged. Pure white background, no shadows or reflection. Sharp photo, centered entire can, generous margins. The previous edit still looked down from above; this edit must fix that."
+  },
+  {
+    "key": "5-39",
+    "source": "meter-5/images/39-supplied.png",
+    "output": "assets/images/front/product-5-39.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Tonijnstukken in Plantaardige Olie) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-40",
+    "source": "meter-5/images/40.jpg",
+    "output": "assets/images/front/product-5-40.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Tonijnspread) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-41",
+    "source": "meter-5/images/elisha-original.jpg",
+    "output": "assets/images/front/product-5-41.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Tonijnstukken in Zonnebloemolie) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "5-42",
+    "source": "meter-5/images/42-online.jpg",
+    "output": "assets/images/front/product-5-42.png",
+    "prompt": "Use case: precise-object-edit. Edit this exact product photo (Tonijnstukken in Water) for a retail catalog. Correct its perspective and tilt to a perfectly upright straight-on front view at label height. No looking down at the lid, no sloping text baseline from camera tilt. Preserve real shape and proportions: squat cans must stay squat, bottles tall, jars their original shape. Preserve the exact original label, typography, Hebrew and other text, colors, artwork, and logos. No invented text or package redesign. Remove cast shadows and reflections from background. Pure solid white #FFFFFF background, sharp realistic product, centered with 8 percent minimum margins. Full product must be visible."
+  },
+  {
+    "key": "7-9",
+    "source": "meter-7/images/product-9-full.png",
+    "output": "assets/images/front/product-7-9.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Groentesoep en kruidenmix) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "7-10",
+    "source": "meter-7/images/product-10-full.png",
+    "output": "assets/images/front/product-7-10.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Soep en kruidenmix met rundvleessmaak) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "7-11",
+    "source": "meter-7/images/product-11-full.png",
+    "output": "assets/images/front/product-7-11.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Uiensoep en kruidenmix) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "7-12",
+    "source": "meter-7/images/product-12-full.png",
+    "output": "assets/images/front/product-7-12.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Champignonsoep en kruidenmix) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "7-39",
+    "source": "meter-7/images/product-39-online.jpg",
+    "output": "assets/images/front/product-7-39.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Halfvolle houdbare melk) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "8-50",
+    "source": "meter-8/images/beit-yitzhak-harosset-sharp.png",
+    "output": "assets/images/front/product-8-50.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Harosset) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "8-34",
+    "source": "meter-8/images/dates-spread-large.png",
+    "output": "assets/images/front/product-8-34.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Dadelpasta) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "8-60",
+    "source": "meter-8/images/mehadrin-dadelpasta.png",
+    "output": "assets/images/front/product-8-60.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Medjoul Dadelpasta) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "11-6",
+    "source": "meter-11/images/06-web.jpg",
+    "output": "assets/images/front/product-11-6.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Suikervrije kauwgomblokjes met aardbeiensmaak en vloeibare vulling) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "11-7",
+    "source": "meter-11/images/07-web.jpg",
+    "output": "assets/images/front/product-11-7.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Suikervrije kauwgom met de smaak van fruit en munt) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "17-70",
+    "source": "meter-17/images/clean/product-70.png",
+    "output": "assets/images/front/product-17-70.png",
+    "prompt": "Use case: precise-object-edit. Retouch the exact supplied retail product (Sabbatskaarsen) into a sharp, upright front-on catalog photograph. Camera at the label center height, not looking down on the lid. Remove camera tilt, correct perspective so it faces directly forward. Preserve package proportions and exact label design, lettering including Hebrew, logos, colors, artwork and all product details. Do not invent or redesign any text. Pure solid white background without cast shadow or reflection, softly even product lighting. Entire product centered with generous equal margins. Improve clarity without changing identity."
+  },
+  {
+    "key": "3-16-pack",
+    "source": "assets/images/meter-3/goldstar-6-pack-user.png",
+    "output": "assets/images/front/product-3-16-pack.png",
+    "prompt": "Straight frontal product photograph on pure white background. Remove Koby signatures from Goldstar background."
+  },
+  {
+    "key": "3-17-pack",
+    "source": "assets/images/meter-3/nesher-6-pack-white.png",
+    "output": "assets/images/front/product-3-17-pack.png",
+    "prompt": "Straight frontal product photograph on pure white background. Remove Koby signatures from Goldstar background."
+  }
+]
