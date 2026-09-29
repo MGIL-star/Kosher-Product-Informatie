@@ -8,17 +8,11 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.0671875,
-      "y": 0.34791666666666665,
-      "width": 0.109375,
-      "height": 0.15208333333333332,
-      "aspectRatio": 0.958904109589041
-    },
+    "image": "images/sano-bon-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Toiletverfrisser in een houder voor de toiletrand."
+      "Beschrijving": "Verfrist en houdt het toilet schoon, met een frisse geur.",
+      "Gebruiksduur": "Tot 800 spoelbeurten volgens de verpakking."
     },
     "sources": [
       {
@@ -26,10 +20,10 @@ window.KPI_PRODUCTS = [
         "url": "https://www.sano-international.com/sano/"
       }
     ],
-    "identificationNote": "Het aantal blokken per verpakking is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Samenstelling",
+      "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
     }
   },
   {
@@ -66,13 +60,13 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "350 ml",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+    "image": "images/sano-soft-silk-user.png",
     "imageFrame": {
-      "x": 0.471875,
-      "y": 0.25833333333333336,
-      "width": 0.0484375,
-      "height": 0.24166666666666667,
-      "aspectRatio": 0.2672413793103448
+      "x": 0.38,
+      "y": 0.04,
+      "width": 0.29,
+      "height": 0.92,
+      "aspectRatio": 0.37655172413793103
     },
     "allergens": null,
     "productInfo": {

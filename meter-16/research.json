@@ -29,14 +29,26 @@
           "url": "https://www.sano-international.com/sano/"
         }
       ],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
+      "image": "images/sano-bon-user.png",
+      "imageSource": "Gebruikersfoto en tekst, 2026-09-29",
       "imageFrame": {
         "x": 0.0671875,
         "y": 0.34791666666666665,
         "width": 0.109375,
         "height": 0.15208333333333332,
         "aspectRatio": 0.958904109589041
+      },
+      "catalogType": "nonfood",
+      "category": "Schoonmaak",
+      "allergens": null,
+      "productInfo": {
+        "Beschrijving": "Verfrist en houdt het toilet schoon, met een frisse geur.",
+        "Gebruiksduur": "Tot 800 spoelbeurten volgens de verpakking."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Samenstelling",
+        "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
       }
     },
     {
@@ -65,14 +77,14 @@
       "status": "nog te bevestigen",
       "note": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
       "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
+      "image": "images/sano-soft-silk-user.png",
+      "imageSource": "Door gebruiker aangeleverde foto 2026-09-29",
       "imageFrame": {
-        "x": 0.471875,
-        "y": 0.25833333333333336,
-        "width": 0.0484375,
-        "height": 0.24166666666666667,
-        "aspectRatio": 0.2672413793103448
+        "x": 0.38,
+        "y": 0.04,
+        "width": 0.29,
+        "height": 0.92,
+        "aspectRatio": 0.37655172413793103
       },
       "catalogType": "nonfood",
       "category": "Schoonmaak",
@@ -1673,7 +1685,9 @@
       73,
       40,
       42,
-      4
+      4,
+      3,
+      1
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",
