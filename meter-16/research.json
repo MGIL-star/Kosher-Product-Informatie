@@ -368,8 +368,35 @@
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
         }
       ],
-      "image": "images/product-15.jpg",
-      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/74766%20body%20lotion%20nwe%20verpakking%20-%20klein%20formaat-01KPDDJTG3T6NE09RJ94VAXT1K.png"
+      "image": "images/shemen-bodylotion-olijfolie-honing-user.png",
+      "imageSource": "Gebruikersfoto en productinformatie, 2026-09-29",
+      "catalogType": "nonfood",
+      "category": "Huidverzorging",
+      "allergens": null,
+      "productInfo": {
+        "Beschrijving": "Een zachte bodylotion met olijfolie en honing voor het voeden en hydrateren van de droge huid. Helpt de huid zacht en soepel te houden."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Ingrediënten (INCI)",
+        "text": "Aqua, Triethanolamine, Carbomer, Stearic Acid, Oleic Acid, Vitis Vinifera (Grape) Seed oil, Shea (Butyrospermum Parkii) Butter, Sorbic Acid, Glycerin, Cetyl Alcohol, Benzyl Alcohol, Lanolin, Mentha Piperita (Peppermint) Leaf Extract, Fragrance, Persea Grattissmima (Avocado) Oil, Tetrasodium Edta, Aloe Barbadensis Leaf Juice, Seaweed Extract, Olea Europaea (Olive) Fruit oil, Calendula Officinalis Flower Extract, Punica Granatum (Pomegranate) Peel Extract, Lavendula Angustifolia (Lavender) Oil, Pogostemon Cablin (Patchouli) Oil, Cocos Nucifera (Coconut) Oil, Mel (Honey), Vanilla Planifolia Fruit Extract, Theobroma Cacao Seed Butter, Maris Sal (Dead Sea Salt) Tocopheryl Acetate (VitaminE), Melaleuca Alternifolia (Tea Tree) Leaf Oil, Panthenol, Magnesium Ascorbyl Phosphate.",
+        "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+        "source": {
+          "label": "Israelwinkel — ingrediënten",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
+        }
+      },
+      "supplier": {
+        "name": "Israelwinkel",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
+      },
+      "imageFrame": {
+        "x": 0.37,
+        "y": 0.04,
+        "width": 0.24,
+        "height": 0.91,
+        "aspectRatio": 0.31460924861940087
+      }
     },
     {
       "id": 16,
@@ -1756,7 +1783,8 @@
       67,
       74,
       65,
-      7
+      7,
+      15
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",

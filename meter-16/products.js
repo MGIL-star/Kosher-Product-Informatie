@@ -461,10 +461,10 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "400 ml",
-    "image": "images/product-15.jpg",
+    "image": "images/shemen-bodylotion-olijfolie-honing-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Hydraterende lichaamsverzorging met olijfolie en honing."
+      "Beschrijving": "Een zachte bodylotion met olijfolie en honing voor het voeden en hydrateren van de droge huid. Helpt de huid zacht en soepel te houden."
     },
     "sources": [
       {
@@ -485,6 +485,13 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
+    },
+    "imageFrame": {
+      "x": 0.37,
+      "y": 0.04,
+      "width": 0.24,
+      "height": 0.91,
+      "aspectRatio": 0.31460924861940087
     }
   },
   {
