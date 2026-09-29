@@ -261,8 +261,36 @@
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
         }
       ],
-      "image": "images/product-10.jpg",
-      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3855910711.jpg"
+      "image": "images/shemen-bodybutter-aloe-user.png",
+      "imageSource": "Gebruikersfoto en productinformatie, 2026-09-29",
+      "catalogType": "nonfood",
+      "category": "Huidverzorging",
+      "allergens": null,
+      "productInfo": {
+        "Beschrijving": "Een zachte bodycrème voor de droge huid, met Dode Zee-mineralen en aloë vera.",
+        "Gebruik": "Gebruik een ruime hoeveelheid op de droge huid en masseer zachtjes in tot de crème door de huid is opgenomen."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Ingrediënten (INCI)",
+        "text": "Aqua, Butyrospermum Parkii (Shea Butter), Capilyc/Capic Triglyceride, Stearic Acid, Cetyl Alcohol, Propylene Glycol, Isopropyl Myristate, Prunus Amygdalus Dulcis (Sweet Almond) oil, Glyceryl Monostearate, Dimethicone, Glycerin, Sorbitan Tristearate, Triethanolamine, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Simmondsia Chinensis (Jojoba) seed oil, Acrylatus /C10-30 Alkyl Acrylate Crosspolymer, Persea Gratissima (Avocado) oil, Olea Europaea (Olive) oil, Phenoxyethanol & Ethylhexylglycerin, Maris Sal (Dead Sea Salt), Imidazolidinyl Urea, Allantoin, Aloe Barbadensis Leaf Extract, Punica Granatum (Pomegranate) seed oil, Lavendula Angustifolia (Lavender) oil, Citrus Medica Limonum Lemon) Peel oil, Tocopheryl Acetate (Vitamin E), Disodium EDTA, BHT, Rosmarinus Officinalis (Rosemary) leaf extract, Alpha-isomethyl ionone, Hdroxycitronellal, Hydroxyisohexyl 3-cyclohexenecarboxaldehyde, Citronellol, Coumarin, Limonene, Linalool, Geraniol.",
+        "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+        "source": {
+          "label": "Israelwinkel — ingrediënten",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
+        }
+      },
+      "supplier": {
+        "name": "Israelwinkel",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
+      },
+      "imageFrame": {
+        "x": 0.09,
+        "y": 0.1,
+        "width": 0.83,
+        "height": 0.7,
+        "aspectRatio": 1.033396018416445
+      }
     },
     {
       "id": 11,
@@ -1784,7 +1812,8 @@
       74,
       65,
       7,
-      15
+      15,
+      10
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",

@@ -294,11 +294,11 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "350 ml",
-    "image": "images/product-10.jpg",
+    "image": "images/shemen-bodybutter-aloe-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Verzorgende lichaamscrème voor een droge huid.",
-      "Gebruik": "Op de droge huid aanbrengen en zacht inmasseren tot de crème is opgenomen."
+      "Beschrijving": "Een zachte bodycrème voor de droge huid, met Dode Zee-mineralen en aloë vera.",
+      "Gebruik": "Gebruik een ruime hoeveelheid op de droge huid en masseer zachtjes in tot de crème door de huid is opgenomen."
     },
     "sources": [
       {
@@ -319,6 +319,13 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
+    },
+    "imageFrame": {
+      "x": 0.09,
+      "y": 0.1,
+      "width": 0.83,
+      "height": 0.7,
+      "aspectRatio": 1.033396018416445
     }
   },
   {
