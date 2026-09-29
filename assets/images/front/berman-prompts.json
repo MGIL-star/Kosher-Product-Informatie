@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Koffiekoekjes met chocolade en vanille",
+    "key": "10-25",
+    "source": "meter-10/images/berman-coffee-official.jpg",
+    "path": "meter-10/images/berman-coffee-official.jpg",
+    "prompt": "Precise-object-edit. Image1 is target Berman cookie bag, image2 pretzel cream bag is reference ONLY for straight frontal presentation, smooth bag silhouette, proportions and layout framing. Transform target into same upright front-facing smooth symmetric flat packshot, no visible side gusset, no tilt, no wrinkles or external cast shadows. Preserve target's exact original colors, variant text Hebrew/English, logo, certification marks, cookie artwork and label design. Do not copy pretzel flavor, turquoise color or different label wording. Match reference outer bag silhouette width:height approximately 0.66, straight top seal, rounded lower corners, gentle side taper. White background with margins, entire bag visible, sharp.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-17c11d91-587f-4023-a9ae-50401c897a9a.png",
+    "output": "assets/images/front/product-10-25-frontal.png"
+  },
+  {
+    "name": "Gezichtjeskoekjes met chocoladesmaaklaag",
+    "key": "10-26",
+    "source": "meter-10/images/berman-smiley-official.jpg",
+    "path": "meter-10/images/berman-smiley-official.jpg",
+    "prompt": "Precise-object-edit. Image1 is target Berman cookie bag, image2 pretzel cream bag is reference ONLY for straight frontal presentation, smooth bag silhouette, proportions and layout framing. Transform target into same upright front-facing smooth symmetric flat packshot, no visible side gusset, no tilt, no wrinkles or external cast shadows. Preserve target's exact original colors, variant text Hebrew/English, logo, certification marks, cookie artwork and label design. Do not copy pretzel flavor, turquoise color or different label wording. Match reference outer bag silhouette width:height approximately 0.66, straight top seal, rounded lower corners, gentle side taper. White background with margins, entire bag visible, sharp.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-c6050dca-a56a-44cf-9998-56414329b95e.png",
+    "output": "assets/images/front/product-10-26-frontal.png"
+  },
+  {
+    "name": "Koekjes met chocoladesmaakvulling",
+    "key": "10-27",
+    "source": "meter-10/images/berman-filled-benedikts.jpg",
+    "path": "meter-10/images/berman-filled-benedikts.jpg",
+    "prompt": "Precise-object-edit. Image1 is target Berman cookie bag, image2 pretzel cream bag is reference ONLY for straight frontal presentation, smooth bag silhouette, proportions and layout framing. Transform target into same upright front-facing smooth symmetric flat packshot, no visible side gusset, no tilt, no wrinkles or external cast shadows. Preserve target's exact original colors, variant text Hebrew/English, logo, certification marks, cookie artwork and label design. Do not copy pretzel flavor, turquoise color or different label wording. Match reference outer bag silhouette width:height approximately 0.66, straight top seal, rounded lower corners, gentle side taper. White background with margins, entire bag visible, sharp.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-f6ad1e3a-3361-4a02-8d00-17a1d38c51fc.png",
+    "output": "assets/images/front/product-10-27-frontal.png"
+  },
+  {
+    "name": "Mini spiraalkoekjes",
+    "key": "10-28",
+    "source": "meter-10/images/berman-circles-official.jpg",
+    "path": "meter-10/images/berman-circles-official.jpg",
+    "prompt": "Precise-object-edit. Image1 is target Berman cookie bag, image2 pretzel cream bag is reference ONLY for straight frontal presentation, smooth bag silhouette, proportions and layout framing. Transform target into same upright front-facing smooth symmetric flat packshot, no visible side gusset, no tilt, no wrinkles or external cast shadows. Preserve target's exact original colors, variant text Hebrew/English, logo, certification marks, cookie artwork and label design. Do not copy pretzel flavor, turquoise color or different label wording. Match reference outer bag silhouette width:height approximately 0.66, straight top seal, rounded lower corners, gentle side taper. White background with margins, entire bag visible, sharp.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-edc50829-1d36-470a-bb06-25ad61381e12.png",
+    "output": "assets/images/front/product-10-28-frontal.png"
+  },
+  {
+    "name": "Koekjes met chocoladestukjes",
+    "key": "10-30",
+    "source": "meter-10/images/berman-chips-official.jpg",
+    "path": "meter-10/images/berman-chips-official.jpg",
+    "prompt": "Precise-object-edit. Image1 is target Berman cookie bag, image2 pretzel cream bag is reference ONLY for straight frontal presentation, smooth bag silhouette, proportions and layout framing. Transform target into same upright front-facing smooth symmetric flat packshot, no visible side gusset, no tilt, no wrinkles or external cast shadows. Preserve target's exact original colors, variant text Hebrew/English, logo, certification marks, cookie artwork and label design. Do not copy pretzel flavor, turquoise color or different label wording. Match reference outer bag silhouette width:height approximately 0.66, straight top seal, rounded lower corners, gentle side taper. White background with margins, entire bag visible, sharp.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-d623c25c-9574-4d25-a6dd-36f5fae6a440.png",
+    "output": "assets/images/front/product-10-30-frontal.png"
+  }
+]

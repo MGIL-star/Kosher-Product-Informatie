@@ -1756,5 +1756,133 @@ window.KPI_PHOTO_LAYOUT = {
       "height": 0.912109375,
       "aspectRatio": 0.5542857142857143
     }
+  },
+  "meter-10/images/berman-coffee-official.jpg": {
+    "image": "assets/images/front/product-10-25-frontal.png",
+    "imageBounds": [
+      0.0869140625,
+      0.083984375,
+      0.9140625,
+      0.9342447916666666
+    ],
+    "imageFrame": {
+      "x": 0.0869140625,
+      "y": 0.083984375,
+      "width": 0.8271484375,
+      "height": 0.8502604166666666,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-smiley-official.jpg": {
+    "image": "assets/images/front/product-10-26-frontal.png",
+    "imageBounds": [
+      0.072265625,
+      0.08658854166666667,
+      0.927734375,
+      0.9303385416666666
+    ],
+    "imageFrame": {
+      "x": 0.072265625,
+      "y": 0.08658854166666667,
+      "width": 0.85546875,
+      "height": 0.84375,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-filled-benedikts.jpg": {
+    "image": "assets/images/front/product-10-27-frontal.png",
+    "imageBounds": [
+      0.0654296875,
+      0.036458333333333336,
+      0.9345703125,
+      0.96484375
+    ],
+    "imageFrame": {
+      "x": 0.0654296875,
+      "y": 0.036458333333333336,
+      "width": 0.869140625,
+      "height": 0.9283854166666666,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-circles-official.jpg": {
+    "image": "assets/images/front/product-10-28-frontal.png",
+    "imageBounds": [
+      0.0966796875,
+      0.055989583333333336,
+      0.9033203125,
+      0.916015625
+    ],
+    "imageFrame": {
+      "x": 0.0966796875,
+      "y": 0.055989583333333336,
+      "width": 0.806640625,
+      "height": 0.8600260416666666,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-rings-official.jpg": {
+    "image": "meter-10/images/berman-rings-official.jpg",
+    "imageBounds": [
+      0.16796875,
+      0.00390625,
+      0.8310546875,
+      0.9951171875
+    ],
+    "imageFrame": {
+      "x": 0.16796875,
+      "y": 0.00390625,
+      "width": 0.6630859375,
+      "height": 0.9912109375,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-chips-official.jpg": {
+    "image": "assets/images/front/product-10-30-frontal.png",
+    "imageBounds": [
+      0.08203125,
+      0.029296875,
+      0.919921875,
+      0.96875
+    ],
+    "imageFrame": {
+      "x": 0.08203125,
+      "y": 0.029296875,
+      "width": 0.837890625,
+      "height": 0.939453125,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-bites-official.jpg": {
+    "image": "meter-10/images/berman-bites-official.jpg",
+    "imageBounds": [
+      0.16796875,
+      0.00390625,
+      0.8310546875,
+      0.9951171875
+    ],
+    "imageFrame": {
+      "x": 0.16796875,
+      "y": 0.00390625,
+      "width": 0.6630859375,
+      "height": 0.9912109375,
+      "aspectRatio": 0.665
+    }
+  },
+  "meter-10/images/berman-pretzel-official.jpg": {
+    "image": "meter-10/images/berman-pretzel-official.jpg",
+    "imageBounds": [
+      0.16796875,
+      0.0029296875,
+      0.830078125,
+      0.9951171875
+    ],
+    "imageFrame": {
+      "x": 0.16796875,
+      "y": 0.0029296875,
+      "width": 0.662109375,
+      "height": 0.9921875,
+      "aspectRatio": 0.665
+    }
   }
 };
