@@ -1,0 +1,7 @@
+{
+  "prompt": "Precise-object-edit. Image 1 is target Al Arz Whole Tahini brown-cap jar. Image 2 is approved regular tahini reference for exact straight-on camera, silhouette and width:height proportions. Make target upright and symmetrical with same container silhouette and proportions as image2. Preserve target BROWN lid, brown label footer, Whole Tahini wording, Whole Sesame Seeds Paste, brand, all artwork and 453g. Do NOT copy red lid or regular variant text. Pure white background, no cast shadow, smooth clean edges, sharp. Entire jar visible with margins. Strict eye-level frontal view.",
+  "source": "meter-5/images/2.webp",
+  "key": "5-2",
+  "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-5fc42380-54b8-4d37-bad9-f9246d74ebe0.png",
+  "output": "assets/images/front/product-5-2-frontal.png"
+}

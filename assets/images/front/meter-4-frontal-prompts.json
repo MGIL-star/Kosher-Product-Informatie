@@ -61,5 +61,12 @@
     "prompt": "Precise-object-edit: Straighten this exact Haddar Animal Crackers package into a strict straight-on frontal product photograph. No visible left side panel or barcode panel, no top surface. Front label faces directly forward with vertical sides and horizontal top/bottom. Preserve original pouch shape, all front label text and artwork, logo HADDAR, Animal Crackers, animal illustrations, cookies, 180g. Pure white background, no shadow. Entire package visible, sharp. Do not redesign or add information.",
     "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-0becaab9-2edd-44b7-886e-6c7da7727c73.png",
     "output": "assets/images/front/product-10-3-frontal.png"
+  },
+  {
+    "prompt": "Precise-object-edit. Retouch this exact Kvuzat Yavne PITTED GREEN OLIVES glass jar. Correct slight lean and camera perspective to strict straight-on eye-level front. Lid and bottom horizontal, jar center vertical, symmetric shoulders, front oval logo and olive label centered. Preserve exact label artwork, brand, wording, glass facets, contents and cap design. Pure white background, no cast shadow and no harsh white glare stripes across glass. Entire jar visible with margins, sharp realistic product photo. Do not change packaging shape or add text.",
+    "source": "assets/images/meter-4/kvuzat-yavne-pitted-green-olives-jar.png",
+    "key": "4-16",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-0a5d3b71-eeed-4e99-9231-461fd4b4b4af.png",
+    "output": "assets/images/front/product-4-16-frontal.png"
   }
 ]

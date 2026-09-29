@@ -293,11 +293,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-pitted-green-olives-jar.png": {
+    "image": "assets/images/front/product-4-16-frontal.png",
     "imageBounds": [
-      0.165,
-      0,
-      0.8375,
-      1
+      0.17783094098883573,
+      0.0023923444976076554,
+      0.8197767145135566,
+      0.9976076555023924
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-pickles-7-9-large-user-photo.webp": {
@@ -1739,5 +1740,21 @@ window.KPI_PHOTO_LAYOUT = {
       0.9628942486085343,
       0.9808087731322824
     ]
+  },
+  "meter-5/images/2.webp": {
+    "image": "assets/images/front/product-5-2-frontal.png",
+    "imageBounds": [
+      0.1201171875,
+      0.042317708333333336,
+      0.87890625,
+      0.9544270833333334
+    ],
+    "imageFrame": {
+      "x": 0.1201171875,
+      "y": 0.042317708333333336,
+      "width": 0.7587890625,
+      "height": 0.912109375,
+      "aspectRatio": 0.5542857142857143
+    }
   }
 };
