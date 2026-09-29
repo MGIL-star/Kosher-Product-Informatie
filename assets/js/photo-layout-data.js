@@ -1884,5 +1884,14 @@ window.KPI_PHOTO_LAYOUT = {
       "height": 0.9921875,
       "aspectRatio": 0.665
     }
+  },
+  "meter-7/images/product-31-front.png": {
+    "image": "assets/images/front/product-7-31-black.png",
+    "imageBounds": [
+      0.181021897810219,
+      0.05662020905923345,
+      0.8277372262773722,
+      0.9398954703832753
+    ]
   }
 };
