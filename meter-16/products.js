@@ -2454,27 +2454,24 @@ window.KPI_PRODUCTS = [
   {
     "id": 67,
     "catalogType": "nonfood",
-    "name": "Kaarsen in houders kartonnen doos",
-    "brand": "",
+    "name": "Herdenkingskaars in blik",
+    "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.4421875,
-      "y": 0.5333333333333333,
-      "width": 0.2015625,
-      "height": 0.21666666666666667,
-      "aspectRatio": 1.2403846153846154
-    },
+    "variant": "Tot 26 uur",
+    "image": "images/menora-herdenkingskaars-user.png",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Herdenkingskaars in een metalen houder.",
+      "Brandduur": "Tot 26 uur volgens het etiket."
+    },
     "sources": [],
-    "identificationNote": "Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen.",
+    "identificationNote": "Product geïdentificeerd op de aangeleverde foto; de exacte positie op het schap is nog te bevestigen.",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
+      "note": "Metalen houder. De samenstelling van de kaarswas is nog niet bevestigd."
+    },
+    "identificationLabel": "Schappositie nog te bevestigen"
   },
   {
     "id": 68,

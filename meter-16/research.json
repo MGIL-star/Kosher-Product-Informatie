@@ -1502,22 +1502,28 @@
     },
     {
       "id": 67,
-      "name": "Kaarsen in houders kartonnen doos",
-      "brand": "",
+      "name": "Herdenkingskaars in blik",
+      "brand": "Menora",
       "shelf": 7,
-      "variant": "",
+      "variant": "Tot 26 uur",
       "status": "nog te bevestigen",
       "note": "Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen.",
       "sources": [],
-      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.4421875,
-        "y": 0.5333333333333333,
-        "width": 0.2015625,
-        "height": 0.21666666666666667,
-        "aspectRatio": 1.2403846153846154
-      }
+      "image": "images/menora-herdenkingskaars-user.png",
+      "imageSource": "Door gebruiker aangeleverde foto, 2026-09-29",
+      "catalogType": "nonfood",
+      "category": "Kaarsen en accessoires",
+      "allergens": null,
+      "productInfo": {
+        "Toepassing": "Herdenkingskaars in een metalen houder.",
+        "Brandduur": "Tot 26 uur volgens het etiket."
+      },
+      "identificationNote": "Product geïdentificeerd op de aangeleverde foto; de exacte positie op het schap is nog te bevestigen.",
+      "composition": {
+        "heading": "Materiaal",
+        "note": "Metalen houder. De samenstelling van de kaarswas is nog niet bevestigd."
+      },
+      "identificationLabel": "Schappositie nog te bevestigen"
     },
     {
       "id": 68,
@@ -1687,7 +1693,8 @@
       42,
       4,
       3,
-      1
+      1,
+      67
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",
