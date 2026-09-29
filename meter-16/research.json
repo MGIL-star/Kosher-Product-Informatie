@@ -1620,9 +1620,27 @@
           "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
         }
       ],
-      "image": "images/product-68.jpg",
-      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4523610301.png",
-      "matchingEvidence": "Match op witte doos, groene opdruk met het getal 10 en centraal kandelaarmotief. Afmetingen volgens leverancier."
+      "image": "images/witte-kaarsen-retouched.png",
+      "imageSource": "Gebruikersfoto bewerkt met imagegen: plakband verwijderd, perspectief en belichting gecorrigeerd. Gegevens gecontroleerd op Israelwinkel artikel 93008.",
+      "matchingEvidence": "Match op witte doos, groene opdruk met het getal 10 en centraal kandelaarmotief. Afmetingen volgens leverancier.",
+      "catalogType": "nonfood",
+      "category": "Kaarsen en accessoires",
+      "allergens": null,
+      "productInfo": {
+        "Toepassing": "Witte tafelkaarsen voor een passende kandelaar.",
+        "Afmetingen": "12 cm hoog; diameter 12 mm.",
+        "Verpakking": "10 stuks."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Materiaal",
+        "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+      },
+      "supplier": {
+        "name": "Israelwinkel",
+        "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm",
+        "sku": "93008"
+      }
     },
     {
       "id": 69,
@@ -1843,7 +1861,8 @@
       15,
       10,
       70,
-      71
+      71,
+      68
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",

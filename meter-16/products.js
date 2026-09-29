@@ -2509,11 +2509,12 @@ window.KPI_PRODUCTS = [
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "10 stuks · 12 cm",
-    "image": "images/product-68.jpg",
+    "image": "images/witte-kaarsen-retouched.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Witte tafelkaarsen voor een passende kandelaar.",
-      "Afmetingen": "12 cm hoog en 12 mm in diameter."
+      "Afmetingen": "12 cm hoog; diameter 12 mm.",
+      "Verpakking": "10 stuks."
     },
     "sources": [
       {
@@ -2528,7 +2529,8 @@ window.KPI_PRODUCTS = [
     },
     "supplier": {
       "name": "Israelwinkel",
-      "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
+      "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm",
+      "sku": "93008"
     }
   },
   {
