@@ -167,23 +167,26 @@ window.KPI_PRODUCTS = [
   {
     "id": 7,
     "catalogType": "nonfood",
-    "name": "Wonderspons",
-    "brand": "",
+    "name": "Wonderspons Extra",
+    "brand": "Sano",
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "6 stuks",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+    "image": "images/sano-wonderspons-extra-user.png",
     "imageFrame": {
-      "x": 0.765625,
-      "y": 0.3625,
-      "width": 0.184375,
-      "height": 0.1375,
-      "aspectRatio": 1.7878787878787878
+      "x": 0,
+      "y": 0.27,
+      "width": 1,
+      "height": 0.47,
+      "aspectRatio": 1.7094017094017093
     },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Herbruikbare wonderspons voor hardnekkige vlekken op muren, oppervlakken en deuren, volgens de verpakking.",
+      "Uitvoering": "Met een groene laag voor extra stevigheid."
+    },
     "sources": [],
-    "identificationNote": "De doos vermeldt 6 stuks. Het merk en de precieze gebruiksaanwijzing zijn nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
       "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."

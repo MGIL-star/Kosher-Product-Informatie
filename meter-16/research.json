@@ -170,21 +170,33 @@
     },
     {
       "id": 7,
-      "name": "Wonderspons",
-      "brand": "",
+      "name": "Wonderspons Extra",
+      "brand": "Sano",
       "shelf": 1,
       "variant": "6 stuks",
       "status": "nog te bevestigen",
       "note": "De doos vermeldt 6 stuks. Het merk en de precieze gebruiksaanwijzing zijn nog te bevestigen.",
       "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
+      "image": "images/sano-wonderspons-extra-user.png",
+      "imageSource": "Gebruikersfoto 2026-09-29",
       "imageFrame": {
-        "x": 0.765625,
-        "y": 0.3625,
-        "width": 0.184375,
-        "height": 0.1375,
-        "aspectRatio": 1.7878787878787878
+        "x": 0,
+        "y": 0.27,
+        "width": 1,
+        "height": 0.47,
+        "aspectRatio": 1.7094017094017093
+      },
+      "catalogType": "nonfood",
+      "category": "Schoonmaak",
+      "allergens": null,
+      "productInfo": {
+        "Toepassing": "Herbruikbare wonderspons voor hardnekkige vlekken op muren, oppervlakken en deuren, volgens de verpakking.",
+        "Uitvoering": "Met een groene laag voor extra stevigheid."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Materiaal",
+        "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
       }
     },
     {
@@ -1744,7 +1756,8 @@
       1,
       67,
       74,
-      65
+      65,
+      7
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",
@@ -1956,6 +1969,13 @@
       }
     ],
     "cards": 74,
-    "candleRetouch": "Menora 67 vrijstaand en rechtgezet. Gegenereerde bewerkingen van Ner Mitzvah 65/74 afgekeurd wegens gewijzigde etiketdetails; originele foto’s behouden."
+    "candleRetouch": "Menora 67 vrijstaand en rechtgezet. Gegenereerde bewerkingen van Ner Mitzvah 65/74 afgekeurd wegens gewijzigde etiketdetails; originele foto’s behouden.",
+    "duplicateAudit": {
+      "checked": "2026-09-29",
+      "duplicateBarcodes": [],
+      "duplicateNamesAndVariants": [],
+      "duplicateSupplierArticles": [],
+      "note": "Geen bevestigde dubbele productkaarten aangetroffen. Geuren, gebruiksvarianten en brandduren apart gehouden. Ongeïdentificeerde schapproducten niet zonder bewijs verwijderd."
+    }
   }
 }
