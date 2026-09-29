@@ -2589,26 +2589,31 @@ window.KPI_PRODUCTS = [
   {
     "id": 71,
     "catalogType": "nonfood",
-    "name": "Chanoekakaarsen blauwe doos links",
-    "brand": "",
+    "name": "Gekleurde chanoekakaarsen",
+    "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+    "variant": "44 stuks · 9,5 cm",
+    "image": "images/menora-chanoekakaarsen-user.png",
     "imageFrame": {
-      "x": 0.803125,
-      "y": 0.6125,
-      "width": 0.0578125,
-      "height": 0.13958333333333334,
-      "aspectRatio": 0.5522388059701493
+      "x": 0.04,
+      "y": 0.13,
+      "width": 0.91,
+      "height": 0.75,
+      "aspectRatio": 1.1130434782608696
     },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Beschrijving": "Doosje met 44 gekleurde kaarsjes voor een chanoekia.",
+      "Afmetingen": "9,5 cm lang; doorsnede 8 mm.",
+      "Toepassing": "Voor de acht avonden van Chanoeka. Elke avond wordt één lichtje meer aangestoken, van één tot acht. De extra kaars, de sjamasj (dienaar), wordt gebruikt om de andere kaarsjes aan te steken.",
+      "Achtergrond": "Chanoeka betekent inwijding en herdenkt de herinwijding van de Tempel. Volgens de overlevering bleef een kleine hoeveelheid olie acht dagen branden."
+    },
     "sources": [],
-    "identificationNote": "Chanoekakaarsen zijn herkenbaar. Merk, aantal en afmetingen zijn nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+      "note": "De samenstelling van de kaarswas is nog niet bevestigd."
     }
   },
   {
