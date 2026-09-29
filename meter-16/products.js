@@ -2457,27 +2457,40 @@ window.KPI_PRODUCTS = [
   {
     "id": 66,
     "catalogType": "nonfood",
-    "name": "Kaarsenaccessoires kleine blauwe doosjes",
-    "brand": "",
+    "name": "Gevlochten havdalakaars",
+    "brand": "Ner Mitzvah",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+    "variant": "Rood wit en blauw",
+    "image": "images/ner-mitzvah-havdala-user.png",
     "imageFrame": {
-      "x": 0.40625,
-      "y": 0.575,
-      "width": 0.034375,
-      "height": 0.04791666666666667,
-      "aspectRatio": 0.9565217391304348
+      "x": 0.42,
+      "y": 0,
+      "width": 0.16,
+      "height": 1,
+      "aspectRatio": 0.16
     },
     "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De kleine blauwe doosjes zijn te onscherp om de inhoud betrouwbaar te herkennen.",
+    "productInfo": {
+      "Beschrijving": "Gevlochten havdalakaars in rood, wit en blauw.",
+      "Toepassing": "Voor havdala, de ceremonie aan het einde van sjabbat."
+    },
+    "sources": [
+      {
+        "label": "Tiferes Judaica — product en barcode",
+        "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
+      }
+    ],
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
+      "text": "100% paraffinewas volgens de leverancier.",
+      "source": {
+        "label": "Tiferes Judaica — materiaal",
+        "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
+      }
+    },
+    "ean": "706132200829"
   },
   {
     "id": 67,

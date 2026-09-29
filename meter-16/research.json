@@ -1564,22 +1564,44 @@
     },
     {
       "id": 66,
-      "name": "Kaarsenaccessoires kleine blauwe doosjes",
-      "brand": "",
+      "name": "Gevlochten havdalakaars",
+      "brand": "Ner Mitzvah",
       "shelf": 7,
-      "variant": "",
+      "variant": "Rood wit en blauw",
       "status": "nog te bevestigen",
       "note": "De kleine blauwe doosjes zijn te onscherp om de inhoud betrouwbaar te herkennen.",
-      "sources": [],
-      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-      "imageSource": "Eigen schapfoto",
+      "sources": [
+        {
+          "label": "Tiferes Judaica — product en barcode",
+          "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
+        }
+      ],
+      "image": "images/ner-mitzvah-havdala-user.png",
+      "imageSource": "Gebruikersfoto en barcode, gecontroleerd bij Tiferes Judaica op 2026-09-29",
       "imageFrame": {
-        "x": 0.40625,
-        "y": 0.575,
-        "width": 0.034375,
-        "height": 0.04791666666666667,
-        "aspectRatio": 0.9565217391304348
-      }
+        "x": 0.42,
+        "y": 0,
+        "width": 0.16,
+        "height": 1,
+        "aspectRatio": 0.16
+      },
+      "catalogType": "nonfood",
+      "category": "Kaarsen en accessoires",
+      "allergens": null,
+      "productInfo": {
+        "Beschrijving": "Gevlochten havdalakaars in rood, wit en blauw.",
+        "Toepassing": "Voor havdala, de ceremonie aan het einde van sjabbat."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Materiaal",
+        "text": "100% paraffinewas volgens de leverancier.",
+        "source": {
+          "label": "Tiferes Judaica — materiaal",
+          "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
+        }
+      },
+      "ean": "706132200829"
     },
     {
       "id": 67,
@@ -1862,7 +1884,8 @@
       10,
       70,
       71,
-      68
+      68,
+      66
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",

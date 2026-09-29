@@ -847,10 +847,16 @@
     },
     {
       "id": 66,
-      "status": "pending",
-      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "status": "online-list",
       "checked": "2026-09-29",
-      "sources": []
+      "sources": [
+        {
+          "label": "Tiferes Judaica — product en barcode",
+          "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
+        }
+      ],
+      "text": "100% paraffinewas volgens de leverancier.",
+      "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
     },
     {
       "id": 67,
