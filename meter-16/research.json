@@ -115,22 +115,20 @@
     },
     {
       "id": 6,
-      "name": "Schuursponzen",
+      "name": "Schuursponsjes goud en zilver",
       "brand": "",
       "shelf": 1,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
-      "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.6609375,
-        "y": 0.35833333333333334,
-        "width": 0.090625,
-        "height": 0.1375,
-        "aspectRatio": 0.8787878787878788
-      }
+      "variant": "2 stuks",
+      "status": "geïdentificeerd",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israelwinkel — schuursponsjes",
+          "url": "https://www.israelwinkel.nl/producten/schuursponsjes"
+        }
+      ],
+      "image": "images/schuursponsjes-israelwinkel.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 7,
@@ -153,41 +151,37 @@
     },
     {
       "id": 8,
-      "name": "Gezichtscrème linker doos",
+      "name": "Nachtcrème",
       "brand": "Shemen Amour",
       "shelf": 2,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
-      "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.0734375,
-        "y": 0.6145833333333334,
-        "width": 0.0890625,
-        "height": 0.11666666666666667,
-        "aspectRatio": 1.0178571428571428
-      }
+      "variant": "50 ml",
+      "status": "schapvolgorde te bevestigen",
+      "note": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
+      "sources": [
+        {
+          "label": "Israelwinkel — Nachtcrème",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
+        }
+      ],
+      "image": "images/gezichtscreme-8.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 9,
-      "name": "Gezichtscrème rechter doos",
+      "name": "Vochtinbrengende dagcrème",
       "brand": "Shemen Amour",
       "shelf": 2,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
-      "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.1609375,
-        "y": 0.6125,
-        "width": 0.0765625,
-        "height": 0.11875,
-        "aspectRatio": 0.8596491228070176
-      }
+      "variant": "50 ml",
+      "status": "schapvolgorde te bevestigen",
+      "note": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
+      "sources": [
+        {
+          "label": "Israelwinkel — Vochtinbrengende dagcrème",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
+        }
+      ],
+      "image": "images/gezichtscreme-9.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 10,
@@ -651,75 +645,54 @@
     },
     {
       "id": 32,
-      "name": "Deodorantroller met gele bloemen",
-      "brand": "HB",
+      "name": "Deodorantroller Citrus Blossom",
+      "brand": "Careline Bio",
       "shelf": 4,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+      "variant": "75 ml",
+      "status": "geïdentificeerd",
+      "note": "",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — juiste geurvariant",
+          "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.034375,
-        "y": 0.5916666666666667,
-        "width": 0.04375,
-        "height": 0.12291666666666666,
-        "aspectRatio": 0.4745762711864407
-      }
+      "image": "images/careline-deo-32.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 33,
-      "name": "Deodorantroller met paarse bloemen",
-      "brand": "HB",
+      "name": "Deodorantroller Secret Garden",
+      "brand": "Careline Bio",
       "shelf": 4,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+      "variant": "75 ml",
+      "status": "geïdentificeerd",
+      "note": "",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — juiste geurvariant",
+          "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.0796875,
-        "y": 0.5916666666666667,
-        "width": 0.04375,
-        "height": 0.12291666666666666,
-        "aspectRatio": 0.4745762711864407
-      }
+      "image": "images/careline-deo-33.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 34,
-      "name": "Deodorantroller met roze bloemen",
-      "brand": "HB",
+      "name": "Deodorantroller Velvet Rose",
+      "brand": "Careline Bio",
       "shelf": 4,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+      "variant": "75 ml",
+      "status": "geïdentificeerd",
+      "note": "",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — juiste geurvariant",
+          "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.1265625,
-        "y": 0.5916666666666667,
-        "width": 0.04375,
-        "height": 0.12291666666666666,
-        "aspectRatio": 0.4745762711864407
-      }
+      "image": "images/careline-deo-34.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 35,
@@ -806,27 +779,20 @@
     },
     {
       "id": 39,
-      "name": "Gezichtscrème C Power links",
+      "name": "Dagcrème C Power SPF 20",
       "brand": "Careline",
       "shelf": 4,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+      "variant": "50 ml",
+      "status": "schapvolgorde te bevestigen",
+      "note": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
       "sources": [
         {
-          "label": "Careline — fabrikant",
-          "url": "https://careline.co.il/c-power/"
+          "label": "Israelwinkel — Dagcrème C Power SPF 20",
+          "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.4734375,
-        "y": 0.5625,
-        "width": 0.065625,
-        "height": 0.15833333333333333,
-        "aspectRatio": 0.5526315789473685
-      }
+      "image": "images/gezichtscreme-39.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 40,
@@ -851,27 +817,20 @@
     },
     {
       "id": 41,
-      "name": "Gezichtscrème C Power rechts",
+      "name": "Nachtcrème C Power",
       "brand": "Careline",
       "shelf": 4,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+      "variant": "50 ml",
+      "status": "schapvolgorde te bevestigen",
+      "note": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
       "sources": [
         {
-          "label": "Careline — fabrikant",
-          "url": "https://careline.co.il/c-power/"
+          "label": "Israelwinkel — Nachtcrème C Power",
+          "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.6109375,
-        "y": 0.5604166666666667,
-        "width": 0.0640625,
-        "height": 0.16041666666666668,
-        "aspectRatio": 0.5324675324675324
-      }
+      "image": "images/gezichtscreme-41.jpg",
+      "imageSource": "Israelwinkel — productfoto"
     },
     {
       "id": 42,
@@ -1573,14 +1532,14 @@
   "supplierConfirmedByUser": "https://www.israelwinkel.nl/categorieen/mooi-gezond",
   "ingredientsResearch": "ingredients-research.json",
   "ingredientsSummary": {
-    "onlineLists": 38,
+    "onlineLists": 45,
     "backLabelPhotos": 3,
-    "pendingComposition": 34
+    "pendingComposition": 27
   },
   "currentUpdate": {
     "date": "2026-09-29",
-    "supplierLinks": 27,
-    "identificationPending": 28,
+    "supplierLinks": 35,
+    "identificationPending": 24,
     "pinukFrames": "Nine bottles sized to the normal shampoo reference using CSS frames; original images unchanged.",
     "userPhotos": [
       13,
@@ -1597,6 +1556,7 @@
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",
       "https://www.israelwinkel.nl/categorieen/mooi-gezond?page=2"
     ],
-    "page2Result": "Pagina 2 bevat Careline primer, Shemen Amour Hyaluron en Careline deodoranten. Geen nieuwe zekere schapmatches; HB-rollers zijn geen Careline-deodoranten."
+    "page2Result": "Correctie: de drie groene rollers op de schapfoto zijn Careline Bio, niet HB. De drie geurvarianten op pagina 2 zijn gekoppeld en apart gecontroleerd.",
+    "corrections": "Careline Bio rollers Citrus Blossom, Secret Garden en Velvet Rose; schuursponsjes 2 stuks; vier gezichtscrèmes met online productgegevens. Dag/nachtposities nog te bevestigen."
   }
 }

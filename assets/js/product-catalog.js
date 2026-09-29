@@ -45,7 +45,7 @@
     return `<article class="product-card">
       <button type="button" data-product-id="${product.id}" aria-label="Bekijk ${escapeHtml(product.brand)} ${escapeHtml(product.name)}">
         ${productImage(product)}
-        <span class="card-text"><strong>${escapeHtml(product.name)}</strong><small>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</small>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}${product.identificationNote ? '<span class="identification-status">Variant nog te bevestigen</span>' : ''}</span>
+        <span class="card-text"><strong>${escapeHtml(product.name)}</strong><small>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</small>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}${product.identificationNote ? `<span class="identification-status">${escapeHtml(product.identificationLabel || 'Variant nog te bevestigen')}</span>` : ''}</span>
         <span class="card-action">${nonFood ? 'Productinformatie' : 'Ingrediënten &amp; allergenen'} <span aria-hidden="true">→</span></span>
       </button>
     </article>`;

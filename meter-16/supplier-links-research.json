@@ -67,6 +67,24 @@
   ],
   "currentSupplierLinks": [
     {
+      "id": 6,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/schuursponsjes",
+      "sku": "75046"
+    },
+    {
+      "id": 8,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme",
+      "sku": "74734"
+    },
+    {
+      "id": 9,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme",
+      "sku": "74730"
+    },
+    {
       "id": 10,
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
@@ -162,6 +180,24 @@
       "sku": "74757"
     },
     {
+      "id": 32,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281",
+      "sku": "75281"
+    },
+    {
+      "id": 33,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279",
+      "sku": "75279"
+    },
+    {
+      "id": 34,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280",
+      "sku": "75280"
+    },
+    {
       "id": 35,
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252",
@@ -188,9 +224,21 @@
       "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
     },
     {
+      "id": 39,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme",
+      "sku": "75274"
+    },
+    {
       "id": 40,
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
+    },
+    {
+      "id": 41,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme",
+      "sku": "75275"
     },
     {
       "id": 42,
@@ -224,5 +272,6 @@
     31,
     43
   ],
-  "mintLinkNote": "Artikelnummer bevat bij leverancier een afsluitende spatie; sku=75285%20 opent aantoonbaar Mint, sku=75285 opent Aloë vera."
+  "mintLinkNote": "Artikelnummer bevat bij leverancier een afsluitende spatie; sku=75285%20 opent aantoonbaar Mint, sku=75285 opent Aloë vera.",
+  "corrections": "Careline Bio rollers Citrus Blossom, Secret Garden en Velvet Rose; schuursponsjes 2 stuks; vier gezichtscrèmes met online productgegevens. Dag/nachtposities nog te bevestigen."
 }

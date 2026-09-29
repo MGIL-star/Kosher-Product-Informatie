@@ -50,9 +50,14 @@
     {
       "id": 6,
       "status": "pending",
-      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "reason": "De leverancier vermeldt geen volledige materiaalsamenstelling.",
       "checked": "2026-09-29",
-      "sources": []
+      "sources": [
+        {
+          "label": "Israelwinkel — schuursponsjes",
+          "url": "https://www.israelwinkel.nl/producten/schuursponsjes"
+        }
+      ]
     },
     {
       "id": 7,
@@ -63,17 +68,29 @@
     },
     {
       "id": 8,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
-      "sources": []
+      "sources": [
+        {
+          "label": "Israelwinkel — Nachtcrème",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
+        }
+      ],
+      "text": "Aqua, Hyaluronic Acid, Stearic Acid, Nettle (Urtica dioica) Extract, Sorbic Acid.Tocopheryl acetate (vitamin E), Tetrasodium Edta, Cetyl Alcohol, Fragrance, Jojoba (Simmondsia Chinensis) Seed Oil, Triethanolamine, Sorbitol, Green Tea (Camellia chinensis) Leaf Extract, Shea (Butyrospermum Parkii) Butter, Carbomer, Honey extract, Hydrolyzed Collagen, Maris Sal (Dead Sea Salt), Rosemary (Rosmarinus officinalis) Extract. Glycerin, Benzyl Alcohol",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
     },
     {
       "id": 9,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
-      "sources": []
+      "sources": [
+        {
+          "label": "Israelwinkel — Vochtinbrengende dagcrème",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
+        }
+      ],
+      "text": "Water, propylene glycol, cetyl alcohol, stearyl alcohol, isopropyl myristate, cetearyl ethylhexanoate, caprylic/capric triglyceride, PEG-40 stearate, glyceryl SE, glycerin, paraffinum liquidum, phenoxyethanol (and) caprylyl glycol, sorbitan tristearate, caprylyl glycol, parfum, chlorophenesin, mannitol, microcrystalline cellulose, ultramarines (US) CI 77007 (EU), tocopheryl acetate, silica, retinyl palmitate, caprylic/carpic triglyceride, hydroxypropyl methylcellulose, kaolin, tetrasodium EDTA, citric acid, amyl cinnemal, hydroxycitronallal, benzyl salicylate, benzyl benzoate, citronellol, alpha isomethyl ionone, hexyl cinnama.",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
     },
     {
       "id": 10,
@@ -380,39 +397,42 @@
     },
     {
       "id": 32,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — juiste geurvariant",
+          "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
         }
-      ]
+      ],
+      "text": "Aqua (Water), Aluminum Zirconium Tetrachlorohydrex GLY, Cyclopentasiloxane, Steareth-2, PPG-15 Stearyl Ether, Parfum, Steareth-21, Phenyl Trimethicone, PEG-8 Distearate, Polysorbate 20, Dimethylimidazolidinone Rice Starch, Silica, Ethylhexylglycerin, Farnesol, Propylene Glycol, Bisabolol, BHT, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Citric Acid, Citral, Hexyl Cinnamal, Limonene, Linalool.",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
     },
     {
       "id": 33,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — juiste geurvariant",
+          "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
         }
-      ]
+      ],
+      "text": "Aqua (Water), Aluminum Zirconium Tetrachlorohydrex GLY, Cyclopentasiloxane, Steareth-2, PPG-15 Stearyl Ether, Parfum, Steareth-21, Phenyl Trimethicone, PEG-8 Distearate, Polysorbate 20, Dimethylimidazolidinone Rice Starch, Silica, Ethylhexylglycerin, Farnesol, Propylene Glycol, Bisabolol, BHT, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Citric Acid, Limonene, Linalool.",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
     },
     {
       "id": 34,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — juiste geurvariant",
+          "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
         }
-      ]
+      ],
+      "text": "Aqua (Water), Aluminum Zirconium Tetrachlorohydrex GLY, Cyclopentasiloxane, Steareth-2, PPG-15 Stearyl Ether, Parfum, Steareth-21, Phenyl Trimethicone, PEG-8 Distearate, Polysorbate 20, Dimethylimidazolidinone Rice Starch, Silica, Ethylhexylglycerin, Farnesol, Propylene Glycol, Bisabolol, BHT, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Citric Acid, Benzyl Benzoate, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Citral, Citronellol.",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
     },
     {
       "id": 35,
@@ -476,15 +496,16 @@
     },
     {
       "id": 39,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
       "sources": [
         {
-          "label": "Careline — fabrikant",
-          "url": "https://careline.co.il/c-power/"
+          "label": "Israelwinkel — Dagcrème C Power SPF 20",
+          "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme"
         }
-      ]
+      ],
+      "text": "Aqua (Water), Dimethicone, Ethylhexyl Methoxycinnamaat, SD Alcohol 40, Butyleenglycol, Glycerine, Bis-PEG/PPG-14/14 Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Dicaprylyl Carbonaat, Ascorbyl Tetraisopalmitenum, geur, natriumcitraat, DMDM-hydantoïne, dimethicon / vinyldimethicon-kruispolymeer, chloorfenesine, Hippophae Rhamnoides-zaadolie, limoneen, hexylkaneel, citral, geraniol, alfa-isomethylionon, CI 15985.",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme"
     },
     {
       "id": 40,
@@ -505,15 +526,16 @@
     },
     {
       "id": 41,
-      "status": "pending",
-      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "status": "online-list",
       "checked": "2026-09-29",
       "sources": [
         {
-          "label": "Careline — fabrikant",
-          "url": "https://careline.co.il/c-power/"
+          "label": "Israelwinkel — Nachtcrème C Power",
+          "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
         }
-      ]
+      ],
+      "text": "Aqua (water), dimethicon, SD-alcohol 40, glycerine, butyleenglycol, bis-PEG/PPG-14/14 dimethicon, caprylylcaprylaat/capraat, ascorbyltetraisopalmitaat, undecaan, glycerth-26, dicaprylylcarbonaat, betaïne, fenoxyethanol, tridecaan, Parfum (Geur), Natriumcitraat, Hyaluronzuur, DMDM Hydantoïne, Dimethicon/Vinyl Dimethicone Crosspolymer, Allantoïne, Bisabolol, Vaccinium Myrtillus Zaadolie, Camellia Sinensis Bladolie, Chloorfenesine, Hippophae Rhamnoides Zaadolie, Limthooneen, Angios Citral, Geraniol, Alfa-Isomethyl Ionon.",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
     },
     {
       "id": 42,

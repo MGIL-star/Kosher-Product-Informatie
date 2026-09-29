@@ -136,26 +136,32 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "catalogType": "nonfood",
-    "name": "Schuursponzen",
+    "name": "Schuursponsjes goud en zilver",
     "brand": "",
     "category": "Schoonmaak",
     "shelf": 1,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.6609375,
-      "y": 0.35833333333333334,
-      "width": 0.090625,
-      "height": 0.1375,
-      "aspectRatio": 0.8787878787878788
-    },
+    "variant": "2 stuks",
+    "image": "images/schuursponsjes-israelwinkel.jpg",
     "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "productInfo": {
+      "Toepassing": "Set met een gouden en een zilveren schuurspons voor afwas en schoonmaak. Volgens de leverancier ook geschikt voor pannen met een antiaanbaklaag.",
+      "Gebruik": "De twee kleuren kunnen worden gebruikt om sponsjes voor verschillende keukentoepassingen uit elkaar te houden."
+    },
+    "sources": [
+      {
+        "label": "Israelwinkel — schuursponsjes",
+        "url": "https://www.israelwinkel.nl/producten/schuursponsjes"
+      }
+    ],
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+      "note": "De leverancier vermeldt geen volledige materiaalsamenstelling."
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/schuursponsjes",
+      "sku": "75046"
     }
   },
   {
@@ -186,52 +192,76 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "catalogType": "nonfood",
-    "name": "Gezichtscrème linker doos",
+    "name": "Nachtcrème",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.0734375,
-      "y": 0.6145833333333334,
-      "width": 0.0890625,
-      "height": 0.11666666666666667,
-      "aspectRatio": 1.0178571428571428
-    },
+    "variant": "50 ml",
+    "image": "images/gezichtscreme-8.jpg",
     "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "productInfo": {
+      "Toepassing": "Nachtcrème voor de verzorging van gezicht en hals.",
+      "Gebruik": "’s Avonds op een gereinigde huid aanbrengen en zacht inmasseren."
+    },
+    "sources": [
+      {
+        "label": "Israelwinkel — Nachtcrème",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
+      }
+    ],
+    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
-    }
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua, Hyaluronic Acid, Stearic Acid, Nettle (Urtica dioica) Extract, Sorbic Acid.Tocopheryl acetate (vitamin E), Tetrasodium Edta, Cetyl Alcohol, Fragrance, Jojoba (Simmondsia Chinensis) Seed Oil, Triethanolamine, Sorbitol, Green Tea (Camellia chinensis) Leaf Extract, Shea (Butyrospermum Parkii) Butter, Carbomer, Honey extract, Hydrolyzed Collagen, Maris Sal (Dead Sea Salt), Rosemary (Rosmarinus officinalis) Extract. Glycerin, Benzyl Alcohol",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme",
+      "sku": "74734"
+    },
+    "identificationLabel": "Schappositie nog te bevestigen"
   },
   {
     "id": 9,
     "catalogType": "nonfood",
-    "name": "Gezichtscrème rechter doos",
+    "name": "Vochtinbrengende dagcrème",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.1609375,
-      "y": 0.6125,
-      "width": 0.0765625,
-      "height": 0.11875,
-      "aspectRatio": 0.8596491228070176
-    },
+    "variant": "50 ml",
+    "image": "images/gezichtscreme-9.jpg",
     "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "productInfo": {
+      "Toepassing": "Vochtinbrengende dagcrème voor de verzorging van gezicht en hals.",
+      "Gebruik": "Dagelijks op een gereinigde huid aanbrengen en zacht inmasseren."
+    },
+    "sources": [
+      {
+        "label": "Israelwinkel — Vochtinbrengende dagcrème",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
+      }
+    ],
+    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
-    }
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Water, propylene glycol, cetyl alcohol, stearyl alcohol, isopropyl myristate, cetearyl ethylhexanoate, caprylic/capric triglyceride, PEG-40 stearate, glyceryl SE, glycerin, paraffinum liquidum, phenoxyethanol (and) caprylyl glycol, sorbitan tristearate, caprylyl glycol, parfum, chlorophenesin, mannitol, microcrystalline cellulose, ultramarines (US) CI 77007 (EU), tocopheryl acetate, silica, retinyl palmitate, caprylic/carpic triglyceride, hydroxypropyl methylcellulose, kaolin, tetrasodium EDTA, citric acid, amyl cinnemal, hydroxycitronallal, benzyl salicylate, benzyl benzoate, citronellol, alpha isomethyl ionone, hexyl cinnama.",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme",
+      "sku": "74730"
+    },
+    "identificationLabel": "Schappositie nog te bevestigen"
   },
   {
     "id": 10,
@@ -1044,91 +1074,112 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "catalogType": "nonfood",
-    "name": "Deodorantroller met gele bloemen",
-    "brand": "HB",
+    "name": "Deodorantroller Citrus Blossom",
+    "brand": "Careline Bio",
     "category": "Verzorging",
     "shelf": 4,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.034375,
-      "y": 0.5916666666666667,
-      "width": 0.04375,
-      "height": 0.12291666666666666,
-      "aspectRatio": 0.4745762711864407
-    },
+    "variant": "75 ml",
+    "image": "images/careline-deo-32.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
+      "Gebruik": "Aanbrengen op schone droge oksels.",
+      "Geur": "Citrusbloesem"
+    },
     "sources": [
       {
-        "label": "HB — fabrikant",
-        "url": "https://hbdeadsea.com/"
+        "label": "Israelwinkel — juiste geurvariant",
+        "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
       }
     ],
-    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua (Water), Aluminum Zirconium Tetrachlorohydrex GLY, Cyclopentasiloxane, Steareth-2, PPG-15 Stearyl Ether, Parfum, Steareth-21, Phenyl Trimethicone, PEG-8 Distearate, Polysorbate 20, Dimethylimidazolidinone Rice Starch, Silica, Ethylhexylglycerin, Farnesol, Propylene Glycol, Bisabolol, BHT, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Citric Acid, Citral, Hexyl Cinnamal, Limonene, Linalool.",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281",
+      "sku": "75281"
     }
   },
   {
     "id": 33,
     "catalogType": "nonfood",
-    "name": "Deodorantroller met paarse bloemen",
-    "brand": "HB",
+    "name": "Deodorantroller Secret Garden",
+    "brand": "Careline Bio",
     "category": "Verzorging",
     "shelf": 4,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.0796875,
-      "y": 0.5916666666666667,
-      "width": 0.04375,
-      "height": 0.12291666666666666,
-      "aspectRatio": 0.4745762711864407
-    },
+    "variant": "75 ml",
+    "image": "images/careline-deo-33.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
+      "Gebruik": "Aanbrengen op schone droge oksels.",
+      "Geur": "Zachte bloemengeur"
+    },
     "sources": [
       {
-        "label": "HB — fabrikant",
-        "url": "https://hbdeadsea.com/"
+        "label": "Israelwinkel — juiste geurvariant",
+        "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
       }
     ],
-    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua (Water), Aluminum Zirconium Tetrachlorohydrex GLY, Cyclopentasiloxane, Steareth-2, PPG-15 Stearyl Ether, Parfum, Steareth-21, Phenyl Trimethicone, PEG-8 Distearate, Polysorbate 20, Dimethylimidazolidinone Rice Starch, Silica, Ethylhexylglycerin, Farnesol, Propylene Glycol, Bisabolol, BHT, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Citric Acid, Limonene, Linalool.",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279",
+      "sku": "75279"
     }
   },
   {
     "id": 34,
     "catalogType": "nonfood",
-    "name": "Deodorantroller met roze bloemen",
-    "brand": "HB",
+    "name": "Deodorantroller Velvet Rose",
+    "brand": "Careline Bio",
     "category": "Verzorging",
     "shelf": 4,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.1265625,
-      "y": 0.5916666666666667,
-      "width": 0.04375,
-      "height": 0.12291666666666666,
-      "aspectRatio": 0.4745762711864407
-    },
+    "variant": "75 ml",
+    "image": "images/careline-deo-34.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
+      "Gebruik": "Aanbrengen op schone droge oksels.",
+      "Geur": "Frisse rozengeur"
+    },
     "sources": [
       {
-        "label": "HB — fabrikant",
-        "url": "https://hbdeadsea.com/"
+        "label": "Israelwinkel — juiste geurvariant",
+        "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
       }
     ],
-    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua (Water), Aluminum Zirconium Tetrachlorohydrex GLY, Cyclopentasiloxane, Steareth-2, PPG-15 Stearyl Ether, Parfum, Steareth-21, Phenyl Trimethicone, PEG-8 Distearate, Polysorbate 20, Dimethylimidazolidinone Rice Starch, Silica, Ethylhexylglycerin, Farnesol, Propylene Glycol, Bisabolol, BHT, Aloe Barbadensis Leaf Juice Powder, Lactic Acid, Citric Acid, Benzyl Benzoate, Benzyl Salicylate, Hexyl Cinnamal, Linalool, Citral, Citronellol.",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280",
+      "sku": "75280"
     }
   },
   {
@@ -1296,32 +1347,39 @@ window.KPI_PRODUCTS = [
   {
     "id": 39,
     "catalogType": "nonfood",
-    "name": "Gezichtscrème C Power links",
+    "name": "Dagcrème C Power SPF 20",
     "brand": "Careline",
     "category": "Verzorging",
     "shelf": 4,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.4734375,
-      "y": 0.5625,
-      "width": 0.065625,
-      "height": 0.15833333333333333,
-      "aspectRatio": 0.5526315789473685
-    },
+    "variant": "50 ml",
+    "image": "images/gezichtscreme-39.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Dagcrème C Power SPF 20 voor de verzorging van gezicht en hals.",
+      "Gebruik": "Dagelijks op een gereinigde huid aanbrengen en zacht inmasseren."
+    },
     "sources": [
       {
-        "label": "Careline — fabrikant",
-        "url": "https://careline.co.il/c-power/"
+        "label": "Israelwinkel — Dagcrème C Power SPF 20",
+        "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme"
       }
     ],
-    "identificationNote": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
-    }
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua (Water), Dimethicone, Ethylhexyl Methoxycinnamaat, SD Alcohol 40, Butyleenglycol, Glycerine, Bis-PEG/PPG-14/14 Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Dicaprylyl Carbonaat, Ascorbyl Tetraisopalmitenum, geur, natriumcitraat, DMDM-hydantoïne, dimethicon / vinyldimethicon-kruispolymeer, chloorfenesine, Hippophae Rhamnoides-zaadolie, limoneen, hexylkaneel, citral, geraniol, alfa-isomethylionon, CI 15985.",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme",
+      "sku": "75274"
+    },
+    "identificationLabel": "Schappositie nog te bevestigen"
   },
   {
     "id": 40,
@@ -1366,32 +1424,39 @@ window.KPI_PRODUCTS = [
   {
     "id": 41,
     "catalogType": "nonfood",
-    "name": "Gezichtscrème C Power rechts",
+    "name": "Nachtcrème C Power",
     "brand": "Careline",
     "category": "Verzorging",
     "shelf": 4,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.6109375,
-      "y": 0.5604166666666667,
-      "width": 0.0640625,
-      "height": 0.16041666666666668,
-      "aspectRatio": 0.5324675324675324
-    },
+    "variant": "50 ml",
+    "image": "images/gezichtscreme-41.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Nachtcrème C Power voor de verzorging van gezicht en hals.",
+      "Gebruik": "’s Avonds op een gereinigde huid aanbrengen en zacht inmasseren."
+    },
     "sources": [
       {
-        "label": "Careline — fabrikant",
-        "url": "https://careline.co.il/c-power/"
+        "label": "Israelwinkel — Nachtcrème C Power",
+        "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
       }
     ],
-    "identificationNote": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
-    }
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua (water), dimethicon, SD-alcohol 40, glycerine, butyleenglycol, bis-PEG/PPG-14/14 dimethicon, caprylylcaprylaat/capraat, ascorbyltetraisopalmitaat, undecaan, glycerth-26, dicaprylylcarbonaat, betaïne, fenoxyethanol, tridecaan, Parfum (Geur), Natriumcitraat, Hyaluronzuur, DMDM Hydantoïne, Dimethicon/Vinyl Dimethicone Crosspolymer, Allantoïne, Bisabolol, Vaccinium Myrtillus Zaadolie, Camellia Sinensis Bladolie, Chloorfenesine, Hippophae Rhamnoides Zaadolie, Limthooneen, Angios Citral, Geraniol, Alfa-Isomethyl Ionon.",
+      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme",
+      "sku": "75275"
+    },
+    "identificationLabel": "Schappositie nog te bevestigen"
   },
   {
     "id": 42,
