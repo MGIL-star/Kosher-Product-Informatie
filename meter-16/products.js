@@ -109,35 +109,10 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 5,
-    "catalogType": "nonfood",
-    "name": "Schuurspons 2 in 1",
-    "brand": "More",
-    "category": "Schoonmaak",
-    "shelf": 1,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.56875,
-      "y": 0.35625,
-      "width": 0.09375,
-      "height": 0.14375,
-      "aspectRatio": 0.8695652173913043
-    },
-    "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "2 in 1 is zichtbaar; materiaal, aantal en geschikte oppervlakken zijn nog te bevestigen.",
-    "composition": {
-      "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
-  },
-  {
     "id": 6,
     "catalogType": "nonfood",
-    "name": "Schuursponsjes goud en zilver",
-    "brand": "",
+    "name": "Schuursponsjes 2 in 1 goud en zilver",
+    "brand": "More",
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "2 stuks",
@@ -145,7 +120,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Set met een gouden en een zilveren schuurspons voor afwas en schoonmaak. Volgens de leverancier ook geschikt voor pannen met een antiaanbaklaag.",
-      "Gebruik": "De twee kleuren kunnen worden gebruikt om sponsjes voor verschillende keukentoepassingen uit elkaar te houden."
+      "Gebruik": "De twee kleuren kunnen worden gebruikt om sponsjes voor verschillende keukentoepassingen uit elkaar te houden.",
+      "Uitvoering": "2 in 1; verpakking met een goudkleurig en een zilverkleurig sponsje."
     },
     "sources": [
       {

@@ -9,7 +9,7 @@
     "f9099abb-4e91-4f82-80d3-24db24816b86.jpg"
   ],
   "counts": {
-    "cards": 74,
+    "cards": 73,
     "pending": 29,
     "internetPhotos": 44,
     "shelfPhotos": 28
@@ -133,28 +133,9 @@
       "identificationSource": "Door gebruiker aangeleverde productinformatie, 2026-09-29"
     },
     {
-      "id": 5,
-      "name": "Schuurspons 2 in 1",
-      "brand": "More",
-      "shelf": 1,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "2 in 1 is zichtbaar; materiaal, aantal en geschikte oppervlakken zijn nog te bevestigen.",
-      "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.56875,
-        "y": 0.35625,
-        "width": 0.09375,
-        "height": 0.14375,
-        "aspectRatio": 0.8695652173913043
-      }
-    },
-    {
       "id": 6,
-      "name": "Schuursponsjes goud en zilver",
-      "brand": "",
+      "name": "Schuursponsjes 2 in 1 goud en zilver",
+      "brand": "More",
       "shelf": 1,
       "variant": "2 stuks",
       "status": "geïdentificeerd",
@@ -166,7 +147,25 @@
         }
       ],
       "image": "images/schuursponsjes-israelwinkel.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "imageSource": "Israelwinkel — productfoto",
+      "catalogType": "nonfood",
+      "category": "Schoonmaak",
+      "allergens": null,
+      "productInfo": {
+        "Toepassing": "Set met een gouden en een zilveren schuurspons voor afwas en schoonmaak. Volgens de leverancier ook geschikt voor pannen met een antiaanbaklaag.",
+        "Gebruik": "De twee kleuren kunnen worden gebruikt om sponsjes voor verschillende keukentoepassingen uit elkaar te houden.",
+        "Uitvoering": "2 in 1; verpakking met een goudkleurig en een zilverkleurig sponsje."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Materiaal",
+        "note": "De leverancier vermeldt geen volledige materiaalsamenstelling."
+      },
+      "supplier": {
+        "name": "Israelwinkel",
+        "url": "https://www.israelwinkel.nl/producten/schuursponsjes",
+        "sku": "75046"
+      }
     },
     {
       "id": 7,
@@ -1968,7 +1967,7 @@
         "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
       }
     ],
-    "cards": 74,
+    "cards": 73,
     "candleRetouch": "Menora 67 vrijstaand en rechtgezet. Gegenereerde bewerkingen van Ner Mitzvah 65/74 afgekeurd wegens gewijzigde etiketdetails; originele foto’s behouden.",
     "duplicateAudit": {
       "checked": "2026-09-29",
@@ -1976,6 +1975,13 @@
       "duplicateNamesAndVariants": [],
       "duplicateSupplierArticles": [],
       "note": "Geen bevestigde dubbele productkaarten aangetroffen. Geuren, gebruiksvarianten en brandduren apart gehouden. Ongeïdentificeerde schapproducten niet zonder bewijs verwijderd."
-    }
+    },
+    "mergedProducts": [
+      {
+        "removedId": 5,
+        "keptId": 6,
+        "reason": "Gebruiker bevestigt dubbel product. Betere foto behouden en merk More en 2 in 1 overgenomen."
+      }
+    ]
   }
 }

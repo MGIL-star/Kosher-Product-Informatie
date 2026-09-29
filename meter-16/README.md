@@ -49,3 +49,5 @@ HB aloë vera gel 100 ml (nr. 25) gecorrigeerd met gebruikersfoto, passende ingr
 Aanvulling 29 september: gebruikersfoto’s toegepast voor Shemen Amour dagcrème, nachtcrème, aftershave en Careline C Power nachtcrème. Mannencrème 50 ml afzonderlijk toegevoegd met volledige Israelwinkel-ingrediënten (artikel 74733), schappositie nog onzeker. Nu 73 kaarten, 46 online ingrediëntenlijsten en 36 leverancierskoppelingen. HB/Shemen: 21 van 25 kaarten hebben een online lijst; nummers 11, 12, 16 zijn onvoldoende geïdentificeerd en voor HB vitaminevoetcrème 23 ontbreekt nog een volledige verifieerbare lijst.
 
 Ner Mitzvah: 7-dagenkaars nr. 65 aangevuld; 3-dagenkaars nr. 74 afzonderlijk toegevoegd (schappositie onzeker). Gebruikersfoto’s en barcodes 706132281071 / 706132281033 bevestigd bij Judaica Place. Nu 74 kaarten.
+
+Schuursponskaarten 5 en 6 samengevoegd op aanwijzing van gebruiker: betere foto bij 6 behouden, More / 2 in 1 overgenomen. Nu 73 kaarten.

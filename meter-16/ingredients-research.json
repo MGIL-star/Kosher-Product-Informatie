@@ -41,13 +41,6 @@
       "sources": []
     },
     {
-      "id": 5,
-      "status": "pending",
-      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
-      "checked": "2026-09-29",
-      "sources": []
-    },
-    {
       "id": 6,
       "status": "pending",
       "reason": "De leverancier vermeldt geen volledige materiaalsamenstelling.",
