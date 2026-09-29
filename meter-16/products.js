@@ -2494,7 +2494,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "Tot 26 uur",
-    "image": "images/menora-herdenkingskaars-user.png",
+    "image": "images/menora-herdenkingskaars-retouched.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Herdenkingskaars in een metalen houder.",

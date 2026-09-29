@@ -1524,8 +1524,8 @@
       "status": "nog te bevestigen",
       "note": "Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen.",
       "sources": [],
-      "image": "images/menora-herdenkingskaars-user.png",
-      "imageSource": "Door gebruiker aangeleverde foto, 2026-09-29",
+      "image": "images/menora-herdenkingskaars-retouched.png",
+      "imageSource": "Gebruikersfoto bewerkt met imagegen: achtergrond transparant, rechtgezet en scherpte verbeterd. Origineel bewaard.",
       "catalogType": "nonfood",
       "category": "Kaarsen en accessoires",
       "allergens": null,
@@ -1955,6 +1955,7 @@
         "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
       }
     ],
-    "cards": 74
+    "cards": 74,
+    "candleRetouch": "Menora 67 vrijstaand en rechtgezet. Gegenereerde bewerkingen van Ner Mitzvah 65/74 afgekeurd wegens gewijzigde etiketdetails; originele foto’s behouden."
   }
 }
