@@ -1,7 +1,7 @@
 {
   "checkedAt": "2026-09-29",
   "status": "Concept — niet gepubliceerd",
-  "order": "Van boven naar beneden en per plank van links naar rechts. Overlappende foto’s samengevoegd. 72 kaarten zijn waargenomen productposities; onzekere varianten kunnen nog worden samengevoegd.",
+  "order": "Van boven naar beneden en per plank van links naar rechts. Overlappende foto’s samengevoegd. 72 kaarten zijn waargenomen productposities; onzekere varianten kunnen nog worden samengevoegd. De mannencrème (73) is afzonderlijk toegevoegd op basis van een gebruikersfoto; exacte schappositie nog te bevestigen.",
   "sourcePhotos": [
     "2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
     "c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
@@ -9,7 +9,7 @@
     "f9099abb-4e91-4f82-80d3-24db24816b86.jpg"
   ],
   "counts": {
-    "cards": 72,
+    "cards": 73,
     "pending": 29,
     "internetPhotos": 44,
     "shelfPhotos": 28
@@ -163,8 +163,12 @@
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
         }
       ],
-      "image": "images/gezichtscreme-8.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "image": "images/shemen-nachtcreme-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto, 2026-09-29",
+      "productInfo": {
+        "Toepassing": "Nachtcrème voor gezicht en hals met Dode Zee-mineralen, vitamine E, oliën en hyaluronzuur. Voor alle huidtypes.",
+        "Gebruik": "Verdeel de crème over de huid en klop zacht in tot deze volledig is opgenomen. De leverancier adviseert gebruik in combinatie met de dagcrème."
+      }
     },
     {
       "id": 9,
@@ -180,8 +184,19 @@
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
         }
       ],
-      "image": "images/gezichtscreme-9.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "image": "images/shemen-dagcreme-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto, 2026-09-29",
+      "imageFrame": {
+        "x": 0.15,
+        "y": 0.21,
+        "width": 0.7,
+        "height": 0.58,
+        "aspectRatio": 1.4482758620689655
+      },
+      "productInfo": {
+        "Toepassing": "Vochtinbrengende dagcrème voor de verzorging van gezicht en hals.",
+        "Gebruik": "Dagelijks op een gereinigde huid aanbrengen en zacht inmasseren."
+      }
     },
     {
       "id": 10,
@@ -276,8 +291,19 @@
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
         }
       ],
-      "image": "images/product-14.jpg",
-      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4143713234.jpg"
+      "image": "images/shemen-aftershave-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto, 2026-09-29",
+      "imageFrame": {
+        "x": 0.15,
+        "y": 0.05,
+        "width": 0.62,
+        "height": 0.9,
+        "aspectRatio": 0.40287253141831236
+      },
+      "productInfo": {
+        "Toepassing": "Verzorging van de huid na het scheren.",
+        "Gebruik": "Op kin en hals aanbrengen en zacht inmasseren."
+      }
     },
     {
       "id": 15,
@@ -492,20 +518,27 @@
     },
     {
       "id": 25,
-      "name": "Verzorgingscrème voor lichaam handen en voeten",
+      "name": "Aloë vera gel met vitamine E",
       "brand": "HB",
       "shelf": 3,
-      "variant": "180 ml",
+      "variant": "100 ml",
       "status": "geïdentificeerd",
       "note": "",
       "sources": [
         {
-          "label": "Israel Producten Centrum",
-          "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+          "label": "Israelwinkel — aloë vera gel 100 ml",
+          "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel"
         }
       ],
-      "image": "images/product-25.jpg",
-      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/73133%20HB%20multi%20aloe%20klein%20bestand-01KKP3Y3HJBCDQE1YP9SE3E38K.png"
+      "image": "images/hb-aloe-vera-user.png",
+      "imageSource": "Door gebruiker aangeleverde foto: HB Aloe Vera Gel 100 ml",
+      "imageFrame": {
+        "x": 0.35106382978723405,
+        "y": 0.048223350253807105,
+        "width": 0.30638297872340425,
+        "height": 0.9086294416243654,
+        "aspectRatio": 0.4022346368715084
+      }
     },
     {
       "id": 26,
@@ -657,8 +690,8 @@
           "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
         }
       ],
-      "image": "images/careline-deo-32.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "image": "images/careline-citrus-blossom-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto"
     },
     {
       "id": 33,
@@ -674,8 +707,8 @@
           "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
         }
       ],
-      "image": "images/careline-deo-33.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "image": "images/careline-secret-garden-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto"
     },
     {
       "id": 34,
@@ -691,8 +724,8 @@
           "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
         }
       ],
-      "image": "images/careline-deo-34.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "image": "images/careline-velvet-rose-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto"
     },
     {
       "id": 35,
@@ -812,8 +845,13 @@
           "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
         }
       ],
-      "image": "images/product-40.jpg",
-      "imageSource": "https://cdn.istores.co.il/image/upload/c_limit,w_1200,h_630/clients/113088/cc4dd0548e3a6485389f15f5c4f670b683b5a319.jpg"
+      "image": "images/careline-retinol-user.png",
+      "imageSource": "Gebruikersfoto en producttekst 2026-09-29",
+      "productInfo": {
+        "Beschrijving": "Een zachte en voedende nachtcrème met retinol, dat het natuurlijke vochtgehalte in de huid verhoogt ter voorkoming van rimpels en een droge huid.",
+        "Voordelen volgens de productbeschrijving": "Verbetert de celdeling voor de aanmaak van nieuwe huidcellen; stimuleert de aanmaak van huid-eigen collageen; werkt anti-aging; vermindert ouderdomsvlekken.",
+        "Gebruik": "Gebruik dagelijks in de avond na het schoonmaken van de huid. Breng de benodigde hoeveelheid aan op de huid van gezicht en hals en masseer in tot het is opgenomen."
+      }
     },
     {
       "id": 41,
@@ -829,8 +867,12 @@
           "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
         }
       ],
-      "image": "images/gezichtscreme-41.jpg",
-      "imageSource": "Israelwinkel — productfoto"
+      "image": "images/careline-nachtcreme-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto, 2026-09-29",
+      "productInfo": {
+        "Toepassing": "Nachtcrème C Power voor de verzorging van gezicht en hals.",
+        "Gebruik": "’s Avonds op een gereinigde huid aanbrengen en zacht inmasseren."
+      }
     },
     {
       "id": 42,
@@ -1527,6 +1569,44 @@
         "height": 0.13958333333333334,
         "aspectRatio": 0.6417910447761194
       }
+    },
+    {
+      "id": 73,
+      "catalogType": "nonfood",
+      "name": "Vochtinbrengende dagcrème voor mannen",
+      "brand": "Shemen Amour",
+      "category": "Huidverzorging",
+      "shelf": 2,
+      "variant": "50 ml",
+      "image": "images/shemen-mannencreme-user.png",
+      "allergens": null,
+      "productInfo": {
+        "Toepassing": "Vochtinbrengende gezichtscrème voor mannen met Dode Zee-mineralen, hyaluronzuur, sheaboter en vitamine E.",
+        "Gebruik": "Dagelijks een kleine hoeveelheid op de gereinigde huid van gezicht en hals aanbrengen en zacht inmasseren."
+      },
+      "sources": [
+        {
+          "label": "Israelwinkel — mannencrème",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
+        }
+      ],
+      "supplier": {
+        "name": "Israelwinkel",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen",
+        "sku": "74733"
+      },
+      "composition": {
+        "heading": "Ingrediënten volgens leverancier",
+        "text": "Aqua, Hyaluronic Acid, Stearic Acid, Cetyl Alcohol, Triethanolamine, Carbomer, Sorbitol, Glycerin, Sorbic Acid,Shea (Butyrospermum Parkii) Butter, Fraqrance, Benzyl Alcohol, Jojoba Seed Oil, Rosemary (Rosmarinus officinalis) Extract, Green Tea (Camelia chinensis) Leaf Extract, Nettle (Urtica dioica) Extract, Tetrasodium EDTA, Hydrollyzed Collagen, Honey Extract, Tocopheryl acetate (vitamin E),Maris Sal, Citronellol, Coumarin, Butyl Phenyl Methyl Propional, Hexyl Cinnamal, Limonene, Linalool",
+        "note": "Overgenomen van Israelwinkel; samenstelling kan per verpakkingsversie verschillen.",
+        "source": {
+          "label": "Israelwinkel — ingrediënten",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
+        }
+      },
+      "identificationLabel": "Schappositie nog te bevestigen",
+      "identificationNote": "Toegevoegd op basis van de aangeleverde productfoto. De precieze positie op de schapfoto is nog te bevestigen.",
+      "imageSource": "Door gebruiker aangeleverde productfoto, 2026-09-29"
     }
   ],
   "supplierConfirmedByUser": "https://www.israelwinkel.nl/categorieen/mooi-gezond",
@@ -1550,13 +1630,227 @@
       31,
       38,
       43,
-      44
+      44,
+      25,
+      32,
+      33,
+      34,
+      8,
+      9,
+      14,
+      41,
+      73,
+      40
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",
       "https://www.israelwinkel.nl/categorieen/mooi-gezond?page=2"
     ],
     "page2Result": "Correctie: de drie groene rollers op de schapfoto zijn Careline Bio, niet HB. De drie geurvarianten op pagina 2 zijn gekoppeld en apart gecontroleerd.",
-    "corrections": "Careline Bio rollers Citrus Blossom, Secret Garden en Velvet Rose; schuursponsjes 2 stuks; vier gezichtscrèmes met online productgegevens. Dag/nachtposities nog te bevestigen."
+    "corrections": "Careline Bio rollers Citrus Blossom, Secret Garden en Velvet Rose; schuursponsjes 2 stuks; vier gezichtscrèmes met online productgegevens. Dag/nachtposities nog te bevestigen.",
+    "aloeCorrection": "Product 25 gecorrigeerd van all-purpose cream 180 ml naar HB Aloe Vera Gel 100 ml op basis van de aangeleverde foto en Israelwinkel artikel 73132. Oude ingrediëntenlijst vervangen.",
+    "hbShemenAudit": [
+      {
+        "id": 8,
+        "name": "Nachtcrème",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 9,
+        "name": "Vochtinbrengende dagcrème",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 73,
+        "name": "Vochtinbrengende dagcrème voor mannen",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 10,
+        "name": "Lichaamsboter met aloë vera",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 11,
+        "name": "Verzorgingscrème lichte afbeelding",
+        "source": null,
+        "status": "pending",
+        "checked": "2026-09-29",
+        "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+      },
+      {
+        "id": 12,
+        "name": "Verzorgingscrème bruine afbeelding",
+        "source": null,
+        "status": "pending",
+        "checked": "2026-09-29",
+        "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+      },
+      {
+        "id": 13,
+        "name": "Gezichtszeep pH 5.5",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 14,
+        "name": "Balsem na het scheren",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 15,
+        "name": "Bodylotion met olijfolie en honing",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 16,
+        "name": "Bodylotion fles",
+        "source": null,
+        "status": "pending",
+        "checked": "2026-09-29",
+        "note": "De precieze geur en inhoud van deze bodylotion zijn nog te bevestigen."
+      },
+      {
+        "id": 17,
+        "name": "Dode Zeemodder",
+        "source": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 18,
+        "name": "Dode Zee badzout",
+        "source": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 19,
+        "name": "Zeep met avocado en aloë vera",
+        "source": "https://www.israelwinkel.nl/producten/hb-zeep",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 20,
+        "name": "Lichaamsboter met lavendel en patchouli",
+        "source": "https://hbdeadsea.com/products/aromatic-body-butter",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 21,
+        "name": "Hand- en nagelcrème met lavendel",
+        "source": "https://hbdeadsea.com/products/hands-nails-cream",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 22,
+        "name": "Hand- en nagelcrème met avocado en aloë vera",
+        "source": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 23,
+        "name": "Voetcrème met vitaminen",
+        "source": null,
+        "status": "pending",
+        "checked": "2026-09-29",
+        "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      },
+      {
+        "id": 24,
+        "name": "Voetcrème met avocado en aloë vera",
+        "source": "https://www.israelwinkel.nl/producten/hb-voetcreme",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 25,
+        "name": "Aloë vera gel met vitamine E",
+        "source": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 26,
+        "name": "Douchegel met lavendel",
+        "source": "https://hbdeadsea.com/products/moisture-rich-shower-cream-lavender",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 27,
+        "name": "Conditioner met Marokkaanse arganolie",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-conditioner-met-arganolie",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 28,
+        "name": "Shampoo met Dode Zeemodder",
+        "source": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 29,
+        "name": "Zeep met Dode Zeemodder",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 30,
+        "name": "Douchegel met olijfolie en honing",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      },
+      {
+        "id": 31,
+        "name": "Shampoo voor mannen",
+        "source": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74757",
+        "status": "online-list",
+        "checked": "2026-09-29",
+        "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
+      }
+    ],
+    "cards": 73
   }
 }

@@ -85,6 +85,12 @@
       "sku": "74730"
     },
     {
+      "id": 73,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen",
+      "sku": "74733"
+    },
+    {
       "id": 10,
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
@@ -144,7 +150,8 @@
     {
       "id": 25,
       "name": "Israelwinkel",
-      "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+      "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel",
+      "sku": "73132"
     },
     {
       "id": 26,

@@ -197,11 +197,11 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "50 ml",
-    "image": "images/gezichtscreme-8.jpg",
+    "image": "images/shemen-nachtcreme-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Nachtcrème voor de verzorging van gezicht en hals.",
-      "Gebruik": "’s Avonds op een gereinigde huid aanbrengen en zacht inmasseren."
+      "Toepassing": "Nachtcrème voor gezicht en hals met Dode Zee-mineralen, vitamine E, oliën en hyaluronzuur. Voor alle huidtypes.",
+      "Gebruik": "Verdeel de crème over de huid en klop zacht in tot deze volledig is opgenomen. De leverancier adviseert gebruik in combinatie met de dagcrème."
     },
     "sources": [
       {
@@ -234,7 +234,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "50 ml",
-    "image": "images/gezichtscreme-9.jpg",
+    "image": "images/shemen-dagcreme-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vochtinbrengende dagcrème voor de verzorging van gezicht en hals.",
@@ -261,7 +261,51 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme",
       "sku": "74730"
     },
-    "identificationLabel": "Schappositie nog te bevestigen"
+    "identificationLabel": "Schappositie nog te bevestigen",
+    "imageFrame": {
+      "x": 0.15,
+      "y": 0.21,
+      "width": 0.7,
+      "height": 0.58,
+      "aspectRatio": 1.4482758620689655
+    }
+  },
+  {
+    "id": 73,
+    "catalogType": "nonfood",
+    "name": "Vochtinbrengende dagcrème voor mannen",
+    "brand": "Shemen Amour",
+    "category": "Huidverzorging",
+    "shelf": 2,
+    "variant": "50 ml",
+    "image": "images/shemen-mannencreme-user.png",
+    "allergens": null,
+    "productInfo": {
+      "Toepassing": "Vochtinbrengende gezichtscrème voor mannen met Dode Zee-mineralen, hyaluronzuur, sheaboter en vitamine E.",
+      "Gebruik": "Dagelijks een kleine hoeveelheid op de gereinigde huid van gezicht en hals aanbrengen en zacht inmasseren."
+    },
+    "sources": [
+      {
+        "label": "Israelwinkel — mannencrème",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
+      }
+    ],
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen",
+      "sku": "74733"
+    },
+    "composition": {
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua, Hyaluronic Acid, Stearic Acid, Cetyl Alcohol, Triethanolamine, Carbomer, Sorbitol, Glycerin, Sorbic Acid,Shea (Butyrospermum Parkii) Butter, Fraqrance, Benzyl Alcohol, Jojoba Seed Oil, Rosemary (Rosmarinus officinalis) Extract, Green Tea (Camelia chinensis) Leaf Extract, Nettle (Urtica dioica) Extract, Tetrasodium EDTA, Hydrollyzed Collagen, Honey Extract, Tocopheryl acetate (vitamin E),Maris Sal, Citronellol, Coumarin, Butyl Phenyl Methyl Propional, Hexyl Cinnamal, Limonene, Linalool",
+      "note": "Overgenomen van Israelwinkel; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
+      }
+    },
+    "identificationLabel": "Schappositie nog te bevestigen",
+    "identificationNote": "Toegevoegd op basis van de aangeleverde productfoto. De precieze positie op de schapfoto is nog te bevestigen."
   },
   {
     "id": 10,
@@ -396,7 +440,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "100 ml",
-    "image": "images/product-14.jpg",
+    "image": "images/shemen-aftershave-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging van de huid na het scheren.",
@@ -421,6 +465,13 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
+    },
+    "imageFrame": {
+      "x": 0.15,
+      "y": 0.05,
+      "width": 0.62,
+      "height": 0.9,
+      "aspectRatio": 0.40287253141831236
     }
   },
   {
@@ -795,36 +846,44 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "catalogType": "nonfood",
-    "name": "Verzorgingscrème voor lichaam handen en voeten",
+    "name": "Aloë vera gel met vitamine E",
     "brand": "HB",
     "category": "Huidverzorging",
     "shelf": 3,
-    "variant": "180 ml",
-    "image": "images/product-25.jpg",
+    "variant": "100 ml",
+    "image": "images/hb-aloe-vera-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Crème voor de verzorging van lichaam, handen en voeten.",
-      "Gebruik": "Aanbrengen op schone huid en zacht inmasseren."
+      "Toepassing": "Verkoelende en hydraterende huidgel met aloë vera, vitamine E en Dode Zee-zout.",
+      "Gebruik": "Een kleine hoeveelheid op de huid aanbrengen en zacht inkloppen."
     },
     "sources": [
       {
-        "label": "Israel Producten Centrum",
-        "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+        "label": "Israelwinkel — aloë vera gel 100 ml",
+        "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten (INCI)",
-      "text": "Glycerin, Cetyl alcohol, Cetearyl Alcohol, Paraffinum Liquidum, Isopropyl Myristate, Glyceryl Stearate, Hydrogenated coconut oil, PEG-20 Stearate, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Sodium Lauryl Sulfate, Cyclopentasiloxane, Caprylyl Glycol, Ethylhexyl Methoxycinnamate, Ascorbic acid (Vitamin C), Tocopheryl Acetate (Vitamin E), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Panthenol, Persea Gratissima (Avocado) Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Olea Europaea (Olive) Fruit Oil, Argania Spinosa Kernel Oil, Lavender Oil, Cucurbita Pepo (Pumpkin) Seed Oil, Honey, Maris sal (Sea Salt), Retinyl Palmitate (Vitamin A), Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Punica Granatum (Pomegranate) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Arvensis ( Mint) Herb Oil, Tocopherol, Daucus Carota Sativa (Carrot) Seed Oil, Anthemis Nobilis (Chamomile) Flower Oil, Helianthus Annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Parfum",
-      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "AQUA, GLYCERIN, ALOE BARBADENSIS (ALOE VERA) LEAF JUICE, POLYSORBATE 20, PHENOXYETHANOL, CARBOMER, TRIETHANOLAMINE, PARFUME, ALLANTOIN, ETHYLHEXYLGLYCERIN, CI 19140 (FD & C YELLOW 5) & CI 42090 (FD & C BLUE 1), TOCOPHERYL ACETATE, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, CAMELLIA SINENSIS LEAF EXTRACT, CALENDULA OFFICINALIS FLOWER EXTRACT, MARIS SAL (DEAD SEA SALT), BENZYL ALCOHOL, SODIUM BENZOATE, POTASSIUM SORBATE, PROPYLENE GLYCOL, METHYLCHLOROISOTHIAZOLINONE AND METHYLISOTHIAZOLINONE, BENZOIC ACID, DEHYDROACETIC ACID, BENZYL SALICYLATE, COUMARIN, LINALOOL, HEXYL CINNAMAL.",
+      "note": "Ingrediënten zoals vermeld door Israelwinkel; samenstelling kan per verpakkingsversie verschillen.",
       "source": {
         "label": "Israelwinkel — ingrediënten",
-        "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+        "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel"
       }
     },
     "supplier": {
       "name": "Israelwinkel",
-      "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+      "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel",
+      "sku": "73132"
+    },
+    "imageFrame": {
+      "x": 0.35106382978723405,
+      "y": 0.048223350253807105,
+      "width": 0.30638297872340425,
+      "height": 0.9086294416243654,
+      "aspectRatio": 0.4022346368715084
     }
   },
   {
@@ -1079,7 +1138,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "75 ml",
-    "image": "images/careline-deo-32.jpg",
+    "image": "images/careline-citrus-blossom-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
@@ -1116,7 +1175,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "75 ml",
-    "image": "images/careline-deo-33.jpg",
+    "image": "images/careline-secret-garden-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
@@ -1153,7 +1212,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "75 ml",
-    "image": "images/careline-deo-34.jpg",
+    "image": "images/careline-velvet-rose-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
@@ -1389,11 +1448,12 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/product-40.jpg",
+    "image": "images/careline-retinol-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Nachtverzorging voor het gezicht.",
-      "Gebruik": "Voor het slapengaan op het gezicht aanbrengen en inmasseren. Gebruik overdag een crème met zonbescherming."
+      "Beschrijving": "Een zachte en voedende nachtcrème met retinol, dat het natuurlijke vochtgehalte in de huid verhoogt ter voorkoming van rimpels en een droge huid.",
+      "Voordelen volgens de productbeschrijving": "Verbetert de celdeling voor de aanmaak van nieuwe huidcellen; stimuleert de aanmaak van huid-eigen collageen; werkt anti-aging; vermindert ouderdomsvlekken.",
+      "Gebruik": "Gebruik dagelijks in de avond na het schoonmaken van de huid. Breng de benodigde hoeveelheid aan op de huid van gezicht en hals en masseer in tot het is opgenomen."
     },
     "sources": [
       {
@@ -1408,12 +1468,12 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "ean": "7290104965104",
     "composition": {
-      "heading": "Ingrediënten (INCI)",
-      "text": "Water, Dimethicone, Dimethicone Crosspolymer, Dimethiconol, Glycerin, Niacinamide, Tapioca Starch, Retinyl Palmitate, BHT, Tricaprylin, Polymethyl Methacrylate, Polyacrylamide, C13-14 Isoparaffin , Laureth-7, Phenoxyethanol, Ethylhexylglycerin, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Polymethylsilsesquioxane, Disodium EDTA, Aminomethyl Propanol, Tocopheryl Acetate (Vitamin E), CI 77891, CI 15985, CI 47005.",
-      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "heading": "Ingrediënten volgens aangeleverde productinformatie",
+      "text": "Water, dimethicon, dimethicon crosspolymeer, dimethiconol, glycerine, niacinamide, tapiocazetmeel, retinylpalmitaat, BHT, tricapryline, polymethylmethacrylaat, polyacrylamide, C13-14 isoparaffine, laureth-7, fenoxyethanol, ethylhexylglycerine, polysorbaat 20, acrylaten/C10-30 alkylacrylaat crosspolymeer, geurstof, polymethylsilsesquioxaan, dinatrium-EDTA, aminomethylpropanol, tocoferylacetaat (vitamine E), CI 77891, CI 15985, CI 47005.",
+      "note": "Door gebruiker aangeleverde ingrediëntenlijst; samenstelling kan per verpakkingsversie verschillen.",
       "source": {
-        "label": "Careline — ingrediënten fabrikant",
-        "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
       }
     },
     "supplier": {
@@ -1429,7 +1489,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/gezichtscreme-41.jpg",
+    "image": "images/careline-nachtcreme-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Nachtcrème C Power voor de verzorging van gezicht en hals.",

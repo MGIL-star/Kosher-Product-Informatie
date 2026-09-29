@@ -295,13 +295,13 @@
     {
       "id": 25,
       "status": "online-list",
-      "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream",
+      "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel",
       "checked": "2026-09-29",
-      "text": "Glycerin, Cetyl alcohol, Cetearyl Alcohol, Paraffinum Liquidum, Isopropyl Myristate, Glyceryl Stearate, Hydrogenated coconut oil, PEG-20 Stearate, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Sodium Lauryl Sulfate, Cyclopentasiloxane, Caprylyl Glycol, Ethylhexyl Methoxycinnamate, Ascorbic acid (Vitamin C), Tocopheryl Acetate (Vitamin E), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Panthenol, Persea Gratissima (Avocado) Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Olea Europaea (Olive) Fruit Oil, Argania Spinosa Kernel Oil, Lavender Oil, Cucurbita Pepo (Pumpkin) Seed Oil, Honey, Maris sal (Sea Salt), Retinyl Palmitate (Vitamin A), Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Punica Granatum (Pomegranate) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Arvensis ( Mint) Herb Oil, Tocopherol, Daucus Carota Sativa (Carrot) Seed Oil, Anthemis Nobilis (Chamomile) Flower Oil, Helianthus Annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Parfum",
+      "text": "AQUA, GLYCERIN, ALOE BARBADENSIS (ALOE VERA) LEAF JUICE, POLYSORBATE 20, PHENOXYETHANOL, CARBOMER, TRIETHANOLAMINE, PARFUME, ALLANTOIN, ETHYLHEXYLGLYCERIN, CI 19140 (FD & C YELLOW 5) & CI 42090 (FD & C BLUE 1), TOCOPHERYL ACETATE, CHAMOMILLA RECUTITA (MATRICARIA) FLOWER EXTRACT, CAMELLIA SINENSIS LEAF EXTRACT, CALENDULA OFFICINALIS FLOWER EXTRACT, MARIS SAL (DEAD SEA SALT), BENZYL ALCOHOL, SODIUM BENZOATE, POTASSIUM SORBATE, PROPYLENE GLYCOL, METHYLCHLOROISOTHIAZOLINONE AND METHYLISOTHIAZOLINONE, BENZOIC ACID, DEHYDROACETIC ACID, BENZYL SALICYLATE, COUMARIN, LINALOOL, HEXYL CINNAMAL.",
       "sources": [
         {
-          "label": "Israel Producten Centrum",
-          "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+          "label": "Israelwinkel — aloë vera gel 100 ml",
+          "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel"
         }
       ]
     },
@@ -512,7 +512,7 @@
       "status": "online-list",
       "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/",
       "checked": "2026-09-29",
-      "text": "Water, Dimethicone, Dimethicone Crosspolymer, Dimethiconol, Glycerin, Niacinamide, Tapioca Starch, Retinyl Palmitate, BHT, Tricaprylin, Polymethyl Methacrylate, Polyacrylamide, C13-14 Isoparaffin , Laureth-7, Phenoxyethanol, Ethylhexylglycerin, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Polymethylsilsesquioxane, Disodium EDTA, Aminomethyl Propanol, Tocopheryl Acetate (Vitamin E), CI 77891, CI 15985, CI 47005.",
+      "text": "Water, dimethicon, dimethicon crosspolymeer, dimethiconol, glycerine, niacinamide, tapiocazetmeel, retinylpalmitaat, BHT, tricapryline, polymethylmethacrylaat, polyacrylamide, C13-14 isoparaffine, laureth-7, fenoxyethanol, ethylhexylglycerine, polysorbaat 20, acrylaten/C10-30 alkylacrylaat crosspolymeer, geurstof, polymethylsilsesquioxaan, dinatrium-EDTA, aminomethylpropanol, tocoferylacetaat (vitamine E), CI 77891, CI 15985, CI 47005.",
       "sources": [
         {
           "label": "Israelwinkel — productinformatie",
@@ -522,7 +522,8 @@
           "label": "Careline — fabrikant",
           "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
         }
-      ]
+      ],
+      "userSupplied": true
     },
     {
       "id": 41,
@@ -895,6 +896,19 @@
       "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
       "checked": "2026-09-29",
       "sources": []
+    },
+    {
+      "id": 73,
+      "status": "online-list",
+      "text": "Aqua, Hyaluronic Acid, Stearic Acid, Cetyl Alcohol, Triethanolamine, Carbomer, Sorbitol, Glycerin, Sorbic Acid,Shea (Butyrospermum Parkii) Butter, Fraqrance, Benzyl Alcohol, Jojoba Seed Oil, Rosemary (Rosmarinus officinalis) Extract, Green Tea (Camelia chinensis) Leaf Extract, Nettle (Urtica dioica) Extract, Tetrasodium EDTA, Hydrollyzed Collagen, Honey Extract, Tocopheryl acetate (vitamin E),Maris Sal, Citronellol, Coumarin, Butyl Phenyl Methyl Propional, Hexyl Cinnamal, Limonene, Linalool",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Israelwinkel — mannencrème",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
+        }
+      ]
     }
   ]
 }

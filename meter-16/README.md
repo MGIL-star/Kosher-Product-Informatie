@@ -43,3 +43,7 @@ Productgegevens en bronnen staan in products.js; ingrediëntenonderzoek in ingre
 - 70.  Kaarsen in glas blauwe verpakking: Merk, aantal en brandduur zijn nog te bevestigen.
 - 71.  Chanoekakaarsen blauwe doos links: Chanoekakaarsen zijn herkenbaar. Merk, aantal en afmetingen zijn nog te bevestigen.
 - 72.  Chanoekakaarsen blauwe doos rechts: Deze doos heeft een andere opdruk. Merk, aantal en afmetingen zijn nog te bevestigen.
+
+HB aloë vera gel 100 ml (nr. 25) gecorrigeerd met gebruikersfoto, passende ingrediëntenlijst en Israelwinkel artikel 73132; vervangt de foutieve all-purpose cream-vermelding.
+
+Aanvulling 29 september: gebruikersfoto’s toegepast voor Shemen Amour dagcrème, nachtcrème, aftershave en Careline C Power nachtcrème. Mannencrème 50 ml afzonderlijk toegevoegd met volledige Israelwinkel-ingrediënten (artikel 74733), schappositie nog onzeker. Nu 73 kaarten, 46 online ingrediëntenlijsten en 36 leverancierskoppelingen. HB/Shemen: 21 van 25 kaarten hebben een online lijst; nummers 11, 12, 16 zijn onvoldoende geïdentificeerd en voor HB vitaminevoetcrème 23 ontbreekt nog een volledige verifieerbare lijst.
