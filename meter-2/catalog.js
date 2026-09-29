@@ -28,6 +28,11 @@
   }
 
   function productImage(product, large = false) {
+    const c = product.imageFrame;
+    if (product.image && c) {
+      const style = `--ratio:${c.aspectRatio};--w:${100/c.width}%;--h:${100/c.height}%;--x:${-100*c.x/c.width}%;--y:${-100*c.y/c.height}%`;
+      return `<div class="product-visual wine-front${large ? ' product-visual-large' : ''}"><div class="wine-pack" style="${style}"><img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.brand)} ${escapeHtml(product.name)}" loading="lazy"></div></div>`;
+    }
     const cropStyle = product.imageFrontOnly && product.imageBounds
       ? ` style="clip-path: inset(${product.imageBounds[1] * 100}% ${(1 - product.imageBounds[2]) * 100}% ${(1 - product.imageBounds[3]) * 100}% ${product.imageBounds[0] * 100}%);"` : '';
     const sizeClass = large ? ' product-visual-large' : '';

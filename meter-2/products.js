@@ -55,13 +55,14 @@ window.KPI_PRODUCTS = [
       "url": "https://www.slijterijdekolkrijst.nl/l/library/download/urn:uuid:dd686a98-1dd8-4397-95ba-043aaa42e05b/tsl100246-01.jpg?color=ffffff&scaleType=2&width=1000&height=1000",
       "page": "https://www.slijterijdekolkrijst.nl/webshop/183134/advocaat/183135/cooymans-advocaat-original"
     },
-    "imageBounds": [
-      0.37,
-      0.028,
-      0.63,
-      0.975
-    ],
-    "allergenNote": "Bevat ei."
+    "allergenNote": "Bevat ei.",
+    "imageFrame": {
+      "x": 0.37,
+      "y": 0.028,
+      "width": 0.26,
+      "height": 0.947,
+      "aspectRatio": 0.27455121436114044
+    }
   },
   {
     "id": 2,
@@ -109,13 +110,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-gold-edition-gewurztraminer",
       "alt": "Barkan Gold edition Gewurztraminer - product image"
     },
-    "imageBounds": [
-      0.417021,
-      0.076142,
-      0.581915,
-      0.945431
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.417021,
+      "y": 0.076142,
+      "width": 0.16489399999999999,
+      "height": 0.869289,
+      "aspectRatio": 0.2262779863394165
+    }
   },
   {
     "id": 3,
@@ -162,13 +164,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-emerald-riesling-colombard",
       "alt": "Barkan Classic Emerald Riesling-Colombard - product image"
     },
-    "imageBounds": [
-      0.1334,
-      0.025805,
-      0.887663,
-      0.971421
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.1334,
+      "y": 0.025805,
+      "width": 0.754263,
+      "height": 0.945616,
+      "aspectRatio": 0.22065733476465102
+    }
   },
   {
     "id": 26,
@@ -234,15 +237,16 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-sauvignon-blanc",
       "alt": "Barkan Classic Sauvignon Blanc - product image"
     },
-    "imageBounds": [
-      0.399,
-      0.05,
-      0.6,
-      0.95
-    ],
     "shelfBarcode": "7290000023823",
     "allergenNote": "Bevat sulfieten.",
-    "mevushalStatus": "Niet bekend"
+    "mevushalStatus": "Niet bekend",
+    "imageFrame": {
+      "x": 0.399,
+      "y": 0.05,
+      "width": 0.20099999999999996,
+      "height": 0.8999999999999999,
+      "aspectRatio": 0.2233333333333333
+    }
   },
   {
     "id": 4,
@@ -290,13 +294,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-emerald-riesling",
       "alt": "Barkan Classic Emerald Riesling  - product image"
     },
-    "imageBounds": [
-      0.206076,
-      0.029229,
-      0.880952,
-      0.966891
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.206076,
+      "y": 0.029229,
+      "width": 0.6748759999999999,
+      "height": 0.937662,
+      "aspectRatio": 0.22675825518023013
+    }
   },
   {
     "id": 5,
@@ -348,13 +353,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-premieur-emerald-riesling-colombard",
       "alt": "Barkan premieur Emerald Riesling-Colombard - product image"
     },
-    "imageBounds": [
-      0.412766,
-      0.083756,
-      0.576596,
-      0.927665
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.412766,
+      "y": 0.083756,
+      "width": 0.16382999999999998,
+      "height": 0.843909,
+      "aspectRatio": 0.23157914643441985
+    }
   },
   {
     "id": 6,
@@ -402,13 +408,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-rose",
       "alt": "Barkan Classic Rosé  - product image"
     },
-    "imageBounds": [
-      0.152645,
-      0.071798,
-      0.827407,
-      0.956612
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.152645,
+      "y": 0.071798,
+      "width": 0.674762,
+      "height": 0.884814,
+      "aspectRatio": 0.22708716567447046
+    }
   },
   {
     "id": 7,
@@ -460,14 +467,15 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/zmora-emerald-riesling-en-colombard",
       "alt": "Zmora Emerald Riesling & Colombard - product image"
     },
-    "imageBounds": [
-      0.397,
-      0.05025,
-      0.603,
-      0.94975
-    ],
     "mevushalStatus": "mevushal",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "imageFrame": {
+      "x": 0.397,
+      "y": 0.05025,
+      "width": 0.20599999999999996,
+      "height": 0.8995,
+      "aspectRatio": 0.2290161200667037
+    }
   },
   {
     "brand": "Barkan",
@@ -487,12 +495,6 @@ window.KPI_PRODUCTS = [
     "category": "Witte wijn",
     "variant": "750 ml · 5,5%",
     "image": "images/barkan-moscato-2025.png",
-    "imageBounds": [
-      0.11,
-      0.096,
-      0.435,
-      0.982
-    ],
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Zoet, licht mousserend",
@@ -505,7 +507,14 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
     ],
-    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen."
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "imageFrame": {
+      "x": 0.11,
+      "y": 0.096,
+      "width": 0.325,
+      "height": 0.886,
+      "aspectRatio": 0.25955204515278274
+    }
   },
   {
     "id": 8,
@@ -557,13 +566,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-gold-edition-chardonnay",
       "alt": "Barkan Gold edition Chardonnay - product image"
     },
-    "imageBounds": [
-      0.38617,
-      0.036802,
-      0.597872,
-      0.979695
-    ],
-    "mevushalStatus": "Niet bekend"
+    "mevushalStatus": "Niet bekend",
+    "imageFrame": {
+      "x": 0.38617,
+      "y": 0.036802,
+      "width": 0.21170199999999995,
+      "height": 0.942893,
+      "aspectRatio": 0.2678330614202522
+    }
   },
   {
     "id": 9,
@@ -610,13 +620,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-chardonnay",
       "alt": "Barkan Classic Chardonnay - product image"
     },
-    "imageBounds": [
-      0.164212,
-      0.042593,
-      0.829897,
-      0.947619
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.164212,
+      "y": 0.042593,
+      "width": 0.665685,
+      "height": 0.905026,
+      "aspectRatio": 0.2642504193249697
+    }
   },
   {
     "id": 10,
@@ -667,13 +678,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/ben-ami",
       "alt": "Ben Ami - product image"
     },
-    "imageBounds": [
-      0.37625,
-      0.05025,
-      0.62375,
-      0.94975
-    ],
-    "mevushalStatus": "mevushalstatus nog te controleren"
+    "mevushalStatus": "mevushalstatus nog te controleren",
+    "imageFrame": {
+      "x": 0.37625,
+      "y": 0.05025,
+      "width": 0.24750000000000005,
+      "height": 0.8995,
+      "aspectRatio": 0.2751528627015009
+    }
   },
   {
     "id": 11,
@@ -729,13 +741,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/segal-droge-witte-wijn",
       "alt": "Segal droge witte wijn - product image"
     },
-    "imageBounds": [
-      0.404255,
-      0.058376,
-      0.598936,
-      0.941624
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.404255,
+      "y": 0.058376,
+      "width": 0.19468100000000005,
+      "height": 0.883248,
+      "aspectRatio": 0.26293145323062805
+    }
   },
   {
     "brand": "Barkan",
@@ -755,12 +768,6 @@ window.KPI_PRODUCTS = [
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
     "image": "images/barkan-premieur-cabernet-malbec-2025.png",
-    "imageBounds": [
-      0.075,
-      0.02,
-      0.45,
-      0.982
-    ],
     "productInfo": {
       "Type": "Rode wijn",
       "Wijnstijl": "Droog",
@@ -782,7 +789,14 @@ window.KPI_PRODUCTS = [
         "label": "Israëlwinkel — productvermelding",
         "url": "https://www.israelwinkel.nl/producten/barkan-premieur-cabernet-sauvignon-malbec"
       }
-    ]
+    ],
+    "imageFrame": {
+      "x": 0.075,
+      "y": 0.02,
+      "width": 0.375,
+      "height": 0.962,
+      "aspectRatio": 0.2758233392036209
+    }
   },
   {
     "id": 12,
@@ -830,13 +844,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-shiraz",
       "alt": "Barkan Classic Shiraz - product image"
     },
-    "imageBounds": [
-      0.179916,
-      0.024096,
-      0.837657,
-      0.96332
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.179916,
+      "y": 0.024096,
+      "width": 0.657741,
+      "height": 0.939224,
+      "aspectRatio": 0.2240593294021379
+    }
   },
   {
     "id": 13,
@@ -888,14 +903,15 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-merlot-argaman",
       "alt": "Barkan Classic Merlot-Argaman - product image"
     },
-    "imageBounds": [
-      0.415957,
-      0.064721,
-      0.579787,
-      0.932741
-    ],
     "mevushalStatus": "mevushal",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "imageFrame": {
+      "x": 0.415957,
+      "y": 0.064721,
+      "width": 0.16383000000000003,
+      "height": 0.86802,
+      "aspectRatio": 0.2251465702268668
+    }
   },
   {
     "id": 14,
@@ -942,13 +958,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-argaman",
       "alt": "Barkan Classic Argaman - product image"
     },
-    "imageBounds": [
-      0.152972,
-      0.091942,
-      0.820804,
-      0.961777
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.152972,
+      "y": 0.091942,
+      "width": 0.667832,
+      "height": 0.869835,
+      "aspectRatio": 0.22684072266579294
+    }
   },
   {
     "id": 15,
@@ -995,13 +1012,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-malbec",
       "alt": "Barkan Classic Malbec - product image"
     },
-    "imageBounds": [
-      0.179916,
-      0.024096,
-      0.837657,
-      0.96332
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.179916,
+      "y": 0.024096,
+      "width": 0.657741,
+      "height": 0.939224,
+      "aspectRatio": 0.2240593294021379
+    }
   },
   {
     "id": 16,
@@ -1053,13 +1071,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-cabernet-sauvignon",
       "alt": "Barkan Classic Cabernet Sauvignon  - product image"
     },
-    "imageBounds": [
-      0.181019,
-      0.059744,
-      0.880492,
-      0.968954
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.181019,
+      "y": 0.059744,
+      "width": 0.699473,
+      "height": 0.90921,
+      "aspectRatio": 0.22840741267537834
+    }
   },
   {
     "id": 17,
@@ -1111,14 +1130,15 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-classic-pinot-noir",
       "alt": "Barkan Classic Pinot Noir - product image"
     },
-    "imageBounds": [
-      0.398936,
-      0.055838,
-      0.595745,
-      0.946701
-    ],
     "mevushalStatus": "mevushal",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "imageFrame": {
+      "x": 0.398936,
+      "y": 0.055838,
+      "width": 0.19680899999999996,
+      "height": 0.890863,
+      "aspectRatio": 0.26353340228565564
+    }
   },
   {
     "id": 25,
@@ -1162,12 +1182,6 @@ window.KPI_PRODUCTS = [
     "year": 2024,
     "alcohol": "12,5%",
     "volume": "187 ml",
-    "imageBounds": [
-      0.398485,
-      0.221212,
-      0.6,
-      0.869697
-    ],
     "imageSource": {
       "file": "barkan-classic-cabernet-mini.png",
       "page": "https://www.cpm-diffusion.com/en/product/barkan-cabernet-sauvignon-classique-187-ml/",
@@ -1178,7 +1192,14 @@ window.KPI_PRODUCTS = [
     "kosherForPassover": true,
     "additionalSourcePhotos": [
       "52c2471b-71c6-4139-a7f8-63fe7edd45b6.jpg"
-    ]
+    ],
+    "imageFrame": {
+      "x": 0.398485,
+      "y": 0.221212,
+      "width": 0.201515,
+      "height": 0.6484850000000001,
+      "aspectRatio": 0.3107473573020193
+    }
   },
   {
     "id": 24,
@@ -1224,13 +1245,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/segal-droge-rode-wijn",
       "alt": "Segal droge rode wijn - product image"
     },
-    "imageBounds": [
-      0.380381,
-      0.050106,
-      0.618207,
-      0.949894
-    ],
-    "mevushalStatus": "niet mevushal"
+    "mevushalStatus": "niet mevushal",
+    "imageFrame": {
+      "x": 0.380381,
+      "y": 0.050106,
+      "width": 0.23782599999999993,
+      "height": 0.899788,
+      "aspectRatio": 0.2643133715941976
+    }
   },
   {
     "id": 23,
@@ -1280,14 +1302,15 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/ben-ami",
       "alt": "Ben Ami - product image"
     },
-    "imageBounds": [
-      0.39825,
-      0.05025,
-      0.6015,
-      0.95
-    ],
     "mevushalStatus": "mevushal",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "imageFrame": {
+      "x": 0.39825,
+      "y": 0.05025,
+      "width": 0.20325000000000004,
+      "height": 0.8997499999999999,
+      "aspectRatio": 0.22589608224506813
+    }
   },
   {
     "id": 22,
@@ -1335,13 +1358,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/ben-ami",
       "alt": "Ben Ami - product image"
     },
-    "imageBounds": [
-      0.39475,
-      0.05025,
-      0.605,
-      0.95
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.39475,
+      "y": 0.05025,
+      "width": 0.21025,
+      "height": 0.8997499999999999,
+      "aspectRatio": 0.23367602111697697
+    }
   },
   {
     "id": 21,
@@ -1388,13 +1412,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon",
       "alt": "Zmora Cabernet Sauvignon - product image"
     },
-    "imageBounds": [
-      0.064483,
-      0.009752,
-      0.850563,
-      0.97695
-    ],
-    "mevushalStatus": "mevushalstatus nog te controleren"
+    "mevushalStatus": "mevushalstatus nog te controleren",
+    "imageFrame": {
+      "x": 0.064483,
+      "y": 0.009752,
+      "width": 0.78608,
+      "height": 0.967198,
+      "aspectRatio": 0.23464730271490736
+    }
   },
   {
     "id": 20,
@@ -1441,13 +1466,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon",
       "alt": "Barkan Reserve Cabernet Sauvignon  - product image"
     },
-    "imageBounds": [
-      0.4,
-      0.05,
-      0.599,
-      0.95
-    ],
-    "mevushalStatus": "Niet bekend"
+    "mevushalStatus": "Niet bekend",
+    "imageFrame": {
+      "x": 0.4,
+      "y": 0.05,
+      "width": 0.19899999999999995,
+      "height": 0.8999999999999999,
+      "aspectRatio": 0.22111111111111106
+    }
   },
   {
     "id": 19,
@@ -1498,13 +1524,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-reserve-merlot",
       "alt": "Barkan Reserve Merlot - product image"
     },
-    "imageBounds": [
-      0.4,
-      0.05,
-      0.599,
-      0.95
-    ],
-    "mevushalStatus": "Niet bekend"
+    "mevushalStatus": "Niet bekend",
+    "imageFrame": {
+      "x": 0.4,
+      "y": 0.05,
+      "width": 0.19899999999999995,
+      "height": 0.8999999999999999,
+      "aspectRatio": 0.22111111111111106
+    }
   },
   {
     "id": 18,
@@ -1551,13 +1578,14 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-platinum-cabernet-sauvignon",
       "alt": "Barkan Platinum Cabernet Sauvignon - product image"
     },
-    "imageBounds": [
-      0.202559,
-      0.085752,
-      0.71855,
-      0.922493
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.202559,
+      "y": 0.085752,
+      "width": 0.5159910000000001,
+      "height": 0.836741,
+      "aspectRatio": 0.2862141656425502
+    }
   },
   {
     "id": 27,
@@ -1622,16 +1650,17 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/7th-day-sacramental-kinor",
       "alt": "7th day sacramental kinor - product image"
     },
-    "imageBounds": [
-      0.39,
-      0.108,
-      0.581,
-      0.903
-    ],
     "shelfBarcode": "9310489001773",
     "allergenNote": "Bevat sulfieten.",
     "mevushalStatus": "mevushal",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "imageFrame": {
+      "x": 0.39,
+      "y": 0.108,
+      "width": 0.19099999999999995,
+      "height": 0.795,
+      "aspectRatio": 0.24025157232704394
+    }
   },
   {
     "id": 28,
@@ -1680,12 +1709,13 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/druivensap",
       "alt": "Druivensap 1 liter - product image"
     },
-    "imageBounds": [
-      0.208935,
-      0.070764,
-      0.817869,
-      0.915806
-    ],
-    "mevushalStatus": "mevushal"
+    "mevushalStatus": "mevushal",
+    "imageFrame": {
+      "x": 0.208935,
+      "y": 0.070764,
+      "width": 0.608934,
+      "height": 0.8450420000000001,
+      "aspectRatio": 0.2707818641407055
+    }
   }
 ];
