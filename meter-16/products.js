@@ -61,11 +61,11 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "catalogType": "nonfood",
-    "name": "Luchtverfrisser met roze bloemen",
-    "brand": "",
+    "name": "Luchtverfrisser Soft Silk",
+    "brand": "Sano Fresh",
     "category": "Schoonmaak",
     "shelf": 1,
-    "variant": "",
+    "variant": "350 ml",
     "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
     "imageFrame": {
       "x": 0.471875,
@@ -75,37 +75,43 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2672413793103448
     },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Beschrijving": "Luchtverfrisser met een warme, zachte geur.",
+      "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor."
+    },
     "sources": [],
-    "identificationNote": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Samenstelling",
+      "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
     }
   },
   {
     "id": 4,
     "catalogType": "nonfood",
-    "name": "Luchtverfrisser met blauwe bloemen",
-    "brand": "",
+    "name": "Luchtverfrisser Blue Blossom",
+    "brand": "Sano Fresh",
     "category": "Schoonmaak",
     "shelf": 1,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
+    "variant": "350 ml",
+    "image": "images/sano-blue-blossom-user.png",
     "imageFrame": {
-      "x": 0.5203125,
-      "y": 0.25625,
-      "width": 0.046875,
-      "height": 0.24375,
-      "aspectRatio": 0.2564102564102564
+      "x": 0.39,
+      "y": 0.05,
+      "width": 0.28,
+      "height": 0.9,
+      "aspectRatio": 0.3709449929478138
     },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Beschrijving": "Luchtverfrisser met een frisse, bloemige geur.",
+      "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor."
+    },
     "sources": [],
-    "identificationNote": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Samenstelling",
+      "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
     }
   },
   {
@@ -1526,11 +1532,12 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "300 ml",
-    "image": "images/product-42.jpg",
+    "image": "images/careline-gezichtsreiniger-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Reinigingsproduct voor het gezicht.",
-      "Gebruik": "Op een vochtige huid laten schuimen en afspoelen. Vermijd de ogen."
+      "Beschrijving": "Gezichtsreiniger met vitamine C in een verpakking met handig pompje.",
+      "Waarom reinigen": "Voor het dagelijks verwijderen van vuil en onzuiverheden, vóór het aanbrengen van dag- of nachtcrème.",
+      "Gebruik": "Pomp de benodigde hoeveelheid op de hand. Breng aan op de huid en reinig met ronddraaiende bewegingen. Neem of spoel daarna af met water."
     },
     "sources": [
       {
@@ -1544,12 +1551,12 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten (INCI)",
-      "text": "Water, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Sodium Lauroyl Glutamate, Hydroxypropyl Methylcellulose, Parfum, Propylene Glycol, Glutamic Acid, DMDM Hydantoin, Lauric Acid, Citric Acid, Allantoin, Ascorbyl Tetraisopalmitate, Benzophenone-4, Menthyl Lactate, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Lime (Citrus Aurantifolia) Juice, Citrus Paradisi Juice, Butylene Glycol, Matricaria (Chamomilla Recutita) Flower Extract, Methylisothiazolinone, Sodium Benzoate, Glucose, Lactic Acid, Potassium Sorbate, CI 15985, CI 17200, Bisabolol, Limonene, Linalool, Hexyl Cinnamal.",
-      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "heading": "Ingrediënten volgens aangeleverde productinformatie",
+      "text": "Water, Natriumlaurethsulfaat, Glycerine, Cocamide DEA, Cocamidopropylbetaïne, Natriumchloride, Natriumlauroylglutamaat, Hydroxypropylmethylcellulose, Parfum, Propyleenglycol, Glutaminezuur, DMDM Hydantoïne, Laurinezuur, Citroenzuur, Allantoïne, Ascorbyltetraisopalmitaat, Benzofenon-4, Menthyllactaat, Magnesiumnitraat, Magnesiumchloride, Methylchloorisothiazolinon, Limoen (Citrus Aurantifolia) Sap, Citrus Paradisi Sap, Butyleenglycol, Matricaria (Chamomilla recutita) Bloem Extract, Methylisothiazolinon, Natriumbenzoaat, Glucose, Melkzuur, Kaliumsorbaat, CI 15985, CI 17200, Bisabolol, Limoneen, Linalool, Hexyl Cinnamal.",
+      "note": "Door gebruiker aangeleverde ingrediëntenlijst; samenstelling kan per verpakkingsversie verschillen.",
       "source": {
-        "label": "Careline — ingrediënten fabrikant",
-        "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger"
       }
     },
     "supplier": {

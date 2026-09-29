@@ -541,9 +541,9 @@
     {
       "id": 42,
       "status": "online-list",
-      "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger",
       "checked": "2026-09-29",
-      "text": "Water, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Sodium Lauroyl Glutamate, Hydroxypropyl Methylcellulose, Parfum, Propylene Glycol, Glutamic Acid, DMDM Hydantoin, Lauric Acid, Citric Acid, Allantoin, Ascorbyl Tetraisopalmitate, Benzophenone-4, Menthyl Lactate, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Lime (Citrus Aurantifolia) Juice, Citrus Paradisi Juice, Butylene Glycol, Matricaria (Chamomilla Recutita) Flower Extract, Methylisothiazolinone, Sodium Benzoate, Glucose, Lactic Acid, Potassium Sorbate, CI 15985, CI 17200, Bisabolol, Limonene, Linalool, Hexyl Cinnamal.",
+      "text": "Water, Natriumlaurethsulfaat, Glycerine, Cocamide DEA, Cocamidopropylbetaïne, Natriumchloride, Natriumlauroylglutamaat, Hydroxypropylmethylcellulose, Parfum, Propyleenglycol, Glutaminezuur, DMDM Hydantoïne, Laurinezuur, Citroenzuur, Allantoïne, Ascorbyltetraisopalmitaat, Benzofenon-4, Menthyllactaat, Magnesiumnitraat, Magnesiumchloride, Methylchloorisothiazolinon, Limoen (Citrus Aurantifolia) Sap, Citrus Paradisi Sap, Butyleenglycol, Matricaria (Chamomilla recutita) Bloem Extract, Methylisothiazolinon, Natriumbenzoaat, Glucose, Melkzuur, Kaliumsorbaat, CI 15985, CI 17200, Bisabolol, Limoneen, Linalool, Hexyl Cinnamal.",
       "sources": [
         {
           "label": "Israelwinkel — productinformatie",
@@ -553,7 +553,8 @@
           "label": "Careline — fabrikant",
           "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
         }
-      ]
+      ],
+      "userSupplied": true
     },
     {
       "id": 43,
