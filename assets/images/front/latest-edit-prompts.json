@@ -1,0 +1,74 @@
+[
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-0608b7df-6885-4057-b9db-947ee0c2da4b.png",
+    "prompt": "Precise-object-edit. Image 1 is edit target: Al Arz Tahini with RED lid. Image 2 brown lid is ONLY reference for straight front-on viewing angle. Retouch image 1 to a completely upright centered frontal product photo. Remove all cast shadows and dark shading around the sides and bottom; even soft studio lighting, white background. Camera at jar midpoint, no top surface of lid visible. Keep exact red lid, original jar shape, label, text, sesame illustration and colors unchanged. Do not copy brown lid or Whole Tahini label from reference. Entire jar visible with margins, sharp and symmetrical, realistic but clean. Output one red-lid jar.",
+    "source": "meter-5/images/1.webp",
+    "output": "assets/images/front/product-5-1.png"
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-7c4d39da-7f86-4d5a-81dc-0fe4b049684b.png",
+    "prompt": "Precise-object-edit: retouch this exact Fitness Thin Cracker wrapper into a polished catalog photo. Preserve exact brand logo, all printed text, language, weight, cracker artwork and original variant colors. Straight frontal camera, rectangular horizontal package, level horizontal top and bottom edges, aligned vertical sealed ends. Smooth major creases and folds, remove visible rolled-over side panel, no perspective tilt, keep realistic thin flexible wrapper. Pure white background, no shadows, full pack visible and centered, sharp. Packaging width to height about 2.45:1. Do not invent or change any product claims.",
+    "source": "meter-6/images/fitness-13.jpg",
+    "output": "assets/images/front/product-6-13.png"
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-afae3d1c-0eeb-4f2b-8ec1-e4670dff075a.png",
+    "prompt": "Precise-object-edit: retouch this exact Fitness Thin Cracker wrapper into a polished catalog photo. Preserve exact brand logo, all printed text, language, weight, cracker artwork and original variant colors. Straight frontal camera, rectangular horizontal package, level horizontal top and bottom edges, aligned vertical sealed ends. Smooth major creases and folds, remove visible rolled-over side panel, no perspective tilt, keep realistic thin flexible wrapper. Pure white background, no shadows, full pack visible and centered, sharp. Packaging width to height about 2.45:1. Do not invent or change any product claims.",
+    "source": "meter-6/images/beet-better.jpg",
+    "output": "assets/images/front/product-6-14.png"
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-e18a57dc-b28d-4024-94aa-39d976ed2a31.png",
+    "prompt": "Precise-object-edit: remove ONLY the extra upright round display lid standing above/behind the Old Riga jar. Keep the actual black screw lid ON the jar, glass jar, smoked fish, front black-and-gold label and all its exact original text unchanged. Do not change printed weight. Center the remaining closed jar in a clean white square canvas. Straight frontal, level base, remove cast shadow under jar. No extra objects. Crisp faithful product photo.",
+    "source": "meter-5/images/38-supplied.png",
+    "output": "assets/images/front/product-5-38.png"
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-aa336ba5-9217-4c39-bce0-ae1a370c4c02.png",
+    "prompt": "Precise-object-edit. Image 1 is target sardine box. Image 2 sunflower oil variant is reference for camera angle and rectangular proportions ONLY. Make target box exactly flat straight-on frontal label panel, no lower side panel or sidewalls visible, no tilt, square corners, white background, no shadow. Preserve target's original variant text, red tomato/blue water colors, brand, artwork, all label text. Do NOT copy sunflower wording or yellow variant colors. Complete centered box, sharp. Match reference box width:height 1.78:1.",
+    "source": "meter-5/images/47-straight.png",
+    "output": "assets/images/front/product-5-47.png",
+    "ratio": 1.78
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-39ee6d0e-4da9-4226-b227-8771bd3a07c4.png",
+    "prompt": "Precise-object-edit. Image 1 is target sardine box. Image 2 sunflower oil variant is reference for camera angle and rectangular proportions ONLY. Make target box exactly flat straight-on frontal label panel, no lower side panel or sidewalls visible, no tilt, square corners, white background, no shadow. Preserve target's original variant text, red tomato/blue water colors, brand, artwork, all label text. Do NOT copy sunflower wording or yellow variant colors. Complete centered box, sharp. Match reference box width:height 1.78:1.",
+    "source": "meter-5/images/48-straight.png",
+    "output": "assets/images/front/product-5-48.png",
+    "ratio": 1.78
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-bc15f63c-ffd6-4fae-9c80-c6a3388f7008.png",
+    "prompt": "Precise-object-edit. Remove the cast shadow and mirror reflection below this exact Elisha mayonnaise jar completely. Pure white background, even soft lighting with no harsh white reflection stripes. Keep exact jar shape, cap, all original label text, graphics, color, product variant and contents unchanged. Straight upright, entire jar visible with generous margins, sharp. Do not redesign packaging.",
+    "source": "meter-5/images/17.jpg",
+    "output": "assets/images/front/product-5-17.png",
+    "ratio": null
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-d220e5e0-f2ea-4e15-98cb-cf9a56b58eac.png",
+    "prompt": "Precise-object-edit. Remove the cast shadow and mirror reflection below this exact Elisha mayonnaise jar completely. Pure white background, even soft lighting with no harsh white reflection stripes. Keep exact jar shape, cap, all original label text, graphics, color, product variant and contents unchanged. Straight upright, entire jar visible with generous margins, sharp. Do not redesign packaging.",
+    "source": "meter-5/images/19.jpg",
+    "output": "assets/images/front/product-5-19.png",
+    "ratio": null
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-4762c124-b173-47b0-8170-b1a38e5dd65a.png",
+    "prompt": "Precise-object-edit. Remove the cast shadow and mirror reflection below this exact Elisha mayonnaise jar completely. Pure white background, even soft lighting with no harsh white reflection stripes. Keep exact jar shape, cap, all original label text, graphics, color, product variant and contents unchanged. Straight upright, entire jar visible with generous margins, sharp. Do not redesign packaging.",
+    "source": "meter-5/images/20.jpg",
+    "output": "assets/images/front/product-5-20.png",
+    "ratio": null
+  },
+  {
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-1a161121-6260-44be-bf96-09a3d4fc0015.png",
+    "prompt": "Precise-object-edit. Repair the bottom of this Elite Instant coffee jar: complete the missing uneven base with a smooth continuous realistic jar rim. Keep all original packaging, shape, red cap, bean pattern, exact label text and 200g unchanged. Straight front view, pure white background, no cast shadow or reflection. Entire jar visible with margin, sharp.",
+    "source": "meter-6/images/elite-target.jpg",
+    "output": "assets/images/front/product-6-25.png",
+    "ratio": null
+  },
+  {
+    "generated": "C:/Users/ellag/.codex/generated_images/01a0d4e9-3702-7e70-8326-42017f1675f4/exec-54833949-5698-4398-ba9b-dad82e394f12.png",
+    "source": "meter-7/images/product-25-full.png",
+    "output": "assets/images/front/product-7-25.png",
+    "prompt": "Straight frontal retouch of original Osem Mini Croutons jar. Preserve packaging and slender proportions, center front label, white background without shadow."
+  }
+]

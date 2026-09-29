@@ -13,6 +13,7 @@
       }
       if(!p.imageFrame && !p.imagePresentation && !p.imageBounds && edit.imageBounds)p.imageBounds=edit.imageBounds;
       if(edit.imageFrame)p.imageFrame=edit.imageFrame;
+      if(edit.imagePresentation)p.imagePresentation=edit.imagePresentation;
     }
     (p.packagingVariants || []).forEach(apply);
   }
