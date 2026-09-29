@@ -839,10 +839,16 @@
     },
     {
       "id": 65,
-      "status": "pending",
-      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "status": "online-list",
       "checked": "2026-09-29",
-      "sources": []
+      "sources": [
+        {
+          "label": "Judaica Place — product en barcode",
+          "url": "https://www.judaicaplace.com/7-day-memorial-candle-in-glass-cup/706132281071/"
+        }
+      ],
+      "text": "Kaars op basis van 100% plantaardige olie, in een glazen houder.",
+      "url": "https://www.judaicaplace.com/7-day-memorial-candle-in-glass-cup/706132281071/"
     },
     {
       "id": 66,
@@ -908,6 +914,19 @@
         {
           "label": "Israelwinkel — mannencrème",
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "status": "online-list",
+      "text": "Kaars op basis van 100% plantaardige olie, in een glazen houder.",
+      "url": "https://www.judaicaplace.com/3-day-yahrtzeit-memorial-candle-in-glass-cup/706132281033/",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Judaica Place — product en barcode",
+          "url": "https://www.judaicaplace.com/3-day-yahrtzeit-memorial-candle-in-glass-cup/706132281033/"
         }
       ]
     }

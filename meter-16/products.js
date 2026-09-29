@@ -2399,32 +2399,67 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 74,
+    "catalogType": "nonfood",
+    "category": "Kaarsen en accessoires",
+    "shelf": 7,
+    "allergens": null,
+    "name": "Herdenkingskaars voor 3 dagen",
+    "brand": "Ner Mitzvah",
+    "variant": "1 stuk · 3 dagen",
+    "ean": "706132281033",
+    "image": "images/ner-mitzvah-3-dagen-user.png",
+    "productInfo": {
+      "Toepassing": "Herdenkingskaars in een glazen pot.",
+      "Brandduur": "Ongeveer 3 dagen."
+    },
+    "sources": [
+      {
+        "label": "Judaica Place — product en barcode",
+        "url": "https://www.judaicaplace.com/3-day-yahrtzeit-memorial-candle-in-glass-cup/706132281033/"
+      }
+    ],
+    "composition": {
+      "heading": "Materiaal en samenstelling",
+      "text": "Kaars op basis van 100% plantaardige olie, in een glazen houder.",
+      "source": {
+        "label": "Judaica Place — productinformatie",
+        "url": "https://www.judaicaplace.com/3-day-yahrtzeit-memorial-candle-in-glass-cup/706132281033/"
+      }
+    },
+    "identificationNote": "Toegevoegd op basis van de aangeleverde foto en barcode. De exacte schappositie is nog te bevestigen.",
+    "identificationLabel": "Schappositie nog te bevestigen"
+  },
+  {
     "id": 65,
     "catalogType": "nonfood",
     "name": "Herdenkingskaars voor 7 dagen",
-    "brand": "",
+    "brand": "Ner Mitzvah",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.328125,
-      "y": 0.5020833333333333,
-      "width": 0.065625,
-      "height": 0.23333333333333334,
-      "aspectRatio": 0.375
-    },
+    "variant": "1 stuk · 7 dagen",
+    "image": "images/ner-mitzvah-7-dagen-user.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Herdenkingskaars in een houder.",
-      "Brandduur": "7 dagen vermeld op de verpakking."
+      "Toepassing": "Herdenkingskaars in een glazen pot.",
+      "Brandduur": "Ongeveer 7 dagen."
     },
-    "sources": [],
-    "identificationNote": "Het merk en de barcode van deze specifieke verpakking zijn nog te bevestigen.",
+    "sources": [
+      {
+        "label": "Judaica Place — product en barcode",
+        "url": "https://www.judaicaplace.com/7-day-memorial-candle-in-glass-cup/706132281071/"
+      }
+    ],
+    "identificationNote": "",
     "composition": {
-      "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
+      "heading": "Materiaal en samenstelling",
+      "text": "Kaars op basis van 100% plantaardige olie, in een glazen houder.",
+      "source": {
+        "label": "Judaica Place — productinformatie",
+        "url": "https://www.judaicaplace.com/7-day-memorial-candle-in-glass-cup/706132281071/"
+      }
+    },
+    "ean": "706132281071"
   },
   {
     "id": 66,
