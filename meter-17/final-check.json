@@ -1,0 +1,322 @@
+{
+  "date": "2026-09-29",
+  "productCount": 68,
+  "barcodesAdded": [
+    {
+      "id": 2,
+      "ean": "7290102993277",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      }
+    },
+    {
+      "id": 3,
+      "ean": "7290108351606",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      }
+    },
+    {
+      "id": 4,
+      "ean": "7290108351590",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      }
+    },
+    {
+      "id": 7,
+      "ean": "7290013269638",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      }
+    },
+    {
+      "id": 23,
+      "ean": "7290014043794",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://hbdeadsea.com/products/multi-vitamin-treatment-anti-crack-foot-cream-2"
+      }
+    },
+    {
+      "id": 32,
+      "ean": "7290108357042",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+      }
+    },
+    {
+      "id": 33,
+      "ean": "7290108357059",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+      }
+    },
+    {
+      "id": 34,
+      "ean": "7290108357110",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+      }
+    },
+    {
+      "id": 35,
+      "ean": "7290102991792",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+      }
+    },
+    {
+      "id": 36,
+      "ean": "7290102991785",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+      }
+    },
+    {
+      "id": 37,
+      "ean": "7290102991778",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
+      }
+    },
+    {
+      "id": 39,
+      "ean": "7290104969935",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://careline.co.il/c-power-day-cream/"
+      }
+    },
+    {
+      "id": 41,
+      "ean": "7290104969928",
+      "source": {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://careline.co.il/c-power-night-cream/"
+      }
+    }
+  ],
+  "ingredientsAdded": [
+    11
+  ],
+  "photoPerspectiveCorrections": [
+    19,
+    29
+  ],
+  "missingBarcodes": [
+    {
+      "id": 1,
+      "name": "Sano Bon Toiletblok",
+      "variant": ""
+    },
+    {
+      "id": 6,
+      "name": "More Schuursponsjes 2 in 1 goud en zilver",
+      "variant": "2 stuks"
+    },
+    {
+      "id": 8,
+      "name": "Shemen Amour Nachtcrème",
+      "variant": "50 ml"
+    },
+    {
+      "id": 9,
+      "name": "Shemen Amour Vochtinbrengende dagcrème",
+      "variant": "50 ml"
+    },
+    {
+      "id": 73,
+      "name": "Shemen Amour Vochtinbrengende dagcrème voor mannen",
+      "variant": "50 ml"
+    },
+    {
+      "id": 10,
+      "name": "Shemen Amour Lichaamsboter met aloë vera",
+      "variant": "350 ml"
+    },
+    {
+      "id": 11,
+      "name": "Shemen Amour Lichaamsboter patchouli-vanille",
+      "variant": "Patchouli-vanille · 350 ml"
+    },
+    {
+      "id": 12,
+      "name": "Shemen Amour Lichaamsboter vanille",
+      "variant": ""
+    },
+    {
+      "id": 13,
+      "name": "Shemen Amour Gezichtszeep pH 5.5",
+      "variant": "200 ml"
+    },
+    {
+      "id": 14,
+      "name": "Shemen Amour Balsem na het scheren",
+      "variant": "100 ml"
+    },
+    {
+      "id": 15,
+      "name": "Shemen Amour Bodylotion met olijfolie en honing",
+      "variant": "400 ml"
+    },
+    {
+      "id": 17,
+      "name": "Shemen Amour Dode Zeemodder",
+      "variant": "300 g"
+    },
+    {
+      "id": 18,
+      "name": "Shemen Amour Dode Zee badzout",
+      "variant": "300 g"
+    },
+    {
+      "id": 19,
+      "name": "HB Zeep met avocado en aloë vera",
+      "variant": "115 g"
+    },
+    {
+      "id": 20,
+      "name": "HB Lichaamsboter met lavendel en patchouli",
+      "variant": "350 ml"
+    },
+    {
+      "id": 21,
+      "name": "HB Hand- en nagelcrème met lavendel",
+      "variant": "100 ml"
+    },
+    {
+      "id": 22,
+      "name": "HB Hand- en nagelcrème met avocado en aloë vera",
+      "variant": "100 ml"
+    },
+    {
+      "id": 24,
+      "name": "HB Voetcrème met avocado en aloë vera",
+      "variant": "100 ml"
+    },
+    {
+      "id": 25,
+      "name": "HB Aloë vera gel met vitamine E",
+      "variant": "100 ml"
+    },
+    {
+      "id": 26,
+      "name": "HB Douchegel met lavendel",
+      "variant": "780 ml"
+    },
+    {
+      "id": 27,
+      "name": "Shemen Amour Conditioner met Marokkaanse arganolie",
+      "variant": ""
+    },
+    {
+      "id": 28,
+      "name": "Shemen Amour Shampoo met Dode Zeemodder",
+      "variant": ""
+    },
+    {
+      "id": 29,
+      "name": "Shemen Amour Zeep met Dode Zeemodder",
+      "variant": "95 g"
+    },
+    {
+      "id": 30,
+      "name": "Shemen Amour Douchegel met olijfolie en honing",
+      "variant": "770 ml"
+    },
+    {
+      "id": 31,
+      "name": "Shemen Amour Shampoo voor mannen",
+      "variant": "770 ml"
+    },
+    {
+      "id": 42,
+      "name": "Careline Gezichtsreiniger C Power",
+      "variant": "300 ml"
+    },
+    {
+      "id": 63,
+      "name": "Menora Kaarsen- en oliecupjes",
+      "variant": "2 stuks"
+    },
+    {
+      "id": 67,
+      "name": "Menora Herdenkingskaars in blik",
+      "variant": "Tot 26 uur"
+    },
+    {
+      "id": 68,
+      "name": " Witte kaarsen",
+      "variant": "10 stuks · 12 cm"
+    },
+    {
+      "id": 70,
+      "name": "Menora Sabbatskaarsen",
+      "variant": "10 stuks · 12,5 cm"
+    },
+    {
+      "id": 71,
+      "name": "Menora Gekleurde chanoekakaarsen",
+      "variant": "44 stuks · 9,5 cm"
+    }
+  ],
+  "incompleteCosmeticIngredients": [
+    12,
+    23,
+    55,
+    57,
+    58,
+    60,
+    61
+  ],
+  "photoWorkRemaining": [
+    8,
+    9,
+    40,
+    71,
+    73
+  ],
+  "note": "Versie 42: achtergronden schoongemaakt en doos plus product behouden. Sommige bronfoto’s behouden perspectief; niet alle opnamen zijn volledig frontaal.",
+  "officialFrontPhotos": [],
+  "ingredientsCorrected": [
+    41
+  ],
+  "totalBarcodes": 37,
+  "presentationPreference": {
+    "referenceProduct": 38,
+    "description": "Doos en product samen zichtbaar houden, zoals Pro Collagen 3%.",
+    "restoredOriginalImages": [
+      19,
+      29,
+      39,
+      41
+    ]
+  },
+  "editedBoxPhotos": [
+    38,
+    39,
+    41
+  ],
+  "backgroundsCleaned": 68,
+  "frontPhotoEditsVersion43": [
+    14,
+    19,
+    29,
+    44
+  ],
+  "displayScaleVersion43": {
+    "11": 0.85,
+    "12": 0.85
+  }
+}

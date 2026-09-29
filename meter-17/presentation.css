@@ -1,5 +1,17 @@
 /* Consistent photo frames; fit wide bags and tall packs without distortion. */
 .product-visual { container-type: size; }
+.product-card .product-visual,
+.dialog-product > .product-visual-large {
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.product-card .product-visual .product-packshot img,
+.dialog-product .product-visual .product-packshot img {
+  padding: 0;
+  image-rendering: auto;
+}
 .product-packshot {
   position: relative;
   flex: none;
@@ -35,3 +47,12 @@
 .composition-note { color: #695f4f; font-size: .9rem; }
 .back-label img { display: block; max-width: 100%; width: 360px; height: auto; margin: 1rem auto; }
 .back-label a span { display: block; text-align: center; }
+
+/* Use identical scale for all four body-butter packshots. */
+.product-packshot img[src='images/clean/product-10-v48.png'],
+.product-packshot img[src='images/clean/product-11-v57.png'],
+.product-packshot img[src='images/clean/product-12-v57.png'],
+.product-packshot img[src='images/clean/product-20-v57.png'] {
+  transform: scale(.85);
+  transform-origin: center;
+}

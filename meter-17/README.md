@@ -1,4 +1,12 @@
-# Meter 16 — non-food
+Fotocontrole versie 42: 68 achtergronden schoongemaakt; doos en product behouden. Zie EINDCONTROLE.md voor resterend perspectief en ontbrekende gegevens.
+
+# Meter 17 — Non Food
+
+Actuele controle: [EINDCONTROLE.md](EINDCONTROLE.md). Het huidige concept bevat 68 producten en 37 gecontroleerde barcodes. De onderstaande notities zijn historisch; aantallen en open punten daarin zijn niet meer actueel.
+
+---
+
+# Meter 17 — non-food
 
 Bijgewerkt op 29 september 2026. Concept met 72 producten in de oorspronkelijke schapvolgorde.
 

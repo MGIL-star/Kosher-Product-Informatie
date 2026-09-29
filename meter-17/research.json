@@ -9,7 +9,7 @@
     "f9099abb-4e91-4f82-80d3-24db24816b86.jpg"
   ],
   "counts": {
-    "cards": 73,
+    "cards": 68,
     "pending": 29,
     "internetPhotos": 44,
     "shelfPhotos": 28
@@ -294,15 +294,15 @@
     },
     {
       "id": 11,
-      "name": "Verzorgingscrème lichte afbeelding",
+      "name": "Lichaamsboter patchouli-vanille",
       "brand": "Shemen Amour",
       "shelf": 2,
       "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "status": "variant bevestigd door gebruiker",
+      "note": "Gebruiker koppelt de twee voorlopige crèmekaarten aan de eerder gekozen derde en vierde pot. Inhoud en volledige ingrediënten nog te bevestigen.",
       "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
+      "image": "images/shemen-bodybutter-patchouli-vanille-edited.png",
+      "imageSource": "Afzonderlijke AI-bewerking van gebruikersfoto; kleine etiketdetails kunnen afwijken.",
       "imageFrame": {
         "x": 0.30625,
         "y": 0.71875,
@@ -313,15 +313,15 @@
     },
     {
       "id": 12,
-      "name": "Verzorgingscrème bruine afbeelding",
+      "name": "Lichaamsboter vanille",
       "brand": "Shemen Amour",
       "shelf": 2,
       "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "status": "variant bevestigd door gebruiker",
+      "note": "Gebruiker koppelt de twee voorlopige crèmekaarten aan de eerder gekozen derde en vierde pot. Inhoud en volledige ingrediënten nog te bevestigen.",
       "sources": [],
-      "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-      "imageSource": "Eigen schapfoto",
+      "image": "images/shemen-bodybutter-vanille-edited.png",
+      "imageSource": "Afzonderlijke AI-bewerking van gebruikersfoto; kleine etiketdetails kunnen afwijken.",
       "imageFrame": {
         "x": 0.3890625,
         "y": 0.71875,
@@ -1492,22 +1492,15 @@
     },
     {
       "id": 63,
-      "name": "Kaarsen donkerblauwe doos",
-      "brand": "",
+      "name": "Kaarsen- en oliecupjes",
+      "brand": "Menora",
       "shelf": 7,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+      "variant": "2 stuks",
+      "status": "bevestigd op gebruikersfoto",
+      "note": "Verpakking komt overeen met donkerblauwe doos links op plank 7. Opschrift: cups for candles & oil, for use in candlesticks; 2 stuks.",
       "sources": [],
-      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.0921875,
-        "y": 0.5625,
-        "width": 0.1265625,
-        "height": 0.058333333333333334,
-        "aspectRatio": 2.892857142857143
-      }
+      "image": "images/menora-kaarsencupjes-user.png",
+      "imageSource": "Gebruikersfoto 2026-09-29"
     },
     {
       "id": 64,
@@ -2096,7 +2089,7 @@
         "note": "Volledige gekoppelde ingrediëntenlijst aanwezig."
       }
     ],
-    "cards": 73,
+    "cards": 68,
     "candleRetouch": "Menora 67 vrijstaand en rechtgezet. Gegenereerde bewerkingen van Ner Mitzvah 65/74 afgekeurd wegens gewijzigde etiketdetails; originele foto’s behouden.",
     "duplicateAudit": {
       "checked": "2026-09-29",
@@ -2111,6 +2104,78 @@
         "keptId": 6,
         "reason": "Gebruiker bevestigt dubbel product. Betere foto behouden en merk More en 2 in 1 overgenomen."
       }
-    ]
+    ],
+    "removedShelfCropImages": {
+      "date": "2026-09-29",
+      "ids": [
+        11,
+        12,
+        16,
+        62,
+        64,
+        69,
+        72
+      ],
+      "note": "Ingezoomde schapfoto’s op verzoek verwijderd uit presentatie. Productgegevens en originele bronfoto’s bewaard."
+    },
+    "removedCards": [
+      {
+        "id": 16,
+        "name": "Bodylotion fles",
+        "reason": "Op gebruikersverzoek verwijderd: kaart zonder foto."
+      },
+      {
+        "id": 62,
+        "name": "Kaarsen gekleurde verpakking links",
+        "reason": "Alle kaarten zonder foto verwijderd op gebruikersverzoek."
+      },
+      {
+        "id": 64,
+        "name": "Kaarsen lichtblauwe doos",
+        "reason": "Alle kaarten zonder foto verwijderd op gebruikersverzoek."
+      },
+      {
+        "id": 69,
+        "name": "Kaarsen of houders doorzichtige verpakking",
+        "reason": "Alle kaarten zonder foto verwijderd op gebruikersverzoek."
+      },
+      {
+        "id": 72,
+        "name": "Chanoekakaarsen blauwe doos rechts",
+        "reason": "Alle kaarten zonder foto verwijderd op gebruikersverzoek."
+      }
+    ],
+    "photoPresentation": {
+      "checked": "2026-09-29",
+      "images": 68,
+      "newFrames": 31,
+      "note": "Alle foto’s visueel gecontroleerd. Witruimte bijgesneden via weergavekaders; originele pixels en etiketten behouden. Kleine bronfoto’s blijven beperkt in resolutie."
+    },
+    "straightenedPhotos": {
+      "date": "2026-09-29",
+      "ids": [
+        6,
+        63
+      ],
+      "method": "Ingebouwde imagegen-tool",
+      "prompts": [
+        "Draai beide schuursponsjes afzonderlijk recht, groene streep verticaal; naast elkaar op gelijke hoogte, behoud materiaal en kleuren.",
+        "Corrigeer het perspectief van de Menora-cupjesdoos naar frontaal, behoud de verpakking en zichtbare opdruk."
+      ]
+    },
+    "finalCheck": {
+      "date": "2026-09-29",
+      "report": "final-check.json",
+      "productCount": 68,
+      "totalBarcodes": 37,
+      "barcodesAdded": 13,
+      "ingredientsAdded": [
+        11
+      ],
+      "ingredientsCorrected": [
+        41
+      ],
+      "status": "Deels afgerond; resterende onzekerheden expliciet vastgelegd"
+    }
   }
 }

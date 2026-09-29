@@ -48,7 +48,7 @@
 }
 @media (min-width: 640px) {
  .catalog-main { padding: 36px 28px 64px; }
- .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+ .product-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
  .product-card .product-visual { height: 180px; }
  .product-card .product-visual img { padding: 16px; }
  .card-text { padding: 12px 14px 10px; }

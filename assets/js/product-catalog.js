@@ -3,6 +3,7 @@
 
   const products = window.KPI_PRODUCTS || [];
   const nonFood = window.KPI_CATALOG_MODE === 'nonfood';
+  const showReferences = window.KPI_SHOW_REFERENCES !== false;
   const grid = document.querySelector('#product-grid');
   const search = document.querySelector('#search');
   const count = document.querySelector('#result-count');
@@ -81,7 +82,7 @@
       <p class="image-disclaimer">${product.imageEdited ? 'Bewerkte productfoto; verpakking kan afwijken.' : product.imageIllustration ? 'Illustratie van het product, geen verpakkingsfoto.' : 'Afbeelding kan afwijken van de actuele verpakking.'}</p>
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
       ${product.productInfo ? `<section><h3>${product.isWine ? 'Productinformatie / wijnstijl' : 'Productinformatie'}</h3>${Object.entries(product.productInfo).map(([label, value]) => `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`).join('')}</section>` : ''}
-      ${nonFood && product.composition ? `<section class="product-composition"><h3>${escapeHtml(product.composition.heading || 'Ingrediënten (INCI)')}</h3>${product.composition.text ? `<p>${escapeHtml(product.composition.text)}</p>` : ''}${product.composition.note ? `<p class="composition-note">${escapeHtml(product.composition.note)}</p>` : ''}${product.composition.source ? `<p><a href="${escapeHtml(product.composition.source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(product.composition.source.label)}</a></p>` : ''}</section>` : ''}
+      ${nonFood && product.composition ? `<section class="product-composition"><h3>${escapeHtml(product.composition.heading || 'Ingrediënten (INCI)')}</h3>${product.composition.text ? `<p>${escapeHtml(product.composition.text)}</p>` : ''}${product.composition.note ? `<p class="composition-note">${escapeHtml(product.composition.note)}</p>` : ''}${showReferences && product.composition.source ? `<p><a href="${escapeHtml(product.composition.source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(product.composition.source.label)}</a></p>` : ''}</section>` : ''}
       ${nonFood && product.backLabel ? `<section class="back-label"><h3>Achterkant van de verpakking</h3><p>${escapeHtml(product.backLabel.note)}</p><a href="${escapeHtml(product.backLabel.image)}" target="_blank" rel="noopener noreferrer"><img src="${escapeHtml(product.backLabel.image)}" alt="Etiket ${escapeHtml(product.brand)} ${escapeHtml(product.name)}" loading="lazy"><span>Etiket vergroten ↗</span></a></section>` : ''}
       ${!nonFood && product.ingredients ? `<section><h3>${product.ingredientsPartial ? 'Bekende ingrediënten' : 'Ingrediënten'}</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientsNote ? `<p>${escapeHtml(product.ingredientsNote)}</p>` : ''}</section>` : ''}
       ${!nonFood && product.allergens !== null ? `<section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p>${escapeHtml(product.allergenNote)}</p>` : ''}</section>` : ''}
@@ -89,8 +90,8 @@
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p>${product.kosherNote ? `<p class="kosher-note">${escapeHtml(product.kosherNote)}</p>` : ''}</section>` : ''}
       ${nonFood && product.identificationNote ? `<section class="identification-note"><h3>Identificatie</h3><p>${escapeHtml(product.identificationNote)}</p></section>` : ''}
-      ${nonFood && product.supplier ? `<section><h3>Bij Israelwinkel</h3><p><a href="${escapeHtml(product.supplier.url)}" target="_blank" rel="noopener noreferrer">Bekijk ${escapeHtml(product.name)}${product.supplier.variant ? ` — ${escapeHtml(product.supplier.variant)}` : ''}</a></p>${product.supplier.sku ? `<p>Artikelnummer: ${escapeHtml(product.supplier.sku)}</p>` : ''}</section>` : ''}
-      ${nonFood && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
+      ${nonFood && showReferences && product.supplier ? `<section><h3>Bij Israelwinkel</h3><p><a href="${escapeHtml(product.supplier.url)}" target="_blank" rel="noopener noreferrer">Bekijk ${escapeHtml(product.name)}${product.supplier.variant ? ` — ${escapeHtml(product.supplier.variant)}` : ''}</a></p>${product.supplier.sku ? `<p>Artikelnummer: ${escapeHtml(product.supplier.sku)}</p>` : ''}</section>` : ''}
+      ${nonFood && showReferences && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;
     dialog.showModal();

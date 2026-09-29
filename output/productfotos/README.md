@@ -1,0 +1,3 @@
+Twee afzonderlijke AI-bewerkingen met de ingebouwde imagegen-tool van de aangeleverde collage. Prompt: isoleer respectievelijk de onderste linker pot (Patchouli Vanilla) en de onderste middelste pot (Vanilla), maak scherper en recht, behoud verpakking en gebruik transparante achtergrond. Kleine etiketdetails zijn gereconstrueerd; deze bestanden zijn daarom niet als productbewijs gebruikt of in de catalogus geplaatst.
+
+Menora doos: ingebouwde imagegen-tool, prompt: zet de doos recht en verscherp de randen, behoud het ontwerp; reconstrueer kleine tekst niet. Kleine tekst blijft onbetrouwbaar. Alleen als losse bewerking opgeslagen.

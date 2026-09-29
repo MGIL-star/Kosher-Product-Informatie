@@ -7,24 +7,37 @@ window.KPI_PRODUCTS = [
     "brand": "Sano Bon",
     "category": "Schoonmaak",
     "shelf": 1,
-    "variant": "",
-    "image": "images/sano-bon-user.png",
+    "variant": "55 g",
+    "image": "images/clean/product-1-user-v56.png",
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Verfrist en houdt het toilet schoon, met een frisse geur.",
-      "Gebruiksduur": "Tot 800 spoelbeurten volgens de verpakking."
+      "Gebruiksduur": "Tot 800 spoelbeurten volgens de verpakking.",
+      "Gewicht": "55 g"
     },
     "sources": [
       {
         "label": "Sano — fabrikant",
         "url": "https://www.sano-international.com/sano/"
+      },
+      {
+        "label": "Sano Moldova — Sanobon Blue 55 g",
+        "url": "https://www.sano.md/ru/catalog/baie-si-toaleta/sapun-odorizant-wc-sano-bon-blue-55-gr"
       }
     ],
     "identificationNote": "",
     "composition": {
       "heading": "Samenstelling",
       "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
-    }
+    },
+    "imageFrame": {
+      "x": 0.175,
+      "y": 0.1325,
+      "width": 0.6425,
+      "height": 0.725,
+      "aspectRatio": 0.8862068965517241
+    },
+    "imageEdited": false
   },
   {
     "id": 2,
@@ -34,22 +47,42 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "1 liter",
-    "image": "images/product-2.jpg",
+    "image": "images/clean/product-2.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Geconcentreerde reinigingsgel voor huishoudelijke reiniging.",
-      "Gebruik": "Volg voor verdunning en geschikte oppervlakken de gebruiksaanwijzing op de verpakking."
+      "Gebruik": "Voor afwasbare oppervlakken. Kan als gel onverdund of verdund in water worden gebruikt. Volg de dosering op de verpakking."
     },
     "sources": [
       {
         "label": "Sano — productinformatie",
         "url": "https://sanobg.com/product/jet-universal-gel-with-pine-oil/"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      },
+      {
+        "label": "Sano Romania — Jet+ Gel Universal 1 L",
+        "url": "https://sanoromania.ro/product/sanojetgel/"
       }
     ],
     "identificationNote": "",
     "composition": {
       "heading": "Ingrediënten en samenstelling",
       "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.5768025078369906
+    },
+    "ean": "7290102993277",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
     }
   },
   {
@@ -60,24 +93,43 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "350 ml",
-    "image": "images/sano-soft-silk-user.png",
+    "image": "images/clean/product-3.png",
     "imageFrame": {
-      "x": 0.38,
-      "y": 0.04,
-      "width": 0.29,
-      "height": 0.92,
-      "aspectRatio": 0.37655172413793103
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.38181818181818183
     },
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Luchtverfrisser met een warme, zachte geur.",
       "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor."
     },
-    "sources": [],
+    "sources": [
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      },
+      {
+        "label": "Office Direct — Sano Fresh Home Perfume Collection 350 ml",
+        "url": "https://www.officedirect.ro/curatenie-si-protocol/odorizante/odorizant-de-camera-lichid-sano-fresh-home-perfume-ollection"
+      }
+    ],
     "identificationNote": "",
     "composition": {
       "heading": "Samenstelling",
-      "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
+      "text": "Geurvloeistof op waterbasis, zonder drijfgas.",
+      "note": "Dit beschrijft de basis van het product; de volledige ingrediëntenlijst is nog niet bevestigd.",
+      "source": {
+        "label": "Office Direct — Sano Fresh Home Perfume Collection 350 ml",
+        "url": "https://www.officedirect.ro/curatenie-si-protocol/odorizante/odorizant-de-camera-lichid-sano-fresh-home-perfume-ollection"
+      }
+    },
+    "ean": "7290108351606",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
     }
   },
   {
@@ -88,24 +140,43 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "350 ml",
-    "image": "images/sano-blue-blossom-user.png",
+    "image": "images/clean/product-4.png",
     "imageFrame": {
-      "x": 0.39,
-      "y": 0.05,
-      "width": 0.28,
-      "height": 0.9,
-      "aspectRatio": 0.3709449929478138
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.38171262699564584
     },
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Luchtverfrisser met een frisse, bloemige geur.",
       "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor."
     },
-    "sources": [],
+    "sources": [
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      },
+      {
+        "label": "Office Direct — Sano Fresh Home Perfume Collection 350 ml",
+        "url": "https://www.officedirect.ro/curatenie-si-protocol/odorizante/odorizant-de-camera-lichid-sano-fresh-home-perfume-ollection"
+      }
+    ],
     "identificationNote": "",
     "composition": {
       "heading": "Samenstelling",
-      "note": "Nog geen volledige ingrediëntenlijst beschikbaar voor deze uitvoering."
+      "text": "Geurvloeistof op waterbasis, zonder drijfgas.",
+      "note": "Dit beschrijft de basis van het product; de volledige ingrediëntenlijst is nog niet bevestigd.",
+      "source": {
+        "label": "Office Direct — Sano Fresh Home Perfume Collection 350 ml",
+        "url": "https://www.officedirect.ro/curatenie-si-protocol/odorizante/odorizant-de-camera-lichid-sano-fresh-home-perfume-ollection"
+      }
+    },
+    "ean": "7290108351590",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
     }
   },
   {
@@ -116,7 +187,7 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "2 stuks",
-    "image": "images/schuursponsjes-israelwinkel.jpg",
+    "image": "images/clean/product-6.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Set met een gouden en een zilveren schuurspons voor afwas en schoonmaak. Volgens de leverancier ook geschikt voor pannen met een antiaanbaklaag.",
@@ -138,7 +209,15 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/schuursponsjes",
       "sku": "75046"
-    }
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.7527910685805423
+    },
+    "imageEdited": true
   },
   {
     "id": 7,
@@ -148,24 +227,44 @@ window.KPI_PRODUCTS = [
     "category": "Schoonmaak",
     "shelf": 1,
     "variant": "6 stuks",
-    "image": "images/sano-wonderspons-extra-user.png",
+    "image": "images/clean/product-7.png",
     "imageFrame": {
       "x": 0,
-      "y": 0.27,
+      "y": 0,
       "width": 1,
-      "height": 0.47,
-      "aspectRatio": 1.7094017094017093
+      "height": 1,
+      "aspectRatio": 1.6590909090909092
     },
     "allergens": null,
     "productInfo": {
       "Toepassing": "Herbruikbare wonderspons voor hardnekkige vlekken op muren, oppervlakken en deuren, volgens de verpakking.",
-      "Uitvoering": "Met een groene laag voor extra stevigheid."
+      "Uitvoering": "Met een groene laag voor extra stevigheid.",
+      "Gebruik": "Maak de spons nat met water en reinig het oppervlak. Volgens de leverancier is geen extra schoonmaakmiddel nodig."
     },
-    "sources": [],
+    "sources": [
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      },
+      {
+        "label": "ISEI — Sano Wonder Sponge Extra 6 stuks",
+        "url": "https://isei.ua/ua/gubka-sano-dlia-legkogo-i-dolgovremennogo-ispolzovaniia"
+      }
+    ],
     "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+      "text": "Melamineschuim met een extra groene verstevigingslaag.",
+      "note": "De leverancier specificeert het materiaal van de groene laag niet afzonderlijk.",
+      "source": {
+        "label": "ISEI — Sano Wonder Sponge Extra 6 stuks",
+        "url": "https://isei.ua/ua/gubka-sano-dlia-legkogo-i-dolgovremennogo-ispolzovaniia"
+      }
+    },
+    "ean": "7290013269638",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
     }
   },
   {
@@ -176,19 +275,23 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "50 ml",
-    "image": "images/shemen-nachtcreme-user.png",
+    "image": "images/clean/product-8-front-v58.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Nachtcrème voor gezicht en hals met Dode Zee-mineralen, vitamine E, oliën en hyaluronzuur. Voor alle huidtypes.",
+      "Toepassing": "Nachtcrème voor gezicht en hals met Dode Zee mineralen, vitamine E, oliën en hyaluronzuur. Voor alle huidtypes.",
       "Gebruik": "Verdeel de crème over de huid en klop zacht in tot deze volledig is opgenomen. De leverancier adviseert gebruik in combinatie met de dagcrème."
     },
     "sources": [
       {
         "label": "Israelwinkel — Nachtcrème",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme"
+      },
+      {
+        "label": "Kontrakt — Shemen Amour Enriched Night Cream 50 ml",
+        "url": "https://kontrakt.ru/catalog/ukhod_dlya_litsa/kremy_dlya_litsa/shemen_amour_50__5.html"
       }
     ],
-    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Ingrediënten volgens leverancier",
       "text": "Aqua, Hyaluronic Acid, Stearic Acid, Nettle (Urtica dioica) Extract, Sorbic Acid.Tocopheryl acetate (vitamin E), Tetrasodium Edta, Cetyl Alcohol, Fragrance, Jojoba (Simmondsia Chinensis) Seed Oil, Triethanolamine, Sorbitol, Green Tea (Camellia chinensis) Leaf Extract, Shea (Butyrospermum Parkii) Butter, Carbomer, Honey extract, Hydrolyzed Collagen, Maris Sal (Dead Sea Salt), Rosemary (Rosmarinus officinalis) Extract. Glycerin, Benzyl Alcohol",
@@ -203,7 +306,19 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-rijke-voedende-nachtcreme",
       "sku": "74734"
     },
-    "identificationLabel": "Schappositie nog te bevestigen"
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.249554367201426
+    },
+    "imageEdited": true,
+    "ean": "7290010025718",
+    "barcodeSource": {
+      "label": "Kontrakt — Shemen Amour Enriched Night Cream 50 ml",
+      "url": "https://kontrakt.ru/catalog/ukhod_dlya_litsa/kremy_dlya_litsa/shemen_amour_50__5.html"
+    }
   },
   {
     "id": 9,
@@ -213,7 +328,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "50 ml",
-    "image": "images/shemen-dagcreme-user.png",
+    "image": "images/clean/product-9-front-v58.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vochtinbrengende dagcrème voor de verzorging van gezicht en hals.",
@@ -225,7 +340,7 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme"
       }
     ],
-    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Ingrediënten volgens leverancier",
       "text": "Water, propylene glycol, cetyl alcohol, stearyl alcohol, isopropyl myristate, cetearyl ethylhexanoate, caprylic/capric triglyceride, PEG-40 stearate, glyceryl SE, glycerin, paraffinum liquidum, phenoxyethanol (and) caprylyl glycol, sorbitan tristearate, caprylyl glycol, parfum, chlorophenesin, mannitol, microcrystalline cellulose, ultramarines (US) CI 77007 (EU), tocopheryl acetate, silica, retinyl palmitate, caprylic/carpic triglyceride, hydroxypropyl methylcellulose, kaolin, tetrasodium EDTA, citric acid, amyl cinnemal, hydroxycitronallal, benzyl salicylate, benzyl benzoate, citronellol, alpha isomethyl ionone, hexyl cinnama.",
@@ -240,14 +355,14 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-enriched-moisturizing-dagcreme",
       "sku": "74730"
     },
-    "identificationLabel": "Schappositie nog te bevestigen",
     "imageFrame": {
-      "x": 0.15,
-      "y": 0.21,
-      "width": 0.7,
-      "height": 0.58,
-      "aspectRatio": 1.4482758620689655
-    }
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.249554367201426
+    },
+    "imageEdited": true
   },
   {
     "id": 73,
@@ -257,10 +372,10 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "50 ml",
-    "image": "images/shemen-mannencreme-user.png",
+    "image": "images/clean/product-73-front-v58.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Vochtinbrengende gezichtscrème voor mannen met Dode Zee-mineralen, hyaluronzuur, sheaboter en vitamine E.",
+      "Toepassing": "Vochtinbrengende gezichtscrème voor mannen met Dode Zee mineralen, hyaluronzuur, sheaboter en vitamine E.",
       "Gebruik": "Dagelijks een kleine hoeveelheid op de gereinigde huid van gezicht en hals aanbrengen en zacht inmasseren."
     },
     "sources": [
@@ -283,8 +398,15 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-vochtinbrengende-dagcreme-voor-mannen"
       }
     },
-    "identificationLabel": "Schappositie nog te bevestigen",
-    "identificationNote": "Toegevoegd op basis van de aangeleverde productfoto. De precieze positie op de schapfoto is nog te bevestigen."
+    "identificationNote": "",
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.249554367201426
+    },
+    "imageEdited": true
   },
   {
     "id": 10,
@@ -294,10 +416,10 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "350 ml",
-    "image": "images/shemen-bodybutter-aloe-user.png",
+    "image": "images/clean/product-10-v48.png",
     "allergens": null,
     "productInfo": {
-      "Beschrijving": "Een zachte bodycrème voor de droge huid, met Dode Zee-mineralen en aloë vera.",
+      "Beschrijving": "Een zachte bodycrème voor de droge huid, met Dode Zee mineralen en aloë vera.",
       "Gebruik": "Gebruik een ruime hoeveelheid op de droge huid en masseer zachtjes in tot de crème door de huid is opgenomen."
     },
     "sources": [
@@ -321,61 +443,80 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
     },
     "imageFrame": {
-      "x": 0.09,
-      "y": 0.1,
-      "width": 0.83,
-      "height": 0.7,
-      "aspectRatio": 1.033396018416445
-    }
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.2318584070796461
+    },
+    "imageEdited": true
   },
   {
     "id": 11,
     "catalogType": "nonfood",
-    "name": "Verzorgingscrème lichte afbeelding",
+    "name": "Lichaamsboter patchouli-vanille",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.30625,
-      "y": 0.71875,
-      "width": 0.0734375,
-      "height": 0.09583333333333334,
-      "aspectRatio": 1.0217391304347827
-    },
+    "variant": "Patchouli-vanille · 350 ml",
     "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "productInfo": {
+      "Beschrijving": "Aromatische sheaboter voor het lichaam met patchouli vanille.",
+      "Inhoud": "350 ml",
+      "Gebruik": "Breng een ruime hoeveelheid aan, vooral op droge plekken, en masseer in tot de lichaamsboter volledig is opgenomen. Geschikt voor dagelijks gebruik na het douchen."
+    },
+    "sources": [
+      {
+        "label": "Experience Israel — patchouli-vanille 350 ml",
+        "url": "https://www.experienceisrael.eu/en/shemen-amour-aromatic-bodybutter-patchouli-vanilla.html"
+      }
+    ],
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua Butyrospermum Parkii (Shea Butter), Capilyc/Capic Triglyceride, Stearic Acid, Cetyl Alcohol, Propylene Glycol, Isopropyl Myristate, Prunus Amygdalus Dulcis (Sweet Almond) oil, Glyceryl Monostearate, Dimethicone, Glycerin, Sorbitan Tristearate, (Sunflower) Seed Oil, Fragrance, Simmondsia Chinensis (Jojoba) seed oil, Acrylatus /C10-30 Alkyl Acrylate Crosspolymer, Persea Gratissima (Avocado) oil, Olea Europaea (Olive) oil, Phenoxyethanol & Ethylhexylglycerin, Maris Sal (Dead Sea Salt), Imidazolidinyl Urea, Allantoin, Aloe BarbadensisLeaf Extract, Punica Granatum(Pomegranate) seed oil, Lavendula Angustifolia (Lavender) oil, Citrus Medica Limonum Lemon) Peel oil, Tocopheryl Acetate (Vitamin E), Disodium EDTA, BHT, Rosmarinus Officinalis (RosemOfficinalis) leaf extract, Alpha-isomethyl ionone, Hdroxycitronellal, Hydroxyisohexyl 3-cyclohexenecarboxaldehyde, Citronellol, Coumarin, Limonene, Linalool, Geraniol.",
+      "note": "Overgenomen zoals gepubliceerd door de leverancier; de bron bevat onvolledige namen en spelfouten. Controleer de verpakking voor de actuele samenstelling.",
+      "source": {
+        "label": "Experience Israel — patchouli-vanille 350 ml",
+        "url": "https://www.experienceisrael.eu/en/shemen-amour-aromatic-bodybutter-patchouli-vanilla.html"
+      }
+    },
+    "image": "images/clean/product-11-v57.png",
+    "imageEdited": true,
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.2318584070796461
     }
   },
   {
     "id": 12,
     "catalogType": "nonfood",
-    "name": "Verzorgingscrème bruine afbeelding",
+    "name": "Lichaamsboter vanille",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.3890625,
-      "y": 0.71875,
-      "width": 0.0734375,
-      "height": 0.09791666666666667,
-      "aspectRatio": 1
-    },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Beschrijving": "Aromatische sheaboter voor het lichaam met vanille."
+    },
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "identificationNote": "De inhoud van deze verpakking is nog te bevestigen.",
     "composition": {
       "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "note": "De volledige ingrediëntenlijst van deze geurvariant is nog niet bevestigd."
+    },
+    "image": "images/clean/product-12-v57.png",
+    "imageEdited": true,
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.2318584070796461
     }
   },
   {
@@ -386,7 +527,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "200 ml",
-    "image": "images/shemen-gezichtszeep-user.webp",
+    "image": "images/clean/product-13.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vloeibare gezichtszeep met pH 5.5 voor het reinigen van de gezichtshuid."
@@ -411,11 +552,11 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
     },
     "imageFrame": {
-      "x": 0.2516778523489933,
-      "y": 0.07634647418101055,
-      "width": 0.5620805369127517,
-      "height": 0.8703498056635203,
-      "aspectRatio": 0.32057416267942584
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.32389251997095136
     }
   },
   {
@@ -426,7 +567,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "100 ml",
-    "image": "images/shemen-aftershave-user.png",
+    "image": "images/clean/product-14-front.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging van de huid na het scheren.",
@@ -453,12 +594,13 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
     },
     "imageFrame": {
-      "x": 0.15,
-      "y": 0.05,
-      "width": 0.62,
-      "height": 0.9,
-      "aspectRatio": 0.40287253141831236
-    }
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.4037487335359676
+    },
+    "imageEdited": true
   },
   {
     "id": 15,
@@ -468,7 +610,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "400 ml",
-    "image": "images/shemen-bodylotion-olijfolie-honing-user.png",
+    "image": "images/clean/product-15.png",
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Een zachte bodylotion met olijfolie en honing voor het voeden en hydrateren van de droge huid. Helpt de huid zacht en soepel te houden."
@@ -494,36 +636,11 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
     },
     "imageFrame": {
-      "x": 0.37,
-      "y": 0.04,
-      "width": 0.24,
-      "height": 0.91,
-      "aspectRatio": 0.31460924861940087
-    }
-  },
-  {
-    "id": 16,
-    "catalogType": "nonfood",
-    "name": "Bodylotion fles",
-    "brand": "Shemen Amour",
-    "category": "Huidverzorging",
-    "shelf": 2,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.63125,
-      "y": 0.5833333333333334,
-      "width": 0.084375,
-      "height": 0.2375,
-      "aspectRatio": 0.47368421052631576
-    },
-    "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De precieze geur en inhoud van deze bodylotion zijn nog te bevestigen.",
-    "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.3196022727272727
     }
   },
   {
@@ -534,7 +651,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "300 g",
-    "image": "images/shemen-modder-user.png",
+    "image": "images/clean/product-17.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Modder voor uitwendige lichaamsverzorging.",
@@ -565,11 +682,11 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder"
     },
     "imageFrame": {
-      "x": 0.163,
-      "y": 0.049,
-      "width": 0.673,
-      "height": 0.903,
-      "aspectRatio": 0.7452934662236987
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.7450110864745011
     }
   },
   {
@@ -580,7 +697,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "300 g",
-    "image": "images/shemen-badzout-user.png",
+    "image": "images/clean/product-18.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Zout om aan warm badwater toe te voegen.",
@@ -611,11 +728,11 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-badzout"
     },
     "imageFrame": {
-      "x": 0.206,
-      "y": 0.049,
-      "width": 0.589,
-      "height": 0.903,
-      "aspectRatio": 0.6522702104097453
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.6492204899777283
     }
   },
   {
@@ -626,7 +743,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "115 g",
-    "image": "images/product-19.jpg",
+    "image": "images/clean/product-19-front.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Zeep voor het reinigen van gezicht en lichaam.",
@@ -652,7 +769,15 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/hb-zeep",
       "sku": "73134"
-    }
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.2124670763827918
+    },
+    "imageEdited": true
   },
   {
     "id": 20,
@@ -662,7 +787,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "350 ml",
-    "image": "images/product-20.jpg",
+    "image": "images/clean/product-20-v57.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Rijke lichaamscrème voor een zachte, verzorgde huid."
@@ -690,7 +815,15 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/hb-bodybutter-lavendel"
-    }
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.2318584070796461
+    },
+    "imageEdited": true
   },
   {
     "id": 21,
@@ -700,7 +833,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "100 ml",
-    "image": "images/product-21.jpg",
+    "image": "images/clean/product-21-v45.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Dagelijkse verzorging van handen en nagels.",
@@ -714,6 +847,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "HB — fabrikant",
         "url": "https://hbdeadsea.com/products/hands-nails-cream"
+      },
+      {
+        "label": "Rozetka — HB hand- en nagelcrème lavendel 100 ml",
+        "url": "https://rozetka.com.ua/health_beauty_7290014043541/p17663664/"
       }
     ],
     "identificationNote": "",
@@ -729,6 +866,19 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme-lavendel"
+    },
+    "imageFrame": {
+      "x": 0.2,
+      "y": 0.012,
+      "width": 0.598,
+      "height": 0.965,
+      "aspectRatio": 0.41312607944732294
+    },
+    "imageEdited": true,
+    "ean": "7290014043541",
+    "barcodeSource": {
+      "label": "Rozetka — HB hand- en nagelcrème lavendel 100 ml",
+      "url": "https://rozetka.com.ua/health_beauty_7290014043541/p17663664/"
     }
   },
   {
@@ -739,7 +889,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "100 ml",
-    "image": "images/product-22.jpg",
+    "image": "images/clean/product-22.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorgende crème voor droge handen en nagels.",
@@ -753,6 +903,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "HB — fabrikant",
         "url": "https://hbdeadsea.com/products/intensive-hand-nail-cream-enriched-with-avocado-oil-aloe-vera"
+      },
+      {
+        "label": "Kaufland / Oramor — HB avocado handcrème 100 ml",
+        "url": "https://www.kaufland.de/product/532538491/"
       }
     ],
     "identificationNote": "",
@@ -768,6 +922,18 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.39090909090909093
+    },
+    "ean": "7290015247207",
+    "barcodeSource": {
+      "label": "Kaufland / Oramor — HB avocado handcrème 100 ml",
+      "url": "https://www.kaufland.de/product/532538491/"
     }
   },
   {
@@ -778,7 +944,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "100 ml",
-    "image": "images/product-23.jpg",
+    "image": "images/clean/product-23.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Hydraterende verzorging voor droge en ruwe voeten.",
@@ -788,12 +954,33 @@ window.KPI_PRODUCTS = [
       {
         "label": "HB — fabrikant",
         "url": "https://hbdeadsea.com/products/multi-vitamin-treatment-anti-crack-foot-cream-2"
+      },
+      {
+        "label": "Kaufland / Oramor — HB multivitamine voetcrème 100 ml",
+        "url": "https://www.kaufland.de/product/532543080/"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua, Stearyl Alcohol, Glyceryl Stearate SE, Glycerin, Caprylic/Capric Triglyceride, Isopropyl Myristate, Talc, Hydrogenated Coconut Oil, Phenoxyethanol, Paraffin, Glyceryl Palmitate, Glyceryl Stearate, Ethylhexylglycerin, Cera Alba, Stearic Acid, Helianthus Annuus Seed Oil, Argania Spinosa Kernel Oil, Butyrospermum Parkii Butter, Hippophae Rhamnoides Fruit Oil, Maris Sal, Mentha Arvensis Herb Oil, Prunus Amygdalus Dulcis Oil, Simmondsia Chinensis Seed Oil, Hamamelis Virginiana Leaf Water, Sea Silt (Dead Sea Mud), Calendula Officinalis Flower Extract, Retinyl Palmitate, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Propylene Glycol, Anthemis Nobilis Flower Oil, Melaleuca Alternifolia Leaf Oil, Olea Europaea Fruit Oil, Persea Gratissima Oil, Tocopherol, Benzyl Alcohol, Sodium Benzoate, Potassium Sorbate, Triethylene Glycol, Parfum, Linalool, Benzyl Salicylate, Limonene, Citronellol, Geraniol, Hexyl Cinnamal, Coumarin.",
+      "note": "Ingrediënten voor EAN 7290014043794 volgens de leverancier. Controleer het etiket bij een andere verpakkingsversie.",
+      "source": {
+        "label": "Kaufland / Oramor — HB multivitamine voetcrème 100 ml",
+        "url": "https://www.kaufland.de/product/532543080/"
+      }
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.39377537212449254
+    },
+    "ean": "7290014043794",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://hbdeadsea.com/products/multi-vitamin-treatment-anti-crack-foot-cream-2"
     }
   },
   {
@@ -804,7 +991,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "100 ml",
-    "image": "images/product-24.jpg",
+    "image": "images/clean/product-24.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging voor droge en ruwe voeten.",
@@ -834,6 +1021,13 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/hb-voetcreme",
       "sku": "73131"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.35609756097560974
     }
   },
   {
@@ -844,16 +1038,20 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "100 ml",
-    "image": "images/hb-aloe-vera-user.png",
+    "image": "images/clean/product-25.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Verkoelende en hydraterende huidgel met aloë vera, vitamine E en Dode Zee-zout.",
+      "Toepassing": "Verkoelende en hydraterende huidgel met aloë vera, vitamine E en Dode Zee zout.",
       "Gebruik": "Een kleine hoeveelheid op de huid aanbrengen en zacht inkloppen."
     },
     "sources": [
       {
         "label": "Israelwinkel — aloë vera gel 100 ml",
         "url": "https://www.israelwinkel.nl/producten/hb-aloe-vera-gel"
+      },
+      {
+        "label": "Ground Jerusalem — HB aloë vera gel 100 ml",
+        "url": "https://groundjerusalem.com/product/skin-care/hand-cream/aloe-vera-gel-enriched-with-vitamin-e-100ml-3-4-fl-oz-made-in-israel/"
       }
     ],
     "identificationNote": "",
@@ -872,11 +1070,16 @@ window.KPI_PRODUCTS = [
       "sku": "73132"
     },
     "imageFrame": {
-      "x": 0.35106382978723405,
-      "y": 0.048223350253807105,
-      "width": 0.30638297872340425,
-      "height": 0.9086294416243654,
-      "aspectRatio": 0.4022346368715084
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.39633286318758815
+    },
+    "ean": "7290014043848",
+    "barcodeSource": {
+      "label": "Ground Jerusalem — HB aloë vera gel 100 ml",
+      "url": "https://groundjerusalem.com/product/skin-care/hand-cream/aloe-vera-gel-enriched-with-vitamin-e-100ml-3-4-fl-oz-made-in-israel/"
     }
   },
   {
@@ -887,7 +1090,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "780 ml",
-    "image": "images/product-26.jpg",
+    "image": "images/clean/product-26.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchegel met lavendelgeur.",
@@ -901,6 +1104,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israel Producten Centrum",
         "url": "https://www.israelwinkel.nl/producten/hb-douchegel-met-lavendel"
+      },
+      {
+        "label": "HB Danmark — douchegel lavendel 780 ml",
+        "url": "https://hbdeadsea.dk/vare/fugtrig-shower-gel-med-lavendel/"
       }
     ],
     "identificationNote": "",
@@ -916,6 +1123,18 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/hb-douchegel-met-lavendel"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.3776595744680851
+    },
+    "ean": "7290014043725",
+    "barcodeSource": {
+      "label": "HB Danmark — douchegel lavendel 780 ml",
+      "url": "https://hbdeadsea.dk/vare/fugtrig-shower-gel-med-lavendel/"
     }
   },
   {
@@ -926,13 +1145,13 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "",
-    "image": "images/shemen-argan-conditioner-user.png",
+    "image": "images/clean/product-27.png",
     "imageFrame": {
-      "x": 0.10771992818671454,
-      "y": 0.025,
-      "width": 0.7899461400359067,
-      "height": 0.9375,
-      "aspectRatio": 0.36666666666666664
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.3525963149078727
     },
     "allergens": null,
     "productInfo": {
@@ -968,11 +1187,13 @@ window.KPI_PRODUCTS = [
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 3,
-    "variant": "",
-    "image": "images/product-28.jpg",
+    "variant": "500 ml",
+    "image": "images/clean/product-28.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Shampoo voor het reinigen van haar en hoofdhuid."
+      "Toepassing": "Shampoo voor het reinigen van haar en hoofdhuid.",
+      "Inhoud": "500 ml",
+      "Gebruik": "Schudden voor gebruik. Maak het haar nat, masseer de shampoo in het haar en spoel uit met warm water."
     },
     "sources": [
       {
@@ -984,19 +1205,27 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
       }
     ],
-    "identificationNote": "De inhoud van de gefotografeerde fles is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Ingrediënten (INCI)",
       "text": "Water, Sodium Coceth Sulfate, Cocamidopropyl Betaine, Cocamide dEA, Hydrolyzed Karatin, Polyquaternium-7, Stearamidopropyl, Dimethylamine Lactate, Fragrance, Sea Silt (Dead Sea Mud), Dead Sea Mineral Water, Persea Gratissima(Avocado) Oil, Tocopheryl Acetate, Citic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Oxide Black",
       "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
       "source": {
-        "label": "Experience Israel — ingrediënten",
-        "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo"
       }
     },
     "supplier": {
       "name": "Israelwinkel",
-      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo"
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo",
+      "sku": "74755"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.45272525027808674
     }
   },
   {
@@ -1007,7 +1236,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "95 g",
-    "image": "images/product-29.jpg",
+    "image": "images/clean/product-29-front.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Zeep met Dode Zeemodder voor reiniging van de huid."
@@ -1031,7 +1260,15 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
-    }
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.7388622344071282
+    },
+    "imageEdited": true
   },
   {
     "id": 30,
@@ -1041,7 +1278,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "770 ml",
-    "image": "images/shemen-douchegel-olijf-honing-user.png",
+    "image": "images/clean/product-30.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchegel voor de dagelijkse reiniging van de huid.",
@@ -1069,11 +1306,11 @@ window.KPI_PRODUCTS = [
       "sku": "74769"
     },
     "imageFrame": {
-      "x": 0.23,
-      "y": 0.065,
-      "width": 0.605,
-      "height": 0.867,
-      "aspectRatio": 0.34042294004530466
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.34553440702781846
     }
   },
   {
@@ -1084,7 +1321,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "770 ml",
-    "image": "images/shemen-shampoo-mannen-user.png",
+    "image": "images/clean/product-31.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor alle haartypen; volgens de leverancier ook te gebruiken op het lichaam.",
@@ -1116,11 +1353,11 @@ window.KPI_PRODUCTS = [
       "sku": "74757"
     },
     "imageFrame": {
-      "x": 0.24,
-      "y": 0.05,
-      "width": 0.48,
-      "height": 0.9,
-      "aspectRatio": 0.3570432357043235
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.3612087139845397
     }
   },
   {
@@ -1131,7 +1368,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "75 ml",
-    "image": "images/careline-citrus-blossom-user.png",
+    "image": "images/clean/product-32.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
@@ -1142,6 +1379,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — juiste geurvariant",
         "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
       }
     ],
     "identificationNote": "",
@@ -1158,6 +1399,18 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75281",
       "sku": "75281"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.506578947368421
+    },
+    "ean": "7290108357042",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
     }
   },
   {
@@ -1168,7 +1421,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "75 ml",
-    "image": "images/careline-secret-garden-user.png",
+    "image": "images/clean/product-33.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
@@ -1179,6 +1432,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — juiste geurvariant",
         "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
       }
     ],
     "identificationNote": "",
@@ -1195,6 +1452,18 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75279",
       "sku": "75279"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.5114222549742078
+    },
+    "ean": "7290108357059",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
     }
   },
   {
@@ -1205,7 +1474,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "75 ml",
-    "image": "images/careline-velvet-rose-user.png",
+    "image": "images/clean/product-34.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
@@ -1216,6 +1485,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — juiste geurvariant",
         "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
       }
     ],
     "identificationNote": "",
@@ -1232,6 +1505,18 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-deodorant?sku=75280",
       "sku": "75280"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.5091709464416728
+    },
+    "ean": "7290108357110",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
     }
   },
   {
@@ -1242,7 +1527,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "500 ml",
-    "image": "images/product-35.jpg",
+    "image": "images/clean/product-35.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vloeibare handzeep met de geur van rozen en muskus.",
@@ -1252,6 +1537,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — Sweet Kiss",
         "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
       }
     ],
     "identificationNote": "",
@@ -1269,6 +1558,18 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252",
       "variant": "Sweet Kiss",
       "sku": "75252"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.4066666666666667
+    },
+    "ean": "7290102991792",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
     }
   },
   {
@@ -1279,7 +1580,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "500 ml",
-    "image": "images/product-36.jpg",
+    "image": "images/clean/product-36.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vloeibare handzeep met de geur van vanille en appel.",
@@ -1289,6 +1590,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — Spring Blossom",
         "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
       }
     ],
     "identificationNote": "",
@@ -1306,6 +1611,18 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251",
       "variant": "Spring Blossom",
       "sku": "75251"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.40444444444444444
+    },
+    "ean": "7290102991785",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
     }
   },
   {
@@ -1316,7 +1633,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "500 ml",
-    "image": "images/product-37.jpg",
+    "image": "images/clean/product-37.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vloeibare handzeep met de geur van waterlelie.",
@@ -1326,6 +1643,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — Wild Breeze",
         "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
       }
     ],
     "identificationNote": "",
@@ -1343,6 +1664,18 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253",
       "variant": "Wild Breeze",
       "sku": "75253"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.4022222222222222
+    },
+    "ean": "7290102991778",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
     }
   },
   {
@@ -1353,11 +1686,12 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/careline-collagen-user.png",
+    "image": "images/clean/product-38-v46.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Hydraterende dagcrème voor het gezicht.",
-      "Zonbescherming": "SPF 30"
+      "Zonbescherming": "SPF 30",
+      "Gebruik": "Elke ochtend na het reinigen op gezicht en hals aanbrengen en inmasseren tot de crème is opgenomen."
     },
     "sources": [
       {
@@ -1371,6 +1705,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Terminal X — productfoto",
         "url": "https://www.terminalx.com/brands/careline/W95234"
+      },
+      {
+        "label": "Israelwinkel — gebruik Pro Collagen 3%",
+        "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
       }
     ],
     "identificationNote": "",
@@ -1389,12 +1727,13 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
     },
     "imageFrame": {
-      "x": 0.12,
-      "y": 0.1889763779527559,
-      "width": 0.7295238095238096,
-      "height": 0.687992125984252,
-      "aspectRatio": 1.09585121602289
-    }
+      "x": 0.01,
+      "y": 0.08,
+      "width": 0.98,
+      "height": 0.837,
+      "aspectRatio": 1.465388152965489
+    },
+    "imageEdited": true
   },
   {
     "id": 39,
@@ -1404,7 +1743,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/gezichtscreme-39.jpg",
+    "image": "images/clean/product-39-v46.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Dagcrème C Power SPF 20 voor de verzorging van gezicht en hals.",
@@ -1414,9 +1753,13 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — Dagcrème C Power SPF 20",
         "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://careline.co.il/c-power-day-cream/"
       }
     ],
-    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Ingrediënten volgens leverancier",
       "text": "Aqua (Water), Dimethicone, Ethylhexyl Methoxycinnamaat, SD Alcohol 40, Butyleenglycol, Glycerine, Bis-PEG/PPG-14/14 Dimethicone, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Dicaprylyl Carbonaat, Ascorbyl Tetraisopalmitenum, geur, natriumcitraat, DMDM-hydantoïne, dimethicon / vinyldimethicon-kruispolymeer, chloorfenesine, Hippophae Rhamnoides-zaadolie, limoneen, hexylkaneel, citral, geraniol, alfa-isomethylionon, CI 15985.",
@@ -1431,7 +1774,19 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/careline-c-power-dagcreme",
       "sku": "75274"
     },
-    "identificationLabel": "Schappositie nog te bevestigen"
+    "imageFrame": {
+      "x": 0.01,
+      "y": 0.08,
+      "width": 0.98,
+      "height": 0.837,
+      "aspectRatio": 1.465388152965489
+    },
+    "ean": "7290104969935",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://careline.co.il/c-power-day-cream/"
+    },
+    "imageEdited": true
   },
   {
     "id": 40,
@@ -1441,11 +1796,11 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/careline-retinol-user.png",
+    "image": "images/clean/product-40-v46.png",
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Een zachte en voedende nachtcrème met retinol, dat het natuurlijke vochtgehalte in de huid verhoogt ter voorkoming van rimpels en een droge huid.",
-      "Voordelen volgens de productbeschrijving": "Verbetert de celdeling voor de aanmaak van nieuwe huidcellen; stimuleert de aanmaak van huid-eigen collageen; werkt anti-aging; vermindert ouderdomsvlekken.",
+      "Voordelen volgens de productbeschrijving": "Verbetert de celdeling voor de aanmaak van nieuwe huidcellen; stimuleert de aanmaak van huid eigen collageen; werkt anti aging; vermindert ouderdomsvlekken.",
       "Gebruik": "Gebruik dagelijks in de avond na het schoonmaken van de huid. Breng de benodigde hoeveelheid aan op de huid van gezicht en hals en masseer in tot het is opgenomen."
     },
     "sources": [
@@ -1472,7 +1827,15 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
-    }
+    },
+    "imageFrame": {
+      "x": 0.01,
+      "y": 0.08,
+      "width": 0.98,
+      "height": 0.837,
+      "aspectRatio": 1.465388152965489
+    },
+    "imageEdited": true
   },
   {
     "id": 41,
@@ -1482,7 +1845,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/careline-nachtcreme-user.png",
+    "image": "images/clean/product-41-v45.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Nachtcrème C Power voor de verzorging van gezicht en hals.",
@@ -1492,16 +1855,20 @@ window.KPI_PRODUCTS = [
       {
         "label": "Israelwinkel — Nachtcrème C Power",
         "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
+      },
+      {
+        "label": "Fabrikant — barcode en productvariant",
+        "url": "https://careline.co.il/c-power-night-cream/"
       }
     ],
-    "identificationNote": "Deze online uitvoering is gevonden. De links-rechtspositie van dag- en nachtcrème op de schapfoto is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten volgens leverancier",
-      "text": "Aqua (water), dimethicon, SD-alcohol 40, glycerine, butyleenglycol, bis-PEG/PPG-14/14 dimethicon, caprylylcaprylaat/capraat, ascorbyltetraisopalmitaat, undecaan, glycerth-26, dicaprylylcarbonaat, betaïne, fenoxyethanol, tridecaan, Parfum (Geur), Natriumcitraat, Hyaluronzuur, DMDM Hydantoïne, Dimethicon/Vinyl Dimethicone Crosspolymer, Allantoïne, Bisabolol, Vaccinium Myrtillus Zaadolie, Camellia Sinensis Bladolie, Chloorfenesine, Hippophae Rhamnoides Zaadolie, Limthooneen, Angios Citral, Geraniol, Alfa-Isomethyl Ionon.",
-      "note": "Overgenomen van de vermelde online productpagina; samenstelling kan per verpakkingsversie verschillen.",
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua (Water), Dimethicone, SD Alcohol 40, Glycerin, Butylene Glycol, Bis-PEG/PPG-14/14 Dimethicone, Caprylyl Caprylate/Caprate, Ascorbyl Tetraisopalmitate, Undecane, Glycerth-26, Dicaprylyl Carbonate, Betaine, Phenoxyethanol, Tridecane, Parfum (Fragrance), Sodium Citrate, Hyaluronic Acid, DMDM Hydantoin, Dimethicone/Vinyl Dimethicone Crosspolymer, Allantoin, Bisabolol, Vaccinium Myrtillus Seed Oil, Camellia Sinensis Leaf Oil, Chlorphenesin, Hippophae Rhamnoides Seed Oil, Limonene, Hexyl Cinnamal, Angiozanthos Flavidos Extract, Citral, Geraniol, Alpha-Isomethyl Ionone.",
+      "note": "Volgens de fabrikant voor C Power Night Care 50 ml. Controleer de actuele verpakking bij formulewijzigingen.",
       "source": {
-        "label": "Israelwinkel — ingrediënten",
-        "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme"
+        "label": "Careline — officiële ingrediëntenlijst",
+        "url": "https://careline.co.il/c-power-night-cream/"
       }
     },
     "supplier": {
@@ -1509,7 +1876,19 @@ window.KPI_PRODUCTS = [
       "url": "https://www.israelwinkel.nl/producten/careline-c-power-nachtcreme",
       "sku": "75275"
     },
-    "identificationLabel": "Schappositie nog te bevestigen"
+    "imageFrame": {
+      "x": 0.01,
+      "y": 0.08,
+      "width": 0.98,
+      "height": 0.837,
+      "aspectRatio": 1.465388152965489
+    },
+    "ean": "7290104969928",
+    "barcodeSource": {
+      "label": "Fabrikant — barcode en productvariant",
+      "url": "https://careline.co.il/c-power-night-cream/"
+    },
+    "imageEdited": true
   },
   {
     "id": 42,
@@ -1519,11 +1898,11 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "300 ml",
-    "image": "images/careline-gezichtsreiniger-user.png",
+    "image": "images/clean/product-42.png",
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Gezichtsreiniger met vitamine C in een verpakking met handig pompje.",
-      "Waarom reinigen": "Voor het dagelijks verwijderen van vuil en onzuiverheden, vóór het aanbrengen van dag- of nachtcrème.",
+      "Waarom reinigen": "Voor het dagelijks verwijderen van vuil en onzuiverheden, vóór het aanbrengen van dag of nachtcrème.",
       "Gebruik": "Pomp de benodigde hoeveelheid op de hand. Breng aan op de huid en reinig met ronddraaiende bewegingen. Neem of spoel daarna af met water."
     },
     "sources": [
@@ -1549,6 +1928,13 @@ window.KPI_PRODUCTS = [
     "supplier": {
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger"
+    },
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.3706777316735823
     }
   },
   {
@@ -1559,7 +1945,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "700 ml",
-    "image": "images/crema-munt-user.png",
+    "image": "images/clean/product-43.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar en lichaam met munt.",
@@ -1578,11 +1964,11 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "ean": "7290012117428",
     "imageFrame": {
-      "x": 0.30952380952380953,
-      "y": 0.023809523809523808,
-      "width": 0.38412698412698415,
-      "height": 0.9301587301587302,
-      "aspectRatio": 0.4129692832764505
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.4075993091537133
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -1608,7 +1994,7 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "700 ml",
-    "image": "images/crema-aloe-user.png",
+    "image": "images/clean/product-44-front.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar en lichaam met aloë vera.",
@@ -1642,12 +2028,13 @@ window.KPI_PRODUCTS = [
       "sku": "75286"
     },
     "imageFrame": {
-      "x": 0.3382978723404255,
-      "y": 0.03807106598984772,
-      "width": 0.32127659574468087,
-      "height": 0.9175126903553299,
-      "aspectRatio": 0.41770401106500693
-    }
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.4121863799283154
+    },
+    "imageEdited": true
   },
   {
     "id": 45,
@@ -1657,7 +2044,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-2-in-1-user.jpg",
+    "image": "images/clean/product-45.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo en conditioner voor normaal haar.",
@@ -1674,26 +2061,17 @@ window.KPI_PRODUCTS = [
     "composition": {
       "heading": "Ingrediënten (INCI)",
       "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Phenoxyethanol, Lysine Hydrochloride, Iodopropynyl Butylcarbamate, Rosemary (Rosmarinus Officinalis) Leaf Extract, Lactic Acid, Potassium Sorbate, PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
-      "note": "Overgenomen van het online gefotografeerde etiket. Controleer de verpakkingsversie.",
       "source": {
         "label": "Ground Jerusalem — foto van het etiket",
         "url": "https://groundjerusalem.com/product/hair-care/shampoo/shampoo-and-conditioner-for-normal-hair-2-in-1-with-rosemary-extract-700ml-made-in-israel/"
       }
     },
-    "backLabel": {
-      "image": "images/pinuk-etiket-45.webp",
-      "source": {
-        "label": "Ground Jerusalem — foto van het etiket",
-        "url": "https://groundjerusalem.com/product/hair-care/shampoo/shampoo-and-conditioner-for-normal-hair-2-in-1-with-rosemary-extract-700ml-made-in-israel/"
-      },
-      "note": "Online etiketfoto van de 2-in-1 voor normaal haar."
-    },
     "imageFrame": {
-      "x": 0.3375796178343949,
-      "y": 0.06687898089171974,
-      "width": 0.32643312101910826,
-      "height": 0.8662420382165605,
-      "aspectRatio": 0.37683823529411764
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.36968576709796674
     }
   },
   {
@@ -1704,7 +2082,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-normaal-user.png",
+    "image": "images/clean/product-46.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging en verzorging van normaal haar.",
@@ -1721,26 +2099,17 @@ window.KPI_PRODUCTS = [
     "composition": {
       "heading": "Ingrediënten (INCI)",
       "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Phenoxyethanol, Lysine Hydrochloride, Iodopropynyl Butylcarbamate, Rosemary (Rosmarinus Officinalis) Leaf Extract, Lactic Acid, Potassium Sorbate, PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
-      "note": "Overgenomen van het online gefotografeerde etiket. Controleer de verpakkingsversie.",
       "source": {
         "label": "Ground Jerusalem — foto van het etiket",
         "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-shampoo-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
       }
     },
-    "backLabel": {
-      "image": "images/pinuk-etiket-46.webp",
-      "source": {
-        "label": "Ground Jerusalem — foto van het etiket",
-        "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-shampoo-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
-      },
-      "note": "Online etiketfoto van de playlist-uitvoering voor normaal haar; het ontwerp wijkt af van de voorkant."
-    },
     "imageFrame": {
-      "x": 0.3111111111111111,
+      "x": 0,
       "y": 0,
-      "width": 0.37555555555555553,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.37555555555555553
+      "aspectRatio": 0.36666666666666664
     }
   },
   {
@@ -1751,7 +2120,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-antiroos-user.png",
+    "image": "images/clean/product-47.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor haar en hoofdhuid met roos.",
@@ -1775,11 +2144,11 @@ window.KPI_PRODUCTS = [
       }
     },
     "imageFrame": {
-      "x": 0.35479951397326853,
-      "y": 0.09720534629404617,
-      "width": 0.2976913730255164,
-      "height": 0.8055893074119077,
-      "aspectRatio": 0.3695324283559578
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.36570561456752654
     }
   },
   {
@@ -1790,7 +2159,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-men-3-in-1-user.png",
+    "image": "images/clean/product-48.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar, lichaam en gezicht.",
@@ -1814,11 +2183,11 @@ window.KPI_PRODUCTS = [
       }
     },
     "imageFrame": {
-      "x": 0.34896810506566606,
-      "y": 0.09943714821763602,
-      "width": 0.29831144465290804,
-      "height": 0.8048780487804879,
-      "aspectRatio": 0.3706293706293706
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.36384976525821594
     }
   },
   {
@@ -1829,7 +2198,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-conditioner-droog-user.png",
+    "image": "images/clean/product-49.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging om droog en beschadigd haar zachter en beter doorkambaar te maken.",
@@ -1853,11 +2222,11 @@ window.KPI_PRODUCTS = [
       }
     },
     "imageFrame": {
-      "x": 0.375,
-      "y": 0.17777777777777778,
-      "width": 0.24583333333333332,
-      "height": 0.6611111111111111,
-      "aspectRatio": 0.37184873949579833
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.36363636363636365
     }
   },
   {
@@ -1868,7 +2237,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-conditioner-normaal-user.png",
+    "image": "images/clean/product-50.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging van normaal haar na het wassen.",
@@ -1885,26 +2254,17 @@ window.KPI_PRODUCTS = [
     "composition": {
       "heading": "Ingrediënten (INCI)",
       "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Parfum, Sodium Chloride, Citric Acid, Disodium EDTA, Lysine, Rosemary (Rosemarinus Officinalis) Leaf Extract, Glycerin, Potassium Sorbate, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Dimethyl Palmitamine, Lactic Acid, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
-      "note": "Overgenomen van het online gefotografeerde etiket. Controleer de verpakkingsversie.",
       "source": {
         "label": "Ground Jerusalem — foto van het etiket",
         "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-conditioner-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
       }
     },
-    "backLabel": {
-      "image": "images/pinuk-etiket-50.webp",
-      "source": {
-        "label": "Ground Jerusalem — foto van het etiket",
-        "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-conditioner-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
-      },
-      "note": "Online etiketfoto van de playlist-uitvoering voor normaal haar; het ontwerp wijkt af van de voorkant."
-    },
     "imageFrame": {
-      "x": 0.3545966228893058,
-      "y": 0.09943714821763602,
-      "width": 0.300187617260788,
-      "height": 0.8030018761726079,
-      "aspectRatio": 0.37383177570093457
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.36792452830188677
     }
   },
   {
@@ -1915,7 +2275,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-conditioner-marokkaans-user.png",
+    "image": "images/clean/product-51.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Haarconditioner met Marokkaanse olie.",
@@ -1930,11 +2290,11 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "ean": "7290112499448",
     "imageFrame": {
-      "x": 0.060443764345830146,
-      "y": 0.029333333333333333,
-      "width": 0.39709257842387147,
-      "height": 0.9326666666666666,
-      "aspectRatio": 0.37097927090779126
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.3648745519713262
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -1954,10 +2314,10 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-lavendel-vanille-bewerkt.png",
+    "image": "images/clean/product-52.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Douchecrème met lavendel- en vanillegeur.",
+      "Toepassing": "Douchecrème met lavendel en vanillegeur.",
       "Gebruik": "Op natte huid laten schuimen en goed afspoelen."
     },
     "sources": [
@@ -1979,11 +2339,11 @@ window.KPI_PRODUCTS = [
       }
     },
     "imageFrame": {
-      "x": 0.34609250398724084,
-      "y": 0.10366826156299841,
-      "width": 0.28309409888357256,
-      "height": 0.7982456140350878,
-      "aspectRatio": 0.3546453546453546
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.35370741482965934
     }
   },
   {
@@ -1994,10 +2354,10 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/pinuk-witte-rozen-user.png",
+    "image": "images/clean/product-53.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Douchecrème met witte-rozengeur.",
+      "Toepassing": "Douchecrème met witte rozengeur.",
       "Gebruik": "Op natte huid laten schuimen en goed afspoelen."
     },
     "sources": [
@@ -2018,11 +2378,11 @@ window.KPI_PRODUCTS = [
       }
     },
     "imageFrame": {
-      "x": 0.354,
-      "y": 0.099,
-      "width": 0.294,
-      "height": 0.798,
-      "aspectRatio": 0.3684210526315789
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.36511919698870765
     }
   },
   {
@@ -2033,7 +2393,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-54.jpg",
+    "image": "images/clean/product-54.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
@@ -2051,9 +2411,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.44310638297872346
+      "aspectRatio": 0.4155844155844156
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -2073,7 +2433,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-55.jpg",
+    "image": "images/clean/product-55.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
@@ -2091,9 +2451,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.4348085106382979
+      "aspectRatio": 0.42127659574468085
     },
     "composition": {
       "heading": "Ingrediënten en samenstelling",
@@ -2108,7 +2468,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-56.jpg",
+    "image": "images/clean/product-56.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
@@ -2126,9 +2486,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.4320425531914894
+      "aspectRatio": 0.42021276595744683
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -2148,7 +2508,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-57.jpg",
+    "image": "images/clean/product-57.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
@@ -2166,9 +2526,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.430936170212766
+      "aspectRatio": 0.41595744680851066
     },
     "composition": {
       "heading": "Ingrediënten en samenstelling",
@@ -2183,7 +2543,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-58.jpg",
+    "image": "images/clean/product-58.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo tegen roos met exotisch fruit en calendula.",
@@ -2200,9 +2560,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.421531914893617
+      "aspectRatio": 0.41386782231852653
     },
     "composition": {
       "heading": "Ingrediënten en samenstelling",
@@ -2217,7 +2577,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-59.jpg",
+    "image": "images/clean/product-59.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor droog haar.",
@@ -2234,9 +2594,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.4193191489361702
+      "aspectRatio": 0.4146868250539957
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -2256,7 +2616,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-60.jpg",
+    "image": "images/clean/product-60.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor normaal haar.",
@@ -2273,9 +2633,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.4236421725239617
+      "aspectRatio": 0.4153182308522114
     },
     "composition": {
       "heading": "Ingrediënten en samenstelling",
@@ -2290,7 +2650,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/product-61.jpg",
+    "image": "images/clean/product-61.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Conditioner voor normaal haar.",
@@ -2307,9 +2667,9 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.52,
+      "width": 1,
       "height": 1,
-      "aspectRatio": 0.42429787234042554
+      "aspectRatio": 0.41497326203208557
     },
     "composition": {
       "heading": "Ingrediënten en samenstelling",
@@ -2317,79 +2677,33 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 62,
-    "catalogType": "nonfood",
-    "name": "Kaarsen gekleurde verpakking links",
-    "brand": "",
-    "category": "Kaarsen en accessoires",
-    "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0,
-      "y": 0.4708333333333333,
-      "width": 0.0796875,
-      "height": 0.26458333333333334,
-      "aspectRatio": 0.4015748031496063
-    },
-    "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
-    "composition": {
-      "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
-  },
-  {
     "id": 63,
     "catalogType": "nonfood",
-    "name": "Kaarsen donkerblauwe doos",
-    "brand": "",
+    "name": "Kaarsen en oliecupjes",
+    "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.0921875,
-      "y": 0.5625,
-      "width": 0.1265625,
-      "height": 0.058333333333333334,
-      "aspectRatio": 2.892857142857143
-    },
+    "variant": "2 stuks",
+    "image": "images/clean/product-63.png",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Beschrijving": "Cupjes voor kaarsen en olie, voor gebruik in kandelaars.",
+      "Verpakking": "2 stuks."
+    },
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
       "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
-  },
-  {
-    "id": 64,
-    "catalogType": "nonfood",
-    "name": "Kaarsen lichtblauwe doos",
-    "brand": "",
-    "category": "Kaarsen en accessoires",
-    "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.2265625,
-      "y": 0.55,
-      "width": 0.0984375,
-      "height": 0.05416666666666667,
-      "aspectRatio": 2.423076923076923
     },
-    "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
-    "composition": {
-      "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.5012562814070352
+    },
+    "imageEdited": true
   },
   {
     "id": 74,
@@ -2399,9 +2713,9 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "name": "Herdenkingskaars voor 3 dagen",
     "brand": "Ner Mitzvah",
-    "variant": "1 stuk · 3 dagen",
+    "variant": "3 dagen",
     "ean": "706132281033",
-    "image": "images/ner-mitzvah-3-dagen-user.png",
+    "image": "images/clean/product-74.png",
     "productInfo": {
       "Toepassing": "Herdenkingskaars in een glazen pot.",
       "Brandduur": "Ongeveer 3 dagen."
@@ -2420,8 +2734,14 @@ window.KPI_PRODUCTS = [
         "url": "https://www.judaicaplace.com/3-day-yahrtzeit-memorial-candle-in-glass-cup/706132281033/"
       }
     },
-    "identificationNote": "Toegevoegd op basis van de aangeleverde foto en barcode. De exacte schappositie is nog te bevestigen.",
-    "identificationLabel": "Schappositie nog te bevestigen"
+    "identificationNote": "",
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.62
+    }
   },
   {
     "id": 65,
@@ -2430,8 +2750,8 @@ window.KPI_PRODUCTS = [
     "brand": "Ner Mitzvah",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "1 stuk · 7 dagen",
-    "image": "images/ner-mitzvah-7-dagen-user.png",
+    "variant": "7 dagen",
+    "image": "images/clean/product-65.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Herdenkingskaars in een glazen pot.",
@@ -2452,7 +2772,14 @@ window.KPI_PRODUCTS = [
         "url": "https://www.judaicaplace.com/7-day-memorial-candle-in-glass-cup/706132281071/"
       }
     },
-    "ean": "706132281071"
+    "ean": "706132281071",
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.39
+    }
   },
   {
     "id": 66,
@@ -2462,13 +2789,13 @@ window.KPI_PRODUCTS = [
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "Rood wit en blauw",
-    "image": "images/ner-mitzvah-havdala-user.png",
+    "image": "images/clean/product-66-front-v52.png",
     "imageFrame": {
-      "x": 0.42,
-      "y": 0,
-      "width": 0.16,
-      "height": 1,
-      "aspectRatio": 0.16
+      "x": 0.35220994475138123,
+      "y": 0.0055248618784530384,
+      "width": 0.2955801104972376,
+      "height": 0.9755985267034991,
+      "aspectRatio": 0.10099103350637093
     },
     "allergens": null,
     "productInfo": {
@@ -2490,7 +2817,8 @@ window.KPI_PRODUCTS = [
         "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
       }
     },
-    "ean": "706132200829"
+    "ean": "706132200829",
+    "imageEdited": true
   },
   {
     "id": 67,
@@ -2500,29 +2828,35 @@ window.KPI_PRODUCTS = [
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "Tot 26 uur",
-    "image": "images/menora-herdenkingskaars-retouched.png",
+    "image": "images/clean/product-67.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Herdenkingskaars in een metalen houder.",
       "Brandduur": "Tot 26 uur volgens het etiket."
     },
     "sources": [],
-    "identificationNote": "Product geïdentificeerd op de aangeleverde foto; de exacte positie op het schap is nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
       "note": "Metalen houder. De samenstelling van de kaarswas is nog niet bevestigd."
     },
-    "identificationLabel": "Schappositie nog te bevestigen"
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.693950177935943
+    }
   },
   {
     "id": 68,
     "catalogType": "nonfood",
     "name": "Witte kaarsen",
-    "brand": "",
+    "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "10 stuks · 12 cm",
-    "image": "images/witte-kaarsen-retouched.png",
+    "image": "images/clean/product-68.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Witte tafelkaarsen voor een passende kandelaar.",
@@ -2544,31 +2878,13 @@ window.KPI_PRODUCTS = [
       "name": "Israelwinkel",
       "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm",
       "sku": "93008"
-    }
-  },
-  {
-    "id": 69,
-    "catalogType": "nonfood",
-    "name": "Kaarsen of houders doorzichtige verpakking",
-    "brand": "",
-    "category": "Kaarsen en accessoires",
-    "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.6828125,
-      "y": 0.4708333333333333,
-      "width": 0.10625,
-      "height": 0.09166666666666666,
-      "aspectRatio": 1.5454545454545454
     },
-    "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "Het is niet duidelijk of dit kaarsen, lege houders of een combinatie is.",
-    "composition": {
-      "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    "imageFrame": {
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 2.1639676113360324
     }
   },
   {
@@ -2579,13 +2895,13 @@ window.KPI_PRODUCTS = [
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "10 stuks · 12,5 cm",
-    "image": "images/menora-sabbatskaarsen-user.png",
+    "image": "images/clean/product-70.png",
     "imageFrame": {
-      "x": 0.27,
-      "y": 0.13,
-      "width": 0.49,
-      "height": 0.74,
-      "aspectRatio": 0.6621621621621622
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 0.659217877094972
     },
     "allergens": null,
     "productInfo": {
@@ -2609,51 +2925,20 @@ window.KPI_PRODUCTS = [
     "category": "Kaarsen en accessoires",
     "shelf": 7,
     "variant": "44 stuks · 9,5 cm",
-    "image": "images/menora-chanoekakaarsen-user.png",
+    "image": "images/clean/product-71.png",
     "imageFrame": {
-      "x": 0.04,
-      "y": 0.13,
-      "width": 0.91,
-      "height": 0.75,
-      "aspectRatio": 1.1130434782608696
+      "x": 0,
+      "y": 0,
+      "width": 1,
+      "height": 1,
+      "aspectRatio": 1.1302847282139776
     },
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Doosje met 44 gekleurde kaarsjes voor een chanoekia.",
-      "Afmetingen": "9,5 cm lang; doorsnede 8 mm.",
-      "Toepassing": "Voor de acht avonden van Chanoeka. Elke avond wordt één lichtje meer aangestoken, van één tot acht. De extra kaars, de sjamasj (dienaar), wordt gebruikt om de andere kaarsjes aan te steken.",
-      "Achtergrond": "Chanoeka betekent inwijding en herdenkt de herinwijding van de Tempel. Volgens de overlevering bleef een kleine hoeveelheid olie acht dagen branden."
+      "Afmetingen": "9,5 cm lang; doorsnede 8 mm."
     },
     "sources": [],
-    "identificationNote": "",
-    "composition": {
-      "heading": "Materiaal",
-      "note": "De samenstelling van de kaarswas is nog niet bevestigd."
-    }
-  },
-  {
-    "id": 72,
-    "catalogType": "nonfood",
-    "name": "Chanoekakaarsen blauwe doos rechts",
-    "brand": "",
-    "category": "Kaarsen en accessoires",
-    "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.8640625,
-      "y": 0.6125,
-      "width": 0.0671875,
-      "height": 0.13958333333333334,
-      "aspectRatio": 0.6417910447761194
-    },
-    "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "Deze doos heeft een andere opdruk. Merk, aantal en afmetingen zijn nog te bevestigen.",
-    "composition": {
-      "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
-    }
+    "identificationNote": ""
   }
 ];
