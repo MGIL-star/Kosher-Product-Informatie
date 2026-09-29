@@ -1,0 +1,65 @@
+[
+  {
+    "key": "4-7",
+    "source": "assets/images/meter-4/kvuzat-yavne-sweet-corn.jpg",
+    "path": "assets/images/meter-4/kvuzat-yavne-sweet-corn.jpg",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-c39219cb-86dd-4a12-b1f6-625af08f704e.png",
+    "output": "assets/images/front/product-4-7-frontal.png"
+  },
+  {
+    "key": "4-11",
+    "source": "assets/images/meter-4/kvuzat-yavne-cracked-olives-original-web.png",
+    "path": "assets/images/front/product-4-11.png",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-6cca57ff-1291-4c3c-98b4-54ca70d2dfdc.png",
+    "output": "assets/images/front/product-4-11-frontal.png"
+  },
+  {
+    "key": "4-13",
+    "source": "assets/images/meter-4/kvuzat-yavne-cracked-suri-olives.png",
+    "path": "assets/images/meter-4/kvuzat-yavne-cracked-suri-olives.png",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-ee763877-b8ff-4b35-b789-3e8d6e86297f.png",
+    "output": "assets/images/front/product-4-13-frontal.png"
+  },
+  {
+    "key": "4-27",
+    "source": "assets/images/meter-4/kvuzat-yavne-pitted-kalamata-official.png",
+    "path": "assets/images/meter-4/kvuzat-yavne-pitted-kalamata-official.png",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-3be809ec-e686-4385-b6a8-5c5f690b9908.png",
+    "output": "assets/images/front/product-4-27-frontal.png"
+  },
+  {
+    "key": "4-21",
+    "source": "assets/images/meter-4/kvuzat-yavne-cucumbers-13-17-official.png",
+    "path": "assets/images/meter-4/kvuzat-yavne-cucumbers-13-17-official.png",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-688661d2-3fa1-4f0c-82c5-9208ec492d4e.png",
+    "output": "assets/images/front/product-4-21-frontal.png"
+  },
+  {
+    "key": "4-23",
+    "source": "assets/images/meter-4/elisha-cucumbers-brine-large-7-9.jpg",
+    "path": "assets/images/meter-4/elisha-cucumbers-brine-large-7-9.jpg",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-5ae5defa-c95d-44f9-b63d-9ec1826a0416.png",
+    "output": "assets/images/front/product-4-23-frontal.png"
+  },
+  {
+    "key": "4-19",
+    "source": "assets/images/meter-4/kvuzat-yavne-cucumbers-10-12-medium-user-photo.jpg",
+    "path": "assets/images/front/product-4-19.png",
+    "prompt": "Precise-object-edit: Retouch this exact product can to STRICT EYE LEVEL FRONT view. Top lid surface and pull ring must be completely invisible: upper rim appears as one thin horizontal metal band. Straight vertical symmetrical sides; no tilt, no cast shadow or floor reflection, clean white background. Preserve exact brand, variant, label artwork, wording, colors, weight and can proportions. Do not redesign label or change contents. Entire can visible with margin. Sharp product catalog photograph.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-c1d54c4e-f883-468e-b321-2a86934c0321.png",
+    "output": "assets/images/front/product-4-19-frontal.png"
+  },
+  {
+    "source": "meter-10/images/hadar-animals-kayco-180g-edited.png",
+    "key": "10-3",
+    "prompt": "Precise-object-edit: Straighten this exact Haddar Animal Crackers package into a strict straight-on frontal product photograph. No visible left side panel or barcode panel, no top surface. Front label faces directly forward with vertical sides and horizontal top/bottom. Preserve original pouch shape, all front label text and artwork, logo HADDAR, Animal Crackers, animal illustrations, cookies, 180g. Pure white background, no shadow. Entire package visible, sharp. Do not redesign or add information.",
+    "generated": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-0becaab9-2edd-44b7-886e-6c7da7727c73.png",
+    "output": "assets/images/front/product-10-3-frontal.png"
+  }
+]

@@ -172,11 +172,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-fava-beans-official.png": {
+    "image": "assets/images/front/product-4-26.png",
     "imageBounds": [
-      0.24492,
-      0.13555,
-      0.75508,
-      0.89062
+      0.189792663476874,
+      0.08452950558213716,
+      0.8110047846889952,
+      0.9202551834130781
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-eggplants-in-brine.jpg": {
@@ -204,11 +205,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-sweet-corn.jpg": {
+    "image": "assets/images/front/product-4-7-frontal.png",
     "imageBounds": [
-      0.06934,
-      0.00195,
-      0.92871,
-      0.99707
+      0.0685805422647528,
+      0.049441786283891544,
+      0.9314194577352473,
+      0.9633173843700159
     ]
   },
   "assets/images/meter-4/liebers-hearts-of-palm-043427201353.jpg": {
@@ -237,12 +239,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-cracked-olives-original-web.png": {
-    "image": "assets/images/front/product-4-11.png",
+    "image": "assets/images/front/product-4-11-frontal.png",
     "imageBounds": [
-      0.189793,
-      0.044657,
-      0.810207,
-      0.952153
+      0.189792663476874,
+      0.049441786283891544,
+      0.810207336523126,
+      0.9441786283891547
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-mixed-olives.jpg": {
@@ -255,11 +257,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-cracked-suri-olives.png": {
+    "image": "assets/images/front/product-4-13-frontal.png",
     "imageBounds": [
-      0.09751,
-      0.06634,
-      0.89834,
-      0.93366
+      0.12014453477868112,
+      0.09289232934553132,
+      0.8798554652213189,
+      0.9113300492610837
     ]
   },
   "assets/images/meter-4/shmurei-yavne-pitted-green-olives-catalog.png": {
@@ -281,11 +284,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-pitted-kalamata-official.png": {
+    "image": "assets/images/front/product-4-27-frontal.png",
     "imageBounds": [
-      0.09751,
-      0.06472,
-      0.89834,
-      0.93366
+      0.1102077687443541,
+      0.09148486980999296,
+      0.8897922312556459,
+      0.912033779028853
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-pitted-green-olives-jar.png": {
@@ -329,12 +333,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-cucumbers-10-12-medium-user-photo.jpg": {
-    "image": "assets/images/front/product-4-19.png",
+    "image": "assets/images/front/product-4-19-frontal.png",
     "imageBounds": [
-      0.161085,
-      0.051037,
-      0.838915,
-      0.952153
+      0.16028708133971292,
+      0.06778309409888357,
+      0.8397129186602871,
+      0.9465709728867624
     ]
   },
   "assets/images/meter-4/shmurei-yavne-cucumbers-18-25-catalog.png": {
@@ -355,19 +359,21 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "assets/images/meter-4/elisha-cucumbers-brine-large-7-9.jpg": {
+    "image": "assets/images/front/product-4-23-frontal.png",
     "imageBounds": [
-      0.26,
-      0.01167,
-      0.74333,
-      0.88
+      0.22328548644338117,
+      0.07655502392344497,
+      0.777511961722488,
+      0.9250398724082934
     ]
   },
   "assets/images/meter-4/kvuzat-yavne-cucumbers-13-17-official.png": {
+    "image": "assets/images/front/product-4-21-frontal.png",
     "imageBounds": [
-      0.10788,
-      0.06634,
-      0.90664,
-      0.93528
+      0.11472448057813911,
+      0.09007741027445461,
+      0.8852755194218609,
+      0.9183673469387755
     ]
   },
   "meter-5/images/albadya-amba-clean.png": {
@@ -1723,6 +1729,15 @@ window.KPI_PHOTO_LAYOUT = {
       0.08930323846908735,
       0.5962410887880751,
       0.9136408243375859
+    ]
+  },
+  "meter-10/images/hadar-animals-kayco-180g-edited.png": {
+    "image": "assets/images/front/product-10-3-frontal.png",
+    "imageBounds": [
+      0.038033395176252316,
+      0.01028101439342015,
+      0.9628942486085343,
+      0.9808087731322824
     ]
   }
 };
