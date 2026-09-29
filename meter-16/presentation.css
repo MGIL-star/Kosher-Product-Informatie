@@ -31,3 +31,7 @@
 .identification-note { background: #faf6eb; padding: 1rem; border-radius: .75rem; }
 
 .catalog-intro .draft-notice { font-size: .9rem; color: #715a29; }
+.product-composition p { overflow-wrap: anywhere; line-height: 1.65; }
+.composition-note { color: #695f4f; font-size: .9rem; }
+.back-label img { display: block; max-width: 100%; width: 360px; height: auto; margin: 1rem auto; }
+.back-label a span { display: block; text-align: center; }

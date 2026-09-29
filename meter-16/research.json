@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-28",
+  "checkedAt": "2026-09-29",
   "status": "Concept — niet gepubliceerd",
   "order": "Van boven naar beneden en per plank van links naar rechts. Overlappende foto’s samengevoegd. 72 kaarten zijn waargenomen productposities; onzekere varianten kunnen nog worden samengevoegd.",
   "sourcePhotos": [
@@ -10,7 +10,9 @@
   ],
   "counts": {
     "cards": 72,
-    "pending": 32
+    "pending": 29,
+    "internetPhotos": 44,
+    "shelfPhotos": 28
   },
   "products": [
     {
@@ -359,27 +361,21 @@
     },
     {
       "id": 19,
-      "name": "Product in witte doos met turquoise rand",
+      "name": "Zeep met avocado en aloë vera",
       "brand": "HB",
       "shelf": 3,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "De verpakking lijkt op de minerale zeep van HB. Productnaam, variant en gewicht zijn nog niet voldoende leesbaar om dit te bevestigen.",
+      "variant": "115 g",
+      "status": "online vergeleken",
+      "note": "",
       "sources": [
         {
-          "label": "HB — fabrikant",
-          "url": "https://hbdeadsea.com/"
+          "label": "Israelwinkel — productinformatie",
+          "url": "https://www.israelwinkel.nl/producten/hb-zeep"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.00625,
-        "y": 0.29375,
-        "width": 0.0609375,
-        "height": 0.0875,
-        "aspectRatio": 0.9285714285714286
-      }
+      "image": "images/product-19.jpg",
+      "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/73134%20HB%20zeep%20klein%20bestand-01KKP400Q19EKJJJPNPWRTPVV7.png",
+      "matchingEvidence": "Match op HB-logo, avocado/aloë-afbeelding rechtsboven en turquoise band onderaan; inhoud volgens leverancier."
     },
     {
       "id": 20,
@@ -559,27 +555,21 @@
     },
     {
       "id": 29,
-      "name": "Minerale zeep",
+      "name": "Zeep met Dode Zeemodder",
       "brand": "Shemen Amour",
       "shelf": 3,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "Het gaat om kleine zeepdoosjes; de precieze variant en inhoud zijn niet leesbaar.",
+      "variant": "95 g",
+      "status": "online vergeleken",
+      "note": "",
       "sources": [
         {
-          "label": "Vergelijkingsbron: modderzeep",
+          "label": "Israelwinkel — productinformatie",
           "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
         }
       ],
-      "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.684375,
-        "y": 0.31875,
-        "width": 0.0578125,
-        "height": 0.0875,
-        "aspectRatio": 0.8809523809523809
-      }
+      "image": "images/product-29.jpg",
+      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3765323501.jpg",
+      "matchingEvidence": "De zwarte onderzijde onderscheidt de modderzeep van de witte zoutzeep; logo en landschapsfoto komen overeen."
     },
     {
       "id": 30,
@@ -900,15 +890,9 @@
           "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo-and-conditioner/%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%9E%D7%A8%D7%9B%D7%9A-2-%D7%91-1-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/606404"
         }
       ],
-      "image": "images/product-45.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492463.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.5247765957446808
-      }
+      "image": "images/pinuk-2-in-1-user.jpg",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29",
+      "imageNote": "Oudere verpakking van dezelfde 2-in-1-variant; op aanwijzing gebruiker toegepast."
     },
     {
       "id": 46,
@@ -924,15 +908,8 @@
           "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/604212"
         }
       ],
-      "image": "images/product-46.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492449.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.5247765957446808
-      }
+      "image": "images/pinuk-normaal-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29"
     },
     {
       "id": 47,
@@ -948,15 +925,8 @@
           "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%9C%D7%9E%D7%A0%D7%99%D7%A2%D7%AA-%D7%A7%D7%A9%D7%A7%D7%A9%D7%99%D7%9D/p/628507"
         }
       ],
-      "image": "images/product-47.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290116531250.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.5985
-      }
+      "image": "images/pinuk-antiroos-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29"
     },
     {
       "id": 48,
@@ -972,15 +942,8 @@
           "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%95%D7%A1%D7%91%D7%95%D7%9F-%D7%A4%D7%A0%D7%99%D7%9D-3-%D7%91-1-%D7%9C%D7%92%D7%91%D7%A8-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7/p/603467"
         }
       ],
-      "image": "images/product-48.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492630.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.6266489361702127
-      }
+      "image": "images/pinuk-men-3-in-1-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29"
     },
     {
       "id": 49,
@@ -996,8 +959,8 @@
           "url": "https://supercare.co.il/product/פינוק-מרכך-לשיער-יבש-פגום-700מל"
         }
       ],
-      "image": "images/product-49.jpg",
-      "imageSource": "https://supercare.co.il/wp-content/uploads/2024/08/פינוק-ורוד-בהיר.jpg"
+      "image": "images/pinuk-conditioner-droog-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29"
     },
     {
       "id": 50,
@@ -1013,15 +976,8 @@
           "url": "https://shop.super-pharm.co.il/care/hair-care/conditioner/%D7%9E%D7%A8%D7%9B%D7%9A-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/606405"
         }
       ],
-      "image": "images/product-50.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492531.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.5247765957446808
-      }
+      "image": "images/pinuk-conditioner-normaal-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29"
     },
     {
       "id": 51,
@@ -1037,15 +993,16 @@
           "url": "https://shop.super-pharm.co.il/care/hair-care/conditioner/%D7%9E%D7%A8%D7%9B%D7%9A-%D7%91%D7%AA%D7%95%D7%A1%D7%A4%D7%AA-%D7%A9%D7%9E%D7%9F-%D7%9E%D7%A8%D7%95%D7%A7%D7%90%D7%99/p/620428"
         }
       ],
-      "image": "images/product-51.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112499448.jpg",
+      "image": "images/pinuk-conditioner-marokkaans-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29",
       "imageFrame": {
         "x": 0,
         "y": 0,
-        "width": 0.63,
+        "width": 0.5,
         "height": 1,
-        "aspectRatio": 0.5247765957446808
-      }
+        "aspectRatio": 0.43566666666666665
+      },
+      "imageNote": "Linker fles weergegeven via fotokader; oorspronkelijk bestand met twee flessen ongewijzigd bewaard."
     },
     {
       "id": 52,
@@ -1061,15 +1018,9 @@
           "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%9C%D7%91%D7%A0%D7%93%D7%A8-%D7%95%D7%95%D7%A0%D7%99%D7%9C/p/603471"
         }
       ],
-      "image": "images/product-52.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290112492609.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.5247765957446808
-      }
+      "image": "images/pinuk-lavendel-vanille-bewerkt.png",
+      "imageSource": "Door gebruiker aangeleverde foto, bewerkt met ingebouwde imagegen op 2026-09-29",
+      "imageNote": "Lichtreflectie verwijderd en scherpte verbeterd. Bewerkte productfoto; geen bron voor etikettranscriptie."
     },
     {
       "id": 53,
@@ -1085,15 +1036,8 @@
           "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%91%D7%A0%D7%99%D7%97%D7%95%D7%97-%D7%95%D7%A8%D7%93%D7%99%D7%9D-%D7%9C%D7%91%D7%A0%D7%99%D7%9D-%D7%9E%D7%94%D7%93%D7%95%D7%A8%D7%94-%D7%9E%D7%99%D7%95%D7%97%D7%93%D7%AA/p/648003"
         }
       ],
-      "image": "images/product-53.jpg",
-      "imageSource": "https://superpharmstorage.blob.core.windows.net/hybris/products/desktop/large/7290116533117.jpg",
-      "imageFrame": {
-        "x": 0,
-        "y": 0,
-        "width": 0.63,
-        "height": 1,
-        "aspectRatio": 0.6266489361702127
-      }
+      "image": "images/pinuk-witte-rozen-user.png",
+      "imageSource": "Door gebruiker aangeleverde productfoto op 2026-09-29"
     },
     {
       "id": 54,
@@ -1403,22 +1347,21 @@
     },
     {
       "id": 68,
-      "name": "Kaarsen wit-groene doos",
+      "name": "Witte kaarsen",
       "brand": "",
       "shelf": 7,
-      "variant": "",
-      "status": "nog te bevestigen",
-      "note": "Op de doos staat 10. Merk, type en brandduur zijn nog te bevestigen.",
-      "sources": [],
-      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-      "imageSource": "Eigen schapfoto",
-      "imageFrame": {
-        "x": 0.6671875,
-        "y": 0.6833333333333333,
-        "width": 0.059375,
-        "height": 0.04791666666666667,
-        "aspectRatio": 1.6521739130434783
-      }
+      "variant": "10 stuks · 12 cm",
+      "status": "online vergeleken",
+      "note": "",
+      "sources": [
+        {
+          "label": "Israelwinkel — productinformatie",
+          "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
+        }
+      ],
+      "image": "images/product-68.jpg",
+      "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4523610301.png",
+      "matchingEvidence": "Match op witte doos, groene opdruk met het getal 10 en centraal kandelaarmotief. Afmetingen volgens leverancier."
     },
     {
       "id": 69,
@@ -1496,5 +1439,12 @@
         "aspectRatio": 0.6417910447761194
       }
     }
-  ]
+  ],
+  "supplierConfirmedByUser": "https://www.israelwinkel.nl/categorieen/mooi-gezond",
+  "ingredientsResearch": "ingredients-research.json",
+  "ingredientsSummary": {
+    "onlineLists": 28,
+    "backLabelPhotos": 3,
+    "pendingComposition": 44
+  }
 }

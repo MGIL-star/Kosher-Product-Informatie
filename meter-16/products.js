@@ -26,7 +26,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.sano-international.com/sano/"
       }
     ],
-    "identificationNote": "Het aantal blokken per verpakking is nog te bevestigen."
+    "identificationNote": "Het aantal blokken per verpakking is nog te bevestigen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 2,
@@ -48,7 +52,11 @@ window.KPI_PRODUCTS = [
         "url": "https://sanobg.com/product/jet-universal-gel-with-pine-oil/"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 3,
@@ -69,7 +77,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd."
+    "identificationNote": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 4,
@@ -90,7 +102,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd."
+    "identificationNote": "Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 5,
@@ -111,7 +127,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "2 in 1 is zichtbaar; materiaal, aantal en geschikte oppervlakken zijn nog te bevestigen."
+    "identificationNote": "2 in 1 is zichtbaar; materiaal, aantal en geschikte oppervlakken zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 6,
@@ -132,7 +152,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 7,
@@ -153,7 +177,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De doos vermeldt 6 stuks. Het merk en de precieze gebruiksaanwijzing zijn nog te bevestigen."
+    "identificationNote": "De doos vermeldt 6 stuks. Het merk en de precieze gebruiksaanwijzing zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 8,
@@ -174,7 +202,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 9,
@@ -195,7 +227,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 10,
@@ -217,7 +253,16 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Butyrospermum Parkii (Shea Butter), Capilyc/Capic Triglyceride, Stearic Acid, Cetyl Alcohol, Propylene Glycol, Isopropyl Myristate, Prunus Amygdalus Dulcis (Sweet Almond) oil, Glyceryl Monostearate, Dimethicone, Glycerin, Sorbitan Tristearate, Triethanolamine, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Simmondsia Chinensis (Jojoba) seed oil, Acrylatus /C10-30 Alkyl Acrylate Crosspolymer, Persea Gratissima (Avocado) oil, Olea Europaea (Olive) oil, Phenoxyethanol & Ethylhexylglycerin, Maris Sal (Dead Sea Salt), Imidazolidinyl Urea, Allantoin, Aloe Barbadensis Leaf Extract, Punica Granatum (Pomegranate) seed oil, Lavendula Angustifolia (Lavender) oil, Citrus Medica Limonum Lemon) Peel oil, Tocopheryl Acetate (Vitamin E), Disodium EDTA, BHT, Rosmarinus Officinalis (Rosemary) leaf extract, Alpha-isomethyl ionone, Hdroxycitronellal, Hydroxyisohexyl 3-cyclohexenecarboxaldehyde, Citronellol, Coumarin, Limonene, Linalool, Geraniol.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
+      }
+    }
   },
   {
     "id": 11,
@@ -238,7 +283,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 12,
@@ -259,7 +308,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 13,
@@ -289,7 +342,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-facial-peeling-250ml"
       }
     ],
-    "identificationNote": "De roze gezichtszeep en gezichtsscrub lijken op elkaar. De exacte variant en inhoud op deze foto zijn nog te bevestigen."
+    "identificationNote": "De roze gezichtszeep en gezichtsscrub lijken op elkaar. De exacte variant en inhoud op deze foto zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 14,
@@ -311,7 +368,16 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Isopropylpalmitate, Cetaryl Alcohol &peg-20. Stearate, Glycerin, Glyceryl Stearate, Cyclomethicone Ethylhexyl Methoxycinnamate, allantoin, Chamomilla Recutital (Matricaria)Extract, Hamamelis Virginiana (Witch Hazel)Extract, Fragrance, Imidazolidinyl Urea, Xanthan Gum, Dehudroacetic Acid, Benzoic Acid, Benzyl Alcohol, BHT, Toocopheryl Acetate, Benzophenone-3, Retinyl Palmitate, Aloe Barbadensis Flower Extract, Maris Sal (Dead Sea), Methylchloroisothiazolinone, Methylisothiazolinone.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
+      }
+    }
   },
   {
     "id": 15,
@@ -332,7 +398,16 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Triethanolamine, Carbomer, Stearic Acid, Oleic Acid, Vitis Vinifera (Grape) Seed oil, Shea (Butyrospermum Parkii) Butter, Sorbic Acid, Glycerin, Cetyl Alcohol, Benzyl Alcohol, Lanolin, Mentha Piperita (Peppermint) Leaf Extract, Fragrance, Persea Grattissmima (Avocado) Oil, Tetrasodium Edta, Aloe Barbadensis Leaf Juice, Seaweed Extract, Olea Europaea (Olive) Fruit oil, Calendula Officinalis Flower Extract, Punica Granatum (Pomegranate) Peel Extract, Lavendula Angustifolia (Lavender) Oil, Pogostemon Cablin (Patchouli) Oil, Cocos Nucifera (Coconut) Oil, Mel (Honey), Vanilla Planifolia Fruit Extract, Theobroma Cacao Seed Butter, Maris Sal (Dead Sea Salt) Tocopheryl Acetate (VitaminE), Melaleuca Alternifolia (Tea Tree) Leaf Oil, Panthenol, Magnesium Ascorbyl Phosphate.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
+      }
+    }
   },
   {
     "id": 16,
@@ -353,7 +428,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De precieze geur en inhoud van deze bodylotion zijn nog te bevestigen."
+    "identificationNote": "De precieze geur en inhoud van deze bodylotion zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 17,
@@ -375,7 +454,16 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Maris Limus, Helianthus Annus (Sunflower) Seed Oil, Benzyl Alcohol, Sorbic Acid, Fragrance",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Experience Israel — ingrediënten",
+        "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html"
+      }
+    }
   },
   {
     "id": 18,
@@ -397,33 +485,42 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "100% Dode Zee Zout",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Experience Israel — ingrediënten",
+        "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html"
+      }
+    }
   },
   {
     "id": 19,
     "catalogType": "nonfood",
-    "name": "Product in witte doos met turquoise rand",
+    "name": "Zeep met avocado en aloë vera",
     "brand": "HB",
     "category": "Huidverzorging",
     "shelf": 3,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.00625,
-      "y": 0.29375,
-      "width": 0.0609375,
-      "height": 0.0875,
-      "aspectRatio": 0.9285714285714286
-    },
+    "variant": "115 g",
+    "image": "images/product-19.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Zeep voor het reinigen van gezicht en lichaam.",
+      "Gebruik": "Op de vochtige huid laten schuimen en met water afspoelen."
+    },
     "sources": [
       {
-        "label": "HB — fabrikant",
-        "url": "https://hbdeadsea.com/"
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/hb-zeep"
       }
     ],
-    "identificationNote": "De verpakking lijkt op de minerale zeep van HB. Productnaam, variant en gewicht zijn nog niet voldoende leesbaar om dit te bevestigen."
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 20,
@@ -448,7 +545,16 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/hb-bodybutter-lavendel"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Stearic Acid, Glycerin, Paraffinum Liquidum, Cetearyl Alcohol, Peg-20 Stearate, Isopropyl Myristate, Propylene Glycol, Glyceryl Stearate Se, Cetyl Alcohol, Phenoxyethanol, Caprylyl Glycol, Cetearyl Ethylhexanoate, Dimethicone, Triethanolamine, Butyrospermum Parkii Butter, Carbomer, Cetyl Esters, Bht, Olea Europaea Fruit Oil, Persea Gratissima Oil, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Cucurbita Pepo Seed Oil, Argania Spinosa Kernel Oil, Panthenol, Ascorbic Acid, Tocopheryl Acetate, Sweet Almond Oil, Maris Sal, Melaleuca Alternifolia Leaf Oil, Mentha Arvensis Leaf Oil, Anthemis Nobilis Flower Oil, Lavandula Angustifolia Oil, Calendula Officinalis Oil, Benzyl Alcohol, Ci 15985, Perfume.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "HB — ingrediënten fabrikant",
+        "url": "https://hbdeadsea.com/products/aromatic-body-butter"
+      }
+    }
   },
   {
     "id": 21,
@@ -470,7 +576,16 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/products/hands-nails-cream"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Alpha-Isomethyl Ionone, Argania Spinosa Kernel Oil, Calendula Officinalis Flower Extract, Cetyl Alcohol, Cetearyl Alcohol, Cyclopentasiloxane, Coumarin, Daucus Carota Sativa Seed Oil, Ethylhexyl Methoxycinnamate, Glyceryl Stearate, Geraniol, Glucerine, Helianthus Annuus Seed Oil, Hippophae Rhamnoides Fruit Oil, Honey, Lavender Oil, Limonene, Linalool, Maris Sal, Melaleuca Alternifolia Leaf Oil, Mentha Arvensis Herb Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Pomegranate Seed Oil, Retinyl Palmitate, Tocopherol, Tocopheryl Acetate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Shea Butter, Sodium Lauryl Sulfate, Parfum, Paraffinum Liquidum, PEG-20 Stearate, Phenoxyethanol.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "HB — ingrediënten fabrikant",
+        "url": "https://hbdeadsea.com/products/hands-nails-cream"
+      }
+    }
   },
   {
     "id": 22,
@@ -492,7 +607,11 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/products/intensive-hand-nail-cream-enriched-with-avocado-oil-aloe-vera"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 23,
@@ -514,7 +633,11 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/products/multi-vitamin-treatment-anti-crack-foot-cream-2"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 24,
@@ -536,7 +659,11 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/products/intensive-treatment-anti-crack-foot-cream-enriched-with-avocado-oil-aloe-vera"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 25,
@@ -554,15 +681,20 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
-        "label": "HB — fabrikant",
-        "url": "https://hbdeadsea.com/products/aloe-vera-gel"
-      },
-      {
         "label": "Israel Producten Centrum",
         "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Glycerin, Cetyl alcohol, Cetearyl Alcohol, Paraffinum Liquidum, Isopropyl Myristate, Glyceryl Stearate, Hydrogenated coconut oil, PEG-20 Stearate, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Sodium Lauryl Sulfate, Cyclopentasiloxane, Caprylyl Glycol, Ethylhexyl Methoxycinnamate, Ascorbic acid (Vitamin C), Tocopheryl Acetate (Vitamin E), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Panthenol, Persea Gratissima (Avocado) Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Olea Europaea (Olive) Fruit Oil, Argania Spinosa Kernel Oil, Lavender Oil, Cucurbita Pepo (Pumpkin) Seed Oil, Honey, Maris sal (Sea Salt), Retinyl Palmitate (Vitamin A), Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Punica Granatum (Pomegranate) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Arvensis ( Mint) Herb Oil, Tocopherol, Daucus Carota Sativa (Carrot) Seed Oil, Anthemis Nobilis (Chamomile) Flower Oil, Helianthus Annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Parfum",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+      }
+    }
   },
   {
     "id": 26,
@@ -588,7 +720,16 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/hb-douchegel-met-lavendel"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum, Propylene Glycol, Sodium Benzoate, Aloe Barbadensis Leaf Juice, Persea Gratissima (Avocado) Oil, Maris Sal, Dimethicone, Glycol Distearate, Laureth-4, Formic Acid, Camellia Sinensis Leaf Extract, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Sesamum Indicum (Sesame) Seed Oil, Sodium Chloride, Anthemis Nobilis Flower Extract, Vitis Vinifera (Grape) Seed Oil, Citric Acid, Olea Europaea (Olive) Fruit Oil, Carica Papaya Fruit Extract, Potassium Sorbate, Punica Granatum (Pomegranate) Extract, Benzyl Alcohol, Butyrospermum Parkii (Shea) Butter, Panthenol, Ascorbic Acid, Argania Spinosa Kernel Oil, Cocos Nucifera (Coconut) Oil, Mel Extract, Hippophae Rhamnoides (Sea Buckthorn) Oil, Rosa Canina Fruit Oil, Glycine Soja Oil, Calendula Officinalis Flower Oil, Triticum Vulgare (Wheat) Germ Oil, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Helianthus Annuus (Sunflower) Seed Oil, Daucus Carota Sativa (Carrot) Oil, Tocopheryl Acetate, Silt (Dead Sea Mud), Triethylene Glycol, Ci 14700, Ci 42090.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "HB — ingrediënten fabrikant",
+        "url": "https://hbdeadsea.com/products/moisture-rich-shower-cream-lavender"
+      }
+    }
   },
   {
     "id": 27,
@@ -618,7 +759,11 @@ window.KPI_PRODUCTS = [
         "url": "https://cosmetics-israel.com/en/product/shemen-amour-hair-conditioner-argan-oil-from-morocco/"
       }
     ],
-    "identificationNote": "De arganreeks is herkenbaar; shampoo of conditioner en inhoud zijn nog te bevestigen."
+    "identificationNote": "De arganreeks is herkenbaar; shampoo of conditioner en inhoud zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 28,
@@ -639,33 +784,46 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
       }
     ],
-    "identificationNote": "De inhoud van de gefotografeerde fles is nog te bevestigen."
+    "identificationNote": "De inhoud van de gefotografeerde fles is nog te bevestigen.",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium Coceth Sulfate, Cocamidopropyl Betaine, Cocamide dEA, Hydrolyzed Karatin, Polyquaternium-7, Stearamidopropyl, Dimethylamine Lactate, Fragrance, Sea Silt (Dead Sea Mud), Dead Sea Mineral Water, Persea Gratissima(Avocado) Oil, Tocopheryl Acetate, Citic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Oxide Black",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Experience Israel — ingrediënten",
+        "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
+      }
+    }
   },
   {
     "id": 29,
     "catalogType": "nonfood",
-    "name": "Minerale zeep",
+    "name": "Zeep met Dode Zeemodder",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 3,
-    "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
-    "imageFrame": {
-      "x": 0.684375,
-      "y": 0.31875,
-      "width": 0.0578125,
-      "height": 0.0875,
-      "aspectRatio": 0.8809523809523809
-    },
+    "variant": "95 g",
+    "image": "images/product-29.jpg",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Zeep met Dode Zeemodder voor reiniging van de huid."
+    },
     "sources": [
       {
-        "label": "Vergelijkingsbron: modderzeep",
+        "label": "Israelwinkel — productinformatie",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
       }
     ],
-    "identificationNote": "Het gaat om kleine zeepdoosjes; de precieze variant en inhoud zijn niet leesbaar."
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Sodium Palmate, Sodium Palmate Kernelate, Water, Sodium Chloride, Glycerine, Tetrasodium Etidronate, Tetrasodium EDTA, Water, Maris Limus, Maris Sal, Hamamelis Virginia Water.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
+      }
+    }
   },
   {
     "id": 30,
@@ -687,7 +845,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 31,
@@ -713,7 +875,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-set-shampoo-en-aftershave"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 32,
@@ -739,7 +905,11 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/"
       }
     ],
-    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen."
+    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 33,
@@ -765,7 +935,11 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/"
       }
     ],
-    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen."
+    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 34,
@@ -791,7 +965,11 @@ window.KPI_PRODUCTS = [
         "url": "https://hbdeadsea.com/"
       }
     ],
-    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen."
+    "identificationNote": "De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 35,
@@ -813,7 +991,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/brands/careline/"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 36,
@@ -835,7 +1017,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/brands/careline/"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 37,
@@ -857,7 +1043,11 @@ window.KPI_PRODUCTS = [
         "url": "https://www.experienceisrael.eu/nl/brands/careline/"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+    }
   },
   {
     "id": 38,
@@ -884,7 +1074,16 @@ window.KPI_PRODUCTS = [
       }
     ],
     "identificationNote": "",
-    "ean": "7290104965111"
+    "ean": "7290104965111",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Homosalate, Glycerin, Styrene/Acrylates Copolymer, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Butylene Glycol, Carbomer, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Sodium Lactate, Octocrylene, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Cetearyl Glucoside, Cyclopentasiloxane, Dimethicone, Phenoxyethanol, Ethylhexylglycerin, Potassium Cetyl Phosphate, Hydrogenated Palm Glyceride, Diethylhexyl 2,6-Naphthalate, Behenyl Alcohol, Silica, Fragrance, Xanthan Gum,Triethanolamine, Disodium EDTA, Tocopheryl Acetate (Vitamin E), Bisabolol, Panthenol (Pro-Vitamin B5), BHT, CI 17200, CI 42090.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Terminal X — ingrediënten",
+        "url": "https://www.terminalx.com/brands/careline/W95234"
+      }
+    }
   },
   {
     "id": 39,
@@ -910,7 +1109,11 @@ window.KPI_PRODUCTS = [
         "url": "https://careline.co.il/c-power/"
       }
     ],
-    "identificationNote": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd."
+    "identificationNote": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 40,
@@ -933,7 +1136,16 @@ window.KPI_PRODUCTS = [
       }
     ],
     "identificationNote": "",
-    "ean": "7290104965104"
+    "ean": "7290104965104",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Dimethicone, Dimethicone Crosspolymer, Dimethiconol, Glycerin, Niacinamide, Tapioca Starch, Retinyl Palmitate, BHT, Tricaprylin, Polymethyl Methacrylate, Polyacrylamide, C13-14 Isoparaffin , Laureth-7, Phenoxyethanol, Ethylhexylglycerin, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Polymethylsilsesquioxane, Disodium EDTA, Aminomethyl Propanol, Tocopheryl Acetate (Vitamin E), CI 77891, CI 15985, CI 47005.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Careline — ingrediënten fabrikant",
+        "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
+      }
+    }
   },
   {
     "id": 41,
@@ -959,7 +1171,11 @@ window.KPI_PRODUCTS = [
         "url": "https://careline.co.il/c-power/"
       }
     ],
-    "identificationNote": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd."
+    "identificationNote": "De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.",
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+    }
   },
   {
     "id": 42,
@@ -981,7 +1197,16 @@ window.KPI_PRODUCTS = [
         "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
       }
     ],
-    "identificationNote": ""
+    "identificationNote": "",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Sodium Lauroyl Glutamate, Hydroxypropyl Methylcellulose, Parfum, Propylene Glycol, Glutamic Acid, DMDM Hydantoin, Lauric Acid, Citric Acid, Allantoin, Ascorbyl Tetraisopalmitate, Benzophenone-4, Menthyl Lactate, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Lime (Citrus Aurantifolia) Juice, Citrus Paradisi Juice, Butylene Glycol, Matricaria (Chamomilla Recutita) Flower Extract, Methylisothiazolinone, Sodium Benzoate, Glucose, Lactic Acid, Potassium Sorbate, CI 15985, CI 17200, Bisabolol, Limonene, Linalool, Hexyl Cinnamal.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Careline — ingrediënten fabrikant",
+        "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
+      }
+    }
   },
   {
     "id": 43,
@@ -1011,6 +1236,15 @@ window.KPI_PRODUCTS = [
       "width": 0.56,
       "height": 1,
       "aspectRatio": 0.5194893617021277
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, PEG-60 Almond Glycerides, Parfum, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Benzyl Alcohol, Citric Acid ,Panthenol, Disodium EDTA, Menthol ,Tocopheryl Acetate ,Imperata Cyilindrica Root Extract, PEG-8, Carbomer, Coumarin, Hexyl Cinnamal ,Linalool CI 42090.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290012117428"
+      }
     }
   },
   {
@@ -1034,7 +1268,16 @@ window.KPI_PRODUCTS = [
       }
     ],
     "identificationNote": "",
-    "ean": "7290012117435"
+    "ean": "7290012117435",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, PEG-60 Almond Glycerides, Parfum, Sodium Chloride, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Benzyl Alcohol, Panthenol, Tocopheryl Acetate, Disodium EDTA, Propylene Glycol, Imperata Cyilindrica Root Extract, PEG–8, Carbomer, Phenoxyethanol, Aloe Barbadensis Leaf Juice Powder ,Lactic Acid, Potassium Sorbate, Sodium Citrate, Biotin, Linalool, Limonene, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Citral, Coumarin, CI 47005, CI 42090.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290012117435"
+      }
+    }
   },
   {
     "id": 45,
@@ -1044,7 +1287,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-45.jpg",
+    "image": "images/pinuk-2-in-1-user.jpg",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo en conditioner voor normaal haar.",
@@ -1058,12 +1301,22 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "ean": "7290112492463",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.5247765957446808
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Phenoxyethanol, Lysine Hydrochloride, Iodopropynyl Butylcarbamate, Rosemary (Rosmarinus Officinalis) Leaf Extract, Lactic Acid, Potassium Sorbate, PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
+      "note": "Overgenomen van het online gefotografeerde etiket. Controleer de verpakkingsversie.",
+      "source": {
+        "label": "Ground Jerusalem — foto van het etiket",
+        "url": "https://groundjerusalem.com/product/hair-care/shampoo/shampoo-and-conditioner-for-normal-hair-2-in-1-with-rosemary-extract-700ml-made-in-israel/"
+      }
+    },
+    "backLabel": {
+      "image": "images/pinuk-etiket-45.webp",
+      "source": {
+        "label": "Ground Jerusalem — foto van het etiket",
+        "url": "https://groundjerusalem.com/product/hair-care/shampoo/shampoo-and-conditioner-for-normal-hair-2-in-1-with-rosemary-extract-700ml-made-in-israel/"
+      },
+      "note": "Online etiketfoto van de 2-in-1 voor normaal haar."
     }
   },
   {
@@ -1074,7 +1327,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-46.jpg",
+    "image": "images/pinuk-normaal-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging en verzorging van normaal haar.",
@@ -1088,12 +1341,22 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "ean": "7290112492449",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.5247765957446808
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Phenoxyethanol, Lysine Hydrochloride, Iodopropynyl Butylcarbamate, Rosemary (Rosmarinus Officinalis) Leaf Extract, Lactic Acid, Potassium Sorbate, PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
+      "note": "Overgenomen van het online gefotografeerde etiket. Controleer de verpakkingsversie.",
+      "source": {
+        "label": "Ground Jerusalem — foto van het etiket",
+        "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-shampoo-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
+      }
+    },
+    "backLabel": {
+      "image": "images/pinuk-etiket-46.webp",
+      "source": {
+        "label": "Ground Jerusalem — foto van het etiket",
+        "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-shampoo-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
+      },
+      "note": "Online etiketfoto van de playlist-uitvoering voor normaal haar; het ontwerp wijkt af van de voorkant."
     }
   },
   {
@@ -1104,7 +1367,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-47.jpg",
+    "image": "images/pinuk-antiroos-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor haar en hoofdhuid met roos.",
@@ -1118,23 +1381,25 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "ean": "7290116531250",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.5985
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Parfum, Sodium Chloride, Phenoxyethanol, Carbomer, Dimethiconol, Sodium Salicylate, Piroctone Olamine, Sodium Hydroxide, Citric acid, Guar Hydroxypropyltrimonium Chloride, Mica, Glycerin, Titanium Dioxide, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Sodium Benzoate, Lysine HCl, Tocopheryl Acetate, Ethoxydiglycol, Propylene Glycol, Lodopropynyl Butylcarbamate, Butylene Glycol, Lactic Acid, Glucose, Achillea Millefolium Extract, Chamomilla Recutita (Matricaria) Flower Extract, Salvia Officinalis (Sage) Leaf Extract, Melissa Officinalis Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Ononis Spinosa Root Extract, Equisetum Arvense Extract, Tussilago Farfara (Coltsfoot) Leaf Extract, Thymus Serpillum Extract, Potassium Sorbate, Althaea Officinalis Root Extract, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290116531250"
+      }
     }
   },
   {
     "id": 48,
     "catalogType": "nonfood",
-    "name": "Shampoo en douchegel voor mannen 3 in 1",
+    "name": "Shampoo douchegel en gezichtsreiniger met munt 3 in 1",
     "brand": "Pinuk",
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-48.jpg",
+    "image": "images/pinuk-men-3-in-1-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar, lichaam en gezicht.",
@@ -1142,18 +1407,20 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
-        "label": "Super-Pharm Israël",
-        "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%95%D7%A1%D7%91%D7%95%D7%9F-%D7%A4%D7%A0%D7%99%D7%9D-3-%D7%91-1-%D7%9C%D7%92%D7%91%D7%A8-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7/p/603467"
+        "label": "Super-Pharm Israël — muntvariant",
+        "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%95%D7%A1%D7%91%D7%95%D7%9F-%D7%A4%D7%A0%D7%99%D7%9D-3-%D7%91-1-%D7%9C%D7%92%D7%91%D7%A8-%D7%9E%D7%A0%D7%98%D7%94/p/674192"
       }
     ],
     "identificationNote": "",
-    "ean": "7290112492630",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.6266489361702127
+    "ean": "7290116534879",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Sodium Benzoate, Parfum, Carbomer, Sodium Hydroxide, Citric Acid, Mica,Polyquaternium-10, Tetrasodium EDTA, Sodium Acetate, Isopropyl Alcohol, Propylene Glycol, Sodium Sulfate, Mentha Piperita (Peppermint) Leaf Extract, Glucose, Lactic Acid, Potassium Sorbate, CI 77891, CI 42090, CI 47005, Coumarin, Limonene, Linalool.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290116534879"
+      }
     }
   },
   {
@@ -1164,7 +1431,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-49.jpg",
+    "image": "images/pinuk-conditioner-droog-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging om droog en beschadigd haar zachter en beter doorkambaar te maken.",
@@ -1177,7 +1444,16 @@ window.KPI_PRODUCTS = [
       }
     ],
     "identificationNote": "",
-    "ean": "7290112492548"
+    "ean": "7290112492548",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Fragrance, Sodium Chloride, Cirtic acid, Disodium EDTA ,Lysine, Shea Butter (Butyrospermum Parkii), Caprylic/Capric Triglyceride, BHT, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290112492548"
+      }
+    }
   },
   {
     "id": 50,
@@ -1187,7 +1463,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-50.jpg",
+    "image": "images/pinuk-conditioner-normaal-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging van normaal haar na het wassen.",
@@ -1201,12 +1477,22 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "ean": "7290112492531",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.5247765957446808
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Parfum, Sodium Chloride, Citric Acid, Disodium EDTA, Lysine, Rosemary (Rosemarinus Officinalis) Leaf Extract, Glycerin, Potassium Sorbate, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Dimethyl Palmitamine, Lactic Acid, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene.",
+      "note": "Overgenomen van het online gefotografeerde etiket. Controleer de verpakkingsversie.",
+      "source": {
+        "label": "Ground Jerusalem — foto van het etiket",
+        "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-conditioner-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
+      }
+    },
+    "backLabel": {
+      "image": "images/pinuk-etiket-50.webp",
+      "source": {
+        "label": "Ground Jerusalem — foto van het etiket",
+        "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-conditioner-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
+      },
+      "note": "Online etiketfoto van de playlist-uitvoering voor normaal haar; het ontwerp wijkt af van de voorkant."
     }
   },
   {
@@ -1217,7 +1503,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-51.jpg",
+    "image": "images/pinuk-conditioner-marokkaans-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Haarconditioner met Marokkaanse olie.",
@@ -1234,9 +1520,18 @@ window.KPI_PRODUCTS = [
     "imageFrame": {
       "x": 0,
       "y": 0,
-      "width": 0.63,
+      "width": 0.5,
       "height": 1,
-      "aspectRatio": 0.5247765957446808
+      "aspectRatio": 0.43566666666666665
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Fragrance, Sodium Chloride, Cirtic acid, Disodium EDTA, Lysine, Argaia Spinosa Oil, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Geraniol, Limonene, Linalool.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290112499448"
+      }
     }
   },
   {
@@ -1247,7 +1542,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-52.jpg",
+    "image": "images/pinuk-lavendel-vanille-bewerkt.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchecrème met lavendel- en vanillegeur.",
@@ -1261,12 +1556,15 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "ean": "7290112492609",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.5247765957446808
+    "imageEdited": true,
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamide MEA, Acrylates Copolymer, Glycerin, Fragrance, Styrene/Acrylates Copolymer, Sodium Lauryl Sulfate, Sodium Chloride, Sodium Benzoate, Tetrasodium EDTA, Citric Acid, Sodium Hydroxide, Tocopheryl Acetate, PEG-40 Hydrogenated Castor Oil, Trideceth–9, Paullinia Cupana Seed Extract, 1,2-Hexanediol, Actinidia Chinensis (Kiwi) Fruit Juice, Caprylyl Glycol, Citrus Aurantifolia (Lime) Juice, Nonfat Dry Milk (Sine Adipe Lac), Wine Extract, Vanilla Planifolia Fruit Extract, Cocos Nucifera (Coconut) Fruit Extract, Propylene Glycol, Alcohol, Disodium EDTA, Lavendula Angustifolia (Lavender) Flower Extract, Lactic Acid, Potassium Sorbate, Glucose, PPG–9, Butylphenyl Methylpropional, Citronellol, Coumarin, Geraniol, Limonene, Linalool, CI 17200, CI 42090.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290112492609"
+      }
     }
   },
   {
@@ -1277,7 +1575,7 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 5,
     "variant": "700 ml",
-    "image": "images/product-53.jpg",
+    "image": "images/pinuk-witte-rozen-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchecrème met witte-rozengeur.",
@@ -1291,12 +1589,14 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "ean": "7290116533117",
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.63,
-      "height": 1,
-      "aspectRatio": 0.6266489361702127
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamide MEA, Glycerin, Sodium Chloride, Styrene/Acrylates Copolymer, Parfum, Acrylates Copolymer, Citric Acid, Sodium Lauryl Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Tocopheryl Acetate, PPG-9, Sodium Benzoate, Geraniol, Hexyl Cinnamal, Limonene, Linalool.",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290116533117"
+      }
     }
   },
   {
@@ -1328,6 +1628,15 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.44310638297872346
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua (Water, Eau), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, PEG-7 Glyceryl Cocoate, Parfum (Fragrance), Glycol Distearate, Citric Acid, Sodium Benzoate, Hydrogenated Castor Oil, Sodium Salicylate, Laureth-2, Propylene Glycol, PEG–55 Propylene Glycol Oleate, Hexyl Cinnamal, Benzyl Alcohol, Yogurt, Geraniol, Guar Hydroxypropyltrimonium Chloride, Hexyl Salicylate, Glyceryl Oleate, Citronellol, Eugenol, Citral, Amyl Cinnamal, Benzyl Benzoate, Cinnamyl Alcohol, Limonene, Isoeugenol, Linalool",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290117860380"
+      }
     }
   },
   {
@@ -1359,6 +1668,10 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.4348085106382979
+    },
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket."
     }
   },
   {
@@ -1390,6 +1703,15 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.4320425531914894
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua (Water, Eau), Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, PEG-7 Glyceryl Cocoate, Parfum (Fragrance), Glycol Distearate, Citric Acid, Sodium Benzoate, Hydrogenated Castor Oil, Sodium Salicylate, Laureth-2, Propylene Glycol, PEG–55 Propylene Glycol Oleate, Limonene, Yogurt, Guar Hydroxypropyltrimonium Chloride, Coumarin, Hexyl Cinnamal, Glyceryl Oleate, Glycerin, Citronellol, Linalool, Benzyl Alcohol, Geraniol, Amyl Cinnamal",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290117860946"
+      }
     }
   },
   {
@@ -1421,6 +1743,10 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.430936170212766
+    },
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket."
     }
   },
   {
@@ -1451,6 +1777,10 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.421531914893617
+    },
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket."
     }
   },
   {
@@ -1481,6 +1811,15 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.4193191489361702
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua (Water, Eau), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Benzoate, Glycol Distearate, Coco-Glucoside, Glyceryl Oleate, PEG-7 Glyceryl Cocoate, Citric Acid, Parfum (Fragrance), Hydroxypropyl Guar Hydroxypropyltrimonium Chloride, Rosa Canina Fruit Oil, Macadamia Ternifolia Seed Oil, Hydrogenated Castor Oil, Hexyl Cinnamal, Citronellol, Geraniol, Glycerin, Benzyl Alcohol",
+      "note": "Online ingrediëntenlijst; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Seker Shook — ingrediënten bij deze barcode",
+        "url": "https://www.sekershook.com/p/7290117860199"
+      }
     }
   },
   {
@@ -1511,6 +1850,10 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.4236421725239617
+    },
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket."
     }
   },
   {
@@ -1541,6 +1884,10 @@ window.KPI_PRODUCTS = [
       "width": 0.52,
       "height": 1,
       "aspectRatio": 0.42429787234042554
+    },
+    "composition": {
+      "heading": "Ingrediënten en samenstelling",
+      "note": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket."
     }
   },
   {
@@ -1562,7 +1909,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 63,
@@ -1583,7 +1934,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 64,
@@ -1604,7 +1959,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden."
+    "identificationNote": "De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 65,
@@ -1628,7 +1987,11 @@ window.KPI_PRODUCTS = [
       "Brandduur": "7 dagen vermeld op de verpakking."
     },
     "sources": [],
-    "identificationNote": "Het merk en de barcode van deze specifieke verpakking zijn nog te bevestigen."
+    "identificationNote": "Het merk en de barcode van deze specifieke verpakking zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 66,
@@ -1649,7 +2012,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "De kleine blauwe doosjes zijn te onscherp om de inhoud betrouwbaar te herkennen."
+    "identificationNote": "De kleine blauwe doosjes zijn te onscherp om de inhoud betrouwbaar te herkennen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 67,
@@ -1670,28 +2037,37 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen."
+    "identificationNote": "Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 68,
     "catalogType": "nonfood",
-    "name": "Kaarsen wit-groene doos",
+    "name": "Witte kaarsen",
     "brand": "",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-    "imageFrame": {
-      "x": 0.6671875,
-      "y": 0.6833333333333333,
-      "width": 0.059375,
-      "height": 0.04791666666666667,
-      "aspectRatio": 1.6521739130434783
-    },
+    "variant": "10 stuks · 12 cm",
+    "image": "images/product-68.jpg",
     "allergens": null,
-    "productInfo": {},
-    "sources": [],
-    "identificationNote": "Op de doos staat 10. Merk, type en brandduur zijn nog te bevestigen."
+    "productInfo": {
+      "Toepassing": "Witte tafelkaarsen voor een passende kandelaar.",
+      "Afmetingen": "12 cm hoog en 12 mm in diameter."
+    },
+    "sources": [
+      {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
+      }
+    ],
+    "identificationNote": "",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 69,
@@ -1712,7 +2088,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Het is niet duidelijk of dit kaarsen, lege houders of een combinatie is."
+    "identificationNote": "Het is niet duidelijk of dit kaarsen, lege houders of een combinatie is.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 70,
@@ -1733,7 +2113,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Merk, aantal en brandduur zijn nog te bevestigen."
+    "identificationNote": "Merk, aantal en brandduur zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 71,
@@ -1754,7 +2138,11 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Chanoekakaarsen zijn herkenbaar. Merk, aantal en afmetingen zijn nog te bevestigen."
+    "identificationNote": "Chanoekakaarsen zijn herkenbaar. Merk, aantal en afmetingen zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   },
   {
     "id": 72,
@@ -1775,6 +2163,10 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {},
     "sources": [],
-    "identificationNote": "Deze doos heeft een andere opdruk. Merk, aantal en afmetingen zijn nog te bevestigen."
+    "identificationNote": "Deze doos heeft een andere opdruk. Merk, aantal en afmetingen zijn nog te bevestigen.",
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    }
   }
 ];

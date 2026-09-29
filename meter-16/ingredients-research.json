@@ -1,0 +1,658 @@
+{
+  "updated": "2026-09-29",
+  "note": "Online lijsten en online etiketfoto’s zijn bronnen, geen verificatie van het fysieke winkel-exemplaar. Ontbrekende of beschadigde lijsten zijn niet aangevuld door te gokken.",
+  "products": [
+    {
+      "id": 1,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Sano — fabrikant",
+          "url": "https://www.sano-international.com/sano/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Sano — productinformatie",
+          "url": "https://sanobg.com/product/jet-universal-gel-with-pine-oil/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 4,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 5,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 6,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 7,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 8,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 9,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 10,
+      "status": "online-list",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera",
+      "checked": "2026-09-29",
+      "text": "Aqua, Butyrospermum Parkii (Shea Butter), Capilyc/Capic Triglyceride, Stearic Acid, Cetyl Alcohol, Propylene Glycol, Isopropyl Myristate, Prunus Amygdalus Dulcis (Sweet Almond) oil, Glyceryl Monostearate, Dimethicone, Glycerin, Sorbitan Tristearate, Triethanolamine, Helianthus Annuus (Sunflower) Seed Oil, Fragrance, Simmondsia Chinensis (Jojoba) seed oil, Acrylatus /C10-30 Alkyl Acrylate Crosspolymer, Persea Gratissima (Avocado) oil, Olea Europaea (Olive) oil, Phenoxyethanol & Ethylhexylglycerin, Maris Sal (Dead Sea Salt), Imidazolidinyl Urea, Allantoin, Aloe Barbadensis Leaf Extract, Punica Granatum (Pomegranate) seed oil, Lavendula Angustifolia (Lavender) oil, Citrus Medica Limonum Lemon) Peel oil, Tocopheryl Acetate (Vitamin E), Disodium EDTA, BHT, Rosmarinus Officinalis (Rosemary) leaf extract, Alpha-isomethyl ionone, Hdroxycitronellal, Hydroxyisohexyl 3-cyclohexenecarboxaldehyde, Citronellol, Coumarin, Limonene, Linalool, Geraniol."
+    },
+    {
+      "id": 11,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 12,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 13,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Mogelijke variant: gezichtszeep",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
+        },
+        {
+          "label": "Mogelijke variant: gezichtsscrub",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-facial-peeling-250ml"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "status": "online-list",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem",
+      "checked": "2026-09-29",
+      "text": "Aqua, Isopropylpalmitate, Cetaryl Alcohol &peg-20. Stearate, Glycerin, Glyceryl Stearate, Cyclomethicone Ethylhexyl Methoxycinnamate, allantoin, Chamomilla Recutital (Matricaria)Extract, Hamamelis Virginiana (Witch Hazel)Extract, Fragrance, Imidazolidinyl Urea, Xanthan Gum, Dehudroacetic Acid, Benzoic Acid, Benzyl Alcohol, BHT, Toocopheryl Acetate, Benzophenone-3, Retinyl Palmitate, Aloe Barbadensis Flower Extract, Maris Sal (Dead Sea), Methylchloroisothiazolinone, Methylisothiazolinone."
+    },
+    {
+      "id": 15,
+      "status": "online-list",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie",
+      "checked": "2026-09-29",
+      "text": "Aqua, Triethanolamine, Carbomer, Stearic Acid, Oleic Acid, Vitis Vinifera (Grape) Seed oil, Shea (Butyrospermum Parkii) Butter, Sorbic Acid, Glycerin, Cetyl Alcohol, Benzyl Alcohol, Lanolin, Mentha Piperita (Peppermint) Leaf Extract, Fragrance, Persea Grattissmima (Avocado) Oil, Tetrasodium Edta, Aloe Barbadensis Leaf Juice, Seaweed Extract, Olea Europaea (Olive) Fruit oil, Calendula Officinalis Flower Extract, Punica Granatum (Pomegranate) Peel Extract, Lavendula Angustifolia (Lavender) Oil, Pogostemon Cablin (Patchouli) Oil, Cocos Nucifera (Coconut) Oil, Mel (Honey), Vanilla Planifolia Fruit Extract, Theobroma Cacao Seed Butter, Maris Sal (Dead Sea Salt) Tocopheryl Acetate (VitaminE), Melaleuca Alternifolia (Tea Tree) Leaf Oil, Panthenol, Magnesium Ascorbyl Phosphate."
+    },
+    {
+      "id": 16,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 17,
+      "status": "online-list",
+      "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html",
+      "checked": "2026-09-29",
+      "text": "Maris Limus, Helianthus Annus (Sunflower) Seed Oil, Benzyl Alcohol, Sorbic Acid, Fragrance"
+    },
+    {
+      "id": 18,
+      "status": "online-list",
+      "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html",
+      "checked": "2026-09-29",
+      "text": "100% Dode Zee Zout"
+    },
+    {
+      "id": 19,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Israelwinkel — productinformatie",
+          "url": "https://www.israelwinkel.nl/producten/hb-zeep"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "status": "online-list",
+      "url": "https://hbdeadsea.com/products/aromatic-body-butter",
+      "checked": "2026-09-29",
+      "text": "Aqua, Stearic Acid, Glycerin, Paraffinum Liquidum, Cetearyl Alcohol, Peg-20 Stearate, Isopropyl Myristate, Propylene Glycol, Glyceryl Stearate Se, Cetyl Alcohol, Phenoxyethanol, Caprylyl Glycol, Cetearyl Ethylhexanoate, Dimethicone, Triethanolamine, Butyrospermum Parkii Butter, Carbomer, Cetyl Esters, Bht, Olea Europaea Fruit Oil, Persea Gratissima Oil, Aloe Barbadensis Leaf Juice Powder, Citric Acid, Sodium Benzoate, Potassium Sorbate, Sodium Hyaluronate, Cucurbita Pepo Seed Oil, Argania Spinosa Kernel Oil, Panthenol, Ascorbic Acid, Tocopheryl Acetate, Sweet Almond Oil, Maris Sal, Melaleuca Alternifolia Leaf Oil, Mentha Arvensis Leaf Oil, Anthemis Nobilis Flower Oil, Lavandula Angustifolia Oil, Calendula Officinalis Oil, Benzyl Alcohol, Ci 15985, Perfume."
+    },
+    {
+      "id": 21,
+      "status": "online-list",
+      "url": "https://hbdeadsea.com/products/hands-nails-cream",
+      "checked": "2026-09-29",
+      "text": "Aqua, Alpha-Isomethyl Ionone, Argania Spinosa Kernel Oil, Calendula Officinalis Flower Extract, Cetyl Alcohol, Cetearyl Alcohol, Cyclopentasiloxane, Coumarin, Daucus Carota Sativa Seed Oil, Ethylhexyl Methoxycinnamate, Glyceryl Stearate, Geraniol, Glucerine, Helianthus Annuus Seed Oil, Hippophae Rhamnoides Fruit Oil, Honey, Lavender Oil, Limonene, Linalool, Maris Sal, Melaleuca Alternifolia Leaf Oil, Mentha Arvensis Herb Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Pomegranate Seed Oil, Retinyl Palmitate, Tocopherol, Tocopheryl Acetate, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Shea Butter, Sodium Lauryl Sulfate, Parfum, Paraffinum Liquidum, PEG-20 Stearate, Phenoxyethanol."
+    },
+    {
+      "id": 22,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/intensive-hand-nail-cream-enriched-with-avocado-oil-aloe-vera"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/multi-vitamin-treatment-anti-crack-foot-cream-2"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/products/intensive-treatment-anti-crack-foot-cream-enriched-with-avocado-oil-aloe-vera"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "status": "online-list",
+      "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream",
+      "checked": "2026-09-29",
+      "text": "Glycerin, Cetyl alcohol, Cetearyl Alcohol, Paraffinum Liquidum, Isopropyl Myristate, Glyceryl Stearate, Hydrogenated coconut oil, PEG-20 Stearate, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Sodium Lauryl Sulfate, Cyclopentasiloxane, Caprylyl Glycol, Ethylhexyl Methoxycinnamate, Ascorbic acid (Vitamin C), Tocopheryl Acetate (Vitamin E), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Panthenol, Persea Gratissima (Avocado) Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Olea Europaea (Olive) Fruit Oil, Argania Spinosa Kernel Oil, Lavender Oil, Cucurbita Pepo (Pumpkin) Seed Oil, Honey, Maris sal (Sea Salt), Retinyl Palmitate (Vitamin A), Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Punica Granatum (Pomegranate) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Arvensis ( Mint) Herb Oil, Tocopherol, Daucus Carota Sativa (Carrot) Seed Oil, Anthemis Nobilis (Chamomile) Flower Oil, Helianthus Annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Parfum"
+    },
+    {
+      "id": 26,
+      "status": "online-list",
+      "url": "https://hbdeadsea.com/products/moisture-rich-shower-cream-lavender",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamidopropyl Betaine, Parfum, Propylene Glycol, Sodium Benzoate, Aloe Barbadensis Leaf Juice, Persea Gratissima (Avocado) Oil, Maris Sal, Dimethicone, Glycol Distearate, Laureth-4, Formic Acid, Camellia Sinensis Leaf Extract, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Sesamum Indicum (Sesame) Seed Oil, Sodium Chloride, Anthemis Nobilis Flower Extract, Vitis Vinifera (Grape) Seed Oil, Citric Acid, Olea Europaea (Olive) Fruit Oil, Carica Papaya Fruit Extract, Potassium Sorbate, Punica Granatum (Pomegranate) Extract, Benzyl Alcohol, Butyrospermum Parkii (Shea) Butter, Panthenol, Ascorbic Acid, Argania Spinosa Kernel Oil, Cocos Nucifera (Coconut) Oil, Mel Extract, Hippophae Rhamnoides (Sea Buckthorn) Oil, Rosa Canina Fruit Oil, Glycine Soja Oil, Calendula Officinalis Flower Oil, Triticum Vulgare (Wheat) Germ Oil, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Helianthus Annuus (Sunflower) Seed Oil, Daucus Carota Sativa (Carrot) Oil, Tocopheryl Acetate, Silt (Dead Sea Mud), Triethylene Glycol, Ci 14700, Ci 42090."
+    },
+    {
+      "id": 27,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Vergelijkingsbron: arganshampoo",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-shampoo-met-arganolie"
+        },
+        {
+          "label": "Vergelijkingsbron: arganconditioner",
+          "url": "https://cosmetics-israel.com/en/product/shemen-amour-hair-conditioner-argan-oil-from-morocco/"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "status": "online-list",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Productinformatie leverancier",
+          "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
+        }
+      ],
+      "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html",
+      "text": "Water, Sodium Coceth Sulfate, Cocamidopropyl Betaine, Cocamide dEA, Hydrolyzed Karatin, Polyquaternium-7, Stearamidopropyl, Dimethylamine Lactate, Fragrance, Sea Silt (Dead Sea Mud), Dead Sea Mineral Water, Persea Gratissima(Avocado) Oil, Tocopheryl Acetate, Citic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Oxide Black"
+    },
+    {
+      "id": 29,
+      "status": "online-list",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap",
+      "checked": "2026-09-29",
+      "text": "Sodium Palmate, Sodium Palmate Kernelate, Water, Sodium Chloride, Glycerine, Tetrasodium Etidronate, Tetrasodium EDTA, Water, Maris Limus, Maris Sal, Hamamelis Virginia Water."
+    },
+    {
+      "id": 30,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Israel Producten Centrum",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74757"
+        },
+        {
+          "label": "Productomschrijving shampoo 770 ml",
+          "url": "https://www.israelwinkel.nl/producten/shemen-amour-set-shampoo-en-aftershave"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "HB — fabrikant",
+          "url": "https://hbdeadsea.com/"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Productassortiment Careline",
+          "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Productassortiment Careline",
+          "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "status": "pending",
+      "reason": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Productassortiment Careline",
+          "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "status": "online-list",
+      "url": "https://www.terminalx.com/brands/careline/W95234",
+      "checked": "2026-09-29",
+      "text": "Water, Homosalate, Glycerin, Styrene/Acrylates Copolymer, Ethylhexyl Salicylate, Butyl Methoxydibenzoylmethane, Butylene Glycol, Carbomer, Polysorbate 20, Palmitoyl Tripeptide-1, Palmitoyl Tetrapeptide-7, Sodium Lactate, Octocrylene, Glyceryl Stearate, PEG-100 Stearate, Cetearyl Alcohol, Cetearyl Glucoside, Cyclopentasiloxane, Dimethicone, Phenoxyethanol, Ethylhexylglycerin, Potassium Cetyl Phosphate, Hydrogenated Palm Glyceride, Diethylhexyl 2,6-Naphthalate, Behenyl Alcohol, Silica, Fragrance, Xanthan Gum,Triethanolamine, Disodium EDTA, Tocopheryl Acetate (Vitamin E), Bisabolol, Panthenol (Pro-Vitamin B5), BHT, CI 17200, CI 42090."
+    },
+    {
+      "id": 39,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Careline — fabrikant",
+          "url": "https://careline.co.il/c-power/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "status": "online-list",
+      "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/",
+      "checked": "2026-09-29",
+      "text": "Water, Dimethicone, Dimethicone Crosspolymer, Dimethiconol, Glycerin, Niacinamide, Tapioca Starch, Retinyl Palmitate, BHT, Tricaprylin, Polymethyl Methacrylate, Polyacrylamide, C13-14 Isoparaffin , Laureth-7, Phenoxyethanol, Ethylhexylglycerin, Polysorbate 20, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Fragrance, Polymethylsilsesquioxane, Disodium EDTA, Aminomethyl Propanol, Tocopheryl Acetate (Vitamin E), CI 77891, CI 15985, CI 47005."
+    },
+    {
+      "id": 41,
+      "status": "pending",
+      "reason": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Careline — fabrikant",
+          "url": "https://careline.co.il/c-power/"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "status": "online-list",
+      "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/",
+      "checked": "2026-09-29",
+      "text": "Water, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Sodium Lauroyl Glutamate, Hydroxypropyl Methylcellulose, Parfum, Propylene Glycol, Glutamic Acid, DMDM Hydantoin, Lauric Acid, Citric Acid, Allantoin, Ascorbyl Tetraisopalmitate, Benzophenone-4, Menthyl Lactate, Magnesium Nitrate, Magnesium Chloride, Methylchloroisothiazolinone, Lime (Citrus Aurantifolia) Juice, Citrus Paradisi Juice, Butylene Glycol, Matricaria (Chamomilla Recutita) Flower Extract, Methylisothiazolinone, Sodium Benzoate, Glucose, Lactic Acid, Potassium Sorbate, CI 15985, CI 17200, Bisabolol, Limonene, Linalool, Hexyl Cinnamal."
+    },
+    {
+      "id": 43,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290012117428",
+      "checked": "2026-09-29",
+      "text": "Water, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, PEG-60 Almond Glycerides, Parfum, Guar Hydroxypropyltrimonium Chloride, Sodium Benzoate, Benzyl Alcohol, Citric Acid ,Panthenol, Disodium EDTA, Menthol ,Tocopheryl Acetate ,Imperata Cyilindrica Root Extract, PEG-8, Carbomer, Coumarin, Hexyl Cinnamal ,Linalool CI 42090."
+    },
+    {
+      "id": 44,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290012117435",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Glycerin, Cocamide DEA, Cocamidopropyl Betaine, PEG-60 Almond Glycerides, Parfum, Sodium Chloride, Sodium Benzoate, Guar Hydroxypropyltrimonium Chloride, Citric Acid, Benzyl Alcohol, Panthenol, Tocopheryl Acetate, Disodium EDTA, Propylene Glycol, Imperata Cyilindrica Root Extract, PEG–8, Carbomer, Phenoxyethanol, Aloe Barbadensis Leaf Juice Powder ,Lactic Acid, Potassium Sorbate, Sodium Citrate, Biotin, Linalool, Limonene, Citrus Aurantium Peel Oil, Tetramethyl Acetyloctahydronaphthalenes, Pogostemon Cablin Oil, Citral, Coumarin, CI 47005, CI 42090."
+    },
+    {
+      "id": 45,
+      "status": "online-label-photo",
+      "url": "https://groundjerusalem.com/product/hair-care/shampoo/shampoo-and-conditioner-for-normal-hair-2-in-1-with-rosemary-extract-700ml-made-in-israel/",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Phenoxyethanol, Lysine Hydrochloride, Iodopropynyl Butylcarbamate, Rosemary (Rosmarinus Officinalis) Leaf Extract, Lactic Acid, Potassium Sorbate, PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene."
+    },
+    {
+      "id": 46,
+      "status": "online-label-photo",
+      "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-shampoo-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Phenoxyethanol, Lysine Hydrochloride, Iodopropynyl Butylcarbamate, Rosemary (Rosmarinus Officinalis) Leaf Extract, Lactic Acid, Potassium Sorbate, PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene."
+    },
+    {
+      "id": 47,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290116531250",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Parfum, Sodium Chloride, Phenoxyethanol, Carbomer, Dimethiconol, Sodium Salicylate, Piroctone Olamine, Sodium Hydroxide, Citric acid, Guar Hydroxypropyltrimonium Chloride, Mica, Glycerin, Titanium Dioxide, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Sodium Benzoate, Lysine HCl, Tocopheryl Acetate, Ethoxydiglycol, Propylene Glycol, Lodopropynyl Butylcarbamate, Butylene Glycol, Lactic Acid, Glucose, Achillea Millefolium Extract, Chamomilla Recutita (Matricaria) Flower Extract, Salvia Officinalis (Sage) Leaf Extract, Melissa Officinalis Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Ononis Spinosa Root Extract, Equisetum Arvense Extract, Tussilago Farfara (Coltsfoot) Leaf Extract, Thymus Serpillum Extract, Potassium Sorbate, Althaea Officinalis Root Extract, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene."
+    },
+    {
+      "id": 48,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290116534879",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Glycerin, Sodium Benzoate, Parfum, Carbomer, Sodium Hydroxide, Citric Acid, Mica,Polyquaternium-10, Tetrasodium EDTA, Sodium Acetate, Isopropyl Alcohol, Propylene Glycol, Sodium Sulfate, Mentha Piperita (Peppermint) Leaf Extract, Glucose, Lactic Acid, Potassium Sorbate, CI 77891, CI 42090, CI 47005, Coumarin, Limonene, Linalool."
+    },
+    {
+      "id": 49,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290112492548",
+      "checked": "2026-09-29",
+      "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Fragrance, Sodium Chloride, Cirtic acid, Disodium EDTA ,Lysine, Shea Butter (Butyrospermum Parkii), Caprylic/Capric Triglyceride, BHT, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene."
+    },
+    {
+      "id": 50,
+      "status": "online-label-photo",
+      "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-conditioner-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/",
+      "checked": "2026-09-29",
+      "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Parfum, Sodium Chloride, Citric Acid, Disodium EDTA, Lysine, Rosemary (Rosemarinus Officinalis) Leaf Extract, Glycerin, Potassium Sorbate, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Dimethyl Palmitamine, Lactic Acid, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene."
+    },
+    {
+      "id": 51,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290112499448",
+      "checked": "2026-09-29",
+      "text": "Aqua, Cetearyl Alcohol, Cetrimonium Chloride, Amodimethicone, Fragrance, Sodium Chloride, Cirtic acid, Disodium EDTA, Lysine, Argaia Spinosa Oil, Trideceth-12, Sodium Benzoate, Acetic Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Magnesium Nitrate, Magnesium Chloride, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Geraniol, Limonene, Linalool."
+    },
+    {
+      "id": 52,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290112492609",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamide MEA, Acrylates Copolymer, Glycerin, Fragrance, Styrene/Acrylates Copolymer, Sodium Lauryl Sulfate, Sodium Chloride, Sodium Benzoate, Tetrasodium EDTA, Citric Acid, Sodium Hydroxide, Tocopheryl Acetate, PEG-40 Hydrogenated Castor Oil, Trideceth–9, Paullinia Cupana Seed Extract, 1,2-Hexanediol, Actinidia Chinensis (Kiwi) Fruit Juice, Caprylyl Glycol, Citrus Aurantifolia (Lime) Juice, Nonfat Dry Milk (Sine Adipe Lac), Wine Extract, Vanilla Planifolia Fruit Extract, Cocos Nucifera (Coconut) Fruit Extract, Propylene Glycol, Alcohol, Disodium EDTA, Lavendula Angustifolia (Lavender) Flower Extract, Lactic Acid, Potassium Sorbate, Glucose, PPG–9, Butylphenyl Methylpropional, Citronellol, Coumarin, Geraniol, Limonene, Linalool, CI 17200, CI 42090."
+    },
+    {
+      "id": 53,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290116533117",
+      "checked": "2026-09-29",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamide MEA, Glycerin, Sodium Chloride, Styrene/Acrylates Copolymer, Parfum, Acrylates Copolymer, Citric Acid, Sodium Lauryl Sulfate, Tetrasodium EDTA, Sodium Hydroxide, Tocopheryl Acetate, PPG-9, Sodium Benzoate, Geraniol, Hexyl Cinnamal, Limonene, Linalool."
+    },
+    {
+      "id": 54,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290117860380",
+      "checked": "2026-09-29",
+      "text": "Ingredients: Aqua (Water, Eau) • Sodium Laureth Sulfate • Cocamidopropyl Betaine • Sodium Chloride • PEG-7 Glyceryl Cocoate • Parfum (Fragrance) • Glycol Distearate • Citric Acid • Sodium Benzoate • Hydrogenated Castor Oil • Sodium Salicylate • Laureth-2 • Propylene Glycol • PEG–55 Propylene Glycol Oleate • Hexyl Cinnamal • Benzyl Alcohol • Yogurt • Geraniol • Guar Hydroxypropyltrimonium Chloride • Hexyl Salicylate • Glyceryl Oleate • Citronellol • Eugenol • Citral • Amyl Cinnamal • Benzyl Benzoate • Cinnamyl Alcohol • Limonene • Isoeugenol • Linalool"
+    },
+    {
+      "id": 55,
+      "status": "pending",
+      "reason": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%AA%D7%97%D7%9C%D7%99%D7%91-%D7%A8%D7%97%D7%A6%D7%94-%D7%99%D7%95%D7%92%D7%95%D7%A8%D7%98-%D7%91%D7%A0%D7%99%D7%97%D7%95%D7%97-%D7%A9%D7%A7%D7%93%D7%99%D7%9D/p/650208"
+        }
+      ],
+      "candidateSource": "https://www.sekershook.com/p/7290117860991",
+      "candidateText": "‎: Aqua (Water, Eau) Sodium Laureth Sulfate Cocamidopropyl Betaine Sodium Chloride• PEG-7 Glyceryl Cocoate - Parfum (Fragrance) + Glycok Distearate - Citric Acid Sodium Benzoate Hydrogenated Castor Oil Sodium Salicylate - Laureth–2 - Benzyl Alcohol - Propylene Glycol PEG–55 Propylene Glycol Oleate • Yogurt • Guar Hydroxypropyltrimonium Chloride Glyceryl Oleate Glycerin Benzyl Benzoate Benzyl Salicylate"
+    },
+    {
+      "id": 56,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290117860946",
+      "checked": "2026-09-29",
+      "text": "Ingredients: Aqua (Water, Eau) • Sodium Laureth Sulfate • Cocamidopropyl Betaine • Sodium Chloride • PEG-7 Glyceryl Cocoate • Parfum (Fragrance) • Glycol Distearate • Citric Acid • Sodium Benzoate • Hydrogenated Castor Oil • Sodium Salicylate • Laureth-2 • Propylene Glycol • PEG–55 Propylene Glycol Oleate • Limonene • Yogurt • Guar Hydroxypropyltrimonium Chloride • Coumarin • Hexyl Cinnamal • Glyceryl Oleate • Glycerin • Citronellol • Linalool • Benzyl Alcohol • Geraniol • Amyl Cinnamal"
+    },
+    {
+      "id": 57,
+      "status": "pending",
+      "reason": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/תחליב-רחצה-יוגורט-בניחוח-אוכמניות/p/650209"
+        }
+      ],
+      "candidateSource": "https://www.sekershook.com/p/7290117860038",
+      "candidateText": "‎Aqua (Water, Eau) • Sodium Laureth Sulfate • Cocamidopropy |Betaine • Sodium Chloride • PEG-7 Glyceryl Cocoate • Parfum (Fragrance) |- Glycol Distearate • Citric Acid • Sodium Benzoate • Hydrogenated Castor bil - Sodium Salicylate • Laureth–2 • Propylene Glycol - PEG–55 Propylene Glycol Oleate Yogurt Guar Hydroxypropyltrimonium Chloride Limonene - Linalool • Hexyl Cinnamal • Glyceryl Oleate - Tetramethy| Acetyloctahydronaphthalenes Geraniol Glycerin• Benzyl Alcohol• Coumarin Citral • Citronellol - Tocopherol • Benzyl Benzoate • Amyl Cinnamal"
+    },
+    {
+      "id": 58,
+      "status": "pending",
+      "reason": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/שמפו-פירות-אקזוטיים-וקלנדולה-למניעת-קשקשים/p/650191"
+        }
+      ],
+      "candidateSource": "https://www.sekershook.com/p/7290117860144",
+      "candidateText": "‎: Aqua (Water, Eau) Sodium Laureth Sulfate Sodium Chloride Cocamidopropyl Betaine Sodium Benzoate - Climbazole Parfum (Fragrance)-Citric Acid-Niacinamide-Polyquaternium-7 • Panthenol - Mangifera Indica (Manon) Juice Actiniaia Chinensis (Kiwi) Fruit Juice · Calendula Officinalis Flower Extract • Hexy. Cinnamal Linalool - Citronellol - Benzy Salicylate Alpha-Isomethyl Ionone* Benzophenone–4* CI 73360 (Red 30)"
+    },
+    {
+      "id": 59,
+      "status": "online-list",
+      "url": "https://www.sekershook.com/p/7290117860199",
+      "checked": "2026-09-29",
+      "text": "Aqua (Water, Eau) • Sodium Laureth Sulfate • Sodium Chloride • Cocamidopropyl Betaine • Sodium Benzoate • Glycol Distearate • Coco-Glucoside • Glyceryl Oleate • PEG-7 Glyceryl Cocoate • Citric Acid • Parfum (Fragrance) • Hydroxypropyl Guar Hydroxypropyltrimonium Chloride • Rosa Canina Fruit Oil • Macadamia Ternifolia Seed Oil • Hydrogenated Castor Oil • Hexyl Cinnamal • Citronellol • Geraniol • Glycerin • Benzyl Alcohol"
+    },
+    {
+      "id": 60,
+      "status": "pending",
+      "reason": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/shampoo/%D7%A9%D7%9E%D7%A4%D7%95-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/650190"
+        }
+      ],
+      "candidateSource": "https://www.sekershook.com/p/7290117860045",
+      "candidateText": "Aqua (Water, Eau) • Sodium Laureth Sulfate + Sodium Chloride Cocamidopropyl Betaine Disodium Cocoamphodiacetate Parfum (Fragrance) • Sodium Benzoate - Citric Acid - Polyquaternium-ID • Alce Barbadensis Leaf Extract Camellia Sinensis Leaf Extract Niacinamide • Hexyl Cinnamal • Panthenol - Linalool - Citronellol · BenzyI Salicylate • Alpha-Isomethyl Ionone •Benzyl Alcohol • CI 47005 - C/ 42090"
+    },
+    {
+      "id": 61,
+      "status": "pending",
+      "reason": "Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Super-Pharm Israël",
+          "url": "https://shop.super-pharm.co.il/care/hair-care/conditioner/%D7%9E%D7%A8%D7%9B%D7%9A-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-%D7%95%D7%AA%D7%94-%D7%99%D7%A8%D7%95%D7%A7-%D7%9C%D7%A9%D7%99%D7%A2%D7%A8-%D7%A8%D7%92%D7%99%D7%9C/p/650199"
+        }
+      ],
+      "candidateSource": "https://www.sekershook.com/p/7290117860090",
+      "candidateText": "Aqua (Water, Eau) • Cetearyl Alcohol • Behenitrimonium Chileride - Parfum (Fragrance) - Isopropyl Alcohol - Phenoxyethanol + Isopropyl Myristate Methylparaben Polyquaternium-10 Aloe Barbadensis Leaf Extract Camellia Sinensis Leaf Extract Citric Acid Niacinamide • Hery Cinnamal - Panthenol · Linalool - Citronellol • Benzyl Salicylate Alpha-Isomethyl Ionone⚫ CI 47005 - CI 42090"
+    },
+    {
+      "id": 62,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 63,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 64,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 65,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 66,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 67,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 68,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": [
+        {
+          "label": "Israelwinkel — productinformatie",
+          "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 70,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 71,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    },
+    {
+      "id": 72,
+      "status": "pending",
+      "reason": "De materiaalsamenstelling is nog niet bevestigd door de leverancier.",
+      "checked": "2026-09-29",
+      "sources": []
+    }
+  ]
+}
