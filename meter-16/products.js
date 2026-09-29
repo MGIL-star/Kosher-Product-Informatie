@@ -2559,26 +2559,31 @@ window.KPI_PRODUCTS = [
   {
     "id": 70,
     "catalogType": "nonfood",
-    "name": "Kaarsen in glas blauwe verpakking",
-    "brand": "",
+    "name": "Sabbatskaarsen",
+    "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "",
-    "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
+    "variant": "10 stuks · 12,5 cm",
+    "image": "images/menora-sabbatskaarsen-user.png",
     "imageFrame": {
-      "x": 0.7265625,
-      "y": 0.6125,
-      "width": 0.065625,
-      "height": 0.10208333333333333,
-      "aspectRatio": 0.8571428571428571
+      "x": 0.27,
+      "y": 0.13,
+      "width": 0.49,
+      "height": 0.74,
+      "aspectRatio": 0.6621621621621622
     },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Beschrijving": "Witte sabbatskaarsen, gemaakt in Israël. Geschikt voor een sabbatskandelaar en voor een menora of chanoekia met passende kaarshouders.",
+      "Afmetingen": "12,5 cm hoog; diameter 1,8 cm.",
+      "Verpakking": "10 stuks.",
+      "Brandduur": "Ongeveer 4 uur volgens de verpakking."
+    },
     "sources": [],
-    "identificationNote": "Merk, aantal en brandduur zijn nog te bevestigen.",
+    "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+      "note": "De samenstelling van de kaarswas is nog niet bevestigd."
     }
   },
   {

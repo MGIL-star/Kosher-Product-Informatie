@@ -1645,21 +1645,35 @@
     },
     {
       "id": 70,
-      "name": "Kaarsen in glas blauwe verpakking",
-      "brand": "",
+      "name": "Sabbatskaarsen",
+      "brand": "Menora",
       "shelf": 7,
-      "variant": "",
+      "variant": "10 stuks · 12,5 cm",
       "status": "nog te bevestigen",
       "note": "Merk, aantal en brandduur zijn nog te bevestigen.",
       "sources": [],
-      "image": "source-photos/daf522fb-b2cb-4b91-8143-e4d785470184.jpg",
-      "imageSource": "Eigen schapfoto",
+      "image": "images/menora-sabbatskaarsen-user.png",
+      "imageSource": "Gebruikersfoto en productinformatie, 2026-09-29",
       "imageFrame": {
-        "x": 0.7265625,
-        "y": 0.6125,
-        "width": 0.065625,
-        "height": 0.10208333333333333,
-        "aspectRatio": 0.8571428571428571
+        "x": 0.27,
+        "y": 0.13,
+        "width": 0.49,
+        "height": 0.74,
+        "aspectRatio": 0.6621621621621622
+      },
+      "catalogType": "nonfood",
+      "category": "Kaarsen en accessoires",
+      "allergens": null,
+      "productInfo": {
+        "Beschrijving": "Witte sabbatskaarsen, gemaakt in Israël. Geschikt voor een sabbatskandelaar en voor een menora of chanoekia met passende kaarshouders.",
+        "Afmetingen": "12,5 cm hoog; diameter 1,8 cm.",
+        "Verpakking": "10 stuks.",
+        "Brandduur": "Ongeveer 4 uur volgens de verpakking."
+      },
+      "identificationNote": "",
+      "composition": {
+        "heading": "Materiaal",
+        "note": "De samenstelling van de kaarswas is nog niet bevestigd."
       }
     },
     {
@@ -1813,7 +1827,8 @@
       65,
       7,
       15,
-      10
+      10,
+      70
     ],
     "reviewedCategoryPages": [
       "https://www.israelwinkel.nl/categorieen/mooi-gezond",
