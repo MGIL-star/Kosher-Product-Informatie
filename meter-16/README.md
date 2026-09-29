@@ -1,64 +1,49 @@
-# Meter 16 — actuele stand 29 september 2026
+# Meter 16 — non-food
 
-Lokaal concept op de bestaande conceptbranch; niet live gepubliceerd.
+Bijgewerkt op 29 september 2026. Concept met 72 producten in de oorspronkelijke schapvolgorde.
 
-- 72 producten in oorspronkelijke schapvolgorde.
-- 28 producten met een online ingrediëntenlijst; alle negen Pinuk-varianten inbegrepen.
-- Drie Pinuk-achteretiketten beschikbaar en vergroot te openen. Normale shampoo en conditioner tonen de online playlist-verpakking.
-- 44 producten hebben nog geen bevestigde volledige samenstelling of materiaalomschrijving. Daarvan hebben 29 kaarten nog een open identificatie-detail.
-- Vijf Hawaii-lijsten bevatten leesfouten; ruwe tekst en bron zijn bewaard in ingredients-research.json en niet als betrouwbare lijst getoond.
-- Pinuk Men is de muntvariant: barcode 7290116534879. De eerdere aloë/groene-theebarcode is vervangen.
-- Alle negen door de gebruiker aangeleverde Pinuk-foto’s zijn toegepast. De roze shampoo die niet op het schap staat, is niet toegevoegd. De oranje dubbele foto toont met een kader één fles. De lavendel/vanille-foto is geretoucheerd en als bewerkt gemarkeerd.
-- Israelwinkel is door de gebruiker bevestigd als leverancier. Bronnen staan per product en bij elke ingrediëntenlijst.
-- Online lijsten zijn geen verificatie van het fysieke winkel-exemplaar; verpakkingsversies kunnen verschillen.
+## Huidige stand
 
-## Openstaande samenstelling of materialen
+- 38 online ingrediëntenlijsten met bronvermelding.
+- 3 achteretiketfoto’s.
+- 27 directe koppelingen naar Israelwinkel, inclusief afzonderlijk gecontroleerde varianten.
+- Negen nieuwe gebruikersfoto’s verwerkt; negen Pinuk-flessen op gelijke zichtbare hoogte gekaderd. Originele bestanden behouden.
+- 28 producten hebben nog een onbevestigd detail, zoals uitvoering of inhoud.
+- 34 producten hebben nog geen betrouwbare volledige samenstelling; dit omvat ook kaarsen en schoonmaakartikelen.
 
-- 1. Sano Bon Toiletblok: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 2. Sano Jet+ Allesreiniger in gelvorm met dennenolie: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 3.  Luchtverfrisser met roze bloemen: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 4.  Luchtverfrisser met blauwe bloemen: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 5. More Schuurspons 2 in 1: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 6.  Schuursponzen: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 7.  Wonderspons: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 8. Shemen Amour Gezichtscrème linker doos: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 9. Shemen Amour Gezichtscrème rechter doos: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 11. Shemen Amour Verzorgingscrème lichte afbeelding: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 12. Shemen Amour Verzorgingscrème bruine afbeelding: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 13. Shemen Amour Gezichtsreiniging in roze flacon: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 16. Shemen Amour Bodylotion fles: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 19. HB Zeep met avocado en aloë vera: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 22. HB Hand- en nagelcrème met avocado en aloë vera: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 23. HB Voetcrème met vitaminen: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 24. HB Voetcrème met avocado en aloë vera: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 27. Shemen Amour Haarverzorging met arganolie: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 30. Shemen Amour Douchegel met olijfolie: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 31. Shemen Amour Shampoo voor mannen: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 32. HB Deodorantroller met gele bloemen: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 33. HB Deodorantroller met paarse bloemen: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 34. HB Deodorantroller met roze bloemen: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 35. Careline Handzeep Sweet Kiss: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 36. Careline Handzeep Spring Blossom: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 37. Careline Handzeep Wild Breeze: Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden.
-- 39. Careline Gezichtscrème C Power links: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 41. Careline Gezichtscrème C Power rechts: De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld.
-- 55. Hawaii Douchecrème met yoghurt en amandelgeur: Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.
-- 57. Hawaii Douchecrème met yoghurt en bosbessengeur: Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.
-- 58. Hawaii Antiroosshampoo met exotisch fruit en calendula: Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.
-- 60. Hawaii Shampoo met aloë vera en groene thee: Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.
-- 61. Hawaii Conditioner met aloë vera en groene thee: Online ingrediëntenlijst gevonden, maar de tekst bevat leesfouten. Nog te controleren op een leesbaar etiket.
-- 62.  Kaarsen gekleurde verpakking links: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 63.  Kaarsen donkerblauwe doos: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 64.  Kaarsen lichtblauwe doos: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 65.  Herdenkingskaars voor 7 dagen: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 66.  Kaarsenaccessoires kleine blauwe doosjes: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 67.  Kaarsen in houders kartonnen doos: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 68.  Witte kaarsen: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 69.  Kaarsen of houders doorzichtige verpakking: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 70.  Kaarsen in glas blauwe verpakking: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 71.  Chanoekakaarsen blauwe doos links: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
-- 72.  Chanoekakaarsen blauwe doos rechts: De materiaalsamenstelling is nog niet bevestigd door de leverancier.
+## Onderzoek
 
-## Controle
+Beide opgegeven Israelwinkel-categoriepagina’s nagekeken. Pagina 2 bevat geen aanvullende zekere match met de schapfoto’s. De afgebeelde HB-deodoranten zijn niet verwisseld met Careline. Shemen Amour douchegel en shampoo, Careline-handzeepvarianten en Crema Mint zijn afzonderlijk in de winkelinterface gecontroleerd.
 
-72 unieke IDs; lokale foto’s en etiketpaden bestaan. Pinuk-zoekresultaat toont negen kaarten. Productvenster met ingrediënten en vergroot etiket visueel gecontroleerd. De non-fooduitbreiding staat achter de bestaande non-foodschakelaar; voedselweergave is behouden.
+Productgegevens en bronnen staan in products.js; ingrediëntenonderzoek in ingredients-research.json; leverancierskoppelingen in supplier-links-research.json. Onzekere gegevens zijn niet ingevuld op basis van een vergelijkbare verpakking.
+
+## Nog te bevestigen
+
+- 1. Sano Bon Toiletblok: Het aantal blokken per verpakking is nog te bevestigen.
+- 3.  Luchtverfrisser met roze bloemen: Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.
+- 4.  Luchtverfrisser met blauwe bloemen: Merk, geur en inhoud zijn niet voldoende leesbaar; de exacte spuitbus is online nog niet bevestigd.
+- 5. More Schuurspons 2 in 1: 2 in 1 is zichtbaar; materiaal, aantal en geschikte oppervlakken zijn nog te bevestigen.
+- 6.  Schuursponzen: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 7.  Wonderspons: De doos vermeldt 6 stuks. Het merk en de precieze gebruiksaanwijzing zijn nog te bevestigen.
+- 8. Shemen Amour Gezichtscrème linker doos: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 9. Shemen Amour Gezichtscrème rechter doos: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 11. Shemen Amour Verzorgingscrème lichte afbeelding: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 12. Shemen Amour Verzorgingscrème bruine afbeelding: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 16. Shemen Amour Bodylotion fles: De precieze geur en inhoud van deze bodylotion zijn nog te bevestigen.
+- 27. Shemen Amour Conditioner met Marokkaanse arganolie: De inhoud van deze fles is nog te bevestigen.
+- 28. Shemen Amour Shampoo met Dode Zeemodder: De inhoud van de gefotografeerde fles is nog te bevestigen.
+- 32. HB Deodorantroller met gele bloemen: De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.
+- 33. HB Deodorantroller met paarse bloemen: De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.
+- 34. HB Deodorantroller met roze bloemen: De exacte geurnaam en inhoud zijn nog te bevestigen; de fabrikant toont inmiddels ook andere verpakkingen.
+- 39. Careline Gezichtscrème C Power links: De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.
+- 41. Careline Gezichtscrème C Power rechts: De C Power-serie is herkenbaar. Dag- of nachtcrème moet op deze doos nog worden bevestigd.
+- 62.  Kaarsen gekleurde verpakking links: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 63.  Kaarsen donkerblauwe doos: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 64.  Kaarsen lichtblauwe doos: De exacte uitvoering en inhoud zijn op de overzichtsfoto niet leesbaar. Nog geen zekere overeenkomst met een online product gevonden.
+- 65.  Herdenkingskaars voor 7 dagen: Het merk en de barcode van deze specifieke verpakking zijn nog te bevestigen.
+- 66.  Kaarsenaccessoires kleine blauwe doosjes: De kleine blauwe doosjes zijn te onscherp om de inhoud betrouwbaar te herkennen.
+- 67.  Kaarsen in houders kartonnen doos: Het aantal kaarsen, het merk en de brandduur zijn nog te bevestigen.
+- 69.  Kaarsen of houders doorzichtige verpakking: Het is niet duidelijk of dit kaarsen, lege houders of een combinatie is.
+- 70.  Kaarsen in glas blauwe verpakking: Merk, aantal en brandduur zijn nog te bevestigen.
+- 71.  Chanoekakaarsen blauwe doos links: Chanoekakaarsen zijn herkenbaar. Merk, aantal en afmetingen zijn nog te bevestigen.
+- 72.  Chanoekakaarsen blauwe doos rechts: Deze doos heeft een andere opdruk. Merk, aantal en afmetingen zijn nog te bevestigen.

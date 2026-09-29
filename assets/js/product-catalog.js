@@ -89,6 +89,7 @@
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p>${product.kosherNote ? `<p class="kosher-note">${escapeHtml(product.kosherNote)}</p>` : ''}</section>` : ''}
       ${nonFood && product.identificationNote ? `<section class="identification-note"><h3>Identificatie</h3><p>${escapeHtml(product.identificationNote)}</p></section>` : ''}
+      ${nonFood && product.supplier ? `<section><h3>Bij Israelwinkel</h3><p><a href="${escapeHtml(product.supplier.url)}" target="_blank" rel="noopener noreferrer">Bekijk ${escapeHtml(product.name)}${product.supplier.variant ? ` — ${escapeHtml(product.supplier.variant)}` : ''}</a></p>${product.supplier.sku ? `<p>Artikelnummer: ${escapeHtml(product.supplier.sku)}</p>` : ''}</section>` : ''}
       ${nonFood && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;

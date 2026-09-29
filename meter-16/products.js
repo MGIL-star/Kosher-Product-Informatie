@@ -262,6 +262,10 @@ window.KPI_PRODUCTS = [
         "label": "Israelwinkel — ingrediënten",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
     }
   },
   {
@@ -317,35 +321,41 @@ window.KPI_PRODUCTS = [
   {
     "id": 13,
     "catalogType": "nonfood",
-    "name": "Gezichtsreiniging in roze flacon",
+    "name": "Gezichtszeep pH 5.5",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
-    "variant": "",
-    "image": "source-photos/2252c79a-f4b3-47b8-be74-08c65b77f029.jpg",
-    "imageFrame": {
-      "x": 0.46875,
-      "y": 0.5791666666666667,
-      "width": 0.05625,
-      "height": 0.23958333333333334,
-      "aspectRatio": 0.3130434782608696
-    },
+    "variant": "200 ml",
+    "image": "images/shemen-gezichtszeep-user.webp",
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Vloeibare gezichtszeep met pH 5.5 voor het reinigen van de gezichtshuid."
+    },
     "sources": [
       {
-        "label": "Mogelijke variant: gezichtszeep",
+        "label": "Israelwinkel — gezichtszeep",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
-      },
-      {
-        "label": "Mogelijke variant: gezichtsscrub",
-        "url": "https://www.israelwinkel.nl/producten/shemen-amour-facial-peeling-250ml"
       }
     ],
-    "identificationNote": "De roze gezichtszeep en gezichtsscrub lijken op elkaar. De exacte variant en inhoud op deze foto zijn nog te bevestigen.",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Propylene Glycol, Polysorbate-20, Hamemelis, Virgiana (with hazel) extract, Fragrance(Cumarin), Phenoxyethanol, DMDM-H, P Dehydroactic Acid, Benzoic Acid, Benzy Alcohol, Cinnamonum Camphoral oil Maris Sal (Dead Sea) Acid Blue #(C142090), Methylchloroisothiazolinone, Methylisothiazolinone",
+      "note": "Ingrediënten zoals vermeld door Israelwinkel; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
+    },
+    "imageFrame": {
+      "x": 0.2516778523489933,
+      "y": 0.07634647418101055,
+      "width": 0.5620805369127517,
+      "height": 0.8703498056635203,
+      "aspectRatio": 0.32057416267942584
     }
   },
   {
@@ -377,6 +387,10 @@ window.KPI_PRODUCTS = [
         "label": "Israelwinkel — ingrediënten",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
     }
   },
   {
@@ -407,6 +421,10 @@ window.KPI_PRODUCTS = [
         "label": "Israelwinkel — ingrediënten",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
     }
   },
   {
@@ -442,13 +460,17 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "300 g",
-    "image": "images/product-17.jpg",
+    "image": "images/shemen-modder-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Modder voor uitwendige lichaamsverzorging.",
       "Gebruik": "Op het lichaam aanbrengen en vervolgens met warm water afspoelen. Niet op het gezicht of op wondjes gebruiken."
     },
     "sources": [
+      {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder"
+      },
       {
         "label": "Productinformatie leverancier",
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html"
@@ -463,6 +485,17 @@ window.KPI_PRODUCTS = [
         "label": "Experience Israel — ingrediënten",
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder.html"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder"
+    },
+    "imageFrame": {
+      "x": 0.163,
+      "y": 0.049,
+      "width": 0.673,
+      "height": 0.903,
+      "aspectRatio": 0.7452934662236987
     }
   },
   {
@@ -473,13 +506,17 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 2,
     "variant": "300 g",
-    "image": "images/product-18.jpg",
+    "image": "images/shemen-badzout-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Zout om aan warm badwater toe te voegen.",
       "Gebruik": "Los de gewenste hoeveelheid op in warm badwater. Spoel de huid na het baden af."
     },
     "sources": [
+      {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-badzout"
+      },
       {
         "label": "Productinformatie leverancier",
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html"
@@ -494,6 +531,17 @@ window.KPI_PRODUCTS = [
         "label": "Experience Israel — ingrediënten",
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-badzout.html"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-badzout"
+    },
+    "imageFrame": {
+      "x": 0.206,
+      "y": 0.049,
+      "width": 0.589,
+      "height": 0.903,
+      "aspectRatio": 0.6522702104097453
     }
   },
   {
@@ -518,8 +566,18 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Sodium Palmate & Sodium Palm Kernelate, Water, Dead Sea Minerals (Maris Sal), Glycerin, Olive Oil, Perfume, Titanium Dioxide, Limonene, Dye PAE Green Green 6 Dye (CI 61565), Sodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate",
+      "note": "Ingrediënten en spelling zoals vermeld door Israelwinkel; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/hb-zeep"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-zeep",
+      "sku": "73134"
     }
   },
   {
@@ -554,6 +612,10 @@ window.KPI_PRODUCTS = [
         "label": "HB — ingrediënten fabrikant",
         "url": "https://hbdeadsea.com/products/aromatic-body-butter"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-bodybutter-lavendel"
     }
   },
   {
@@ -572,6 +634,10 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme-lavendel"
+      },
+      {
         "label": "HB — fabrikant",
         "url": "https://hbdeadsea.com/products/hands-nails-cream"
       }
@@ -585,6 +651,10 @@ window.KPI_PRODUCTS = [
         "label": "HB — ingrediënten fabrikant",
         "url": "https://hbdeadsea.com/products/hands-nails-cream"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme-lavendel"
     }
   },
   {
@@ -603,14 +673,27 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme"
+      },
+      {
         "label": "HB — fabrikant",
         "url": "https://hbdeadsea.com/products/intensive-hand-nail-cream-enriched-with-avocado-oil-aloe-vera"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten (INCI)",
+      "text": "Glycerin, Cetyl alcohol, Cetearyl Alcohol, Paraffinum Liquidum, Isopropyl Myristate, Glyceryl Stearate, Hydrogenated coconut oil, PEG-20 Stearate, Phenoxyethanol, Butyrospermum Parkii (Shea) Butter, Sodium Lauryl Sulfate, Cyclopentasiloxane, Caprylyl Glycol, Ethylhexyl Methoxycinnamate, Ascorbic acid (Vitamin C), Tocopheryl Acetate (Vitamin E), Prunus Amygdalus Dulcis (Sweet Almond) Oil, Panthenol, Persea Gratissima (Avocado) Oil, Aloe Barbadensis (Aloe Vera) Leaf Juice Powder, Olea Europaea (Olive) Fruit Oil, Argania Spinosa Kernel Oil, Lavender Oil, Cucurbita Pepo (Pumpkin) Seed Oil, Honey, Maris sal (Sea Salt), Retinyl Palmitate (Vitamin A), Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, Punica Granatum (Pomegranate) Seed Oil, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Mentha Arvensis ( Mint) Herb Oil, Tocopherol, Daucus Carota Sativa (Carrot) Seed Oil, Anthemis Nobilis (Chamomile) Flower Oil, Helianthus Annuus (Sunflower) Seed Oil, Calendula Officinalis Flower Extract, Parfum",
+      "note": "Ingrediënten zoals vermeld door Israelwinkel; samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme"
     }
   },
   {
@@ -655,14 +738,28 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/hb-voetcreme"
+      },
+      {
         "label": "HB — fabrikant",
         "url": "https://hbdeadsea.com/products/intensive-treatment-anti-crack-foot-cream-enriched-with-avocado-oil-aloe-vera"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "AQUA, STEARYL ALCOHOL, GLYCERYL STEARATE SE, GLYCERIN, CAPRYLIC/CAPRIC TRIGLYCERIDE, ISOPROPYL MYRISTATE, TALC, HYDROGENATED COCONUT OIL, PHENOXYETHANOL, PARAFFIN, GLYCERYL PALMITATE, GLYCERYL STEARATE, ETHYLHEXYLGLYCERIN, CERA ALBA, STEARIC ACID, HELIANTHUS ANNUUS SEED OIL, ARGANIA SPINOSA KERNEL OIL, BUTYROSPERMUM PARKII BUTTER, HIPPOPHAE RHAMNOIDES FRUIT OIL, MARIS SAL, MENTHA ARVENSIS HERB OIL, PRUNUS AMYGDALUS DULCIS OIL, SIMMONDSIA CHINENSIS SEED OIL, HAMAMELIS VIRGINIANA LEAF WATER, SEA SILT (DEAD SEA MUD), CALENDULA OFFICINALIS FLOWER EXTRACT, RETINYL PALMITATE, ALOE BARBADENSIS LEAF JUICE POWDER, TOCOPHERYL ACETATE, PROPYLENE GLYCOL, ANTHEMIS NOBILIS FLOWER OIL, MELALEUCA ALTERNIFOLIA LEAF OIL, OLEA EUROPAEA FRUIT OIL, PERSEA GRATISSIMA OIL, TOCOPHEROL, BENZYL ALCOHOL, SODIUM BENZOATE, POTASSIUM SORBATE, TRIETHYLENE GLYCOL, PARFUM, LIMONENE, CITRAL, ALPHA ISOMETHYL IONONE",
+      "note": "Ingrediënten en spelling zoals vermeld door Israelwinkel; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/hb-voetcreme"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-voetcreme",
+      "sku": "73131"
     }
   },
   {
@@ -694,6 +791,10 @@ window.KPI_PRODUCTS = [
         "label": "Israelwinkel — ingrediënten",
         "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
     }
   },
   {
@@ -729,40 +830,53 @@ window.KPI_PRODUCTS = [
         "label": "HB — ingrediënten fabrikant",
         "url": "https://hbdeadsea.com/products/moisture-rich-shower-cream-lavender"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-douchegel-met-lavendel"
     }
   },
   {
     "id": 27,
     "catalogType": "nonfood",
-    "name": "Haarverzorging met arganolie",
+    "name": "Conditioner met Marokkaanse arganolie",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "",
-    "image": "source-photos/c94c7aa8-258a-4bc7-8f0d-b35299dd4240.jpg",
+    "image": "images/shemen-argan-conditioner-user.png",
     "imageFrame": {
-      "x": 0.5453125,
-      "y": 0.2,
-      "width": 0.065625,
-      "height": 0.20416666666666666,
-      "aspectRatio": 0.42857142857142855
+      "x": 0.10771992818671454,
+      "y": 0.025,
+      "width": 0.7899461400359067,
+      "height": 0.9375,
+      "aspectRatio": 0.36666666666666664
     },
     "allergens": null,
-    "productInfo": {},
+    "productInfo": {
+      "Toepassing": "Conditioner voor droog haar met Marokkaanse arganolie.",
+      "Gebruik": "Na het wassen op nat haar verdelen tot in de puntjes en daarna uitspoelen."
+    },
     "sources": [
       {
-        "label": "Vergelijkingsbron: arganshampoo",
-        "url": "https://www.israelwinkel.nl/producten/shemen-amour-shampoo-met-arganolie"
-      },
-      {
-        "label": "Vergelijkingsbron: arganconditioner",
-        "url": "https://cosmetics-israel.com/en/product/shemen-amour-hair-conditioner-argan-oil-from-morocco/"
+        "label": "Israelwinkel — conditioner met arganolie",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-conditioner-met-arganolie"
       }
     ],
-    "identificationNote": "De arganreeks is herkenbaar; shampoo of conditioner en inhoud zijn nog te bevestigen.",
+    "identificationNote": "De inhoud van deze fles is nog te bevestigen.",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "De exacte uitvoering is nog te bevestigen; de bijbehorende samenstelling is nog niet vastgesteld."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua, cetylalcohol, stearylalcohol, glycerine, dimethicon, cetrominiumchloride, lanoline, dimethicongeur, gehydrogeneerde polysobulente, argania spiniosa kernelolie, polyquaternium-10, maris sal, tocoferylacetaat, methylchloroisathiazolinone, methylisothiazolinone, amodimethicone, trideceth-12",
+      "note": "Spelling en benamingen overgenomen van Israelwinkel.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-conditioner-met-arganolie"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-conditioner-met-arganolie",
+      "sku": "74763"
     }
   },
   {
@@ -780,6 +894,10 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo"
+      },
+      {
         "label": "Productinformatie leverancier",
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
       }
@@ -793,6 +911,10 @@ window.KPI_PRODUCTS = [
         "label": "Experience Israel — ingrediënten",
         "url": "https://www.experienceisrael.eu/nl/shemen-amour-dode-zee-modder-shampoo.html"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo"
     }
   },
   {
@@ -823,17 +945,21 @@ window.KPI_PRODUCTS = [
         "label": "Israelwinkel — ingrediënten",
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
     }
   },
   {
     "id": 30,
     "catalogType": "nonfood",
-    "name": "Douchegel met olijfolie",
+    "name": "Douchegel met olijfolie en honing",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "770 ml",
-    "image": "images/product-30.jpg",
+    "image": "images/shemen-douchegel-olijf-honing-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchegel voor de dagelijkse reiniging van de huid.",
@@ -847,8 +973,25 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua, Amonium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Glycerin, Olea Europaea (Olive) Fruit oil, Citric Acid, Maris Sal (Dead Sea Salt), Aloe Barbadensis Leaf Juice, Tocopheryl Acetate (Vitamin E), Hippophae Rhamnoldes Oil, Persea Grattissmima (Avocado) Oil, Polysorbate 20, Mel Extract, Polyquaternium 7, Punica Granatum (Pomegranate) Seed Extract, Styrene/Acrylates Copolymer, Rosmarinus Officinalis(Rosemary) Leaf Oil, Limonene Linalool, Argania Spinosa Kernel Oil, Lavendula Angustifolia (Lavender) Flowe Extract, Hamamelis Virginiana (Witch Hazel) Extract, Panthenol (Vitamin B5).",
+      "note": "Ingrediënten en spelling zoals vermeld door Israelwinkel; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769",
+      "sku": "74769"
+    },
+    "imageFrame": {
+      "x": 0.23,
+      "y": 0.065,
+      "width": 0.605,
+      "height": 0.867,
+      "aspectRatio": 0.34042294004530466
     }
   },
   {
@@ -859,7 +1002,7 @@ window.KPI_PRODUCTS = [
     "category": "Huidverzorging",
     "shelf": 3,
     "variant": "770 ml",
-    "image": "images/product-31.jpg",
+    "image": "images/shemen-shampoo-mannen-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor alle haartypen; volgens de leverancier ook te gebruiken op het lichaam.",
@@ -877,8 +1020,25 @@ window.KPI_PRODUCTS = [
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten volgens leverancier",
+      "text": "Aqua, Sodium Coceth Sulfate, Cocamidopropyl Betaine, Lauramide Dipa, Polyquaternium 7, Fragrance(Supplement), Steramidopropyl Dimethylamine Lactate, Punica Granatum(Pomegranate) Seed Oil, Lavendula Angustifolia (Lavender) oil, Olea Europaea (Olive) Fruit oil, Persea Grattissmima (Avocado) Oil, Cocos Nucifera (Coconut) Oil, Aloe Barbadensis Leaf Extract, Citric Acid, Maris Sal(Dead Sea Salt), Tocopheryl Acetate (Vitamin E), Methylchlorolsothlazolinone, Methylsothlazolinone",
+      "note": "Ingrediënten en spelling zoals vermeld door Israelwinkel; de samenstelling kan per verpakkingsversie verschillen.",
+      "source": {
+        "label": "Israelwinkel — ingrediënten",
+        "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74757"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74757",
+      "sku": "74757"
+    },
+    "imageFrame": {
+      "x": 0.24,
+      "y": 0.05,
+      "width": 0.48,
+      "height": 0.9,
+      "aspectRatio": 0.3570432357043235
     }
   },
   {
@@ -987,14 +1147,25 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
-        "label": "Productassortiment Careline",
-        "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        "label": "Israelwinkel — Sweet Kiss",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium, Laureth Sulfate, Glycol Distearate, Laureth-10, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Polyquaternium-7, Parfum, Glycerin, DMDM Hydantoin, Disodium EDTA, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Hexyl Cinnamal, Benzyl Salicylate",
+      "note": "Ingrediënten zoals vermeld door Israelwinkel voor Sweet Kiss.",
+      "source": {
+        "label": "Israelwinkel — Sweet Kiss",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252",
+      "variant": "Sweet Kiss",
+      "sku": "75252"
     }
   },
   {
@@ -1013,14 +1184,25 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
-        "label": "Productassortiment Careline",
-        "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        "label": "Israelwinkel — Spring Blossom",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium, Laureth Sulfate, Glycol Distearate, Laureth-10, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Polyquaternium-7, Parfum, Glycerin, DMDM Hydantoin, Disodium EDTA, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Hexyl Cinnamal",
+      "note": "Ingrediënten zoals vermeld door Israelwinkel voor Spring Blossom.",
+      "source": {
+        "label": "Israelwinkel — Spring Blossom",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251",
+      "variant": "Spring Blossom",
+      "sku": "75251"
     }
   },
   {
@@ -1039,14 +1221,25 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
-        "label": "Productassortiment Careline",
-        "url": "https://www.experienceisrael.eu/nl/brands/careline/"
+        "label": "Israelwinkel — Wild Breeze",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253"
       }
     ],
     "identificationNote": "",
     "composition": {
-      "heading": "Ingrediënten en samenstelling",
-      "note": "Nog geen betrouwbare volledige ingrediëntenlijst voor deze uitvoering gevonden."
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium, Laureth Sulfate, Glycol Distearate, Laureth-10, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Polyquaternium-7, Parfum, Glycerin, DMDM Hydantoin, Disodium EDTA, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, citronellol Coumarin, Limonene",
+      "note": "Ingrediënten zoals vermeld door Israelwinkel voor Wild Breeze.",
+      "source": {
+        "label": "Israelwinkel — Wild Breeze",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253",
+      "variant": "Wild Breeze",
+      "sku": "75253"
     }
   },
   {
@@ -1057,13 +1250,17 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "50 ml",
-    "image": "images/product-38.jpg",
+    "image": "images/careline-collagen-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Hydraterende dagcrème voor het gezicht.",
       "Zonbescherming": "SPF 30"
     },
     "sources": [
+      {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
+      },
       {
         "label": "Careline — productcatalogus",
         "url": "https://sayumo.com/wp-content/uploads/2025/04/Sano-Beauty-Catalog-EN.pdf"
@@ -1083,6 +1280,17 @@ window.KPI_PRODUCTS = [
         "label": "Terminal X — ingrediënten",
         "url": "https://www.terminalx.com/brands/careline/W95234"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
+    },
+    "imageFrame": {
+      "x": 0.12,
+      "y": 0.1889763779527559,
+      "width": 0.7295238095238096,
+      "height": 0.687992125984252,
+      "aspectRatio": 1.09585121602289
     }
   },
   {
@@ -1131,6 +1339,10 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
+      },
+      {
         "label": "Careline — fabrikant",
         "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
       }
@@ -1145,6 +1357,10 @@ window.KPI_PRODUCTS = [
         "label": "Careline — ingrediënten fabrikant",
         "url": "https://careline.co.il/multi-effect-קרם-לילה-copy-0/"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
     }
   },
   {
@@ -1193,6 +1409,10 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       {
+        "label": "Israelwinkel — productinformatie",
+        "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger"
+      },
+      {
         "label": "Careline — fabrikant",
         "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
       }
@@ -1206,6 +1426,10 @@ window.KPI_PRODUCTS = [
         "label": "Careline — ingrediënten fabrikant",
         "url": "https://careline.co.il/c-power/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger"
     }
   },
   {
@@ -1216,13 +1440,17 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "700 ml",
-    "image": "images/product-43.jpg",
+    "image": "images/crema-munt-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar en lichaam met munt.",
       "Gebruik": "Op nat haar en natte huid verdelen, laten schuimen en goed afspoelen."
     },
     "sources": [
+      {
+        "label": "Israelwinkel — Mint",
+        "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75285%20"
+      },
       {
         "label": "Super-Pharm Israël",
         "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%9E%D7%A0%D7%98%D7%94-2-%D7%91-1/p/343105"
@@ -1231,11 +1459,11 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "ean": "7290012117428",
     "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.56,
-      "height": 1,
-      "aspectRatio": 0.5194893617021277
+      "x": 0.30952380952380953,
+      "y": 0.023809523809523808,
+      "width": 0.38412698412698415,
+      "height": 0.9301587301587302,
+      "aspectRatio": 0.4129692832764505
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -1245,6 +1473,12 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290012117428"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75285%20",
+      "variant": "Mint",
+      "sku": "75285"
     }
   },
   {
@@ -1255,13 +1489,17 @@ window.KPI_PRODUCTS = [
     "category": "Verzorging",
     "shelf": 4,
     "variant": "700 ml",
-    "image": "images/product-44.jpg",
+    "image": "images/crema-aloe-user.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar en lichaam met aloë vera.",
       "Gebruik": "Op nat haar en natte huid verdelen, laten schuimen en goed afspoelen."
     },
     "sources": [
+      {
+        "label": "Israelwinkel — Aloë vera",
+        "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75286"
+      },
       {
         "label": "Super-Pharm Israël",
         "url": "https://shop.super-pharm.co.il/care/bath-and-hygiene/body-wash/%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%92%27%D7%9C-%D7%A8%D7%97%D7%A6%D7%94-%D7%90%D7%9C%D7%95%D7%95%D7%A8%D7%94-2-%D7%91-1/p/343104"
@@ -1277,6 +1515,19 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290012117435"
       }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75286",
+      "variant": "Aloë vera",
+      "sku": "75286"
+    },
+    "imageFrame": {
+      "x": 0.3382978723404255,
+      "y": 0.03807106598984772,
+      "width": 0.32127659574468087,
+      "height": 0.9175126903553299,
+      "aspectRatio": 0.41770401106500693
     }
   },
   {
@@ -1317,6 +1568,13 @@ window.KPI_PRODUCTS = [
         "url": "https://groundjerusalem.com/product/hair-care/shampoo/shampoo-and-conditioner-for-normal-hair-2-in-1-with-rosemary-extract-700ml-made-in-israel/"
       },
       "note": "Online etiketfoto van de 2-in-1 voor normaal haar."
+    },
+    "imageFrame": {
+      "x": 0.3375796178343949,
+      "y": 0.06687898089171974,
+      "width": 0.32643312101910826,
+      "height": 0.8662420382165605,
+      "aspectRatio": 0.37683823529411764
     }
   },
   {
@@ -1357,6 +1615,13 @@ window.KPI_PRODUCTS = [
         "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-shampoo-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
       },
       "note": "Online etiketfoto van de playlist-uitvoering voor normaal haar; het ontwerp wijkt af van de voorkant."
+    },
+    "imageFrame": {
+      "x": 0.3111111111111111,
+      "y": 0,
+      "width": 0.37555555555555553,
+      "height": 1,
+      "aspectRatio": 0.37555555555555553
     }
   },
   {
@@ -1389,6 +1654,13 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290116531250"
       }
+    },
+    "imageFrame": {
+      "x": 0.35479951397326853,
+      "y": 0.09720534629404617,
+      "width": 0.2976913730255164,
+      "height": 0.8055893074119077,
+      "aspectRatio": 0.3695324283559578
     }
   },
   {
@@ -1421,6 +1693,13 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290116534879"
       }
+    },
+    "imageFrame": {
+      "x": 0.34896810506566606,
+      "y": 0.09943714821763602,
+      "width": 0.29831144465290804,
+      "height": 0.8048780487804879,
+      "aspectRatio": 0.3706293706293706
     }
   },
   {
@@ -1453,6 +1732,13 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290112492548"
       }
+    },
+    "imageFrame": {
+      "x": 0.375,
+      "y": 0.17777777777777778,
+      "width": 0.24583333333333332,
+      "height": 0.6611111111111111,
+      "aspectRatio": 0.37184873949579833
     }
   },
   {
@@ -1493,6 +1779,13 @@ window.KPI_PRODUCTS = [
         "url": "https://groundjerusalem.com/product/hair-care/shampoo/pinuk-conditioner-for-normal-hair-with-rosemary-extract-700ml-israeli-playlist-edition-made-in-israel/"
       },
       "note": "Online etiketfoto van de playlist-uitvoering voor normaal haar; het ontwerp wijkt af van de voorkant."
+    },
+    "imageFrame": {
+      "x": 0.3545966228893058,
+      "y": 0.09943714821763602,
+      "width": 0.300187617260788,
+      "height": 0.8030018761726079,
+      "aspectRatio": 0.37383177570093457
     }
   },
   {
@@ -1518,11 +1811,11 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "ean": "7290112499448",
     "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 0.5,
-      "height": 1,
-      "aspectRatio": 0.43566666666666665
+      "x": 0.060443764345830146,
+      "y": 0.029333333333333333,
+      "width": 0.39709257842387147,
+      "height": 0.9326666666666666,
+      "aspectRatio": 0.37097927090779126
     },
     "composition": {
       "heading": "Ingrediënten (INCI)",
@@ -1565,6 +1858,13 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290112492609"
       }
+    },
+    "imageFrame": {
+      "x": 0.34609250398724084,
+      "y": 0.10366826156299841,
+      "width": 0.28309409888357256,
+      "height": 0.7982456140350878,
+      "aspectRatio": 0.3546453546453546
     }
   },
   {
@@ -1597,6 +1897,13 @@ window.KPI_PRODUCTS = [
         "label": "Seker Shook — ingrediënten bij deze barcode",
         "url": "https://www.sekershook.com/p/7290116533117"
       }
+    },
+    "imageFrame": {
+      "x": 0.354,
+      "y": 0.099,
+      "width": 0.294,
+      "height": 0.798,
+      "aspectRatio": 0.3684210526315789
     }
   },
   {
@@ -2067,6 +2374,10 @@ window.KPI_PRODUCTS = [
     "composition": {
       "heading": "Materiaal",
       "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
     }
   },
   {

@@ -1,0 +1,228 @@
+{
+  "checked": "2026-09-29",
+  "note": "Careline-geuren afzonderlijk in de winkelpagina geselecteerd. SKU-link voor Sweet Kiss in browser bevestigd. Onzekere varianten niet automatisch gekoppeld.",
+  "updates": [
+    {
+      "id": 17,
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder"
+    },
+    {
+      "id": 18,
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-badzout"
+    },
+    {
+      "id": 28,
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo"
+    },
+    {
+      "id": 38,
+      "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
+    },
+    {
+      "id": 40,
+      "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
+    },
+    {
+      "id": 42,
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger"
+    },
+    {
+      "id": 21,
+      "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme-lavendel"
+    },
+    {
+      "id": 22,
+      "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme"
+    },
+    {
+      "id": 35,
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252",
+      "variant": "Sweet Kiss",
+      "sku": "75252"
+    },
+    {
+      "id": 36,
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251",
+      "variant": "Spring Blossom",
+      "sku": "75251"
+    },
+    {
+      "id": 37,
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253",
+      "variant": "Wild Breeze",
+      "sku": "75253"
+    },
+    {
+      "id": 43,
+      "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75285",
+      "variant": "Mint",
+      "sku": "75285"
+    },
+    {
+      "id": 44,
+      "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75286",
+      "variant": "Aloë vera",
+      "sku": "75286"
+    }
+  ],
+  "currentSupplierLinks": [
+    {
+      "id": 10,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodybutter-aloe-vera"
+    },
+    {
+      "id": 13,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-gezichtszeep"
+    },
+    {
+      "id": 14,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-after-shave-balsem"
+    },
+    {
+      "id": 15,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-bodylotion-olijfolie"
+    },
+    {
+      "id": 17,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder"
+    },
+    {
+      "id": 18,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-badzout"
+    },
+    {
+      "id": 19,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-zeep",
+      "sku": "73134"
+    },
+    {
+      "id": 20,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-bodybutter-lavendel"
+    },
+    {
+      "id": 21,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme-lavendel"
+    },
+    {
+      "id": 22,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-hand-en-nagelcreme"
+    },
+    {
+      "id": 24,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-voetcreme",
+      "sku": "73131"
+    },
+    {
+      "id": 25,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-all-purpose-cream"
+    },
+    {
+      "id": 26,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/hb-douchegel-met-lavendel"
+    },
+    {
+      "id": 27,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-conditioner-met-arganolie",
+      "sku": "74763"
+    },
+    {
+      "id": 28,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-dode-zee-modder-shampoo"
+    },
+    {
+      "id": 29,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour-mineral-mud-soap"
+    },
+    {
+      "id": 30,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769",
+      "sku": "74769"
+    },
+    {
+      "id": 31,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74757",
+      "sku": "74757"
+    },
+    {
+      "id": 35,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75252",
+      "variant": "Sweet Kiss",
+      "sku": "75252"
+    },
+    {
+      "id": 36,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75251",
+      "variant": "Spring Blossom",
+      "sku": "75251"
+    },
+    {
+      "id": 37,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75253",
+      "variant": "Wild Breeze",
+      "sku": "75253"
+    },
+    {
+      "id": 38,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-dagcreme-pro-collageen"
+    },
+    {
+      "id": 40,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-nachtceme-pro-retinol"
+    },
+    {
+      "id": 42,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-c-power-gezichtsreiniger"
+    },
+    {
+      "id": 43,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75285%20",
+      "variant": "Mint",
+      "sku": "75285"
+    },
+    {
+      "id": 44,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/crema-men-2-in-1?sku=75286",
+      "variant": "Aloë vera",
+      "sku": "75286"
+    },
+    {
+      "id": 68,
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/witte-kaarsen-12cm"
+    }
+  ],
+  "additionalVerified": [
+    19,
+    24,
+    30,
+    31,
+    43
+  ],
+  "mintLinkNote": "Artikelnummer bevat bij leverancier een afsluitende spatie; sku=75285%20 opent aantoonbaar Mint, sku=75285 opent Aloë vera."
+}
