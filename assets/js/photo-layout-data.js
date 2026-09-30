@@ -934,11 +934,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "meter-15/images/bamba-marshmallow.jpg": {
+    "image": "assets/images/front/bamba-marshmallow-clean.png",
     "imageBounds": [
-      0.0925,
-      0.003,
-      0.9065,
-      1
+      0.103,
+      0.009,
+      0.897,
+      0.993
     ]
   },
   "meter-15/images/gusto-85g-selected.png": {
