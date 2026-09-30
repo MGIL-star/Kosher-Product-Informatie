@@ -661,7 +661,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 50,
     "name": "Harosset",
-    "brand": "Beit-Yitzhak Natural Products",
+    "brand": "Beit Yitzhak Natural Products",
     "category": "Spreads & Pasta’s",
     "variant": "250 g",
     "ean": "7290004067458",
@@ -681,7 +681,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g"
     },
-    "reviewNotes": "Gebruiker bevestigt Beit-Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Geen hechsher zichtbaar op deze foto. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
+    "reviewNotes": "Gebruiker bevestigt Beit Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Geen hechsher zichtbaar op deze foto. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
     "imageEdited": true,
     "mayContain": "Paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten.",
     "warning": "Kan stukjes pitten bevatten."

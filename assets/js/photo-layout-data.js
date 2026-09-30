@@ -1893,5 +1893,14 @@ window.KPI_PHOTO_LAYOUT = {
       0.8277372262773722,
       0.9398954703832753
     ]
+  },
+  "meter-8/images/bnei-chimichurri-correct.png": {
+    "image": "assets/images/front/product-8-62-sharp.png",
+    "imageBounds": [
+      0.17543859649122806,
+      0.009569377990430622,
+      0.8141945773524721,
+      0.9848484848484849
+    ]
   }
 };
