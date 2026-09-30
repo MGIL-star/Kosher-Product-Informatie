@@ -378,11 +378,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "meter-5/images/albadya-amba-clean.png": {
+    "image": "assets/images/front/albadya-amba-supplied.png",
     "imageBounds": [
-      0.36842,
-      0.02073,
-      0.62919,
-      0.9689
+      0.36762360446570974,
+      0.02073365231259968,
+      0.6291866028708134,
+      0.9665071770334929
     ]
   },
   "meter-8/images/honing-bloemen.png": {
@@ -434,11 +435,12 @@ window.KPI_PHOTO_LAYOUT = {
     ]
   },
   "meter-8/images/albadya-amba.png": {
+    "image": "assets/images/front/albadya-amba-supplied.png",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
+      0.36762360446570974,
+      0.02073365231259968,
+      0.6291866028708134,
+      0.9665071770334929
     ]
   },
   "meter-8/images/albadya-sumak.png": {
