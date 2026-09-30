@@ -1904,5 +1904,29 @@ window.KPI_PHOTO_LAYOUT = {
       0.8141945773524721,
       0.9848484848484849
     ]
+  },
+  "meter-13/images/product-21-supplied.png": {
+    "image": "assets/images/front/beigel-pretzels-300g.png",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.18,
+          0.02
+        ],
+        [
+          0.82,
+          0.02
+        ],
+        [
+          0.82,
+          0.98
+        ],
+        [
+          0.18,
+          0.98
+        ]
+      ],
+      "aspectRatio": 0.6666666666666666
+    }
   }
 };

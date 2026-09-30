@@ -325,7 +325,7 @@ window.KPI_PRODUCTS = [
     "brand": "Beigel & Beigel",
     "name": "Gezouten pretzels",
     "category": "Zoute snacks",
-    "variant": "",
+    "variant": "300 g",
     "ean": "084685000517",
     "ingredients": "Tarwemeel, palmolie, zout, gerstemoutstroop, gist, zuurteregelaar (E524).",
     "allergens": [
