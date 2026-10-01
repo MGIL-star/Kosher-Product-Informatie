@@ -605,17 +605,19 @@ window.KPI_PRODUCTS = [
     "warning": "De Nederlandse sticker wijkt af van de originele ingrediëntenlijst. Mosterd staat op de sticker en is daarom opgenomen als allergeen. Laat bij een allergie de juiste receptuur bevestigen. Na opening gekoeld bewaren.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "images/product-19.jpg",
+    "image": "images/honey-bbq-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/honey_bbq.jpg?v=1500001873",
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
     "imageSourcePage": "https://benedikts.com/products/liebers-bbq-sauce-honey-baerbecue-510g",
     "imageBounds": [
-      0.265,
-      0,
-      0.735,
-      1
+      0.28,
+      0.01,
+      0.72,
+      0.98
     ],
-    "englishName": "Honey BBQ Sauce"
+    "englishName": "Honey BBQ Sauce",
+    "imageOriginal": "images/product-19.jpg",
+    "imageRetouched": true
   },
   {
     "id": 20,

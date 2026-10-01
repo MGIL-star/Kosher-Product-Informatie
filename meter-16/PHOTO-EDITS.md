@@ -75,3 +75,7 @@ Hiermee zijn 16 foto's digitaal afgewerkt. Alleen de gele Braided Pretzels is no
 De gebruiker herhaalde expliciet dat Braided Pretzels in de gele zak moest staan. `images/braided-yellow-strak.png` vervangt nu de paarse foto. Online gele Sourdough-verpakking gebruikt als sjabloon en foto 22 als variantreferentie. Gevlochten pretzelstaafjes zichtbaar; Sourdough/Levain en het zoutwaarschuwingssymbool van het sjabloon verwijderd. Geen aanvullende productclaims toegevoegd. Gehele zak recht en op wit, 340 g. Totaal 17 digitaal afgewerkte foto's.
 
 Op verzoek zijn de secties Fotobewerking en Fotobron uit de productvensters van meter 16 verwijderd. Interne bronregistratie blijft in dit document en de productdata beschikbaar.
+
+## Honey BBQ rechtgezet
+
+`images/honey-bbq-strak.png` vervangt `images/product-19.jpg`. Built-in imagegen gebruikt. Prompt: straighten the bottle and front label to a frontal upright packshot on white; preserve Honey BBQ variant, bottle shape, label design and 510g. Tweede correctie: SINCE 1939 in het logo herstellen. Productgegevens ongewijzigd.
