@@ -39,7 +39,7 @@
     return `<article class="product-card">
       <button type="button" data-product-id="${product.id}" aria-label="Bekijk ${escapeHtml(product.brand)} ${escapeHtml(product.name)}">
         ${productImage(product)}
-        <span class="card-text"><strong>${escapeHtml(product.name)}</strong><small>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</small>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</span>
+        <span class="card-text"><strong>${escapeHtml(product.name)}</strong><small>${escapeHtml(product.brand)}</small>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</span>
         <span class="card-action">Ingrediënten &amp; allergenen <span aria-hidden="true">→</span></span>
       </button>
     </article>`;
@@ -58,7 +58,7 @@
     if (!visible.length) {
       const hasProducts = products.length > 0;
       document.querySelector('#empty-title').textContent = hasProducts ? 'Geen producten gevonden' : 'Nog geen producten toegevoegd';
-      document.querySelector('#empty-copy').textContent = hasProducts ? 'Probeer een andere zoekterm of kies een ander filter.' : 'Meter 15 staat klaar voor de echte productgegevens.';
+      document.querySelector('#empty-copy').textContent = hasProducts ? 'Probeer een andere zoekterm of kies een ander filter.' : 'Meter 16 staat klaar voor de echte productgegevens.';
     }
   }
 
@@ -73,7 +73,7 @@
     dialogContent.innerHTML = `<div class="dialog-product">
       ${productImage(product, true)}
       <p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>
-      <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
+      <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
       <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p></section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div></section>
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}

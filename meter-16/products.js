@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Lieber’s",
-    "name": "Original Potato Chips",
+    "name": "Aardappelchips naturel",
     "variant": "396 g",
     "category": "Snacks",
     "ean": "043427181310",
@@ -29,12 +29,13 @@ window.KPI_PRODUCTS = [
       0.985
     ],
     "imageOriginal": "images/product-01.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Original Potato Chips"
   },
   {
     "id": 2,
     "brand": "Lieber’s",
-    "name": "Honey Potato Chips",
+    "name": "Aardappelchips met honingsmaak",
     "variant": "227 g",
     "category": "Snacks",
     "ean": "043427000635",
@@ -59,12 +60,13 @@ window.KPI_PRODUCTS = [
       0.98
     ],
     "imageOriginal": "images/found-2.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Honey Potato Chips"
   },
   {
     "id": 3,
     "brand": "Lieber’s",
-    "name": "Corn Chips Original",
+    "name": "Maïschips naturel",
     "variant": "312 g",
     "category": "Snacks",
     "ean": "043427181143",
@@ -91,12 +93,13 @@ window.KPI_PRODUCTS = [
       0.985
     ],
     "imageOriginal": "images/product-03.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Corn Chips Original"
   },
   {
     "id": 4,
     "brand": "Lieber’s",
-    "name": "Kettle Cooked Original",
+    "name": "Ketelgebakken chips naturel",
     "variant": "141 g",
     "category": "Snacks",
     "ean": "043427004701",
@@ -122,12 +125,13 @@ window.KPI_PRODUCTS = [
     ],
     "imageProvidedByUser": true,
     "imageOriginal": "images/kettle-original.png",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Kettle Cooked Original"
   },
   {
     "id": 5,
     "brand": "Lieber’s",
-    "name": "Kettle Cooked BBQ",
+    "name": "Ketelgebakken chips met barbecuesmaak",
     "variant": "141 g",
     "category": "Snacks",
     "ean": "043427004718",
@@ -155,12 +159,13 @@ window.KPI_PRODUCTS = [
     ],
     "imageProvidedByUser": true,
     "imageOriginal": "images/kettle-bbq.png",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Kettle Cooked BBQ"
   },
   {
     "id": 6,
     "brand": "Popta / Lieber’s",
-    "name": "Barbeque Rings Family Pack",
+    "name": "Barbecueringen – gezinsverpakking",
     "variant": "10 × 15 g · 150 g",
     "category": "Snacks",
     "ean": "043427014908",
@@ -187,13 +192,14 @@ window.KPI_PRODUCTS = [
       0.96
     ],
     "imageOriginal": "images/found-6.png",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Barbeque Rings Family Pack"
   },
   {
     "id": 7,
     "brand": "Lieber’s",
-    "name": "Cotton Candy",
-    "variant": "Suikerspin",
+    "name": "Suikerspin",
+    "variant": "",
     "category": "Snoep",
     "ean": "043427004572",
     "sourcePhotos": [
@@ -219,12 +225,13 @@ window.KPI_PRODUCTS = [
     ],
     "imageProvidedByUser": true,
     "imageOriginal": "images/cotton-candy.png",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Cotton Candy"
   },
   {
     "id": 8,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster Sweet Chilli Pepper",
+    "name": "Mr. Hipster chips met zoete chilismaak",
     "variant": "170 g",
     "category": "Snacks",
     "ean": "194961000770",
@@ -251,12 +258,13 @@ window.KPI_PRODUCTS = [
       0.03,
       0.65,
       0.97
-    ]
+    ],
+    "englishName": "Mr. Hipster Sweet Chilli Pepper"
   },
   {
     "id": 9,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster Gently Salted",
+    "name": "Mr. Hipster licht gezouten chips",
     "variant": "170 g",
     "category": "Snacks",
     "ean": "194961000763",
@@ -283,13 +291,14 @@ window.KPI_PRODUCTS = [
       0.04,
       0.65,
       0.96
-    ]
+    ],
+    "englishName": "Mr. Hipster Gently Salted"
   },
   {
     "id": 10,
     "brand": "Lieber’s",
-    "name": "Sourdough Pretzels",
-    "variant": "Zuurdesempretzels",
+    "name": "Zuurdesempretzels",
+    "variant": "",
     "category": "Snacks",
     "ean": "",
     "sourcePhotos": [
@@ -315,12 +324,13 @@ window.KPI_PRODUCTS = [
       0.978
     ],
     "imageOriginal": "images/sourdough-yellow-source.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Sourdough Pretzels"
   },
   {
     "id": 11,
     "brand": "Lieber’s",
-    "name": "Braided Pretzels",
+    "name": "Gevlochten pretzels",
     "variant": "340 g",
     "category": "Snacks",
     "ean": "043427182119",
@@ -350,12 +360,13 @@ window.KPI_PRODUCTS = [
       0.978
     ],
     "imageOriginal": "images/sourdough-yellow-source.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Braided Pretzels"
   },
   {
     "id": 12,
     "brand": "Lieber’s",
-    "name": "Cherry Nibs",
+    "name": "Snoepstukjes met kersensmaak",
     "variant": "113 g",
     "category": "Snoep",
     "ean": "043427400480",
@@ -384,12 +395,13 @@ window.KPI_PRODUCTS = [
       0.978
     ],
     "imageOriginal": "images/found-12.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Cherry Nibs"
   },
   {
     "id": 13,
     "brand": "Lieber’s",
-    "name": "Ball Lollypops",
+    "name": "Ronde lolly’s",
     "variant": "85 g",
     "category": "Snoep",
     "ean": "043427400619",
@@ -414,12 +426,13 @@ window.KPI_PRODUCTS = [
       0.976
     ],
     "imageOriginal": "images/ball-lollypops-source.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Ball Lollypops"
   },
   {
     "id": 14,
     "brand": "Lieber’s",
-    "name": "Licorice Twists Black",
+    "name": "Gedraaide zwarte drop",
     "variant": "113 g",
     "category": "Snoep",
     "ean": "043427400466",
@@ -447,12 +460,13 @@ window.KPI_PRODUCTS = [
       0.985
     ],
     "imageOriginal": "images/product-14.png",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Licorice Twists Black"
   },
   {
     "id": 15,
     "brand": "Lieber’s",
-    "name": "Cherry Pull-N-Peel",
+    "name": "Snoepveters met kersensmaak",
     "variant": "172 g",
     "category": "Snoep",
     "ean": "043427400688",
@@ -479,12 +493,13 @@ window.KPI_PRODUCTS = [
       0.972
     ],
     "imageOriginal": "images/found-15.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Cherry Pull-N-Peel"
   },
   {
     "id": 16,
     "brand": "Lieber’s",
-    "name": "Graham Pie Crust",
+    "name": "Taartbodem van grahamcrackers",
     "variant": "170 g",
     "category": "Bakken",
     "ean": "043427127011",
@@ -510,12 +525,13 @@ window.KPI_PRODUCTS = [
       0.11,
       0.88,
       0.88
-    ]
+    ],
+    "englishName": "Graham Pie Crust"
   },
   {
     "id": 17,
     "brand": "Lieber’s",
-    "name": "Chocolate Flavored Syrup",
+    "name": "Chocoladesiroop",
     "variant": "624 g",
     "category": "Sauzen",
     "ean": "043427022316",
@@ -538,12 +554,13 @@ window.KPI_PRODUCTS = [
       0.01,
       0.765,
       0.99
-    ]
+    ],
+    "englishName": "Chocolate Flavored Syrup"
   },
   {
     "id": 18,
     "brand": "Lieber’s",
-    "name": "Strawberry Flavored Syrup",
+    "name": "Aardbeiensiroop",
     "variant": "567 g",
     "category": "Sauzen",
     "ean": "043427022224",
@@ -566,12 +583,13 @@ window.KPI_PRODUCTS = [
       0.04,
       0.73,
       0.925
-    ]
+    ],
+    "englishName": "Strawberry Flavored Syrup"
   },
   {
     "id": 19,
     "brand": "Lieber’s",
-    "name": "Honey BBQ Sauce",
+    "name": "Barbecuesaus met honing",
     "variant": "510 g",
     "category": "Sauzen",
     "ean": "043427011792",
@@ -596,12 +614,13 @@ window.KPI_PRODUCTS = [
       0,
       0.735,
       1
-    ]
+    ],
+    "englishName": "Honey BBQ Sauce"
   },
   {
     "id": 20,
     "brand": "Lieber’s",
-    "name": "Sriracha Hot Chili Sauce",
+    "name": "Pittige sriracha-chilisaus",
     "variant": "454 g",
     "category": "Sauzen",
     "ean": "043427007801",
@@ -626,12 +645,13 @@ window.KPI_PRODUCTS = [
       0.02,
       0.67,
       0.915
-    ]
+    ],
+    "englishName": "Sriracha Hot Chili Sauce"
   },
   {
     "id": 21,
     "brand": "Lieber’s",
-    "name": "Teriyaki Sauce",
+    "name": "Teriyakisaus",
     "variant": "296 ml",
     "category": "Sauzen",
     "ean": "043427222624",
@@ -658,12 +678,13 @@ window.KPI_PRODUCTS = [
       0.977
     ],
     "imageOriginal": "images/found-21.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Teriyaki Sauce"
   },
   {
     "id": 22,
     "brand": "Lieber’s",
-    "name": "Soy Sauce",
+    "name": "Sojasaus",
     "variant": "296 ml",
     "category": "Sauzen",
     "ean": "043427222600",
@@ -693,12 +714,13 @@ window.KPI_PRODUCTS = [
       0.991
     ],
     "imageOriginal": "images/found-22.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Soy Sauce"
   },
   {
     "id": 23,
     "brand": "Lieber’s",
-    "name": "Light Soy Sauce",
+    "name": "Lichte sojasaus",
     "variant": "296 ml",
     "category": "Sauzen",
     "ean": "043427222617",
@@ -726,12 +748,13 @@ window.KPI_PRODUCTS = [
       0,
       0.64,
       1
-    ]
+    ],
+    "englishName": "Light Soy Sauce"
   },
   {
     "id": 24,
     "brand": "Lieber’s",
-    "name": "Whole Hearts of Palm",
+    "name": "Hele palmharten",
     "variant": "400 g · uitlekgewicht 220 g",
     "category": "Conserven",
     "ean": "043427201353",
@@ -756,12 +779,13 @@ window.KPI_PRODUCTS = [
       0.115,
       0.735,
       0.87
-    ]
+    ],
+    "englishName": "Whole Hearts of Palm"
   },
   {
     "id": 25,
     "brand": "Shwartz",
-    "name": "Cholent Mix",
+    "name": "Bonenmix voor cholent",
     "variant": "454 g",
     "category": "Peulvruchten",
     "ean": "748935026206",
@@ -788,12 +812,13 @@ window.KPI_PRODUCTS = [
       0.75
     ],
     "imageOriginal": "images/found-25.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "englishName": "Cholent Mix"
   },
   {
     "id": 26,
     "brand": "Lieber’s",
-    "name": "Kosher Dill Gherkins",
+    "name": "Dille-augurken",
     "variant": "720 ml",
     "category": "Conserven",
     "ean": "043427308984",
@@ -818,12 +843,13 @@ window.KPI_PRODUCTS = [
       0,
       0.84,
       1
-    ]
+    ],
+    "englishName": "Kosher Dill Gherkins"
   },
   {
     "id": 27,
     "brand": "Lieber’s",
-    "name": "Sweet & Sour Duck Sauce",
+    "name": "Zoetzure saus",
     "variant": "793 g",
     "category": "Sauzen",
     "ean": "043427004619",
@@ -848,12 +874,13 @@ window.KPI_PRODUCTS = [
       0.015,
       0.8,
       0.99
-    ]
+    ],
+    "englishName": "Sweet & Sour Duck Sauce"
   },
   {
     "id": 28,
     "brand": "Lieber’s",
-    "name": "Passata Crushed Tomatoes",
+    "name": "Gezeefde tomaten (passata)",
     "variant": "652 g",
     "category": "Conserven",
     "ean": "043427028202",
@@ -879,12 +906,13 @@ window.KPI_PRODUCTS = [
       0.015,
       0.665,
       0.985
-    ]
+    ],
+    "englishName": "Passata Crushed Tomatoes"
   },
   {
     "id": 29,
     "brand": "Lieber’s",
-    "name": "Tomato Basil Marinara Pasta Sauce",
+    "name": "Pastasaus met tomaat en basilicum",
     "variant": "680 g",
     "category": "Sauzen",
     "ean": "043427225038",
@@ -910,12 +938,13 @@ window.KPI_PRODUCTS = [
       0.035,
       0.73,
       0.865
-    ]
+    ],
+    "englishName": "Tomato Basil Marinara Pasta Sauce"
   },
   {
     "id": 30,
     "brand": "Lieber’s",
-    "name": "Classic Marinara Pasta Sauce",
+    "name": "Klassieke tomatensaus voor pasta",
     "variant": "680 g",
     "category": "Sauzen",
     "ean": "043427225014",
@@ -940,12 +969,13 @@ window.KPI_PRODUCTS = [
       0,
       0.75,
       1
-    ]
+    ],
+    "englishName": "Classic Marinara Pasta Sauce"
   },
   {
     "id": 31,
     "brand": "Lieber’s",
-    "name": "Original Pizza Sauce",
+    "name": "Pizzasaus",
     "variant": "680 g",
     "category": "Sauzen",
     "ean": "043427225069",
@@ -970,7 +1000,8 @@ window.KPI_PRODUCTS = [
       0,
       0.77,
       1
-    ]
+    ],
+    "englishName": "Original Pizza Sauce"
   },
   {
     "id": 32,
