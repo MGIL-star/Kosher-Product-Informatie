@@ -164,15 +164,9 @@ window.KPI_PRODUCTS = [
     "warning": "",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "sources": [],
-    "image": "images/product-06.jpg",
-    "imageSource": "Aangeleverde productfoto 11.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 7,
@@ -192,15 +186,16 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "images/product-07.jpg",
-    "imageSource": "Aangeleverde productfoto 13.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
+    "image": "images/packshot-07.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427001878.jpg?v=1764269797",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Online packshot; verpakkingsformaat of etiket kan afwijken.",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+      0.255,
+      0.13,
+      0.72,
+      0.85
+    ],
+    "imageSourcePage": "https://miamikosherfood.com/products/liebers-cotton-candy-8-oz"
   },
   {
     "id": 8,
@@ -318,15 +313,9 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.kashrut.com/Alerts/LiebersYoshonList-12-4-2025.pdf"
     ],
-    "image": "images/product-11.jpg",
-    "imageSource": "Aangeleverde productfoto 22.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 12,
@@ -349,15 +338,9 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "",
     "sources": [],
-    "image": "images/product-12.jpg",
-    "imageSource": "Aangeleverde productfoto 25.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 13,
@@ -376,15 +359,16 @@ window.KPI_PRODUCTS = [
     "warning": "E102, E110 en/of E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "images/product-13.jpg",
-    "imageSource": "Aangeleverde productfoto 27.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
+    "image": "images/packshot-13.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIBLP-LIEBERS_BALL_LOLLYPOPS_340G.jpg?v=1499238332",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Online packshot; verpakkingsformaat of etiket kan afwijken.",
     "imageBounds": [
       0,
-      0,
+      0.24,
       1,
-      1
-    ]
+      0.77
+    ],
+    "imageSourcePage": "https://benedikts.com/products/liblp"
   },
   {
     "id": 14,
@@ -436,15 +420,9 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "",
     "sources": [],
-    "image": "images/product-15.jpg",
-    "imageSource": "Aangeleverde productfoto 31.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 16,
@@ -612,15 +590,9 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.com/products/17553469-lieber-s-teriyaki-sauce-10-oz"
     ],
-    "image": "images/product-21.jpg",
-    "imageSource": "Aangeleverde productfoto 42.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 22,
@@ -644,15 +616,9 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.ca/products/16662770-lieber-s-soy-sauce-10-fl-oz"
     ],
-    "image": "images/product-22.jpg",
-    "imageSource": "Aangeleverde productfoto 44.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 23,
@@ -736,15 +702,9 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.aqua-calc.com/calculate/food-weight-to-volume/substance/cholent-blank-mix-coma-and-blank-upc-column--blank-748935026206-blank--op-dry-cp-)"
     ],
-    "image": "images/product-25.jpg",
-    "imageSource": "Aangeleverde productfoto 50.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+    "image": "",
+    "imageSource": "",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
   },
   {
     "id": 26,
@@ -817,23 +777,25 @@ window.KPI_PRODUCTS = [
       56,
       57
     ],
-    "ingredients": "De volledige ingrediëntenlijst is nog niet betrouwbaar bevestigd voor deze verpakking. Controleer het etiket.",
+    "ingredients": "Geplette tomaten, zout, zuurteregelaar: citroenzuur.",
     "allergens": null,
     "mayContain": "",
-    "warning": "",
+    "warning": "Ingrediënten uit de online productvermelding voor 23 oz. Controleer de actuele verpakking.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [
-      "https://www.instacart.ca/store/products/41173514-lieber-s-passata-crushed-tomatoes-23-oz"
+      "https://www.instacart.ca/store/products/41173514-lieber-s-passata-crushed-tomatoes-23-oz",
+      "https://www.instacart.com/products/43343735-lieber-s-italian-crushed-tomatoes-passata-23-oz"
     ],
-    "image": "images/product-28.jpg",
-    "imageSource": "Aangeleverde productfoto 56.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
+    "image": "images/packshot-28.jpg",
+    "imageSource": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_b9aa306e-42c1-4196-a2f5-7aa8bb112f9a.jpg",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Online packshot; verpakkingsformaat of etiket kan afwijken.",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+      0.33,
+      0.015,
+      0.665,
+      0.985
+    ],
+    "imageSourcePage": "https://www.instacart.com/products/43343735-lieber-s-italian-crushed-tomatoes-passata-23-oz"
   },
   {
     "id": 29,
@@ -885,15 +847,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.heb.com/product-detail/lieber-s-classic-marinara-sauce/2886501"
     ],
-    "image": "images/product-30.jpg",
-    "imageSource": "Aangeleverde productfoto 60.jpg",
-    "reviewNote": "Gecontroleerd op 2026-10-01.",
+    "image": "images/packshot-30.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIMPS-LIEBERS_CLASSIC_MARINARA_PASTA_SAUCE_708ML.jpg?v=1499238149",
+    "reviewNote": "Gecontroleerd op 2026-10-01. Online packshot; verpakkingsformaat of etiket kan afwijken.",
     "imageBounds": [
       0,
       0,
       1,
       1
-    ]
+    ],
+    "imageSourcePage": "https://benedikts.com/products/limps"
   },
   {
     "id": 31,
@@ -953,6 +916,27 @@ window.KPI_PRODUCTS = [
       0.28,
       0.87,
       0.75
-    ]
+    ],
+    "imagePresentation": {
+      "corners": [
+        [
+          0.07119965317364413,
+          0.4450748841975837
+        ],
+        [
+          0.8305963929649162,
+          0.22732137310215428
+        ],
+        [
+          0.9188003468263558,
+          0.5349251158024163
+        ],
+        [
+          0.15940360703508388,
+          0.7526786268978457
+        ]
+      ],
+      "aspectRatio": 2.46875
+    }
   }
 ];
