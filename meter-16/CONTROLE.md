@@ -48,3 +48,9 @@ Onvolledige ingrediëntenlijsten en onbekende allergenen blijven gemarkeerd. Hon
 Producten 1, 2, 3, 4, 6, 7 en 14 hebben een strakkere, rechte packshot op basis van de bestaande productfoto. Bewerking met de ingebouwde imagegen-tool; geen nieuwe productinformatie aan ontleend. Bronfoto bewaard in imageOriginal. Zie PHOTO-EDITS.md voor prompts. Alle 32 afbeeldingen visueel beoordeeld.
 
 Pretzels 10 en 11: gele originele zakken nog niet vervangen; passende online foto nog te vinden. De gevonden gele B-Kosher-foto bevat de verkeerde pretzelvorm en is afgekeurd.
+
+## Fotostandaard gebruiker — vervolg 1 oktober 2026
+
+De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerking goedgekeurd. In totaal zijn nu 14 productfoto’s digitaal afgewerkt, inclusief Kettle BBQ, Cherry Pull-N-Peel, Teriyaki, Soy Sauce en Cholent Mix. De watermerken bij deze drie betreffende producten zijn verwijderd. De oorspronkelijke online bronnen zijn bewaard. Alle 32 kaarten gebruiken dezelfde gedeelde fotokaderhoogte (180 px desktop, 120 px mobiel) als de overige meters.
+
+Nog niet opgelost: gele Braided Pretzels en verticale Ball Lollypops. Voor deze twee is toestemming gevraagd om de aangeleverde winkelbeelden als referentie voor een nieuwe strakke productafbeelding te gebruiken, omdat passende online afbeeldingen nog ontbreken.

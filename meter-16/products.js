@@ -143,17 +143,19 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.shipt.com/shop/products/6e76297a-9263-1ce9-9314-81b5085e9dfc"
     ],
-    "image": "images/kettle-bbq.png",
+    "image": "./images/kettle-bbq-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIKCB-LIEBERS_BBQ_KETTLE_CHIPS_140G.jpg?v=1499238191",
-    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking.",
+    "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
     "imageSourcePage": "https://benedikts.com/products/likcb",
     "imageBounds": [
-      0.195,
+      0.168,
       0.01,
-      0.81,
-      0.99
+      0.832,
+      0.978
     ],
-    "imageProvidedByUser": true
+    "imageProvidedByUser": true,
+    "imageOriginal": "images/kettle-bbq.png",
+    "imageRetouched": true
   },
   {
     "id": 6,
@@ -302,16 +304,18 @@ window.KPI_PRODUCTS = [
     "warning": "De barcode en netto-inhoud zijn niet volledig leesbaar. Controleer ook de fabriekswaarschuwing op de verpakking. De graansoort van de mout is niet gespecificeerd.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "images/product-10.jpg",
-    "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427182065.jpg?v=1765215590",
-    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
-    "imageSourcePage": "https://miamikosherfood.com/products/liebers-pretzels-sourdough-bits-12-oz",
+    "image": "./images/sourdough-strak.png",
+    "imageSource": "https://market50.b-cdn.net/farmtofamily/products/Pretzel-Bytes-765840152.jpg",
+    "reviewNote": "Packshot rechtgezet en strak geretoucheerd; op 1 oktober 2026 door gebruiker als gewenste fotokwaliteit goedgekeurd. Productgegevens blijven gebaseerd op het etiket.",
+    "imageSourcePage": "https://www.123fresh.co.il/lieber-39-s-pretzel-bytes1",
     "imageBounds": [
-      0.22,
-      0.045,
-      0.77,
-      0.945
-    ]
+      0.183,
+      0.021,
+      0.819,
+      0.978
+    ],
+    "imageOriginal": "images/sourdough-yellow-source.jpg",
+    "imageRetouched": true
   },
   {
     "id": 11,
@@ -367,16 +371,18 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "",
     "sources": [],
-    "image": "images/found-12.jpg",
+    "image": "./images/cherry-nibs-strak.png",
     "imageSource": "https://sabeny.com/wp-content/uploads/2025/07/SJLN020_liebers_kosher_red_licorice-1.jpg",
-    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
+    "reviewNote": "Packshot rechtgezet en strak geretoucheerd; op 1 oktober 2026 door gebruiker als gewenste fotokwaliteit goedgekeurd. Productgegevens blijven gebaseerd op het etiket.",
     "imageSourcePage": "https://sabeny.com/product/food-cupboard/chocolates-sweets-gum/belts-liquorice/liebers-red-liquorice-nibs/",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+      0.168,
+      0.015,
+      0.833,
+      0.978
+    ],
+    "imageOriginal": "images/found-12.jpg",
+    "imageRetouched": true
   },
   {
     "id": 13,
@@ -458,16 +464,18 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "",
     "sources": [],
-    "image": "images/found-15.jpg",
+    "image": "./images/cherry-pull-peel-strak.png",
     "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2022/08/485350-30.jpg",
-    "reviewNote": "Packshot gecontroleerd: merk, variant en inhoud komen overeen. Watermerk van de fotobron behouden.",
+    "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
     "imageSourcePage": "https://www.b-kosher.co.uk/shop/food-cupboard/chocolate-sweets-mints-chewing-gum/sweets-confectionery/liebers-cherry-peel-pull-licorice/",
     "imageBounds": [
-      0.19,
-      0.08,
-      0.81,
-      0.94
-    ]
+      0.257,
+      0.026,
+      0.747,
+      0.972
+    ],
+    "imageOriginal": "images/found-15.jpg",
+    "imageRetouched": true
   },
   {
     "id": 16,
@@ -635,16 +643,18 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.com/products/17553469-lieber-s-teriyaki-sauce-10-oz"
     ],
-    "image": "images/found-21.jpg",
+    "image": "./images/teriyaki-strak.png",
     "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2023/02/s34ipnkv_liebers_1685210-30.jpg",
-    "reviewNote": "Packshot gecontroleerd: merk, variant en inhoud komen overeen. Watermerk van de fotobron behouden.",
+    "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
     "imageSourcePage": "https://www.b-kosher.co.uk/shop/food-cupboard/table-sauces-marinades-dressings/sauce-marinades/liebers-teriyaki-sauce-296ml/",
     "imageBounds": [
-      0.2,
-      0.02,
-      0.82,
-      0.99
-    ]
+      0.38,
+      0.035,
+      0.622,
+      0.977
+    ],
+    "imageOriginal": "images/found-21.jpg",
+    "imageRetouched": true
   },
   {
     "id": 22,
@@ -668,16 +678,18 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.ca/products/16662770-lieber-s-soy-sauce-10-fl-oz"
     ],
-    "image": "images/found-22.jpg",
+    "image": "./images/soy-strak.png",
     "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2022/08/ym639g43_liebers_1685200-30.jpg",
-    "reviewNote": "Packshot gecontroleerd: merk, variant en inhoud komen overeen. Watermerk van de fotobron behouden.",
+    "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
     "imageSourcePage": "https://www.b-kosher.co.uk/shop/food-cupboard/table-sauces-marinades-dressings/sauce-marinades/liebers-soy-sauce-296ml/",
     "imageBounds": [
-      0.2,
-      0.02,
-      0.82,
-      0.99
-    ]
+      0.37,
+      0.024,
+      0.62,
+      0.991
+    ],
+    "imageOriginal": "images/found-22.jpg",
+    "imageRetouched": true
   },
   {
     "id": 23,
@@ -761,16 +773,18 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.aqua-calc.com/calculate/food-weight-to-volume/substance/cholent-blank-mix-coma-and-blank-upc-column--blank-748935026206-blank--op-dry-cp-)"
     ],
-    "image": "images/found-25.jpg",
+    "image": "./images/cholent-strak.png",
     "imageSource": "https://d226b0iufwcjmj.cloudfront.net/product-images/1138/1942322/12482085/large.jpg",
-    "reviewNote": "Online packshot Shwartz Cholent Mix 16 oz, gewone bonenmix; merk en variant visueel gecontroleerd.",
+    "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
     "imageSourcePage": "https://www.shopsevenmilemarket.com/?catalogProduct=306998",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+      0.008,
+      0.21,
+      0.993,
+      0.75
+    ],
+    "imageOriginal": "images/found-25.jpg",
+    "imageRetouched": true
   },
   {
     "id": 26,
