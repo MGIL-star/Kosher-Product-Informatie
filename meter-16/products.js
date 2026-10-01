@@ -339,16 +339,18 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.kashrut.com/Alerts/LiebersYoshonList-12-4-2025.pdf"
     ],
-    "image": "images/found-11.jpg",
-    "imageSource": "https://images.heb.com/is/image/HEBGrocery/001213548-1",
-    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
-    "imageSourcePage": "https://www.heb.com/product-detail/lieber-s-kosher-fat-free-braided-pretzels/1213548",
+    "image": "./images/braided-yellow-strak.png",
+    "imageSource": "https://market50.b-cdn.net/farmtofamily/products/Pretzel-Bytes-765840152.jpg",
+    "reviewNote": "Gele verpakking digitaal samengesteld uit het online gele verpakkingssjabloon en referentiefoto 22 van de werkelijke Braided-variant. Gevlochten pretzels, geel/rood ontwerp en 340 g; geen Sourdough-opdruk. Vervangt de afwijkende paarse zak.",
+    "imageSourcePage": "https://www.123fresh.co.il/lieber-39-s-pretzel-bytes1",
     "imageBounds": [
-      0.21,
-      0.015,
-      0.79,
-      0.985
-    ]
+      0.183,
+      0.021,
+      0.819,
+      0.978
+    ],
+    "imageOriginal": "images/sourdough-yellow-source.jpg",
+    "imageRetouched": true
   },
   {
     "id": 12,

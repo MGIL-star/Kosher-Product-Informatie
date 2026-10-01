@@ -56,3 +56,5 @@ De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerk
 Nog niet opgelost: gele Braided Pretzels en verticale Ball Lollypops. Voor deze twee is toestemming gevraagd om de aangeleverde winkelbeelden als referentie voor een nieuwe strakke productafbeelding te gebruiken, omdat passende online afbeeldingen nog ontbreken.
 
 Aanvulling: Ball Lollypops is inmiddels vervangen door de juiste verticale uitvoering op basis van een online Sabeny-packshot en etiketvergelijking. Ice Li is horizontaal afgewerkt. Totaal 16 geretoucheerde foto's. Alleen de gele Braided Pretzels blijft open.
+
+Laatste fotocorrectie: Braided Pretzels staat nu in de gele zak met gevlochten pretzels, overeenkomstig referentiefoto 22. Daarmee is de eerder genoemde openstaande fotocorrectie verwerkt. Fotobewerking en Fotobron zijn op gebruikersverzoek uit de productvensters verwijderd.

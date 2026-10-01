@@ -69,3 +69,9 @@ Lolly-instructie: Edit online packshot to present precise Ball Lollypops variant
 Ice Li-instructie: Rotate exact online packshot to horizontal landscape orientation. Straighten bag edges and reduce creases, preserve existing Hebrew wording, blue trim, white center and fruit/ice-pop imagery. Whole package centered on square white canvas; no translated or new text.
 
 Hiermee zijn 16 foto's digitaal afgewerkt. Alleen de gele Braided Pretzels is nog niet opgelost; de vraag over gebruik van de winkelreferentie geldt niet meer voor Ball Lollypops omdat hiervoor een online bron is gevonden.
+
+## Gele Braided Pretzels — afgerond
+
+De gebruiker herhaalde expliciet dat Braided Pretzels in de gele zak moest staan. `images/braided-yellow-strak.png` vervangt nu de paarse foto. Online gele Sourdough-verpakking gebruikt als sjabloon en foto 22 als variantreferentie. Gevlochten pretzelstaafjes zichtbaar; Sourdough/Levain en het zoutwaarschuwingssymbool van het sjabloon verwijderd. Geen aanvullende productclaims toegevoegd. Gehele zak recht en op wit, 340 g. Totaal 17 digitaal afgewerkte foto's.
+
+Op verzoek zijn de secties Fotobewerking en Fotobron uit de productvensters van meter 16 verwijderd. Interne bronregistratie blijft in dit document en de productdata beschikbaar.
