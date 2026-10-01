@@ -42,3 +42,9 @@ Onvolledige ingrediëntenlijsten en onbekende allergenen blijven gemarkeerd. Hon
 | 30 | Lieber’s Classic Marinara Pasta Sauce 680 g | 043427225014 | https://benedikts.com/products/limps | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
 | 31 | Lieber’s Original Pizza Sauce 680 g | 043427225069 | https://koshercentral.com/Southern-Florida/category/515/sauce/7672/lieber-s-original-pizza-sauce-26-oz | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
 | 32 | Ice Li Fruitijsjes om in te vriezen 8 stuks | Onbekend | https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
+
+## Fotoretouche 2026-10-01
+
+Producten 1, 2, 3, 4, 6, 7 en 14 hebben een strakkere, rechte packshot op basis van de bestaande productfoto. Bewerking met de ingebouwde imagegen-tool; geen nieuwe productinformatie aan ontleend. Bronfoto bewaard in imageOriginal. Zie PHOTO-EDITS.md voor prompts. Alle 32 afbeeldingen visueel beoordeeld.
+
+Pretzels 10 en 11: gele originele zakken nog niet vervangen; passende online foto nog te vinden. De gevonden gele B-Kosher-foto bevat de verkeerde pretzelvorm en is afgekeurd.

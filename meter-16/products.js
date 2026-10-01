@@ -18,16 +18,18 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://benedikts.com/products/lipcj"
     ],
-    "image": "images/product-01.jpg",
+    "image": "./images/original-chips-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIPCJ-LIEBERS_POTATO_CHIPS_400G.jpg?v=1499238107",
-    "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
+    "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://benedikts.com/products/lipcj",
     "imageBounds": [
-      0.13,
-      0,
-      0.9,
-      1
-    ]
+      0.155,
+      0.01,
+      0.845,
+      0.985
+    ],
+    "imageOriginal": "images/product-01.jpg",
+    "imageRetouched": true
   },
   {
     "id": 2,
@@ -46,16 +48,18 @@ window.KPI_PRODUCTS = [
     "warning": "De kleine ingrediëntenlijst op de foto is niet volledig leesbaar. Online gevonden lijsten horen bij andere verpakkingsformaten.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "images/found-2.jpg",
+    "image": "./images/honey-chips-strak.png",
     "imageSource": "https://benedikts.com/cdn/shop/products/LIHC-LIEBERS_HONEY_POTATO_CHIPS_21G.jpg?v=1499238212",
-    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
+    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://benedikts.com/products/lihc",
     "imageBounds": [
-      0.1,
-      0.01,
-      0.89,
-      0.985
-    ]
+      0.12,
+      0.02,
+      0.875,
+      0.98
+    ],
+    "imageOriginal": "images/found-2.jpg",
+    "imageRetouched": true
   },
   {
     "id": 3,
@@ -76,16 +80,18 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.shoprite.com/sm/pickup/rsid/247/product/liebers-original-corn-chips-11-oz-id-00043427181143"
     ],
-    "image": "images/product-03.jpg",
+    "image": "./images/corn-chips-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LICCL-LIEBERS_CORN_CHIPS_312G_7811a5f1-2a6c-482d-891f-51fb388911ba.jpg?v=1499238313",
-    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://benedikts.com/products/liccl",
     "imageBounds": [
-      0.21,
-      0,
-      0.82,
-      1
-    ]
+      0.195,
+      0.01,
+      0.805,
+      0.985
+    ],
+    "imageOriginal": "images/product-03.jpg",
+    "imageRetouched": true
   },
   {
     "id": 4,
@@ -104,17 +110,19 @@ window.KPI_PRODUCTS = [
     "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "images/kettle-original.png",
+    "image": "./images/kettle-original-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIKC-LIEBERS_KETTLE_CHIPS_ORIGINAL_140G_605dd388-572a-412a-87d1-ef7f869ee67b.jpg?v=1499238193",
-    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking.",
+    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://benedikts.com/products/likc",
     "imageBounds": [
-      0.245,
-      0.12,
-      0.74,
-      0.9
+      0.17,
+      0.01,
+      0.83,
+      0.985
     ],
-    "imageProvidedByUser": true
+    "imageProvidedByUser": true,
+    "imageOriginal": "images/kettle-original.png",
+    "imageRetouched": true
   },
   {
     "id": 5,
@@ -166,16 +174,18 @@ window.KPI_PRODUCTS = [
     "warning": "",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "sources": [],
-    "image": "images/found-6.png",
+    "image": "./images/popta-strak.png",
     "imageSource": "https://thevendors.net/cdn/shop/files/Photoroom-20240313-201814_9f04ee36-a91a-42e4-b8bb-c90b1b1eda51_1080x.png?v=1710375746",
-    "reviewNote": "Online packshot van dezelfde Popta Barbeque Rings, losse zak 15 g in plaats van de family pack. Afwijkende verpakkingsgrootte toegestaan door gebruiker.",
+    "reviewNote": "Online packshot van dezelfde Popta Barbeque Rings, losse zak 15 g in plaats van de family pack. Afwijkende verpakkingsgrootte toegestaan door gebruiker. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://thevendors.net/products/liebers-popta-barbeque-flavored-rings-0-53-oz",
     "imageBounds": [
-      0.18,
-      0.08,
-      0.82,
-      0.92
-    ]
+      0.14,
+      0.035,
+      0.855,
+      0.96
+    ],
+    "imageOriginal": "images/found-6.png",
+    "imageRetouched": true
   },
   {
     "id": 7,
@@ -195,17 +205,19 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "images/cotton-candy.png",
+    "image": "./images/cotton-candy-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427001878.jpg?v=1764269797",
-    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking.",
+    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://miamikosherfood.com/products/liebers-cotton-candy-8-oz",
     "imageBounds": [
-      0.17,
-      0.1,
-      0.88,
-      0.89
+      0.195,
+      0.025,
+      0.805,
+      0.98
     ],
-    "imageProvidedByUser": true
+    "imageProvidedByUser": true,
+    "imageOriginal": "images/cotton-candy.png",
+    "imageRetouched": true
   },
   {
     "id": 8,
@@ -414,16 +426,18 @@ window.KPI_PRODUCTS = [
     "warning": "Onvolledige ingrediëntenlijst. De sticker vermeldt ook een waarschuwing voor de activiteit en oplettendheid van kinderen; controleer de actuele verpakking.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "images/product-14.png",
+    "image": "./images/licorice-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/1_jpg_bba9190a-063c-4a6e-b8c4-a00c30b2b23d.png?v=1499237907",
-    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. Packshot op 2026-10-01 met imagegen geretoucheerd voor een rechte, strakkere verpakking; productgegevens ongewijzigd.",
     "imageSourcePage": "https://benedikts.com/products/pabl",
     "imageBounds": [
-      0.26,
-      0,
-      0.74,
-      1
-    ]
+      0.275,
+      0.005,
+      0.725,
+      0.985
+    ],
+    "imageOriginal": "images/product-14.png",
+    "imageRetouched": true
   },
   {
     "id": 15,

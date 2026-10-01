@@ -80,6 +80,7 @@
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechsher</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
       ${product.sources?.length ? `<section><h3>Bronnen productinformatie</h3><ul>${product.sources.map(url => `<li><a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(new URL(url).hostname.replace(/^www\./, ''))}</a></li>`).join('')}</ul></section>` : ''}
+      ${product.imageRetouched ? `<section><h3>Fotobewerking</h3><p>Productfoto digitaal geretoucheerd.</p></section>` : ''}
       ${product.imageProvidedByUser ? `<section><h3>Fotobron</h3><p>Online productfoto aangeleverd voor deze catalogus.</p></section>` : product.imageSourcePage ? `<section><h3>Fotobron</h3><p><a href="${escapeHtml(product.imageSourcePage)}" target="_blank" rel="noopener noreferrer">${escapeHtml(new URL(product.imageSourcePage).hostname.replace(/^www\./, ''))}</a></p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || 'Niet bekend')}</p></section>
     </div>`;
