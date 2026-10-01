@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "source": "Door gebruiker aangeleverde etiketfoto’s, Fotos voor Codex, 1.jpg t/m 23.jpg",
+  "source": "Door gebruiker aangeleverde etiketfoto’s, Fotos voor Codex, 1.jpg t/m 74.jpg",
   "verified": [
     {
       "id": 33,
@@ -107,6 +107,279 @@
       ],
       "action": "Barcode corroborated by manufacturer; blurry photo alone insufficient",
       "source": "https://careline.co.il/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
+    },
+    {
+      "id": 45,
+      "name": "Shampoo en conditioner 2 in 1",
+      "ean": "7290112492463",
+      "photos": [
+        24,
+        25
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 46,
+      "name": "Shampoo voor normaal haar",
+      "ean": "7290112492449",
+      "photos": [
+        26,
+        27
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 47,
+      "name": "Antiroosshampoo",
+      "ean": "7290116531250",
+      "photos": [
+        28,
+        29
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 49,
+      "name": "Conditioner voor droog en beschadigd haar",
+      "ean": "7290112492548",
+      "photos": [
+        32,
+        33
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 50,
+      "name": "Conditioner voor normaal haar",
+      "ean": "7290112492531",
+      "photos": [
+        34,
+        35
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 51,
+      "name": "Conditioner met Marokkaanse olie",
+      "ean": "7290112499448",
+      "photos": [
+        36,
+        37
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 52,
+      "name": "Douchecrème met lavendel en vanille",
+      "ean": "7290112492609",
+      "photos": [
+        38,
+        39
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 53,
+      "name": "Douchecrème met witte rozen",
+      "ean": "7290116533117",
+      "photos": [
+        42,
+        43
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 54,
+      "name": "Douchecrème met yoghurt en aloë vera",
+      "ean": "7290117860380",
+      "photos": [
+        44,
+        45
+      ],
+      "confirmedVolume": "650 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 55,
+      "name": "Douchecrème met yoghurt en amandelgeur",
+      "ean": "7290117860991",
+      "photos": [
+        46,
+        47
+      ],
+      "confirmedVolume": "650 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 56,
+      "name": "Douchecrème met yoghurt en kokosgeur",
+      "ean": "7290117860946",
+      "photos": [
+        48,
+        49
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Volume corrected from 650 ml to 700 ml"
+    },
+    {
+      "id": 57,
+      "name": "Douchecrème met yoghurt en bosbessengeur",
+      "ean": "7290117860038",
+      "photos": [
+        50,
+        51
+      ],
+      "confirmedVolume": "650 ml",
+      "action": "Existing barcode and volume confirmed"
+    },
+    {
+      "id": 76,
+      "name": "Shampoo douchegel en gezichtsreiniger met aloë vera en groene thee 3 in 1",
+      "ean": "7290112492630",
+      "photos": [
+        30,
+        31
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Added as extra variant; identified from user packaging photos; no exact Israelwinkel listing found"
+    },
+    {
+      "id": 77,
+      "name": "Douchecrème Classic met rozemarijn",
+      "ean": "7290112492593",
+      "photos": [
+        40,
+        41
+      ],
+      "confirmedVolume": "700 ml",
+      "action": "Added as extra variant; identified from user packaging photos; no exact Israelwinkel listing found"
+    },
+    {
+      "id": 58,
+      "name": "Antiroosshampoo met exotisch fruit en calendula",
+      "ean": "7290117860144",
+      "photos": [
+        52,
+        53
+      ],
+      "action": "Existing barcode confirmed"
+    },
+    {
+      "id": 59,
+      "name": "Shampoo met wilde roos en macadamia",
+      "ean": "7290117860199",
+      "photos": [
+        54,
+        55
+      ],
+      "action": "Existing barcode confirmed"
+    },
+    {
+      "id": 60,
+      "name": "Shampoo met aloë vera en groene thee",
+      "ean": "7290117860045",
+      "photos": [
+        56,
+        57
+      ],
+      "action": "Existing barcode confirmed"
+    },
+    {
+      "id": 61,
+      "name": "Conditioner met aloë vera en groene thee",
+      "ean": "7290117860090",
+      "photos": [
+        58,
+        59
+      ],
+      "action": "Existing barcode confirmed"
+    },
+    {
+      "id": 63,
+      "name": "Kaarsen en oliecupjes",
+      "ean": "7290019039822",
+      "photos": [
+        60,
+        61
+      ],
+      "action": "Barcode added from packaging photo"
+    },
+    {
+      "id": 65,
+      "name": "Herdenkingskaars voor 7 dagen",
+      "ean": "706132281071",
+      "photos": [
+        64,
+        65
+      ],
+      "action": "Existing barcode confirmed"
+    },
+    {
+      "id": 66,
+      "name": "Gevlochten havdalakaars",
+      "ean": "706132200829",
+      "photos": [
+        66,
+        67
+      ],
+      "action": "Existing barcode confirmed"
+    },
+    {
+      "id": 67,
+      "name": "Herdenkingskaars in blik",
+      "ean": "7290004255428",
+      "photos": [
+        68,
+        69
+      ],
+      "action": "Barcode added from packaging photo"
+    },
+    {
+      "id": 68,
+      "name": "Witte kaarsen",
+      "ean": "7290015759090",
+      "photos": [
+        70,
+        71
+      ],
+      "action": "Barcode added from packaging photo"
+    },
+    {
+      "id": 70,
+      "name": "Sabbatskaarsen",
+      "ean": "7290002128892",
+      "photos": [
+        72
+      ],
+      "action": "Barcode added from packaging photo"
+    },
+    {
+      "id": 71,
+      "name": "Gekleurde chanoekakaarsen",
+      "ean": "7290002128083",
+      "photos": [
+        73,
+        74
+      ],
+      "action": "Barcode added from packaging photo"
+    },
+    {
+      "id": 78,
+      "name": "Witte huishoudkaarsen",
+      "ean": "077343001230",
+      "photos": [
+        62,
+        63
+      ],
+      "action": "Added as extra product; 12 candles, 3-hour burn time on packaging"
     }
   ],
   "unresolved": [
@@ -116,7 +389,77 @@
       ],
       "name": "Nachtcrème Pro Retinol 2%",
       "issue": "Alleen voorzijde, geen barcode of volledige ingrediëntenlijst."
+    },
+    {
+      "id": 76,
+      "name": "Shampoo douchegel en gezichtsreiniger met aloë vera en groene thee 3 in 1",
+      "photos": [
+        30,
+        31
+      ],
+      "issue": "Volledige ingrediëntenlijst niet zichtbaar; exacte variant niet gevonden op israelwinkel.nl."
+    },
+    {
+      "id": 77,
+      "name": "Douchecrème Classic met rozemarijn",
+      "photos": [
+        40,
+        41
+      ],
+      "issue": "Volledige ingrediëntenlijst niet zichtbaar; exacte variant niet gevonden op israelwinkel.nl."
     }
   ],
-  "ingredients": "Geen volledige ingrediëntenlijst overgenomen: lijsten zijn afgesneden, deels onleesbaar of ontbreken. Bestaande lijsten zijn hiermee niet opnieuw bevestigd."
+  "ingredients": "Geen volledige ingrediëntenlijst overgenomen: lijsten zijn afgesneden, deels onleesbaar of ontbreken. Bestaande lijsten zijn hiermee niet opnieuw bevestigd.",
+  "corrections": [
+    {
+      "id": 66,
+      "field": "composition",
+      "from": "paraffine",
+      "to": "100% bijenwas",
+      "photos": [
+        66,
+        67
+      ]
+    },
+    {
+      "id": 67,
+      "field": "Brandduur",
+      "from": "26 uur",
+      "to": "24 uur",
+      "photos": [
+        68,
+        69
+      ]
+    }
+  ],
+  "imageEdits": [
+    {
+      "id": 76,
+      "sourcePhoto": 30,
+      "image": "pinuk-men-aloe-green-tea.png",
+      "method": "imagegen",
+      "instructions": "Frontal packshot, white background, glare removal; preserve packaging variant and label."
+    },
+    {
+      "id": 77,
+      "sourcePhoto": 40,
+      "image": "pinuk-classic.png",
+      "method": "imagegen",
+      "instructions": "Frontal packshot, white background, glare removal; preserve packaging variant and label."
+    },
+    {
+      "id": 78,
+      "sourcePhoto": 62,
+      "image": "menora-12-candles.png",
+      "method": "imagegen",
+      "instructions": "Frontal packshot, white background, glare removal; preserve packaging variant and label."
+    },
+    {
+      "id": 67,
+      "sourcePhoto": 68,
+      "image": "memorial-tin-24h.png",
+      "method": "imagegen",
+      "instructions": "Frontal packshot, white background, glare removal; preserve packaging variant and label."
+    }
+  ]
 }

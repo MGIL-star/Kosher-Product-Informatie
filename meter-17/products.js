@@ -2100,7 +2100,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo en conditioner voor normaal haar.",
-      "Gebruik": "Op nat haar laten schuimen en grondig uitspoelen."
+      "Gebruik": "Op nat haar laten schuimen en grondig uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2138,7 +2139,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging en verzorging van normaal haar.",
-      "Gebruik": "Op nat haar laten schuimen en grondig uitspoelen."
+      "Gebruik": "Op nat haar laten schuimen en grondig uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2176,7 +2178,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor haar en hoofdhuid met roos.",
-      "Gebruik": "Op nat haar laten schuimen en grondig uitspoelen."
+      "Gebruik": "Op nat haar laten schuimen en grondig uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2243,6 +2246,34 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 76,
+    "catalogType": "nonfood",
+    "name": "Shampoo douchegel en gezichtsreiniger met aloë vera en groene thee 3 in 1",
+    "brand": "Pinuk",
+    "category": "Haar en douche",
+    "shelf": 5,
+    "variant": "700 ml",
+    "ean": "7290112492630",
+    "image": "images/clean/pinuk-men-aloe-green-tea.png",
+    "allergens": null,
+    "productInfo": {
+      "Toepassing": "Reiniging van haar, lichaam en gezicht, met aloë vera en groene thee.",
+      "Gebruik": "Op nat haar, lichaam of gezicht laten schuimen en goed afspoelen. Vermijd de ogen.",
+      "Houdbaarheid na openen": "12 maanden"
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "note": "Volledige ingrediëntenlijst nog niet bevestigd; deze is niet volledig zichtbaar op de aangeleverde foto’s."
+    },
+    "imageBounds": [
+      0.2,
+      0.005,
+      0.8,
+      0.985
+    ],
+    "imageEdited": true
+  },
+  {
     "id": 49,
     "catalogType": "nonfood",
     "name": "Conditioner voor droog en beschadigd haar",
@@ -2254,7 +2285,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging om droog en beschadigd haar zachter en beter doorkambaar te maken.",
-      "Gebruik": "Na het wassen over nat haar verdelen en vervolgens goed uitspoelen."
+      "Gebruik": "Na het wassen over nat haar verdelen en vervolgens goed uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2293,7 +2325,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging van normaal haar na het wassen.",
-      "Gebruik": "Na het wassen over nat haar verdelen en vervolgens goed uitspoelen."
+      "Gebruik": "Na het wassen over nat haar verdelen en vervolgens goed uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2331,7 +2364,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Haarconditioner met Marokkaanse olie.",
-      "Gebruik": "Na het wassen over nat haar verdelen en vervolgens goed uitspoelen."
+      "Gebruik": "Na het wassen over nat haar verdelen en vervolgens goed uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2370,7 +2404,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchecrème met lavendel en vanillegeur.",
-      "Gebruik": "Op natte huid laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte huid laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2410,7 +2445,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchecrème met witte rozengeur.",
-      "Gebruik": "Op natte huid laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte huid laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2438,6 +2474,34 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 77,
+    "catalogType": "nonfood",
+    "name": "Douchecrème Classic met rozemarijn",
+    "brand": "Pinuk",
+    "category": "Haar en douche",
+    "shelf": 5,
+    "variant": "700 ml",
+    "ean": "7290112492593",
+    "image": "images/clean/pinuk-classic.png",
+    "allergens": null,
+    "productInfo": {
+      "Toepassing": "Douchecrème met de klassieke Pinuk-geur en rozemarijnextract.",
+      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "note": "Volledige ingrediëntenlijst nog niet bevestigd; deze is niet volledig zichtbaar op de aangeleverde foto’s."
+    },
+    "imageBounds": [
+      0.2,
+      0.005,
+      0.8,
+      0.99
+    ],
+    "imageEdited": true
+  },
+  {
     "id": 54,
     "catalogType": "nonfood",
     "name": "Douchecrème met yoghurt en aloë vera",
@@ -2449,7 +2513,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
-      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2489,7 +2554,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
-      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2519,12 +2585,13 @@ window.KPI_PRODUCTS = [
     "brand": "Hawaii",
     "category": "Haar en douche",
     "shelf": 6,
-    "variant": "650 ml",
+    "variant": "700 ml",
     "image": "images/clean/product-56.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
-      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2564,7 +2631,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchecrème voor het lichaam.",
-      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte huid aanbrengen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2599,7 +2667,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo tegen roos met exotisch fruit en calendula.",
-      "Gebruik": "Op nat haar aanbrengen, laten schuimen en goed uitspoelen."
+      "Gebruik": "Op nat haar aanbrengen, laten schuimen en goed uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2633,7 +2702,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor droog haar.",
-      "Gebruik": "Op nat haar aanbrengen, laten schuimen en goed uitspoelen."
+      "Gebruik": "Op nat haar aanbrengen, laten schuimen en goed uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2672,7 +2742,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor normaal haar.",
-      "Gebruik": "Op nat haar aanbrengen, laten schuimen en goed uitspoelen."
+      "Gebruik": "Op nat haar aanbrengen, laten schuimen en goed uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2706,7 +2777,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Conditioner voor normaal haar.",
-      "Gebruik": "Na het wassen aanbrengen op nat haar en uitspoelen."
+      "Gebruik": "Na het wassen aanbrengen op nat haar en uitspoelen.",
+      "Houdbaarheid na openen": "12 maanden"
     },
     "sources": [
       {
@@ -2731,7 +2803,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 63,
     "catalogType": "nonfood",
-    "name": "Kaarsen en oliecupjes",
+    "name": "Glazen cupjes voor kandelaars",
     "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
@@ -2746,7 +2818,7 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "note": "De materiaalsamenstelling is nog niet bevestigd door de leverancier."
+      "text": "Kristallijn glas, volgens de verpakking."
     },
     "imageFrame": {
       "x": 0,
@@ -2755,7 +2827,8 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.5012562814070352
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290019039822"
   },
   {
     "id": 74,
@@ -2863,11 +2936,8 @@ window.KPI_PRODUCTS = [
     "identificationNote": "",
     "composition": {
       "heading": "Materiaal",
-      "text": "100% paraffinewas volgens de leverancier.",
-      "source": {
-        "label": "Tiferes Judaica — materiaal",
-        "url": "https://tiferesjudaica.eu/collections/shabbos-judaica/products/ner-mitzvah-multi-colored-havdalah-candle"
-      }
+      "text": "100% bijenwas, volgens de aangeleverde verpakking.",
+      "note": "De fysieke verpakking vermeldt 100% beeswax; de eerdere online vermelding van paraffine is hiermee vervangen."
     },
     "ean": "706132200829",
     "imageEdited": true
@@ -2879,12 +2949,12 @@ window.KPI_PRODUCTS = [
     "brand": "Menora",
     "category": "Kaarsen en accessoires",
     "shelf": 7,
-    "variant": "Tot 26 uur",
-    "image": "images/clean/product-67.png",
+    "variant": "24 uur",
+    "image": "images/clean/memorial-tin-24h.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Herdenkingskaars in een metalen houder.",
-      "Brandduur": "Tot 26 uur volgens het etiket."
+      "Brandduur": "Ongeveer 24 uur volgens de verpakking."
     },
     "sources": [],
     "identificationNote": "",
@@ -2892,13 +2962,14 @@ window.KPI_PRODUCTS = [
       "heading": "Materiaal",
       "note": "Metalen houder. De samenstelling van de kaarswas is nog niet bevestigd."
     },
-    "imageFrame": {
-      "x": 0,
-      "y": 0,
-      "width": 1,
-      "height": 1,
-      "aspectRatio": 0.693950177935943
-    }
+    "ean": "7290004255428",
+    "imageBounds": [
+      0.17,
+      0.085,
+      0.83,
+      0.927
+    ],
+    "imageEdited": true
   },
   {
     "id": 68,
@@ -2937,7 +3008,36 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 2.1639676113360324
-    }
+    },
+    "ean": "7290015759090"
+  },
+  {
+    "id": 78,
+    "catalogType": "nonfood",
+    "name": "Witte huishoudkaarsen",
+    "brand": "Menora",
+    "category": "Kaarsen en accessoires",
+    "shelf": 7,
+    "variant": "12 stuks · 3 uur",
+    "ean": "077343001230",
+    "image": "images/clean/menora-12-candles.png",
+    "allergens": null,
+    "productInfo": {
+      "Beschrijving": "Witte kaarsen voor een passende kandelaar, gemaakt in Israël.",
+      "Verpakking": "12 stuks.",
+      "Brandduur": "Ongeveer 3 uur per kaars volgens de verpakking."
+    },
+    "composition": {
+      "heading": "Materiaal",
+      "note": "De samenstelling van de kaarswas is nog niet bevestigd."
+    },
+    "imageBounds": [
+      0.072,
+      0.029,
+      0.928,
+      0.975
+    ],
+    "imageEdited": true
   },
   {
     "id": 70,
@@ -2967,6 +3067,11 @@ window.KPI_PRODUCTS = [
     "composition": {
       "heading": "Materiaal",
       "note": "De samenstelling van de kaarswas is nog niet bevestigd."
+    },
+    "ean": "7290002128892",
+    "barcodeSource": {
+      "label": "Portuel — Menora sabbatskaarsen 10 stuks",
+      "url": "https://portuel.com/he/products/shabbat-candles-10un"
     }
   },
   {
@@ -2991,6 +3096,7 @@ window.KPI_PRODUCTS = [
       "Afmetingen": "9,5 cm lang; doorsnede 8 mm."
     },
     "sources": [],
-    "identificationNote": ""
+    "identificationNote": "",
+    "ean": "7290002128083"
   }
 ];
