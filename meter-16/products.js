@@ -401,16 +401,18 @@ window.KPI_PRODUCTS = [
     "warning": "E102, E110 en/of E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "images/packshot-13.jpg",
-    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIBLP-LIEBERS_BALL_LOLLYPOPS_340G.jpg?v=1499238332",
-    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
-    "imageSourcePage": "https://benedikts.com/products/liblp",
+    "image": "./images/ball-lollypops-strak.png",
+    "imageSource": "https://sabeny.com/wp-content/uploads/2025/07/p485011pl_1-1.jpg",
+    "reviewNote": "Verticale online 85g-verpakking van Sabeny als basis, digitaal afgewerkt naar de Ball Lollypops-variant op referentiefoto 27. Regenboogkop, rode/oranje/gele wikkels en 85 g vergeleken; vervangt de verkeerde brede zak.",
+    "imageSourcePage": "https://sabeny.com/product/food-cupboard/chocolates-sweets-gum/sweets-lollies/liebers-multi-colour-ball-lollypops/",
     "imageBounds": [
-      0,
-      0.24,
-      1,
-      0.77
-    ]
+      0.168,
+      0.015,
+      0.833,
+      0.976
+    ],
+    "imageOriginal": "images/ball-lollypops-source.jpg",
+    "imageRetouched": true
   },
   {
     "id": 14,
@@ -987,36 +989,17 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram"
     ],
-    "image": "images/product-32.png",
+    "image": "./images/iceli-strak.png",
     "imageSource": "https://yastatic.net/avatars/get-grocery-goods/2998515/9f423587-62ef-432c-8a35-8ad835c3a789/464x464-origin",
-    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "reviewNote": "Online packshot digitaal horizontaal rechtgezet en afgewerkt. Kleine Hebreeuwse drukdetails zijn niet als informatiebron geverifieerd; raadpleeg de originele verpakking voor productgegevens.",
     "imageSourcePage": "https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram",
     "imageBounds": [
-      0.1,
-      0.28,
-      0.87,
-      0.75
+      0.02,
+      0.323,
+      0.98,
+      0.678
     ],
-    "imagePresentation": {
-      "corners": [
-        [
-          0.07119965317364413,
-          0.4450748841975837
-        ],
-        [
-          0.8305963929649162,
-          0.22732137310215428
-        ],
-        [
-          0.9188003468263558,
-          0.5349251158024163
-        ],
-        [
-          0.15940360703508388,
-          0.7526786268978457
-        ]
-      ],
-      "aspectRatio": 2.46875
-    }
+    "imageOriginal": "images/product-32.png",
+    "imageRetouched": true
   }
 ];

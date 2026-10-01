@@ -58,3 +58,14 @@ Nog open: passende gele Braided-foto en de verticale Ball Lollypops-verpakking. 
 Bewerkingen uitgevoerd met imagegen; elk uitvoerbeeld visueel beoordeeld op product, hoofdtekst, kleur en afwerking. Kleine drukdetails in geretoucheerde beelden zijn geen bron voor ingrediënten- of allergeneninformatie.
 
 Prompts: Retouch the exact source product, straighten front view and seams, reduce major wrinkles, preserve original logo, all printed text, variant, contents and weight. Pure white square studio background, entire product visible. For Pull-N-Peel, Teriyaki and Soy: remove the B-Kosher watermark and restore underlying product/background. For Cholent: retain landscape bag proportions and beans, flatten label. For BBQ: use Kettle Original only as polish reference; retain red seams, BARBECUE and 5 OZ (142g).
+
+## Ball Lollypops en Ice Li
+
+- `images/ball-lollypops-strak.png`: online verticale 85g-zak van Sabeny, bron bewaard in `images/ball-lollypops-source.jpg`. Referentiefoto 27 alleen gebruikt voor de exacte Ball Lollypops-opdruk en rood/oranje/gele wikkels. De verkeerde brede zak is vervangen.
+- `images/iceli-strak.png`: online Ice Li-packshot horizontaal rechtgezet met behoud van het liggende verpakkingsontwerp. Kleine Hebreeuwse drukdetails zijn niet betrouwbaar geverifieerd en worden niet gebruikt als productinformatiebron.
+
+Lolly-instructie: Edit online packshot to present precise Ball Lollypops variant in reference photo 27; reference is identity-only. Preserve rainbow The Candy House header and 3 OZ (85g); yellow label BALL LOLLYPOPS. Clear tall bag, individually wrapped round red/orange/yellow lollipops, white sticks. Straight header, bright white studio background, entire bag centered. Cherry Nibs is quality reference only.
+
+Ice Li-instructie: Rotate exact online packshot to horizontal landscape orientation. Straighten bag edges and reduce creases, preserve existing Hebrew wording, blue trim, white center and fruit/ice-pop imagery. Whole package centered on square white canvas; no translated or new text.
+
+Hiermee zijn 16 foto's digitaal afgewerkt. Alleen de gele Braided Pretzels is nog niet opgelost; de vraag over gebruik van de winkelreferentie geldt niet meer voor Ball Lollypops omdat hiervoor een online bron is gevonden.

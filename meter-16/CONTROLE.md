@@ -54,3 +54,5 @@ Pretzels 10 en 11: gele originele zakken nog niet vervangen; passende online fot
 De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerking goedgekeurd. In totaal zijn nu 14 productfoto’s digitaal afgewerkt, inclusief Kettle BBQ, Cherry Pull-N-Peel, Teriyaki, Soy Sauce en Cholent Mix. De watermerken bij deze drie betreffende producten zijn verwijderd. De oorspronkelijke online bronnen zijn bewaard. Alle 32 kaarten gebruiken dezelfde gedeelde fotokaderhoogte (180 px desktop, 120 px mobiel) als de overige meters.
 
 Nog niet opgelost: gele Braided Pretzels en verticale Ball Lollypops. Voor deze twee is toestemming gevraagd om de aangeleverde winkelbeelden als referentie voor een nieuwe strakke productafbeelding te gebruiken, omdat passende online afbeeldingen nog ontbreken.
+
+Aanvulling: Ball Lollypops is inmiddels vervangen door de juiste verticale uitvoering op basis van een online Sabeny-packshot en etiketvergelijking. Ice Li is horizontaal afgewerkt. Totaal 16 geretoucheerde foto's. Alleen de gele Braided Pretzels blijft open.
