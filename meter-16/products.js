@@ -23,9 +23,9 @@ window.KPI_PRODUCTS = [
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
     "imageSourcePage": "https://benedikts.com/products/lipcj",
     "imageBounds": [
+      0.13,
       0,
-      0,
-      1,
+      0.9,
       1
     ]
   },
@@ -46,9 +46,16 @@ window.KPI_PRODUCTS = [
     "warning": "De kleine ingrediëntenlijst op de foto is niet volledig leesbaar. Online gevonden lijsten horen bij andere verpakkingsformaten.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/found-2.jpg",
+    "imageSource": "https://benedikts.com/cdn/shop/products/LIHC-LIEBERS_HONEY_POTATO_CHIPS_21G.jpg?v=1499238212",
+    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
+    "imageSourcePage": "https://benedikts.com/products/lihc",
+    "imageBounds": [
+      0.1,
+      0.01,
+      0.89,
+      0.985
+    ]
   },
   {
     "id": 3,
@@ -69,9 +76,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.shoprite.com/sm/pickup/rsid/247/product/liebers-original-corn-chips-11-oz-id-00043427181143"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-03.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LICCL-LIEBERS_CORN_CHIPS_312G_7811a5f1-2a6c-482d-891f-51fb388911ba.jpg?v=1499238313",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/liccl",
+    "imageBounds": [
+      0.21,
+      0,
+      0.82,
+      1
+    ]
   },
   {
     "id": 4,
@@ -90,16 +104,17 @@ window.KPI_PRODUCTS = [
     "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "images/product-04.jpg",
+    "image": "images/kettle-original.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIKC-LIEBERS_KETTLE_CHIPS_ORIGINAL_140G_605dd388-572a-412a-87d1-ef7f869ee67b.jpg?v=1499238193",
-    "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
+    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking.",
     "imageSourcePage": "https://benedikts.com/products/likc",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ]
+      0.245,
+      0.12,
+      0.74,
+      0.9
+    ],
+    "imageProvidedByUser": true
   },
   {
     "id": 5,
@@ -120,9 +135,17 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.shipt.com/shop/products/6e76297a-9263-1ce9-9314-81b5085e9dfc"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/kettle-bbq.png",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIKCB-LIEBERS_BBQ_KETTLE_CHIPS_140G.jpg?v=1499238191",
+    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/likcb",
+    "imageBounds": [
+      0.195,
+      0.01,
+      0.81,
+      0.99
+    ],
+    "imageProvidedByUser": true
   },
   {
     "id": 6,
@@ -143,9 +166,16 @@ window.KPI_PRODUCTS = [
     "warning": "",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-6.png",
+    "imageSource": "https://thevendors.net/cdn/shop/files/Photoroom-20240313-201814_9f04ee36-a91a-42e4-b8bb-c90b1b1eda51_1080x.png?v=1710375746",
+    "reviewNote": "Online packshot van dezelfde Popta Barbeque Rings, losse zak 15 g in plaats van de family pack. Afwijkende verpakkingsgrootte toegestaan door gebruiker.",
+    "imageSourcePage": "https://thevendors.net/products/liebers-popta-barbeque-flavored-rings-0-53-oz",
+    "imageBounds": [
+      0.18,
+      0.08,
+      0.82,
+      0.92
+    ]
   },
   {
     "id": 7,
@@ -165,9 +195,17 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/cotton-candy.png",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427001878.jpg?v=1764269797",
+    "reviewNote": "Door gebruiker aangeleverde en goedgekeurde online packshot. Gewicht en ontwerp kunnen afwijken; gegevens volgen de fysieke verpakking.",
+    "imageSourcePage": "https://miamikosherfood.com/products/liebers-cotton-candy-8-oz",
+    "imageBounds": [
+      0.17,
+      0.1,
+      0.88,
+      0.89
+    ],
+    "imageProvidedByUser": true
   },
   {
     "id": 8,
@@ -252,9 +290,16 @@ window.KPI_PRODUCTS = [
     "warning": "De barcode en netto-inhoud zijn niet volledig leesbaar. Controleer ook de fabriekswaarschuwing op de verpakking. De graansoort van de mout is niet gespecificeerd.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-10.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427182065.jpg?v=1765215590",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://miamikosherfood.com/products/liebers-pretzels-sourdough-bits-12-oz",
+    "imageBounds": [
+      0.22,
+      0.045,
+      0.77,
+      0.945
+    ]
   },
   {
     "id": 11,
@@ -278,9 +323,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.kashrut.com/Alerts/LiebersYoshonList-12-4-2025.pdf"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-11.jpg",
+    "imageSource": "https://images.heb.com/is/image/HEBGrocery/001213548-1",
+    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
+    "imageSourcePage": "https://www.heb.com/product-detail/lieber-s-kosher-fat-free-braided-pretzels/1213548",
+    "imageBounds": [
+      0.21,
+      0.015,
+      0.79,
+      0.985
+    ]
   },
   {
     "id": 12,
@@ -303,9 +355,16 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-12.jpg",
+    "imageSource": "https://sabeny.com/wp-content/uploads/2025/07/SJLN020_liebers_kosher_red_licorice-1.jpg",
+    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
+    "imageSourcePage": "https://sabeny.com/product/food-cupboard/chocolates-sweets-gum/belts-liquorice/liebers-red-liquorice-nibs/",
+    "imageBounds": [
+      0,
+      0,
+      1,
+      1
+    ]
   },
   {
     "id": 13,
@@ -324,9 +383,16 @@ window.KPI_PRODUCTS = [
     "warning": "E102, E110 en/of E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/packshot-13.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIBLP-LIEBERS_BALL_LOLLYPOPS_340G.jpg?v=1499238332",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/liblp",
+    "imageBounds": [
+      0,
+      0.24,
+      1,
+      0.77
+    ]
   },
   {
     "id": 14,
@@ -348,9 +414,16 @@ window.KPI_PRODUCTS = [
     "warning": "Onvolledige ingrediëntenlijst. De sticker vermeldt ook een waarschuwing voor de activiteit en oplettendheid van kinderen; controleer de actuele verpakking.",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-14.png",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/1_jpg_bba9190a-063c-4a6e-b8c4-a00c30b2b23d.png?v=1499237907",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/pabl",
+    "imageBounds": [
+      0.26,
+      0,
+      0.74,
+      1
+    ]
   },
   {
     "id": 15,
@@ -371,9 +444,16 @@ window.KPI_PRODUCTS = [
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-15.jpg",
+    "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2022/08/485350-30.jpg",
+    "reviewNote": "Packshot gecontroleerd: merk, variant en inhoud komen overeen. Watermerk van de fotobron behouden.",
+    "imageSourcePage": "https://www.b-kosher.co.uk/shop/food-cupboard/chocolate-sweets-mints-chewing-gum/sweets-confectionery/liebers-cherry-peel-pull-licorice/",
+    "imageBounds": [
+      0.19,
+      0.08,
+      0.81,
+      0.94
+    ]
   },
   {
     "id": 16,
@@ -395,9 +475,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.shoprite.com/sm/pickup/rsid/193/product/liebers-graham-pie-crust-6-oz-id-00043427127011"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-16.png",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/3281DDF8-7D12-457B-B4A7-E83BB14CE609.png?v=1765734457",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://miamikosherfood.com/products/liebers-graham-pie-crust-6-oz",
+    "imageBounds": [
+      0.12,
+      0.11,
+      0.88,
+      0.88
+    ]
   },
   {
     "id": 17,
@@ -416,9 +503,16 @@ window.KPI_PRODUCTS = [
     "warning": "Na opening gekoeld bewaren.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Niet voor Pesach volgens verpakking",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/found-17.jpg",
+    "imageSource": "https://sohomarketpanama.com/cdn/shop/files/0348394_liebers-liebers-chocolate-syrup_900x.jpg?v=1771992786",
+    "reviewNote": "Online packshot gecontroleerd op merk en variant. Verpakkingsontwerp of gewicht kan afwijken; gegevens volgen het aangeleverde etiket.",
+    "imageSourcePage": "https://sohomarketpanama.com/collections/syrope",
+    "imageBounds": [
+      0.235,
+      0.01,
+      0.765,
+      0.99
+    ]
   },
   {
     "id": 18,
@@ -437,9 +531,16 @@ window.KPI_PRODUCTS = [
     "warning": "Na opening gekoeld bewaren. E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
     "kosher": "Rabbi M. Weissmandl (Parve) · Kosher for Passover volgens verpakking",
     "sources": [],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-18.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427022224.jpg?v=1765737132",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://miamikosherfood.com/products/liebers-strawberry-syrup-20-oz",
+    "imageBounds": [
+      0.265,
+      0.04,
+      0.73,
+      0.925
+    ]
   },
   {
     "id": 19,
@@ -465,9 +566,9 @@ window.KPI_PRODUCTS = [
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
     "imageSourcePage": "https://benedikts.com/products/liebers-bbq-sauce-honey-baerbecue-510g",
     "imageBounds": [
+      0.265,
       0,
-      0,
-      1,
+      0.735,
       1
     ]
   },
@@ -495,10 +596,10 @@ window.KPI_PRODUCTS = [
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
     "imageSourcePage": "https://benedikts.com/products/liebers-sriracha-sauce-453g-x-12",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
+      0.28,
+      0.02,
+      0.67,
+      0.915
     ]
   },
   {
@@ -520,9 +621,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.com/products/17553469-lieber-s-teriyaki-sauce-10-oz"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-21.jpg",
+    "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2023/02/s34ipnkv_liebers_1685210-30.jpg",
+    "reviewNote": "Packshot gecontroleerd: merk, variant en inhoud komen overeen. Watermerk van de fotobron behouden.",
+    "imageSourcePage": "https://www.b-kosher.co.uk/shop/food-cupboard/table-sauces-marinades-dressings/sauce-marinades/liebers-teriyaki-sauce-296ml/",
+    "imageBounds": [
+      0.2,
+      0.02,
+      0.82,
+      0.99
+    ]
   },
   {
     "id": 22,
@@ -546,9 +654,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.ca/products/16662770-lieber-s-soy-sauce-10-fl-oz"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-22.jpg",
+    "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2022/08/ym639g43_liebers_1685200-30.jpg",
+    "reviewNote": "Packshot gecontroleerd: merk, variant en inhoud komen overeen. Watermerk van de fotobron behouden.",
+    "imageSourcePage": "https://www.b-kosher.co.uk/shop/food-cupboard/table-sauces-marinades-dressings/sauce-marinades/liebers-soy-sauce-296ml/",
+    "imageBounds": [
+      0.2,
+      0.02,
+      0.82,
+      0.99
+    ]
   },
   {
     "id": 23,
@@ -572,9 +687,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.shaws.com/shop/pd/liebers-soy-sauce-lite-10-oz/960121621"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-23.png",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/1_jpg_6db6001c-ecd8-4a66-bae3-6fc5dac41013.png?v=1499238179",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/lilss",
+    "imageBounds": [
+      0.36,
+      0,
+      0.64,
+      1
+    ]
   },
   {
     "id": 24,
@@ -625,9 +747,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.aqua-calc.com/calculate/food-weight-to-volume/substance/cholent-blank-mix-coma-and-blank-upc-column--blank-748935026206-blank--op-dry-cp-)"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Gecontroleerd op 2026-10-01. Geen passende online packshot bevestigd; aangeleverde winkelfoto niet weergegeven."
+    "image": "images/found-25.jpg",
+    "imageSource": "https://d226b0iufwcjmj.cloudfront.net/product-images/1138/1942322/12482085/large.jpg",
+    "reviewNote": "Online packshot Shwartz Cholent Mix 16 oz, gewone bonenmix; merk en variant visueel gecontroleerd.",
+    "imageSourcePage": "https://www.shopsevenmilemarket.com/?catalogProduct=306998",
+    "imageBounds": [
+      0,
+      0,
+      1,
+      1
+    ]
   },
   {
     "id": 26,
@@ -648,9 +777,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://foodisgood.com/product/liebers-kosher-dill-gherkins/"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-26.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIGP-LIEBERS_DILL_GHERKINS_720ML.jpg?v=1499238218",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/ligp",
+    "imageBounds": [
+      0.16,
+      0,
+      0.84,
+      1
+    ]
   },
   {
     "id": 27,
@@ -676,10 +812,10 @@ window.KPI_PRODUCTS = [
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
     "imageSourcePage": "https://benedikts.com/products/liebers-duck-sauce-792g-x-12",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
+      0.22,
+      0.015,
+      0.8,
+      0.99
     ]
   },
   {
@@ -702,9 +838,16 @@ window.KPI_PRODUCTS = [
       "https://www.instacart.ca/store/products/41173514-lieber-s-passata-crushed-tomatoes-23-oz",
       "https://www.instacart.com/products/43343735-lieber-s-italian-crushed-tomatoes-passata-23-oz"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/packshot-28.jpg",
+    "imageSource": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_b9aa306e-42c1-4196-a2f5-7aa8bb112f9a.jpg",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://www.instacart.com/products/43343735-lieber-s-italian-crushed-tomatoes-passata-23-oz",
+    "imageBounds": [
+      0.33,
+      0.015,
+      0.665,
+      0.985
+    ]
   },
   {
     "id": 29,
@@ -731,10 +874,10 @@ window.KPI_PRODUCTS = [
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
     "imageSourcePage": "https://miamikosherfood.com/products/liebers-tomato-basil-marinara-pasta-sauce",
     "imageBounds": [
-      0,
-      0,
-      1,
-      1
+      0.285,
+      0.035,
+      0.73,
+      0.865
     ]
   },
   {
@@ -756,9 +899,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.heb.com/product-detail/lieber-s-classic-marinara-sauce/2886501"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/packshot-30.jpg",
+    "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIMPS-LIEBERS_CLASSIC_MARINARA_PASTA_SAUCE_708ML.jpg?v=1499238149",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://benedikts.com/products/limps",
+    "imageBounds": [
+      0.245,
+      0,
+      0.75,
+      1
+    ]
   },
   {
     "id": 31,
@@ -779,9 +929,16 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://www.instacart.ca/products/1488791-liebers-pizza-sauce-original-26-oz"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-31.jpg",
+    "imageSource": "https://koshercentral.com/api/content/images/thumbs/0221748_liebers-liebers-pizza-sauce-26oz.jpeg",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://koshercentral.com/Southern-Florida/category/515/sauce/7672/lieber-s-original-pizza-sauce-26-oz",
+    "imageBounds": [
+      0.235,
+      0,
+      0.77,
+      1
+    ]
   },
   {
     "id": 32,
@@ -802,8 +959,36 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram"
     ],
-    "image": "",
-    "imageSource": "",
-    "reviewNote": "Foto opnieuw vergeleken met de aangeleverde verpakking op 2026-10-01. Online afbeelding wijkt af in etiket, inhoud of verpakking en is verwijderd. Exacte packshot ontbreekt."
+    "image": "images/product-32.png",
+    "imageSource": "https://yastatic.net/avatars/get-grocery-goods/2998515/9f423587-62ef-432c-8a35-8ad835c3a789/464x464-origin",
+    "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
+    "imageSourcePage": "https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram",
+    "imageBounds": [
+      0.1,
+      0.28,
+      0.87,
+      0.75
+    ],
+    "imagePresentation": {
+      "corners": [
+        [
+          0.07119965317364413,
+          0.4450748841975837
+        ],
+        [
+          0.8305963929649162,
+          0.22732137310215428
+        ],
+        [
+          0.9188003468263558,
+          0.5349251158024163
+        ],
+        [
+          0.15940360703508388,
+          0.7526786268978457
+        ]
+      ],
+      "aspectRatio": 2.46875
+    }
   }
 ];
