@@ -86,35 +86,36 @@
         22,
         23
       ]
-    }
-  ],
-  "unresolved": [
+    },
     {
+      "id": 75,
+      "name": "Handzeep Midnight Glow",
+      "ean": "7290102991808",
       "photos": [
         7,
         8
       ],
-      "name": "Handzeep Midnight Glow",
-      "ean": "7290102991808",
-      "volume": "500 ml",
-      "pao": "12 maanden",
-      "issue": "Niet hetzelfde product als Spring Blossom; wacht op keuze vervangen of toevoegen."
+      "action": "Added as extra product; composition and photo from Israelwinkel SKU 75250"
     },
+    {
+      "id": 42,
+      "name": "Gezichtsreiniger C Power",
+      "ean": "7290104964947",
+      "photos": [
+        18,
+        19
+      ],
+      "action": "Barcode corroborated by manufacturer; blurry photo alone insufficient",
+      "source": "https://careline.co.il/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
+    }
+  ],
+  "unresolved": [
     {
       "photos": [
         15
       ],
       "name": "Nachtcrème Pro Retinol 2%",
       "issue": "Alleen voorzijde, geen barcode of volledige ingrediëntenlijst."
-    },
-    {
-      "photos": [
-        18,
-        19
-      ],
-      "name": "Gezichtsreiniger C Power",
-      "volume": "300 ml",
-      "issue": "Barcode en achteretiket onscherp; geen barcode overgenomen."
     }
   ],
   "ingredients": "Geen volledige ingrediëntenlijst overgenomen: lijsten zijn afgesneden, deels onleesbaar of ontbreken. Bestaande lijsten zijn hiermee niet opnieuw bevestigd."

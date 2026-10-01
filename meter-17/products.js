@@ -1687,6 +1687,43 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 75,
+    "catalogType": "nonfood",
+    "name": "Handzeep Midnight Glow",
+    "brand": "Careline",
+    "category": "Verzorging",
+    "shelf": 4,
+    "variant": "500 ml",
+    "ean": "7290102991808",
+    "image": "images/clean/midnight-glow.png",
+    "allergens": null,
+    "productInfo": {
+      "Toepassing": "Vloeibare handzeep met de geur van sheaboter.",
+      "Gebruik": "Op natte handen laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden",
+      "Waarschuwingen": "Niet inslikken. Vermijd contact met de ogen. Bij contact met de ogen direct uitspoelen. Buiten bereik van kinderen houden."
+    },
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Water, Sodium Laureth Sulfate, Glycol Distearate, Laureth-10, Cocamide DEA, Cocamidopropyl Betaine, Sodium Chloride, Polyquaternium-7, Parfum, Glycerin, DMDM Hydantoin, Disodium EDTA, Citric Acid, Methylchloroisothiazolinone, Methylisothiazolinone, Hexyl Cinnamal, Linalool",
+      "source": {
+        "label": "Israelwinkel — Midnight Glow",
+        "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75250"
+      }
+    },
+    "supplier": {
+      "name": "Israelwinkel",
+      "url": "https://www.israelwinkel.nl/producten/careline-zeep?sku=75250",
+      "sku": "75250"
+    },
+    "imageBounds": [
+      0.313,
+      0.049,
+      0.686,
+      0.953
+    ]
+  },
+  {
     "id": 38,
     "catalogType": "nonfood",
     "name": "Dagcrème Pro Collagen 3%",
@@ -1943,6 +1980,11 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.3706777316735823
+    },
+    "ean": "7290104964947",
+    "barcodeSource": {
+      "label": "Careline — fabrikant",
+      "url": "https://careline.co.il/c-power-%D7%AA%D7%A8%D7%97%D7%99%D7%A5-%D7%A4%D7%A0%D7%99%D7%9D/"
     }
   },
   {
