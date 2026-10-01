@@ -1,0 +1,121 @@
+{
+  "date": "2026-10-01",
+  "source": "Door gebruiker aangeleverde etiketfoto’s, Fotos voor Codex, 1.jpg t/m 23.jpg",
+  "verified": [
+    {
+      "id": 33,
+      "name": "Deodorantroller Secret Garden",
+      "ean": "7290108357059",
+      "photos": [
+        1,
+        2
+      ],
+      "confirmedVolume": "75 ml"
+    },
+    {
+      "id": 34,
+      "name": "Deodorantroller Velvet Rose",
+      "ean": "7290108357110",
+      "photos": [
+        3,
+        4
+      ],
+      "confirmedVolume": "75 ml"
+    },
+    {
+      "id": 35,
+      "name": "Handzeep Sweet Kiss",
+      "ean": "7290102991792",
+      "photos": [
+        5,
+        6
+      ],
+      "confirmedVolume": "500 ml"
+    },
+    {
+      "id": 37,
+      "name": "Handzeep Wild Breeze",
+      "ean": "7290102991778",
+      "photos": [
+        9,
+        10
+      ],
+      "confirmedVolume": "500 ml"
+    },
+    {
+      "id": 38,
+      "name": "Dagcrème Pro Collagen 3%",
+      "ean": "7290104965111",
+      "photos": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Dagcrème C Power SPF 20",
+      "ean": "7290104969935",
+      "photos": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Nachtcrème C Power",
+      "ean": "7290104969928",
+      "photos": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Shampoo en douchegel met munt 2 in 1",
+      "ean": "7290012117428",
+      "photos": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Shampoo en douchegel met aloë vera 2 in 1",
+      "ean": "7290012117435",
+      "photos": [
+        22,
+        23
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "photos": [
+        7,
+        8
+      ],
+      "name": "Handzeep Midnight Glow",
+      "ean": "7290102991808",
+      "volume": "500 ml",
+      "pao": "12 maanden",
+      "issue": "Niet hetzelfde product als Spring Blossom; wacht op keuze vervangen of toevoegen."
+    },
+    {
+      "photos": [
+        15
+      ],
+      "name": "Nachtcrème Pro Retinol 2%",
+      "issue": "Alleen voorzijde, geen barcode of volledige ingrediëntenlijst."
+    },
+    {
+      "photos": [
+        18,
+        19
+      ],
+      "name": "Gezichtsreiniger C Power",
+      "volume": "300 ml",
+      "issue": "Barcode en achteretiket onscherp; geen barcode overgenomen."
+    }
+  ],
+  "ingredients": "Geen volledige ingrediëntenlijst overgenomen: lijsten zijn afgesneden, deels onleesbaar of ontbreken. Bestaande lijsten zijn hiermee niet opnieuw bevestigd."
+}

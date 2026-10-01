@@ -1425,8 +1425,10 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
-      "Gebruik": "Aanbrengen op schone droge oksels.",
-      "Geur": "Zachte bloemengeur"
+      "Gebruik": "Goed schudden voor gebruik. Aanbrengen op schone, droge oksels.",
+      "Geur": "Zachte bloemengeur",
+      "Houdbaarheid na openen": "12 maanden",
+      "Waarschuwingen": "Niet aanbrengen op geïrriteerde of beschadigde huid. Vermijd contact met de ogen. Bij contact met de ogen direct uitspoelen."
     },
     "sources": [
       {
@@ -1478,8 +1480,10 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Antitranspirantroller met aloë vera. Volgens de leverancier tot 48 uur bescherming en geschikt voor de gevoelige huid.",
-      "Gebruik": "Aanbrengen op schone droge oksels.",
-      "Geur": "Frisse rozengeur"
+      "Gebruik": "Goed schudden voor gebruik. Aanbrengen op schone, droge oksels.",
+      "Geur": "Frisse rozengeur",
+      "Houdbaarheid na openen": "12 maanden",
+      "Waarschuwingen": "Niet aanbrengen op geïrriteerde of beschadigde huid. Vermijd contact met de ogen. Bij contact met de ogen direct uitspoelen."
     },
     "sources": [
       {
@@ -1531,7 +1535,9 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vloeibare handzeep met de geur van rozen en muskus.",
-      "Gebruik": "Op natte handen laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte handen laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden",
+      "Waarschuwingen": "Niet inslikken. Vermijd contact met de ogen. Bij contact met de ogen direct uitspoelen. Buiten bereik van kinderen houden."
     },
     "sources": [
       {
@@ -1637,7 +1643,9 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Vloeibare handzeep met de geur van waterlelie.",
-      "Gebruik": "Op natte handen laten schuimen en goed afspoelen."
+      "Gebruik": "Op natte handen laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "12 maanden",
+      "Waarschuwingen": "Niet inslikken. Vermijd contact met de ogen. Bij contact met de ogen direct uitspoelen. Buiten bereik van kinderen houden."
     },
     "sources": [
       {
@@ -1949,7 +1957,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar en lichaam met munt.",
-      "Gebruik": "Op nat haar en natte huid verdelen, laten schuimen en goed afspoelen."
+      "Gebruik": "Op nat haar en natte huid verdelen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "18 maanden"
     },
     "sources": [
       {
@@ -1998,7 +2007,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reiniging van haar en lichaam met aloë vera.",
-      "Gebruik": "Op nat haar en natte huid verdelen, laten schuimen en goed afspoelen."
+      "Gebruik": "Op nat haar en natte huid verdelen, laten schuimen en goed afspoelen.",
+      "Houdbaarheid na openen": "18 maanden"
     },
     "sources": [
       {
