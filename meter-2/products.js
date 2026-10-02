@@ -74,7 +74,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "7290018165010",
     "image": "images/barkan-gold-edition-gewurztraminer.png",
     "isWine": true,
@@ -87,7 +87,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "11,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Aromatische witte wijn.",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Nee"
     },
     "reviewNotes": "Nederlandse importsticker zegt droog; Hebreeuws producentenetiket zegt halfdroog. Producentenetiket gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -129,7 +130,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "7290000025001",
     "image": "images/barkan-classic-emerald-riesling-colombard.jpg",
     "isWine": true,
@@ -141,7 +142,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
       "Inhoud": "750 ml",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Nee"
     },
     "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -183,7 +185,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend (mevushalstatus niet bekend).",
+    "kosher": "Hechsher niet bekend.",
     "ean": "7290000023823",
     "image": "images/barkan-classic-sauvignon-blanc.jpg",
     "isWine": true,
@@ -195,7 +197,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël",
       "Alcohol": "11%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Fris wit fruit, appel en citrus, met een lange afdronk."
+      "Smaakomschrijving": "Fris wit fruit, appel en citrus, met een lange afdronk.",
+      "Mevushal": "Niet bekend"
     },
     "reviewNotes": "Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd.",
     "sourcePhotos": [
@@ -258,7 +261,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "7290000023816",
     "image": "images/barkan-classic-emerald-riesling.jpg",
     "isWine": true,
@@ -271,7 +274,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "12%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Aromatisch, licht zoet en fruitig, met muskaatachtige tonen.",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Nee"
     },
     "reviewNotes": "Extra afzonderlijke variant uit fotoserie. Voorzijde en producent noemen Emerald Riesling / 100%; Nederlandse sticker noemt ten onrechte ook Colombard. IPC noemt 2021 / 11,5%; fysiek 2024 / 12% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -313,7 +317,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "7290012576614",
     "image": "images/barkan-premieur-emerald-riesling-colombard.png",
     "isWine": true,
@@ -326,7 +330,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "12,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitige tonen van appel, peer en perzik, met een lichte muskaattoon.",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Nee"
     },
     "reviewNotes": "Spelling Premieur van de fles aangehouden; in opdracht Premier genoemd. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -372,7 +377,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "7290000023830",
     "image": "images/barkan-classic-rose.jpg",
     "isWine": true,
@@ -385,7 +390,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "11%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitige rosé met bessen en een lichte kruidigheid.",
-      "Serveertemperatuur": "8 tot 10 °C"
+      "Serveertemperatuur": "8 tot 10 °C",
+      "Mevushal": "Nee"
     },
     "reviewNotes": "Nederlandse importsticker zegt droog; Hebreeuws producentenetiket zegt halfdroog. IPC 2022 / 10% wijkt af; fysiek 2025 / 11% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -427,7 +433,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
     "ean": "087752027516",
     "image": "images/zmora-emerald-riesling-en-colombard.png",
     "isWine": true,
@@ -440,7 +446,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "11,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitige witte wijn met tropische en bloemige aroma’s, een lichte zoetheid en een frisse smaak.",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Gebruiker bevestigt fysieke fles: mevushal, kosher voor Pesach en sulfieten. Fysieke registratie 2024, 750 ml, 11,5%, barcode 087752027516 en hechsher behouden. Door gebruiker aangewezen Kosher Wine World-pagina heeft 2020 in URL, maar vermeldt 2023, halfzoet, Emerald Riesling/Colombard en barcode 00087752027516 (dezelfde UPC met voorloopnullen). Wijnstijl en smaakomschrijving aangevuld op variantniveau met zichtbare kwalificatie volgens productinformatie. De afwijkende 12,2%, OU en Galilea van de webshop niet overgenomen. Exacte zoetheid van actuele fles nog niet fysiek bevestigd.",
     "sourcePhotos": [
@@ -502,7 +509,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "5,5%",
       "Inhoud": "750 ml",
       "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
-      "Serveertemperatuur": "9 tot 12 °C"
+      "Serveertemperatuur": "9 tot 12 °C",
+      "Mevushal": "Niet bekend"
     },
     "sourcePhotos": [
       "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
@@ -526,7 +534,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (mevushalstatus niet bekend).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
     "ean": "7290019220725",
     "image": "images/barkan-gold-edition-chardonnay.png",
     "isWine": true,
@@ -539,7 +547,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "12,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Zes maanden gerijpt in eikenhouten vaten.",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Niet bekend"
     },
     "reviewNotes": "Flesgegevens opnieuw bevestigd door gebruiker op 17 september 2026: 2025, 750 ml, 12,5%, droog, Israël, sulfieten, barcode 7290019220725. Bestaande ingrediënten uit digitaal flesetiket behouden. Omcirkeld K-P niet bevestigd op deze fles en verwijderd. Mevushalstatus blijft onbekend; nieuwe foto ontbreekt.",
     "sourcePhotos": [
@@ -585,7 +594,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752006115",
     "image": "images/barkan-classic-chardonnay.jpg",
     "isWine": true,
@@ -597,7 +606,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, heuvels van Judea",
       "Alcohol": "12%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Perzik, appel en peer, met frisse zuren."
+      "Smaakomschrijving": "Perzik, appel en peer, met frisse zuren.",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "IPC noemt 2021 / 12,5%; fysiek 2024 / 12% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -639,7 +649,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushalstatus nog te controleren).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
     "ean": "087752008164",
     "image": "images/ben-ami-3.jpg",
     "isWine": true,
@@ -651,7 +661,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, Galil",
       "Alcohol": "12%",
       "Inhoud": "750 ml",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Niet bekend"
     },
     "reviewNotes": " Ingrediënten en sulfieten rechtstreeks gecontroleerd via het QR-etiket op deze fles; naam en jaargang komen overeen. Ingrediënten in het Nederlands vertaald.",
     "sourcePhotos": [
@@ -697,7 +708,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem (niet mevushal).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem.",
     "ean": "7290000521015",
     "image": "images/segal-droge-witte-wijn.png",
     "isWine": true,
@@ -710,7 +721,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "11,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Fris en fruitig; appel, kruidige tonen en een lichte bitterheid.",
-      "Serveertemperatuur": "8 tot 12 °C"
+      "Serveertemperatuur": "8 tot 12 °C",
+      "Mevushal": "Nee"
     },
     "reviewNotes": "IPC noemt 2022 / 12%; fysiek 2025 / 11,5% gevolgd. QR op fles verwijst naar digitaal etiket uit 2024, terwijl fysieke fles 2025 is. Sulfieten komen overeen; overige QR-ingrediënten niet zonder jaarbevestiging overgenomen. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang.",
     "sourcePhotos": [
@@ -808,7 +820,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752008867",
     "image": "images/barkan-classic-shiraz.jpg",
     "isWine": true,
@@ -821,7 +833,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "13%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Bramen, anijs en peperige kruiden; een middelvolle wijn met zachte tannines.",
-      "Serveertemperatuur": "16 tot 18 °C"
+      "Serveertemperatuur": "16 tot 18 °C",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "IPC noemt 2023 / 12%; fysiek 2024 / 13% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -863,7 +876,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend (mevushal).",
+    "kosher": "Hechsher niet bekend.",
     "ean": "087752013663",
     "image": "images/barkan-classic-merlot-argaman.png",
     "isWine": true,
@@ -875,7 +888,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël",
       "Alcohol": "12%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Donkere bessen en kersen, met kruidige tonen van drop en laurier."
+      "Smaakomschrijving": "Donkere bessen en kersen, met kruidige tonen van drop en laurier.",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Afzonderlijke variant, 2023, 750 ml, 12%, 50% Merlot en 50% Argaman, barcode 087752013663 volgens aangeleverde transcriptie. Geen nieuwe foto bijgevoegd om de certificerende instantie onafhankelijk te controleren.",
     "sourcePhotos": [],
@@ -923,7 +937,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752029305",
     "image": "images/barkan-classic-argaman.jpg",
     "isWine": true,
@@ -935,7 +949,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, heuvels van Judea",
       "Alcohol": "12%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Pruimen, blauwe bessen en mediterrane kruiden; zachte tannines."
+      "Smaakomschrijving": "Pruimen, blauwe bessen en mediterrane kruiden; zachte tannines.",
+      "Mevushal": "Ja"
     },
     "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -977,7 +992,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752016909",
     "image": "images/barkan-classic-malbec.jpg",
     "isWine": true,
@@ -989,7 +1004,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, Galil",
       "Alcohol": "12%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Pruimachtige aroma’s en stevige tannines."
+      "Smaakomschrijving": "Pruimachtige aroma’s en stevige tannines.",
+      "Mevushal": "Ja"
     },
     "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -1031,7 +1047,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752006108",
     "image": "images/barkan-classic-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1044,7 +1060,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "12,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Kruidige bessenaroma’s, eikenhout en een volle, ronde smaak.",
-      "Serveertemperatuur": "16 tot 18 °C"
+      "Serveertemperatuur": "16 tot 18 °C",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "IPC noemt 2022 / 13%; fysiek 2024 / 12,5% gevolgd. Ingrediënten en sulfieten rechtstreeks gecontroleerd via het QR-etiket op deze fles; naam en jaargang komen overeen. Ingrediënten in het Nederlands vertaald. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -1090,7 +1107,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752011102",
     "image": "images/barkan-classic-pinot-noir.png",
     "isWine": true,
@@ -1103,7 +1120,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "13%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Frisse, aardbeiachtige aroma’s en een middelvolle smaak met een frisse afdronk.",
-      "Serveertemperatuur": "16 tot 18 °C"
+      "Serveertemperatuur": "16 tot 18 °C",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
     "sourcePhotos": [
@@ -1150,7 +1168,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
     "ean": "7290000023915",
     "image": "images/barkan-classic-cabernet-mini.png",
     "isWine": true,
@@ -1161,7 +1179,8 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
-      "Inhoud": "187 ml"
+      "Inhoud": "187 ml",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Nieuwe fysieke foto 52c2471b-71c6-4139-a7f8-63fe7edd45b6.jpg bevestigt barcode 7290000023915, 12,5%, Badatz Edah HaChareidis Jeruzalem en de Hebreeuwse vermelding wijn mevushal. Kosher voor Pesach zichtbaar. Ook twee andere keurmerken zichtbaar; niet verder benoemd zonder zekere identificatie. Geen omcirkeld K-P zichtbaar op deze foto. Inhoud 187 ml bevestigd door gebruiker en bestaande exacte barcode-match. Sulfieten uit bestaande online variantinformatie.",
     "sourcePhotos": [
@@ -1211,7 +1230,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Etiket vermeldt heter mechira, Opperrabbinaat van Israël (niet mevushal).",
+    "kosher": "Etiket vermeldt heter mechira, Opperrabbinaat van Israël.",
     "ean": "7290000521008",
     "image": "images/segal-droge-rode-wijn.jpg",
     "isWine": true,
@@ -1222,7 +1241,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Frisse, fruitige rode wijn."
+      "Smaakomschrijving": "Frisse, fruitige rode wijn.",
+      "Mevushal": "Nee"
     },
     "reviewNotes": "IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt.",
     "sourcePhotos": [
@@ -1264,7 +1284,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
     "ean": "087752008157",
     "image": "images/ben-ami-1.jpg",
     "isWine": true,
@@ -1275,7 +1295,8 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Ben Ami",
       "Herkomst": "Israël, Galil",
       "Alcohol": "12,5%",
-      "Inhoud": "750 ml"
+      "Inhoud": "750 ml",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
     "sourcePhotos": [
@@ -1322,7 +1343,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
     "ean": "087752008171",
     "image": "images/ben-ami-2.jpg",
     "isWine": true,
@@ -1335,7 +1356,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "13%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitig en bloemig, met stevigheid door de Cabernet Sauvignon.",
-      "Serveertemperatuur": "16 tot 18 °C"
+      "Serveertemperatuur": "16 tot 18 °C",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "",
     "sourcePhotos": [
@@ -1377,7 +1399,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk (mevushalstatus nog te controleren).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
     "ean": "087752013236",
     "image": "images/zmora-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1389,7 +1411,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Jonge, zachte rode wijn met bessen, kersen en bloemige aroma’s."
+      "Smaakomschrijving": "Jonge, zachte rode wijn met bessen, kersen en bloemige aroma’s.",
+      "Mevushal": "Niet bekend"
     },
     "reviewNotes": "Mevushal niet leesbaar op foto; daarom niet ingevuld.",
     "sourcePhotos": [
@@ -1431,7 +1454,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël (mevushalstatus niet bekend).",
+    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël.",
     "ean": "7290000024202",
     "image": "images/barkan-reserve-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1443,7 +1466,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, Galilea",
       "Alcohol": "13%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Donker fruit en milde kruidigheid. Twaalf maanden gerijpt in Franse eikenhouten vaten."
+      "Smaakomschrijving": "Donker fruit en milde kruidigheid. Twaalf maanden gerijpt in Franse eikenhouten vaten.",
+      "Mevushal": "Niet bekend"
     },
     "reviewNotes": "Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
     "sourcePhotos": [
@@ -1485,7 +1509,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend (mevushalstatus niet bekend).",
+    "kosher": "Hechsher niet bekend.",
     "ean": "7290000024264",
     "image": "images/barkan-reserve-merlot.jpg",
     "isWine": true,
@@ -1497,7 +1521,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, Galilea",
       "Alcohol": "13%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Rode bessen, kersen en milde kruidigheid, met een zachte smaak."
+      "Smaakomschrijving": "Rode bessen, kersen en milde kruidigheid, met een zachte smaak.",
+      "Mevushal": "Niet bekend"
     },
     "reviewNotes": "Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
     "sourcePhotos": [
@@ -1543,7 +1568,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "087752030622",
     "image": "images/barkan-platinum-cabernet-sauvignon-zonder-schaduw.png",
     "isWine": true,
@@ -1555,7 +1580,8 @@ window.KPI_PRODUCTS = [
       "Herkomst": "Israël, Boven Galilea",
       "Alcohol": "13,5%",
       "Inhoud": "750 ml",
-      "Smaakomschrijving": "Donker fruit en kruidige houttonen. Achttien maanden gerijpt in Franse eikenhouten vaten."
+      "Smaakomschrijving": "Donker fruit en kruidige houttonen. Achttien maanden gerijpt in Franse eikenhouten vaten.",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
@@ -1597,7 +1623,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Kosher (mevushal). Hechsher niet bekend.",
+    "kosher": "Kosher. Hechsher niet bekend.",
     "ean": "9310489001773",
     "image": "images/7th-day-sacramental-kinor.jpg",
     "isWine": true,
@@ -1612,7 +1638,8 @@ window.KPI_PRODUCTS = [
       "Smaakomschrijving": "Zoete, volle rode wijn met een ronde smaak en kruidige tonen.",
       "Serveren": "Licht gekoeld, bijvoorbeeld als aperitief.",
       "Gebruik": "Voor Kiddush en Havdalah.",
-      "Sluiting": "Schroefdop"
+      "Sluiting": "Schroefdop",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Op uitdrukkelijk verzoek gebruiker is Wijnbox de bron voor Kinor: 12%, zoete rode Carignan uit Judea, mevushal, kosher voor Pesach, schroefdop, licht gekoeld serveren en geschikt voor Kiddush/Havdalah. Wijnbox noemt geen specifieke hechsher of ingrediëntenlijst; bestaande ingrediënten/allergenenbron behouden. Barcode 9310489001773 en 750 ml uit eerdere registratie behouden. Eerdere bron met 11% wordt niet meer gevolgd voor deze vermelding. Geen fysieke bevestiging van actuele jaargang; bronkeuze door gebruiker, niet als flescontrole geregistreerd.",
     "sourcePhotos": [
@@ -1672,7 +1699,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem (mevushal).",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem.",
     "ean": "7290000024523",
     "image": "images/druivensap.jpg",
     "isWine": false,
@@ -1682,7 +1709,8 @@ window.KPI_PRODUCTS = [
       "Alcohol": "Alcoholvrij",
       "Inhoud": "1 liter",
       "Serveren": "10 tot 12 °C",
-      "Bewaren": "Koel bewaren (10 tot 16 °C). Na openen in de koelkast (4 °C) en binnen vier dagen gebruiken."
+      "Bewaren": "Koel bewaren (10 tot 16 °C). Na openen in de koelkast (4 °C) en binnen vier dagen gebruiken.",
+      "Mevushal": "Ja"
     },
     "reviewNotes": "Sulfieten staan op Nederlandse fysieke sticker; daarom opgenomen ondanks IPC-omschrijving zonder toevoegingen. Alcoholvrij sap, niet als wijn gecategoriseerd. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang.",
     "sourcePhotos": [
