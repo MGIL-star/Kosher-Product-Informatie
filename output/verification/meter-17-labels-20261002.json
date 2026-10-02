@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-02",
+  "verified": [
+    {
+      "id": 1,
+      "name": "Toiletblok",
+      "ean": "7290000287478",
+      "photos": [
+        1,
+        2
+      ],
+      "confirmedVolume": "55 g",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 2,
+      "name": "Allesreiniger in gelvorm met dennenolie",
+      "ean": "7290102993277",
+      "photos": [
+        3,
+        4
+      ],
+      "confirmedVolume": "1 liter",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 3,
+      "name": "Luchtverfrisser Soft Silk",
+      "ean": "7290108351606",
+      "photos": [
+        5,
+        6
+      ],
+      "confirmedVolume": "350 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 4,
+      "name": "Luchtverfrisser Blue Blossom",
+      "ean": "7290108351590",
+      "photos": [
+        7,
+        8
+      ],
+      "confirmedVolume": "350 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 6,
+      "name": "Schuursponsjes 2 in 1 goud en zilver",
+      "ean": "7290002346104",
+      "photos": [
+        9,
+        10
+      ],
+      "confirmedVolume": "2 stuks",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 8,
+      "name": "Nachtcrème",
+      "ean": "7290010025718",
+      "photos": [
+        13,
+        14
+      ],
+      "confirmedVolume": null,
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 9,
+      "name": "Vochtinbrengende dagcrème",
+      "ean": "7290010025725",
+      "photos": [
+        15,
+        16
+      ],
+      "confirmedVolume": null,
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 10,
+      "name": "Lichaamsboter met aloë vera",
+      "ean": "7290111761829",
+      "photos": [
+        17,
+        18
+      ],
+      "confirmedVolume": "350 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 11,
+      "name": "Lichaamsboter patchouli-vanille",
+      "ean": "7290006078162",
+      "photos": [
+        19,
+        20
+      ],
+      "confirmedVolume": "350 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 14,
+      "name": "Balsem na het scheren",
+      "ean": "7290111761508",
+      "photos": [
+        25,
+        26
+      ],
+      "confirmedVolume": "100 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 15,
+      "name": "Bodylotion met olijfolie en honing",
+      "ean": "7290111760808",
+      "photos": [
+        27,
+        28
+      ],
+      "confirmedVolume": "400 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 17,
+      "name": "Dode Zeemodder",
+      "ean": "7290015422901",
+      "photos": [
+        31,
+        32
+      ],
+      "confirmedVolume": "300 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 18,
+      "name": "Dode Zee badzout",
+      "ean": "7290015422918",
+      "photos": [
+        33,
+        34
+      ],
+      "confirmedVolume": "300 g",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 19,
+      "name": "Zeep met avocado en aloë vera",
+      "ean": "7290014043992",
+      "photos": [
+        35,
+        36
+      ],
+      "confirmedVolume": "115 g",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 20,
+      "name": "Lichaamsboter met lavendel en patchouli",
+      "ean": "7290017824802",
+      "photos": [
+        37,
+        38
+      ],
+      "confirmedVolume": "350 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 21,
+      "name": "Hand- en nagelcrème met lavendel",
+      "ean": "7290014043541",
+      "photos": [
+        39,
+        40
+      ],
+      "confirmedVolume": "100 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 22,
+      "name": "Hand- en nagelcrème met avocado en aloë vera",
+      "ean": "7290015247207",
+      "photos": [
+        41,
+        42
+      ],
+      "confirmedVolume": "100 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 25,
+      "name": "Aloë vera gel met vitamine E",
+      "ean": "7290014043848",
+      "photos": [
+        43,
+        44
+      ],
+      "confirmedVolume": "100 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 24,
+      "name": "Voetcrème met avocado en aloë vera",
+      "ean": "7290015247276",
+      "photos": [
+        45,
+        46
+      ],
+      "confirmedVolume": "100 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 26,
+      "name": "Douchegel met lavendel",
+      "ean": "7290014043725",
+      "photos": [
+        49,
+        50
+      ],
+      "confirmedVolume": "780 ml",
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 28,
+      "name": "Shampoo met Dode Zeemodder",
+      "ean": "7290006078094",
+      "photos": [
+        53,
+        54
+      ],
+      "confirmedVolume": null,
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 73,
+      "name": "Vochtinbrengende dagcrème voor mannen",
+      "ean": "7290111760372",
+      "photos": [
+        55,
+        56
+      ],
+      "confirmedVolume": null,
+      "barcodeStatus": "confirmed"
+    },
+    {
+      "id": 30,
+      "name": "Douchegel met olijfolie en honing",
+      "ean": "7290006079121",
+      "photos": [
+        57,
+        58
+      ],
+      "confirmedVolume": "770 ml",
+      "barcodeStatus": "conflict"
+    },
+    {
+      "id": 31,
+      "name": "Shampoo voor mannen",
+      "ean": "7290006079121",
+      "photos": [
+        59,
+        60
+      ],
+      "confirmedVolume": "770 ml",
+      "barcodeStatus": "conflict"
+    },
+    {
+      "id": 7,
+      "ean": "7290002349808",
+      "photos": [
+        12
+      ],
+      "barcodeStatus": "user-directed",
+      "note": "Alleen barcode gewijzigd op expliciet verzoek; foto, naam en overige gegevens behouden."
+    }
+  ],
+  "notes": [
+    "Geen nieuwe producten toegevoegd op verzoek van gebruiker. Bodyscrub, gezichtspeeling, multifunctionele aloëveracrème en arganshampoo overgeslagen.",
+    "Foto 27–30: dezelfde bodylotion in twee verpakkingen.",
+    "Foto 58 en 60: dezelfde barcode op twee verschillende producten; koppeling niet bevestigd.",
+    "Ingrediëntenlijsten zijn niet volledig leesbaar en zijn niet als volledig geverifieerd aangemerkt."
+  ]
+}

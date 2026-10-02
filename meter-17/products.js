@@ -37,7 +37,24 @@ window.KPI_PRODUCTS = [
       "height": 0.725,
       "aspectRatio": 0.8862068965517241
     },
-    "imageEdited": false
+    "imageEdited": false,
+    "ean": "7290000287478",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 2.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/2.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/1.jpg",
+        "source-labels/20261002/2.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 2,
@@ -51,7 +68,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Geconcentreerde reinigingsgel voor huishoudelijke reiniging.",
-      "Gebruik": "Voor afwasbare oppervlakken. Kan als gel onverdund of verdund in water worden gebruikt. Volg de dosering op de verpakking."
+      "Gebruik": "Voor afwasbare oppervlakken. Kan als gel onverdund of verdund in water worden gebruikt. Volg de dosering op de verpakking.",
+      "Inhoud": "1 liter"
     },
     "sources": [
       {
@@ -81,8 +99,20 @@ window.KPI_PRODUCTS = [
     },
     "ean": "7290102993277",
     "barcodeSource": {
-      "label": "Fabrikant — barcode en productvariant",
-      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      "label": "Etiketfoto gebruiker 4.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/4.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/3.jpg",
+        "source-labels/20261002/4.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -104,7 +134,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Luchtverfrisser met een warme, zachte geur.",
-      "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor."
+      "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor.",
+      "Inhoud": "350 ml"
     },
     "sources": [
       {
@@ -128,8 +159,20 @@ window.KPI_PRODUCTS = [
     },
     "ean": "7290108351606",
     "barcodeSource": {
-      "label": "Fabrikant — barcode en productvariant",
-      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      "label": "Etiketfoto gebruiker 6.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/6.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/5.jpg",
+        "source-labels/20261002/6.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -151,7 +194,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Luchtverfrisser met een frisse, bloemige geur.",
-      "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor."
+      "Toepassing": "Spray voor het verfrissen van ruimtes in huis of op kantoor.",
+      "Inhoud": "350 ml"
     },
     "sources": [
       {
@@ -175,8 +219,20 @@ window.KPI_PRODUCTS = [
     },
     "ean": "7290108351590",
     "barcodeSource": {
-      "label": "Fabrikant — barcode en productvariant",
-      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      "label": "Etiketfoto gebruiker 8.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/8.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/7.jpg",
+        "source-labels/20261002/8.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -192,7 +248,8 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Toepassing": "Set met een gouden en een zilveren schuurspons voor afwas en schoonmaak. Volgens de leverancier ook geschikt voor pannen met een antiaanbaklaag.",
       "Gebruik": "De twee kleuren kunnen worden gebruikt om sponsjes voor verschillende keukentoepassingen uit elkaar te houden.",
-      "Uitvoering": "2 in 1; verpakking met een goudkleurig en een zilverkleurig sponsje."
+      "Uitvoering": "2 in 1; verpakking met een goudkleurig en een zilverkleurig sponsje.",
+      "Aantal": "2 stuks"
     },
     "sources": [
       {
@@ -217,7 +274,24 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.7527910685805423
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290002346104",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 10.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/10.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/9.jpg",
+        "source-labels/20261002/10.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 7,
@@ -261,10 +335,10 @@ window.KPI_PRODUCTS = [
         "url": "https://isei.ua/ua/gubka-sano-dlia-legkogo-i-dolgovremennogo-ispolzovaniia"
       }
     },
-    "ean": "7290013269638",
+    "ean": "7290002349808",
     "barcodeSource": {
-      "label": "Fabrikant — barcode en productvariant",
-      "url": "https://www.sano-international.com/Sano-Catalog-2024.pdf"
+      "label": "Door gebruiker opgegeven barcode van foto 12.jpg; uitsluitend barcode overgenomen, bestaande foto behouden.",
+      "url": "source-labels/20261002/12.jpg"
     }
   },
   {
@@ -316,8 +390,19 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "ean": "7290010025718",
     "barcodeSource": {
-      "label": "Kontrakt — Shemen Amour Enriched Night Cream 50 ml",
-      "url": "https://kontrakt.ru/catalog/ukhod_dlya_litsa/kremy_dlya_litsa/shemen_amour_50__5.html"
+      "label": "Etiketfoto gebruiker 14.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/14.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/13.jpg",
+        "source-labels/20261002/14.jpg"
+      ],
+      "fields": [
+        "ean"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -362,7 +447,23 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.249554367201426
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290010025725",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 16.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/16.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/15.jpg",
+        "source-labels/20261002/16.jpg"
+      ],
+      "fields": [
+        "ean"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 73,
@@ -406,7 +507,23 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.249554367201426
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290111760372",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 56.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/56.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/55.jpg",
+        "source-labels/20261002/56.jpg"
+      ],
+      "fields": [
+        "ean"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 10,
@@ -420,7 +537,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Een zachte bodycrème voor de droge huid, met Dode Zee mineralen en aloë vera.",
-      "Gebruik": "Gebruik een ruime hoeveelheid op de droge huid en masseer zachtjes in tot de crème door de huid is opgenomen."
+      "Gebruik": "Gebruik een ruime hoeveelheid op de droge huid en masseer zachtjes in tot de crème door de huid is opgenomen.",
+      "Inhoud": "350 ml"
     },
     "sources": [
       {
@@ -449,7 +567,24 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.2318584070796461
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290111761829",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 18.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/18.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/17.jpg",
+        "source-labels/20261002/18.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 11,
@@ -458,7 +593,7 @@ window.KPI_PRODUCTS = [
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
-    "variant": "Patchouli-vanille · 350 ml",
+    "variant": "350 ml",
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Aromatische sheaboter voor het lichaam met patchouli vanille.",
@@ -489,6 +624,23 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 1.2318584070796461
+    },
+    "ean": "7290006078162",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 20.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/20.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/19.jpg",
+        "source-labels/20261002/20.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -571,7 +723,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging van de huid na het scheren.",
-      "Gebruik": "Op kin en hals aanbrengen en zacht inmasseren."
+      "Gebruik": "Op kin en hals aanbrengen en zacht inmasseren.",
+      "Inhoud": "100 ml"
     },
     "sources": [
       {
@@ -600,7 +753,24 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 0.4037487335359676
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290111761508",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 26.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/26.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/25.jpg",
+        "source-labels/20261002/26.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 15,
@@ -613,7 +783,8 @@ window.KPI_PRODUCTS = [
     "image": "images/clean/product-15.png",
     "allergens": null,
     "productInfo": {
-      "Beschrijving": "Een zachte bodylotion met olijfolie en honing voor het voeden en hydrateren van de droge huid. Helpt de huid zacht en soepel te houden."
+      "Beschrijving": "Een zachte bodylotion met olijfolie en honing voor het voeden en hydrateren van de droge huid. Helpt de huid zacht en soepel te houden.",
+      "Inhoud": "400 ml"
     },
     "sources": [
       {
@@ -641,6 +812,25 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.3196022727272727
+    },
+    "ean": "7290111760808",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 28.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/28.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/27.jpg",
+        "source-labels/20261002/28.jpg",
+        "source-labels/20261002/29.jpg",
+        "source-labels/20261002/30.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -650,12 +840,13 @@ window.KPI_PRODUCTS = [
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
-    "variant": "300 g",
+    "variant": "300 ml",
     "image": "images/clean/product-17.png",
     "allergens": null,
     "productInfo": {
       "Toepassing": "Modder voor uitwendige lichaamsverzorging.",
-      "Gebruik": "Op het lichaam aanbrengen en vervolgens met warm water afspoelen. Niet op het gezicht of op wondjes gebruiken."
+      "Gebruik": "Op het lichaam aanbrengen en vervolgens met warm water afspoelen. Niet op het gezicht of op wondjes gebruiken.",
+      "Inhoud": "300 ml"
     },
     "sources": [
       {
@@ -687,6 +878,23 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.7450110864745011
+    },
+    "ean": "7290015422901",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 32.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/32.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/31.jpg",
+        "source-labels/20261002/32.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -701,7 +909,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Zout om aan warm badwater toe te voegen.",
-      "Gebruik": "Los de gewenste hoeveelheid op in warm badwater. Spoel de huid na het baden af."
+      "Gebruik": "Los de gewenste hoeveelheid op in warm badwater. Spoel de huid na het baden af.",
+      "Gewicht": "300 g"
     },
     "sources": [
       {
@@ -733,6 +942,23 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.6492204899777283
+    },
+    "ean": "7290015422918",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 34.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/34.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/33.jpg",
+        "source-labels/20261002/34.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -747,7 +973,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Zeep voor het reinigen van gezicht en lichaam.",
-      "Gebruik": "Op de vochtige huid laten schuimen en met water afspoelen."
+      "Gebruik": "Op de vochtige huid laten schuimen en met water afspoelen.",
+      "Gewicht": "115 g"
     },
     "sources": [
       {
@@ -759,7 +986,7 @@ window.KPI_PRODUCTS = [
     "composition": {
       "heading": "Ingrediënten volgens leverancier",
       "text": "Sodium Palmate & Sodium Palm Kernelate, Water, Dead Sea Minerals (Maris Sal), Glycerin, Olive Oil, Perfume, Titanium Dioxide, Limonene, Dye PAE Green Green 6 Dye (CI 61565), Sodium Chloride, Tetrasodium EDTA, Tetrasodium Etidronate",
-      "note": "Ingrediënten en spelling zoals vermeld door Israelwinkel; de samenstelling kan per verpakkingsversie verschillen.",
+      "note": "Ingrediënten en spelling zoals vermeld door Israelwinkel; de samenstelling kan per verpakkingsversie verschillen. De etiketfoto vermeldt ook avocado-olie en aloë vera; bovenstaande leverancierslijst is niet bevestigd voor deze verpakking. Een volledige foto van de ingrediëntenlijst is nog nodig.",
       "source": {
         "label": "Israelwinkel — ingrediënten",
         "url": "https://www.israelwinkel.nl/producten/hb-zeep"
@@ -777,7 +1004,24 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.2124670763827918
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290014043992",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 36.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/36.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/35.jpg",
+        "source-labels/20261002/36.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 20,
@@ -790,7 +1034,8 @@ window.KPI_PRODUCTS = [
     "image": "images/clean/product-20-v57.png",
     "allergens": null,
     "productInfo": {
-      "Toepassing": "Rijke lichaamscrème voor een zachte, verzorgde huid."
+      "Toepassing": "Rijke lichaamscrème voor een zachte, verzorgde huid.",
+      "Inhoud": "350 ml"
     },
     "sources": [
       {
@@ -823,7 +1068,24 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 1.2318584070796461
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "ean": "7290017824802",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 38.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/38.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/37.jpg",
+        "source-labels/20261002/38.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
+    }
   },
   {
     "id": 21,
@@ -837,7 +1099,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Dagelijkse verzorging van handen en nagels.",
-      "Gebruik": "Over handen en nagelriemen verdelen en zacht inmasseren."
+      "Gebruik": "Over handen en nagelriemen verdelen en zacht inmasseren.",
+      "Inhoud": "100 ml"
     },
     "sources": [
       {
@@ -877,8 +1140,20 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "ean": "7290014043541",
     "barcodeSource": {
-      "label": "Rozetka — HB hand- en nagelcrème lavendel 100 ml",
-      "url": "https://rozetka.com.ua/health_beauty_7290014043541/p17663664/"
+      "label": "Etiketfoto gebruiker 40.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/40.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/39.jpg",
+        "source-labels/20261002/40.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -893,7 +1168,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorgende crème voor droge handen en nagels.",
-      "Gebruik": "Aanbrengen op schone handen en inmasseren."
+      "Gebruik": "Aanbrengen op schone handen en inmasseren.",
+      "Inhoud": "100 ml"
     },
     "sources": [
       {
@@ -932,8 +1208,20 @@ window.KPI_PRODUCTS = [
     },
     "ean": "7290015247207",
     "barcodeSource": {
-      "label": "Kaufland / Oramor — HB avocado handcrème 100 ml",
-      "url": "https://www.kaufland.de/product/532538491/"
+      "label": "Etiketfoto gebruiker 42.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/42.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/41.jpg",
+        "source-labels/20261002/42.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -995,7 +1283,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verzorging voor droge en ruwe voeten.",
-      "Gebruik": "Op schone voeten inmasseren."
+      "Gebruik": "Op schone voeten inmasseren.",
+      "Inhoud": "100 ml"
     },
     "sources": [
       {
@@ -1028,6 +1317,23 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.35609756097560974
+    },
+    "ean": "7290015247276",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 46.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/46.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/45.jpg",
+        "source-labels/20261002/46.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -1042,7 +1348,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Verkoelende en hydraterende huidgel met aloë vera, vitamine E en Dode Zee zout.",
-      "Gebruik": "Een kleine hoeveelheid op de huid aanbrengen en zacht inkloppen."
+      "Gebruik": "Een kleine hoeveelheid op de huid aanbrengen en zacht inkloppen.",
+      "Inhoud": "100 ml"
     },
     "sources": [
       {
@@ -1078,8 +1385,20 @@ window.KPI_PRODUCTS = [
     },
     "ean": "7290014043848",
     "barcodeSource": {
-      "label": "Ground Jerusalem — HB aloë vera gel 100 ml",
-      "url": "https://groundjerusalem.com/product/skin-care/hand-cream/aloe-vera-gel-enriched-with-vitamin-e-100ml-3-4-fl-oz-made-in-israel/"
+      "label": "Etiketfoto gebruiker 44.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/44.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/43.jpg",
+        "source-labels/20261002/44.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -1094,7 +1413,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Reinigende douchegel met lavendelgeur.",
-      "Gebruik": "Op een natte huid laten schuimen en afspoelen."
+      "Gebruik": "Op een natte huid laten schuimen en afspoelen.",
+      "Inhoud": "780 ml"
     },
     "sources": [
       {
@@ -1133,8 +1453,20 @@ window.KPI_PRODUCTS = [
     },
     "ean": "7290014043725",
     "barcodeSource": {
-      "label": "HB Danmark — douchegel lavendel 780 ml",
-      "url": "https://hbdeadsea.dk/vare/fugtrig-shower-gel-med-lavendel/"
+      "label": "Etiketfoto gebruiker 50.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/50.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/49.jpg",
+        "source-labels/20261002/50.jpg"
+      ],
+      "fields": [
+        "ean",
+        "variant"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -1226,6 +1558,22 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.45272525027808674
+    },
+    "ean": "7290006078094",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 54.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/54.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/53.jpg",
+        "source-labels/20261002/54.jpg"
+      ],
+      "fields": [
+        "ean"
+      ],
+      "compositionComplete": false
     }
   },
   {
@@ -1282,7 +1630,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Douchegel voor de dagelijkse reiniging van de huid.",
-      "Gebruik": "Op natte huid laten schuimen en afspoelen."
+      "Gebruik": "Op natte huid laten schuimen en afspoelen.",
+      "Inhoud": "770 ml"
     },
     "sources": [
       {
@@ -1290,7 +1639,7 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour?sku=74769"
       }
     ],
-    "identificationNote": "",
+    "identificationNote": "Op de aangeleverde etiketten van zowel de douchegel met olijfolie en honing als de shampoo voor mannen staat barcode 7290006079121. De juiste productkoppeling moet nog worden bevestigd.",
     "composition": {
       "heading": "Ingrediënten volgens leverancier",
       "text": "Aqua, Amonium Lauryl Sulfate, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Phenoxyethanol, Benzoic Acid, Dehydroacetic Acid, Glycerin, Olea Europaea (Olive) Fruit oil, Citric Acid, Maris Sal (Dead Sea Salt), Aloe Barbadensis Leaf Juice, Tocopheryl Acetate (Vitamin E), Hippophae Rhamnoldes Oil, Persea Grattissmima (Avocado) Oil, Polysorbate 20, Mel Extract, Polyquaternium 7, Punica Granatum (Pomegranate) Seed Extract, Styrene/Acrylates Copolymer, Rosmarinus Officinalis(Rosemary) Leaf Oil, Limonene Linalool, Argania Spinosa Kernel Oil, Lavendula Angustifolia (Lavender) Flowe Extract, Hamamelis Virginiana (Witch Hazel) Extract, Panthenol (Vitamin B5).",
@@ -1311,7 +1660,25 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.34553440702781846
-    }
+    },
+    "ean": "7290006079121",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 58.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/58.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/57.jpg",
+        "source-labels/20261002/58.jpg"
+      ],
+      "fields": [
+        "variant"
+      ],
+      "compositionComplete": false,
+      "barcodeStatus": "conflict"
+    },
+    "identificationLabel": "Barcode te controleren"
   },
   {
     "id": 31,
@@ -1325,7 +1692,8 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "productInfo": {
       "Toepassing": "Shampoo voor alle haartypen; volgens de leverancier ook te gebruiken op het lichaam.",
-      "Gebruik": "Op nat haar of lichaam laten schuimen en goed uitspoelen."
+      "Gebruik": "Op nat haar of lichaam laten schuimen en goed uitspoelen.",
+      "Inhoud": "770 ml"
     },
     "sources": [
       {
@@ -1337,7 +1705,7 @@ window.KPI_PRODUCTS = [
         "url": "https://www.israelwinkel.nl/producten/shemen-amour-set-shampoo-en-aftershave"
       }
     ],
-    "identificationNote": "",
+    "identificationNote": "Op de aangeleverde etiketten van zowel de douchegel met olijfolie en honing als de shampoo voor mannen staat barcode 7290006079121. De juiste productkoppeling moet nog worden bevestigd.",
     "composition": {
       "heading": "Ingrediënten volgens leverancier",
       "text": "Aqua, Sodium Coceth Sulfate, Cocamidopropyl Betaine, Lauramide Dipa, Polyquaternium 7, Fragrance(Supplement), Steramidopropyl Dimethylamine Lactate, Punica Granatum(Pomegranate) Seed Oil, Lavendula Angustifolia (Lavender) oil, Olea Europaea (Olive) Fruit oil, Persea Grattissmima (Avocado) Oil, Cocos Nucifera (Coconut) Oil, Aloe Barbadensis Leaf Extract, Citric Acid, Maris Sal(Dead Sea Salt), Tocopheryl Acetate (Vitamin E), Methylchlorolsothlazolinone, Methylsothlazolinone",
@@ -1358,7 +1726,25 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.3612087139845397
-    }
+    },
+    "ean": "7290006079121",
+    "barcodeSource": {
+      "label": "Etiketfoto gebruiker 60.jpg — 2 oktober 2026",
+      "url": "source-labels/20261002/60.jpg"
+    },
+    "labelVerification": {
+      "date": "2026-10-02",
+      "photos": [
+        "source-labels/20261002/59.jpg",
+        "source-labels/20261002/60.jpg"
+      ],
+      "fields": [
+        "variant"
+      ],
+      "compositionComplete": false,
+      "barcodeStatus": "conflict"
+    },
+    "identificationLabel": "Barcode te controleren"
   },
   {
     "id": 32,
