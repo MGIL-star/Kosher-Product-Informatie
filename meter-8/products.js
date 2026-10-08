@@ -7,7 +7,7 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": "8718868364074",
     "ingredients": "100% honing",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbijn Heinz",
     "image": "images/honing-bloemen-origineel-20261008.png",
     "imageIllustration": false,
@@ -17,9 +17,10 @@ window.KPI_PRODUCTS = [
       "Herkomst": "EU",
       "Let op": "Onze bloemenhoning is puur en natuurlijk. Daardoor kan de kleur (licht) afwijken van wat je ziet op de afbeelding. Dat kan komen door het weer en door kristallisatie. Is de honing gekristalliseerd? Verwarm de dichte pot in een pan warm water (tot 40 graden) en laat 15 tot 20 minuten staan."
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; allergenenverklaring niet nader bevestigd. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode 8718868364074 gelezen van 17b70265-8b2e-4fca-9370-25936c697f29.jpg; controlecijfer geldig.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode 8718868364074 gelezen van 17b70265-8b2e-4fca-9370-25936c697f29.jpg; controlecijfer geldig.",
     "imageEdited": true,
-    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden."
+    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
+    "allergensConfirmedAbsent": true
   },
   {
     "id": 44,
@@ -29,7 +30,7 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": null,
     "ingredients": "100% honing",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbijn Heinz",
     "image": "images/honing-linde-origineel-20261008.png",
     "imageIllustration": false,
@@ -38,9 +39,10 @@ window.KPI_PRODUCTS = [
       "Bijzonderheden": "Imkerhoning",
       "Herkomst": "EU"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; allergenenverklaring niet nader bevestigd. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
     "imageEdited": true,
-    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden."
+    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
+    "allergensConfirmedAbsent": true
   },
   {
     "id": 45,
@@ -50,7 +52,7 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": null,
     "ingredients": "100% honing",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbijn Heinz",
     "image": "images/honing-lavendel-origineel-20261008.png",
     "imageIllustration": false,
@@ -59,9 +61,10 @@ window.KPI_PRODUCTS = [
       "Bijzonderheden": "Imkerhoning",
       "Herkomst": "EU"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; allergenenverklaring niet nader bevestigd. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
     "imageEdited": true,
-    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden."
+    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
+    "allergensConfirmedAbsent": true
   },
   {
     "id": 46,
@@ -71,7 +74,7 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": null,
     "ingredients": "100% honing",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbijn Heinz",
     "image": "images/honing-tijm-origineel-20261008.png",
     "imageIllustration": false,
@@ -80,9 +83,10 @@ window.KPI_PRODUCTS = [
       "Bijzonderheden": "Imkerhoning",
       "Herkomst": "EU"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; allergenenverklaring niet nader bevestigd. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
     "imageEdited": true,
-    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden."
+    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
+    "allergensConfirmedAbsent": true
   },
   {
     "id": 47,
@@ -92,7 +96,7 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": null,
     "ingredients": "100% honing",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbijn Heinz",
     "image": "images/honing-acacia-origineel-20261008.png",
     "imageIllustration": false,
@@ -101,9 +105,10 @@ window.KPI_PRODUCTS = [
       "Bijzonderheden": "Imkerhoning",
       "Herkomst": "EU"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; allergenenverklaring niet nader bevestigd. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
     "imageEdited": true,
-    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden."
+    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
+    "allergensConfirmedAbsent": true
   },
   {
     "id": 48,
@@ -113,7 +118,7 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": null,
     "ingredients": "100% honing",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbijn Heinz",
     "image": "images/honing-kastanje-origineel-20261008.png",
     "imageIllustration": false,
@@ -122,9 +127,10 @@ window.KPI_PRODUCTS = [
       "Bijzonderheden": "Imkerhoning",
       "Herkomst": "EU"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; allergenenverklaring niet nader bevestigd. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
     "imageEdited": true,
-    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden."
+    "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
+    "allergensConfirmedAbsent": true
   },
   {
     "id": 62,
