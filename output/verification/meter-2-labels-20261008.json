@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-08",
+  "verified": [
+    {
+      "id": 26,
+      "name": "Classic Sauvignon Blanc",
+      "photos": [
+        "source-labels/20261008/1.jpg",
+        "source-labels/20261008/2.jpg",
+        "source-labels/20261008/3.jpg"
+      ],
+      "mevushal": "Nee",
+      "hebrew": "יין לא מבושל"
+    },
+    {
+      "id": 30,
+      "name": "Moscato",
+      "photos": [
+        "source-labels/20261008/4.jpg",
+        "source-labels/20261008/5.jpg"
+      ],
+      "mevushal": "Ja",
+      "hebrew": "יין מבושל"
+    },
+    {
+      "id": 8,
+      "name": "Gold Edition Chardonnay",
+      "photos": [
+        "source-labels/20261008/6.jpg",
+        "source-labels/20261008/7.jpg"
+      ],
+      "mevushal": "Nee",
+      "hebrew": "יין לא מבושל"
+    },
+    {
+      "id": 24,
+      "name": "Droge rode wijn",
+      "photos": [
+        "source-labels/20261008/8.jpg",
+        "source-labels/20261008/9.jpg"
+      ],
+      "mevushal": null,
+      "hebrew": null
+    },
+    {
+      "id": 21,
+      "name": "Cabernet Sauvignon",
+      "photos": [
+        "source-labels/20261008/10.jpg",
+        "source-labels/20261008/11.jpg"
+      ],
+      "mevushal": "Ja",
+      "hebrew": "יין מבושל"
+    },
+    {
+      "id": 20,
+      "name": "Reserve Cabernet Sauvignon",
+      "photos": [
+        "source-labels/20261008/12.jpg",
+        "source-labels/20261008/13.jpg"
+      ],
+      "mevushal": "Nee",
+      "hebrew": "יין לא מבושל"
+    },
+    {
+      "id": 19,
+      "name": "Reserve Merlot",
+      "photos": [
+        "source-labels/20261008/14.jpg",
+        "source-labels/20261008/15.jpg"
+      ],
+      "mevushal": "Nee",
+      "hebrew": "יין לא מבושל"
+    },
+    {
+      "id": 27,
+      "name": "Kiddushwijn Kinor",
+      "photos": [
+        "source-labels/20261008/16.jpg",
+        "source-labels/20261008/17.jpg"
+      ],
+      "mevushal": "Ja",
+      "hebrew": "יין מבושל"
+    }
+  ],
+  "pending": [
+    {
+      "id": 10,
+      "name": "Ben Ami Chardonnay Galil",
+      "reason": "Geen bijbehorende foto in de aangeleverde serie; mevushalstatus blijft Niet bekend."
+    }
+  ]
+}

@@ -180,12 +180,12 @@ window.KPI_PRODUCTS = [
     "name": "Classic Sauvignon Blanc",
     "brand": "Barkan",
     "category": "Witte wijn",
-    "variant": "750 ml · 11%",
+    "variant": "750 ml · 11,5%",
     "ingredients": "Sauvignon Blanc-druiven en zwaveldioxide (sulfieten).",
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
     "ean": "7290000023823",
     "image": "images/barkan-classic-sauvignon-blanc.jpg",
     "isWine": true,
@@ -195,12 +195,12 @@ window.KPI_PRODUCTS = [
       "Druiven": "100% Sauvignon Blanc",
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
-      "Alcohol": "11%",
+      "Alcohol": "11,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Fris wit fruit, appel en citrus, met een lange afdronk.",
-      "Mevushal": "Niet bekend"
+      "Mevushal": "Nee"
     },
-    "reviewNotes": "Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd.",
+    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Eerdere registratie (historisch): Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd.",
     "sourcePhotos": [
       6
     ],
@@ -228,11 +228,15 @@ window.KPI_PRODUCTS = [
       {
         "label": "IsraelWein — online variantinformatie, geen bevestiging actuele fles",
         "url": "https://israelwein.de/products/classic-sauvignon-blanc"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/3.jpg"
       }
     ],
     "series": "Classic",
-    "year": null,
-    "alcohol": "11%",
+    "year": 2025,
+    "alcohol": "11,5%",
     "volume": "750 ml",
     "imageSource": {
       "file": "barkan-classic-sauvignon-blanc.jpg",
@@ -242,13 +246,26 @@ window.KPI_PRODUCTS = [
     },
     "shelfBarcode": "7290000023823",
     "allergenNote": "Bevat sulfieten.",
-    "mevushalStatus": "Niet bekend",
+    "mevushalStatus": "niet mevushal",
     "imageFrame": {
       "x": 0.399,
       "y": 0.05,
       "width": 0.20099999999999996,
       "height": 0.8999999999999999,
       "aspectRatio": 0.2233333333333333
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/1.jpg",
+        "source-labels/20261008/2.jpg",
+        "source-labels/20261008/3.jpg"
+      ],
+      "mevushalText": "יין לא מבושל",
+      "fields": [
+        "mevushalStatus",
+        "kosher"
+      ]
     }
   },
   {
@@ -510,19 +527,37 @@ window.KPI_PRODUCTS = [
       "Inhoud": "750 ml",
       "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
       "Serveertemperatuur": "9 tot 12 °C",
-      "Mevushal": "Niet bekend"
+      "Mevushal": "Ja"
     },
     "sourcePhotos": [
       "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
     ],
-    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
     "imageFrame": {
       "x": 0.11,
       "y": 0.096,
       "width": 0.325,
       "height": 0.886,
       "aspectRatio": 0.25955204515278274
-    }
+    },
+    "mevushalStatus": "mevushal",
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/4.jpg",
+        "source-labels/20261008/5.jpg"
+      ],
+      "mevushalText": "יין מבושל",
+      "fields": [
+        "mevushalStatus"
+      ]
+    },
+    "sources": [
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/5.jpg"
+      }
+    ]
   },
   {
     "id": 8,
@@ -548,9 +583,9 @@ window.KPI_PRODUCTS = [
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Zes maanden gerijpt in eikenhouten vaten.",
       "Serveertemperatuur": "8 tot 12 °C",
-      "Mevushal": "Niet bekend"
+      "Mevushal": "Nee"
     },
-    "reviewNotes": "Flesgegevens opnieuw bevestigd door gebruiker op 17 september 2026: 2025, 750 ml, 12,5%, droog, Israël, sulfieten, barcode 7290019220725. Bestaande ingrediënten uit digitaal flesetiket behouden. Omcirkeld K-P niet bevestigd op deze fles en verwijderd. Mevushalstatus blijft onbekend; nieuwe foto ontbreekt.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Eerdere registratie (historisch): Flesgegevens opnieuw bevestigd door gebruiker op 17 september 2026: 2025, 750 ml, 12,5%, droog, Israël, sulfieten, barcode 7290019220725. Bestaande ingrediënten uit digitaal flesetiket behouden. Omcirkeld K-P niet bevestigd op deze fles en verwijderd. Mevushalstatus blijft onbekend; nieuwe foto ontbreekt.",
     "sourcePhotos": [
       15,
       16
@@ -563,6 +598,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Digitaal producentenetiket via QR op fysieke fles",
         "url": "https://qr.synclabel.com/w/?229ed01af9823db1f9136d4fb3361d0d0d551405908ebe0950982f62f4d335e340f719d3975621047086a35ebec8570847afc827c58f722c8e0e285e77373eb2"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/7.jpg"
       }
     ],
     "series": "Gold Edition",
@@ -575,13 +614,24 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-gold-edition-chardonnay",
       "alt": "Barkan Gold edition Chardonnay - product image"
     },
-    "mevushalStatus": "Niet bekend",
+    "mevushalStatus": "niet mevushal",
     "imageFrame": {
       "x": 0.38617,
       "y": 0.036802,
       "width": 0.21170199999999995,
       "height": 0.942893,
       "aspectRatio": 0.2678330614202522
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/6.jpg",
+        "source-labels/20261008/7.jpg"
+      ],
+      "mevushalText": "יין לא מבושל",
+      "fields": [
+        "mevushalStatus"
+      ]
     }
   },
   {
@@ -1225,12 +1275,12 @@ window.KPI_PRODUCTS = [
     "name": "Droge rode wijn",
     "brand": "Segal",
     "category": "Rode wijn",
-    "variant": "750 ml · 11,5%",
+    "variant": "750 ml · 13%",
     "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Etiket vermeldt heter mechira, Opperrabbinaat van Israël.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
     "ean": "7290000521008",
     "image": "images/segal-droge-rode-wijn.jpg",
     "isWine": true,
@@ -1239,12 +1289,12 @@ window.KPI_PRODUCTS = [
       "Wijnstijl": "Droog",
       "Lijn / serie": "Segal",
       "Herkomst": "Israël",
-      "Alcohol": "11,5%",
+      "Alcohol": "13%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Frisse, fruitige rode wijn.",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt.",
+    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: Badatz Edah HaChareidis Jeruzalem leesbaar; eerdere hechshervermelding vervangen voor deze fles. Eerdere registratie (historisch): IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt.",
     "sourcePhotos": [
       45,
       46
@@ -1253,11 +1303,15 @@ window.KPI_PRODUCTS = [
       {
         "label": "IPC / Israëlwinkel",
         "url": "https://www.israelwinkel.nl/producten/segal-droge-rode-wijn"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/9.jpg"
       }
     ],
     "series": "Segal",
-    "year": 2022,
-    "alcohol": "11,5%",
+    "year": 2025,
+    "alcohol": "13%",
     "volume": "750 ml",
     "imageSource": {
       "file": "segal-droge-rode-wijn.jpg",
@@ -1272,6 +1326,17 @@ window.KPI_PRODUCTS = [
       "width": 0.23782599999999993,
       "height": 0.899788,
       "aspectRatio": 0.2643133715941976
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/8.jpg",
+        "source-labels/20261008/9.jpg"
+      ],
+      "mevushalText": null,
+      "fields": [
+        "kosher"
+      ]
     }
   },
   {
@@ -1412,9 +1477,9 @@ window.KPI_PRODUCTS = [
       "Alcohol": "11,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Jonge, zachte rode wijn met bessen, kersen en bloemige aroma’s.",
-      "Mevushal": "Niet bekend"
+      "Mevushal": "Ja"
     },
-    "reviewNotes": "Mevushal niet leesbaar op foto; daarom niet ingevuld.",
+    "reviewNotes": "Jaargang bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Mevushal niet leesbaar op foto; daarom niet ingevuld.",
     "sourcePhotos": [
       39,
       40
@@ -1423,10 +1488,14 @@ window.KPI_PRODUCTS = [
       {
         "label": "IPC / Israëlwinkel",
         "url": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/11.jpg"
       }
     ],
     "series": "Zmora",
-    "year": 2023,
+    "year": 2024,
     "alcohol": "11,5%",
     "volume": "750 ml",
     "imageSource": {
@@ -1435,13 +1504,24 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/zmora-cabernet-sauvignon",
       "alt": "Zmora Cabernet Sauvignon - product image"
     },
-    "mevushalStatus": "mevushalstatus nog te controleren",
+    "mevushalStatus": "mevushal",
     "imageFrame": {
       "x": 0.064483,
       "y": 0.009752,
       "width": 0.78608,
       "height": 0.967198,
       "aspectRatio": 0.23464730271490736
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/10.jpg",
+        "source-labels/20261008/11.jpg"
+      ],
+      "mevushalText": "יין מבושל",
+      "fields": [
+        "mevushalStatus"
+      ]
     }
   },
   {
@@ -1467,9 +1547,9 @@ window.KPI_PRODUCTS = [
       "Alcohol": "13%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Donker fruit en milde kruidigheid. Twaalf maanden gerijpt in Franse eikenhouten vaten.",
-      "Mevushal": "Niet bekend"
+      "Mevushal": "Nee"
     },
-    "reviewNotes": "Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Eerdere registratie (historisch): Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
     "sourcePhotos": [
       37,
       38
@@ -1478,6 +1558,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "IPC / Israëlwinkel",
         "url": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/13.jpg"
       }
     ],
     "series": "Reserve",
@@ -1490,13 +1574,24 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-reserve-cabernet-sauvignon",
       "alt": "Barkan Reserve Cabernet Sauvignon  - product image"
     },
-    "mevushalStatus": "Niet bekend",
+    "mevushalStatus": "niet mevushal",
     "imageFrame": {
       "x": 0.4,
       "y": 0.05,
       "width": 0.19899999999999995,
       "height": 0.8999999999999999,
       "aspectRatio": 0.22111111111111106
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/12.jpg",
+        "source-labels/20261008/13.jpg"
+      ],
+      "mevushalText": "יין לא מבושל",
+      "fields": [
+        "mevushalStatus"
+      ]
     }
   },
   {
@@ -1504,12 +1599,12 @@ window.KPI_PRODUCTS = [
     "name": "Reserve Merlot",
     "brand": "Barkan",
     "category": "Rode wijn",
-    "variant": "750 ml · 13%",
+    "variant": "750 ml · 13,5%",
     "ingredients": "Bevat sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
     "ean": "7290000024264",
     "image": "images/barkan-reserve-merlot.jpg",
     "isWine": true,
@@ -1519,12 +1614,12 @@ window.KPI_PRODUCTS = [
       "Druiven": "Merlot",
       "Lijn / serie": "Reserve",
       "Herkomst": "Israël, Galilea",
-      "Alcohol": "13%",
+      "Alcohol": "13,5%",
       "Inhoud": "750 ml",
       "Smaakomschrijving": "Rode bessen, kersen en milde kruidigheid, met een zachte smaak.",
-      "Mevushal": "Niet bekend"
+      "Mevushal": "Nee"
     },
-    "reviewNotes": "Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
+    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Eerdere registratie (historisch): Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
     "sourcePhotos": [
       35,
       36
@@ -1537,11 +1632,15 @@ window.KPI_PRODUCTS = [
       {
         "label": "IsraelWein — Reserve Merlot — aanvullende allergenencontrole",
         "url": "https://israelwein.de/en/products/reserve-merlot"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/15.jpg"
       }
     ],
     "series": "Reserve",
-    "year": 2022,
-    "alcohol": "13%",
+    "year": 2023,
+    "alcohol": "13,5%",
     "volume": "750 ml",
     "imageSource": {
       "file": "barkan-reserve-merlot.jpg",
@@ -1549,13 +1648,25 @@ window.KPI_PRODUCTS = [
       "page": "https://www.israelwinkel.nl/producten/barkan-reserve-merlot",
       "alt": "Barkan Reserve Merlot - product image"
     },
-    "mevushalStatus": "Niet bekend",
+    "mevushalStatus": "niet mevushal",
     "imageFrame": {
       "x": 0.4,
       "y": 0.05,
       "width": 0.19899999999999995,
       "height": 0.8999999999999999,
       "aspectRatio": 0.22111111111111106
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/14.jpg",
+        "source-labels/20261008/15.jpg"
+      ],
+      "mevushalText": "יין לא מבושל",
+      "fields": [
+        "mevushalStatus",
+        "kosher"
+      ]
     }
   },
   {
@@ -1623,7 +1734,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Kosher. Hechsher niet bekend.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
     "ean": "9310489001773",
     "image": "images/7th-day-sacramental-kinor.jpg",
     "isWine": true,
@@ -1641,7 +1752,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Schroefdop",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Op uitdrukkelijk verzoek gebruiker is Wijnbox de bron voor Kinor: 12%, zoete rode Carignan uit Judea, mevushal, kosher voor Pesach, schroefdop, licht gekoeld serveren en geschikt voor Kiddush/Havdalah. Wijnbox noemt geen specifieke hechsher of ingrediëntenlijst; bestaande ingrediënten/allergenenbron behouden. Barcode 9310489001773 en 750 ml uit eerdere registratie behouden. Eerdere bron met 11% wordt niet meer gevolgd voor deze vermelding. Geen fysieke bevestiging van actuele jaargang; bronkeuze door gebruiker, niet als flescontrole geregistreerd.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Ook omcirkeld K-P zichtbaar; barcode 9310489001773 komt overeen. Eerdere registratie (historisch): Op uitdrukkelijk verzoek gebruiker is Wijnbox de bron voor Kinor: 12%, zoete rode Carignan uit Judea, mevushal, kosher voor Pesach, schroefdop, licht gekoeld serveren en geschikt voor Kiddush/Havdalah. Wijnbox noemt geen specifieke hechsher of ingrediëntenlijst; bestaande ingrediënten/allergenenbron behouden. Barcode 9310489001773 en 750 ml uit eerdere registratie behouden. Eerdere bron met 11% wordt niet meer gevolgd voor deze vermelding. Geen fysieke bevestiging van actuele jaargang; bronkeuze door gebruiker, niet als flescontrole geregistreerd.",
     "sourcePhotos": [
       49
     ],
@@ -1665,6 +1776,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Wijnbox — door gebruiker aangewezen bron voor Kinor",
         "url": "https://www.wijnbox.nl/products/barkan-kinor-sacramental-red-kiddush"
+      },
+      {
+        "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
+        "url": "source-labels/20261008/17.jpg"
       }
     ],
     "series": "7th Day Sacramental / Kinor",
@@ -1687,6 +1802,18 @@ window.KPI_PRODUCTS = [
       "width": 0.19099999999999995,
       "height": 0.795,
       "aspectRatio": 0.24025157232704394
+    },
+    "labelVerification": {
+      "date": "2026-10-08",
+      "photos": [
+        "source-labels/20261008/16.jpg",
+        "source-labels/20261008/17.jpg"
+      ],
+      "mevushalText": "יין מבושל",
+      "fields": [
+        "mevushalStatus",
+        "kosher"
+      ]
     }
   },
   {
