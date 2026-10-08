@@ -1372,12 +1372,13 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% sumak.",
     "allergens": null,
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-sumak.png",
-    "imageIllustration": true,
+    "image": "images/albadya-sumak-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "155 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Fysieke etiketfoto ontbreekt in beschikbare bestanden. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen afbeelding van de verpakking."
+    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "imageEdited": true
   },
   {
     "id": 24,
@@ -1389,12 +1390,13 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% zoete paprika.",
     "allergens": null,
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-paprika.png",
-    "imageIllustration": true,
+    "image": "images/albadya-paprika-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Fysieke etiketfoto ontbreekt in beschikbare bestanden. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen afbeelding van de verpakking."
+    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "imageEdited": true
   },
   {
     "id": 25,
@@ -1408,13 +1410,14 @@ window.KPI_PRODUCTS = [
       "MOSTERD"
     ],
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-shoarma.png",
-    "imageIllustration": true,
+    "image": "images/albadya-shoarma-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "185 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto be17f924-548f-4d4a-9224-caeee8fcdf43.jpg, door gebruiker aangeduid als shawarma. Mosterd staat in de ingrediënten. Gewicht 185 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
-    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten."
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto be17f924-548f-4d4a-9224-caeee8fcdf43.jpg, door gebruiker aangeduid als shawarma. Mosterd staat in de ingrediënten. Gewicht 185 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "imageEdited": true
   },
   {
     "id": 26,
@@ -1426,12 +1429,13 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% ui.",
     "allergens": null,
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-ui.png",
-    "imageIllustration": true,
+    "image": "images/albadya-ui-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "125 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Fysieke etiketfoto ontbreekt in beschikbare bestanden. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen afbeelding van de verpakking."
+    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "imageEdited": true
   },
   {
     "id": 27,
@@ -1443,13 +1447,14 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
     "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-ras.png",
-    "imageIllustration": true,
+    "image": "images/albadya-ras-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "165 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto 41885e2d-dae5-4aba-8aa6-2005d6c32092.jpg, aangeleverd door gebruiker. Gewicht 165 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
-    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten."
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto 41885e2d-dae5-4aba-8aa6-2005d6c32092.jpg, aangeleverd door gebruiker. Gewicht 165 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "imageEdited": true
   },
   {
     "id": 28,
@@ -1461,12 +1466,13 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% grove paprika.",
     "allergens": null,
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-pulbiber.png",
-    "imageIllustration": true,
+    "image": "images/albadya-pulbiber-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Fysieke etiketfoto ontbreekt in beschikbare bestanden. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen afbeelding van de verpakking."
+    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "imageEdited": true
   },
   {
     "id": 29,
@@ -1480,13 +1486,14 @@ window.KPI_PRODUCTS = [
       "MOSTERD"
     ],
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-curry.png",
-    "imageIllustration": true,
+    "image": "images/albadya-curry-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "145 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto dfb7f6ce-bc7a-4c9c-afd6-9b1677012e11.jpg, aangeleverd door gebruiker. Fysieke receptuur heeft voorrang boven afwijkende officiële online receptuur. Mosterd staat in de ingrediënten. Gewicht 145 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
-    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten."
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto dfb7f6ce-bc7a-4c9c-afd6-9b1677012e11.jpg, aangeleverd door gebruiker. Fysieke receptuur heeft voorrang boven afwijkende officiële online receptuur. Mosterd staat in de ingrediënten. Gewicht 145 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "imageEdited": true
   },
   {
     "id": 30,
@@ -1498,12 +1505,13 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% chili.",
     "allergens": null,
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-chili.png",
-    "imageIllustration": true,
+    "image": "images/albadya-chili-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Fysieke etiketfoto ontbreekt in beschikbare bestanden. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen afbeelding van de verpakking."
+    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "imageEdited": true
   },
   {
     "id": 31,
@@ -1515,12 +1523,13 @@ window.KPI_PRODUCTS = [
     "ingredients": "100% koriander.",
     "allergens": null,
     "kosher": "Rabbinaat Amsterdam",
-    "image": "images/albadya-koriander.png",
-    "imageIllustration": true,
+    "image": "images/albadya-koriander-photo-20261008.png",
+    "imageIllustration": false,
     "productInfo": {
       "Inhoud": "115 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Fysieke etiketfoto ontbreekt in beschikbare bestanden. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen afbeelding van de verpakking."
+    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "imageEdited": true
   },
   {
     "id": 32,
