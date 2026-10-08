@@ -9,13 +9,13 @@ window.KPI_PRODUCTS = [
     "ingredients": null,
     "allergens": null,
     "kosher": "Rabbijn Heinz",
-    "image": "images/honing-bloemen.png",
+    "image": "images/honing-bloemen-ambachtelijk-20261008.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie. Afbeelding op 2026-10-08 vervangen door een gegenereerde illustratie van een ambachtelijk honingpotje met de juiste productnaam. Geen foto van de werkelijke verpakking."
   },
   {
     "id": 44,
@@ -27,13 +27,13 @@ window.KPI_PRODUCTS = [
     "ingredients": null,
     "allergens": null,
     "kosher": "Rabbijn Heinz",
-    "image": "images/honing-linde.png",
+    "image": "images/honing-linde-ambachtelijk-20261008.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie. Afbeelding op 2026-10-08 vervangen door een gegenereerde illustratie van een ambachtelijk honingpotje met de juiste productnaam. Geen foto van de werkelijke verpakking."
   },
   {
     "id": 45,
@@ -45,13 +45,13 @@ window.KPI_PRODUCTS = [
     "ingredients": null,
     "allergens": null,
     "kosher": "Rabbijn Heinz",
-    "image": "images/honing-lavendel.png",
+    "image": "images/honing-lavendel-ambachtelijk-20261008.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie. Afbeelding op 2026-10-08 vervangen door een gegenereerde illustratie van een ambachtelijk honingpotje met de juiste productnaam. Geen foto van de werkelijke verpakking."
   },
   {
     "id": 46,
@@ -63,13 +63,13 @@ window.KPI_PRODUCTS = [
     "ingredients": null,
     "allergens": null,
     "kosher": "Rabbijn Heinz",
-    "image": "images/honing-tijm.png",
+    "image": "images/honing-tijm-ambachtelijk-20261008.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie. Afbeelding op 2026-10-08 vervangen door een gegenereerde illustratie van een ambachtelijk honingpotje met de juiste productnaam. Geen foto van de werkelijke verpakking."
   },
   {
     "id": 47,
@@ -81,13 +81,13 @@ window.KPI_PRODUCTS = [
     "ingredients": null,
     "allergens": null,
     "kosher": "Rabbijn Heinz",
-    "image": "images/honing-acacia.png",
+    "image": "images/honing-acacia-ambachtelijk-20261008.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie. Afbeelding op 2026-10-08 vervangen door een gegenereerde illustratie van een ambachtelijk honingpotje met de juiste productnaam. Geen foto van de werkelijke verpakking."
   },
   {
     "id": 48,
@@ -99,13 +99,13 @@ window.KPI_PRODUCTS = [
     "ingredients": null,
     "allergens": null,
     "kosher": "Rabbijn Heinz",
-    "image": "images/honing-kastanje.png",
+    "image": "images/honing-kastanje-ambachtelijk-20261008.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
-    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie."
+    "reviewNotes": "Soort en inhoud uit gebruikersopgave. Merk, barcode, ingrediënten, allergenen en hechsher ontbreken; niet afgeleid uit illustratie. Afbeelding op 2026-10-08 vervangen door een gegenereerde illustratie van een ambachtelijk honingpotje met de juiste productnaam. Geen foto van de werkelijke verpakking."
   },
   {
     "id": 62,
