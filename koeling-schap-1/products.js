@@ -246,7 +246,7 @@ window.KPI_PRODUCTS = [
     "englishName": "Beef Salami",
     "brand": "Prime Cut",
     "category": "Hele worst",
-    "variant": "Hele worst",
+    "variant": "400 g",
     "ean": "",
     "ingredients": "Rundvlees (73%), water, aardappelzetmeel, zout, specerijen (SULFIETEN, SELDERIJ), suikers (sucrose, dextrose), emulgatoren (E450, E451, E452), smaakversterker (E621), antioxidanten (E301, E316), stabilisatoren (E407, E415), zuurteregelaars (E262, E327, E331, E500), conserveermiddel (E250), gehydrolyseerd plantaardig eiwit (maïs), kaliumchloride (E508), rookaroma, gemodificeerd zetmeel.",
     "allergens": [
