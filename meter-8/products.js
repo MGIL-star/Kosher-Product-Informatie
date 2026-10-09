@@ -15,12 +15,20 @@ window.KPI_PRODUCTS = [
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
       "Herkomst": "EU",
-      "Let op": "Onze bloemenhoning is puur en natuurlijk. Daardoor kan de kleur (licht) afwijken van wat je ziet op de afbeelding. Dat kan komen door het weer en door kristallisatie. Is de honing gekristalliseerd? Verwarm de dichte pot in een pan warm water (tot 40 graden) en laat 15 tot 20 minuten staan."
+      "Let op": "Onze bloemenhoning is puur en natuurlijk. Daardoor kan de kleur (licht) afwijken van wat je ziet op de afbeelding. Dat kan komen door het weer en door kristallisatie. Is de honing gekristalliseerd? Verwarm de dichte pot in een pan warm water (tot 40 graden) en laat 15 tot 20 minuten staan.",
+      "Geproduceerd voor": "Tov Ta’am Granot"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode 8718868364074 gelezen van 17b70265-8b2e-4fca-9370-25936c697f29.jpg; controlecijfer geldig.",
     "imageEdited": true,
     "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/2.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/1.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/2.jpg"
+    ]
   },
   {
     "id": 44,
@@ -28,7 +36,7 @@ window.KPI_PRODUCTS = [
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
-    "ean": null,
+    "ean": "8718868364135",
     "ingredients": "100% honing",
     "allergens": [],
     "kosher": "Rabbijn Heinz",
@@ -37,12 +45,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU"
+      "Herkomst": "EU",
+      "Geproduceerd voor": "Tov Ta’am Granot"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
     "imageEdited": true,
     "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/4.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/3.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/4.jpg"
+    ]
   },
   {
     "id": 45,
@@ -50,7 +66,7 @@ window.KPI_PRODUCTS = [
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
-    "ean": null,
+    "ean": "8718868364319",
     "ingredients": "100% honing",
     "allergens": [],
     "kosher": "Rabbijn Heinz",
@@ -59,12 +75,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU"
+      "Herkomst": "EU",
+      "Geproduceerd voor": "Tov Ta’am Granot"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
     "imageEdited": true,
     "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/6.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/5.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/6.jpg"
+    ]
   },
   {
     "id": 46,
@@ -72,7 +96,7 @@ window.KPI_PRODUCTS = [
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
-    "ean": null,
+    "ean": "8718868364197",
     "ingredients": "100% honing",
     "allergens": [],
     "kosher": "Rabbijn Heinz",
@@ -81,12 +105,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU"
+      "Herkomst": "EU",
+      "Geproduceerd voor": "Tov Ta’am Granot"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
     "imageEdited": true,
     "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/7.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8.jpg"
+    ]
   },
   {
     "id": 47,
@@ -94,7 +126,7 @@ window.KPI_PRODUCTS = [
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
-    "ean": null,
+    "ean": "8718868364012",
     "ingredients": "100% honing",
     "allergens": [],
     "kosher": "Rabbijn Heinz",
@@ -103,12 +135,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU"
+      "Herkomst": "EU",
+      "Geproduceerd voor": "Tov Ta’am Granot"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
     "imageEdited": true,
     "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/10.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/9.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/10.jpg"
+    ]
   },
   {
     "id": 48,
@@ -116,7 +156,7 @@ window.KPI_PRODUCTS = [
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
-    "ean": null,
+    "ean": "8718868364258",
     "ingredients": "100% honing",
     "allergens": [],
     "kosher": "Rabbijn Heinz",
@@ -125,12 +165,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU"
+      "Herkomst": "EU",
+      "Geproduceerd voor": "Tov Ta’am Granot"
     },
-    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Barcode van bloemenhoning niet overgenomen op deze variant.",
+    "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
     "imageEdited": true,
     "warning": "Honing is niet geschikt voor kinderen jonger dan 12 maanden.",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/12.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/11.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/12.jpg"
+    ]
   },
   {
     "id": 62,
@@ -140,7 +188,7 @@ window.KPI_PRODUCTS = [
     "variant": "190 g",
     "ean": "7290112870292",
     "ingredients": "Peterselie (42%), witte ui (17%), rode paprika (17%), water, plantaardige olie, gedroogde knoflook (3%), zuurteregelaars (azijnzuur, citroenconcentraat), zout, suiker, conserveermiddel (kaliumsorbaat).",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/bnei-chimichurri-correct.png",
     "imageBounds": [
@@ -159,7 +207,15 @@ window.KPI_PRODUCTS = [
         "label": "Fabrikantcatalogus",
         "url": "https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf"
       }
-    ]
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/13.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/14.jpg"
+    ],
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/14.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "allergenSource": "Nieuwe etiketfoto: geen declaratieplichtige allergenen in de ingrediënten vermeld; kan cashewnoten bevatten."
   },
   {
     "id": 63,
@@ -169,7 +225,7 @@ window.KPI_PRODUCTS = [
     "variant": "190 g",
     "ean": "7290112870247",
     "ingredients": "Verse basilicum (44%), plantaardige oliën, water, zout, stabilisatoren (cellulosevezels, xanthaangom), gedroogde knoflookvlokken, zuurteregelaars (melkzuur, ascorbinezuur), gemalen zwarte peper, conserveermiddel (sorbaat).",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/bnei-basilicumpesto.png",
     "imageBounds": [
@@ -182,7 +238,15 @@ window.KPI_PRODUCTS = [
       "Inhoud": "190 g"
     },
     "reviewNotes": "Volledige ingrediënten en allergenenwaarschuwing rechtstreeks van fysieke etiketfoto codex-clipboard-1b7d8460-6b40-497b-861d-447aa41cc4c6.png. Cashewnoten uitsluitend als kan bevatten vermeld, niet als ingrediënt. Sorbaat zonder nadere specificatie overgenomen. Eerdere gedeeltelijke transcriptie hiermee vervangen. Barcode bevestigd op IMG_4272; productfoto door gebruiker aangeleverd. Geen voedingswaardeblok op verzoek gebruiker.",
-    "mayContain": "Cashewnoten."
+    "mayContain": "Cashewnoten.",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/15.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/16.jpg"
+    ],
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/16.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "allergenSource": "Nieuwe etiketfoto: geen declaratieplichtige allergenen in de ingrediënten vermeld; kan cashewnoten bevatten."
   },
   {
     "id": 61,
@@ -192,7 +256,7 @@ window.KPI_PRODUCTS = [
     "variant": "190 g",
     "ean": "7290012313653",
     "ingredients": "Knoflook (74%), koolzaadolie, citroenconcentraat, suiker, zout.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/yavne-knoflook.png",
     "imageBounds": [
@@ -206,7 +270,15 @@ window.KPI_PRODUCTS = [
     },
     "mayContain": "Cashewnoten.",
     "imageEdited": true,
-    "reviewNotes": "Rechtstreeks afgelezen van fysieke fotos IMG_4273, IMG_4274 en IMG_4275 teruggevonden in eerder gesprek. Bewerkte voorfoto; ingrediënten en sporenwaarschuwing uitsluitend vanaf fysiek etiket."
+    "reviewNotes": "Rechtstreeks afgelezen van fysieke fotos IMG_4273, IMG_4274 en IMG_4275 teruggevonden in eerder gesprek. Bewerkte voorfoto; ingrediënten en sporenwaarschuwing uitsluitend vanaf fysiek etiket.",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/17.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/18.jpg"
+    ],
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/18.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "allergenSource": "Nieuwe etiketfoto: geen declaratieplichtige allergenen in de ingrediënten vermeld; kan cashewnoten bevatten."
   },
   {
     "id": 64,
@@ -216,7 +288,7 @@ window.KPI_PRODUCTS = [
     "variant": "190 g",
     "ean": "7290112870254",
     "ingredients": "Gerehydrateerde gedroogde tomaten (45%) (gedroogde tomaten, water, zout), plantaardige oliën (koolzaadolie en olijfolie), suiker, tomatenpoeder, specerijen (oregano, gemalen zwarte peper en rozemarijn), zuurteregelaar (citroenzuur), conserveermiddel (E202).",
-    "allergens": null,
+    "allergens": [],
     "mayContain": "Cashewnoten.",
     "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/bnei-tomatenpasta.png",
@@ -230,7 +302,15 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "190 g"
     },
-    "reviewNotes": "Naam, inhoud, ingrediënten en cashewsporen rechtstreeks van IMG_4276–4278; barcode 7290112870254. Eerdere samenvatting pikante paprika was onjuist. Geen voedingswaardeblok op verzoek gebruiker. Voorfoto met ingebouwde imagegen rechtgezet en vrijstaand gemaakt; gegevens uitsluitend fysiek etiket."
+    "reviewNotes": "Naam, inhoud, ingrediënten en cashewsporen rechtstreeks van IMG_4276–4278; barcode 7290112870254. Eerdere samenvatting pikante paprika was onjuist. Geen voedingswaardeblok op verzoek gebruiker. Voorfoto met ingebouwde imagegen rechtgezet en vrijstaand gemaakt; gegevens uitsluitend fysiek etiket.",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/19.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/20.jpg"
+    ],
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/20.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "allergenSource": "Nieuwe etiketfoto: geen declaratieplichtige allergenen in de ingrediënten vermeld; kan cashewnoten bevatten."
   },
   {
     "id": 49,
@@ -244,7 +324,7 @@ window.KPI_PRODUCTS = [
       "SESAM"
     ],
     "allergenNote": "Kan cashewnoten, pijnboompitten, pistache, amandelen, hazelnoten, pinda, soja, mosterd en selderij bevatten.",
-    "kosher": null,
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · Toezicht geldt niet voor Pesach",
     "image": "images/neptune-zaatar-sharp.png",
     "imageBounds": [
       0.1866,
@@ -267,8 +347,16 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/68210%20SPREAD-olijf-01KC6ZPXDX33WQC4CDAK32A4E5.jpg",
-    "reviewNotes": "Ingrediënten, allergenen, barcode en inhoud uit gebruikersopgave. IPC bevestigt variant en receptuur; echte foto toont Neptune Za’atar with olive oil 180 g. Geen hechsher uit online verpakking afgeleid. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
-    "imageEdited": true
+    "reviewNotes": "Ingrediënten, allergenen, barcode en inhoud uit gebruikersopgave. IPC bevestigt variant en receptuur; echte foto toont Neptune Za’atar with olive oil 180 g. Geen hechsher uit online verpakking afgeleid. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron. Hechser bevestigd op fysieke etiketfoto 22.jpg, 9 oktober 2026; toezicht sluit Pesach uit.",
+    "imageEdited": true,
+    "kosherForPassover": false,
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/22.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherNeedsCheck": false,
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/21.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/22.jpg"
+    ]
   },
   {
     "id": 58,
