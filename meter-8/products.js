@@ -2153,8 +2153,8 @@ window.KPI_PRODUCTS = [
     "category": "Dadelproducten",
     "variant": "1 kg",
     "ean": "7290002490562",
-    "ingredients": null,
-    "allergens": null,
+    "ingredients": "100% Medjoul dadels.",
+    "allergens": [],
     "kosher": "OU (opgave gebruiker; niet op verpakking bevestigd)",
     "image": "images/dates-king-straight.png",
     "productInfo": {
@@ -2162,7 +2162,7 @@ window.KPI_PRODUCTS = [
       "Bewaren": "Koel en droog",
       "Bijzonderheden": "Bevat pitten"
     },
-    "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt.",
+    "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Samenstelling en afwezigheid van allergenen door gebruiker bevestigd op 9 oktober 2026. Bestaande waarschuwing Bevat pitten behouden.",
     "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4245830371.jpg",
     "imageBounds": [
       0.13307240704500978,
@@ -2181,7 +2181,11 @@ window.KPI_PRODUCTS = [
       }
     ],
     "warning": "Bevat pitten.",
-    "kosherSource": "Gebruikersopgave van 9 oktober 2026; geen OU-keurmerk op aangeleverde verpakking bevestigd."
+    "kosherSource": "Gebruikersopgave van 9 oktober 2026; geen OU-keurmerk op aangeleverde verpakking bevestigd.",
+    "allergensConfirmedAbsent": true,
+    "ingredientsSource": "Samenstelling bevestigd door gebruiker op 9 oktober 2026 bij de openstaande punten voor beide Medjoul-dadelproducten.",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor King Solomon Medjoul Dadels 1 kg en La Palma Medjoul Dadels 500 g."
   },
   {
     "id": 33,
@@ -2190,8 +2194,8 @@ window.KPI_PRODUCTS = [
     "category": "Dadelproducten",
     "variant": "500 g",
     "ean": "8719326034072",
-    "ingredients": null,
-    "allergens": null,
+    "ingredients": "100% Medjoul dadels.",
+    "allergens": [],
     "kosher": "OU (opgave gebruiker; niet op verpakking bevestigd)",
     "image": "images/dates-palma-straight.png",
     "productInfo": {
@@ -2200,7 +2204,7 @@ window.KPI_PRODUCTS = [
       "Bewaren": "Koel en droog",
       "Kwaliteitsklasse": "Klasse I"
     },
-    "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Naam en 500 g bevestigd op voorkantfoto.",
+    "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Naam en 500 g bevestigd op voorkantfoto. Samenstelling en afwezigheid van allergenen door gebruiker bevestigd op 9 oktober 2026. Bestaande waarschuwing Bevat pitten behouden.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/68042%20La%20Palma%20500gr%20Blue-01KNVS5Y4ZTGC76BCCHBJWCDVT.jpg",
     "imageBounds": [
       0.11089494163424124,
@@ -2222,7 +2226,11 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersopgave van 9 oktober 2026; geen OU-keurmerk op aangeleverde verpakking bevestigd.",
     "labelSources": [
       "source-labels/20261009-dadels-37.jpg"
-    ]
+    ],
+    "allergensConfirmedAbsent": true,
+    "ingredientsSource": "Samenstelling bevestigd door gebruiker op 9 oktober 2026 bij de openstaande punten voor beide Medjoul-dadelproducten.",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor King Solomon Medjoul Dadels 1 kg en La Palma Medjoul Dadels 500 g."
   },
   {
     "id": 34,
