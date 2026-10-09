@@ -688,14 +688,14 @@ window.KPI_PRODUCTS = [
     "ingredientsChecked": "2026-10-09",
     "ingredientsVerification": "label",
     "ingredientsSource": "Etiketfoto gebruiker: 53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg",
-    "ingredientsPartial": true,
-    "ingredientsNote": "Op het originele etiket staat tussen aardappelzetmeel en methylcellulose het onduidelijke woord “Inactivation”. De betekenis daarvan is niet bevestigd; dit is niet als extra ingrediënt vertaald.",
+    "ingredientsPartial": false,
     "labelSources": [
       "0c085834-63a2-453e-a4eb-ba572f47d35d.jpg",
       "53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg"
     ],
     "barcodeNeedsCheck": false,
-    "barcodeSource": "Etiketfoto gebruiker: 53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg"
+    "barcodeSource": "Etiketfoto gebruiker: 53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg",
+    "reviewNotes": "Op 9 oktober 2026 heeft de gebruiker verzocht het onduidelijke woord Inactivation niet op te nemen en dit controlepunt af te sluiten. De overige leesbare ingrediënten blijven behouden; de betekenis van het weggelaten woord is niet vastgesteld."
   },
   {
     "id": 17,
