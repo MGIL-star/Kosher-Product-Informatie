@@ -1,4 +1,4 @@
-﻿window.KPI_PRODUCTS = [
+window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Al Arz",
@@ -449,7 +449,7 @@
       "MOSTERD"
     ],
     "category": "Sauzen & Dressings",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve) · Toezicht geldt niet voor Pesach",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/13-online.jpg",
     "productInfo": {
       "Inhoud": "295 g"

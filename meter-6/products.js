@@ -972,7 +972,7 @@ window.KPI_PRODUCTS = [
     "kosherForPassover": true,
     "ingredientsSource": "Etiketfoto gebruiker: 7efc197d-16d3-4c1a-b15f-5e49394a13ba.jpg",
     "ingredientsPartial": false,
-    "kosherNote": "OU: Parve en KLP. Bij de twee keurmerken rechts op de achterzijde staat dat hun toezicht alleen buiten Pesach geldt."
+    "kosherNote": "OU: Parve en KLP."
   },
   {
     "id": 49,

@@ -543,7 +543,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "",
     "warning": "Na opening gekoeld bewaren.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · Niet voor Pesach volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
     "image": "images/found-17.jpg",
     "imageSource": "https://sohomarketpanama.com/cdn/shop/files/0348394_liebers-liebers-chocolate-syrup_900x.jpg?v=1771992786",

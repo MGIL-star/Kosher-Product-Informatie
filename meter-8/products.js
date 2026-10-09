@@ -324,7 +324,7 @@ window.KPI_PRODUCTS = [
       "SESAM"
     ],
     "allergenNote": "Kan cashewnoten, pijnboompitten, pistache, amandelen, hazelnoten, pinda, soja, mosterd en selderij bevatten.",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · Toezicht geldt niet voor Pesach",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "image": "images/neptune-zaatar-sharp.png",
     "imageBounds": [
       0.1866,
