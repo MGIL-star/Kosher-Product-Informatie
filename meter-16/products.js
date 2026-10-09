@@ -1009,7 +1009,8 @@ window.KPI_PRODUCTS = [
     "id": 32,
     "brand": "Ice Li",
     "name": "Fruitijsjes om in te vriezen",
-    "variant": "8 stuks",
+    "variant": "8 × 100 ml",
+    "volumeSource": "Gebruiker bevestigt 8 × 100 ml op 9 oktober 2026.",
     "category": "IJsjes",
     "ean": "",
     "sourcePhotos": [
