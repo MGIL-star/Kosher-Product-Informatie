@@ -60,7 +60,7 @@ window.KPI_PRODUCTS = [
     "id": 3,
     "brand": "Liel",
     "name": "Briochebroodjes met Chocoladestukjes",
-    "variant": "280 g · 8 stuks · Mezonot",
+    "variant": "280 g · 8 stuks",
     "category": "Brood & brioche",
     "ean": "3662444003329",
     "ingredients": "Tarwebloem, chocoladestukjes (9,5%) (suiker, cacaomassa, cacaoboter, natuurlijk vanillearoma, emulgator: lecithinen uit koolzaad en zonnebloem), vers heel ei, suiker, invertsuikerstroop, plantaardige olie en vet (palm en koolzaad), natuurlijke aroma’s (bevatten alcohol), gist, tarwegluten, zout, emulgatoren (E471, E472e), aroma, verdikkingsmiddel (cellulosegom), gedeactiveerde gist, kleurstof (bètacaroteen).",
@@ -80,13 +80,16 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
-    ]
+    ],
+    "productInfo": {
+      "Kenmerken": "Mezonot"
+    }
   },
   {
     "id": 5,
     "brand": "Liel",
     "name": "Croissants",
-    "variant": "320 g · 8 stuks · Mezonot",
+    "variant": "320 g · 8 stuks",
     "category": "Brood & brioche",
     "ean": "3662444003305",
     "ingredients": "Tarwebloem, plantaardige olie en vet (palm en koolzaad), suiker, water, gist, dextrose, tarwegluten, zout, natuurlijk aroma (bevat alcohol), vers heel ei, emulgatoren (E471, E472e), gedeactiveerde gist, conserveermiddel (calciumpropionaat), verdikkingsmiddel (cellulosegom), kleurstof (bètacaroteen).",
@@ -106,13 +109,16 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
-    ]
+    ],
+    "productInfo": {
+      "Kenmerken": "Mezonot"
+    }
   },
   {
     "id": 4,
     "brand": "Liel",
     "name": "Briochebroodjes Naturel",
-    "variant": "280 g · 8 stuks · Mezonot",
+    "variant": "280 g · 8 stuks",
     "category": "Brood & brioche",
     "ean": "3662444003336",
     "ingredients": "Tarwebloem, vers heel ei, plantaardige olie en vet (palm en koolzaad), suiker, invertsuikerstroop, zout, tarwegluten, gist, natuurlijk aroma (bevat alcohol), emulgatoren (E471, E472e), aroma, conserveermiddel (calciumpropionaat), gedeactiveerde gist, verdikkingsmiddel (cellulosegom), kleurstof (bètacaroteen).",
@@ -132,13 +138,16 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
-    ]
+    ],
+    "productInfo": {
+      "Kenmerken": "Mezonot"
+    }
   },
   {
     "id": 7,
     "brand": "Liel",
     "name": "Gesneden Brioche met Chocoladestukjes",
-    "variant": "500 g · Mezonot",
+    "variant": "500 g",
     "category": "Brood & brioche",
     "ean": "3662444003299",
     "ingredients": "Tarwebloem, chocoladestukjes (10%) (suiker, cacaomassa, cacaoboter, natuurlijk vanillearoma, emulgator: lecithinen uit koolzaad en zonnebloem), suiker, vers heel ei, plantaardige olie en vet (palm en koolzaad), invertsuikerstroop, water, gist, zout, natuurlijk aroma (bevat alcohol), tarwegluten, aroma, gedeactiveerde gist, emulgator (E471), kleurstof (bètacaroteen).",
@@ -158,13 +167,16 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
-    ]
+    ],
+    "productInfo": {
+      "Kenmerken": "Mezonot"
+    }
   },
   {
     "id": 6,
     "brand": "Liel",
     "name": "Gesneden Brioche Naturel",
-    "variant": "500 g · Mezonot",
+    "variant": "500 g",
     "category": "Brood & brioche",
     "ean": "3662444003282",
     "ingredients": "Tarwebloem, suiker, vers heel ei, plantaardige olie en vet (palm en koolzaad), water, invertsuikerstroop, zout, gist, natuurlijk aroma (bevat alcohol), aroma, tarwegluten, conserveermiddel (calciumpropionaat), gedeactiveerde gist, emulgator (mono- en diglyceriden van vetzuren), kleurstof (bètacaroteen).",
@@ -184,13 +196,16 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
-    ]
+    ],
+    "productInfo": {
+      "Kenmerken": "Mezonot"
+    }
   },
   {
     "id": 8,
     "brand": "Liel",
     "name": "Wit Sandwichbrood",
-    "variant": "550 g · 14 sneetjes · Mezonot",
+    "variant": "550 g · 14 sneetjes",
     "category": "Brood & brioche",
     "ean": "3662444005576",
     "ingredients": "Tarwebloem (63%), water, suiker, koolzaadolie, gist, natuurlijk aroma (bevat alcohol), zout, emulgator: E471, tuinbonenmeel, conserveermiddel: E282, tarwegluten, meelverbeteraar: E300.",
@@ -212,7 +227,10 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
-    ]
+    ],
+    "productInfo": {
+      "Kenmerken": "Mezonot"
+    }
   },
   {
     "id": 9,
