@@ -145,7 +145,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Zoetstoffen (sorbitol, maltitol, maltitolstroop, isomalt, acesulfaam-K, sucralose), gombasis, bevochtigingsmiddel (glycerol), zuurteregelaars (appelzuur, citroenzuur), verdikkingsmiddelen (arabische gom, cellulosegom), aroma’s, kleurstof (anthocyanen uit zwartewortelextract).",
     "allergens": [],
     "mayContain": "",
-    "kosher": "Manchester Beth Din (Parve) OU (Parve)",
+    "kosher": "Manchester Beth Din OU (Parve)",
     "category": "Kauwgom",
     "image": "images/06-web.jpg",
     "imageEdited": false,
@@ -170,7 +170,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Zoetstoffen (isomalt, sorbitol, xylitol, maltitolstroop, mannitol, acesulfaam-K, sucralose), gombasis, zuurteregelaar (calciumcarbonaat), bevochtigingsmiddel (glycerol), aroma’s, verdikkingsmiddel (arabische gom), emulgator (lecithine), glansmiddel (carnaubawas), kleurstof (bietenrood).",
     "allergens": [],
     "mayContain": "",
-    "kosher": "Manchester Beth Din (Parve) OU (Parve)",
+    "kosher": "Manchester Beth Din OU (Parve)",
     "category": "Kauwgom",
     "image": "images/07-web.jpg",
     "imageEdited": false,
@@ -193,7 +193,6 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientsSource": "source-labels/20261009-must-39.jpg",
     "ingredientsChecked": "2026-10-09",
-    "allergenNote": "Geen declaratieplichtige allergenen of sporenwaarschuwing vermeld op het aangeleverde ingrediëntenetiket. Lecithine is zonder herkomst vermeld.",
     "reviewNotes": "Ingrediënten, gewicht en waarschuwingen gecontroleerd op fysieke etiketten, 9 oktober 2026. Eerdere onbevestigde soja-sporenvermelding verwijderd. Bestaande barcode en Hechser behouden; niet opnieuw bevestigd op deze foto’s."
   },
   {
@@ -221,7 +220,6 @@ window.KPI_PRODUCTS = [
       "ad4120d2-455e-4c84-9b93-0f52621bbaab"
     ],
     "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar.",
-    "allergenNote": "Geen declaratieplichtige allergenen of sporenwaarschuwing vermeld op het aangeleverde ingrediëntenetiket. Lecithine is zonder herkomst vermeld.",
     "labelSources": [
       "source-labels/20261009-must-40.jpg",
       "source-labels/20261009-must-41.jpg"

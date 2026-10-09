@@ -481,7 +481,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859179",
     "ingredients": "Aardbeien (50%), suiker, pectine (geleermiddel), citroenzuur (zuurteregelaar).",
     "allergens": [],
-    "kosher": "OU (Parve) (KLP)",
+    "kosher": "OU (KLP) (Parve)",
     "image": "images/aunt-strawberry-340g.png",
     "imageBounds": [
       0.23684,
@@ -552,7 +552,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859513",
     "ingredients": "Vijg (50%), suiker, citroenzuur (zuurteregelaar), pectine (geleermiddel), geconcentreerd vlierbessen- en zwartewortelsap.",
     "allergens": [],
-    "kosher": "OU (Parve) (KLP)",
+    "kosher": "OU (KLP) (Parve)",
     "image": "images/aunt-fig-340g.png",
     "imageBounds": [
       0.23684,
@@ -588,7 +588,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290018859193",
     "ingredients": "Appels (50%), suiker, kaneel (0,1%), citroenzuur (zuurteregelaar), pectine (geleermiddel), ascorbinezuur (antioxidant).",
     "allergens": [],
-    "kosher": "OU (Parve) (KLP)",
+    "kosher": "OU (KLP) (Parve)",
     "image": "images/aunt-apple-340g.png",
     "imageBounds": [
       0.23445,
@@ -871,7 +871,7 @@ window.KPI_PRODUCTS = [
       "WALNOTEN",
       "AMANDELEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP) (Parve)",
     "kosherOriginalLabel": "Badatz Edah HaChareidis Jeruzalem (Parve) · KLP (zonder kitniyot)",
     "image": "images/beit-yitzhak-harosset-sharp.png",
     "imageBounds": [
@@ -906,7 +906,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIET"
     ],
-    "kosher": "Rabbinaat Zichron Yaakov (Parve) (KLP)",
+    "kosher": "Rabbinaat Zichron Yaakov (KLP) (Parve)",
     "image": "images/aunt-charoset-sharp.png",
     "imageBounds": [
       0.22249,
@@ -1079,7 +1079,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290015324564",
     "ingredients": "100% pure koriander.",
     "allergens": [],
-    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "kosherOriginalLabel": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67155.jpg",
     "productInfo": {
@@ -1125,7 +1125,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134833",
     "ingredients": "100% pure komijn.",
     "allergens": [],
-    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "kosherOriginalLabel": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67156.jpg",
     "productInfo": {
@@ -1303,7 +1303,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134970",
     "ingredients": "Specerijen, zout.",
     "allergens": [],
-    "kosher": "OU / Badatz Edah HaChareidis / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Edah HaChareidis / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "kosherOriginalLabel": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67167.jpg",
     "productInfo": {
@@ -1349,7 +1349,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217348",
     "ingredients": "100% pittige chilipeper.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "image": "images/67160.jpg",
     "productInfo": {
       "Inhoud": "70 g",
@@ -1394,7 +1394,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134840",
     "ingredients": "100% pure kurkuma.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "image": "images/67161.jpg",
     "productInfo": {
       "Inhoud": "100 g",
@@ -1480,7 +1480,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290011964689",
     "ingredients": "Specerijen, dextrose, zout, antiklontermiddel (E551).",
     "allergens": [],
-    "kosher": "OU / Badatz Edah HaChareidis / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Edah HaChareidis / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "kosherOriginalLabel": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67174.jpg",
     "productInfo": {
@@ -1772,7 +1772,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217157",
     "ingredients": "Specerijen, zout, plantaardige olie, antiklontermiddel (E551), paprika-extract.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "kosherOriginalLabel": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67182.jpg",
     "productInfo": {
@@ -2253,7 +2253,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290104570629",
     "ingredients": "Dadels (64%), suiker, zuurteregelaar (citroenzuur), conserveermiddel (kaliumsorbaat).",
     "allergens": [],
-    "kosher": "Rabbinaat Arava (Parve) (KLP)",
+    "kosher": "Rabbinaat Arava (KLP) (Parve)",
     "image": "images/dates-spread-large.png",
     "kosherStatus": "Pareve",
     "productInfo": {
@@ -2296,7 +2296,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290016439243",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis (KLP) (Parve)",
     "kosherOriginalLabel": "Badatz Edah HaChareidis (Parve) · KLP (zonder kitniyot)",
     "image": "images/mehadrin-dadelpasta.png",
     "imageBounds": [

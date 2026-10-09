@@ -1464,7 +1464,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "CRC Hisachdus Harabonim · OU (Parve) (KLP)",
+    "kosher": "CRC Hisachdus Harabonim · OU (KLP) (Parve)",
     "image": "images/42-online.jpg",
     "productInfo": {
       "Inhoud": "145 g"

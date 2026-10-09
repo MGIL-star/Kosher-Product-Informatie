@@ -13,7 +13,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Sesam.",
-    "kosher": "OU (Parve) · Rabbinaat Yokneam",
+    "kosher": "OU · Rabbinaat Yokneam (Parve)",
     "image": "images/product-1-web.png",
     "sourcePhotos": [
       "1.jpg",
@@ -159,7 +159,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Sesam.",
-    "kosher": "OU (Parve) · Rabbinaat Yokneam",
+    "kosher": "OU · Rabbinaat Yokneam (Parve)",
     "image": "images/product-9-web.png",
     "sourcePhotos": [
       "9.jpg",
@@ -489,7 +489,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Sesam.",
-    "kosher": "OU (Parve) · Badatz Edah Hachareidis · Rabbinaat Yokneam",
+    "kosher": "OU · Badatz Edah Hachareidis · Rabbinaat Yokneam (Parve)",
     "image": "images/product-30-web.png",
     "sourcePhotos": [
       "30.jpg",
@@ -533,7 +533,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "Amandelen, hazelnoten, pinda’s, sesam, soja, gerst en mosterd.",
-    "kosher": "OU (Parve) · Badatz Edah Hachareidis",
+    "kosher": "OU · Badatz Edah Hachareidis (Parve)",
     "image": "images/product-33-supplied.png",
     "sourcePhotos": [
       "33.jpg",
@@ -1227,7 +1227,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Pinda’s, amandelen, hazelnoten, sesam en mosterd.",
-    "kosher": "OU (Parve) · Rabbinaat Safed",
+    "kosher": "OU · Rabbinaat Safed (Parve)",
     "image": "images/product-79-supplied.png",
     "sourcePhotos": [
       "79.jpg",
@@ -2016,7 +2016,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "",
-    "kosher": "Rabbijn Pinchas Avraham Meyers (Den Haag) / Machsike Hadas Antwerpen (Parve) · Pat Yisrael",
+    "kosher": "Rabbijn Pinchas Avraham Meyers (Den Haag) / Machsike Hadas Antwerpen · Pat Yisrael (Parve)",
     "image": "images/product-105-supplied.png",
     "sourcePhotos": [
       "105.jpg",
