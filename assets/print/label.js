@@ -67,10 +67,10 @@
       if (p.identificationNote) paragraph('Let op', p.identificationNote);
     } else {
     paragraph(p.ingredientsPartial ? 'Bekende ingrediënten' : 'Ingrediënten', p.ingredients || 'Niet bevestigd.');
-    let allergens = 'Niet bevestigd.';
+    let allergens = 'Nog te controleren';
     if (Array.isArray(p.allergens) && p.allergens.length) allergens = p.allergens.join(', ');
-    else if (p.allergensConfirmedAbsent === true) allergens = 'Geen vermeld.';
-    else if (Array.isArray(p.allergens) && !p.detailsPending && !Object.hasOwn(p, 'allergensConfirmedAbsent')) allergens = 'Geen declaratieplichtige allergenen vermeld.';
+    else if (p.allergensConfirmedAbsent === true) allergens = 'Geen allergenen vermeld';
+    else if (Array.isArray(p.allergens) && !p.detailsPending && !Object.hasOwn(p, 'allergensConfirmedAbsent')) allergens = 'Geen allergenen vermeld';
     // Only allergen content belongs on the label, never editorial/source notes.
     const traces = String(p.allergenNote || '').split(/(?<=[.!?])\s+/).filter(sentence =>
       /^Kan\b.*bevatten/i.test(sentence) ||

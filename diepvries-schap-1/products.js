@@ -81,7 +81,7 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Leesbaar op het Prime Cut-etiket.",
     "kosher": "Kedassia",
     "note": "",
-    "image": "./images/05-runderburgers.png",
+    "image": "./images/05-runderburgers-recht.png",
     "ean": "5060199311610"
   },
   {

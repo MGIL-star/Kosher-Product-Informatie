@@ -64,12 +64,12 @@
 
   function openProduct(product) {
     const allergens = product.allergens === null
-      ? '<span class="allergen-free">Nog te controleren op de verpakking</span>'
+      ? '<span class="allergen-free">Nog te controleren</span>'
       : product.allergens.length
       ? product.allergens.map(item => /^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(item.trim())
-        ? '<span class="allergen-free">Geen declaratieplichtige allergenen vermeld</span>'
+        ? '<span class="allergen-free">Geen allergenen vermeld</span>'
         : `<span class="allergen">${escapeHtml(item)}</span>`).join('')
-      : '<span class="allergen-free">Geen declaratieplichtige allergenen vermeld</span>';
+      : '<span class="allergen-free">Geen allergenen vermeld</span>';
     dialogContent.innerHTML = `<div class="dialog-product">
       ${productImage(product, true)}
       <p class="image-disclaimer">${product.imageIllustration ? 'Bewerkte productillustratie met vereenvoudigd etiket.' : product.imageEdited ? 'Bewerkte productfoto; verpakking kan afwijken.' : 'Afbeelding kan afwijken van de actuele verpakking.'}</p>
