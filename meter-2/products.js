@@ -186,7 +186,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sauvignon Blanc-druiven en zwaveldioxide (sulfieten).",
+    "ingredients": "Sauvignon Blanc & zwaveldioxide (sulfieten).",
     "allergens": [
       "SULFIETEN"
     ],
@@ -770,7 +770,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Droog",
-      "Druiven": "Sauvignon Blanc, Colombard & Muscat",
+      "Druiven": "Sauvignon Blanc & Colombard & Muscat",
       "Lijn / serie": "Segal",
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
