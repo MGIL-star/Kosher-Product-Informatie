@@ -955,11 +955,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217478",
     "ingredients": "100% gedroogde kruiden: oregano, basilicum, tijm, za’atar, marjolein, rozemarijn.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67170.jpg",
     "productInfo": {
       "Inhoud": "30 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij",
+      "Bewaren": "Droog en koel bewaren.",
+      "Gebruik": "Voor taarten, omeletten, kaas, gebak en brood."
     },
     "sources": [
       {
@@ -968,13 +970,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67170-01KC70TRT1QG3W0KTRQ5CPJ5YT.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd.",
     "imageBounds": [
       0.334,
       0.05025,
       0.66575,
       0.9495
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-01.jpg",
+      "source-labels/20261009-kruiden-02.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-02.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "barcodeSource": "source-labels/20261009-kruiden-02.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-02.jpg"
   },
   {
     "id": 2,
@@ -987,11 +1001,13 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SESAM"
     ],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67171.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij",
+      "Bewaren": "Droog en koel bewaren.",
+      "Gebruik": "Voor brood, salades, hummus en kaas."
     },
     "sources": [
       {
@@ -1000,13 +1016,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67171-01KC70TRQ4YPSDP6W0N4M67AN7.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd.",
     "imageBounds": [
       0.33125,
       0.05075,
       0.66875,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-03.jpg",
+      "source-labels/20261009-kruiden-04.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-04.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "barcodeSource": "source-labels/20261009-kruiden-04.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-04.jpg"
   },
   {
     "id": 3,
@@ -1017,11 +1045,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217140",
     "ingredients": "Specerijen, zout.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67184.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Bewaren": "Droog en koel bewaren.",
+      "Gebruik": "Voor gehaktballen, couscous, vlees en rijst. Aanbevolen: 1–2 eetlepels voor 1 kg gehakt."
     },
     "sources": [
       {
@@ -1030,13 +1060,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67184-01KC70TRSJXPGT2374QGTWEEGH.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd.",
     "imageBounds": [
       0.33175,
       0.05025,
       0.668,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-05.jpg",
+      "source-labels/20261009-kruiden-06.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-06.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "barcodeSource": "source-labels/20261009-kruiden-06.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-06.jpg"
   },
   {
     "id": 4,
@@ -1047,11 +1089,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290015324564",
     "ingredients": "100% pure koriander.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67155.jpg",
     "productInfo": {
       "Inhoud": "70 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Bewaren": "Droog en koel bewaren.",
+      "Gebruik": "Voor vis, vlees, groenten, salades en tafelzuur."
     },
     "sources": [
       {
@@ -1060,13 +1104,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67155 kruiden Ground Coriander-01KC70TRQFSJB09HNKB0ET6953.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd. KLP voor wie kitniyot eet expliciet vermeld onder toezicht van het Rabbinaat Petach Tikva.",
     "imageBounds": [
       0.168689,
       0.083594,
       0.696602,
       0.944531
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-07.jpg",
+      "source-labels/20261009-kruiden-08.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-08.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "barcodeSource": "source-labels/20261009-kruiden-08.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-08.jpg",
+    "kosherForPassover": true
   },
   {
     "id": 5,
@@ -1077,11 +1134,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134833",
     "ingredients": "100% pure komijn.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67156.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Bewaren": "Droog en koel bewaren.",
+      "Gebruik": "Voor oosterse gerechten, vlees en salades."
     },
     "sources": [
       {
@@ -1090,13 +1149,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67156 Oriental cumin kruiden-01KC70TRQF58XA5EQTT9772PKC.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd. KLP voor wie kitniyot eet expliciet vermeld onder toezicht van het Rabbinaat Petach Tikva.",
     "imageBounds": [
       0.198328,
       0.072311,
       0.87386,
       0.936047
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-09.jpg",
+      "source-labels/20261009-kruiden-10.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-10.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "barcodeSource": "source-labels/20261009-kruiden-10.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-10.jpg",
+    "kosherForPassover": true
   },
   {
     "id": 21,
