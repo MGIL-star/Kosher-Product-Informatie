@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "Sesam, selderij, mosterd en gluten.",
     "category": "Sauzen",
-    "kosher": "PIG Amsterdam Rabbijn Toledano",
+    "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-amba-clean.png",
     "productInfo": {
       "Inhoud": "380 g",
