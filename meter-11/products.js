@@ -168,15 +168,16 @@ window.KPI_PRODUCTS = [
     "variant": "66 g",
     "ean": "7290119374298",
     "ingredients": "Zoetstoffen (isomalt, sorbitol, xylitol, maltitolstroop, mannitol, acesulfaam-K, sucralose), gombasis, zuurteregelaar (calciumcarbonaat), bevochtigingsmiddel (glycerol), aroma’s, verdikkingsmiddel (arabische gom), emulgator (lecithine), glansmiddel (carnaubawas), kleurstof (bietenrood).",
-    "allergens": null,
-    "mayContain": "Soja (uit voorzorg; niet bevestigd door etiket of fabrikant).",
+    "allergens": [],
+    "mayContain": "",
     "kosher": "Manchester Beth Din (Parve) OU (Parve)",
     "category": "Kauwgom",
     "image": "images/07-web.jpg",
     "imageEdited": false,
     "imageSource": "https://www.geffens.co.il/מסטיק-מאסט-פירות-מנטה",
     "productInfo": {
-      "Inhoud": "66 g"
+      "Inhoud": "66 g",
+      "Kenmerken": "Suikervrij. Zonder aspartaam en titaniumdioxide."
     },
     "sourcePhotos": [],
     "sourcePhotoIds": [
@@ -185,8 +186,15 @@ window.KPI_PRODUCTS = [
       "c137e81d-c305-4649-83e7-f37432863085"
     ],
     "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar.",
-    "ingredientsPartial": true,
-    "ingredientsNote": "De ingrediëntenlijst vermeldt lecithine zonder herkomst. Soja is uit voorzorg opgenomen bij ‘Kan bevatten’; de volledige allergenenverklaring is nog niet bevestigd."
+    "ingredientsPartial": false,
+    "labelSources": [
+      "source-labels/20261009-must-38.jpg",
+      "source-labels/20261009-must-39.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-must-39.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenNote": "Geen declaratieplichtige allergenen of sporenwaarschuwing vermeld op het aangeleverde ingrediëntenetiket. Lecithine is zonder herkomst vermeld.",
+    "reviewNotes": "Ingrediënten, gewicht en waarschuwingen gecontroleerd op fysieke etiketten, 9 oktober 2026. Eerdere onbevestigde soja-sporenvermelding verwijderd. Bestaande barcode en Hechser behouden; niet opnieuw bevestigd op deze foto’s."
   },
   {
     "id": 8,
@@ -195,7 +203,7 @@ window.KPI_PRODUCTS = [
     "variant": "28 g",
     "ean": "7290008754415",
     "ingredients": "Zoetstoffen (isomalt, sorbitol, maltitolstroop, xylitol, mannitol, acesulfaam-K, sucralose), gombasis, zuurteregelaar (calciumcarbonaat), aroma’s, verdikkingsmiddel (arabische gom), bevochtigingsmiddel (glycerol), emulgator (lecithine), glansmiddel (carnaubawas).",
-    "allergens": null,
+    "allergens": [],
     "mayContain": "",
     "kosher": "Manchester Beth Din (Parve)",
     "category": "Kauwgom",
@@ -203,7 +211,8 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "imageSource": "Eerder gedownloade websitefoto, frontaanzicht 28 g; oorspronkelijke URL nog te reconstrueren",
     "productInfo": {
-      "Inhoud": "28 g"
+      "Inhoud": "28 g",
+      "Kenmerken": "Suikervrij. Zonder aspartaam en titaniumdioxide. Glutenvrij."
     },
     "sourcePhotos": [],
     "sourcePhotoIds": [
@@ -212,7 +221,15 @@ window.KPI_PRODUCTS = [
       "ad4120d2-455e-4c84-9b93-0f52621bbaab"
     ],
     "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar.",
-    "allergenNote": "De ingrediëntenlijst vermeldt lecithine zonder herkomst. Ook online is voor deze barcode geen afzonderlijke allergenenverklaring of sporenverklaring bevestigd."
+    "allergenNote": "Geen declaratieplichtige allergenen of sporenwaarschuwing vermeld op het aangeleverde ingrediëntenetiket. Lecithine is zonder herkomst vermeld.",
+    "labelSources": [
+      "source-labels/20261009-must-40.jpg",
+      "source-labels/20261009-must-41.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-must-41.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "reviewNotes": "Ingrediënten, gewicht en waarschuwingen gecontroleerd op fysieke etiketten, 9 oktober 2026. Eerdere onbevestigde soja-sporenvermelding verwijderd. Bestaande barcode en Hechser behouden; niet opnieuw bevestigd op deze foto’s."
   },
   {
     "id": 22,

@@ -2155,14 +2155,14 @@ window.KPI_PRODUCTS = [
     "ean": "7290002490562",
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU (opgave gebruiker; niet op verpakking bevestigd)",
     "image": "images/dates-king-straight.png",
     "productInfo": {
       "Inhoud": "1 kg",
       "Bewaren": "Koel en droog",
       "Bijzonderheden": "Bevat pitten"
     },
-    "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld. Productfoto met ingebouwde imagegen rechtgezet op verzoek gebruiker; oorspronkelijke bronfoto behouden.",
+    "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt.",
     "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4245830371.jpg",
     "imageBounds": [
       0.13307240704500978,
@@ -2180,7 +2180,8 @@ window.KPI_PRODUCTS = [
         "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4245830371.jpg"
       }
     ],
-    "warning": "Bevat pitten."
+    "warning": "Bevat pitten.",
+    "kosherSource": "Gebruikersopgave van 9 oktober 2026; geen OU-keurmerk op aangeleverde verpakking bevestigd."
   },
   {
     "id": 33,
@@ -2191,14 +2192,15 @@ window.KPI_PRODUCTS = [
     "ean": "8719326034072",
     "ingredients": null,
     "allergens": null,
-    "kosher": null,
+    "kosher": "OU (opgave gebruiker; niet op verpakking bevestigd)",
     "image": "images/dates-palma-straight.png",
     "productInfo": {
       "Inhoud": "500 g",
       "Bijzonderheden": "Bevat pitten",
-      "Bewaren": "Koel en droog"
+      "Bewaren": "Koel en droog",
+      "Kwaliteitsklasse": "Klasse I"
     },
-    "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld. Productfoto met ingebouwde imagegen rechtgezet op verzoek gebruiker; oorspronkelijke bronfoto behouden.",
+    "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Naam en 500 g bevestigd op voorkantfoto.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/68042%20La%20Palma%20500gr%20Blue-01KNVS5Y4ZTGC76BCCHBJWCDVT.jpg",
     "imageBounds": [
       0.11089494163424124,
@@ -2216,7 +2218,11 @@ window.KPI_PRODUCTS = [
         "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/68042%20La%20Palma%20500gr%20Blue-01KNVS5Y4ZTGC76BCCHBJWCDVT.jpg"
       }
     ],
-    "warning": "Bevat pitten."
+    "warning": "Bevat pitten.",
+    "kosherSource": "Gebruikersopgave van 9 oktober 2026; geen OU-keurmerk op aangeleverde verpakking bevestigd.",
+    "labelSources": [
+      "source-labels/20261009-dadels-37.jpg"
+    ]
   },
   {
     "id": 34,
@@ -2225,15 +2231,18 @@ window.KPI_PRODUCTS = [
     "category": "Dadelproducten",
     "variant": "450 g",
     "ean": "7290104570629",
-    "ingredients": "Dadels (64%), suiker, citroenzuur, kaliumsorbaat.",
-    "allergens": null,
-    "kosher": null,
+    "ingredients": "Dadels (64%), suiker, zuurteregelaar (citroenzuur), conserveermiddel (kaliumsorbaat).",
+    "allergens": [],
+    "kosher": "Rabbinaat Arava (Parve) · KLP",
     "image": "images/dates-spread-large.png",
     "kosherStatus": "Pareve",
     "productInfo": {
-      "Inhoud": "450 g"
+      "Inhoud": "450 g",
+      "Bewaren": "Koel en droog bewaren. Na opening in de koelkast bewaren.",
+      "Gebruik": "Voor broodbeleg, cakes, taarten en koekjesvulling.",
+      "Kenmerken": "Zonder kleurstoffen."
     },
-    "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld.",
+    "reviewNotes": "Gecontroleerd op aangeleverde foto’s, 9 oktober 2026. Bestaande productafbeelding behouden. Volledige ingrediëntenlijst gelezen; geen declaratieplichtige allergenen daarin vermeld. Geen aanvullende sporenwaarschuwing afgeleid. Aanvullend rond keurmerk op voorkant niet voldoende scherp voor zekere identificatie.",
     "imageSource": "https://tzurfarm.com/wp-content/uploads/elementor/thumbs/ממרח-לאפייה-qssn9tb3melyotbn0f2ul7dyidtvhhyrhj6p0zokag.png",
     "imageBounds": [
       0.283,
@@ -2246,7 +2255,17 @@ window.KPI_PRODUCTS = [
         "label": "Productfoto",
         "url": "https://tzurfarm.com/wp-content/uploads/elementor/thumbs/ממרח-לאפייה-qssn9tb3melyotbn0f2ul7dyidtvhhyrhj6p0zokag.png"
       }
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-dadels-28.jpg",
+      "source-labels/20261009-dadels-29.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-dadels-29.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherSource": "source-labels/20261009-dadels-29.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 60,
@@ -2256,8 +2275,8 @@ window.KPI_PRODUCTS = [
     "variant": "450 g",
     "ean": "7290016439243",
     "ingredients": "100% Medjoul dadels.",
-    "allergens": null,
-    "kosher": null,
+    "allergens": [],
+    "kosher": "Badatz Edah HaChareidis (Parve) · KLP (zonder kitniyot)",
     "image": "images/mehadrin-dadelpasta.png",
     "imageBounds": [
       0.17,
@@ -2268,15 +2287,29 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "450 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
-      "Voedingsvoorkeur": "Vegan"
+      "Voedingsvoorkeur": "Vegan",
+      "Producent": "Tzur Farm, Ein Yahav",
+      "Distributeur": "Mehadrin Tnuport Export",
+      "Kenmerken": "Zonder toegevoegde suiker. Vegan."
     },
-    "reviewNotes": "Eerdere etikettranscriptie 2d86f628: 100% dadels, 450 g; paarse IPC-packshot passend. Geen hechsher afgeleid.",
+    "reviewNotes": "Gecontroleerd op aangeleverde foto’s, 9 oktober 2026. Bestaande productafbeelding behouden. Volledige ingrediëntenlijst gelezen; geen declaratieplichtige allergenen daarin vermeld. Geen aanvullende sporenwaarschuwing afgeleid.",
     "sources": [
       {
         "label": "Productfoto",
         "url": "https://www.israelwinkel.nl/producten/dadelspread-kosher"
       }
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-dadels-30.jpg",
+      "source-labels/20261009-dadels-31.jpg",
+      "source-labels/20261009-dadels-32.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-dadels-32.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherSource": "source-labels/20261009-dadels-31.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 35,
@@ -2295,7 +2328,7 @@ window.KPI_PRODUCTS = [
       "Kenmerken": "Geen toegevoegde suiker, geen kleurstoffen, geen conserveermiddelen",
       "Producent": "Gali Flavor, Kiryat Shmona, Israël"
     },
-    "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld.",
+    "reviewNotes": "Schapkaart uitsluitend gebruikt ter bevestiging van barcode 7290011154318. Gebruiker koppelt dit kaartje expliciet aan Silan 100% dadels zonder toegevoegde suiker. Overige bestaande gegevens behouden; geen keurmerk van de gesuikerde variant overgenomen.",
     "imageSource": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-100-צנצנת-600x600.jpg",
     "imageBounds": [
       0.25833333333333336,
@@ -2312,7 +2345,13 @@ window.KPI_PRODUCTS = [
         "label": "Productfoto",
         "url": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-100-צנצנת-600x600.jpg"
       }
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-dadels-36.jpg"
+    ],
+    "barcodeSource": "source-labels/20261009-dadels-36.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 36,
@@ -2322,14 +2361,16 @@ window.KPI_PRODUCTS = [
     "variant": "900 g",
     "ean": "7290011154134",
     "ingredients": "Dadels (60%), suiker (30%), water, zuurteregelaar: citroenzuur.",
-    "allergens": null,
-    "kosher": null,
+    "allergens": [],
+    "kosher": "Badatz Edah HaChareidis · KLP (Pesach 5786)",
     "image": "images/silan-syrup.jpg",
     "productInfo": {
       "Inhoud": "900 g",
-      "Samenstelling": "60% dadels, met toegevoegde suiker"
+      "Samenstelling": "60% dadels, met toegevoegde suiker",
+      "Bewaren": "Op kamertemperatuur bewaren op een schaduwrijke plaats.",
+      "Kenmerken": "Zonder kleurstoffen en conserveermiddelen."
     },
-    "reviewNotes": "Productgegevens uit etikettranscriptie van gebruiker. Geen fysieke dadelfoto beschikbaar voor onafhankelijke controle. Onbekende voedingswaarden, allergenen en bewaaradviezen niet aangevuld.",
+    "reviewNotes": "Gecontroleerd op aangeleverde foto’s, 9 oktober 2026. Bestaande productafbeelding behouden. Volledige ingrediëntenlijst gelezen; geen declaratieplichtige allergenen daarin vermeld. Geen aanvullende sporenwaarschuwing afgeleid. Samenstelling volgens voorkant en Hebreeuwse ingrediëntenlijst: 60% dadels en 30% suiker. De gedeeltelijk zichtbare Engelse tekst op foto 35 vermeldt afwijkend 40%; deze is niet gebruikt om de twee overeenkomende vermeldingen te vervangen. Pesach-vermelding geldt expliciet voor 5786.",
     "imageSource": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-900-1-600x600.jpg",
     "imageBounds": [
       0.25166666666666665,
@@ -2346,6 +2387,20 @@ window.KPI_PRODUCTS = [
         "label": "Productfoto",
         "url": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-900-1-600x600.jpg"
       }
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-dadels-33.jpg",
+      "source-labels/20261009-dadels-34.jpg",
+      "source-labels/20261009-dadels-35.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-dadels-34.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "barcodeSource": "source-labels/20261009-dadels-34.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "source-labels/20261009-dadels-35.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   }
 ];
