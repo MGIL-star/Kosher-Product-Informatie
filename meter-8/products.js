@@ -1001,7 +1001,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SESAM"
     ],
-    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve)",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67171.jpg",
     "productInfo": {
       "Inhoud": "100 g",
@@ -1016,7 +1016,7 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67171-01KC70TRQ4YPSDP6W0N4M67AN7.jpg",
-    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd. Rechthoekig keurmerk opnieuw gelezen: Badatz Edah HaChareidis.",
     "imageBounds": [
       0.33125,
       0.05075,
@@ -1045,7 +1045,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217140",
     "ingredients": "Specerijen, zout.",
     "allergens": [],
-    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve)",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67184.jpg",
     "productInfo": {
       "Inhoud": "100 g",
@@ -1060,7 +1060,7 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67184-01KC70TRSJXPGT2374QGTWEEGH.jpg",
-    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd.",
+    "reviewNotes": "Ingrediënten, inhoud, barcode, bewaarinstructie en leesbare keurmerken gecontroleerd op nieuwe fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding uit gebruikersbevestiging behouden. Geen niet-zichtbare sporenwaarschuwing toegevoegd. Rechthoekig keurmerk opnieuw gelezen: Badatz Edah HaChareidis.",
     "imageBounds": [
       0.33175,
       0.05025,
@@ -1179,10 +1179,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290015324557",
     "ingredients": "Specerijen, zout.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67157.jpg",
     "productInfo": {
-      "Inhoud": "80 g"
+      "Inhoud": "80 g",
+      "Gebruik": "Voor gehakt, kubbeh, cholent en oosterse gerechten.",
+      "Bewaren": "Droog en koel bewaren.",
+      "Kenmerken": "Natuurlijke ingrediënten. Glutenvrij."
     },
     "sources": [
       {
@@ -1191,13 +1194,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67157 baharat van voren-01KC70TRRJWMVF4SCGJDGEGA6M.jpg",
-    "reviewNotes": "Barcode, inhoud en ingrediënten uit eerdere etikettranscriptie 63bf62a1-adec-49db-a8c7-ebe742f90f2b; fysieke ingrediënten hebben voorrang boven de leveranciersomschrijving. OU bevestigd door gebruiker.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.11233480176211454,
       0.05553398058252427,
       0.7878120411160059,
       0.9809708737864078
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-01.jpg",
+      "source-labels/20261009-kruiden-b-02.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-02.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-02.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-02.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 6,
@@ -1208,11 +1223,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217362",
     "ingredients": "Specerijen, zout, dextrose, antiklontermiddel (E551).",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67158.png",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
+      "Gebruik": "Gebruik 20 g kruidenmix per 1 kg vlees.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1221,13 +1238,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67158%20meatball%20kruiden%20klein%20formaat-01KKBR2N6B4RXNHHNW2BEG8T3F.png",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.351064,
       0.034264,
       0.647872,
       0.968274
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-03.jpg",
+      "source-labels/20261009-kruiden-b-04.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-04.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-04.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-04.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 7,
@@ -1238,11 +1267,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134857",
     "ingredients": "100% pure zoete paprika.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67181.png",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Gebruik": "Voor salades, soepen, vlees en sauzen.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1251,13 +1282,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67181%20sweet%20paprika%20klein-01KK93NGBRQJJ61J7RJM2040MH.png",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.352128,
       0.049492,
       0.641489,
       0.956853
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-05.jpg",
+      "source-labels/20261009-kruiden-b-06.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-06.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-06.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-06.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 8,
@@ -1268,11 +1311,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134970",
     "ingredients": "Specerijen, zout.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67167.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Gebruik": "Voor soepen en Jemenitische gerechten.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1281,13 +1326,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67167-01KC70TRSBHP7GW9C8YADECAFR.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten. KLP voor wie kitniyot eet expliciet vermeld onder toezicht van het Rabbinaat Petach Tikva.",
     "imageBounds": [
       0.3295,
       0.0505,
       0.67025,
       0.95
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-07.jpg",
+      "source-labels/20261009-kruiden-b-08.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-08.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-08.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-08.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherForPassover": true
   },
   {
     "id": 9,
@@ -1298,11 +1356,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217348",
     "ingredients": "100% pittige chilipeper.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP",
     "image": "images/67160.jpg",
     "productInfo": {
       "Inhoud": "70 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Gebruik": "Voor pittige gerechten, marinades en pizza.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1311,13 +1371,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67160-01KC70TRRXZVSYAA01511WCKW6.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten. OU-P en KLP op etiket bevestigd.",
     "imageBounds": [
       0.162338,
       0.057983,
       0.806818,
       0.930252
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-09.jpg",
+      "source-labels/20261009-kruiden-b-10.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-10.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-10.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-10.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherForPassover": true
   },
   {
     "id": 10,
@@ -1328,11 +1401,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134840",
     "ingredients": "100% pure kurkuma.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP",
     "image": "images/67161.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Natuurlijk. Glutenvrij"
+      "Kenmerken": "Natuurlijk. Glutenvrij",
+      "Gebruik": "Voor rijst, vis, soepen en vlees.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1341,13 +1416,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67161-01KC70TRTGA69DX28SQMMXE1D8.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten. OU-P en KLP op etiket bevestigd.",
     "imageBounds": [
       0.33125,
       0.05025,
       0.66825,
       0.9495
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-11.jpg",
+      "source-labels/20261009-kruiden-b-12.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-12.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-12.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-12.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherForPassover": true
   },
   {
     "id": 11,
@@ -1358,11 +1446,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290011964702",
     "ingredients": "Specerijen, zout, dextrose.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67172.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
+      "Gebruik": "Gebruik 20 g kruidenmix per 1 kg vlees.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1371,13 +1461,22 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67172 shoarma kruiden-01KC70TRQHJTKK1DVNNEZFTAT2.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten. Bestaande barcode behouden; barcode op de nieuwe foto niet volledig zichtbaar.",
     "imageBounds": [
       0.007194,
       0.005078,
       0.987667,
       0.991406
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-13.jpg",
+      "source-labels/20261009-kruiden-b-14.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-14.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-14.jpg"
   },
   {
     "id": 12,
@@ -1388,11 +1487,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290011964689",
     "ingredients": "Specerijen, dextrose, zout, antiklontermiddel (E551).",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67174.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
+      "Gebruik": "Voor grill en barbecue. Strooi de kruiden vóór het grillen over het vlees.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1401,13 +1502,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67174-01KC70TRRXJ613K8W7ZWWKWQ66.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten. KLP voor wie kitniyot eet expliciet vermeld onder toezicht van het Rabbinaat Petach Tikva.",
     "imageBounds": [
       0.3325,
       0.0505,
       0.66725,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-15.jpg",
+      "source-labels/20261009-kruiden-b-16.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-16.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-16.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-16.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherForPassover": true
   },
   {
     "id": 13,
@@ -1416,12 +1530,13 @@ window.KPI_PRODUCTS = [
     "category": "Smaakmixen",
     "variant": "90 g",
     "ean": "7290014217294",
-    "ingredients": "Specerijen waaronder zwarte peper, paprikapoeder, knoflook en paprika, zout, plantaardige olie.",
+    "ingredients": "Specerijen (zwarte peper, paprikapoeder, knoflook, paprika), zout, plantaardige olie.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67186.jpg",
     "productInfo": {
-      "Inhoud": "90 g"
+      "Inhoud": "90 g",
+      "Gebruik": "Verdeel 1 eetlepel kruidenmix met olie over 1 kg vlees en wrijf in. Meng desgewenst eerst de kruiden met olie. Ook geschikt om aan saus toe te voegen."
     },
     "sources": [
       {
@@ -1430,13 +1545,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67186-01KC70TRQMQTRVRE7MN1DG0257.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gewicht 90 g uit overeenkomstige Carnival-variant bij Israëlwinkel; nog fysiek te vergelijken. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.332,
       0.051,
       0.667,
       0.95
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-20.jpg",
+      "source-labels/20261009-kruiden-b-21.jpg",
+      "source-labels/20261009-kruiden-b-22.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-22.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-22.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-22.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 14,
@@ -1445,12 +1573,13 @@ window.KPI_PRODUCTS = [
     "category": "Smaakmixen",
     "variant": "90 g",
     "ean": "7290014217270",
-    "ingredients": "Specerijen: paprika, knoflook, zwarte peper, tijm; zout, plantaardige olie.",
+    "ingredients": "Specerijen (paprika, knoflook, zwarte peper, tijm), zout, plantaardige olie.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67188.jpg",
     "productInfo": {
-      "Inhoud": "90 g"
+      "Inhoud": "90 g",
+      "Gebruik": "Voor kip en spiesen; om te bakken, braden, barbecueën of marineren. Verdeel 1 eetlepel kruidenmix met olie over 1 kg kip en wrijf in. Meng desgewenst eerst de kruiden met olie."
     },
     "sources": [
       {
@@ -1459,13 +1588,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67188-01KC70TRQP7TVT79X48Q5QP8X0.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gewicht 90 g uit overeenkomstige Carnival-variant bij Israëlwinkel; nog fysiek te vergelijken. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.33275,
       0.05025,
       0.667,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-23.jpg",
+      "source-labels/20261009-kruiden-b-24.jpg",
+      "source-labels/20261009-kruiden-b-25.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-25.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-25.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-25.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 15,
@@ -1474,12 +1616,13 @@ window.KPI_PRODUCTS = [
     "category": "Smaakmixen",
     "variant": "90 g",
     "ean": "7290014217287",
-    "ingredients": "Specerijen: paprikapoeder, ui, zwarte peper, knoflook, paprika, peterselie; zout, plantaardige olie.",
+    "ingredients": "Specerijen (paprikapoeder, ui, zwarte peper, knoflook, paprika, peterselie), zout, plantaardige olie.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67187.jpg",
     "productInfo": {
-      "Inhoud": "90 g"
+      "Inhoud": "90 g",
+      "Gebruik": "Voor ovenvis, gebakken vis of vismarinades. Verdeel 1 eetlepel kruidenmix met olie over 1 kg vis en wrijf in. Meng desgewenst eerst de kruiden met olie. Voor ovenvis wordt aanbevolen de vis in aluminiumfolie te wikkelen."
     },
     "sources": [
       {
@@ -1488,13 +1631,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67187-01KC70TRQWN5CTKPX7HHN4P393.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gewicht 90 g uit overeenkomstige Carnival-variant bij Israëlwinkel; nog fysiek te vergelijken. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.334,
       0.05025,
       0.6665,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-26.jpg",
+      "source-labels/20261009-kruiden-b-27.jpg",
+      "source-labels/20261009-kruiden-b-28.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-28.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-28.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-28.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 16,
@@ -1503,12 +1659,13 @@ window.KPI_PRODUCTS = [
     "category": "Smaakmixen",
     "variant": "90 g",
     "ean": "7290014217300",
-    "ingredients": "Specerijen: paprika, knoflook, zwarte peper, peterselie; zout, plantaardige olie.",
+    "ingredients": "Specerijen (paprika, knoflook, zwarte peper, peterselie), zout, plantaardige olie.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67185.jpg",
     "productInfo": {
-      "Inhoud": "90 g"
+      "Inhoud": "90 g",
+      "Gebruik": "Direct bereiden: voeg 2 theelepels kokend water toe aan 1 theelepel kruidenmix, meng door de dip en roer opnieuw. Vooraf bereiden: voeg 1 theelepel toe aan 250 g dip, meng goed en wacht 10 minuten voor het serveren."
     },
     "sources": [
       {
@@ -1517,13 +1674,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67185-01KC70TRSSR3EDAA32T98WH6QX.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gewicht 90 g uit overeenkomstige Carnival-variant bij Israëlwinkel; nog fysiek te vergelijken. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.331,
       0.0505,
       0.6685,
       0.9495
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-29.jpg",
+      "source-labels/20261009-kruiden-b-30.jpg",
+      "source-labels/20261009-kruiden-b-31.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-31.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-31.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-31.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 17,
@@ -1534,11 +1704,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134758",
     "ingredients": "Specerijen, suiker, zout, dextrose, gedroogde ui.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67176.jpg",
     "productInfo": {
       "Inhoud": "100 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
+      "Gebruik": "Voeg aan 500 g gesneden aardappelen 2 eetlepels olijfolie en 1 volle eetlepel kruidenmix toe.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1547,13 +1719,25 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67176-01KC70TRR3E6KK0CHEPRSARW03.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.33325,
       0.05125,
       0.66625,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-32.jpg",
+      "source-labels/20261009-kruiden-b-33.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-33.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-33.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-33.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 18,
@@ -1594,11 +1778,13 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217157",
     "ingredients": "Specerijen, zout, plantaardige olie, antiklontermiddel (E551), paprika-extract.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67182.jpg",
     "productInfo": {
       "Inhoud": "120 g",
-      "Kenmerken": "Glutenvrij"
+      "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
+      "Gebruik": "Voor aardappelen, kip, vis en antipasti.",
+      "Bewaren": "Droog en koel bewaren."
     },
     "sources": [
       {
@@ -1607,26 +1793,42 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67182-01KC70TRS4PZWDN48ZF3VE2JB2.jpg",
-    "reviewNotes": "Ingrediënten, barcode, gewicht en claims uit door gebruiker aangeleverde etikettranscriptie. Geen fysieke foto bij deze opdracht beschikbaar voor onafhankelijke controle. Eventuele sporenwaarschuwingen nog niet vastgesteld. Gebruik is een culinaire suggestie. Gebruiker bevestigt OU als hechsher voor deze kruiden.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten. KLP voor wie kitniyot eet expliciet vermeld onder toezicht van het Rabbinaat Petach Tikva. OU-P zichtbaar op etiket.",
     "imageBounds": [
       0.33375,
       0.05075,
       0.66625,
       0.94975
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-34.jpg",
+      "source-labels/20261009-kruiden-b-35.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-kruiden-b-35.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "source-labels/20261009-kruiden-b-35.jpg",
+    "barcodeSource": "source-labels/20261009-kruiden-b-35.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherForPassover": true
   },
   {
     "id": 20,
     "name": "Barbecue Kip Kruidenmix",
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
-    "variant": "100 g",
+    "variant": "120 g",
     "ean": "7290020046208",
     "ingredients": "Zout, zoete paprika, dextrose, knoflook, antiklontermiddel (E551), zwarte peper.",
-    "allergens": null,
-    "kosher": "OU",
+    "allergens": [],
+    "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67175.jpg",
-    "productInfo": {},
+    "productInfo": {
+      "Inhoud": "120 g",
+      "Gebruik": "Voor kipschnitzels, kipfilet en spiesen; om te bakken, braden, barbecueën of marineren. Verdeel 1 eetlepel kruidenmix met olie over 1 kg kip en wrijf in."
+    },
     "sources": [
       {
         "label": "Israëlwinkel — variant en productfoto",
@@ -1634,13 +1836,26 @@ window.KPI_PRODUCTS = [
       }
     ],
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67175 (2)-01KC70TRRMYZJ552PS0VSNBZC3.jpg",
-    "reviewNotes": "Barcode en ingrediënten uit eerdere etikettranscriptie 113ec5bc-31a0-410e-8ff8-e1224198206a. Netto gewicht 100 g leesbaar op bestaande Israëlwinkel-productfoto 67175.jpg (Contents: 100 gr.). Yarden noemt 120 g voor een andere uitvoering; foto van de gebruikte variant gevolgd. Allergenen nog niet bevestigd. OU bevestigd door gebruiker.",
+    "reviewNotes": "Ingrediënten, inhoud, gebruik en leesbare keurmerken gecontroleerd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. Bestaande OU-vermelding behouden. Geen sporenwaarschuwing zichtbaar op de aangeleverde etiketten.",
     "imageBounds": [
       0.332,
       0.05,
       0.668,
       0.95
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261009-kruiden-b-17.jpg",
+      "source-labels/20261009-kruiden-b-18.jpg",
+      "chatbijlage: 77274701-2812-49ee-9654-47f4730fec77.jpg"
+    ],
+    "ingredientsSource": "chatbijlage: 77274701-2812-49ee-9654-47f4730fec77.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherChecked": "2026-10-09",
+    "kosherSource": "chatbijlage: 77274701-2812-49ee-9654-47f4730fec77.jpg",
+    "barcodeSource": "chatbijlage: 77274701-2812-49ee-9654-47f4730fec77.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 22,
