@@ -236,7 +236,8 @@ window.KPI_PRODUCTS = [
     "ingredients": "Water, geconcentreerd granaatappelsap, witte suiker, citroenzuur (E330).",
     "allergens": [],
     "category": "Sauzen & Dressings",
-    "kosher": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP (alleen voor wie kitniyot eet)",
+    "kosher": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP",
+    "kosherOriginalLabel": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP (alleen voor wie kitniyot eet)",
     "image": "images/7-supplied.png",
     "productInfo": {
       "Inhoud": "250 ml",
@@ -825,7 +826,8 @@ window.KPI_PRODUCTS = [
     "ingredients": "Gedroogde hete peper, zonnebloemolie, zout, knoflook, koriander, azijn, komijn.",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/29.png",
     "productInfo": {
       "Inhoud": "270 g",
@@ -938,7 +940,8 @@ window.KPI_PRODUCTS = [
     "ingredients": "Knoflook (90%), zonnebloemolie (10%).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/32.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -979,7 +982,8 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
+    "kosher": "Badatz Beit Yosef · KLP",
+    "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/33-clean.png",
     "productInfo": {
       "Inhoud": "55 g",
@@ -1019,7 +1023,8 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/34-straight.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -1054,7 +1059,8 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/37-supplied.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -1125,7 +1131,8 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
+    "kosher": "Badatz Beit Yosef · KLP",
+    "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/36-straight.png",
     "productInfo": {
       "Bewaren": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren.",
@@ -1163,7 +1170,8 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "VIS"
     ],
-    "kosher": "Badatz Beit Yosef · KLP (zonder kitniyot)",
+    "kosher": "Badatz Beit Yosef · KLP",
+    "kosherOriginalLabel": "Badatz Beit Yosef · KLP (zonder kitniyot)",
     "image": "images/49-straight.png",
     "imageEdited": true,
     "imageBounds": [
