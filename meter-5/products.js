@@ -205,7 +205,7 @@ window.KPI_PRODUCTS = [
     "name": "Amba",
     "variant": "380 g",
     "ean": "8715645279019",
-    "ingredients": "Kraanwater, gemalen fenegriek, zout, citroenzuur, gemalen kurkuma, gemalen chilipepers (premium), xanthaangom, natriumbenzoaat, kaliumbenzoaat.",
+    "ingredients": "Water, fenegriek, zout, citroenzuur, chilipeper, xanthaangom, natriumbenzoaat, kaliumsorbaat.",
     "allergens": [],
     "mayContain": "Sesam, selderij, mosterd en gluten.",
     "category": "Sauzen",
@@ -219,9 +219,11 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "codex-clipboard-a0cf3ef7-2951-4e3e-bf99-738f7f9acd29.jpg",
       "codex-clipboard-ad495a07-d623-46f8-838e-5d20804dd3ba.jpg",
-      "codex-clipboard-cb943e65-0874-4f87-badc-2efcfe46bb9e.jpg"
+      "codex-clipboard-cb943e65-0874-4f87-badc-2efcfe46bb9e.jpg",
+      "f9bcdd35-0a40-42af-9c95-633a83f6c726.jpg"
     ],
-    "imageEdited": true
+    "imageEdited": true,
+    "ingredientsPartial": false
   },
   {
     "id": 7,
@@ -232,7 +234,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Water, geconcentreerd granaatappelsap, witte suiker, citroenzuur (E330).",
     "allergens": [],
     "category": "Sauzen & Dressings",
-    "kosher": null,
+    "kosher": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP (alleen voor wie kitniyot eet)",
     "image": "images/7-supplied.png",
     "productInfo": {
       "Inhoud": "250 ml",
@@ -252,7 +254,12 @@ window.KPI_PRODUCTS = [
       0.9465
     ],
     "imageEdited": true,
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd."
+    "kosherSource": "Etiketfoto gebruiker: 607a320d-b221-488a-8cea-2bcae8a7dacf.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "607a320d-b221-488a-8cea-2bcae8a7dacf.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 8,
@@ -329,7 +336,7 @@ window.KPI_PRODUCTS = [
     "name": "Basilicumdressing met Olijfolie",
     "variant": "240 ml",
     "ean": "5410951071717",
-    "ingredients": "Olijfolie (8%), basilicum (4,5%), mosterd, ei.",
+    "ingredients": "Water, suiker, mosterd (water, mosterdzaadjes, azijn, zout, suiker, specerijen), olijfolie (8%), raapzaadolie, basilicum (4,5%), azijn, eigeel, knoflook, specerij, zout, zetmeel, verdikkingsmiddel: xanthaangom.",
     "allergens": [
       "MOSTERD",
       "EI"
@@ -341,7 +348,7 @@ window.KPI_PRODUCTS = [
       "Inhoud": "240 ml"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
-    "ingredientsPartial": true,
+    "ingredientsPartial": false,
     "reviewNotes": [
       "Brief noemt Dippen; officiële productverpakking vermeldt Didden."
     ],
@@ -354,9 +361,13 @@ window.KPI_PRODUCTS = [
       1,
       1
     ],
-    "allergenNote": "De volledige ingrediënten- en allergenenlijst moet nog op het etiket worden gecontroleerd.",
     "kosherSource": "https://kosherlist.lt/",
-    "kosherChecked": "2026-09-18"
+    "kosherChecked": "2026-09-18",
+    "labelSources": [
+      "b3ce123d-ad8b-4037-bd3d-7d961e0f9c65.jpg",
+      "d4434f48-902d-4773-9a37-61ff16213238.jpg",
+      "112ff1ed-231c-4521-a9da-06327a247608.jpg"
+    ]
   },
   {
     "id": 11,
@@ -377,10 +388,6 @@ window.KPI_PRODUCTS = [
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "mayContain": "Ei en mosterd.",
-    "reviewNotes": [
-      "Naam controleren: officiële Osem-barcodebron noemt teriyakisaus.",
-      "Officiële barcodebron noemt teriyaki 290 ml; brief noemt Thai Sauce 360 g. Productidentiteit en ingrediënten met etiket bevestigen; geen receptuur overgenomen."
-    ],
     "sources": [
       "https://www.osem-nestle.co.il/brands/רוטב-טריאקי",
       "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/2025-01/מוצרים ללא גלוטן עדכון דצמבר 2024.doc.pdf",
@@ -394,7 +401,11 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://kusher.world/product/אוסם-רוטב-טריאקי/",
     "kosherChecked": "2026-09-18",
-    "ingredientSource": "Etiketfoto gebruiker, 18 september 2026"
+    "ingredientSource": "Etiketfoto gebruiker, 18 september 2026",
+    "labelSources": [
+      "a3dc698b-a402-4c8a-8f10-c98858ba5512.jpg",
+      "1bb50ffc-a6e8-4a18-9f64-7d4d466a12d7.jpg"
+    ]
   },
   {
     "id": 12,
@@ -438,7 +449,7 @@ window.KPI_PRODUCTS = [
       "MOSTERD"
     ],
     "category": "Sauzen & Dressings",
-    "kosher": null,
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve) · Toezicht geldt niet voor Pesach",
     "image": "images/13-online.jpg",
     "productInfo": {
       "Inhoud": "295 g"
@@ -454,9 +465,14 @@ window.KPI_PRODUCTS = [
       0.632,
       1
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "mayContain": "Ei en soja.",
-    "ingredientSource": "Etiketfoto gebruiker 3ee22808-0c86-4b3a-b8fc-f69441569e55.jpg, 18 september 2026"
+    "ingredientSource": "Etiketfoto gebruiker 3ee22808-0c86-4b3a-b8fc-f69441569e55.jpg, 18 september 2026",
+    "kosherSource": "Etiketfoto gebruiker: 96292645-5bb6-47fd-98d3-57e0943d575b.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "96292645-5bb6-47fd-98d3-57e0943d575b.jpg"
+    ],
+    "kosherForPassover": false
   },
   {
     "id": 15,
@@ -806,7 +822,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Gedroogde hete peper, zonnebloemolie, zout, knoflook, koriander, azijn, komijn.",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": null,
+    "kosher": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/29.png",
     "productInfo": {
       "Inhoud": "270 g",
@@ -824,8 +840,13 @@ window.KPI_PRODUCTS = [
       0.8788,
       0.678
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "kosherSource": "Etiketfoto gebruiker: ccf2df70-ea10-4f8a-a2ad-ea3b79805e04.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "ccf2df70-ea10-4f8a-a2ad-ea3b79805e04.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 30,
@@ -836,11 +857,12 @@ window.KPI_PRODUCTS = [
     "ingredients": "Mini-citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": null,
+    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
     "image": "images/30.png",
     "productInfo": {
       "Herkomst": "Tunesië",
-      "Inhoud": "200 g"
+      "Inhoud": "200 g",
+      "Uitlekgewicht": "200 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -854,30 +876,37 @@ window.KPI_PRODUCTS = [
       0.7259,
       0.7917
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
     "reviewNotes": [
       "Gebruiker bevestigt inhoud 200 g."
-    ]
+    ],
+    "kosherSource": "Etiketfoto gebruiker: 85f865c2-cfeb-42a7-b47f-6ac271575942.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "85f865c2-cfeb-42a7-b47f-6ac271575942.jpg",
+      "59b4ff97-a249-49b0-8652-55191a5fe29c.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 31,
     "brand": "Kineret Agro",
     "name": "Gesneden Citroen in Zeezout",
-    "variant": "100 g",
+    "variant": "150 g",
     "ean": "0646680653169",
     "ingredients": "Citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": null,
+    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
     "image": "images/31-supplied.png",
     "productInfo": {
-      "Inhoud": "100 g"
+      "Inhoud": "150 g",
+      "Uitlekgewicht": "150 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "reviewNotes": [
-      "Gebruiker bevestigt 100 g als te tonen inhoud."
+      "Nieuwe etiketfoto bevestigt 150 g uitlekgewicht; vervangt de eerder opgegeven 100 g."
     ],
     "sources": [
       "https://www.kineret-agro.com/_files/ugd/d13362_199a30d72f444c318898f8ead190e051.pdf"
@@ -888,19 +917,25 @@ window.KPI_PRODUCTS = [
       0.77831,
       0.9059
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "kosherSource": "Etiketfoto gebruiker: 8eecc423-8dba-4206-a40e-fa079c8263f6.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "8eecc423-8dba-4206-a40e-fa079c8263f6.jpg",
+      "a54451ef-c2c3-4b4b-b75c-7619e26920ca.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 32,
     "brand": "Kineret Agro",
-    "name": "Knoflookcrème",
+    "name": "Knoflookblokjes",
     "variant": "200 g",
     "ean": "3760413390101",
     "ingredients": "Knoflook (90%), zonnebloemolie (10%).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": null,
+    "kosher": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/32.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -918,25 +953,36 @@ window.KPI_PRODUCTS = [
       0.7556,
       0.5979
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "kosherSource": "Etiketfoto gebruiker: cf73295f-f1e2-43c6-87a9-2d140a4d374e.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "cf73295f-f1e2-43c6-87a9-2d140a4d374e.jpg",
+      "b1da1159-ccf1-464d-bbe3-2a64046592cd.jpg"
+    ],
+    "kosherForPassover": true,
+    "reviewNotes": [
+      "Voorzijde vermeldt Cubes d’ail frais savoureux. Ingrediënten en barcode nog vergelijken met de achterzijde van deze pot; eerdere registratie heette Knoflookcrème."
+    ]
   },
   {
     "id": 33,
     "brand": "Filet d’Argent",
     "name": "Ansjovisfilets in Zonnebloemolie",
-    "variant": "100 g",
+    "variant": "55 g",
     "ean": "3700604201465",
     "ingredients": "Ansjovis (vis), zout, zonnebloemolie.",
     "allergens": [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/33-clean.png",
     "productInfo": {
-      "Inhoud": "100 g",
-      "Bewaren": "Na openen gekoeld bewaren en binnen 15 dagen gebruiken."
+      "Inhoud": "55 g",
+      "Bewaren": "Na openen gekoeld bewaren en binnen 15 dagen gebruiken.",
+      "Uitlekgewicht": "55 g",
+      "Netto inhoud": "100 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -950,8 +996,14 @@ window.KPI_PRODUCTS = [
       0.740829346092504,
       0.9904306220095693
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherSource": "Etiketfoto gebruiker: e5753a3c-7aa3-440e-a584-2abc0ef1cc0b.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "e5753a3c-7aa3-440e-a584-2abc0ef1cc0b.jpg",
+      "91f9c0ff-77b5-4b41-b260-545a3126b9e4.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 34,
@@ -964,7 +1016,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/34-straight.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -974,14 +1026,19 @@ window.KPI_PRODUCTS = [
     "ingredientsPartial": false,
     "storage": "Na openen gekoeld bewaren en binnen 48 uur gebruiken.",
     "sources": [],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "imageEdited": true,
     "imageBounds": [
       0.1529,
       0.0815,
       0.8407,
       0.9427
-    ]
+    ],
+    "kosherSource": "Etiketfoto gebruiker: e36b7a43-c4fa-4e4f-b495-609e913ea28b.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "e36b7a43-c4fa-4e4f-b495-609e913ea28b.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 37,
@@ -994,7 +1051,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/37-supplied.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -1011,7 +1068,12 @@ window.KPI_PRODUCTS = [
       0.91946
     ],
     "imageEdited": true,
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd."
+    "kosherSource": "Etiketfoto gebruiker: 356257ad-a099-495a-bfb1-5053bbd40331.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "356257ad-a099-495a-bfb1-5053bbd40331.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 35,
@@ -1024,7 +1086,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "Badatz Agudat Harabanim",
     "image": "images/35-fr.jpg",
     "productInfo": {
       "Inhoud": "120 g"
@@ -1040,7 +1102,14 @@ window.KPI_PRODUCTS = [
       0.99333,
       0.805
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd."
+    "kosherSource": "Etiketfoto gebruiker: 255c5b50-4303-401f-83c9-8eb55075ca8b.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "255c5b50-4303-401f-83c9-8eb55075ca8b.jpg"
+    ],
+    "reviewNotes": [
+      "Naast de hechsjer staat een KP-symbool; de betekenis en eventuele Pesach-beperkingen zijn nog niet bevestigd."
+    ]
   },
   {
     "id": 36,
@@ -1053,7 +1122,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/36-straight.png",
     "productInfo": {
       "Bewaren": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren.",
@@ -1065,7 +1134,6 @@ window.KPI_PRODUCTS = [
       "Gebruiker bevestigt 104 g als te tonen inhoud voor dit ronde blik."
     ],
     "sources": [],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "imageEdited": true,
     "imageBounds": [
       0.0146,
@@ -1073,7 +1141,13 @@ window.KPI_PRODUCTS = [
       0.9789,
       0.957
     ],
-    "storage": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren."
+    "storage": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren.",
+    "kosherSource": "Etiketfoto gebruiker: f17fee26-999a-4109-bc0c-88ac6442dd51.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "f17fee26-999a-4109-bc0c-88ac6442dd51.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 49,
@@ -1086,7 +1160,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "VIS"
     ],
-    "kosher": "Badatz Beit Yosef",
+    "kosher": "Badatz Beit Yosef · KLP (zonder kitniyot)",
     "image": "images/49-straight.png",
     "imageEdited": true,
     "imageBounds": [
@@ -1104,7 +1178,12 @@ window.KPI_PRODUCTS = [
       "Gebruiker bevestigt 104 g als te tonen inhoud voor dit ronde blik."
     ],
     "ingredientSource": "Gebruikersfoto etiket: 352700f3-60b4-4d5c-902d-2b91750a084f.jpg",
-    "kosherSource": "Gebruikersfoto etiket: ad34dd0d-9014-400e-aea0-63c5fdc5ce34.jpg"
+    "kosherSource": "Etiketfoto gebruiker: cad83ee3-79e0-4c87-92c0-a104be388415.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "cad83ee3-79e0-4c87-92c0-a104be388415.jpg"
+    ],
+    "kosherForPassover": true
   },
   {
     "id": 44,
@@ -1151,7 +1230,7 @@ window.KPI_PRODUCTS = [
     "id": 45,
     "brand": "Dag Eden",
     "name": "Gefilte Fish Hongaarse Stijl",
-    "variant": "6 stuks",
+    "variant": "350 g · 6 stuks",
     "ean": "7290008737296",
     "ingredients": "Water, vis (25,4%; karper, zilverkarper), wortel (6,4%), suiker, aardappelzetmeel, gedroogde uistukjes, aardappelvlokken, zout, gedroogd ei, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
     "allergens": [
@@ -1162,11 +1241,13 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/45-online.png",
     "productInfo": {
-      "Inhoud": "6 stuks",
+      "Inhoud": "350 g · 6 stuks",
       "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
       "Let op": "Kan visgraten bevatten.",
-      "Visgehalte": "Minimaal 42% vis per bal."
+      "Visgehalte": "Minimaal 42% vis per bal.",
+      "Uitlekgewicht": "350 g",
+      "Netto inhoud": "560 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -1175,9 +1256,6 @@ window.KPI_PRODUCTS = [
       "Zonder toegevoegde conserveermiddelen en kleurstoffen"
     ],
     "kosherStatus": "Parve",
-    "reviewNotes": [
-      "Volledige ingrediënten en allergenen bevestigd op etiket; barcode 7290008737296. Nettogewicht nog niet zichtbaar op aangeleverde foto’s."
-    ],
     "sources": [
       "https://alwaystogether.community/products/gefilte-fish-hungarian-style-6-units-dag-eden-570g"
     ],
@@ -1190,13 +1268,16 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://sovafoods.co.uk/catalog/dag11",
     "kosherChecked": "2026-09-18",
     "fishPerBall": "Minimaal 42% vis per bal.",
-    "ingredientSource": "Gebruikersfoto: d36679ce-e738-47c8-8d90-3a084ef15907.jpg"
+    "ingredientSource": "Gebruikersfoto: d36679ce-e738-47c8-8d90-3a084ef15907.jpg",
+    "labelSources": [
+      "14d4e0ea-ebca-416a-93b5-a2a8f2651d9e.jpg"
+    ]
   },
   {
     "id": 46,
     "brand": "Dag Eden",
     "name": "Gefilte Fish Poolse Stijl",
-    "variant": "6 stuks",
+    "variant": "350 g · 6 stuks",
     "ean": "7290008737289",
     "ingredients": "Water, vis (25,7%; karper, zilverkarper), suiker, gedroogde uistukjes, wortel (2,1%), aardappelzetmeel, aardappelvlokken, zout, gedroogd ei, palmolie, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",
     "allergens": [
@@ -1207,17 +1288,16 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/46-online.jpg",
     "productInfo": {
-      "Inhoud": "6 stuks",
+      "Inhoud": "350 g · 6 stuks",
       "Visgehalte": "Minimaal 42% vis per bal.",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
       "Let op": "Kan visgraten bevatten.",
-      "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen"
+      "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
+      "Uitlekgewicht": "350 g",
+      "Netto inhoud": "560 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "reviewNotes": [
-      "Volledige ingrediënten en allergenen bevestigd op gebruikersetiket; barcode 7290008737289. Nettogewicht niet volledig leesbaar op de foto; 6 stuks behouden."
-    ],
     "fishPerBall": "Minimaal 42% vis per bal.",
     "sources": [
       "https://alwaystogether.community/products/gefilte-fish-polish-style-6-units-570g"
@@ -1234,7 +1314,10 @@ window.KPI_PRODUCTS = [
       "Glutenvrij",
       "Zonder toegevoegde conserveermiddelen en kleurstoffen"
     ],
-    "ingredientSource": "Gebruikersfoto etiket: f43924a7-c22f-4eb4-b352-2ec8191bd4f8.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: f43924a7-c22f-4eb4-b352-2ec8191bd4f8.jpg",
+    "labelSources": [
+      "84091c23-7606-47e4-bc57-5e470298585e.jpg"
+    ]
   },
   {
     "id": 38,
@@ -1413,7 +1496,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "KF — Federation of Synagogues, Londen",
     "image": "images/43-straight.png",
     "productInfo": {
       "Inhoud": "125 g",
@@ -1423,13 +1506,17 @@ window.KPI_PRODUCTS = [
     "ingredientsPartial": false,
     "origin": "Marokko",
     "sources": [],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "imageEdited": true,
     "imageBounds": [
       0.0371,
       0.1055,
       0.9642,
       0.8906
+    ],
+    "kosherSource": "Etiketfoto gebruiker: 88ae0280-263a-424d-a4ef-39bc8e468e79.jpg",
+    "kosherChecked": "2026-10-09",
+    "labelSources": [
+      "88ae0280-263a-424d-a4ef-39bc8e468e79.jpg"
     ]
   },
   {
