@@ -1,4 +1,4 @@
-window.KPI_PRODUCTS = [
+﻿window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Al Arz",
@@ -962,7 +962,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosherForPassover": true,
     "reviewNotes": [
-      "Voorzijde vermeldt Cubes d’ail frais savoureux. Ingrediënten en barcode nog vergelijken met de achterzijde van deze pot; eerdere registratie heette Knoflookcrème."
+      "Gebruiker bevestigt knoflookblokjes en verzoekt de beschikbare productinformatie te gebruiken, 9 oktober 2026."
     ]
   },
   {
