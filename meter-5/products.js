@@ -1333,7 +1333,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Badatz Agudat Harabanim",
+    "kosher": "KP · בד״ץ אגודת הרבנים",
     "image": "images/38-supplied.png",
     "productInfo": {
       "Inhoud": "250 g",
@@ -1352,7 +1352,7 @@ window.KPI_PRODUCTS = [
       0.73,
       0.945
     ],
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als het naastliggende product; gekoppeld aan Riga Gold Gerookte Sprot. Geen KLP-status overgenomen.",
+    "kosherSource": "Gebruiker vraagt op 9 oktober 2026 bij Old Riga uitsluitend KP en de Hebreeuwse naam van de eerder bevestigde Hechser te tonen. KP niet vertaald naar een bevestigde KLP-status.",
     "kosherChecked": "2026-10-09"
   },
   {
