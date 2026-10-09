@@ -110,8 +110,8 @@ window.KPI_PRODUCTS = [
     "brand": "Davidovich",
     "name": "Klassiek paneermeel",
     "variant": "800 g",
-    "ean": "",
-    "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), volkoren speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E471, E322, E481, E472), conserveermiddelen (E200, E282, E202), haver (gluten), meelverbeteraars (sojameel, L-cysteïne, ascorbinezuur [vitamine C]), zuurteregelaar (citroenzuur).",
+    "ean": "7290011553876",
+    "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E322, E481, E472, E471), conserveermiddelen (E282, E202, E200), haver (gluten), meelbehandelingsmiddelen (sojameel, L-cysteïne, ascorbinezuur [vitamine C], alfa-amylase), zuurteregelaar (citroenzuur).",
     "allergens": [
       "Tarwe (gluten)",
       "Rogge (gluten)",
@@ -126,7 +126,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "",
     "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (parve)",
-    "barcodeNeedsCheck": true,
+    "barcodeNeedsCheck": false,
     "id": 3,
     "category": "Paneermeel",
     "image": "images/product-3-edited.png",
@@ -148,20 +148,24 @@ window.KPI_PRODUCTS = [
       "height": 0.944870900209351,
       "aspectRatio": 0.7496307237813885
     },
-    "kosherChecked": "2026-09-28",
-    "kosherVerification": "user-confirmed-and-400g-label",
-    "ingredientsSource": "https://www.davidovitz.co.il/product/פרור-לחם-שקית-400-גרם-12/",
-    "ingredientsSourceEan": "7290015033299",
-    "ingredientsChecked": "2026-09-27",
-    "ingredientsVerification": "manufacturer-400g-user-confirmed-equivalence"
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "ingredientsSource": "Etiketfoto 400 g: 5a7d8771-1d5d-4f4d-a255-246817c62a1c.jpg; gebruiker heeft eerder dezelfde receptuur voor 800 g bevestigd.",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "400g-label-user-confirmed-equivalence",
+    "labelSources": [
+      "087d0fc0-9495-4e99-9a2e-30933cb30eb9.jpg",
+      "f31d000a-5733-43f1-b6de-b496f8b4820d.jpg"
+    ],
+    "barcodeSource": "Etiketfoto gebruiker: f31d000a-5733-43f1-b6de-b496f8b4820d.jpg (door gebruiker bevestigd: 800 g)",
+    "ingredientsPartial": false
   },
   {
     "brand": "Davidovich",
     "name": "Klassiek paneermeel",
     "variant": "400 g",
-    "ean": "7290011553876",
-    "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), volkoren speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E471, E322, E481, E472), conserveermiddelen (E200, E282, E202), haver (gluten), meelverbeteraars (sojameel, L-cysteïne, ascorbinezuur [vitamine C]), zuurteregelaar (citroenzuur).",
-    "ingredientsNote": "Ingrediënten en allergenen volgens de fabrikant voor de 400 g verpakking (barcode 7290015033299). Deze barcode wijkt af van de gefotografeerde verpakking; controleer daarom het etiket op jouw verpakking.",
+    "ean": "",
+    "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E322, E481, E472, E471), conserveermiddelen (E282, E202, E200), haver (gluten), meelbehandelingsmiddelen (sojameel, L-cysteïne, ascorbinezuur [vitamine C], alfa-amylase), zuurteregelaar (citroenzuur).",
     "allergens": [
       "Tarwe (gluten)",
       "Rogge (gluten)",
@@ -199,10 +203,16 @@ window.KPI_PRODUCTS = [
     },
     "kosherChecked": "2026-09-28",
     "kosherVerification": "label",
-    "ingredientsSource": "https://www.davidovitz.co.il/product/פרור-לחם-שקית-400-גרם-12/",
-    "ingredientsSourceEan": "7290015033299",
-    "ingredientsChecked": "2026-09-27",
-    "ingredientsVerification": "manufacturer-different-barcode"
+    "ingredientsSource": "Etiketfoto gebruiker: 5a7d8771-1d5d-4f4d-a255-246817c62a1c.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "labelSources": [
+      "78a355b0-198b-4582-afc4-3f19882ca60e.jpg",
+      "5a7d8771-1d5d-4f4d-a255-246817c62a1c.jpg"
+    ],
+    "ingredientsPartial": false,
+    "barcodeNeedsCheck": true,
+    "barcodeSource": "Eerder toegewezen barcode 7290011553876 hoort volgens gebruikersbevestiging bij 800 g; barcode voor 400 g nog niet aangeleverd."
   },
   {
     "brand": "Davidovich",
@@ -249,11 +259,11 @@ window.KPI_PRODUCTS = [
     "shortName": "Bouillon",
     "variant": "400 g",
     "ean": "077544002883",
-    "ingredients": "Maltodextrine (uit maïs), maïszetmeel, zout, suiker, gistextract, palmolie, uienpoeder, bietenvezels, gedroogde peterselie, natuurlijke aroma’s, rozemarijnextract om de smaak te beschermen.",
+    "ingredients": "Maltodextrine, maïszetmeel, zout, suiker, gistextract, palmolie, uienpoeder, bietenvezels, gedroogde peterselie, natuurlijke aroma’s, rozemarijnextract (ter bescherming van de smaak).",
     "allergens": [],
     "mayContain": "Soja, sesam en tarwe (gluten).",
     "kosher": "OU / Opperrabbinaat Sderot (parve)",
-    "barcodeNeedsCheck": true,
+    "barcodeNeedsCheck": false,
     "productInfo": {
       "Verpakking": "Pot met groen deksel",
       "Inhoud": "400 g"
@@ -276,8 +286,17 @@ window.KPI_PRODUCTS = [
     },
     "imageEdited": true,
     "searchName": "Consommé",
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "labelSources": [
+      "6681e301-62e1-40ad-ab12-38e5ca8e99cd.jpg",
+      "6a8c1582-d51f-4640-9497-02c77da9c7e7.jpg"
+    ],
+    "ingredientsSource": "Etiketfoto gebruiker: 6681e301-62e1-40ad-ab12-38e5ca8e99cd.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsPartial": false,
+    "barcodeSource": "Etiketfoto gebruiker: 6681e301-62e1-40ad-ab12-38e5ca8e99cd.jpg"
   },
   {
     "brand": "Osem",
@@ -285,8 +304,10 @@ window.KPI_PRODUCTS = [
     "shortName": "Soepmix met kipsmaak",
     "variant": "400 g",
     "ean": "077544529403",
-    "ingredients": "Zout, zetmeel, suiker, maltodextrine, palmolie, smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), gedroogde uien (0,9%), gistextract, gedroogde peterselie (0,2%), zuurteregelaar (citroenzuur), zwarte peper, aroma’s, peterselie-extract, kurkuma-extract, antioxidant (rozemarijnextract).",
-    "allergens": [],
+    "ingredients": "Zout, zetmeel, suiker, maltodextrine, palmolie, smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), gedroogde uien (0,9%), gistextract, gedroogde peterselie (0,2%), zuurteregelaar (citroenzuur), zwarte peper, aroma’s (bevatten selderij), kurkuma-extract, antioxidant (rozemarijnextract).",
+    "allergens": [
+      "Selderij"
+    ],
     "mayContain": "Soja, sesam en tarwe (gluten).",
     "kosher": "OU / Opperrabbinaat Sderot (parve)",
     "id": 8,
@@ -310,8 +331,16 @@ window.KPI_PRODUCTS = [
       "height": 0.95,
       "aspectRatio": 0.6984649122807017
     },
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "labelSources": [
+      "75684025-e2f3-4992-a213-107bc333bac0.jpg",
+      "f6214346-9632-4db6-a663-e7404e0387d8.jpg"
+    ],
+    "ingredientsSource": "Etiketfoto gebruiker: f6214346-9632-4db6-a663-e7404e0387d8.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsPartial": false
   },
   {
     "brand": "Osem",
@@ -499,8 +528,8 @@ window.KPI_PRODUCTS = [
     "brand": "Creative Pea",
     "name": "Vegan burger mix",
     "variant": "65 g",
-    "ean": "",
-    "barcodeNeedsCheck": true,
+    "ean": "860014358906",
+    "barcodeNeedsCheck": false,
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gerookte paprika, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), bietenpoeder (natuurlijke kleurstof), cacaopoeder, natuurlijke aroma’s.",
     "allergens": [],
     "mayContain": "Sporen van sesam.",
@@ -525,18 +554,24 @@ window.KPI_PRODUCTS = [
       "height": 0.7047747141896435,
       "aspectRatio": 0.7080152671755725
     },
-    "ingredientsSource": "https://shopcreativepea.com/products/burger-4-pack",
-    "ingredientsChecked": "2026-09-28",
-    "ingredientsVerification": "manufacturer-label",
-    "kosherChecked": "2026-09-28",
-    "kosherVerification": "manufacturer-label"
+    "ingredientsSource": "Etiketfoto gebruiker: cb6c193b-63be-4a62-9cd9-d4913ffc2518.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "labelSources": [
+      "9662d95e-3716-4281-9d04-e5cb59506306.jpg",
+      "cb6c193b-63be-4a62-9cd9-d4913ffc2518.jpg"
+    ],
+    "ingredientsPartial": false,
+    "barcodeSource": "Etiketfoto gebruiker: cb6c193b-63be-4a62-9cd9-d4913ffc2518.jpg"
   },
   {
     "id": 14,
     "brand": "Creative Pea",
     "name": "Vegan nuggets mix",
     "variant": "65 g",
-    "ean": "",
+    "ean": "860014358975",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), natuurlijke aroma’s.",
     "allergens": [],
     "mayContain": "Sporen van sesam.",
@@ -550,7 +585,7 @@ window.KPI_PRODUCTS = [
       "source-labels/48200446-1eb9-4a2f-9995-076304d93bcf.jpg",
       "source-labels/80484c2a-224b-493b-a3e1-23fcb4943ee0.jpg"
     ],
-    "barcodeNeedsCheck": true,
+    "barcodeNeedsCheck": false,
     "imageSource": "https://shopcreativepea.com/products/chicken-nuggets-4-pack",
     "imageSourceUrl": "https://cdn.shopify.com/s/files/1/0690/6861/9953/files/chicken_nuggets_4_pack_product_page.png?v=1766031225",
     "imageSourceChecked": "2026-09-27",
@@ -561,11 +596,17 @@ window.KPI_PRODUCTS = [
       "height": 0.7047747141896435,
       "aspectRatio": 0.7080152671755725
     },
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-10-09",
     "kosherVerification": "label",
-    "ingredientsChecked": "2026-09-27",
-    "ingredientsVerification": "original-label-zoomed",
-    "ingredientsSource": "source-labels/80484c2a-224b-493b-a3e1-23fcb4943ee0.jpg"
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsSource": "Etiketfoto gebruiker: 86aaaae7-b6cf-4bb7-ad56-4339a0513e09.jpg",
+    "labelSources": [
+      "8c4f98a6-773d-47b8-9ccf-04a5386c7dc9.jpg",
+      "86aaaae7-b6cf-4bb7-ad56-4339a0513e09.jpg"
+    ],
+    "ingredientsPartial": false,
+    "barcodeSource": "Etiketfoto gebruiker: 86aaaae7-b6cf-4bb7-ad56-4339a0513e09.jpg"
   },
   {
     "id": 15,
@@ -596,12 +637,17 @@ window.KPI_PRODUCTS = [
       "height": 0.7047747141896435,
       "aspectRatio": 0.7080152671755725
     },
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-10-09",
     "kosherVerification": "label",
-    "ingredientsChecked": "2026-09-27",
-    "ingredientsVerification": "original-label-zoomed",
-    "ingredientsSource": "source-labels/1f874032-1f43-4ba1-8d36-1642fb365e8e.jpg",
-    "barcodeSource": "source-labels/1f874032-1f43-4ba1-8d36-1642fb365e8e.jpg"
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsSource": "Etiketfoto gebruiker: 9a241d9a-9003-4db0-8158-7763d3bfa02b.jpg",
+    "barcodeSource": "Etiketfoto gebruiker: 9a241d9a-9003-4db0-8158-7763d3bfa02b.jpg",
+    "labelSources": [
+      "9a241d9a-9003-4db0-8158-7763d3bfa02b.jpg"
+    ],
+    "ingredientsPartial": false,
+    "barcodeNeedsCheck": false
   },
   {
     "id": 16,
@@ -632,13 +678,19 @@ window.KPI_PRODUCTS = [
       "height": 0.7047747141896435,
       "aspectRatio": 0.7080152671755725
     },
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-10-09",
     "kosherVerification": "label",
-    "ingredientsChecked": "2026-09-27",
-    "ingredientsVerification": "original-label-zoomed",
-    "ingredientsSource": "source-labels/b8872164-5f7f-486e-9d19-99f84c6adee3.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsSource": "Etiketfoto gebruiker: 53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg",
     "ingredientsPartial": true,
-    "ingredientsNote": "Op het originele etiket staat tussen aardappelzetmeel en methylcellulose het onduidelijke woord “Inactivation”. De betekenis daarvan is niet bevestigd; dit is niet als extra ingrediënt vertaald."
+    "ingredientsNote": "Op het originele etiket staat tussen aardappelzetmeel en methylcellulose het onduidelijke woord “Inactivation”. De betekenis daarvan is niet bevestigd; dit is niet als extra ingrediënt vertaald.",
+    "labelSources": [
+      "0c085834-63a2-453e-a4eb-ba572f47d35d.jpg",
+      "53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg"
+    ],
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "Etiketfoto gebruiker: 53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg"
   },
   {
     "id": 17,
