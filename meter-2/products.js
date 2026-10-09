@@ -123,7 +123,9 @@ window.KPI_PRODUCTS = [
       "width": 0.16489399999999999,
       "height": 0.869289,
       "aspectRatio": 0.2262779863394165
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 3,
@@ -178,7 +180,9 @@ window.KPI_PRODUCTS = [
       "width": 0.754263,
       "height": 0.945616,
       "aspectRatio": 0.22065733476465102
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 26,
@@ -190,7 +194,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "ean": "7290000023823",
     "image": "images/barkan-classic-sauvignon-blanc.jpg",
     "isWine": true,
@@ -271,7 +275,9 @@ window.KPI_PRODUCTS = [
         "mevushalStatus",
         "kosher"
       ]
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 4,
@@ -327,7 +333,9 @@ window.KPI_PRODUCTS = [
       "width": 0.6748759999999999,
       "height": 0.937662,
       "aspectRatio": 0.22675825518023013
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 5,
@@ -387,7 +395,9 @@ window.KPI_PRODUCTS = [
       "width": 0.16382999999999998,
       "height": 0.843909,
       "aspectRatio": 0.23157914643441985
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 6,
@@ -443,7 +453,9 @@ window.KPI_PRODUCTS = [
       "width": 0.674762,
       "height": 0.884814,
       "aspectRatio": 0.22708716567447046
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 7,
@@ -504,7 +516,8 @@ window.KPI_PRODUCTS = [
       "width": 0.20599999999999996,
       "height": 0.8995,
       "aspectRatio": 0.2290161200667037
-    }
+    },
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "brand": "Barkan",
@@ -515,7 +528,7 @@ window.KPI_PRODUCTS = [
     "year": null,
     "volume": "750 ml",
     "ingredients": "Zwaveldioxide (sulfieten).",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "imageFrontOnly": true,
     "id": 30,
     "name": "Moscato",
@@ -562,7 +575,9 @@ window.KPI_PRODUCTS = [
         "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
         "url": "source-labels/20261008/5.jpg"
       }
-    ]
+    ],
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 8,
@@ -574,7 +589,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "ean": "7290019220725",
     "image": "images/barkan-gold-edition-chardonnay.png",
     "isWine": true,
@@ -637,7 +652,9 @@ window.KPI_PRODUCTS = [
       "fields": [
         "mevushalStatus"
       ]
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 9,
@@ -692,7 +709,9 @@ window.KPI_PRODUCTS = [
       "width": 0.665685,
       "height": 0.905026,
       "aspectRatio": 0.2642504193249697
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 10,
@@ -751,7 +770,9 @@ window.KPI_PRODUCTS = [
       "width": 0.24750000000000005,
       "height": 0.8995,
       "aspectRatio": 0.2751528627015009
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 11,
@@ -763,7 +784,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
     "ean": "7290000521015",
     "image": "images/segal-droge-witte-wijn.png",
     "isWine": true,
@@ -815,7 +836,9 @@ window.KPI_PRODUCTS = [
       "width": 0.19468100000000005,
       "height": 0.883248,
       "aspectRatio": 0.26293145323062805
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "brand": "Barkan",
@@ -826,7 +849,7 @@ window.KPI_PRODUCTS = [
     "year": null,
     "volume": "750 ml",
     "ingredients": "Zwaveldioxide (sulfieten).",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "imageFrontOnly": true,
     "id": 29,
     "name": "Premieur Cabernet Sauvignon & Malbec",
@@ -863,7 +886,9 @@ window.KPI_PRODUCTS = [
       "width": 0.375,
       "height": 0.962,
       "aspectRatio": 0.2758233392036209
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 12,
@@ -919,7 +944,9 @@ window.KPI_PRODUCTS = [
       "width": 0.657741,
       "height": 0.939224,
       "aspectRatio": 0.2240593294021379
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 13,
@@ -980,7 +1007,8 @@ window.KPI_PRODUCTS = [
       "width": 0.16383000000000003,
       "height": 0.86802,
       "aspectRatio": 0.2251465702268668
-    }
+    },
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 14,
@@ -1035,7 +1063,9 @@ window.KPI_PRODUCTS = [
       "width": 0.667832,
       "height": 0.869835,
       "aspectRatio": 0.22684072266579294
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 15,
@@ -1090,7 +1120,9 @@ window.KPI_PRODUCTS = [
       "width": 0.657741,
       "height": 0.939224,
       "aspectRatio": 0.2240593294021379
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 16,
@@ -1150,7 +1182,9 @@ window.KPI_PRODUCTS = [
       "width": 0.699473,
       "height": 0.90921,
       "aspectRatio": 0.22840741267537834
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 17,
@@ -1211,7 +1245,8 @@ window.KPI_PRODUCTS = [
       "width": 0.19680899999999996,
       "height": 0.890863,
       "aspectRatio": 0.26353340228565564
-    }
+    },
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 25,
@@ -1273,7 +1308,8 @@ window.KPI_PRODUCTS = [
       "width": 0.201515,
       "height": 0.6484850000000001,
       "aspectRatio": 0.3107473573020193
-    }
+    },
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 24,
@@ -1285,7 +1321,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "ean": "7290000521008",
     "image": "images/segal-droge-rode-wijn.jpg",
     "isWine": true,
@@ -1342,7 +1378,9 @@ window.KPI_PRODUCTS = [
       "fields": [
         "kosher"
       ]
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 23,
@@ -1401,7 +1439,8 @@ window.KPI_PRODUCTS = [
       "width": 0.20325000000000004,
       "height": 0.8997499999999999,
       "aspectRatio": 0.22589608224506813
-    }
+    },
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 22,
@@ -1457,7 +1496,9 @@ window.KPI_PRODUCTS = [
       "width": 0.21025,
       "height": 0.8997499999999999,
       "aspectRatio": 0.23367602111697697
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 21,
@@ -1527,7 +1568,9 @@ window.KPI_PRODUCTS = [
       "fields": [
         "mevushalStatus"
       ]
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 20,
@@ -1539,7 +1582,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël.",
+    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël · KLP",
     "ean": "7290000024202",
     "image": "images/barkan-reserve-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1597,7 +1640,9 @@ window.KPI_PRODUCTS = [
       "fields": [
         "mevushalStatus"
       ]
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 19,
@@ -1609,7 +1654,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "ean": "7290000024264",
     "image": "images/barkan-reserve-merlot.jpg",
     "isWine": true,
@@ -1672,7 +1717,9 @@ window.KPI_PRODUCTS = [
         "mevushalStatus",
         "kosher"
       ]
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 18,
@@ -1727,7 +1774,9 @@ window.KPI_PRODUCTS = [
       "width": 0.5159910000000001,
       "height": 0.836741,
       "aspectRatio": 0.2862141656425502
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 27,
@@ -1819,7 +1868,8 @@ window.KPI_PRODUCTS = [
         "mevushalStatus",
         "kosher"
       ]
-    }
+    },
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   },
   {
     "id": 28,
@@ -1831,7 +1881,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
     "ean": "7290000024523",
     "image": "images/druivensap.jpg",
     "isWine": false,
@@ -1876,6 +1926,8 @@ window.KPI_PRODUCTS = [
       "width": 0.608934,
       "height": 0.8450420000000001,
       "aspectRatio": 0.2707818641407055
-    }
+    },
+    "kosherForPassover": true,
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   }
 ];
