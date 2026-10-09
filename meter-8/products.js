@@ -1080,7 +1080,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290015324564",
     "ingredients": "100% pure koriander.",
     "allergens": [],
-    "kosher": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "kosherOriginalLabel": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67155.jpg",
     "productInfo": {
@@ -1126,7 +1126,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134833",
     "ingredients": "100% pure komijn.",
     "allergens": [],
-    "kosher": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "kosherOriginalLabel": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67156.jpg",
     "productInfo": {
@@ -1304,7 +1304,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134970",
     "ingredients": "Specerijen, zout.",
     "allergens": [],
-    "kosher": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Edah HaChareidis / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "kosherOriginalLabel": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67167.jpg",
     "productInfo": {
@@ -1350,7 +1350,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217348",
     "ingredients": "100% pittige chilipeper.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "image": "images/67160.jpg",
     "productInfo": {
       "Inhoud": "70 g",
@@ -1395,7 +1395,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000134840",
     "ingredients": "100% pure kurkuma.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "image": "images/67161.jpg",
     "productInfo": {
       "Inhoud": "100 g",
@@ -1481,7 +1481,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290011964689",
     "ingredients": "Specerijen, dextrose, zout, antiklontermiddel (E551).",
     "allergens": [],
-    "kosher": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "OU / Badatz Edah HaChareidis / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "kosherOriginalLabel": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67174.jpg",
     "productInfo": {
@@ -1773,7 +1773,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217157",
     "ingredients": "Specerijen, zout, plantaardige olie, antiklontermiddel (E551), paprika-extract.",
     "allergens": [],
-    "kosher": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
+    "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) (KLP)",
     "kosherOriginalLabel": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67182.jpg",
     "productInfo": {
