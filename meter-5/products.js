@@ -420,7 +420,7 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "category": "Sauzen & Dressings",
-    "kosher": null,
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/12-online.jpg",
     "productInfo": {
       "Inhoud": "330 g"
@@ -437,8 +437,9 @@ window.KPI_PRODUCTS = [
       0.62,
       0.988
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
-    "ingredientSource": "Etiketfoto gebruiker c0fe2617-65f5-48eb-96ee-2308883f7645.jpg, 18 september 2026"
+    "ingredientSource": "Etiketfoto gebruiker c0fe2617-65f5-48eb-96ee-2308883f7645.jpg, 18 september 2026",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als Osem Teriyakisaus.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 13,
@@ -1332,7 +1333,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": null,
+    "kosher": "Badatz Agudat Harabanim",
     "image": "images/38-supplied.png",
     "productInfo": {
       "Inhoud": "250 g",
@@ -1351,7 +1352,8 @@ window.KPI_PRODUCTS = [
       0.73,
       0.945
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd."
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als het naastliggende product; gekoppeld aan Riga Gold Gerookte Sprot. Geen KLP-status overgenomen.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 39,
