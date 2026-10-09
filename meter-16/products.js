@@ -164,8 +164,8 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
-    "brand": "Popta / Lieber’s",
-    "name": "Barbecueringen – gezinsverpakking",
+    "brand": "Lieber's",
+    "name": "Barbecueringen gezinsverpakking",
     "variant": "10 × 15 g · 150 g",
     "category": "Snacks",
     "ean": "043427014908",
@@ -193,7 +193,7 @@ window.KPI_PRODUCTS = [
     ],
     "imageOriginal": "images/found-6.png",
     "imageRetouched": true,
-    "englishName": "Barbeque Rings Family Pack"
+    "englishName": ""
   },
   {
     "id": 7,
