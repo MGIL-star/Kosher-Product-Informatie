@@ -60,7 +60,7 @@ window.KPI_PRODUCTS = [
     "id": 3,
     "brand": "Liel",
     "name": "Briochebroodjes met Chocoladestukjes",
-    "variant": "280 g · 8 stuks",
+    "variant": "280 g",
     "category": "Brood & brioche",
     "ean": "3662444003329",
     "ingredients": "Tarwebloem, chocoladestukjes (9,5%) (suiker, cacaomassa, cacaoboter, natuurlijk vanillearoma, emulgator: lecithinen uit koolzaad en zonnebloem), vers heel ei, suiker, invertsuikerstroop, plantaardige olie en vet (palm en koolzaad), natuurlijke aroma’s (bevatten alcohol), gist, tarwegluten, zout, emulgatoren (E471, E472e), aroma, verdikkingsmiddel (cellulosegom), gedeactiveerde gist, kleurstof (bètacaroteen).",
@@ -82,14 +82,14 @@ window.KPI_PRODUCTS = [
       1
     ],
     "productInfo": {
-      "Kenmerken": "Mezonot"
+      "Kenmerken": "8 stuks · Mezonot"
     }
   },
   {
     "id": 5,
     "brand": "Liel",
     "name": "Croissants",
-    "variant": "320 g · 8 stuks",
+    "variant": "320 g",
     "category": "Brood & brioche",
     "ean": "3662444003305",
     "ingredients": "Tarwebloem, plantaardige olie en vet (palm en koolzaad), suiker, water, gist, dextrose, tarwegluten, zout, natuurlijk aroma (bevat alcohol), vers heel ei, emulgatoren (E471, E472e), gedeactiveerde gist, conserveermiddel (calciumpropionaat), verdikkingsmiddel (cellulosegom), kleurstof (bètacaroteen).",
@@ -111,14 +111,14 @@ window.KPI_PRODUCTS = [
       1
     ],
     "productInfo": {
-      "Kenmerken": "Mezonot"
+      "Kenmerken": "8 stuks · Mezonot"
     }
   },
   {
     "id": 4,
     "brand": "Liel",
     "name": "Briochebroodjes Naturel",
-    "variant": "280 g · 8 stuks",
+    "variant": "280 g",
     "category": "Brood & brioche",
     "ean": "3662444003336",
     "ingredients": "Tarwebloem, vers heel ei, plantaardige olie en vet (palm en koolzaad), suiker, invertsuikerstroop, zout, tarwegluten, gist, natuurlijk aroma (bevat alcohol), emulgatoren (E471, E472e), aroma, conserveermiddel (calciumpropionaat), gedeactiveerde gist, verdikkingsmiddel (cellulosegom), kleurstof (bètacaroteen).",
@@ -140,7 +140,7 @@ window.KPI_PRODUCTS = [
       1
     ],
     "productInfo": {
-      "Kenmerken": "Mezonot"
+      "Kenmerken": "8 stuks · Mezonot"
     }
   },
   {
@@ -205,7 +205,7 @@ window.KPI_PRODUCTS = [
     "id": 8,
     "brand": "Liel",
     "name": "Wit Sandwichbrood",
-    "variant": "550 g · 14 sneetjes",
+    "variant": "550 g",
     "category": "Brood & brioche",
     "ean": "3662444005576",
     "ingredients": "Tarwebloem (63%), water, suiker, koolzaadolie, gist, natuurlijk aroma (bevat alcohol), zout, emulgator: E471, tuinbonenmeel, conserveermiddel: E282, tarwegluten, meelverbeteraar: E300.",
@@ -229,7 +229,7 @@ window.KPI_PRODUCTS = [
       1
     ],
     "productInfo": {
-      "Kenmerken": "Mezonot"
+      "Kenmerken": "14 sneetjes · Mezonot"
     }
   },
   {
