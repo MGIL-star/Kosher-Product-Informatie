@@ -1558,7 +1558,7 @@ window.KPI_PRODUCTS = [
       "Melk"
     ],
     "mayContain": "",
-    "kosher": "Chalav Yisrael · KLP",
+    "kosher": "Rabbijn Yermian Cohen · Chalav Yisrael · KLP",
     "category": "Melk en koffie",
     "image": "images/product-39-online.jpg",
     "imageNeedsCheck": false,
@@ -1589,9 +1589,8 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/13.jpg",
       "C:/Users/ellag/OneDrive/Desktop/thee/14.jpg"
     ],
-    "kosherSource": "Etiketfoto gebruiker: thee/13.jpg, thee/14.jpg",
-    "kosherForPassover": true,
-    "kosherReview": "KASHER LEPESAH HALAV ISRAEL leesbaar op de verpakking. Naam van de toezichthouder deels afgesneden; nog niet volledig bevestigd."
+    "kosherSource": "Chalav Yisrael en KLP bevestigd op aangeleverde melkverpakking; gebruiker noemt op 9 oktober 2026 de toezichthouder Yermian Cohen.",
+    "kosherForPassover": true
   },
   {
     "id": 40,
