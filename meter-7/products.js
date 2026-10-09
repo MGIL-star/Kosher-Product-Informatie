@@ -1454,7 +1454,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Sesam en selderij.",
-    "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve) · Bishul Yisrael",
+    "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve)",
     "category": "Maaltijdbekers",
     "image": "images/product-37-straight.png",
     "imageNeedsCheck": false,
@@ -1508,7 +1508,7 @@ window.KPI_PRODUCTS = [
       "Selderij"
     ],
     "mayContain": "Sesam.",
-    "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve) · Bishul Yisrael",
+    "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve)",
     "category": "Maaltijdbekers",
     "image": "images/product-38-straight.png",
     "imageNeedsCheck": false,

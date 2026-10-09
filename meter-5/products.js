@@ -658,8 +658,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
-      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
-      "Bishul Yisrael": "Ja"
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -701,8 +700,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
-      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
-      "Bishul Yisrael": "Ja"
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -745,8 +743,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
-      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
-      "Bishul Yisrael": "Ja"
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -790,8 +787,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
-      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren.",
-      "Bishul Yisrael": "Ja"
+      "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -865,7 +861,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "image": "images/30.png",
     "productInfo": {
-      "Herkomst": "Tunesië",
       "Inhoud": "200 g",
       "Uitlekgewicht": "200 g"
     },
@@ -944,8 +939,7 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/32.png",
     "productInfo": {
-      "Inhoud": "200 g",
-      "Herkomst": "Tunesië"
+      "Inhoud": "200 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -1438,8 +1432,6 @@ window.KPI_PRODUCTS = [
     "kosher": "CRC Hisachdus Harabonim · OU (Parve)",
     "image": "images/elisha-original.jpg",
     "productInfo": {
-      "Herkomst": "Ecuador",
-      "Bishul Yisrael": "Ja",
       "Inhoud": "145 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1475,9 +1467,7 @@ window.KPI_PRODUCTS = [
     "kosher": "CRC Hisachdus Harabonim · OU (Parve) (KLP)",
     "image": "images/42-online.jpg",
     "productInfo": {
-      "Inhoud": "145 g",
-      "Herkomst": "Ecuador",
-      "Bishul Yisrael": "Ja"
+      "Inhoud": "145 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -1509,8 +1499,7 @@ window.KPI_PRODUCTS = [
     "kosher": "KF Federation of Synagogues, Londen",
     "image": "images/43-straight.png",
     "productInfo": {
-      "Inhoud": "125 g",
-      "Herkomst": "Marokko"
+      "Inhoud": "125 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,

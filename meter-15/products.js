@@ -53,7 +53,6 @@ window.KPI_PRODUCTS = [
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
     "productInfo": {
-      "Herkomst": "Israël",
       "Etiketvermelding": "Bevat een genetisch gemodificeerd voedselingrediënt."
     }
   },

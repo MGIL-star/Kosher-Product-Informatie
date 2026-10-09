@@ -1120,7 +1120,6 @@ window.KPI_PRODUCTS = [
       "Inhoud": "55 g",
       "Bewaren": "Koel en droog bewaren.",
       "Kenmerken": "Vegan. Glutenvrij. Non-GMO Project Verified.",
-      "Herkomst": "Israël",
       "Producent": "Tmi Products from Nature Ltd., 20 Haamal St., Ashkelon 7878520, Israël"
     },
     "warning": "Kan stukjes notendop bevatten. Jonge kinderen alleen onder toezicht van een volwassene laten eten.",

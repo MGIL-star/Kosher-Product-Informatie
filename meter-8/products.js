@@ -14,7 +14,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU",
       "Let op": "Onze bloemenhoning is puur en natuurlijk. Daardoor kan de kleur (licht) afwijken van wat je ziet op de afbeelding. Dat kan komen door het weer en door kristallisatie. Is de honing gekristalliseerd? Verwarm de dichte pot in een pan warm water (tot 40 graden) en laat 15 tot 20 minuten staan.",
       "Geproduceerd voor": "Tov Ta’am Granot"
     },
@@ -45,7 +44,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU",
       "Geproduceerd voor": "Tov Ta’am Granot"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -75,7 +73,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU",
       "Geproduceerd voor": "Tov Ta’am Granot"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -105,7 +102,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU",
       "Geproduceerd voor": "Tov Ta’am Granot"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -135,7 +131,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU",
       "Geproduceerd voor": "Tov Ta’am Granot"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -165,7 +160,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
-      "Herkomst": "EU",
       "Geproduceerd voor": "Tov Ta’am Granot"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",

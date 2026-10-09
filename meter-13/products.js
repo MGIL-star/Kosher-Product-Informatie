@@ -1450,7 +1450,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Maïsbloem (69%), zonnebloemolie, maltodextrine, zout, ui, dextrose, suiker, gistextract, chili (0,1%), paprika, natuurlijke aroma’s, zuurteregelaars (citroenzuur, calciumlactaat).",
     "allergens": [],
     "mayContain": "Soja.",
-    "kosher": "Rabbijn Pinchas Avraham Meyers (Parve) · Bishul Yisrael",
+    "kosher": "Rabbijn Pinchas Avraham Meyers (Parve)",
     "image": "images/product-94-cleaned.png",
     "sourcePhotos": [
       "94.jpg",
@@ -1493,7 +1493,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Maïsbloem (67%), zonnebloemolie, suiker, zout, tomatenpoeder (1,2%), aroma’s, maltodextrine, kruiden, voedingszuur (citroenzuur), kleurstof (paprika-extract), zetmeel.",
     "allergens": [],
     "mayContain": "Soja.",
-    "kosher": "Rabbijn Pinchas Avraham Meyers (Parve) · Bishul Yisrael",
+    "kosher": "Rabbijn Pinchas Avraham Meyers (Parve)",
     "image": "images/product-97-cleaned.png",
     "sourcePhotos": [
       "97.jpg",
