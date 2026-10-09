@@ -2348,7 +2348,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290011154318",
     "ingredients": "100% dadels.",
     "allergens": [],
-    "kosher": null,
+    "kosher": "Badatz Edah HaChareidis · KLP (Pesach 5786)",
     "image": "images/silan-natural.jpg",
     "productInfo": {
       "Inhoud": "900 g",
@@ -2356,7 +2356,7 @@ window.KPI_PRODUCTS = [
       "Kenmerken": "Geen toegevoegde suiker, geen kleurstoffen, geen conserveermiddelen",
       "Producent": "Gali Flavor, Kiryat Shmona, Israël"
     },
-    "reviewNotes": "Schapkaart uitsluitend gebruikt ter bevestiging van barcode 7290011154318. Gebruiker koppelt dit kaartje expliciet aan Silan 100% dadels zonder toegevoegde suiker. Overige bestaande gegevens behouden; geen keurmerk van de gesuikerde variant overgenomen. Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor deze 100%-variant.",
+    "reviewNotes": "Schapkaart uitsluitend gebruikt ter bevestiging van barcode 7290011154318. Gebruiker koppelt dit kaartje expliciet aan Silan 100% dadels zonder toegevoegde suiker. Overige bestaande gegevens behouden. Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor deze 100%-variant. Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als de variant met toegevoegde suiker; keurmerk inclusief bestaande Pesach-jaaraanduiding overgenomen.",
     "imageSource": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-100-צנצנת-600x600.jpg",
     "imageBounds": [
       0.25833333333333336,
@@ -2381,7 +2381,10 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "allergensConfirmedAbsent": true,
-    "allergenSource": "Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor Ta’amei Haglil Silan 100% Dadels, 900 g."
+    "allergenSource": "Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor Ta’amei Haglil Silan 100% Dadels, 900 g.",
+    "kosherForPassover": true,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als de Silan met toegevoegde suiker: Badatz Edah HaChareidis, KLP (Pesach 5786).",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 36,
