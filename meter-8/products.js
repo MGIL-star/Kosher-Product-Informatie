@@ -635,7 +635,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "340 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
-      "Voedingsvoorkeur": "Vegan",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
     "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
@@ -2309,9 +2308,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "450 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
-      "Voedingsvoorkeur": "Vegan",
-      "Producent": "Tzur Farm, Ein Yahav",
-      "Distributeur": "Mehadrin Tnuport Export",
       "Kenmerken": "Zonder toegevoegde suiker. Vegan."
     },
     "reviewNotes": "Gecontroleerd op aangeleverde foto’s, 9 oktober 2026. Bestaande productafbeelding behouden. Volledige ingrediëntenlijst gelezen; geen declaratieplichtige allergenen daarin vermeld. Geen aanvullende sporenwaarschuwing afgeleid.",
@@ -2347,8 +2343,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "900 g",
       "Samenstelling": "100% dadels, zonder toegevoegde suiker",
-      "Kenmerken": "Geen toegevoegde suiker, geen kleurstoffen, geen conserveermiddelen",
-      "Producent": "Gali Flavor, Kiryat Shmona, Israël"
+      "Kenmerken": "Geen toegevoegde suiker, geen kleurstoffen, geen conserveermiddelen"
     },
     "reviewNotes": "Schapkaart uitsluitend gebruikt ter bevestiging van barcode 7290011154318. Gebruiker koppelt dit kaartje expliciet aan Silan 100% dadels zonder toegevoegde suiker. Overige bestaande gegevens behouden. Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor deze 100%-variant. Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als de variant met toegevoegde suiker; keurmerk inclusief bestaande Pesach-jaaraanduiding overgenomen.",
     "imageSource": "https://t-hagalil.co.il/wp-content/uploads/2024/03/סילאן-100-צנצנת-600x600.jpg",

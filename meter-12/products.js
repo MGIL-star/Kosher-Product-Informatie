@@ -1119,8 +1119,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "55 g",
       "Bewaren": "Koel en droog bewaren.",
-      "Kenmerken": "Vegan. Glutenvrij. Non-GMO Project Verified.",
-      "Producent": "Tmi Products from Nature Ltd., 20 Haamal St., Ashkelon 7878520, Israël"
+      "Kenmerken": "Vegan. Glutenvrij. Non-GMO Project Verified."
     },
     "warning": "Kan stukjes notendop bevatten. Jonge kinderen alleen onder toezicht van een volwassene laten eten.",
     "searchName": "Bites dadel, cashew & pistache",
@@ -2725,8 +2724,7 @@ window.KPI_PRODUCTS = [
       "134.jpg"
     ],
     "productInfo": {
-      "Inhoud": "40 g",
-      "Geproduceerd voor": "Elisha Food BV, Lange Leemstraat 279, B-2018 Antwerpen"
+      "Inhoud": "40 g"
     },
     "ingredientsIncomplete": false,
     "searchName": "Marsepein 50/50 met chocolade",
