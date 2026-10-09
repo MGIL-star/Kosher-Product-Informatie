@@ -366,7 +366,7 @@ window.KPI_PRODUCTS = [
     "variant": "284 g",
     "ean": "0811962010255",
     "ingredients": "Bessenmix (51%: aardbeien 17%, zwarte bessen 17%, kersen 17%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "OU",
     "image": "images/aunt-67018.jpg",
     "imageBounds": [
@@ -379,7 +379,7 @@ window.KPI_PRODUCTS = [
       "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
     },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid. Barcode vervangen door 0811962010255 volgens gebruikersbevestiging op 9 oktober 2026; eerdere barcodeverwijzing verwijderd.",
+    "reviewNotes": "Ingrediënten volgens leveranciersinformatie voor de 284 g-variant. Geen declaratieplichtige allergenen vermeld in deze ingrediëntenlijst; allergenenveld daarop ingevuld op 9 oktober 2026. Geen sporenwaarschuwing bekend uit de beschikbare informatie; afwezigheid van sporen niet bevestigd. Barcode 0811962010255 door gebruiker bevestigd op 9 oktober 2026.",
     "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4848455759.jpg",
     "sources": [
       {
@@ -389,7 +389,8 @@ window.KPI_PRODUCTS = [
     ],
     "barcodeNeedsCheck": false,
     "barcodeSource": "Gebruiker bevestigt op 9 oktober 2026 barcode 0811962010255 voor Berry Mix / Bessenmix Fruitpasta.",
-    "barcodeChecked": "2026-10-09"
+    "barcodeChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de beschikbare volledige ingrediëntenlijst volgens leveranciersinformatie. Geen bevestiging dat het product vrij is van allergenen of sporen."
   },
   {
     "id": 57,
