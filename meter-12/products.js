@@ -2185,7 +2185,6 @@ window.KPI_PRODUCTS = [
       "Inhoud": "100 g",
       "Samenstelling": "Melkchocolade (54%), biscuit (13%) en notencrème (33%). Minimaal 30% cacaobestanddelen in de melkchocolade."
     },
-    "allergenNote": "Volledige zichtbare ingrediënten- en allergenenvermelding overgenomen van het oorspronkelijke Hebreeuwse etiket. De samenstelling van melkchocolade en biscuit is op dat etiket niet verder uitgesplitst.",
     "ingredientsIncomplete": false,
     "searchName": "Kranch biscuit & hazelnootcrème",
     "sourceUrl": "https://snackfood.delivery/product/elite-crunch-chocolate-bar-biscuit-filled-with-hazelnut-cream-100-grams-from-israel-kosher-certified/",
