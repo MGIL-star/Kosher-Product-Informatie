@@ -79,7 +79,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290018165010",
     "image": "images/barkan-gold-edition-gewurztraminer.png",
     "isWine": true,
@@ -137,7 +137,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000025001",
     "image": "images/barkan-classic-emerald-riesling-colombard.jpg",
     "isWine": true,
@@ -194,7 +194,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023823",
     "image": "images/barkan-classic-sauvignon-blanc.jpg",
     "isWine": true,
@@ -289,7 +289,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023816",
     "image": "images/barkan-classic-emerald-riesling.jpg",
     "isWine": true,
@@ -347,7 +347,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290012576614",
     "image": "images/barkan-premieur-emerald-riesling-colombard.png",
     "isWine": true,
@@ -409,7 +409,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023830",
     "image": "images/barkan-classic-rose.jpg",
     "isWine": true,
@@ -467,7 +467,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752027516",
     "image": "images/zmora-emerald-riesling-en-colombard.png",
     "isWine": true,
@@ -528,7 +528,7 @@ window.KPI_PRODUCTS = [
     "year": null,
     "volume": "750 ml",
     "ingredients": "Zwaveldioxide (sulfieten).",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 30,
     "name": "Moscato",
@@ -589,7 +589,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290019220725",
     "image": "images/barkan-gold-edition-chardonnay.png",
     "isWine": true,
@@ -666,7 +666,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752006115",
     "image": "images/barkan-classic-chardonnay.jpg",
     "isWine": true,
@@ -723,7 +723,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752008164",
     "image": "images/ben-ami-3.jpg",
     "isWine": true,
@@ -784,7 +784,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "7290000521015",
     "image": "images/segal-droge-witte-wijn.png",
     "isWine": true,
@@ -849,7 +849,7 @@ window.KPI_PRODUCTS = [
     "year": null,
     "volume": "750 ml",
     "ingredients": "Zwaveldioxide (sulfieten).",
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 29,
     "name": "Premieur Cabernet Sauvignon & Malbec",
@@ -900,7 +900,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752008867",
     "image": "images/barkan-classic-shiraz.jpg",
     "isWine": true,
@@ -958,7 +958,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend · KLP",
+    "kosher": "Hechsher niet bekend (KLP)",
     "ean": "087752013663",
     "image": "images/barkan-classic-merlot-argaman.png",
     "isWine": true,
@@ -1020,7 +1020,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752029305",
     "image": "images/barkan-classic-argaman.jpg",
     "isWine": true,
@@ -1077,7 +1077,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752016909",
     "image": "images/barkan-classic-malbec.jpg",
     "isWine": true,
@@ -1134,7 +1134,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752006108",
     "image": "images/barkan-classic-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1196,7 +1196,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752011102",
     "image": "images/barkan-classic-pinot-noir.png",
     "isWine": true,
@@ -1258,7 +1258,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023915",
     "image": "images/barkan-classic-cabernet-mini.png",
     "isWine": true,
@@ -1321,7 +1321,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000521008",
     "image": "images/segal-droge-rode-wijn.jpg",
     "isWine": true,
@@ -1392,7 +1392,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752008157",
     "image": "images/ben-ami-1.jpg",
     "isWine": true,
@@ -1452,7 +1452,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752008171",
     "image": "images/ben-ami-2.jpg",
     "isWine": true,
@@ -1510,7 +1510,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752013236",
     "image": "images/zmora-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1582,7 +1582,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël · KLP",
+    "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël (KLP)",
     "ean": "7290000024202",
     "image": "images/barkan-reserve-cabernet-sauvignon.jpg",
     "isWine": true,
@@ -1654,7 +1654,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000024264",
     "image": "images/barkan-reserve-merlot.jpg",
     "isWine": true,
@@ -1731,7 +1731,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752030622",
     "image": "images/barkan-platinum-cabernet-sauvignon-zonder-schaduw.png",
     "isWine": true,
@@ -1788,7 +1788,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "9310489001773",
     "image": "images/7th-day-sacramental-kinor.jpg",
     "isWine": true,
@@ -1881,7 +1881,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem · KLP",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "7290000024523",
     "image": "images/druivensap.jpg",
     "isWine": false,

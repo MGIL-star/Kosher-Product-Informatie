@@ -236,7 +236,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Water, geconcentreerd granaatappelsap, witte suiker, citroenzuur (E330).",
     "allergens": [],
     "category": "Sauzen & Dressings",
-    "kosher": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP",
+    "kosher": "Badatz Beit Yosef; Rabbinaat Petach Tikva (KLP)",
     "kosherOriginalLabel": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP (alleen voor wie kitniyot eet)",
     "image": "images/7-supplied.png",
     "productInfo": {
@@ -826,7 +826,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Gedroogde hete peper, zonnebloemolie, zout, knoflook, koriander, azijn, komijn.",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/29.png",
     "productInfo": {
@@ -862,7 +862,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Mini-citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "image": "images/30.png",
     "productInfo": {
       "Herkomst": "Tunesië",
@@ -902,7 +902,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "image": "images/31-supplied.png",
     "productInfo": {
       "Inhoud": "150 g",
@@ -940,7 +940,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Knoflook (90%), zonnebloemolie (10%).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/32.png",
     "productInfo": {
@@ -982,7 +982,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Badatz Beit Yosef · KLP",
+    "kosher": "Badatz Beit Yosef (KLP)",
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/33-clean.png",
     "productInfo": {
@@ -1023,7 +1023,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/34-straight.png",
     "productInfo": {
@@ -1059,7 +1059,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Opperrabbinaat van Tunesië · KLP · Bishul Beit Yosef",
+    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/37-supplied.png",
     "productInfo": {
@@ -1131,7 +1131,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Badatz Beit Yosef · KLP",
+    "kosher": "Badatz Beit Yosef (KLP)",
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/36-straight.png",
     "productInfo": {
@@ -1170,7 +1170,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "VIS"
     ],
-    "kosher": "Badatz Beit Yosef · KLP",
+    "kosher": "Badatz Beit Yosef (KLP)",
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (zonder kitniyot)",
     "image": "images/49-straight.png",
     "imageEdited": true,
@@ -1472,13 +1472,12 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "CRC Hisachdus Harabonim · OU (Parve) · KLP",
+    "kosher": "CRC Hisachdus Harabonim · OU (Parve) (KLP)",
     "image": "images/42-online.jpg",
     "productInfo": {
       "Inhoud": "145 g",
       "Herkomst": "Ecuador",
-      "Bishul Yisrael": "Ja",
-      "KLP": "Ja"
+      "Bishul Yisrael": "Ja"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,

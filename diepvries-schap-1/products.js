@@ -44,7 +44,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "allergenNote": "",
-    "kosher": "OU en CRC (Central Rabbinical Congress). De getoonde verpakking vermeldt ook KLP.",
+    "kosher": "OU en CRC (Central Rabbinical Congress) (KLP)",
     "note": "",
     "image": "./images/03-tilapiafilets.jpg",
     "ean": "732973000120"

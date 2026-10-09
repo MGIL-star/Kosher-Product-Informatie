@@ -628,7 +628,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Suiker, gemodificeerd tapiocazetmeel, gealkaliseerd cacaopoeder (12,5%), zuurteregelaars (E450, E263, E339).",
     "allergens": [],
     "mayContain": "",
-    "kosher": "OU-P (Parve; KLP)",
+    "kosher": "OU-P (Parve) (KLP)",
     "image": "images/product-35-edited.png",
     "sourcePhotos": [
       "35.jpg",
@@ -1457,7 +1457,7 @@ window.KPI_PRODUCTS = [
       "Amandelen"
     ],
     "mayContain": "Hazelnoten.",
-    "kosher": "OU-P (Parve; KLP zonder lecithine)",
+    "kosher": "OU-P (Parve; zonder lecithine) (KLP)",
     "image": "images/product-orange-noir-user.png",
     "sourcePhotos": [],
     "productInfo": {

@@ -111,7 +111,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "",
     "warning": "",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [],
     "image": "./images/kettle-original-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIKC-LIEBERS_KETTLE_CHIPS_ORIGINAL_140G_605dd388-572a-412a-87d1-ef7f869ee67b.jpg?v=1499238193",
@@ -143,7 +143,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "",
     "warning": "",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://www.shipt.com/shop/products/6e76297a-9263-1ce9-9314-81b5085e9dfc"
     ],
@@ -211,7 +211,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "",
     "warning": "E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [],
     "image": "./images/cotton-candy-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427001878.jpg?v=1764269797",
@@ -572,7 +572,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "",
     "warning": "Na opening gekoeld bewaren. E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [],
     "image": "images/product-18.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427022224.jpg?v=1765737132",
@@ -603,7 +603,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "",
     "warning": "De Nederlandse sticker wijkt af van de originele ingrediëntenlijst. Mosterd staat op de sticker en is daarom opgenomen als allergeen. Laat bij een allergie de juiste receptuur bevestigen. Na opening gekoeld bewaren.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [],
     "image": "images/honey-bbq-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/honey_bbq.jpg?v=1500001873",
@@ -634,7 +634,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "mayContain": "",
     "warning": "De online bron vermeldt geen controleerbare barcode. Volg voor samenstelling en allergenen de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://foodisgood.com/product/liebers-sriracha-hot-chili-sauce/"
     ],
@@ -768,7 +768,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "",
     "warning": "",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://www.walmart.com/ip/1525921759"
     ],
@@ -832,7 +832,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "mayContain": "",
     "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://foodisgood.com/product/liebers-kosher-dill-gherkins/"
     ],
@@ -894,7 +894,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "mayContain": "",
     "warning": "Ingrediënten uit de online productvermelding voor 23 oz. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://www.instacart.ca/store/products/41173514-lieber-s-passata-crushed-tomatoes-23-oz",
       "https://www.instacart.com/products/43343735-lieber-s-italian-crushed-tomatoes-passata-23-oz"
@@ -926,7 +926,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "mayContain": "",
     "warning": "Online zijn verschillende recepturen gevonden (onder meer met olijfolie of katoenzaadolie). De juiste samenstelling voor deze pot is nog niet bevestigd.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://www.instacart.ca/products/1488793-lieber-s-passover-tomato-basil-sauce-26-oz",
       "https://www.kroger.com/p/lieber-s-tomato-basil-pasta-sauce/0004342722503"
@@ -958,7 +958,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "mayContain": "",
     "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://www.heb.com/product-detail/lieber-s-classic-marinara-sauce/2886501"
     ],
@@ -989,7 +989,7 @@ window.KPI_PRODUCTS = [
     "allergens": null,
     "mayContain": "",
     "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (Parve) · KLP volgens verpakking",
+    "kosher": "Rabbi M. Weissmandl (Parve) (KLP)",
     "sources": [
       "https://www.instacart.ca/products/1488791-liebers-pizza-sauce-original-26-oz"
     ],
