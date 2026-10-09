@@ -398,10 +398,10 @@ window.KPI_PRODUCTS = [
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
-    "ean": null,
-    "ingredients": "Aardbei (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
-    "allergens": null,
-    "kosher": "OU",
+    "ean": "7290012668296",
+    "ingredients": "Aardbei (51%), vruchtensapconcentraat (ananas, appel, peer), pectine (geleermiddel), citroensapconcentraat.",
+    "allergens": [],
+    "kosher": "OU (Parve)",
     "image": "images/aunt-67017.png",
     "imageBounds": [
       0.33511,
@@ -411,16 +411,32 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Inhoud": "284 g",
-      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
+      "Omschrijving": "Fruitpasta zonder toegevoegde suiker.",
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid. Opgegeven barcode 7290012668616 hoort bij Bessenmix; aardbeienbarcode leeg tot bevestiging.",
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67017%20strawberry%20klein%20formaat-01KKEATHSMATDDGJQPXHGE3M79.png",
     "sources": [
       {
         "label": "Passende variant en productfoto",
         "url": "https://www.israelwinkel.nl/producten/fruitspread"
       }
-    ]
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/23.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/24.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/25.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/24.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan deeltjes van pitten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/24.jpg",
+    "kosherChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/25.jpg",
+    "barcodeChecked": "2026-10-09"
   },
   {
     "id": 56,
@@ -428,10 +444,10 @@ window.KPI_PRODUCTS = [
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
-    "ean": "7290012668296",
-    "ingredients": "Perzik (51%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
-    "allergens": null,
-    "kosher": "OU",
+    "ean": null,
+    "ingredients": "Perzik (51%), vruchtensapconcentraat (ananas, appel, peer), pectine (geleermiddel), citroensapconcentraat.",
+    "allergens": [],
+    "kosher": "OU (Parve)",
     "image": "images/aunt-67016.png",
     "imageBounds": [
       0.36064,
@@ -441,16 +457,30 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Inhoud": "284 g",
-      "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
+      "Omschrijving": "Fruitpasta zonder toegevoegde suiker.",
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten voorlopig volgens IPC voor exact dezelfde 284 g variant; fysiek etiket blijft leidend. Geen ontbrekende sporenwaarschuwing afgeleid.",
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67016%20perzik%20jam%20klein%20formaat-01KKEATHSMXP2KBX21V03086B3.png",
     "sources": [
       {
         "label": "Passende variant en productfoto",
         "url": "https://www.israelwinkel.nl/producten/fruitspread"
       }
-    ]
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/28.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/29.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/29.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan deeltjes van pitten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/29.jpg",
+    "kosherChecked": "2026-10-09",
+    "barcodeNeedsCheck": true,
+    "barcodeSource": "Eerdere barcode 7290012668296 hoort volgens foto 25.jpg bij Aardbeien Fruitpasta; geen barcode zichtbaar op de nieuwe perzikfoto’s."
   },
   {
     "id": 55,
@@ -459,9 +489,9 @@ window.KPI_PRODUCTS = [
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
     "ean": "7290018859179",
-    "ingredients": "Aardbeien (50%), suiker, pectine, citroenzuur.",
-    "allergens": null,
-    "kosher": "OU",
+    "ingredients": "Aardbeien (50%), suiker, pectine (geleermiddel), citroenzuur (zuurteregelaar).",
+    "allergens": [],
+    "kosher": "OU (Parve) · KLP",
     "image": "images/aunt-strawberry-340g.png",
     "imageBounds": [
       0.23684,
@@ -471,10 +501,22 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
+    "imageEdited": true,
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/30.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/31.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/31.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan deeltjes van pitten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/31.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 54,
@@ -483,9 +525,9 @@ window.KPI_PRODUCTS = [
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
     "ean": "7290018859216",
-    "ingredients": "Kers (50%), suiker, pectine, citroenzuur.",
-    "allergens": null,
-    "kosher": "OU",
+    "ingredients": "Kers (50%), suiker, pectine (geleermiddel), citroenzuur (zuurteregelaar).",
+    "allergens": [],
+    "kosher": "OU (Parve)",
     "image": "images/aunt-cherry-340g.png",
     "imageBounds": [
       0.23684,
@@ -495,10 +537,21 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
+    "imageEdited": true,
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/32.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/33.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/33.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan deeltjes van pitten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/33.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 53,
@@ -507,9 +560,9 @@ window.KPI_PRODUCTS = [
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
     "ean": "7290018859513",
-    "ingredients": "Vijg (50%), suiker, citroenzuur, pectine, geconcentreerd vlierbessensap en zwartewortelsap.",
-    "allergens": null,
-    "kosher": "OU",
+    "ingredients": "Vijg (50%), suiker, citroenzuur (zuurteregelaar), pectine (geleermiddel), geconcentreerd vlierbessen- en zwartewortelsap.",
+    "allergens": [],
+    "kosher": "OU (Parve) · KLP",
     "image": "images/aunt-fig-340g.png",
     "imageBounds": [
       0.23684,
@@ -519,10 +572,22 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
+    "imageEdited": true,
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/34.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/35.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/35.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan pitten van de vruchten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/35.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 52,
@@ -531,9 +596,9 @@ window.KPI_PRODUCTS = [
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
     "ean": "7290018859193",
-    "ingredients": "Appel (50%), suiker, kaneel (0,1%), citroenzuur, pectine, ascorbinezuur.",
-    "allergens": null,
-    "kosher": "OU",
+    "ingredients": "Appels (50%), suiker, kaneel (0,1%), citroenzuur (zuurteregelaar), pectine (geleermiddel), ascorbinezuur (antioxidant).",
+    "allergens": [],
+    "kosher": "OU (Parve) · KLP",
     "image": "images/aunt-apple-340g.png",
     "imageBounds": [
       0.23445,
@@ -543,10 +608,22 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Inhoud": "340 g",
-      "Bewaren": "Na opening gekoeld bewaren."
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Ingrediënten teruggevonden in eerdere etikettranscriptie bij de gebruikersfoto’s in gesprek Koosjere productdatabase opzetten, batches 3e862c98 en e26c731a. Foto is op verzoek bewerkt naar 340 g; geen bron voor ingrediënten of keurmerken. Allergenenstatus niet afgeleid uit ontbrekende waarschuwing.",
-    "imageEdited": true
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
+    "imageEdited": true,
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/26.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/27.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/27.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan deeltjes van pitten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/27.jpg",
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 59,
@@ -556,8 +633,8 @@ window.KPI_PRODUCTS = [
     "variant": "340 g",
     "ean": "7290018859025",
     "ingredients": "100% dadels.",
-    "allergens": null,
-    "kosher": "OU",
+    "allergens": [],
+    "kosher": "OU (Parve)",
     "image": "images/aunt-dadelstroop.png",
     "imageBounds": [
       0.345,
@@ -568,15 +645,30 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "340 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
-      "Voedingsvoorkeur": "Vegan"
+      "Voedingsvoorkeur": "Vegan",
+      "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
-    "reviewNotes": "Teruggevonden in eerdere etikettranscriptie 56c3a6ee, gesprek Koosjere productdatabase opzetten. Foto passende 340 g IPC-variant.",
+    "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
     "sources": [
       {
         "label": "Productfoto",
         "url": "https://www.israelwinkel.nl/producten/dadelstroop"
       }
-    ]
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/36.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/37.jpg"
+    ],
+    "ingredientsPartial": false,
+    "ingredientsSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/37.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de volledige ingrediëntenlijst op het aangeleverde etiket.",
+    "warning": "Kan deeltjes van pitten bevatten.",
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/37.jpg",
+    "kosherChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/37.jpg",
+    "barcodeChecked": "2026-10-09"
   },
   {
     "id": 37,
@@ -584,7 +676,7 @@ window.KPI_PRODUCTS = [
     "brand": "Hatov",
     "category": "Spreads & Pasta’s",
     "variant": "400 g",
-    "ean": "031513477268",
+    "ean": "0131133477268",
     "ingredients": "Suiker, plantaardige olie (palmolie en gedeeltelijk gehydrogeneerde palmolie), magere cacao, sojalecithine, zout, vanilline en aroma.",
     "allergens": [
       "SOJA"
@@ -602,13 +694,20 @@ window.KPI_PRODUCTS = [
         "url": "https://www.justkosher.co.uk/Product/Chocolate_Spread/465/"
       }
     ],
-    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen.",
+    "reviewNotes": "Etiketgegevens uit gebruikersopgave; geen fysieke foto bij deze batch beschikbaar. Online receptuur en keurmerken niet overgenomen. Nieuwe fysieke foto’s bevestigen 400 g, OU en Parve. Barcode gecorrigeerd naar 0131133477268 volgens 39.jpg, 9 oktober 2026.",
     "imageBounds": [
       0.125,
       0.055,
       0.87,
       0.95
-    ]
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/38.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/39.jpg"
+    ],
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/39.jpg",
+    "barcodeChecked": "2026-10-09"
   },
   {
     "id": 38,
@@ -783,7 +882,7 @@ window.KPI_PRODUCTS = [
       "WALNOTEN",
       "AMANDELEN"
     ],
-    "kosher": null,
+    "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve) · KLP (zonder kitniyot)",
     "image": "images/beit-yitzhak-harosset-sharp.png",
     "imageBounds": [
       0.17943,
@@ -794,10 +893,17 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "250 g"
     },
-    "reviewNotes": "Gebruiker bevestigt Beit Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Geen hechsher zichtbaar op deze foto. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
+    "reviewNotes": "Gebruiker bevestigt Beit Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Hechser en KLP zonder kitniyot bevestigd op aanvullende foto 41.jpg, 9 oktober 2026. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
     "imageEdited": true,
     "mayContain": "Paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten.",
-    "warning": "Kan stukjes pitten bevatten."
+    "warning": "Kan stukjes pitten bevatten.",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/40.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/41.jpg"
+    ],
+    "kosherForPassover": true,
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/41.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 51,
@@ -810,7 +916,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIET"
     ],
-    "kosher": null,
+    "kosher": "Rabbinaat Zichron Yaakov (Parve) · KLP",
     "image": "images/aunt-charoset-sharp.png",
     "imageBounds": [
       0.22249,
@@ -821,7 +927,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "240 g"
     },
-    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten overgenomen van Israelwinkel-productpagina voor 240 g; percentages 53% en 64% weggelaten omdat de bron de samenstelling van dadelpasta niet duidelijk afbakent. Geen aanvullende ingrediënten verondersteld. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron.",
+    "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten overgenomen van Israelwinkel-productpagina voor 240 g; percentages 53% en 64% weggelaten omdat de bron de samenstelling van dadelpasta niet duidelijk afbakent. Geen aanvullende ingrediënten verondersteld. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron. Hechser en KLP bevestigd op aanvullende foto 43.jpg, 9 oktober 2026.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67020%20nwe%20charoset%20najaar%202026%20klein%20formaat-01M2QA36QVKZS08MAACNHPDJEF.png",
     "sources": [
       {
@@ -831,7 +937,14 @@ window.KPI_PRODUCTS = [
     ],
     "allergenNote": "Kan soja, sesamzaad, walnoten en hazelnoten bevatten.",
     "warning": "Kan stukjes vruchtenpitten bevatten.",
-    "imageEdited": true
+    "imageEdited": true,
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/42.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/43.jpg"
+    ],
+    "kosherForPassover": true,
+    "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/43.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 1,
@@ -1677,7 +1790,8 @@ window.KPI_PRODUCTS = [
         "label": "Productfoto",
         "url": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4245830371.jpg"
       }
-    ]
+    ],
+    "warning": "Bevat pitten."
   },
   {
     "id": 33,
@@ -1712,7 +1826,8 @@ window.KPI_PRODUCTS = [
         "label": "Productfoto",
         "url": "https://isreal-winkel.ams3.digitaloceanspaces.com/68042%20La%20Palma%20500gr%20Blue-01KNVS5Y4ZTGC76BCCHBJWCDVT.jpg"
       }
-    ]
+    ],
+    "warning": "Bevat pitten."
   },
   {
     "id": 34,
