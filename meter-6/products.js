@@ -1557,7 +1557,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Suiker, cacaopoeder (18,5%), aroma (vanilline).",
     "allergens": [],
     "warning": "",
-    "kosher": "Parve · Geschikt voor Pesach onder toezicht van het Rabbinaat Safed",
+    "kosher": "Parve · KLP onder toezicht van het Rabbinaat Safed",
     "category": "Koffie & Chocolit",
     "image": "images/chocolit-kayco.png",
     "imageSource": "https://www.kayco.com/product/elite-chocolit-drink-mix/",

@@ -1378,13 +1378,13 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "CRC Hisachdus Harabonim · OU (Parve)",
+    "kosher": "CRC Hisachdus Harabonim · OU (Parve) · KLP",
     "image": "images/42-online.jpg",
     "productInfo": {
       "Inhoud": "145 g",
       "Herkomst": "Ecuador",
       "Bishul Yisrael": "Ja",
-      "Geschikt voor Pesach": "Ja"
+      "KLP": "Ja"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,

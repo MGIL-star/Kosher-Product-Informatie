@@ -926,7 +926,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SOJA"
     ],
-    "allergenNote": "Bevat soja-eiwit en sojalecithine. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie koosjer is gemaakt voor parveproductie",
+    "allergenNote": "Bevat soja-eiwit en sojalecithine. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
     "ean": "7290004575069",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem) · Rabbinaat van Netanya",
     "note": "Ingevroren bewaren (Parve)",
@@ -973,7 +973,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SOJA"
     ],
-    "allergenNote": "Bevat soja-eiwit en sojalecithine. Bevat aardbei. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie koosjer is gemaakt voor parveproductie",
+    "allergenNote": "Bevat soja-eiwit en sojalecithine. Bevat aardbei. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
     "ean": "7290004575069",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem) · Rabbinaat van Netanya",
     "note": "Ingevroren bewaren (Parve)",

@@ -44,7 +44,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "allergenNote": "",
-    "kosher": "OU en CRC (Central Rabbinical Congress). De getoonde verpakking vermeldt ook geschikt voor Pesach.",
+    "kosher": "OU en CRC (Central Rabbinical Congress). De getoonde verpakking vermeldt ook KLP.",
     "note": "",
     "image": "./images/03-tilapiafilets.jpg",
     "ean": "732973000120"

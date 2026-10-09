@@ -332,7 +332,7 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "12 bagelhelften · 2 × 6 stuks · 646 g",
     "category": "Pizza",
-    "ingredients": "verrijkte tarwebloem (tarwebloem, niacine, ijzer, thiaminemononitraat, riboflavine, foliumzuur, gemoute gerstebloem), mozzarella en/of muensterkaas (gedeeltelijk afgeroomde en/of volle melk, zuursel, zout, koosjere enzymen), tomaten, appelsap, sojaolie, zout, oregano, knoflook, suiker, gemodificeerd zetmeel, citroenzuur, gist, zwarte peper en specerijen",
+    "ingredients": "verrijkte tarwebloem (tarwebloem, niacine, ijzer, thiaminemononitraat, riboflavine, foliumzuur, gemoute gerstebloem), mozzarella en/of muensterkaas (gedeeltelijk afgeroomde en/of volle melk, zuursel, zout, Kosher enzymen), tomaten, appelsap, sojaolie, zout, oregano, knoflook, suiker, gemodificeerd zetmeel, citroenzuur, gist, zwarte peper en specerijen",
     "allergens": [
       "TARWE",
       "GERST",

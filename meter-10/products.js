@@ -1092,7 +1092,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes",
     "variant": "150 g",
     "ean": "194961000398",
-    "ingredients": "Biscuit (53,2%) (tarwebloem, suiker, palmvet, glucose-fructosestroop, rijsmiddelen (ammoniumcarbonaat, natriumcarbonaat), citroenzuur, zout), koosjere melkchocolade (46,8%) (suiker, cacaoboter, cacaomassa, vollemelkpoeder).",
+    "ingredients": "Biscuit (53,2%) (tarwebloem, suiker, palmvet, glucose-fructosestroop, rijsmiddelen (ammoniumcarbonaat, natriumcarbonaat), citroenzuur, zout), Kosher melkchocolade (46,8%) (suiker, cacaoboter, cacaomassa, vollemelkpoeder).",
     "allergens": [
       "Tarwe (gluten)",
       "Melk"

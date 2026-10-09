@@ -450,7 +450,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk · KLP",
     "ean": "087752027516",
     "image": "images/zmora-emerald-riesling-en-colombard.png",
     "isWine": true,
@@ -926,7 +926,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Hechsher niet bekend.",
+    "kosher": "Hechsher niet bekend · KLP",
     "ean": "087752013663",
     "image": "images/barkan-classic-merlot-argaman.png",
     "isWine": true,
@@ -1157,7 +1157,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk · KLP",
     "ean": "087752011102",
     "image": "images/barkan-classic-pinot-noir.png",
     "isWine": true,
@@ -1218,7 +1218,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem · KLP",
     "ean": "7290000023915",
     "image": "images/barkan-classic-cabernet-mini.png",
     "isWine": true,
@@ -1349,7 +1349,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk.",
+    "kosher": "Badatz Edah HaChareidis, Jeruzalem. Op het etiket staat ook het omcirkelde K-P-keurmerk · KLP",
     "ean": "087752008157",
     "image": "images/ben-ami-1.jpg",
     "isWine": true,
@@ -1734,7 +1734,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SULFIETEN"
     ],
-    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk · KLP",
     "ean": "9310489001773",
     "image": "images/7th-day-sacramental-kinor.jpg",
     "isWine": true,

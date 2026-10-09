@@ -167,7 +167,11 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "890261002253",
-    "image": "../assets/images/meter-3/saba-extra-virgin-750ml-ipc.jpg"
+    "image": "../assets/images/meter-3/saba-extra-virgin-750ml-ipc.jpg",
+    "kosher": "Badatz Chatam Sofer, Bnei Brak (Parve) · KLP",
+    "kosherStatus": "confirmed",
+    "kosherForPassover": true,
+    "reviewNotes": "Hechsher rechtstreeks gelezen op fysieke foto 0e7d1620-e48a-45e1-b323-9c20851bfd5a.jpg, ontvangen 9 oktober 2026: Badatz Chatam Sofer, Bnei Brak. Engels etiket bevestigt Parve en KLP. Barcode 890261002253 en inhoud 750 ml komen overeen met de bestaande registratie."
   },
   {
     "id": 11,
