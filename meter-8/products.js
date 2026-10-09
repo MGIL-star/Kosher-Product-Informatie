@@ -1881,17 +1881,29 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "155 g",
-    "ean": null,
+    "ean": "8718781934996",
     "ingredients": "100% sumak.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-sumak-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "155 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
-    "imageEdited": true
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden.",
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-03.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-01.jpg",
+      "source-labels/20261009-albadya-02.jpg",
+      "source-labels/20261009-albadya-03.jpg"
+    ],
+    "mayContain": "Kan sporen bevatten van mosterd, sesam en gluten.",
+    "ingredientsSource": "source-labels/20261009-albadya-02.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 24,
@@ -1899,17 +1911,26 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "135 g",
-    "ean": null,
+    "ean": "8718781934934",
     "ingredients": "100% zoete paprika.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-paprika-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
-    "imageEdited": true
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Bestaande samenstelling 100% zoete paprika behouden; geen afzonderlijke ingrediëntenregel zichtbaar op de nieuwe foto’s.",
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-06.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-04.jpg",
+      "source-labels/20261009-albadya-05.jpg",
+      "source-labels/20261009-albadya-06.jpg"
+    ],
+    "mayContain": "Kan sporen bevatten van mosterd, sesam en gluten."
   },
   {
     "id": 25,
@@ -1917,8 +1938,8 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Kruidenmixen",
     "variant": "185 g",
-    "ean": null,
-    "ingredients": "Koriander, fenegriek, mosterd, komijn, nigella, kurkuma, zetmeel (maïs), peper.",
+    "ean": "8718781935030",
+    "ingredients": "Zout, komijn, kerrie, paprika, E621, koriander, bouillon, knoflook, anijs, kaneel, venkel, kurkuma, gember, mosterd, dextrose, laurierblad, chili.",
     "allergens": [
       "MOSTERD"
     ],
@@ -1928,9 +1949,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "185 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto be17f924-548f-4d4a-9224-caeee8fcdf43.jpg, door gebruiker aangeduid als shawarma. Mosterd staat in de ingrediënten. Gewicht 185 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden. Eerdere verwisseling met de ingrediënten van curry masala gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
-    "imageEdited": true
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-09.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-07.jpg",
+      "source-labels/20261009-albadya-08.jpg",
+      "source-labels/20261009-albadya-09.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-albadya-08.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 26,
@@ -1938,17 +1970,29 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "125 g",
-    "ean": null,
+    "ean": "8718781793920",
     "ingredients": "100% ui.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-ui-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "125 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
-    "imageEdited": true
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-11.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-10.jpg",
+      "source-labels/20261009-albadya-11.jpg",
+      "source-labels/20261009-albadya-12.jpg"
+    ],
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "ingredientsSource": "source-labels/20261009-albadya-12.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 27,
@@ -1956,7 +2000,7 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Kruidenmixen",
     "variant": "165 g",
-    "ean": null,
+    "ean": "8718781935429",
     "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
     "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
@@ -1965,9 +2009,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "165 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto 41885e2d-dae5-4aba-8aa6-2005d6c32092.jpg, aangeleverd door gebruiker. Gewicht 165 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Gewicht 165 g uit eerdere gebruikersopgave behouden; nieuwe gewichtsaanduiding deels door reflectie bedekt.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
-    "imageEdited": true
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-14.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-13.jpg",
+      "source-labels/20261009-albadya-14.jpg",
+      "source-labels/20261009-albadya-15.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-albadya-15.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 28,
@@ -1975,17 +2030,29 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "135 g",
-    "ean": null,
+    "ean": "8718781233624",
     "ingredients": "100% grove paprika.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-pulbiber-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
-    "imageEdited": true
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-17.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-16.jpg",
+      "source-labels/20261009-albadya-17.jpg",
+      "source-labels/20261009-albadya-18.jpg"
+    ],
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "ingredientsSource": "source-labels/20261009-albadya-18.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 29,
@@ -1993,8 +2060,8 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Kruidenmixen",
     "variant": "145 g",
-    "ean": null,
-    "ingredients": "Zout, komijn, kerrie, paprika, E621, koriander, bouillon, knoflook, anijs, kaneel, venkel, kurkuma, gember, mosterd, dextrose, laurierblad, chili.",
+    "ean": "8718781636098",
+    "ingredients": "Koriander, fenegriek, mosterd, komijn, nigella, kurkuma, zetmeel (maïs), peper.",
     "allergens": [
       "MOSTERD"
     ],
@@ -2004,9 +2071,20 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Inhoud": "145 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op fysieke etiketfoto dfb7f6ce-bc7a-4c9c-afd6-9b1677012e11.jpg, aangeleverd door gebruiker. Fysieke receptuur heeft voorrang boven afwijkende officiële online receptuur. Mosterd staat in de ingrediënten. Gewicht 145 g uit eerdere gebruikersopgave. Barcode en hechsher niet vastgesteld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Eerdere verwisseling met de ingrediënten van shoarma gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
-    "imageEdited": true
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-20.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-19.jpg",
+      "source-labels/20261009-albadya-20.jpg",
+      "source-labels/20261009-albadya-21.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261009-albadya-21.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 30,
@@ -2014,17 +2092,29 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "135 g",
-    "ean": null,
+    "ean": "8718781936471",
     "ingredients": "100% chili.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-chili-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
-    "imageEdited": true
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-23.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-22.jpg",
+      "source-labels/20261009-albadya-23.jpg",
+      "source-labels/20261009-albadya-24.jpg"
+    ],
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "ingredientsSource": "source-labels/20261009-albadya-24.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 31,
@@ -2032,17 +2122,29 @@ window.KPI_PRODUCTS = [
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "115 g",
-    "ean": null,
+    "ean": "8718781232153",
     "ingredients": "100% koriander.",
-    "allergens": null,
+    "allergens": [],
     "kosher": "Rabbinaat Amsterdam",
     "image": "images/albadya-koriander-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "115 g"
     },
-    "reviewNotes": "Gewicht, bekende ingrediënten en barcode uit gebruikersopgave. Volledig leesbare achteretiketfoto ontbreekt. Geen onbekende ingrediënten, allergenen, sporenwaarschuwing of hechsher ingevuld. Gebruik is een culinaire suggestie. Productfoto vervangen op 2026-10-08: aangeleverde voorkantfoto bewerkt met witte achtergrond en verbeterde belichting en scherpte.",
-    "imageEdited": true
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "imageEdited": true,
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "source-labels/20261009-albadya-26.jpg",
+    "barcodeChecked": "2026-10-09",
+    "labelSources": [
+      "source-labels/20261009-albadya-25.jpg",
+      "source-labels/20261009-albadya-26.jpg",
+      "source-labels/20261009-albadya-27.jpg"
+    ],
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "ingredientsSource": "source-labels/20261009-albadya-27.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false
   },
   {
     "id": 32,
