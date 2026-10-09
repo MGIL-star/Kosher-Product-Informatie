@@ -221,8 +221,7 @@ window.KPI_PRODUCTS = [
     "variant": "400 g",
     "ean": "7290011553142",
     "ingredients": "Tarwebloem (gluten), sesamzaad, knoflookpoeder (2%), gist, keukenzout, plantaardige olie, kleurstof (paprika-extract).",
-    "ingredientsPartial": true,
-    "ingredientsNote": "Het sesampercentage en de precieze plantaardige olie moeten nog worden bevestigd.",
+    "ingredientsPartial": false,
     "allergens": [
       "Tarwe (gluten)",
       "Sesam"
@@ -251,7 +250,13 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2753414809489576
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "ingredientsSource": "Etiketfoto gebruiker: source-labels/efaee62e-6b82-40f9-82bb-ae7aa5be31e7.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "reviewNotes": [
+      "Etiket vermeldt sesamzaad en plantaardige olie zonder verdere specificatie. Ingrediënten overgenomen zoals vermeld; geen extra percentage of oliesoort ingevuld."
+    ]
   },
   {
     "brand": "Osem",
@@ -1451,7 +1456,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve) · Bishul Yisrael",
     "category": "Maaltijdbekers",
     "image": "images/product-37-straight.png",
-    "imageNeedsCheck": true,
+    "imageNeedsCheck": false,
     "productInfo": {
       "Inhoud": "68 g"
     },
@@ -1486,7 +1491,8 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/9.jpg",
       "C:/Users/ellag/OneDrive/Desktop/thee/10.jpg"
     ],
-    "kosherSource": "Etiketfoto gebruiker: thee/8.jpg, thee/9.jpg, thee/10.jpg"
+    "kosherSource": "Etiketfoto gebruiker: thee/8.jpg, thee/9.jpg, thee/10.jpg",
+    "imageVerification": "Bestaande bewerkte productfoto op 9 oktober 2026 vergeleken met nieuwe gebruikersfoto: merk, smaak en 68 g komen overeen."
   },
   {
     "id": 38,
@@ -1504,7 +1510,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve) · Bishul Yisrael",
     "category": "Maaltijdbekers",
     "image": "images/product-38-straight.png",
-    "imageNeedsCheck": true,
+    "imageNeedsCheck": false,
     "productInfo": {
       "Inhoud": "68 g"
     },
@@ -1538,7 +1544,8 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/11.jpg",
       "C:/Users/ellag/OneDrive/Desktop/thee/12.jpg"
     ],
-    "kosherSource": "Etiketfoto gebruiker: thee/11.jpg, thee/12.jpg"
+    "kosherSource": "Etiketfoto gebruiker: thee/11.jpg, thee/12.jpg",
+    "imageVerification": "Bestaande bewerkte productfoto op 9 oktober 2026 vergeleken met nieuwe gebruikersfoto: merk, smaak en 68 g komen overeen."
   },
   {
     "id": 39,
