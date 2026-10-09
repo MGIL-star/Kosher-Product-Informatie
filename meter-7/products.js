@@ -928,7 +928,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "Soja.",
-    "kosher": "Badatz Behidur HaKashrut — Rabbinaat Netanya (parve)",
+    "kosher": "Badatz Behidur HaKashrut Rabbinaat Netanya (parve)",
     "category": "Pasta en couscous",
     "image": "images/product-23.jpg",
     "productInfo": {

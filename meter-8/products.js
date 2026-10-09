@@ -1874,7 +1874,7 @@ window.KPI_PRODUCTS = [
     "ean": "8715645279019",
     "ingredients": "Water, fenegriek, zout, citroenzuur, chilipeper, xanthaangom, natriumbenzoaat, kaliumsorbaat.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-amba.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1894,7 +1894,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781934996",
     "ingredients": "100% sumak.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-sumak-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -1926,7 +1926,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781934934",
     "ingredients": "100% zoete paprika.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-paprika-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -1957,7 +1957,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-shoarma-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -1989,7 +1989,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781793920",
     "ingredients": "100% ui.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-ui-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2021,7 +2021,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781935429",
     "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-ras-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2053,7 +2053,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781233624",
     "ingredients": "100% grove paprika.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-pulbiber-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2087,7 +2087,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-curry-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2119,7 +2119,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781936471",
     "ingredients": "100% chili.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-chili-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2151,7 +2151,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781232153",
     "ingredients": "100% koriander.",
     "allergens": [],
-    "kosher": "PIG Amsterdam – Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-koriander-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
