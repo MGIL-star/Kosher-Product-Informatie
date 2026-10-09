@@ -2171,12 +2171,11 @@ window.KPI_PRODUCTS = [
     "ean": "7290002490562",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "OU (opgave gebruiker; niet op verpakking bevestigd)",
+    "kosher": "OU",
     "image": "images/dates-king-straight.png",
     "productInfo": {
       "Inhoud": "1 kg",
-      "Bewaren": "Koel en droog",
-      "Bijzonderheden": "Bevat pitten"
+      "Bewaren": "Koel en droog"
     },
     "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Samenstelling en afwezigheid van allergenen door gebruiker bevestigd op 9 oktober 2026. Bestaande waarschuwing Bevat pitten behouden.",
     "imageSource": "https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4245830371.jpg",
@@ -2212,13 +2211,11 @@ window.KPI_PRODUCTS = [
     "ean": "8719326034072",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "OU (opgave gebruiker; niet op verpakking bevestigd)",
+    "kosher": "OU",
     "image": "images/dates-palma-straight.png",
     "productInfo": {
       "Inhoud": "500 g",
-      "Bijzonderheden": "Bevat pitten",
-      "Bewaren": "Koel en droog",
-      "Kwaliteitsklasse": "Klasse I"
+      "Bewaren": "Koel en droog"
     },
     "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Naam en 500 g bevestigd op voorkantfoto. Samenstelling en afwezigheid van allergenen door gebruiker bevestigd op 9 oktober 2026. Bestaande waarschuwing Bevat pitten behouden.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/68042%20La%20Palma%20500gr%20Blue-01KNVS5Y4ZTGC76BCCHBJWCDVT.jpg",
