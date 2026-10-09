@@ -507,7 +507,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)"
     ],
     "mayContain": "Pinda’s, amandelen, mosterd en sesam.",
-    "kosher": "OU-D (melk)",
+    "kosher": "OU-D",
     "category": "Koekjes en wafels",
     "image": "images/21.png",
     "imageEdited": true,
@@ -537,7 +537,7 @@ window.KPI_PRODUCTS = [
       "Amandelen"
     ],
     "mayContain": "Mosterd en sesam.",
-    "kosher": "OU-D (melk)",
+    "kosher": "OU-D",
     "category": "Koekjes en wafels",
     "image": "images/20.png",
     "imageEdited": true,
@@ -637,7 +637,7 @@ window.KPI_PRODUCTS = [
       "Melk"
     ],
     "mayContain": "Andere noten, sesam en soja.",
-    "kosher": "K-D (melk)",
+    "kosher": "K-D",
     "category": "Repen",
     "image": "images/25.png",
     "imageEdited": true,
@@ -688,7 +688,7 @@ window.KPI_PRODUCTS = [
       "Melk"
     ],
     "mayContain": "Andere noten, pinda’s, sesam en soja.",
-    "kosher": "K-D (melk)",
+    "kosher": "K-D",
     "category": "Repen",
     "image": "images/27.png",
     "imageEdited": true,

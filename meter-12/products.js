@@ -1873,7 +1873,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-100-edited.png",
     "sourcePhotos": [
       "100.jpg",
@@ -2175,7 +2175,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Gerst, haver en rogge (gluten), pinda’s en sesam.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-116-web.jpg",
     "sourcePhotos": [
       "116.jpg",
@@ -2231,7 +2231,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-118-web.png",
     "sourcePhotos": [
       "118.jpg",
@@ -2278,7 +2278,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-121-edited.png",
     "sourcePhotos": [
       "121.jpg",
@@ -2326,7 +2326,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "Ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-123-edited.png",
     "sourcePhotos": [
       "123.jpg",
@@ -2373,7 +2373,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-125-edited.png",
     "sourcePhotos": [
       "125.jpg",
@@ -2423,7 +2423,7 @@ window.KPI_PRODUCTS = [
       "Amandelen"
     ],
     "mayContain": "Ei, sesam, pinda’s, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
-    "kosher": "Badatz Edah HaChareidis (Melk)",
+    "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-127-edited.png",
     "sourcePhotos": [
       "127.jpg",
