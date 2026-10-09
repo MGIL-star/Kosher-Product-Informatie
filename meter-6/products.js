@@ -759,12 +759,12 @@ window.KPI_PRODUCTS = [
     "brand": "Wissotzky",
     "name": "Groene Thee met Citroengras en Verbena",
     "englishName": "Lemongrass & Verbena",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 30 g",
     "ean": "603741000423",
     "ingredients": "Groene thee, citroengras, verbena, natuurlijk citroenaroma.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-47.png",
     "imageBounds": [
@@ -776,9 +776,14 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/lemongrass-verbena/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/LEMONGRASS-VERBENA-vf.png",
     "ingredientsSource": "https://www.wtea.com/product/lemongrass-verbena/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 2884471f-868b-4ded-9bca-86ab1b8a6c45.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-verbena-lemongrass-green-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-verbena-lemongrass-green-tea/",
+    "labelSources": [
+      "2884471f-868b-4ded-9bca-86ab1b8a6c45.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 48,
@@ -811,12 +816,12 @@ window.KPI_PRODUCTS = [
     "brand": "Wissotzky",
     "name": "Kruidenthee met Mango en Passievrucht",
     "englishName": "Mango & Passion Fruit",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 44 g",
     "ean": "603741000621",
     "ingredients": "Rozenbottels, hibiscus, passievruchtaroma, appels, sinaasappelschillen, vlierbessen, mangoaroma, mango.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-46.png",
     "imageBounds": [
@@ -828,21 +833,26 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/mango-passion-fruit/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/MANGO-PASSION-vf.png",
     "ingredientsSource": "https://www.wtea.com/product/mango-passion-fruit/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 9ae1ed67-a1f7-4245-9283-03a4750baea1.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-mango-passion-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-mango-passion-tea/",
+    "labelSources": [
+      "9ae1ed67-a1f7-4245-9283-03a4750baea1.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 43,
     "brand": "Wissotzky",
     "name": "Kruidenthee met Pepermunt",
     "englishName": "Cool Peppermint",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 40 g",
     "ean": "603741000089",
     "ingredients": "Pepermuntbladeren.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-43.png",
     "imageBounds": [
@@ -854,21 +864,26 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/cool-peppermint/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/COOL-PEPPERMINT-vf.png",
     "ingredientsSource": "https://www.wtea.com/product/cool-peppermint/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 8c1da54e-680f-42a4-ac21-0e2c78d4e0a2.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-peppermint-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-peppermint-tea/",
+    "labelSources": [
+      "8c1da54e-680f-42a4-ac21-0e2c78d4e0a2.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 42,
     "brand": "Wissotzky",
     "name": "Groene Thee met Jasmijn",
     "englishName": "Jasmine Green",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 30 g",
     "ean": "603741000454",
     "ingredients": "Groene thee, jasmijnbloemen.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-42.png",
     "imageBounds": [
@@ -880,21 +895,26 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/jasmine/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/JASMINE-GREEN-vf.png",
     "ingredientsSource": "https://www.wtea.com/product/jasmine/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 63e27cd5-8633-45c2-950c-680abbe14062.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-jasmine-green-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-jasmine-green-tea/",
+    "labelSources": [
+      "63e27cd5-8633-45c2-950c-680abbe14062.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 45,
     "brand": "Wissotzky",
     "name": "Kruidenthee voor de Nachtrust",
     "englishName": "Sleep Herbal Tea",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 30 g",
     "ean": "603741000478",
     "ingredients": "Kamillebloemen, verbena, lavendel, passiebloem, citroenmelisse, rooibos, bramenbladeren, salie.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-45-front.png",
     "imageBounds": [
@@ -906,10 +926,15 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/sleep-relaxation-wellness-herbal-tea-2/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2025/02/VS-SLEEP.jpg",
     "ingredientsSource": "https://www.wtea.com/product/sleep-relaxation-wellness-herbal-tea-2/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 511bbb2f-3f9e-4af6-b37d-60c522b1761b.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
     "imageEdit": "Officiële Wissotzky-foto met ingebouwde imagegen rechtgezet naar vooraanzicht op witte achtergrond; verpakkingstekst en kleuren behouden.",
-    "barcodeSource": "https://www.koshervitamins.com/Wissotzky-Tea-Kosher-Wellness-Sleep-Herbal-Tea-20-Tea-Bags"
+    "barcodeSource": "https://www.koshervitamins.com/Wissotzky-Tea-Kosher-Wellness-Sleep-Herbal-Tea-20-Tea-Bags",
+    "labelSources": [
+      "511bbb2f-3f9e-4af6-b37d-60c522b1761b.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 34,
@@ -921,7 +946,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "warning": "",
     "ingredientSourceNote": "Oorspronkelijke Engelse ingrediëntenlijst op PDF foto 71. Beide zichtbare lijsten noemen geen allergenen. De Nederlandse sticker wijkt af in volgorde en laat rode biet weg.",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-34.png",
     "imageSource": "https://www.wtea.com/product/strawberry-burst/",
@@ -938,19 +963,28 @@ window.KPI_PRODUCTS = [
       0.748,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 8ae928e6-9a18-401b-9faa-979b74b4f6d5.jpg",
+    "labelSources": [
+      "8ae928e6-9a18-401b-9faa-979b74b4f6d5.jpg",
+      "7efc197d-16d3-4c1a-b15f-5e49394a13ba.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true,
+    "ingredientsSource": "Etiketfoto gebruiker: 7efc197d-16d3-4c1a-b15f-5e49394a13ba.jpg",
+    "ingredientsPartial": false,
+    "kosherNote": "OU: Parve en KLP. Bij de twee keurmerken rechts op de achterzijde staat dat hun toezicht alleen buiten Pesach geldt."
   },
   {
     "id": 49,
     "brand": "Wissotzky",
     "name": "Zwarte Thee Earl Grey",
     "englishName": "Earl Grey",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 30 g",
     "ean": "603741000072",
     "ingredients": "Zwarte thee, kunstmatig bergamotaroma.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-49.png",
     "imageBounds": [
@@ -962,21 +996,26 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/earl-grey-20-tea-bags/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/EARL-GREY-vf.png",
     "ingredientsSource": "https://www.wtea.com/product/earl-grey-20-tea-bags/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 21aee5a9-5e00-4f43-b517-4ada4021fb44.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-earl-grey-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-earl-grey-tea/",
+    "labelSources": [
+      "21aee5a9-5e00-4f43-b517-4ada4021fb44.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 50,
     "brand": "Wissotzky",
     "name": "Zwarte Thee Classic",
     "englishName": "Classic Black Tea",
-    "variant": "100 zakjes",
+    "variant": "100 zakjes · 150 g",
     "ean": "603741000133",
     "ingredients": "Zwarte thee.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-50-kayco.jpg",
     "imageBounds": [
@@ -988,9 +1027,14 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/",
     "imageOriginalUrl": "https://www.kayco.com/wp-content/uploads/2023/11/260102.jpg",
     "ingredientsSource": "https://www.wtea.com/product/classic-black-tea/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 747e09c0-6685-445d-84cd-4dda4367b112.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-classic-tea-100-ct/",
+    "labelSources": [
+      "747e09c0-6685-445d-84cd-4dda4367b112.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 51,
@@ -1002,7 +1046,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Verbena, watermeloenaroma, hibiscus, groene-muntaroma, groene munt, zoete bramenbladeren, zoethoutwortel, rozenbottels, rode biet.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-51.jpg",
     "imageBounds": [
@@ -1014,8 +1058,13 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/watermelon-nana-mint-cold-brew-iced-tea/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-R.jpg",
     "ingredientsSource": "https://www.wtea.com/product/watermelon-nana-mint-cold-brew-iced-tea/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-V.jpg"
+    "kosherSource": "Etiketfoto gebruiker: 95504359-1d5c-4f68-bc28-ad7d40be5b7c.jpg",
+    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-WN-V.jpg",
+    "labelSources": [
+      "95504359-1d5c-4f68-bc28-ad7d40be5b7c.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 41,
@@ -1027,7 +1076,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Rozenbottels, appels, zoete bramenbladeren, ananasaroma, verbena, zoethoutwortel, kokosaroma, citroenaroma.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-41.jpg",
     "imageBounds": [
@@ -1039,20 +1088,25 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/pineapple-coconut-cold-brew-iced-tea/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-R.jpg",
     "ingredientsSource": "https://www.wtea.com/product/pineapple-coconut-cold-brew-iced-tea/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
-    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-V.jpg"
+    "kosherSource": "Etiketfoto gebruiker: a10420d5-a09d-44f7-a77b-c607442d0b6f.jpg",
+    "barcodeSource": "https://www.wtea.com/wp-content/uploads/2026/03/CB-PC-V.jpg",
+    "labelSources": [
+      "a10420d5-a09d-44f7-a77b-c607442d0b6f.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 44,
     "brand": "Wissotzky",
     "name": "Groene Thee Naturel",
     "englishName": "Pure Green",
-    "variant": "20 zakjes",
+    "variant": "20 zakjes · 30 g",
     "ean": "603741000508",
     "ingredients": "Groene thee.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-44.png",
     "imageBounds": [
@@ -1064,9 +1118,14 @@ window.KPI_PRODUCTS = [
     "imageSource": "https://www.wtea.com/product/pure-green/",
     "imageOriginalUrl": "https://www.wtea.com/wp-content/uploads/2024/03/PURE-GREEN-vf.png",
     "ingredientsSource": "https://www.wtea.com/product/pure-green/",
-    "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
+    "kosherSource": "Etiketfoto gebruiker: 23c57e1b-0903-470e-84d6-3bd81754d8c1.jpg",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-pure-green-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-pure-green-tea/",
+    "labelSources": [
+      "23c57e1b-0903-470e-84d6-3bd81754d8c1.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 29,
@@ -1077,7 +1136,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Kamillebloemen.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-29.png",
     "imageSource": "https://www.wtea.com/product/chamomile/",
@@ -1094,7 +1153,12 @@ window.KPI_PRODUCTS = [
       0.748,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 18debbca-a88f-42e1-8c4b-f3bf33f065ee.jpg",
+    "labelSources": [
+      "18debbca-a88f-42e1-8c4b-f3bf33f065ee.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 30,
@@ -1106,7 +1170,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "warning": "",
     "allergenStatusSource": "Gebruiker bevestigt dat dit product geen allergenen heeft en verzoekt de controlenotitie en waarschuwing te verwijderen.",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve)",
     "category": "Thee",
     "image": "./images/wissotzky-30.png",
     "imageSource": "https://www.wtea.com/product/almond-charm/",
@@ -1123,7 +1187,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 0e7f4784-95a6-4c1c-9210-a67fa4e4c0ac.jpg",
+    "labelSources": [
+      "0e7f4784-95a6-4c1c-9210-a67fa4e4c0ac.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherReview": "Op de nieuwe foto staat OU zonder P; KLP niet bevestigd voor deze verpakking."
   },
   {
     "id": 31,
@@ -1134,7 +1203,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Zwarte thee.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-31.png",
     "imageSource": "https://www.wtea.com/product/english-breakfast-20-tea-bags/",
@@ -1151,7 +1220,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: c6f1d0e7-0062-49d7-984d-07bc692fdeb7.jpg",
+    "labelSources": [
+      "c6f1d0e7-0062-49d7-984d-07bc692fdeb7.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 32,
@@ -1162,7 +1236,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Kaneel, geroosterde cichoreiwortel, kaneelaroma, hibiscus, sinaasappelschillen, appels, piment, kamille.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-32.png",
     "imageSource": "https://www.wtea.com/product/cinnamon-magic/",
@@ -1179,7 +1253,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: f5ab8c27-62bb-4077-9c98-662654b75d00.jpg",
+    "labelSources": [
+      "f5ab8c27-62bb-4077-9c98-662654b75d00.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 33,
@@ -1190,7 +1269,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Indiase zwarte thee, kaneel, gemberwortel, kruidnagel, zwarte peper.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-33.png",
     "imageSource": "https://www.wtea.com/product/masala-chai-20-tea-bags/",
@@ -1207,7 +1286,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 5d074ef2-d8a9-4a29-a43c-c0192b391d6b.jpg",
+    "labelSources": [
+      "5d074ef2-d8a9-4a29-a43c-c0192b391d6b.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 52,
@@ -1222,7 +1306,7 @@ window.KPI_PRODUCTS = [
       "Geen declaratieplichtige allergenen vermeld"
     ],
     "warning": "",
-    "kosher": "OU-P",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "origin": "Product of Israel",
     "caffeineFree": true,
@@ -1240,7 +1324,12 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "https://www.wtea.com/product/pomegranate-nectar/",
     "allergenStatusSource": "Afgeleid uit de ingrediëntenlijst op de officiële Wissotzky-productpagina: geen declaratieplichtige allergenen vermeld. Geen afzonderlijke verklaring over mogelijke sporen gevonden; geen allergenenvrijgarantie.",
     "allergensSource": "https://www.wtea.com/product/pomegranate-nectar/",
-    "kosherSource": "OU-P zichtbaar op de fysieke voorkantfoto; extra hechsher-logo niet betrouwbaar geïdentificeerd en niet overgenomen."
+    "kosherSource": "Etiketfoto gebruiker: 553dd6b9-24e7-4dd6-a7e9-f4840c40985c.jpg",
+    "labelSources": [
+      "553dd6b9-24e7-4dd6-a7e9-f4840c40985c.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 35,
@@ -1251,7 +1340,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Hibiscus, rozenbottels, rode biet, bosvruchtenaroma, citroen, appels, frambozenaroma, framboos, zwarte bes, blauwe bessen.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-35.png",
     "imageSource": "https://www.wtea.com/product/wild-berries-blast/",
@@ -1268,7 +1357,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: bda09a6b-6fb2-4f10-9569-d17389a7dead.jpg",
+    "labelSources": [
+      "bda09a6b-6fb2-4f10-9569-d17389a7dead.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 36,
@@ -1279,7 +1373,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Nanamuntbladeren, rozenbottels, sinaasappelschillen, natuurlijke aroma’s van groene munt en citroen, citroenzuur, citroenschillen, hibiscus.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-36.png",
     "imageSource": "https://www.wtea.com/product/nana-mint-lemon-fusion-herbal/",
@@ -1296,7 +1390,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: fd89dfde-fcf1-44f7-abc5-7819f0add0af.jpg",
+    "labelSources": [
+      "fd89dfde-fcf1-44f7-abc5-7819f0add0af.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 37,
@@ -1307,7 +1406,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Groene thee, nanamuntbladeren, natuurlijk aroma van groene munt.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-37.png",
     "imageSource": "https://www.wtea.com/product/nana-mint/",
@@ -1324,7 +1423,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 7e29190b-ca02-4322-8e06-3cf4346eec6f.jpg",
+    "labelSources": [
+      "7e29190b-ca02-4322-8e06-3cf4346eec6f.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 38,
@@ -1335,7 +1439,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Zwarte thee, nanamuntbladeren, natuurlijk aroma van groene munt.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-38.png",
     "imageSource": "https://www.wtea.com/product/nana-mint-20-tea-bags/",
@@ -1352,7 +1456,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: dd27789f-692f-4cab-ab6c-e81b9aca5e8c.jpg",
+    "labelSources": [
+      "dd27789f-692f-4cab-ab6c-e81b9aca5e8c.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 39,
@@ -1363,7 +1472,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Zwarte thee, citroen, citroenaroma, citroenzuur, citroenschillen.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-39.png",
     "imageSource": "https://www.wtea.com/product/bright-lemon-20-tea-bags/",
@@ -1380,7 +1489,12 @@ window.KPI_PRODUCTS = [
       0.746,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 8699dc19-9ab5-457b-b4b5-2ef6abc370bf.jpg",
+    "labelSources": [
+      "8699dc19-9ab5-457b-b4b5-2ef6abc370bf.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 40,
@@ -1391,7 +1505,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Rode kruidenmelange: hibiscus, aroma’s, rozenbottel, zoethoutwortel, citroengras, pepermunt, verbena, sinaasappelschillen, citroenschillen. Kaneelmelange: kaneel, geroosterde cichoreiwortel, kaneelaroma, hibiscus, sinaasappelschillen, appels, piment, kamille. Pepermunt: pepermuntbladeren. Munt en citroen: nanamuntbladeren, rozenbottels, sinaasappelschillen, natuurlijke aroma’s van groene munt en citroen, citroenzuur, citroenschillen, hibiscus. Kamille: kamillebloemen.",
     "allergens": [],
     "warning": "",
-    "kosher": "OU P (Parve)",
+    "kosher": "OU (Parve) · KLP",
     "category": "Thee",
     "image": "./images/wissotzky-40-front.png",
     "imageSource": "https://www.wtea.com/product/variety-pack-herbal-tea/",
@@ -1408,7 +1522,12 @@ window.KPI_PRODUCTS = [
       0.732,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle thee uitsluitend OU P (Parve) vermelden."
+    "kosherSource": "Etiketfoto gebruiker: 451503a6-2dc7-4798-8fbf-ac85942003c3.jpg",
+    "labelSources": [
+      "451503a6-2dc7-4798-8fbf-ac85942003c3.jpg"
+    ],
+    "kosherChecked": "2026-10-09",
+    "kosherForPassover": true
   },
   {
     "id": 28,
