@@ -1,7 +1,7 @@
 (function () {
   'use strict';
   const params = new URLSearchParams(location.search);
-  const validGroup = /^(?:meter-[1-9][0-9]*(?:-[a-z0-9]+)*|diepvries-schap-[1-9][0-9]*)$/;
+  const validGroup = /^(?:meter-[1-9][0-9]*(?:-[a-z0-9]+)*|(?:diepvries|koeling)-schap-[1-9][0-9]*)$/;
   const label = document.querySelector('#label');
   const content = document.querySelector('#label-content');
   function paragraph(title, text, bold = false) {
@@ -52,7 +52,7 @@
   const script = document.createElement('script');
   const sharedSources = {'meter-3': '../js/products-meter-3.js', 'meter-4-tafelzuur': '../js/products-meter-4.js'};
   script.src = sharedSources[params.get('group')] || '../../' + params.get('group') + '/products.js';
-  script.src += '?v=20260926-print-final';
+  script.src += '?v=' + Date.now();
   script.onerror = () => {content.textContent = 'Productgegevens konden niet worden geladen.';};
   script.onload = async () => {
     const p = (window.KPI_PRODUCTS || []).find(p => String(p.id) === params.get('id'));
