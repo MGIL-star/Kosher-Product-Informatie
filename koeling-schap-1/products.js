@@ -13,9 +13,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/1-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 1,
     "sourceLabels": [
@@ -43,9 +43,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/3-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 3,
     "sourceLabels": [
@@ -73,9 +73,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/5-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 5,
     "sourceLabels": [
@@ -103,9 +103,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/7-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 7,
     "sourceLabels": [
@@ -133,9 +133,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/9-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 9,
     "sourceLabels": [
@@ -163,9 +163,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/11-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 11,
     "sourceLabels": [
@@ -193,9 +193,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/13-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 13,
     "sourceLabels": [
@@ -224,9 +224,9 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/15-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 15,
     "sourceLabels": [
@@ -254,9 +254,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 17,
     "sourceLabels": [
@@ -287,9 +287,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/22-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 22,
     "sourceLabels": [
@@ -317,9 +317,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/24-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 24,
     "sourceLabels": [
@@ -347,9 +347,9 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/26-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 26,
     "sourceLabels": [
@@ -377,9 +377,9 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/28-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 28,
     "sourceLabels": [
@@ -407,9 +407,9 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/30-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 30,
     "sourceLabels": [
@@ -437,9 +437,9 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/32-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 32,
     "sourceLabels": [
@@ -467,9 +467,9 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
-    "kosher": "Kedassia",
+    "kosher": "Glatt Kosher Kedassia",
     "image": "./images/34-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren.",
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 34,
     "sourceLabels": [
@@ -480,6 +480,31 @@ window.KPI_PRODUCTS = [
       "y": 0.1076555023923445,
       "width": 0.9106858054226475,
       "height": 0.8022328548644339,
+      "aspectRatio": 0.78
+    }
+  },
+  {
+    "id": 17,
+    "name": "Weense runderworstjes",
+    "englishName": "Beef Viennas",
+    "brand": "Prime Cut",
+    "category": "Worstjes",
+    "variant": "340 g",
+    "ean": "",
+    "ingredients": "Rundvlees (61%), water, aardappelzetmeel, SOJA, zout, specerijen (SULFIETEN), suikers (maltodextrine, dextrose), stabilisatoren (E407, E415), emulgatoren (E451, E450), smaakversterker (E621), antioxidanten (E300, E316, E301), zuurteregelaars (E262, E327, E331, E500), conserveermiddel (natriumnitriet, wat kan leiden tot natuurlijk voorkomend natriumnitraat), gistextract, cellulose (E460), gemodificeerd zetmeel.",
+    "allergens": [
+      "SOJA",
+      "SULFIETEN"
+    ],
+    "kosher": "Glatt Kosher Kedassia",
+    "image": "./images/17-beef-viennas.png",
+    "imageEdited": true,
+    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "imageFrame": {
+      "x": 0.185,
+      "y": 0.123,
+      "width": 0.62,
+      "height": 0.754,
       "aspectRatio": 0.78
     }
   }
