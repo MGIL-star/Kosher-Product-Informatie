@@ -444,7 +444,7 @@ window.KPI_PRODUCTS = [
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
-    "ean": null,
+    "ean": "7290018859155",
     "ingredients": "Perzik (51%), vruchtensapconcentraat (ananas, appel, peer), pectine (geleermiddel), citroensapconcentraat.",
     "allergens": [],
     "kosher": "OU (Parve)",
@@ -479,8 +479,10 @@ window.KPI_PRODUCTS = [
     "warning": "Kan deeltjes van pitten bevatten.",
     "kosherSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/29.jpg",
     "kosherChecked": "2026-10-09",
-    "barcodeNeedsCheck": true,
-    "barcodeSource": "Eerdere barcode 7290012668296 hoort volgens foto 25.jpg bij Aardbeien Fruitpasta; geen barcode zichtbaar op de nieuwe perzikfoto’s."
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "Stone Mill leverancierscatalogus 2026, pagina 63: Aunt Berta perzikfruitpasta 284 g, barcode 7290018859155. Online bevestigd; niet afgelezen van de eigen verpakking. Eerdere barcode 7290012668296 hoort bij aardbeienfruitpasta.",
+    "barcodeChecked": "2026-10-09",
+    "barcodeOnlineSource": "https://stonemillcoop.com/wp-content/uploads/2025/12/קטלוג-טחנת-האבן-2026.pdf"
   },
   {
     "id": 55,
