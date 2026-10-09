@@ -675,7 +675,7 @@ window.KPI_PRODUCTS = [
       "Sulfieten"
     ],
     "mayContain": "Soja.",
-    "kosher": null,
+    "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/product-38-web.jpg",
     "sourcePhotos": [
       "38.jpg",
@@ -683,7 +683,8 @@ window.KPI_PRODUCTS = [
       "40.jpg"
     ],
     "productInfo": {
-      "Inhoud": "90 g"
+      "Inhoud": "90 g",
+      "Kenmerken": "Natuurlijke kleurstoffen."
     },
     "searchName": "Jelly aardbei",
     "sourceUrl": "https://snackfood.delivery/product/osem-instant-jello-gelatin-strawberry-flavor-85-grams-from-israel-kosher-certified/",
@@ -707,7 +708,13 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.77
-    }
+    },
+    "labelSources": [
+      "source-labels/20261009-aanvulling-42.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "kosherSource": "source-labels/20261009-aanvulling-42.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 16,
@@ -1093,7 +1100,7 @@ window.KPI_PRODUCTS = [
     "name": "Dadelhapjes met cashewnoten en pistachenoten",
     "category": "Dadelbites",
     "variant": "55 g",
-    "ean": null,
+    "ean": "890867000622",
     "ingredients": "Medjooldadels, gemalen cashewnoten, zonnebloempitten, rozijnen, gemalen pistachenoten, hele sesamzaadjes, gemalen amandelen, natuurlijke aroma’s.",
     "allergens": [
       "Cashewnoten",
@@ -1110,7 +1117,11 @@ window.KPI_PRODUCTS = [
       "66.jpg"
     ],
     "productInfo": {
-      "Inhoud": "55 g"
+      "Inhoud": "55 g",
+      "Bewaren": "Koel en droog bewaren.",
+      "Kenmerken": "Vegan. Glutenvrij. Non-GMO Project Verified.",
+      "Herkomst": "Israël",
+      "Producent": "Tmi Products from Nature Ltd., 20 Haamal St., Ashkelon 7878520, Israël"
     },
     "warning": "Kan stukjes notendop bevatten. Jonge kinderen alleen onder toezicht van een volwassene laten eten.",
     "searchName": "Bites dadel, cashew & pistache",
@@ -1135,7 +1146,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6868629671574179
-    }
+    },
+    "labelSources": [
+      "source-labels/20261009-aanvulling-43.jpg",
+      "source-labels/20261009-aanvulling-44.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "kosherSource": "source-labels/20261009-aanvulling-44.jpg",
+    "kosherChecked": "2026-10-09",
+    "barcodeSource": "source-labels/20261009-aanvulling-44.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 25,
@@ -1854,16 +1875,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam.",
-    "kosher": "Badatz Edah Hachareidis of Jerusalem",
+    "kosher": "Badatz Edah HaChareidis (Melk)",
     "image": "images/product-100-edited.png",
     "sourcePhotos": [
       "100.jpg",
       "101.jpg"
     ],
     "productInfo": {
-      "Inhoud": "100 g"
+      "Inhoud": "100 g",
+      "Samenstelling": "Melkchocolade met melkcrèmevulling (40%). Minimaal 30% cacaobestanddelen in de melkchocolade."
     },
-    "allergenNote": "De oorspronkelijke verpakking noemt melk, amandelen, hazelnoten en soja. De Nederlandse sticker vermeldt een afwijkende receptuur; de bovenstaande ingrediënten zijn vertaald van het oorspronkelijke etiket.",
+    "allergenNote": "Ingrediënten en allergenen bevestigd op het oorspronkelijke Hebreeuwse etiket. Dit heeft voorrang boven de afwijkende Nederlandse sticker.",
     "labelConflict": true,
     "searchName": "Melkchocolade met melkcrème",
     "sourceUrl": "https://snackfood.delivery/product/elite-milk-chocolate-bar-filled-with-milk-cream-100-grams-from-israel-kosher-certified/",
@@ -1888,7 +1910,17 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 2.398425196850394
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "labelSources": [
+      "source-labels/20261009-aanvulling-45.jpg",
+      "source-labels/20261009-aanvulling-46.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "ingredientsSource": "source-labels/20261009-aanvulling-46.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "source-labels/20261009-aanvulling-46.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 40,
@@ -2134,24 +2166,29 @@ window.KPI_PRODUCTS = [
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290119384068",
-    "ingredients": "Melkchocolade, biscuit (tarwegluten; verdere samenstelling niet leesbaar), suiker, hazelnootpuree (10,5%), plantaardige oliën en vetten, cacaomassa, emulgator (koolzaadlecithine).",
+    "ingredients": "Melkchocolade, biscuit (tarwe [gluten], soja), suiker, hazelnootpasta (10,5%), plantaardige oliën en vetten, sojameel, cacaomassa, emulgator (koolzaadlecithine).",
     "allergens": [
-      "Melk",
       "Tarwe (gluten)",
-      "Hazelnoten"
+      "Melk",
+      "Amandelen",
+      "Hazelnoten",
+      "Pecannoten",
+      "Ei",
+      "Soja"
     ],
-    "mayContain": "Pecannoten, sesam, pinda’s, andere noten en ei.",
-    "kosher": "Badatz Edah Hachareidis of Jerusalem",
+    "mayContain": "Gerst, haver en rogge (gluten), pinda’s en sesam.",
+    "kosher": "Badatz Edah HaChareidis (Melk)",
     "image": "images/product-116-web.jpg",
     "sourcePhotos": [
       "116.jpg",
       "117.jpg"
     ],
     "productInfo": {
-      "Inhoud": "100 g"
+      "Inhoud": "100 g",
+      "Samenstelling": "Melkchocolade (54%), biscuit (13%) en notencrème (33%). Minimaal 30% cacaobestanddelen in de melkchocolade."
     },
-    "allergenNote": "De sticker dekt het oorspronkelijke etiket af. De volledige samenstelling van de chocolade en het biscuit is nog niet bevestigd.",
-    "ingredientsIncomplete": true,
+    "allergenNote": "Volledige zichtbare ingrediënten- en allergenenvermelding overgenomen van het oorspronkelijke Hebreeuwse etiket. De samenstelling van melkchocolade en biscuit is op dat etiket niet verder uitgesplitst.",
+    "ingredientsIncomplete": false,
     "searchName": "Kranch biscuit & hazelnootcrème",
     "sourceUrl": "https://snackfood.delivery/product/elite-crunch-chocolate-bar-biscuit-filled-with-hazelnut-cream-100-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -2174,7 +2211,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.2506811989100817
-    }
+    },
+    "labelSources": [
+      "source-labels/20261009-aanvulling-48.jpg",
+      "source-labels/20261009-aanvulling-49.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "ingredientsSource": "source-labels/20261009-aanvulling-49.jpg",
+    "ingredientsChecked": "2026-10-09"
   },
   {
     "id": 46,
@@ -2428,7 +2472,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Melk, glutenbevattende granen, noten en pinda’s.",
-    "kosher": null,
+    "kosher": "Kedassia (Londen) / CRC Kashrus (Parve)",
     "image": "images/product-148-web.jpg",
     "sourcePhotos": [
       "148.jpg",
@@ -2460,7 +2504,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 2.08
-    }
+    },
+    "labelSources": [
+      "source-labels/20261009-aanvulling-50.jpg",
+      "source-labels/20261009-aanvulling-51.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "kosherSource": "source-labels/20261009-aanvulling-51.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 61,
@@ -2475,7 +2526,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Melk, glutenbevattende granen, noten en pinda’s.",
-    "kosher": null,
+    "kosher": "Kedassia (Londen) / CRC Kashrus (Parve)",
     "image": "images/product-151-web.jpg",
     "sourcePhotos": [
       "151.jpg",
@@ -2507,7 +2558,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 2.08
-    }
+    },
+    "labelSources": [
+      "source-labels/20261009-aanvulling-52.jpg",
+      "source-labels/20261009-aanvulling-53.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "kosherSource": "source-labels/20261009-aanvulling-53.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 62,
@@ -2521,7 +2579,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Melk, glutenbevattende granen, pinda’s en noten.",
-    "kosher": null,
+    "kosher": "Kedassia (Londen) / CRC Kashrus (Parve)",
     "image": "images/product-154-web.jpg",
     "sourcePhotos": [
       "154.jpg",
@@ -2553,7 +2611,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 2.08
-    }
+    },
+    "labelSources": [
+      "source-labels/20261009-aanvulling-54.jpg",
+      "source-labels/20261009-aanvulling-55.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "kosherSource": "source-labels/20261009-aanvulling-55.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 51,
@@ -2661,9 +2726,10 @@ window.KPI_PRODUCTS = [
       "134.jpg"
     ],
     "productInfo": {
-      "Inhoud": "40 g"
+      "Inhoud": "40 g",
+      "Geproduceerd voor": "Elisha Food BV, Lange Leemstraat 279, B-2018 Antwerpen"
     },
-    "ingredientsIncomplete": true,
+    "ingredientsIncomplete": false,
     "searchName": "Marsepein 50/50 met chocolade",
     "sourceUrl": "https://elisha.be/en/Marzipan-Chocolate",
     "imagePresentation": {
@@ -2687,7 +2753,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.4957055214723927
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "labelSources": [
+      "source-labels/20261009-aanvulling-56.jpg"
+    ],
+    "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
+    "kosherSource": "source-labels/20261009-aanvulling-56.jpg",
+    "kosherChecked": "2026-10-09",
+    "ingredientsSource": "source-labels/20261009-aanvulling-56.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsNote": "Letterlijk overgenomen van het etiket: 50% suiker, 50% amandelen, chocolade, conserveermiddel E202. De samenstelling van de chocolade en de grondslag van de percentages worden niet nader vermeld.",
+    "barcodeSource": "source-labels/20261009-aanvulling-56.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false
   },
   {
     "id": 54,
