@@ -738,7 +738,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "Eieren, mosterd, lupine en soja.",
-    "kosher": "Badatz Edah HaChareidis",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "category": "Pasta en couscous",
     "image": "images/product-18.jpg",
     "productInfo": {
@@ -749,7 +749,7 @@ window.KPI_PRODUCTS = [
       "source-labels/6011b7de-3b29-48ef-ac5f-07236e335821.jpg",
       "source-labels/74d66526-24d9-4f85-a1bc-039e773fcbda.jpg"
     ],
-    "kosherNeedsCheck": true,
+    "kosherNeedsCheck": false,
     "imageSource": "https://www.nestleprofessional.co.il/brands/osem/thin-noodles-osem",
     "imageSourceUrl": "https://www.nestleprofessional.co.il/sites/default/files/styles/np_product_detail/public/product_images/12570965_7290000060163.jpg?itok=Qt_xP9nW",
     "imageSourceChecked": "2026-09-27",
@@ -760,8 +760,13 @@ window.KPI_PRODUCTS = [
       "height": 0.9801652892561984,
       "aspectRatio": 0.5328836424957841
     },
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/3.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/4.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/3.jpg, thee/4.jpg"
   },
   {
     "id": 19,
@@ -774,7 +779,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "Eieren, mosterd, lupine en soja.",
-    "kosher": "Badatz Edah HaChareidis",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "category": "Pasta en couscous",
     "image": "images/product-19.jpg",
     "productInfo": {
@@ -785,7 +790,7 @@ window.KPI_PRODUCTS = [
       "source-labels/03610a88-bda5-4224-95d1-7fa0325cddf6.jpg",
       "source-labels/66f5458f-52fc-4488-952b-5eeecefb3372.jpg"
     ],
-    "kosherNeedsCheck": true,
+    "kosherNeedsCheck": false,
     "imageSource": "https://www.osem-nestle.co.il/brands/אסם/פתיתים-ותוספות/אסם-אטריות-בינוניות",
     "imageSourceUrl": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/product_images_new/12571051_7290000060958_Enlarge.jpg?v=1790492786",
     "imageSourceChecked": "2026-09-27",
@@ -796,8 +801,13 @@ window.KPI_PRODUCTS = [
       "height": 0.9888888888888889,
       "aspectRatio": 0.6235955056179775
     },
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/1.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/2.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/1.jpg, thee/2.jpg"
   },
   {
     "id": 20,
@@ -1273,7 +1283,7 @@ window.KPI_PRODUCTS = [
       "Selderij"
     ],
     "mayContain": "Sesam en soja.",
-    "kosher": "Badatz Edah HaChareidis",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem / Opperrabbinaat Sderot (Parve)",
     "category": "Sauzen",
     "image": "images/product-33-online.jpg",
     "imageNeedsCheck": false,
@@ -1284,7 +1294,7 @@ window.KPI_PRODUCTS = [
       "source-labels/a8dc356e-fd6e-45ee-be8b-8ede34625b67.jpg",
       "source-labels/17a9c7c9-745b-4420-a11a-14671f671df7.jpg"
     ],
-    "kosherNeedsCheck": true,
+    "kosherNeedsCheck": false,
     "imageSource": "https://www.bishulim.co.il/כל-המוצרים/רוטב-צלי-לבקר-30-גרם/",
     "imageSourceUrl": "https://www.bishulim.co.il/sites/default/files/product_images_new/6919930_7290000493176.jpg",
     "imageSourceChecked": "2026-09-27",
@@ -1295,12 +1305,16 @@ window.KPI_PRODUCTS = [
       "height": 0.9200845665961945,
       "aspectRatio": 0.6585477941176471
     },
-    "kosherChecked": "2026-09-27",
+    "kosherChecked": "2026-10-09",
     "kosherVerification": "label",
     "barcodeSource": "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/2025-05/תקנון תחרות שבועות - ניננגה במטבח.pdf",
     "ingredientsSource": "https://www.osem-nestle.co.il/brands/אסם/עזרי-בישול/אבקה-להכנת-רוטב-צלי",
     "ingredientsChecked": "2026-09-28",
-    "ingredientsVerification": "label-and-manufacturer"
+    "ingredientsVerification": "label-and-manufacturer",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/5.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/5.jpg"
   },
   {
     "id": 34,
@@ -1308,12 +1322,12 @@ window.KPI_PRODUCTS = [
     "name": "Champignonsausmix",
     "variant": "30 g",
     "ean": "7290000493183",
-    "ingredients": "Tarwebloem (gluten).",
+    "ingredients": "Maltodextrine, tarwebloem (gluten), zetmeel, plantaardige oliën, gedroogde groenten (champignons [6,5%], ui), zout, smaakversterkers (mononatriumglutamaat, E635), suiker, specerijen, zoutvervanger (kaliumchloride), gemodificeerd zetmeel (E1450), gistextract, stabilisator (xanthaangom), gebrande suiker, antiklontermiddel (calciumfosfaat), gehydrolyseerd tarwe-eiwit, aroma’s, antioxidant (rozemarijnextract).",
     "allergens": [
       "Tarwe (gluten)"
     ],
     "mayContain": "Soja, selderij en sesam.",
-    "kosher": "Badatz Edah HaChareidis / Opperrabbinaat Sderot (parve)",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem / Opperrabbinaat Sderot (Parve)",
     "category": "Sauzen",
     "image": "images/product-34-online.jpg",
     "imageNeedsCheck": false,
@@ -1324,9 +1338,8 @@ window.KPI_PRODUCTS = [
       "source-labels/73c13217-a801-4ded-8310-0ce991df990c.jpg",
       "source-labels/c3504799-cc08-4610-a9b7-f7da348f1232.jpg"
     ],
-    "ingredientsPartial": true,
-    "ingredientsNote": "De volledige ingrediëntenlijst moet nog worden gecontroleerd; de beschikbare etiketfoto is deels afgesneden of onvoldoende leesbaar.",
-    "kosherNeedsCheck": true,
+    "ingredientsPartial": false,
+    "kosherNeedsCheck": false,
     "imageSource": "https://www.shufersal.co.il/online/he/p/P_493183",
     "imageSourceUrl": "https://res.cloudinary.com/shufersal/image/upload/f_auto%2Cq_auto/v1551800922/prod/product_images/products_zoom/ANO28_Z_P_493183_1.png",
     "imageSourceChecked": "2026-09-27",
@@ -1337,8 +1350,16 @@ window.KPI_PRODUCTS = [
       "height": 0.9477777777777778,
       "aspectRatio": 0.6611957796014069
     },
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/6.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/7.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/6.jpg, thee/7.jpg",
+    "ingredientsSource": "Etiketfoto gebruiker: C:/Users/ellag/OneDrive/Desktop/thee/7.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label"
   },
   {
     "id": 35,
@@ -1427,7 +1448,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Sesam en selderij.",
-    "kosher": "Nog niet bevestigd",
+    "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve) · Bishul Yisrael",
     "category": "Maaltijdbekers",
     "image": "images/product-37-straight.png",
     "imageNeedsCheck": true,
@@ -1438,12 +1459,10 @@ window.KPI_PRODUCTS = [
       "source-labels/6711e6e2-81d2-4d49-aa34-a03e1890dba9.jpg",
       "source-labels/6e2f0df2-71e1-4d76-a763-df5d083e7802.jpg"
     ],
-    "ingredientsPartial": true,
-    "ingredientsNote": "De ingrediënten zijn afgelezen van de vergrote etiketfoto. Enkele woorden aan de rand van de beker zijn niet volledig leesbaar; de lijst is nog niet volledig bevestigd.",
-    "kosherNeedsCheck": true,
-    "kosherChecked": "2026-09-28",
-    "kosherVerification": "unconfirmed",
-    "kosherNote": "Er staat een keurmerk op de etiketfoto, maar de naam is onvoldoende leesbaar. Ook online is de certificerende instantie voor deze variant niet bevestigd.",
+    "ingredientsPartial": false,
+    "kosherNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
     "imageSource": "Bestaande productfoto op verzoek recht van voren gemaakt met imagegen op 27 september 2026",
     "imageSourceChecked": "2026-09-27",
     "imageFrame": {
@@ -1459,9 +1478,15 @@ window.KPI_PRODUCTS = [
       "https://alwaystogether.community/collections/soup-stocks"
     ],
     "productChecked": "2026-09-28",
-    "ingredientsChecked": "2026-09-28",
-    "ingredientsVerification": "original-label-enlarged-partial",
-    "ingredientsSource": "source-labels/6e2f0df2-71e1-4d76-a763-df5d083e7802.jpg"
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsSource": "Etiketfoto gebruiker: C:/Users/ellag/OneDrive/Desktop/thee/10.jpg",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/8.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/9.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/10.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/8.jpg, thee/9.jpg, thee/10.jpg"
   },
   {
     "id": 38,
@@ -1469,14 +1494,14 @@ window.KPI_PRODUCTS = [
     "name": "Instant noedels met groentesmaak",
     "variant": "68 g",
     "ean": "3770021861627",
-    "ingredients": "Noedels: tarwebloem (gluten), palmolie, cassavezetmeel, zout, stabilisatoren (guargom [E412], xanthaangom [E415], natriumtrifosfaat [E451], natriumhexametafosfaat [E452], tetranatriumpyrofosfaat [E450]). Kruidenmengsel: zout, smaakversterker (mononatriumglutamaat [E621]), suiker, groentepoeders (koriander, selderij, champignon, tomaat), gistextract, sojasauspoeder, gehydrolyseerd plantaardig eiwit (water, soja, maïs, maltodextrine), smaakversterker (E635), maltodextrine. Gedroogde groenten: wortel, kool en lente-ui.",
+    "ingredients": "Noedels: tarwebloem (gluten), palmolie, cassavezetmeel, zout, stabilisatoren (guargom [E412], xanthaangom [E415], natriumtrifosfaat [E451], natriumhexametafosfaat [E452], tetranatriumpyrofosfaat [E450]). Kruidenmengsel: zout, smaakversterker (mononatriumglutamaat [E621]), suiker, groentepoeders (koriander, selderij, champignon, tomaat), gistextract, sojasauspoeder, gehydrolyseerd plantaardig eiwit (water, soja, maïs), maltodextrine, smaakversterker (E635), maltodextrine. Gedroogde groenten: wortel, kool en lente-ui.",
     "allergens": [
       "Tarwe (gluten)",
       "Soja",
       "Selderij"
     ],
     "mayContain": "Sesam.",
-    "kosher": "Nog niet bevestigd",
+    "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve) · Bishul Yisrael",
     "category": "Maaltijdbekers",
     "image": "images/product-38-straight.png",
     "imageNeedsCheck": true,
@@ -1487,12 +1512,10 @@ window.KPI_PRODUCTS = [
       "source-labels/91a8d807-8d80-484f-82ed-2bad6f0b186d.jpg",
       "source-labels/7915a2ff-7443-40b8-a4c9-81e1d8963ca4.jpg"
     ],
-    "ingredientsPartial": true,
-    "ingredientsNote": "De ingrediënten zijn afgelezen van de vergrote etiketfoto. Enkele woorden aan de rand van de beker zijn niet volledig leesbaar; de lijst is nog niet volledig bevestigd.",
-    "kosherNeedsCheck": true,
-    "kosherChecked": "2026-09-28",
-    "kosherVerification": "unconfirmed",
-    "kosherNote": "Er staat een keurmerk op de etiketfoto, maar de naam is onvoldoende leesbaar. Ook online is de certificerende instantie voor deze variant niet bevestigd.",
+    "ingredientsPartial": false,
+    "kosherNeedsCheck": false,
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
     "imageSource": "Bestaande productfoto op verzoek recht van voren gemaakt met imagegen op 27 september 2026",
     "imageSourceChecked": "2026-09-27",
     "imageFrame": {
@@ -1508,9 +1531,14 @@ window.KPI_PRODUCTS = [
       "https://alwaystogether.community/collections/soup-stocks"
     ],
     "productChecked": "2026-09-28",
-    "ingredientsChecked": "2026-09-28",
-    "ingredientsVerification": "original-label-enlarged-partial",
-    "ingredientsSource": "source-labels/7915a2ff-7443-40b8-a4c9-81e1d8963ca4.jpg"
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsVerification": "label",
+    "ingredientsSource": "Etiketfoto gebruiker: C:/Users/ellag/OneDrive/Desktop/thee/12.jpg",
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/11.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/12.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/11.jpg, thee/12.jpg"
   },
   {
     "id": 39,
@@ -1523,7 +1551,7 @@ window.KPI_PRODUCTS = [
       "Melk"
     ],
     "mayContain": "",
-    "kosher": "Nog niet bevestigd",
+    "kosher": "Chalav Yisrael · KLP",
     "category": "Melk en koffie",
     "image": "images/product-39-online.jpg",
     "imageNeedsCheck": false,
@@ -1534,7 +1562,7 @@ window.KPI_PRODUCTS = [
       "source-labels/9e2b1dd7-66fb-41a6-8654-b2e43ec91319.jpg",
       "source-labels/22ce7ea2-a498-4f7c-8298-76eaa676764d.jpg"
     ],
-    "kosherNeedsCheck": true,
+    "kosherNeedsCheck": false,
     "imageSource": "https://www.spesaonline.unes.it/u2/p/152966",
     "imageSourceUrl": "https://unesretailprod.blob.core.windows.net/retail/FRESCHI/SALUMI%20/%20LATTICINI/152966/51E4CC6F-4E60-4A64-986F-ADC31E382551_1_FULL.Jpg",
     "imageSourceChecked": "2026-09-27",
@@ -1545,12 +1573,18 @@ window.KPI_PRODUCTS = [
       "height": 0.942,
       "aspectRatio": 0.37154989384288745
     },
-    "kosherChecked": "2026-09-27",
-    "kosherVerification": "unconfirmed",
-    "kosherNote": "Op de aangeleverde foto’s is geen kosjerkeurmerk zichtbaar. Online is geen certificaat voor deze exacte verpakking bevestigd.",
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
     "kosherSources": [
       "https://www.sterilgarda.it/en/milk/"
-    ]
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/13.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/14.jpg"
+    ],
+    "kosherSource": "Etiketfoto gebruiker: thee/13.jpg, thee/14.jpg",
+    "kosherForPassover": true,
+    "kosherReview": "KASHER LEPESAH HALAV ISRAEL leesbaar op de verpakking. Naam van de toezichthouder deels afgesneden; nog niet volledig bevestigd."
   },
   {
     "id": 40,
