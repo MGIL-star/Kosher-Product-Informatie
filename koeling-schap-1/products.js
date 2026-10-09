@@ -429,7 +429,7 @@ window.KPI_PRODUCTS = [
     "englishName": "Beef Cocktails",
     "brand": "Prime Cut",
     "category": "Worstjes",
-    "variant": "",
+    "variant": "320 g",
     "ean": "5060199311740",
     "ingredients": "Rundvlees (61%), water, aardappelzetmeel, SOJA, zout, specerijen (SULFIETEN), suikers (dextrose), stabilisatoren (E407, E415), emulgatoren (E451, E450), antioxidanten (E301, E316), smaakversterker (E621), zuurteregelaars (E262, E327, E331, E500), conserveermiddel (natriumnitriet, wat kan leiden tot natuurlijk voorkomend natriumnitraat), cellulose (E460), gemodificeerd zetmeel.",
     "allergens": [
