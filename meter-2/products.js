@@ -1,4 +1,3 @@
-// Fysieke etiketten zijn leidend. Bronnen en open controlepunten: CONTROLE.md.
 window.KPI_PRODUCTS = [
   {
     "id": 1,
@@ -6,7 +5,7 @@ window.KPI_PRODUCTS = [
     "brand": "Cooymans",
     "category": "Advocaat",
     "variant": "700 ml · 14%",
-    "ingredients": "Bereid met scharreleieren. De productomschrijving noemt eidooiers, suiker en brandewijn.",
+    "ingredients": "Hoofdingrediënten: eieren, suiker, brandewijn en alcohol.",
     "allergens": [
       "EI"
     ],
@@ -17,10 +16,14 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Product": "Advocaat bereid met scharreleieren",
       "Herkomst": "Nederland",
-      "Inhoud": "700 ml",
-      "Alcohol": "14%"
+      "Inhoud": "70 cl",
+      "Alcohol": "14% vol",
+      "Kleur": "Lichtgeel",
+      "Geur": "Zoet",
+      "Smaak": "Zacht en romig",
+      "Afdronk": "Zacht"
     },
-    "reviewNotes": "Barcode 8710701001160 opgegeven door gebruiker, checkdigit geldig. Exacte EAN-match bij Urban Drinks bevestigt 700 ml en 14%. Online foto Cooymans Original 70 cl gebruikt. Ei bevestigd; volledige ingrediëntenlijst en kosherstatus nog niet bevestigd. Gebruiker geeft aan: geen hechsher; onderdeel daarom weggelaten bij advocaat.",
+    "reviewNotes": "Barcode 8710701001160 opgegeven door gebruiker, checkdigit geldig. Exacte EAN-match bij Urban Drinks bevestigt 700 ml en 14%. Online foto Cooymans Original 70 cl gebruikt. Ei bevestigd; volledige ingrediëntenlijst en kosherstatus nog niet bevestigd. Gebruiker geeft aan: geen hechsher; onderdeel daarom weggelaten bij advocaat. Op 9 oktober 2026 hoofdingrediënten, kleur, geur, smaak en afdronk aangevuld volgens gebruikersopgave. Deze hoofdingrediënten zijn niet als volledige etiketlijst aangemerkt.",
     "sourcePhotos": [
       1
     ],
@@ -62,7 +65,9 @@ window.KPI_PRODUCTS = [
       "width": 0.26,
       "height": 0.947,
       "aspectRatio": 0.27455121436114044
-    }
+    },
+    "ingredientsPartial": true,
+    "ingredientsSource": "Hoofdingrediënten en productomschrijving aangeleverd door gebruiker op 9 oktober 2026; geen volledige etiketlijst."
   },
   {
     "id": 2,
