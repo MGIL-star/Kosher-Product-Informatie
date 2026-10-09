@@ -164,7 +164,7 @@ window.KPI_PRODUCTS = [
     "brand": "Davidovich",
     "name": "Klassiek paneermeel",
     "variant": "400 g",
-    "ean": "",
+    "ean": "7290015033299",
     "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E322, E481, E472, E471), conserveermiddelen (E282, E202, E200), haver (gluten), meelbehandelingsmiddelen (sojameel, L-cysteïne, ascorbinezuur [vitamine C], alfa-amylase), zuurteregelaar (citroenzuur).",
     "allergens": [
       "Tarwe (gluten)",
@@ -211,8 +211,9 @@ window.KPI_PRODUCTS = [
       "5a7d8771-1d5d-4f4d-a255-246817c62a1c.jpg"
     ],
     "ingredientsPartial": false,
-    "barcodeNeedsCheck": true,
-    "barcodeSource": "Eerder toegewezen barcode 7290011553876 hoort volgens gebruikersbevestiging bij 800 g; barcode voor 400 g nog niet aangeleverd."
+    "barcodeNeedsCheck": false,
+    "barcodeSource": "Gebruiker bevestigt op 9 oktober 2026 barcode 7290015033299 voor Davidovich Klassiek paneermeel 400 g.",
+    "barcodeChecked": "2026-10-09"
   },
   {
     "brand": "Davidovich",
