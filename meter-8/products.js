@@ -1866,14 +1866,16 @@ window.KPI_PRODUCTS = [
     "ean": "8715645279019",
     "ingredients": "Water, fenegriek, zout, citroenzuur, chilipeper, xanthaangom, natriumbenzoaat, kaliumsorbaat.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-amba.png",
     "imageIllustration": true,
     "productInfo": {
       "Inhoud": "380 g"
     },
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op de fysieke etiketfoto f249792d-2edb-43b3-a638-bf08ec8496a1.jpg, aangeleverd door gebruiker. Gewicht 380 g en barcode 8715645279019 uit eerdere gebruikersopgave. Geen hechsher vastgesteld. Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
-    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten."
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op de fysieke etiketfoto f249792d-2edb-43b3-a638-bf08ec8496a1.jpg, aangeleverd door gebruiker. Gewicht 380 g en barcode 8715645279019 uit eerdere gebruikersopgave.  Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
+    "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 23,
@@ -1884,13 +1886,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781934996",
     "ingredients": "100% sumak.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-sumak-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "155 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-03.jpg",
@@ -1903,7 +1905,9 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan sporen bevatten van mosterd, sesam en gluten.",
     "ingredientsSource": "source-labels/20261009-albadya-02.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 24,
@@ -1914,13 +1918,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781934934",
     "ingredients": "100% zoete paprika.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-paprika-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Bestaande samenstelling 100% zoete paprika behouden; geen afzonderlijke ingrediëntenregel zichtbaar op de nieuwe foto’s.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Bestaande samenstelling 100% zoete paprika behouden; geen afzonderlijke ingrediëntenregel zichtbaar op de nieuwe foto’s.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-06.jpg",
@@ -1930,7 +1934,9 @@ window.KPI_PRODUCTS = [
       "source-labels/20261009-albadya-05.jpg",
       "source-labels/20261009-albadya-06.jpg"
     ],
-    "mayContain": "Kan sporen bevatten van mosterd, sesam en gluten."
+    "mayContain": "Kan sporen bevatten van mosterd, sesam en gluten.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 25,
@@ -1943,13 +1949,13 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-shoarma-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "185 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden. Eerdere verwisseling met de ingrediënten van curry masala gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden. Eerdere verwisseling met de ingrediënten van curry masala gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -1962,7 +1968,9 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientsSource": "source-labels/20261009-albadya-08.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 26,
@@ -1973,13 +1981,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781793920",
     "ingredients": "100% ui.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-ui-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "125 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-11.jpg",
@@ -1992,7 +2000,9 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "ingredientsSource": "source-labels/20261009-albadya-12.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 27,
@@ -2003,13 +2013,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781935429",
     "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-ras-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "165 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Gewicht 165 g uit eerdere gebruikersopgave behouden; nieuwe gewichtsaanduiding deels door reflectie bedekt.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Gewicht 165 g uit eerdere gebruikersopgave behouden; nieuwe gewichtsaanduiding deels door reflectie bedekt.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2022,7 +2032,9 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientsSource": "source-labels/20261009-albadya-15.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 28,
@@ -2033,13 +2045,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781233624",
     "ingredients": "100% grove paprika.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-pulbiber-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-17.jpg",
@@ -2052,7 +2064,9 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "ingredientsSource": "source-labels/20261009-albadya-18.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 29,
@@ -2065,13 +2079,13 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-curry-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "145 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Eerdere verwisseling met de ingrediënten van shoarma gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Eerdere verwisseling met de ingrediënten van shoarma gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2084,7 +2098,9 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientsSource": "source-labels/20261009-albadya-21.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 30,
@@ -2095,13 +2111,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781936471",
     "ingredients": "100% chili.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-chili-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "135 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-23.jpg",
@@ -2114,7 +2130,9 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "ingredientsSource": "source-labels/20261009-albadya-24.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 31,
@@ -2125,13 +2143,13 @@ window.KPI_PRODUCTS = [
     "ean": "8718781232153",
     "ingredients": "100% koriander.",
     "allergens": [],
-    "kosher": "Rabbinaat Amsterdam",
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-koriander-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
       "Inhoud": "115 g"
     },
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Bestaande vermelding Rabbinaat Amsterdam behouden; op deze foto’s geen nieuw Kosher-keurmerk vastgesteld. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-26.jpg",
@@ -2144,7 +2162,9 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "ingredientsSource": "source-labels/20261009-albadya-27.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 32,

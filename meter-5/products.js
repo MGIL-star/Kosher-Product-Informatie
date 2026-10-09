@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "Sesam, selderij, mosterd en gluten.",
     "category": "Sauzen",
-    "kosher": null,
+    "kosher": "PIG Amsterdam",
     "image": "images/albadya-amba-clean.png",
     "productInfo": {
       "Inhoud": "380 g",
@@ -223,7 +223,9 @@ window.KPI_PRODUCTS = [
       "f9bcdd35-0a40-42af-9c95-633a83f6c726.jpg"
     ],
     "imageEdited": true,
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 7,
@@ -1446,7 +1448,6 @@ window.KPI_PRODUCTS = [
       0.98222,
       0.96833
     ],
-    "kosherReview": "Online gezocht; exact keurmerk voor deze variant nog niet betrouwbaar bevestigd.",
     "kosherSource": "https://elisha.be/en/tuna-in-sunflower-oil",
     "barcodeSource": "Door gebruiker bevestigd in gesprek."
   },
