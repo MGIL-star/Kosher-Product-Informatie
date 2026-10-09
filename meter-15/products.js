@@ -253,9 +253,9 @@ window.KPI_PRODUCTS = [
     "variant": "45 g",
     "category": "Snacks",
     "ean": "5941868203248",
-    "ingredients": "Nog te controleren: de ingrediëntenlijst is niet zichtbaar op de aangeleverde foto’s van deze 45 g-verpakking.",
-    "allergens": null,
-    "mayContain": "Nog te controleren op de 45 g-verpakking.",
+    "ingredients": "Maïszetmeel (90%), palmolie, zout (0,6%).",
+    "allergens": [],
+    "mayContain": "Glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten.",
     "kosher": "OU (Parve)",
     "image": "images/gusto-45g-foodplus.png",
     "sourcePhotos": [
@@ -263,11 +263,14 @@ window.KPI_PRODUCTS = [
       18
     ],
     "imageSource": "https://uk.foodplus.eu/en_GB/p/Corn-Salted-Puffs-Pufuleti-Simpli-45g-Gusto/26419",
-    "reviewNote": "Nieuwe voorkantfoto 88 bevestigt 45 g en OU. De aangeleverde achteretiketten tonen expliciet 85 g; ingrediënten en allergenen daarvan niet zonder bevestiging overgenomen voor 45 g.",
+    "reviewNote": "Gebruiker bevestigt op 9 oktober 2026 dezelfde samenstelling voor Gusto 45 g en 85 g. Ingrediënten, allergenen en sporenvermelding van het gecontroleerde 85 g-etiket overgenomen. Eigen gewicht, barcode, OU-vermelding en afbeelding van 45 g behouden.",
     "labelSources": [
       "Chatbijlage 9 oktober 2026: thee/88.jpg"
     ],
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/88.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsSource": "Gebruiker bevestigt op 9 oktober 2026 dat Gusto 45 g en 85 g dezelfde samenstelling hebben; ingrediënten en sporenvermelding overgenomen van het gecontroleerde 85 g-etiket."
   }
 ];
