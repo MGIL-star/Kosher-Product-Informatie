@@ -1866,7 +1866,7 @@ window.KPI_PRODUCTS = [
     "ean": "8715645279019",
     "ingredients": "Water, fenegriek, zout, citroenzuur, chilipeper, xanthaangom, natriumbenzoaat, kaliumsorbaat.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-amba.png",
     "imageIllustration": true,
     "productInfo": {
@@ -1874,7 +1874,7 @@ window.KPI_PRODUCTS = [
     },
     "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op de fysieke etiketfoto f249792d-2edb-43b3-a638-bf08ec8496a1.jpg, aangeleverd door gebruiker. Gewicht 380 g en barcode 8715645279019 uit eerdere gebruikersopgave.  Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -1886,7 +1886,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781934996",
     "ingredients": "100% sumak.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-sumak-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -1906,7 +1906,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-02.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -1918,7 +1918,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781934934",
     "ingredients": "100% zoete paprika.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-paprika-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -1935,7 +1935,7 @@ window.KPI_PRODUCTS = [
       "source-labels/20261009-albadya-06.jpg"
     ],
     "mayContain": "Kan sporen bevatten van mosterd, sesam en gluten.",
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -1949,7 +1949,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-shoarma-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -1969,7 +1969,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-08.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -1981,7 +1981,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781793920",
     "ingredients": "100% ui.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-ui-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2001,7 +2001,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-12.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -2013,7 +2013,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781935429",
     "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-ras-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2033,7 +2033,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-15.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -2045,7 +2045,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781233624",
     "ingredients": "100% grove paprika.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-pulbiber-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2065,7 +2065,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-18.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -2079,7 +2079,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MOSTERD"
     ],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-curry-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2099,7 +2099,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-21.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -2111,7 +2111,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781936471",
     "ingredients": "100% chili.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-chili-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2131,7 +2131,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-24.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
@@ -2143,7 +2143,7 @@ window.KPI_PRODUCTS = [
     "ean": "8718781232153",
     "ingredients": "100% koriander.",
     "allergens": [],
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-koriander-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {
@@ -2163,7 +2163,7 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "source-labels/20261009-albadya-27.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {

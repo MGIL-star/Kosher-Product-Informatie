@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "mayContain": "Sesam, selderij, mosterd en gluten.",
     "category": "Sauzen",
-    "kosher": "PIG Amsterdam",
+    "kosher": "PIG Amsterdam – Rabbijn Toledano",
     "image": "images/albadya-amba-clean.png",
     "productInfo": {
       "Inhoud": "380 g",
@@ -224,7 +224,7 @@ window.KPI_PRODUCTS = [
     ],
     "imageEdited": true,
     "ingredientsPartial": false,
-    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam voor alle Albadya-kruiden en Amba.",
+    "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09"
   },
   {
