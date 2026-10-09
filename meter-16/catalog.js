@@ -78,7 +78,7 @@
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div></section>
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechsher</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
+      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
       ${product.sources?.length ? `<section><h3>Bronnen productinformatie</h3><ul>${product.sources.map(url => `<li><a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(new URL(url).hostname.replace(/^www\./, ''))}</a></li>`).join('')}</ul></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || 'Niet bekend')}</p></section>
     </div>`;

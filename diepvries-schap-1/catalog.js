@@ -74,7 +74,7 @@
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      <section><h3>Hechsher / kosherinformatie</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
+      <section><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
     </div>`;
     dialog.showModal();
   }
