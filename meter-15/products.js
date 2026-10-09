@@ -1,5 +1,3 @@
-// Etiketgegevens: fysieke foto's 1.jpg t/m 18.jpg, aangeleverd door de gebruiker.
-// Afbeeldingen: afzonderlijk gecontroleerde online bronnen; zie CONTROLE.md.
 window.KPI_PRODUCTS = [
   {
     "id": 1,
@@ -46,7 +44,18 @@ window.KPI_PRODUCTS = [
       6
     ],
     "imageSource": "https://seasonskosher.com/Queens/category/10576/marshmallow/414748/osem-bamba-marshmallow-filling-21-oz",
-    "reviewNote": "Online foto toont de Hebreeuwse 60g-verpakking. De volledig leesbare ingrediëntenlijst op foto 5 is overgenomen. Het gedeeltelijk zichtbare Britse tekstblok met percentage 25,4% moet nog volledig worden gecontroleerd. Het Badatz-keurmerk vermeldt dat zijn toezicht niet voor Pesach geldt."
+    "reviewNote": "Volledige Engelse ingrediëntenlijst en sporenvermelding bevestigd op de nieuwe foto van 9 oktober 2026. Geen percentages toegevoegd vanuit een ander etiket. Bestaande barcode, gewicht, Hechser en waarschuwing behouden.",
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/81.jpg",
+      "Chatbijlage 9 oktober 2026: thee/82.jpg"
+    ],
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/82.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "productInfo": {
+      "Herkomst": "Israël",
+      "Etiketvermelding": "Bevat een genetisch gemodificeerd voedselingrediënt."
+    }
   },
   {
     "id": 3,
@@ -223,7 +232,19 @@ window.KPI_PRODUCTS = [
       16
     ],
     "imageSource": "Door gebruiker aangeleverde en geselecteerde productfoto: codex-clipboard-894a27db-47a2-4bbf-9dfd-af05719d4fd9.png",
-    "reviewNote": "Nederlands etiket vermeldt maïszetmeel; andere talen op dezelfde verpakking vermelden maïsgries. Nederlandse etikettekst letterlijk behouden; verschil ter controle."
+    "reviewNote": "85 g en OU bevestigd op voorkant; volledige Nederlandse ingrediëntenlijst en sporenvermelding bevestigd op foto’s 84–87. Nederlands etiket vermeldt maïszetmeel; overige talen noemen maïsgries. Nederlandse tekst letterlijk behouden.",
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/83.jpg",
+      "Chatbijlage 9 oktober 2026: thee/84.jpg",
+      "Chatbijlage 9 oktober 2026: thee/85.jpg",
+      "Chatbijlage 9 oktober 2026: thee/86.jpg",
+      "Chatbijlage 9 oktober 2026: thee/87.jpg"
+    ],
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/87.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/83.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 10,
@@ -242,6 +263,11 @@ window.KPI_PRODUCTS = [
       18
     ],
     "imageSource": "https://uk.foodplus.eu/en_GB/p/Corn-Salted-Puffs-Pufuleti-Simpli-45g-Gusto/26419",
-    "reviewNote": "Foto 18 toont voedingswaarden en barcode maar geen ingrediëntenlijst. Geen ingrediënten of allergenen van de 85 g-variant overgenomen."
+    "reviewNote": "Nieuwe voorkantfoto 88 bevestigt 45 g en OU. De aangeleverde achteretiketten tonen expliciet 85 g; ingrediënten en allergenen daarvan niet zonder bevestiging overgenomen voor 45 g.",
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/88.jpg"
+    ],
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/88.jpg",
+    "kosherChecked": "2026-10-09"
   }
 ];

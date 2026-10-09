@@ -97,7 +97,7 @@ window.KPI_PRODUCTS = [
     "brand": "Osem",
     "name": "Pretzelringen met sesam",
     "category": "Zoute snacks",
-    "variant": "",
+    "variant": "300 g",
     "ean": "077544162327",
     "ingredients": "Tarwebloem, sesamzaad (12%), palmolie, zeezout, suikers, gedroogde gist, gerstemout, emulgator (sojalecithine), rijsmiddel (natriumcarbonaat), zuurteregelaars (citroenzuur, natriumhydroxide).",
     "allergens": [
@@ -107,14 +107,16 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "",
-    "kosher": "OU (Parve) · Rabbinaat Yokneam",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/product-3-web.png",
     "sourcePhotos": [
       "3.jpg",
       "4.jpg",
       "5.jpg"
     ],
-    "productInfo": {},
+    "productInfo": {
+      "Inhoud": "300 g"
+    },
     "imagePresentation": {
       "corners": [
         [
@@ -135,7 +137,13 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6887417218543046
-    }
+    },
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/57.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/57.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 9,
@@ -196,7 +204,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "Sesam.",
-    "kosher": "Parve",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/product-12-supplied.png",
     "sourcePhotos": [
       "12.jpg",
@@ -226,7 +234,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.5726795096322241
-    }
+    },
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/58.jpg",
+      "Chatbijlage 9 oktober 2026: thee/59.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/59.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 15,
@@ -333,14 +348,16 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)"
     ],
     "mayContain": "Pinda’s, soja, amandelen, hazelnoten, mosterd en sesam.",
-    "kosher": "",
+    "kosher": "OU / Rabbijn Shmuel Eliezer Stern (Parve)",
     "image": "images/product-21-supplied.png",
     "sourcePhotos": [
       "21.jpg",
       "22.jpg",
       "23.jpg"
     ],
-    "productInfo": {},
+    "productInfo": {
+      "Kenmerken": "Gebakken, niet gefrituurd. Zonder kleurstoffen en conserveermiddelen."
+    },
     "imagePresentation": {
       "corners": [
         [
@@ -361,7 +378,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6666666666666666
-    }
+    },
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/60.jpg",
+      "Chatbijlage 9 oktober 2026: thee/61.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/61.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 24,
@@ -555,7 +579,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)"
     ],
     "mayContain": "Pinda’s, soja, amandelen, hazelnoten, mosterd en sesam.",
-    "kosher": "Parve",
+    "kosher": "OU / Rabbijn Shmuel Eliezer Stern / Badatz Edah HaChareidis (Parve)",
     "image": "images/product-36-supplied.png",
     "sourcePhotos": [
       "36.jpg",
@@ -563,7 +587,8 @@ window.KPI_PRODUCTS = [
       "38.jpg"
     ],
     "productInfo": {
-      "Inhoud": "150 g"
+      "Inhoud": "150 g",
+      "Kenmerken": "Gebakken, niet gefrituurd. Zonder kleurstoffen en conserveermiddelen."
     },
     "imagePresentation": {
       "corners": [
@@ -585,7 +610,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.76
-    }
+    },
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/62.jpg",
+      "Chatbijlage 9 oktober 2026: thee/63.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/63.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 39,
@@ -1500,17 +1532,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles geel",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535454",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop, kleurstof (E100).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#111",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "geel",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "geel"
     },
     "imagePresentation": {
       "corners": [
@@ -1534,7 +1567,20 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/70.jpg",
+      "Chatbijlage 9 oktober 2026: thee/71.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/70.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/71.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/70.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 113,
@@ -1542,17 +1588,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles rood",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535409",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop, kleurstof (E100), bietensap.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#113",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "rood",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "rood"
     },
     "imagePresentation": {
       "corners": [
@@ -1576,7 +1623,20 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/68.jpg",
+      "Chatbijlage 9 oktober 2026: thee/69.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/68.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/69.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/68.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 114,
@@ -1584,17 +1644,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles oranje",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535423",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop, kleurstof (E100), bietenconcentraat.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#114",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "oranje",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "oranje"
     },
     "imagePresentation": {
       "corners": [
@@ -1618,7 +1679,20 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/64.jpg",
+      "Chatbijlage 9 oktober 2026: thee/65.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/64.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/65.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/64.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 115,
@@ -1626,17 +1700,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles groen",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535416",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop, kleurstoffen (E100, E131).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#115",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "groen",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "groen"
     },
     "imagePresentation": {
       "corners": [
@@ -1660,7 +1735,20 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/66.jpg",
+      "Chatbijlage 9 oktober 2026: thee/67.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/66.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/67.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/66.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 116,
@@ -1668,17 +1756,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles paars",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535430",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop, kleurstoffen (E100, E131), bietensap.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#116",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "paars",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "paars"
     },
     "imagePresentation": {
       "corners": [
@@ -1702,7 +1791,20 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/77.jpg",
+      "Chatbijlage 9 oktober 2026: thee/78.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/77.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/78.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/77.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 117,
@@ -1710,17 +1812,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles wit",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535447",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#117",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "wit",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "wit"
     },
     "imagePresentation": {
       "corners": [
@@ -1744,7 +1847,21 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/72.jpg",
+      "Chatbijlage 9 oktober 2026: thee/73.jpg",
+      "Chatbijlage 9 oktober 2026: thee/74.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/72.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/73.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/72.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 118,
@@ -1752,17 +1869,18 @@ window.KPI_PRODUCTS = [
     "name": "Sprinkles kleurenmix",
     "category": "Bakdecoratie",
     "variant": "120 g",
-    "ean": "",
-    "ingredients": "Ingrediënten nog te controleren op het etiket.",
-    "allergens": null,
+    "ean": "5425000535393",
+    "ingredients": "Suiker, tarwezetmeel, glucosestroop, kleurstoffen (E100, E131), bietensapconcentraat.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
     "mayContain": "",
-    "kosher": "Machsike Hadass Antwerpen (Parve)",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
     "image": "images/elisha-sprinkles-clean.png#118",
     "sourcePhotos": [],
     "productInfo": {
       "Inhoud": "120 g",
-      "Kleur": "kleurenmix",
-      "Allergenen": "Nog te controleren op het etiket."
+      "Kleur": "kleurenmix"
     },
     "imagePresentation": {
       "corners": [
@@ -1786,7 +1904,20 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1
     },
     "imageEdited": true,
-    "imageIllustration": true
+    "imageIllustration": true,
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/75.jpg",
+      "Chatbijlage 9 oktober 2026: thee/76.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "ingredientsPartial": false,
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/75.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "barcodeSource": "Chatbijlage 9 oktober 2026: thee/76.jpg",
+    "barcodeChecked": "2026-10-09",
+    "barcodeNeedsCheck": false,
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/75.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 100,
@@ -1885,14 +2016,16 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "",
-    "kosher": "Parve",
+    "kosher": "Rabbijn Pinchas Avraham Meyers (Den Haag) / Machsike Hadas Antwerpen (Parve) · Pat Yisrael",
     "image": "images/product-105-supplied.png",
     "sourcePhotos": [
       "105.jpg",
       "106.jpg"
     ],
     "productInfo": {
-      "Inhoud": "320 g (8 stuks)"
+      "Inhoud": "320 g (8 stuks)",
+      "Bewaren": "Na opening in een gesloten verpakking in de koelkast bewaren en binnen 3 dagen gebruiken.",
+      "Bereiding": "De tortilla’s zijn voorgebakken en hoeven alleen te worden opgewarmd."
     },
     "imagePresentation": {
       "corners": [
@@ -1914,7 +2047,14 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.9865258557902403
-    }
+    },
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/79.jpg",
+      "Chatbijlage 9 oktober 2026: thee/80.jpg"
+    ],
+    "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
+    "kosherSource": "Chatbijlage 9 oktober 2026: thee/80.jpg",
+    "kosherChecked": "2026-10-09"
   },
   {
     "id": 107,
