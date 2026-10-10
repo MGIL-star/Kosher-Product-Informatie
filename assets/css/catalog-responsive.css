@@ -39,7 +39,7 @@
 @media (max-width: 639px) {
  .catalog-main { padding-inline: 10px; }
  .card-text { padding: 9px 7px 7px; }
- .card-text strong { font-size: 13px; hyphens: none; text-wrap: pretty; }
+ .card-text strong { font-size: 13px; hyphens: none; text-wrap: balance; word-break: normal; }
  .card-text small { font-size: 10px; }
  .card-text > span { font-size: 10px; }
  .card-action { padding: 8px 7px; font-size: 10px; gap: 3px; }
@@ -48,7 +48,7 @@
 }
 @media (min-width: 640px) {
  .catalog-main { padding: 36px 28px 64px; }
- .product-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
+ .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
  .product-card .product-visual { height: 180px; }
  .product-card .product-visual img { padding: 16px; }
  .card-text { padding: 12px 14px 10px; }
@@ -64,3 +64,5 @@
 @media (min-width: 540px) and (max-width: 639px) {
  .product-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
+
+@media (max-width: 359px) { .card-text strong { font-size: 12px; } }

@@ -84,7 +84,7 @@
     // Existing product files are the only source; there is no separate catalogue copy.
     renderCategories();render();const picks=[products.find(p=>p.key==='meter-8:56'),products.find(p=>p.key==='meter-6:48'),products.find(p=>p.key==='meter-13:1')].filter(p=>p?.image);if($('#hero-products'))$('#hero-products').innerHTML=picks.map(p=>image(p)).join('');
     for(const key of Object.keys(cart))if(!products.some(p=>p.key===key)&&!failures.length)delete cart[key];save();
-    await sharedScript(new URL('photo-layout.js?v=20261010-sharp',location.href).href);
+    await sharedScript(new URL('photo-layout.js?v=20261010-cart-space',location.href).href);
     window.catalogPreview={get products(){return products;},get cart(){return {...cart};},failures};
   }
   load();

@@ -41,8 +41,9 @@
     }
     if(!(ratio>0))return;
     const margin=frame.clientWidth<150?10:18;
-    const height=Math.min(frame.clientHeight-2*margin,(frame.clientWidth-2*margin)/ratio);
-    const width=height*ratio, left=(frame.clientWidth-width)/2, top=(frame.clientHeight-height)/2;
+    const topMargin=frame.classList.contains('photo') && matchMedia('(max-width:639px)').matches ? 48 : margin;
+    const height=Math.min(frame.clientHeight-topMargin-margin,(frame.clientWidth-2*margin)/ratio);
+    const width=height*ratio, left=(frame.clientWidth-width)/2, top=topMargin+(frame.clientHeight-topMargin-margin-height)/2;
     // Render straight crops at their final size. A scaled 3D layer can soften
     // small packaging text, especially at fractional desktop/phone pixel ratios.
     const [[l,t],[r,t2],[r2,b],[l2,b2]]=points;

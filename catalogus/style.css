@@ -8,12 +8,12 @@
 .catalog-detail-photo{height:390px;width:100%;background:#fff}@media(max-width:700px){.catalog-detail-photo{height:240px}}
 /* Subtle cart action in the corner of each product photo. */
 .product-card{position:relative}
-.product-card .cart-icon-add{position:absolute;top:4px;right:4px;z-index:2;display:flex;align-items:center;justify-content:center;width:40px;height:40px;padding:10px;border:0;border-radius:50%;background:transparent;color:#39765e;cursor:pointer;transition:color .15s,background-color .15s}
+.product-card .cart-icon-add{position:absolute;top:4px;right:4px;z-index:2;display:flex;align-items:center;justify-content:center;width:44px;height:44px;padding:12px;border:0;border-radius:50%;background:transparent;color:#39765e;cursor:pointer;transition:color .15s,background-color .15s}
 .product-card .cart-icon-add svg{display:block;width:20px;height:20px;flex:none}
 .product-card .cart-icon-add:hover{background:#f0f6f2;color:#123c32}
 .product-card .cart-icon-add:focus-visible{outline:2px solid #39765e;outline-offset:-3px;background:#f0f6f2}
 .product-card .cart-icon-add:active{background:#e4eee7}
-@media(max-width:639px){.product-card .cart-icon-add{top:0;right:0;width:36px;height:36px;padding:9px}.product-card .cart-icon-add svg{width:18px;height:18px}}
+
 /* Keep the catalogue visually unchanged when the cart opens. */
 #cart-dialog::backdrop{background:transparent}
 #cart-dialog{box-shadow:-8px 0 28px #123c3212;border-left:1px solid #e1e7e2}
@@ -75,12 +75,15 @@ html[dir="rtl"] h1,html[dir="rtl"] h2,html[dir="rtl"] h3,
 html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}
 /* Wider mobile cards with the basket action inside the product photo. */
 @media(max-width:639px){
+  .photo{height:218px;padding:48px 10px 10px}
   .product-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
-  .card-copy{padding:12px 10px 6px}
-  .card-copy h3{line-height:1.45;text-wrap:pretty;word-break:normal;hyphens:none}
+  .card-copy{padding:12px 7px 8px}
+  .card-copy h3{font-size:13px;line-height:1.45;text-wrap:balance;word-break:normal;hyphens:none;overflow-wrap:anywhere}
   .product-card .cart-icon-add{position:absolute;top:4px;right:4px;width:44px;height:44px;margin:0;padding:12px}
   .product-card .cart-icon-add svg{width:20px;height:20px}
   .product-card .product-open:hover{transform:none}
 }
 @media(max-width:359px){.card-copy h3{font-size:13px}.product-grid{gap:10px}}
 @media(min-width:540px) and (max-width:639px){.product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+
+@media(min-width:640px) and (max-width:919px){.product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.card-copy h3{text-wrap:balance;hyphens:none;word-break:normal}}
