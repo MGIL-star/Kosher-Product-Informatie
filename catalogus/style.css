@@ -87,3 +87,6 @@ html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}
 @media(min-width:540px) and (max-width:639px){.product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 
 @media(min-width:640px) and (max-width:919px){.product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.card-copy h3{text-wrap:balance;hyphens:none;word-break:normal}}
+
+/* Keep the catalogue greeting readable in two balanced lines on phones. */
+@media(max-width:639px){.catalog-intro h1{font-size:clamp(22px,6vw,30px);line-height:1.18;text-wrap:balance}}
