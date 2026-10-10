@@ -6,3 +6,5 @@
 - Schrijf hechsjers als tekst zonder decoratieve scheidingsstrepen. Zet Parve achter de naam, bijvoorbeeld `Adath Yereim (Parve)`.
 - Bewerk productfoto’s met behoud van de echte gesloten verpakking, rechtop op een witte achtergrond. Verwijder standaard zichtbare houdbaarheidsdatums, productiedatums en lot-/batchcodes uit de bewerkte catalogusfoto. Bewaar de originele bronfoto ongewijzigd. Behoud ingrediënten, gewicht, barcode en keurmerken.
 - Behoud bestaande kaasfoto’s bij nieuwe etiketfoto’s voor ingrediënten. Maak de Shoshana-plakken niet opnieuw; alle verpakkingen staan in de lengte, inclusief Mimolette. Wijzig nooit namen, teksten of de indeling van de echte verpakking.
+
+- Schrijf alle hechsjernamen uitsluitend fonetisch in Latijnse letters, nergens in Hebreeuws schrift, in zowel catalogus als QR-productpagina’s.

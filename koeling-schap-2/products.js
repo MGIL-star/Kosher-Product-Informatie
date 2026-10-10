@@ -2301,20 +2301,21 @@ window.KPI_PRODUCTS = [
     "name": "Mimolette in plakken",
     "brand": "VEBO",
     "category": "Kaas",
-    "variant": "",
+    "variant": "160 g",
     "ean": "",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
     ],
-    "kosher": "Nog te controleren",
+    "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-mimolette.webp?v=806075918e5a",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Mimolette kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
+      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2329,27 +2330,34 @@ window.KPI_PRODUCTS = [
         "f72e2ebc-caaf-479b-8a10-5b21faec43b4.jpg",
         "7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg"
       ]
-    }
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
   },
   {
     "id": 69,
     "name": "Havarti in plakken",
     "brand": "VEBO",
     "category": "Kaas",
-    "variant": "",
+    "variant": "160 g",
     "ean": "",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
     ],
-    "kosher": "Nog te controleren",
+    "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-havarti.webp?v=b715f56f3745",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Havarti kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
+      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2364,27 +2372,34 @@ window.KPI_PRODUCTS = [
         "e17cba3d-efb6-465a-9f4a-1d3c26700b3a.jpg",
         "6665229e-433d-471f-a064-70f2b9a36349.jpg"
       ]
-    }
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
   },
   {
     "id": 70,
     "name": "Light kaas in plakken",
     "brand": "VEBO",
     "category": "Kaas",
-    "variant": "",
+    "variant": "160 g",
     "ean": "",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
     ],
-    "kosher": "Nog te controleren",
+    "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-light.webp?v=111fcaf5246b",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Light kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
+      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2399,27 +2414,34 @@ window.KPI_PRODUCTS = [
         "acb5a930-4b46-4798-8fb3-dda89dbcf496.jpg",
         "cbc448b7-f34c-44f0-a8f9-8c7eeb38dcb9.jpg"
       ]
-    }
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
   },
   {
     "id": 71,
     "name": "Edammer kaas in plakken",
     "brand": "VEBO",
     "category": "Kaas",
-    "variant": "",
+    "variant": "160 g",
     "ean": "",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
     ],
-    "kosher": "Nog te controleren",
+    "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-edam.webp?v=01bfbf61cb74",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Edam kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
+      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2434,27 +2456,34 @@ window.KPI_PRODUCTS = [
         "3f30995c-f10b-439c-9197-ee99ec44fc6a.jpg",
         "dd529237-432f-41c7-beb0-d2f037151b60.jpg"
       ]
-    }
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
   },
   {
     "id": 72,
     "name": "Goudse kaas in plakken",
     "brand": "VEBO",
     "category": "Kaas",
-    "variant": "",
+    "variant": "160 g",
     "ean": "",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
     ],
-    "kosher": "Nog te controleren",
+    "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-gouda.webp?v=c59f55d4234a",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Gouda kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
+      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2469,7 +2498,13 @@ window.KPI_PRODUCTS = [
         "4bdd2ac1-6867-4995-a031-b8f4bca005d7.jpg",
         "fd7170d4-78f8-4746-9181-19d5e282099c.jpg"
       ]
-    }
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
   },
   {
     "id": 73,
@@ -2518,7 +2553,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
-    "kosher": "Keurmerk aanwezig; naam van de instantie nog te controleren",
+    "kosher": "Badatz Beit Yosef",
     "image": "./images/euro-kaaspuntjes-200g.png",
     "productInfo": {
       "Inhoud": "16 porties van 12,5 g.",
@@ -2538,13 +2573,16 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke etiketten: 02582f55-2273-4370-841c-c46e195da890.jpg, edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg, 07c53636-00aa-4217-adee-85c165275593.jpg",
     "allergensConfirmedAbsent": false,
     "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherSource": "Volgens de aangeleverde fysieke verpakking.",
+    "kosherSource": "Keurmerk afgelezen op edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg en bevestigd door gebruiker, 11 oktober 2026.",
     "imageEdited": true,
     "imageSource": {
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "02582f55-2273-4370-841c-c46e195da890.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
-    }
+    },
+    "kosherLines": [
+      "Badatz Beit Yosef"
+    ]
   },
   {
     "id": 75,

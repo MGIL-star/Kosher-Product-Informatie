@@ -1335,7 +1335,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "KP · בד״ץ אגודת הרבנים",
+    "kosher": "KP · Badatz Agudat Harabanim",
     "image": "images/38-supplied.png",
     "productInfo": {
       "Inhoud": "250 g",

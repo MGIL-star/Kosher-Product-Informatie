@@ -12,6 +12,8 @@
       const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
       const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
       if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
+      line.classList.add('notranslate');
+      line.setAttribute('translate', 'no');
       line.replaceChildren();
       names.forEach((text, index) => {
         if (index) line.append(document.createElement('br'));

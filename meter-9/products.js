@@ -202,7 +202,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "mayContain": "",
-    "kosher": "Av Beit Din Den Haag (אב״ד האג)",
+    "kosher": "Av Beit Din Den Haag",
     "category": "Cake en gebak",
     "image": "images/08.png",
     "imageEdited": true,
