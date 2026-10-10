@@ -805,16 +805,14 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       33
     ],
-    "ingredients": "Verrijkt tarwemeel, suikers (suiker, bruine suiker, invertsuiker, melasse), plantaardig bakvet (koolzaadolie, palmolie, gemodificeerde palmolie), grahammeel (tarwe), water, gemodificeerd maïszetmeel, bakpoeder, zout, natuurlijk aroma, kleurstof (annatto).",
+    "ingredients": "Verrijkt TARWEmeel, suikers (suiker, bruine suiker, invertsuiker, melasse), plantaardig bakvet (koolzaadolie, palmolie, gemodificeerde palmolie), grahammeel (TARWE), water, gemodificeerd maïszetmeel, bakpoeder, zout, natuurlijk aroma, kleurstof (annatto).",
     "allergens": [
-      "Tarwe (gluten)"
+      "TARWE (GLUTEN)"
     ],
-    "mayContain": "",
-    "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "",
-    "sources": [
-      "https://www.shoprite.com/sm/pickup/rsid/193/product/liebers-graham-pie-crust-6-oz-id-00043427127011"
-    ],
+    "mayContain": "Kan sporen bevatten van MELK en SOJA.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-16.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/3281DDF8-7D12-457B-B4A7-E83BB14CE609.png?v=1765734457",
     "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
@@ -825,7 +823,23 @@ window.KPI_PRODUCTS = [
       0.88,
       0.88
     ],
-    "englishName": "Graham Pie Crust"
+    "englishName": "Graham Pie Crust",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "1f16258e-1770-443f-9739-48d4b35a7b88.jpg",
+        "04167a70-b866-4e8b-976c-3ee7791ed036.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 17,
@@ -841,7 +855,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Fructoserijke maïssiroop, water, natuurlijke cacao, maïssiroop, karamelkleurstof, zout, xanthaangom, kunstmatig aroma, conserveermiddelen (kaliumsorbaat, natriumbenzoaat).",
     "allergens": [],
     "mayContain": "",
-    "warning": "Na opening gekoeld bewaren.",
+    "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
     "image": "images/found-17.jpg",
@@ -854,7 +868,27 @@ window.KPI_PRODUCTS = [
       0.765,
       0.99
     ],
-    "englishName": "Chocolate Flavored Syrup"
+    "englishName": "Chocolate Flavored Syrup",
+    "productInfo": {
+      "Bewaaradvies": "Na openen gekoeld bewaren.",
+      "Pesach": "Niet geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "cd42d181-b17d-4766-a029-fc4ae8d00854.jpg",
+        "182da3c8-0ef9-4868-8ca0-61216822175e.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 18,
@@ -867,11 +901,11 @@ window.KPI_PRODUCTS = [
       36,
       37
     ],
-    "ingredients": "Invertsuikerstroop, water, citroenzuur, kunstmatig aroma, conserveermiddel (natriumbenzoaat), cellulosegom, kleurstof E129 (Red 40).",
+    "ingredients": "Invertsuikerstroop, water, citroenzuur, kunstmatig aroma, conserveermiddel (natriumbenzoaat), cellulosegom, kleurstof Red 40 (E129).",
     "allergens": [],
     "mayContain": "",
-    "warning": "Na opening gekoeld bewaren. E129 kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
+    "warning": "E129 (Red 40) kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
     "image": "images/product-18.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427022224.jpg?v=1765737132",
@@ -883,7 +917,27 @@ window.KPI_PRODUCTS = [
       0.73,
       0.925
     ],
-    "englishName": "Strawberry Flavored Syrup"
+    "englishName": "Strawberry Flavored Syrup",
+    "productInfo": {
+      "Bewaaradvies": "Na openen gekoeld bewaren.",
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "ec1befff-f80c-44c9-a0d4-e963e5d08a1b.jpg",
+        "ec97c201-d5f8-4d33-81c8-c700c0e93fae.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 19,
@@ -896,13 +950,11 @@ window.KPI_PRODUCTS = [
       38,
       39
     ],
-    "ingredients": "Volgens de Nederlandse importsticker: tomatenpuree, fructose-glucosestroop, gedistilleerde azijn, melasse, zout, gemodificeerd voedingszetmeel, honing, natuurlijk rookaroma, worcestershirepoeder (citroenzuur, specerijen inclusief mosterd, maltodextrine, karamelkleurstof, kruidenextracten), gedroogde ui en knoflook, natuurlijk aroma, siliciumdioxide, mosterdmeel, xanthaangom, kaliumsorbaat en natriumbenzoaat.",
-    "allergens": [
-      "Mosterd"
-    ],
+    "ingredients": "Water, suiker, tomatenconcentraat, azijnzuur (water, ijsazijn), honing, gemodificeerd voedingszetmeel, zout, natuurlijk rookaroma, specerijen, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), gedroogde knoflook, gedroogde ui.",
+    "allergens": [],
     "mayContain": "",
-    "warning": "De Nederlandse sticker wijkt af van de originele ingrediëntenlijst. Mosterd staat op de sticker en is daarom opgenomen als allergeen. Laat bij een allergie de juiste receptuur bevestigen. Na opening gekoeld bewaren.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
     "image": "images/honey-bbq-strak.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/honey_bbq.jpg?v=1500001873",
@@ -916,7 +968,29 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Honey BBQ Sauce",
     "imageOriginal": "images/product-19.jpg",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "productInfo": {
+      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
+      "Gebruiksadvies": "Goed schudden voor gebruik.",
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Oorspronkelijk flesetiket, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "29fc3c95-b2f3-411a-b8bd-d3416a39ac63.jpg",
+        "ae494590-7ee6-4d8e-96d5-55c1314806bd.jpg",
+        "3b6e23c3-904f-4bb3-83ac-e1615f3dd08b.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 20,
@@ -929,14 +1003,12 @@ window.KPI_PRODUCTS = [
       40,
       41
     ],
-    "ingredients": "Online ingrediëntenopgave: water, rode chilipeper, knoflook, azijnzuur, gemodificeerd tapiocazetmeel, natriumbenzoaat, kaliumsorbaat, xanthaangom, witte suiker, zout.",
-    "allergens": null,
-    "mayContain": "",
-    "warning": "De online bron vermeldt geen controleerbare barcode. Volg voor samenstelling en allergenen de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://foodisgood.com/product/liebers-sriracha-hot-chili-sauce/"
-    ],
+    "ingredients": "Water, rode chilipeper, knoflook, azijnzuur, gemodificeerd tapiocazetmeel, natriumbenzoaat, kaliumsorbaat, xanthaangom, witte suiker, zout.",
+    "allergens": [],
+    "mayContain": "Geproduceerd in een fabriek die TARWE en SOJA verwerkt.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-20.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LISRIS.jpg?v=1659787750",
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
@@ -947,27 +1019,48 @@ window.KPI_PRODUCTS = [
       0.67,
       0.915
     ],
-    "englishName": "Sriracha Hot Chili Sauce"
+    "englishName": "Sriracha Hot Chili Sauce",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "9191607d-c7b8-4bd1-bfbb-1e9037327321.jpg",
+        "29e2d1fd-9840-44e5-92ce-7f375d5e6a8b.jpg",
+        "18ab3cea-e740-4ac1-8a30-e7fae9c6a608.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "productInfo": {
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    }
   },
   {
     "id": 21,
     "brand": "Lieber’s",
     "name": "Teriyakisaus",
-    "variant": "296 ml",
+    "variant": "295 ml",
     "category": "Sauzen",
     "ean": "043427222624",
     "sourcePhotos": [
       42,
       43
     ],
-    "ingredients": "De volledige ingrediëntenlijst is niet leesbaar. Op de foto zijn onder meer azijn (azijnzuur), gemberpoeder en conserveermiddelen (natriumbenzoaat, kaliumsorbaat) zichtbaar.",
-    "allergens": null,
-    "mayContain": "",
-    "warning": "Onvolledige lijst. De Nederlandse sticker noemt Sesame Teriyaki, terwijl de voorzijde Teriyaki Sauce vermeldt. Controleer soja, tarwe en sesam op het actuele etiket; de juiste receptuur is nog niet bevestigd.",
-    "kosher": "",
-    "sources": [
-      "https://www.instacart.com/products/17553469-lieber-s-teriyaki-sauce-10-oz"
+    "ingredients": "Water, SOJAbonen, TARWE, suiker, zout, tapiocazetmeel, azijn (azijnzuur), gemberpoeder, stabilisator (xanthaangom), conserveermiddelen (natriumbenzoaat, kaliumsorbaat).",
+    "allergens": [
+      "SOJA",
+      "TARWE (GLUTEN)"
     ],
+    "mayContain": "",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "./images/teriyaki-strak.png",
     "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2023/02/s34ipnkv_liebers_1685210-30.jpg",
     "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
@@ -980,7 +1073,28 @@ window.KPI_PRODUCTS = [
     ],
     "imageOriginal": "images/found-21.jpg",
     "imageRetouched": true,
-    "englishName": "Teriyaki Sauce"
+    "englishName": "Teriyaki Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Koel en droog bewaren."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Oorspronkelijk flesetiket, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "b088441f-63fb-4c08-95c1-5a35a9045d88.jpg",
+        "ef63325a-7b00-41a9-a7a0-605f1feff810.jpg",
+        "a4283687-0d39-40bd-bff1-06f8beef8b3f.jpg",
+        "dcbddd5f-0b1b-4b6a-bbc9-d3f13af69eb6.jpg"
+      ]
+    },
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)"
+    ],
+    "kosherStatus": "Parve",
+    "kosherSource": "Rabbi M. Weissmandl bevestigd door de gebruiker voor Lieber’s, 11 oktober 2026."
   },
   {
     "id": 22,
@@ -993,17 +1107,15 @@ window.KPI_PRODUCTS = [
       44,
       45
     ],
-    "ingredients": "Water, sojabonen, tarwe, zout, suiker, stabilisator (xanthaangom), conserveermiddelen (natriumbenzoaat, kaliumsorbaat).",
+    "ingredients": "Water, SOJAbonen, TARWE, zout, suiker, stabilisator (xanthaangom), conserveermiddelen (natriumbenzoaat, kaliumsorbaat).",
     "allergens": [
-      "Soja",
-      "Tarwe (gluten)"
+      "SOJA",
+      "TARWE (GLUTEN)"
     ],
     "mayContain": "",
-    "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "",
-    "sources": [
-      "https://www.instacart.ca/products/16662770-lieber-s-soy-sauce-10-fl-oz"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "./images/soy-strak.png",
     "imageSource": "https://www.b-kosher.co.uk/wp-content/uploads/2022/08/ym639g43_liebers_1685200-30.jpg",
     "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
@@ -1016,7 +1128,28 @@ window.KPI_PRODUCTS = [
     ],
     "imageOriginal": "images/found-22.jpg",
     "imageRetouched": true,
-    "englishName": "Soy Sauce"
+    "englishName": "Soy Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Koel en droog bewaren."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "a9187a21-d0a6-4d06-8a5e-46c9c2be8285.jpg",
+        "d5e0de84-6371-4fbb-9f57-d3db07f811a7.jpg",
+        "8e791fea-5dfc-43c4-aeba-5759936849d1.jpg",
+        "8005a0d7-e106-406e-8db5-9ecec53957e9.jpg"
+      ]
+    },
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)"
+    ],
+    "kosherStatus": "Parve",
+    "kosherSource": "Rabbi M. Weissmandl bevestigd door de gebruiker voor Lieber’s, 11 oktober 2026."
   },
   {
     "id": 23,
@@ -1029,17 +1162,15 @@ window.KPI_PRODUCTS = [
       46,
       47
     ],
-    "ingredients": "De volledige lijst is nog niet bevestigd. Op de foto zijn onder meer zout, azijnzuur, xanthaangom en conserveermiddelen zichtbaar. Online wordt voor Light Soy Sauce ook water, sojabonen en tarwe vermeld.",
+    "ingredients": "Water, SOJAbonen, TARWE, suiker, zout, azijnzuur, stabilisator (xanthaangom), conserveermiddelen (natriumbenzoaat, kaliumsorbaat).",
     "allergens": [
-      "Soja",
-      "Tarwe (gluten)"
+      "SOJA",
+      "TARWE (GLUTEN)"
     ],
     "mayContain": "",
-    "warning": "De online lijst wijkt af van de leesbare tekst op de verpakking. Controleer het actuele etiket.",
-    "kosher": "",
-    "sources": [
-      "https://www.shaws.com/shop/pd/liebers-soy-sauce-lite-10-oz/960121621"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-23.png",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/1_jpg_6db6001c-ecd8-4a66-bae3-6fc5dac41013.png?v=1499238179",
     "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
@@ -1050,7 +1181,28 @@ window.KPI_PRODUCTS = [
       0.64,
       1
     ],
-    "englishName": "Light Soy Sauce"
+    "englishName": "Light Soy Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Koel en droog bewaren."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "9ba10035-a251-4dbb-b399-2ea8ce6e289d.jpg",
+        "463fc494-22fa-4ffd-998e-a5f3a9dd5305.jpg",
+        "88a4678b-b5c6-4945-a8f5-c05712930a9e.jpg",
+        "d9f5ffe9-9276-4e7d-b353-902747d5afe9.jpg"
+      ]
+    },
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)"
+    ],
+    "kosherStatus": "Parve",
+    "kosherSource": "Rabbi M. Weissmandl bevestigd door de gebruiker voor Lieber’s, 11 oktober 2026."
   },
   {
     "id": 24,
@@ -1063,14 +1215,12 @@ window.KPI_PRODUCTS = [
       48,
       49
     ],
-    "ingredients": "Palmharten, zout, water, citroenzuur.",
+    "ingredients": "Palmharten, zout, water, citroenzuur, ascorbinezuur.",
     "allergens": [],
     "mayContain": "",
     "warning": "",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://www.walmart.com/ip/1525921759"
-    ],
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-24.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/043427201353.jpg?v=1764611654",
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
@@ -1081,7 +1231,26 @@ window.KPI_PRODUCTS = [
       0.735,
       0.87
     ],
-    "englishName": "Whole Hearts of Palm"
+    "englishName": "Whole Hearts of Palm",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "9398a8bf-fdaa-4aeb-9794-5fe3f7e1356c.jpg",
+        "9fcb8c8e-d45e-464f-8bb9-7fb10036ed62.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "productInfo": {
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    }
   },
   {
     "id": 25,
@@ -1095,13 +1264,11 @@ window.KPI_PRODUCTS = [
       51
     ],
     "ingredients": "Rode kidneybonen, witte bonen (navy beans), pintobonen.",
-    "allergens": null,
+    "allergens": [],
     "mayContain": "",
-    "warning": "Samenstelling gevonden op barcode in een voedingsdatabank. De allergenen- en sporenvermelding op de actuele verpakking is nog te controleren.",
-    "kosher": "",
-    "sources": [
-      "https://www.aqua-calc.com/calculate/food-weight-to-volume/substance/cholent-blank-mix-coma-and-blank-upc-column--blank-748935026206-blank--op-dry-cp-)"
-    ],
+    "warning": "",
+    "kosher": "CRC / Badatz Edah HaChareidis (Parve)",
+    "sources": [],
     "image": "./images/cholent-strak.png",
     "imageSource": "https://d226b0iufwcjmj.cloudfront.net/product-images/1138/1942322/12482085/large.jpg",
     "reviewNote": "Packshot op 1 oktober 2026 digitaal rechtgezet en helder afgewerkt naar de door de gebruiker goedgekeurde fotostandaard. Winkelwatermerk verwijderd waar aanwezig. Etiketgegevens ongewijzigd.",
@@ -1114,7 +1281,28 @@ window.KPI_PRODUCTS = [
     ],
     "imageOriginal": "images/found-25.jpg",
     "imageRetouched": true,
-    "englishName": "Cholent Mix"
+    "englishName": "Cholent Mix",
+    "kosherLines": [
+      "CRC (Parve)",
+      "Badatz Edah HaChareidis Jeruzalem"
+    ],
+    "productInfo": {
+      "Gebruiksadvies": "Volgens de verpakking controleren op insecten vóór gebruik."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "8ed1c578-7098-404f-9568-f73ae8666c9e.jpg",
+        "6c41ba43-bcdc-4d61-af22-52acb8dde102.jpg",
+        "b4a7e4e2-5531-494d-bb26-4bebcf262d22.jpg",
+        "57a05dc4-8511-45bb-97e6-4ec0404d1205.jpg"
+      ]
+    },
+    "kosherStatus": "Parve"
   },
   {
     "id": 26,
@@ -1127,14 +1315,12 @@ window.KPI_PRODUCTS = [
       52,
       53
     ],
-    "ingredients": "Online ingrediëntenopgave: komkommers, water, zout, azijnzuur, knoflook, natuurlijk dillearoma, polysorbaat 80.",
-    "allergens": null,
+    "ingredients": "Verse komkommers, water, ijsazijn, dilleolie, knoflook.",
+    "allergens": [],
     "mayContain": "",
-    "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://foodisgood.com/product/liebers-kosher-dill-gherkins/"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-26.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIGP-LIEBERS_DILL_GHERKINS_720ML.jpg?v=1499238218",
     "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
@@ -1145,7 +1331,27 @@ window.KPI_PRODUCTS = [
       0.84,
       1
     ],
-    "englishName": "Kosher Dill Gherkins"
+    "englishName": "Kosher Dill Gherkins",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "76c1d1e9-d46f-44fd-9fa8-142705635838.jpg",
+        "f3d7e8a8-b474-499c-be04-2027afbdf8f3.jpg",
+        "d14f285a-38a2-4ad7-ad28-1ee5faf95847.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "productInfo": {
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    }
   },
   {
     "id": 27,
@@ -1158,14 +1364,12 @@ window.KPI_PRODUCTS = [
       54,
       55
     ],
-    "ingredients": "Perzik, suiker, glucosestroop, gemodificeerd tapiocazetmeel, zout, azijnzuur, paprika, xanthaangom.",
-    "allergens": null,
+    "ingredients": "Perzik, suiker, glucosestroop, gemodificeerd tapiocazetmeel, zout, azijnzuur, paprika, stabilisator (xanthaangom).",
+    "allergens": [],
     "mayContain": "",
-    "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking. Na opening gekoeld bewaren.",
-    "kosher": "",
-    "sources": [
-      "https://sollys.com.au/products/benlids"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-27.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIDUS.jpg?v=1659785395",
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
@@ -1176,7 +1380,28 @@ window.KPI_PRODUCTS = [
       0.8,
       0.99
     ],
-    "englishName": "Sweet & Sour Duck Sauce"
+    "englishName": "Sweet & Sour Duck Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Koel en donker bewaren. Na openen gekoeld bewaren.",
+      "Pesach": "Niet geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "bc4e4a8c-9352-4a5d-a0ee-1eb9baad2888.jpg",
+        "a5649735-dc02-420b-90e4-8e67d8d8b9ca.jpg",
+        "7d954728-871d-42df-adab-85adbaa53540.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 28,
@@ -1189,15 +1414,12 @@ window.KPI_PRODUCTS = [
       56,
       57
     ],
-    "ingredients": "Geplette tomaten, zout, zuurteregelaar: citroenzuur.",
-    "allergens": null,
+    "ingredients": "Geplette tomaten, zout, zuurteregelaar (citroenzuur).",
+    "allergens": [],
     "mayContain": "",
-    "warning": "Ingrediënten uit de online productvermelding voor 23 oz. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://www.instacart.ca/store/products/41173514-lieber-s-passata-crushed-tomatoes-23-oz",
-      "https://www.instacart.com/products/43343735-lieber-s-italian-crushed-tomatoes-passata-23-oz"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/packshot-28.jpg",
     "imageSource": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_b9aa306e-42c1-4196-a2f5-7aa8bb112f9a.jpg",
     "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
@@ -1208,7 +1430,27 @@ window.KPI_PRODUCTS = [
       0.665,
       0.985
     ],
-    "englishName": "Passata Crushed Tomatoes"
+    "englishName": "Passata Crushed Tomatoes",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "4ee21c3f-2af9-466c-a268-859f6de735a5.jpg",
+        "ea1fb52d-644c-4cbe-ae02-ad126fc74b8f.jpg",
+        "ae33d1b4-d345-48c8-8321-5656571a88dc.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "productInfo": {
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    }
   },
   {
     "id": 29,
@@ -1221,15 +1463,12 @@ window.KPI_PRODUCTS = [
       58,
       59
     ],
-    "ingredients": "De volledige ingrediëntenlijst is nog niet betrouwbaar bevestigd voor deze verpakking. Controleer het etiket.",
-    "allergens": null,
+    "ingredients": "Tomatenpuree (water, tomatenconcentraat), suiker, zout, gedroogde ui, katoenzaadolie, specerijen, citroenzuur.",
+    "allergens": [],
     "mayContain": "",
-    "warning": "Online zijn verschillende recepturen gevonden (onder meer met olijfolie of katoenzaadolie). De juiste samenstelling voor deze pot is nog niet bevestigd.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://www.instacart.ca/products/1488793-lieber-s-passover-tomato-basil-sauce-26-oz",
-      "https://www.kroger.com/p/lieber-s-tomato-basil-pasta-sauce/0004342722503"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-29.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/0630/0771/9612/files/IMG_2997.jpg?v=1764625239",
     "reviewNote": "Online packshot visueel vergeleken met de aangeleverde verpakking op 2026-10-01: merk, variant en verpakkingsontwerp komen overeen.",
@@ -1240,7 +1479,29 @@ window.KPI_PRODUCTS = [
       0.73,
       0.865
     ],
-    "englishName": "Tomato Basil Marinara Pasta Sauce"
+    "englishName": "Tomato Basil Marinara Pasta Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
+      "Gebruiksadvies": "Goed schudden voor gebruik.",
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "1eed5f76-c461-47a2-9c94-a91dfbe7381a.jpg",
+        "7a047a8f-7c58-40de-9de5-e82a9914a006.jpg",
+        "2fd31f95-c1b7-4c04-a4ae-4dd612c2cc8d.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 30,
@@ -1253,14 +1514,12 @@ window.KPI_PRODUCTS = [
       60,
       61
     ],
-    "ingredients": "Online ingrediëntenopgave: tomatenpuree (water, tomatenconcentraat, citroenzuur), olijfolie, zout, suiker, ui, knoflook, zwarte peper, oregano, basilicum.",
-    "allergens": null,
+    "ingredients": "Tomatenpuree (water, tomatenconcentraat), suiker, katoenzaadolie, zout, gedroogde ui, citroenzuur, specerijen.",
+    "allergens": [],
     "mayContain": "",
-    "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://www.heb.com/product-detail/lieber-s-classic-marinara-sauce/2886501"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/packshot-30.jpg",
     "imageSource": "https://cdn.shopify.com/s/files/1/2005/1601/products/LIMPS-LIEBERS_CLASSIC_MARINARA_PASTA_SAUCE_708ML.jpg?v=1499238149",
     "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
@@ -1271,7 +1530,29 @@ window.KPI_PRODUCTS = [
       0.75,
       1
     ],
-    "englishName": "Classic Marinara Pasta Sauce"
+    "englishName": "Classic Marinara Pasta Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
+      "Gebruiksadvies": "Goed schudden voor gebruik.",
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "c419c415-1584-4af0-8581-12e45303a0a4.jpg",
+        "6c60a85d-4d73-4ea4-95af-eebf28b3d4d1.jpg",
+        "6b275619-0e3f-4647-b888-3cbfb7c9fa48.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 31,
@@ -1284,14 +1565,12 @@ window.KPI_PRODUCTS = [
       62,
       63
     ],
-    "ingredients": "Online ingrediëntenopgave: tomaten, tomatenpuree (water, tomatenconcentraat, citroenzuur), olijfolie, suiker, zout, ui, oregano, knoflook, basilicum, zwarte peper.",
-    "allergens": null,
+    "ingredients": "Tomatenpuree (water, tomatenconcentraat), suiker, katoenzaadolie, zout, gedroogde knoflook, specerijen, citroenzuur.",
+    "allergens": [],
     "mayContain": "",
-    "warning": "Ingrediënten uit een online bron; de volledige lijst is niet leesbaar op de aangeleverde verpakking. Controleer de actuele verpakking.",
-    "kosher": "Rabbi M. Weissmandl (KLP) (Parve)",
-    "sources": [
-      "https://www.instacart.ca/products/1488791-liebers-pizza-sauce-original-26-oz"
-    ],
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
     "image": "images/product-31.jpg",
     "imageSource": "https://koshercentral.com/api/content/images/thumbs/0221748_liebers-liebers-pizza-sauce-26oz.jpeg",
     "reviewNote": "Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking.",
@@ -1302,7 +1581,29 @@ window.KPI_PRODUCTS = [
       0.77,
       1
     ],
-    "englishName": "Original Pizza Sauce"
+    "englishName": "Original Pizza Sauce",
+    "productInfo": {
+      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
+      "Gebruiksadvies": "Goed schudden voor gebruik.",
+      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "db3d43c7-75d4-420c-8541-fb9e48a4b2d5.jpg",
+        "216f0691-5ee9-4ade-9198-d6e959c8cf59.jpg",
+        "e1912f03-e890-4c47-8e74-1c7bd21a89e7.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
   },
   {
     "id": 32,
@@ -1311,19 +1612,17 @@ window.KPI_PRODUCTS = [
     "variant": "8 × 100 ml",
     "volumeSource": "Gebruiker bevestigt 8 × 100 ml op 9 oktober 2026.",
     "category": "IJsjes",
-    "ean": "",
+    "ean": "7290010609734",
     "sourcePhotos": [
       64,
       65
     ],
-    "ingredients": "Online ingrediëntenopgave: water, suiker, zuurteregelaar (citroenzuur), stabilisator (CMC / cellulosegom), aroma’s, conserveermiddelen (E202, E211).",
-    "allergens": null,
+    "ingredients": "Water, suiker, zuurteregelaar (citroenzuur), stabilisator (CMC), natuurlijke aroma’s, conserveermiddelen (E202, E211).",
+    "allergens": [],
     "mayContain": "",
-    "warning": "De volledige ingrediëntenlijst, barcode en allergenen zijn niet betrouwbaar leesbaar op de foto. De online bron vermeldt een zuivelstatus die nog niet op deze verpakking bevestigd is.",
-    "kosher": "",
-    "sources": [
-      "https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram"
-    ],
+    "warning": "",
+    "kosher": "Chasam Sofer Bnei Brak / Rabbinaat Haifa (Parve)",
+    "sources": [],
     "image": "./images/iceli-strak.png",
     "imageSource": "https://yastatic.net/avatars/get-grocery-goods/2998515/9f423587-62ef-432c-8a35-8ad835c3a789/464x464-origin",
     "reviewNote": "Online packshot digitaal horizontaal rechtgezet en afgewerkt. Kleine Hebreeuwse drukdetails zijn niet als informatiebron geverifieerd; raadpleeg de originele verpakking voor productgegevens.",
@@ -1335,6 +1634,31 @@ window.KPI_PRODUCTS = [
       0.678
     ],
     "imageOriginal": "images/product-32.png",
-    "imageRetouched": true
+    "imageRetouched": true,
+    "kosherLines": [
+      "Chasam Sofer Bnei Brak (Parve)",
+      "Rabbinaat Haifa"
+    ],
+    "productInfo": {
+      "Inhoud": "8 × 100 ml (totaal 800 ml)",
+      "Bewaaradvies": "Koel en droog bewaren. Voor consumptie invriezen; bevroren of gekoeld serveren.",
+      "Samenstelling": "Bevat geen fruit.",
+      "Pesach": "Geschikt voor Pesach zonder kitniyot volgens het keurmerk."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/meter16-laatste53",
+      "photos": [
+        "6b9e9d04-54c0-418b-93b5-33e894630dcd.jpg",
+        "d41ce70e-8ee1-4659-834b-f396c56f92e6.jpg",
+        "4fef0351-f2fe-444b-bd52-c97b9c1b9423.jpg",
+        "4b9d406e-6422-4bc8-b0ca-7e99a9db382e.jpg",
+        "acd1513d-4593-4996-9fa6-f6b28746954e.jpg"
+      ]
+    },
+    "kosherStatus": "Parve"
   }
 ];
