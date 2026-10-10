@@ -27,10 +27,8 @@
 .quantity{flex-wrap:wrap;row-gap:8px}
 .close{flex-shrink:0}
 @media(max-width:700px){#product-detail{grid-template-columns:minmax(0,1fr)}}
-/* Reduce scroll-boundary bounce without changing the continuous catalogue layout. */
-html,body{overscroll-behavior-y:none;scroll-behavior:auto}
-dialog{overscroll-behavior-y:contain}
-.photo img:not([src]),.cart-item img:not([src]){visibility:hidden}
+/* Subtle footer cart button with comfortable spacing. */
+
 .site-footer{padding:28px 20px calc(28px + env(safe-area-inset-bottom,0px))}
 #cart-bottom{display:inline-flex;align-items:center;justify-content:center;gap:9px;margin:22px auto 0;padding:11px 18px;min-height:44px;background:transparent;color:#d1e4da;border:1px solid #527268;border-radius:24px;font-size:14px}
 #cart-bottom:hover{background:#ffffff0d;border-color:#83a095}
