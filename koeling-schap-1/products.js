@@ -507,5 +507,939 @@ window.KPI_PRODUCTS = [
       "height": 0.754,
       "aspectRatio": 0.78
     }
+  },
+  {
+    "id": 18,
+    "name": "Tonijn eisalade",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-tonijn-ei.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Rodekoolsalade",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-rodekoolsalade.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Rode shug",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "100 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-rode-shug.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 31,
+    "name": "Groene shug",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "100 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-groene-shug.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Klassieke hummus",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-hummus.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Tahindip",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-tahin.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Auberginepaté",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-auberginepate.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Auberginesalade",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-auberginesalade.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Tonijnsalade met bosui",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-tonijn-bosui.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 26,
+    "name": "Haring",
+    "brand": "Tasty Food",
+    "category": "Vis",
+    "variant": "",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-haring.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Gegrilde auberginedip",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-gegrilde-auberginedip.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 28,
+    "name": "Matbucha",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-matbucha.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 29,
+    "name": "Zalmspread",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-zalmspread.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Auberginedip",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/tasty-auberginedip.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 32,
+    "name": "Hummus naturel",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-100.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Thina",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041443",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-102.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Aubergine met mayonaise",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041429",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-103.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 35,
+    "name": "Rodekool met mayonaise",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041436",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-104.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 36,
+    "name": "Gestoofde aubergine",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358176",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-109-250g.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 37,
+    "name": "Pittige aubergineplakjes",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358398",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-110.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 38,
+    "name": "Auberginekaviaar",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358619",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-111-250g.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Koolsalade",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358275",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-113-250g.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 40,
+    "name": "Marokkaanse wortelsalade",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358589",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-114-250g.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Harissa",
+    "brand": "JR",
+    "category": "Salades & dips",
+    "variant": "150 g",
+    "ean": "3302040000055",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "BDP (K)",
+    "image": "./images/eden-117.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/falafel.jpg",
+      "x": 300,
+      "y": 689,
+      "width": 78,
+      "height": 80,
+      "scale": 1.6,
+      "sourceWidth": 1179
+    },
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Mamora",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040958",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-119.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Guacamole",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040088",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-121.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Falafel",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040224",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-123.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Hummus met kikkererwten",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-130.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Hummus Gourmet",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040026",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-136.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Hummus Masbacha",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "500 g",
+    "ean": "3760059040613",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-151.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Hummus met za’atar",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "500 g",
+    "ean": "3760059040637",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-153.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Pittige hummus",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "400 g",
+    "ean": "0746132001545",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-154.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Hummus traditioneel",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "400 g",
+    "ean": "0746132001576",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-155.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Hummus met pijnboompitten",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "400 g",
+    "ean": "0746132001552",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-156.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Pittige falafel",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040927",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-1231.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Falafel met tomaat",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040910",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/eden-1232.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Tarama met kabeljauwkuit",
+    "brand": "KYAM",
+    "category": "Vis",
+    "variant": "165 g",
+    "ean": "3760227151110",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Chatam Sofer Bnei Brak",
+    "image": "./images/kyam-1810-165g.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/tarama.jpg",
+      "x": 850,
+      "y": 849,
+      "width": 275,
+      "height": 278,
+      "scale": 0.6,
+      "sourceWidth": 1179
+    },
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 55,
+    "name": "Rode chrijn",
+    "brand": "Hoffmans",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/hoffmans-rood.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 56,
+    "name": "Witte chrijn",
+    "brand": "Hoffmans",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/hoffmans-wit.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "imageEdited": true,
+    "id": 57,
+    "name": "Droge worst",
+    "brand": "",
+    "category": "Hele worst",
+    "variant": "125 g",
+    "ean": "",
+    "kosher": "Grand Rabbinat de Strasbourg",
+    "kosherMark": {
+      "image": "./review/catalogus/worst.jpg",
+      "x": 867,
+      "y": 875,
+      "width": 255,
+      "height": 252,
+      "scale": 0.6,
+      "sourceWidth": 1179
+    },
+    "image": "./images/saucisson-879a.png",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "imageEdited": true,
+    "id": 58,
+    "name": "Surimi",
+    "brand": "Fleury Michon",
+    "category": "Vis",
+    "variant": "200 g",
+    "ean": "3302745556109",
+    "kosher": "Chatam Sofer Bnei Brak",
+    "kosherMark": {
+      "image": "./review/catalogus/surimi.jpg",
+      "x": 831,
+      "y": 790,
+      "width": 260,
+      "height": 272,
+      "scale": 0.6,
+      "sourceWidth": 1179
+    },
+    "image": "./images/surimi-180.png",
+    "productInfo": {
+      "Inhoud": "12 stuks",
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
   }
 ];

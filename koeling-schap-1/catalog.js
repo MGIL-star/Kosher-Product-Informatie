@@ -27,6 +27,13 @@
     return text.replace(/\s*[·,]\s*/g, ' ').replace(/\.$/, '').trim();
   }
 
+  function kosherMark(product) {
+    const m = product.kosherMark;
+    if (!m) return '';
+    const scale = Number(m.scale) || 1;
+    return `<a href="${escapeHtml(m.image)}" target="_blank" rel="noopener" aria-label="Bekijk keurmerk in de originele leverancierscatalogus"><span style="display:block;position:relative;overflow:hidden;width:${m.width * scale}px;height:${m.height * scale}px"><img src="${escapeHtml(m.image)}" alt="Hechser uit leverancierscatalogus" style="position:absolute;max-width:none;width:${m.sourceWidth * scale}px;height:auto;left:${-m.x * scale}px;top:${-m.y * scale}px"></span></a>`;
+  }
+
   function productImage(product, large = false) {
     const sizeClass = large ? ' product-visual-large' : '';
     if (product.image) {
@@ -70,12 +77,14 @@
       ${productImage(product, true)}
       <p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
+      ${product.productInfo || product.note || product.preparation ? `<section><h3>Productinformatie</h3>${Object.entries(product.productInfo || {}).map(([label, value]) => `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`).join('')}${product.preparation ? `<p><strong>Bereiding:</strong> ${escapeHtml(product.preparation)}</p>` : ''}${product.note ? `<p>${escapeHtml(product.note)}</p>` : ''}</section>` : ''}
       <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientNote ? `<p class="verification-copy">${escapeHtml(product.ingredientNote)}</p>` : ""}</section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
-      <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p>${product.kosherNote ? `<p class="verification-copy">${escapeHtml(product.kosherNote)}</p>` : ""}</section>` : ''}${product.preparation ? `<section><h3>Bereiding</h3><p>${escapeHtml(product.preparation)}</p></section>` : ''}${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
+      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>` : ''}
+      <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
     </div>`;
+    window.KPI_normalizeProductLayout(dialogContent, product);
     dialog.showModal();
   }
 
