@@ -76,6 +76,7 @@
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p>${product.kosherNote ? `<p class="verification-copy">${escapeHtml(product.kosherNote)}</p>` : ""}</section>` : ''}${product.preparation ? `<section><h3>Bereiding</h3><p>${escapeHtml(product.preparation)}</p></section>` : ''}${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
     </div>`;
+    window.KPI_normalizeProductLayout(dialogContent, product);
     dialog.showModal();
   }
 

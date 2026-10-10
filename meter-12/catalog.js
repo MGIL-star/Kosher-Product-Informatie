@@ -82,6 +82,7 @@
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;
+    window.KPI_normalizeProductLayout(dialogContent, product);
     dialog.showModal();
   }
 

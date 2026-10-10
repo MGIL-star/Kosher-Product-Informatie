@@ -94,6 +94,7 @@
       ${nonFood && showReferences && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;
+    window.KPI_normalizeProductLayout(dialogContent, product);
     dialog.showModal();
   }
 

@@ -34,7 +34,29 @@
     }).join('')||'<p class="no-results">Geen producten gevonden. Probeer een andere zoekterm.</p>';
   }
   function section(title,text){return text?`<section><h3>${title}</h3><p>${esc(text)}</p></section>`:'';}
-  function openProduct(key){const p=products.find(p=>p.key===key);if(!p)return;let allergens=p.allergens?.length?p.allergens.map(a=>/^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(a.trim())?'Geen allergenen vermeld':a).join(', '):Array.isArray(p.allergens)&&!p.detailsPending&&p.allergensConfirmedAbsent!==false?'Geen allergenen vermeld':'Nog te controleren';$('#product-detail').innerHTML=`<div class="product-visual catalog-detail-photo">${image(p,'detail-image')}</div><div class="detail-copy"><span class="brand">${esc(p.brand)}</span><h2>${esc(p.name)}</h2><p class="weight">${esc(p.variant)}</p><button class="primary" data-add="${p.key}">Toevoegen aan mandje <span>+</span></button>${section('Ingrediënten',p.ingredients)}${section('Allergenen',allergens)}${section('Allergeneninformatie',p.allergenNote)}${section('Kan bevatten',p.mayContain)}${section('Waarschuwing',p.warning)}${section('Hechser',p.kosher)}${section('Barcode',p.ean)}${section('Aanvullende informatie',p.note)}${Object.entries(p.productInfo||{}).map(([k,v])=>section(esc(k),v)).join('')}<p class="location">Afbeelding en verpakking kunnen afwijken. Controleer altijd het etiket.</p></div>`;$('#product-dialog').showModal();}
+  function openProduct(key) {
+    const p=products.find(p=>p.key===key);if(!p)return;
+    const allergens=p.allergens?.length
+      ? p.allergens.map(a=>/^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(a.trim()) ? '<span class="allergen-free">Geen allergenen vermeld</span>' : '<span class="allergen">'+esc(a)+'</span>').join('')
+      : '<span>'+ (Array.isArray(p.allergens)&&!p.detailsPending&&p.allergensConfirmedAbsent!==false ? 'Geen allergenen vermeld' : 'Nog te controleren')+'</span>';
+    const info=Object.entries(p.productInfo||{}).map(([label,value])=>'<p><strong>'+esc(label)+':</strong> '+esc(value)+'</p>').join('')
+      +(p.preparation?'<p><strong>Bereiding:</strong> '+esc(p.preparation)+'</p>':'')
+      +(p.note?'<p>'+esc(p.note)+'</p>':'');
+    const kosher=String(p.kosher||'').replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim();
+    $('#product-detail').innerHTML='<div class="dialog-product">'
+      +'<div class="product-visual product-visual-large">'+image(p,'detail-image')+'</div>'
+      +'<p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>'
+      +'<div class="dialog-heading"><h2 id="dialog-title">'+esc(p.name)+'</h2><p>'+esc(p.brand)+'</p>'+(p.variant?'<span>'+esc(p.variant)+'</span>':'')+'</div>'
+      +'<div class="catalog-purchase"><button class="primary" data-add="'+esc(p.key)+'">Toevoegen aan mandje <span>+</span></button></div>'
+      +(info?'<section><h3>'+(p.isWine?'Productinformatie / wijnstijl':'Productinformatie')+'</h3>'+info+'</section>':'')
+      +(p.ingredients?'<section><h3>'+(p.ingredientsPartial?'Bekende ingrediënten':'Ingrediënten')+'</h3><p>'+window.KPI_emphasizeAllergens(p.ingredients)+'</p>'+(p.ingredientNote||p.ingredientsNote?'<p>'+esc(p.ingredientNote||p.ingredientsNote)+'</p>':'')+'</section>':'')
+      +'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>'
+      +section('Kan bevatten',p.mayContain)+section('Waarschuwing',p.warning)
+      +(kosher?'<section class="hechsher"><h3>Hechser</h3><p>'+esc(kosher)+'</p></section>':'')
+      +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p></section></div>';
+    window.KPI_normalizeProductLayout($('#product-detail'), p);
+    $('#product-dialog').showModal();
+  }
   function cartRows(){return Object.entries(cart).map(([key,qty])=>({p:products.find(p=>p.key===key),qty,key})).filter(row=>row.p);}
   function renderCart(){const rows=cartRows();const total=rows.reduce((sum,row)=>sum+row.qty,0);$('#cart-summary').textContent=`${total} ${total===1?'artikel':'artikelen'} · ${rows.length} ${rows.length===1?'product':'verschillende producten'}`;$('#cart-items').innerHTML=rows.length?rows.map(({p,qty,key})=>`<div class="cart-item">${p.image?image(p):'<div></div>'}<div><span class="brand">${esc(p.brand)}</span><h3>${esc(p.name)}</h3><p>${esc(p.variant)}</p><div class="quantity"><button data-minus="${key}" aria-label="Eén minder ${esc(p.name)}">−</button><input type="number" min="1" max="999" value="${qty}" data-qty="${key}" aria-label="Aantal ${esc(p.name)}"><button data-plus="${key}" aria-label="Eén meer ${esc(p.name)}">+</button><button class="remove" data-remove="${key}">Verwijderen</button></div></div></div>`).join(''):'<div class="empty-cart"><h3>Uw mandje is nog leeg</h3><p>Ontdek het assortiment en voeg uw favorieten toe.</p><button class="outline" data-close="cart-dialog">Verder kijken</button></div>';$('#cart-actions').hidden=!rows.length;$('#cart-feedback').textContent='';}
   function openCart(){renderCart();$('#cart-dialog').showModal();}

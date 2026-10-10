@@ -82,6 +82,7 @@
       ${product.sources?.length ? `<section><h3>Bronnen productinformatie</h3><ul>${product.sources.map(url => `<li><a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(new URL(url).hostname.replace(/^www\./, ''))}</a></li>`).join('')}</ul></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || 'Niet bekend')}</p></section>
     </div>`;
+    window.KPI_normalizeProductLayout(dialogContent, product);
     dialog.showModal();
   }
 
