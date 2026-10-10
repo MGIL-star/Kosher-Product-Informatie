@@ -28,8 +28,8 @@
     return `matrix3d(${[a,d,0,g,b,e,0,h,0,0,1,0,c,f,0,1]})`;
   }
   function fit(frame) {
-    const img=frame.querySelector('img'), p=img && byImage.get(img.src);
-    if(!p || !img.naturalWidth || !frame.clientWidth)return;
+    const img=frame.querySelector('img'), p=img && byImage.get(img.dataset.original || img.src);
+    if(!img?.hasAttribute('src') || !p || !img.naturalWidth || !frame.clientWidth)return;
     let points=p.imagePresentation?.corners, ratio=p.imagePresentation?.aspectRatio;
     if(!points) {
       const f=p.imageFrame, b=p.imageBounds;
@@ -52,22 +52,36 @@
     frame.dataset.photoFitted='true';
   }
   const resize=new ResizeObserver(entries=>entries.forEach(e=>fit(e.target)));
-  const observed=new WeakSet();
-  function scan() {
-    document.querySelectorAll('.photo,.product-visual').forEach(frame=>{
-      const nested=frame.querySelector('.product-packshot,.wine-pack');
-      if(nested) { const image=nested.querySelector('img');if(image)frame.append(image);nested.remove(); }
-      const img=frame.querySelector(':scope > img');
-      if(!img)return;
-      if(!observed.has(frame)) {
-        observed.add(frame);resize.observe(frame);
-        img.addEventListener('load',()=>fit(frame));
+  const tracked=new Map();
+  const viewport=new IntersectionObserver(entries=>{
+    for(const entry of entries){
+      const img=entry.target, frame=tracked.get(img);
+      if(entry.isIntersecting){
+        if(!img.hasAttribute('src'))img.src=img.dataset.src;
+        if(frame){resize.observe(frame);fit(frame);}
+      }else{
+        img.removeAttribute('src');img.removeAttribute('style');
+        if(frame){resize.unobserve(frame);delete frame.dataset.photoFitted;}
       }
-      fit(frame);
+    }
+  },{rootMargin:'300px 0px'});
+  function scan(){
+    for(const [img,frame] of tracked){
+      if(!img.isConnected){viewport.unobserve(img);if(frame)resize.unobserve(frame);tracked.delete(img);}
+    }
+    document.querySelectorAll('img[data-src]').forEach(img=>{
+      if(tracked.has(img))return;
+      const frame=img.closest('.photo,.product-visual');
+      tracked.set(img,frame);
+      img.addEventListener('load',()=>{if(frame)fit(frame);});
+      img.addEventListener('error',()=>{
+        if(img.hasAttribute('src')&&img.src!==img.dataset.original){img.dataset.src=img.dataset.original;img.src=img.dataset.original;}
+      });
+      viewport.observe(img);
     });
   }
   const observer=new MutationObserver(scan);
-  ['products','product-detail'].forEach(id=>{
+  ['products','product-detail','cart-items'].forEach(id=>{
     const el=document.getElementById(id);if(el)observer.observe(el,{childList:true,subtree:true});
   });
   scan();

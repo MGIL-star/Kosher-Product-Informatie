@@ -14,7 +14,13 @@
   try {const saved=JSON.parse(localStorage.getItem('kosher-catalog-cart') || '{}');for(const [k,v] of Object.entries(saved))if(Number.isInteger(v)&&v>0)cart[k]=Math.min(v,999);}catch{}
   const classify = (p,n) => n>17?'frozen':n===17?'home':n<=2?'drinks':n===6?'tea':[9,10,11,12].includes(n)?'treats':[13,14,16].includes(n)?'snacks':n===15?(p.category==='Brood & brioche'?'bread':'snacks'):'pantry';
   async function sharedScript(path){await new Promise((resolve,reject)=>{const script=document.createElement('script');script.src=path;script.onload=resolve;script.onerror=reject;document.head.append(script);});}
-  function image(p,cls=''){return p.image?`<img class="${cls}" src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" decoding="async">`:'';}
+  function image(p,cls=''){
+    if(!p.image)return '';
+    const relative=decodeURIComponent(new URL(p.image).pathname.slice(root.pathname.length));
+    const thumbnail=window.CATALOG_THUMBNAILS?.[relative];
+    const src=cls==='detail-image'||!thumbnail?p.image:new URL(thumbnail,location.href).href;
+    return `<img class="${cls}" data-original="${esc(p.image)}" data-src="${esc(src)}" alt="${esc(p.name)}" decoding="async">`;
+  }
   function save(){try{localStorage.setItem('kosher-catalog-cart',JSON.stringify(cart));}catch{}updateCount();}
   function updateCount(){const count=Object.values(cart).reduce((a,b)=>a+b,0);$('#cart-count').textContent=`${count} ${count===1?'artikel':'artikelen'}`;}
   function toast(message){$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').classList.remove('visible'),2200);}
@@ -53,7 +59,8 @@
     // Existing product files are the only source; there is no separate catalogue copy.
     renderCategories();render();const picks=[products.find(p=>p.key==='meter-8:56'),products.find(p=>p.key==='meter-6:48'),products.find(p=>p.key==='meter-13:1')].filter(p=>p?.image);if($('#hero-products'))$('#hero-products').innerHTML=picks.map(p=>image(p)).join('');
     for(const key of Object.keys(cart))if(!products.some(p=>p.key===key)&&!failures.length)delete cart[key];save();
-    await sharedScript(new URL('photo-layout.js',location.href).href);
+    await sharedScript(new URL('photo-layout.js?v=20261010-scroll',location.href).href);
+    window.dispatchEvent(new Event('catalog-ready'));
     window.catalogPreview={get products(){return products;},get cart(){return {...cart};},failures};
   }
   load();
