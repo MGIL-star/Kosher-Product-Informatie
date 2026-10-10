@@ -7,9 +7,19 @@
   const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',frozen:'Diepvries'};
   const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js':i===3?'assets/js/products-meter-4.js':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js`});
-  sources.forEach(source => source.title = source.n <= 17 ? `DKW${source.n}` : `Diepvries schap ${source.n-17}`);
-  sources.push({n:21,title:'Koeling Vleeskost',folder:'koeling-schap-1',data:'koeling-schap-1/products.js'});
-  sources.push({n:22,title:'Koeling Melkkost',folder:'koeling-schap-2',data:'koeling-schap-2/products.js'});
+  const sectionTitles = [
+    'Water · Vruchtensappen', 'Wijn · Druivensap', 'Olie · Azijn · Dranken',
+    'Groenten · Olijven · Augurken', 'Sauzen · Soepen · Visconserven',
+    'Koffie · Thee · Crackers', 'Pasta · Soep · Maaltijdmixen', 'Honing · Beleg · Kruiden',
+    'Cake · Wafels · Repen', 'Koekjes · Biscuits', 'Snoep · Kauwgom',
+    'Chocolade · Granola · Bakproducten', 'Chips · Pretzels · Wraps',
+    'Bamba · Bissli · Noten', 'Brood · Brioche · Snacks', 'Snacks · Snoep · Sauzen',
+    'Verzorging · Huishouden · Kaarsen', 'Diepvries: Vlees · Kip · Vis',
+    'Diepvries: Bagels · Pizza · Deegwaren', 'Diepvries: Snacks · Vegetarisch · IJs'
+  ];
+  sources.forEach(source => source.title = sectionTitles[source.n - 1]);
+  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js'});
+  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
