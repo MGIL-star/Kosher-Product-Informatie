@@ -1,0 +1,5 @@
+/* Zelfde toelichtingsstijl als diepvries schap 1. */
+.verification-copy{color:var(--muted);font-size:14px!important;margin-top:9px!important}
+.dialog-product h3,.eyebrow{text-transform:none;letter-spacing:normal}
+.product-visual.yoghurt-small img{max-height:82%;align-self:center}
+.product-visual.yoghurt-large img{padding:4px}

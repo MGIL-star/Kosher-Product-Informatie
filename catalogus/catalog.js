@@ -8,7 +8,8 @@
   const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js':i===3?'assets/js/products-meter-4.js':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js`});
   sources.forEach(source => source.title = source.n <= 17 ? `DKW${source.n}` : `Diepvries schap ${source.n-17}`);
-  sources.push({n:21,title:'Koeling schap 1',folder:'koeling-schap-1',data:'koeling-schap-1/products.js'});
+  sources.push({n:21,title:'Koeling Vleeskost',folder:'koeling-schap-1',data:'koeling-schap-1/products.js'});
+  sources.push({n:22,title:'Koeling Melkkost',folder:'koeling-schap-2',data:'koeling-schap-2/products.js'});
   let products=[], active='all', failures=[];
   let cart={};
   try {const saved=JSON.parse(localStorage.getItem('kosher-catalog-cart') || '{}');for(const [k,v] of Object.entries(saved))if(Number.isInteger(v)&&v>0)cart[k]=Math.min(v,999);}catch{}

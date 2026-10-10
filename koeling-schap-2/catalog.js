@@ -35,7 +35,8 @@
   }
 
   function productImage(product, large = false) {
-    const sizeClass = large ? ' product-visual-large' : '';
+    const yogurtSize = product.brand === 'Shefa' && product.id <= 12 ? (product.variant === '125 g' ? ' yoghurt-small' : ' yoghurt-large') : '';
+    const sizeClass = (large ? ' product-visual-large' : '') + yogurtSize;
     if (product.image) {
       return `<div class="product-visual${sizeClass}"><img data-product-image="${product.id}" src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" loading="lazy"></div>`;
     }
@@ -55,7 +56,7 @@
   function render() {
     const query = normalize(search.value.trim());
     const visible = products.filter(product => {
-      const matchesFilter = activeFilter === 'Alle' || product.category === activeFilter;
+      const matchesFilter = activeFilter === 'Alle' || product.category === activeFilter || (product.additionalCategories || []).includes(activeFilter);
       const haystack = normalize(`${product.brand} ${product.name} ${product.englishName || ''} ${product.variant} ${product.ingredients}`);
       return matchesFilter && haystack.includes(query);
     });
@@ -65,7 +66,7 @@
     if (!visible.length) {
       const hasProducts = products.length > 0;
       document.querySelector('#empty-title').textContent = hasProducts ? 'Geen producten gevonden' : 'Nog geen producten toegevoegd';
-      document.querySelector('#empty-copy').textContent = hasProducts ? 'Probeer een andere zoekterm of kies een ander filter.' : 'Koeling Vleeskost staat klaar voor de echte productgegevens.';
+      document.querySelector('#empty-copy').textContent = hasProducts ? 'Probeer een andere zoekterm of kies een ander filter.' : 'Koeling Melkkost staat klaar voor de echte productgegevens.';
     }
   }
 
