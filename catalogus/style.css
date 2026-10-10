@@ -53,6 +53,7 @@
 .intro-topline .eyebrow{margin:0}.intro-topline .hebrew-blessing{flex-shrink:0}
 .hebrew-blessing{font-family:"Noto Serif Hebrew","David","Times New Roman",serif;font-size:23px;font-weight:400;line-height:1.2;color:#123c32}
 .catalog-intro>.hebrew-blessing{display:block;text-align:right;margin:0 0 6px;direction:rtl}
+.meter-heading{flex-direction:column;align-items:flex-start;gap:4px}
 /* Catalogue-only language controls; keep flags left to right in Hebrew too. */
 .catalog-languages{display:grid;grid-template-rows:repeat(2,33px);grid-auto-flow:column;grid-auto-columns:42px;justify-content:start;align-items:center;direction:ltr;gap:0;max-width:100%;overflow-x:auto;padding:0;margin:0 0 8px -3px;scrollbar-width:thin}
 .catalog-languages .glink{display:flex;flex:0 0 auto;align-items:center;justify-content:center;min-width:38px;min-height:33px;padding:2px;border:1px solid transparent;border-radius:5px;background:transparent;font:inherit;cursor:pointer}
