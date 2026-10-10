@@ -550,7 +550,7 @@ window.KPI_PRODUCTS = [
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
+    "ean": "0796867649802",
     "ingredients": "Gezuurde kool 57% (rode kool 46%, water, azijn, zout), mayonaise (raapzaadolie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren E412 en E415, conserveermiddelen E202 en E211, zuurteregelaar E575, antioxidant E385), suiker, wortelen, conserveermiddel kaliumsorbaat.",
     "allergens": [
       "EI",
@@ -567,7 +567,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
     "ingredientsSource": "Vergroot fysiek etiket op 24208d85-8f0d-4149-9e40-6148bd25f1eb.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeReview": "Cijfers op de foto nog niet betrouwbaar vast te stellen; geen barcode ingevuld op basis van een gok.",
+    "barcodeSource": "0796867649802, rechtstreeks opgegeven door de gebruiker op 11 oktober 2026.",
     "supplementalLabelSource": {
       "date": "2026-10-10",
       "photos": [
@@ -1033,7 +1033,7 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "250 g",
     "ean": "7290002358275",
-    "ingredients": "Witte kool (38,8%), geraspte wortel (17,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (42,4%), zout, suiker, azijnzuur, witte peper, MOSTERDzaad, E202.",
+    "ingredients": "Witte kool (38,8%), geraspte wortel (17,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (42,4%), zout, suiker, azijnzuur, witte peper, MOSTERDZAAD, E202.",
     "allergens": [
       "MOSTERD"
     ],

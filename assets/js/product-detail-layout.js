@@ -8,10 +8,12 @@
       if (section.querySelector('h3')?.textContent !== 'Hechser') continue;
       const line = section.querySelector('p');
       if (!line) continue;
-      const lines = product.kosherLines || line.textContent.split(/\s+[—–-]\s+|\n/);
-      if (lines.length < 2) continue;
+      const lines = (product.kosherLines || line.textContent.split(/\s+[—–-]\s+|\n/)).map(text => text.trim()).filter(Boolean);
+      const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
+      const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
+      if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
       line.replaceChildren();
-      lines.filter(Boolean).forEach((text, index) => {
+      names.forEach((text, index) => {
         if (index) line.append(document.createElement('br'));
         line.append(document.createTextNode(text.trim()));
       });

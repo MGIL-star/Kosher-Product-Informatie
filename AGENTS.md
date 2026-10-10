@@ -1,0 +1,8 @@
+# Productcatalogus: vaste gebruikersafspraken
+
+- Neem productgegevens nauwkeurig over van de juiste fysieke verpakking. Koppel voor- en achterkant op productvariant, gewicht en barcode.
+- Voeg geen zelfbedachte opmerkingen toe over ontbrekende sporenwaarschuwingen of onvolledige ingrediëntenlijsten.
+- Gebruik dezelfde gegevens in de catalogus en op de productpagina’s achter de QR-codes.
+- Schrijf hechsjers als tekst zonder decoratieve scheidingsstrepen. Zet Parve achter de naam, bijvoorbeeld `Adath Yereim (Parve)`.
+- Bewerk productfoto’s met behoud van de echte gesloten verpakking, rechtop op een witte achtergrond. Verwijder standaard zichtbare houdbaarheidsdatums, productiedatums en lot-/batchcodes uit de bewerkte catalogusfoto. Bewaar de originele bronfoto ongewijzigd. Behoud ingrediënten, gewicht, barcode en keurmerken.
+- Behoud bestaande kaasfoto’s bij nieuwe etiketfoto’s voor ingrediënten. Maak de Shoshana-plakken niet opnieuw; alle verpakkingen staan in de lengte, inclusief Mimolette. Wijzig nooit namen, teksten of de indeling van de echte verpakking.
