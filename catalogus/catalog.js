@@ -60,7 +60,8 @@
     const info=Object.entries(p.productInfo||{}).map(([label,value])=>'<p><strong>'+esc(label)+':</strong> '+esc(value)+'</p>').join('')
       +(p.preparation?'<p><strong>Bereiding:</strong> '+esc(p.preparation)+'</p>':'')
       +(p.note?'<p>'+esc(p.note)+'</p>':'');
-    const kosher=String(p.kosher||'').replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim();
+    const parve=(p.kosherStatus==='Parve'||/\(Parve\)/i.test(p.note||''))&&!/parve/i.test(p.kosher||'');
+    const kosher=String(p.kosher||'').concat(p.kosher&&parve?' (Parve)':'').replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim();
     $('#product-detail').innerHTML='<div class="dialog-product">'
       +'<div class="product-visual product-visual-large">'+image(p,'detail-image')+'</div>'
       +'<p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>'

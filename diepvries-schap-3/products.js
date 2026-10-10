@@ -60,7 +60,7 @@ window.KPI_PRODUCTS = [
       "TARWE"
     ],
     "ean": "3770021861191",
-    "kosher": "Rav Yisroel Yosef HaCohen Hendel (Kosher Lemehadrin) Shechitat Lubavitch",
+    "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
     "image": "./images/chicof-tenders-packshot.png",
     "imageSource": {
       "type": "Bewerkte fysieke verpakkingsfoto",
@@ -73,7 +73,8 @@ window.KPI_PRODUCTS = [
         "df21c598-ff17-471d-8283-85fa4fbc1cf8.jpg"
       ],
       "priority": "Fysieke verpakking van gebruiker"
-    }
+    },
+    "kosherSource": "Door gebruiker bevestigd op 10 oktober 2026 voor de huidige CHICOF-kiptenders; vervangt de eerdere vermelding van Rav Hendel."
   },
   {
     "id": 25,
@@ -92,22 +93,32 @@ window.KPI_PRODUCTS = [
     ],
     "allergensConfirmedAbsent": false,
     "ean": "3770021861580",
-    "kosher": "",
+    "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
     "note": "",
     "image": "./images/chicof-dino-selected.png",
-    "reviewStatus": "Webshopetiket verwerkt; fysieke verpakking nog te vergelijken",
+    "reviewStatus": "label-verified",
     "imageSource": {
       "type": "Door gebruiker gekozen bewerkte illustratie",
       "date": "2026-09-15",
       "edit": "Aangeleverde afbeelding ongewijzigd gebruikt. Etikettekst in illustratie is niet de bron voor productgegevens."
     },
     "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
-    "ingredientsSource": "Leesbaar Nederlands etiket op originele productfoto Shop Makolet; fysieke foto gebruiker volgt",
-    "barcodeSource": "Originele productfoto Shop Makolet, etiket onderaan rechts",
+    "ingredientsSource": "Nederlands etiket op fysieke verpakkingsfoto 6fb1232d-39a2-4354-80d3-5e6bb7b59a32.jpg; vergeleken op 10 oktober 2026",
+    "barcodeSource": "Barcode op fysieke verpakkingsfoto 6fb1232d-39a2-4354-80d3-5e6bb7b59a32.jpg",
     "labelSource": {
       "url": "https://static.wixstatic.com/media/3115c6_a0c562ece8d9472aae6822b588b9e191~mv2.png",
       "page": "https://www.shopmakolet.com/product-page/שניצל-דינוזאור-chicof"
-    }
+    },
+    "kosherSource": "Aanduiding op fysieke verpakkingsfoto 6fb1232d-39a2-4354-80d3-5e6bb7b59a32.jpg; Hebreeuws: הרב אליעזר וולף, אב״ד אמסטרדם, גלאט כשר למהדרין",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "6fb1232d-39a2-4354-80d3-5e6bb7b59a32.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "kosherNameReference": "https://top-k.net/a-propos/"
   },
   {
     "id": 1,
@@ -126,7 +137,7 @@ window.KPI_PRODUCTS = [
     ],
     "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
     "ean": "3770021861573",
-    "kosher": "Glatt Kosher Mehadrin",
+    "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
     "kosherNote": "",
     "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren",
     "image": "./images/chicof-nuggets-selected.png",
@@ -138,9 +149,9 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
     },
-    "barcodeSource": "Fysieke verpakkingsfoto",
-    "ingredientsSource": "Detailfoto’s van de fysieke verpakking aangeleverd op 14 september 2026",
-    "reviewStatus": "Etiket verwerkt",
+    "barcodeSource": "Barcode op fysieke verpakkingsfoto cce22ffc-e716-4db8-90b2-95c252c3eecb.jpg",
+    "ingredientsSource": "Nederlands etiket op fysieke verpakkingsfoto cce22ffc-e716-4db8-90b2-95c252c3eecb.jpg; vergeleken op 10 oktober 2026",
+    "reviewStatus": "label-verified",
     "imageSource": {
       "type": "Door gebruiker gekozen bewerkte illustratie",
       "date": "2026-09-15",
@@ -148,14 +159,15 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "supplementalLabelSource": {
-      "date": "2026-09-14",
+      "date": "2026-10-10",
       "photos": [
-        "1.jpg",
-        "31.jpg"
+        "cce22ffc-e716-4db8-90b2-95c252c3eecb.jpg"
       ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "kosherSource": "Aanduiding op fysieke verpakkingsfoto cce22ffc-e716-4db8-90b2-95c252c3eecb.jpg; Hebreeuws: הרב אליעזר וולף, אב״ד אמסטרדם, גלאט כשר למהדרין",
+    "kosherNameReference": "https://top-k.net/a-propos/"
   },
   {
     "id": 5,
@@ -1015,20 +1027,18 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "5 stuks · 450 g",
     "category": "IJs",
-    "ingredients": "water, glucosestroop, suikers, gedeeltelijk gehydrolyseerd zetmeel, inuline, stabilisatoren en emulgatoren (E471, johannesbroodpitmeel, guargom, carrageen), voedingszuur citroenzuur, verdikkingsmiddel glycerol, aroma’s, gehard plantaardig vet (palm), natuurlijke kleurstoffen (wortelconcentraat, bietenconcentraat, curcumine), zuurteregelaar E331, gummisnoepjes 8%",
-    "ingredientsComplete": false,
-    "ingredientNote": "De samenstelling van de gummisnoepjes is niet zichtbaar op de aangeleverde foto. De allergenenverklaring vermeldt visgelatine",
+    "ingredients": "Water, glucosestroop, suikers, gedeeltelijk afgebroken zetmeel, inuline, stabilisatoren en emulgatoren (E471, johannesbroodpitmeel, guargom, visgelatine), voedingszuur (citroenzuur), verdikkingsmiddel (glycerol), natuurlijke kleurstoffen (wortelconcentraat, bietenconcentraat, curcumine), aroma’s, zuurteregelaar (E331). Bevat gummisnoepjes (8%).",
+    "ingredientsComplete": true,
+    "ingredientNote": "",
     "allergens": [
       "VIS"
     ],
-    "allergenNote": "Kan melk, noten, amandelen, pinda’s, sesam, soja, tarwe, gluten en ei bevatten",
+    "allergenNote": "Bevat visgelatine. Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten",
     "ean": "7290106571037",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "note": "Ingevroren bewaren (Parve)",
     "image": "./images/22-recht.png",
-    "reviewNeeded": [
-      "Ingrediënten gummisnoepjes"
-    ],
+    "reviewNeeded": [],
     "labelSource": {
       "photos": [
         "39.jpg",
@@ -1038,8 +1048,8 @@ window.KPI_PRODUCTS = [
       "priority": "Fysieke verpakking van gebruiker"
     },
     "barcodeSource": "Door gebruiker bevestigd: 7290106571037",
-    "ingredientsSource": "Fysieke verpakkingsfoto; alleen bevestigde gegevens overgenomen",
-    "reviewStatus": "Controle nodig",
+    "ingredientsSource": "Volledige Hebreeuwse ingrediëntenlijst vertaald van fysieke verpakkingsfoto 04377c00-ed3e-42f5-ba01-77183addbd66.jpg. Visgelatine staat in de lijst; carrageen en palmvet worden hier niet vermeld.",
+    "reviewStatus": "label-verified",
     "imageSource": {
       "type": "Webshop",
       "page": "https://www.tivtaam.co.il/?catalogProduct=10177",
@@ -1048,13 +1058,14 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "supplementalLabelSource": {
-      "date": "2026-09-14",
+      "date": "2026-10-10",
       "photos": [
-        "17.jpg",
-        "18.jpg"
+        "b853244d-3bb1-4d7a-a740-2ae13bf4328a.jpg",
+        "04377c00-ed3e-42f5-ba01-77183addbd66.jpg"
       ],
-      "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
-      "priority": "Fysieke verpakking van gebruiker"
-    }
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "quantitySource": "Fysieke verpakking: 5 stuks van 90 g, totaal 450 g"
   }
 ];

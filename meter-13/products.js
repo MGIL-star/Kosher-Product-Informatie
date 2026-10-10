@@ -1960,7 +1960,16 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.8
-    }
+    },
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "2469c418-f3a5-4032-9d9f-95b8cf042246.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    },
+    "quantitySource": "Foto van 10 oktober 2026 bevestigt 30 stuks; nettogewicht niet zichtbaar."
   },
   {
     "id": 102,

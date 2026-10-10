@@ -511,9 +511,9 @@ window.KPI_PRODUCTS = [
     "image": "./images/12-frank-recht.png",
     "warning": "",
     "note": "Bewaren bij -18 °C. Na ontdooien niet opnieuw invriezen. Bevat soja, tarwe en ei",
-    "reviewStatus": "label-partially-readable",
+    "reviewStatus": "label-verified",
     "quantitySource": "Actuele fysieke verpakking; foto 25.jpg",
-    "ingredientsComplete": false,
+    "ingredientsComplete": true,
     "barcodeSource": "Afgelezen op verpakkingsfoto 26.jpg",
     "labelSource": {
       "front": "25.jpg",
@@ -525,18 +525,29 @@ window.KPI_PRODUCTS = [
       "page": "https://hatov.com/Item-Category/bourekas-party-food/",
       "url": "https://hatov.com/wp-content/uploads/2022/12/b5i7npoq_hatov_ha231-scaled.jpg"
     },
-    "kosherStatus": "Parve-aanduiding nog op de fysieke verpakking te bevestigen",
+    "kosherStatus": "Parve",
     "veganStatus": "Niet vegan: bevat ei",
     "ingredientNote": "",
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 25.jpg en 26.jpg",
+    "ingredientReviewDate": "2026-10-10",
+    "kosherSource": "Detailfoto 50b2ac7c-a27e-49bb-aa31-39f05cca1ffa.jpg: Badatz Edah HaChareidis, Jeruzalem; parve",
     "ingredientResearch": {
       "date": "2026-09-10",
       "sources": [
         "https://www.tesco.com/groceries/en-GB/products/317977453",
         "https://hatov.com/wp-content/uploads/2024/07/Hatov-Catalouge-2024.pdf"
       ],
-      "result": "Geen volledige ingrediëntenlijst gevonden die de onleesbare kleurstof bevestigt; melding behouden"
+      "result": "Op 10 oktober 2026 opgelost met een leesbare detailfoto van de fysieke verpakking; volledige ingrediëntenlijst bevestigd."
+    },
+    "ingredientSourceNote": "Volledige Engelse ingrediëntenlijst gecontroleerd op f3cb2c7b-7f4b-485e-a81e-dc3d95ec69b3.jpg; kleurstof ijzeroxide bevestigd.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "8a414481-7db0-4424-a891-afe6c79ac2b9.jpg",
+        "f3cb2c7b-7f4b-485e-a81e-dc3d95ec69b3.jpg",
+        "50b2ac7c-a27e-49bb-aa31-39f05cca1ffa.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
     }
   },
   {
@@ -654,11 +665,20 @@ window.KPI_PRODUCTS = [
       "url": "https://www.b-kosher.co.uk/wp-content/uploads/2026/04/yr44cxea_ha212.jpg",
       "note": "Origineel winkelwatermerk intact gelaten."
     },
-    "kosherStatus": "Parve-aanduiding nog op de fysieke verpakking te bevestigen",
+    "kosherStatus": "Parve",
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
     "ingredientSourceNote": "Engelse lijst op foto 28. Herhaalde vermeldingen van water, suiker en zout volgen de verpakking.",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 27.jpg en 28.jpg"
+    "kosherSource": "Detailfoto 984d1eff-42af-4d85-a744-0d90b72400b0.jpg: Badatz Edah HaChareidis, Jeruzalem; parve",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "b168e501-49a5-4787-8fe4-8ad87116e98c.jpg",
+        "984d1eff-42af-4d85-a744-0d90b72400b0.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    }
   },
   {
     "id": 17,
@@ -743,20 +763,20 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "500 g",
     "category": "Vis",
-    "ingredients": "verse whitefish, verse harder (mullet), nobelvis, verse eieren, koolzaadolie, verse uien, suiker, aardappelen en/of aardappelzetmeel, water, zout, specerijen",
+    "ingredients": "Verse whitefish, verse harder (mullet), nobelvis, verse eieren, koolzaadolie, verse uien, suiker, aardappelen en/of aardappelzetmeel, water, zout, specerijen.",
     "allergens": [
       "VIS",
       "EI"
     ],
     "allergensConfirmedAbsent": false,
     "allergenNote": "Bevat vis en ei",
-    "kosher": "OU (Orthodox Union)",
+    "kosher": "OU en CRC (Central Rabbinical Congress)",
     "ean": "732973000748",
     "image": "./images/18-gefilte-recht.png",
     "warning": "",
     "note": "Gekookt. Glutenvrij volgens de verpakking. Bewaren bij -18 °C. Na ontdooien gekoeld bewaren bij +4 °C en binnen vijf dagen gebruiken. Niet opnieuw invriezen. De Engelse lijst noemt koolzaadolie. De Duitse sticker noemt katoenzaadolie. Dit verschil is nog niet opgehelderd. De gekozen afbeelding toont de White & Pike verpakking van 565 g. Dit artikel is de gekookte uitvoering van 500 g.",
     "reviewStatus": "label-language-conflict",
-    "quantitySource": "Actuele fysieke verpakking; foto 39.jpg",
+    "quantitySource": "Fysieke verpakking: 56a53b0d-1157-4226-97f6-4eb7544212d0.jpg bevestigt 500 g",
     "ingredientsComplete": true,
     "barcodeSource": "Afgelezen op actuele verpakkingsfoto 40.jpg",
     "labelSource": {
@@ -765,24 +785,33 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
-    "kosherStatus": "Nog te bevestigen op een close-up",
-    "ingredientSourceNote": "Engelse lijst op foto 40 vertaald. Duitse sticker geeft deels andere visbenamingen en een andere olie.",
+    "kosherStatus": "confirmed",
+    "ingredientSourceNote": "Engelse ingrediëntenlijst op de nieuwe fysieke verpakkingsfoto b37b5a76-7115-49e2-9549-c6ce33eac823.jpg overgenomen op verzoek van gebruiker op 10 oktober 2026. De Duitse sticker vermeldt een andere olie (katoenzaadolie); de Engelse lijst is leidend voor deze invoer.",
     "imageSource": {
       "type": "webshop-user-selected",
       "page": "https://thekmp.com/products/a-b-famous-homestyle-gefilte-fish-white-pike",
       "url": "https://thekmp.com/cdn/shop/products/A_B_Famous_Homestyle_Gefilte_Fish_White_Pike.jpg?v=1602623443&width=1500",
       "note": "Door gebruiker geselecteerd via Google Afbeeldingen op 10 september 2026. Foto toont White & Pike 565 g met Cooking Required; fysieke productgegevens blijven die van gekookte rol 500 g."
     },
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 39.jpg en 40.jpg",
-    "kosherNote": "Een aanvullend keurmerk op de verpakking is niet leesbaar."
+    "ingredientReviewDate": "2026-10-10",
+    "kosherSource": "Door gebruiker bevestigd op 10 oktober 2026: dezelfde hechser als de A&B-tilapiafilets (OU en CRC).",
+    "kosherNote": "",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "b37b5a76-7115-49e2-9549-c6ce33eac823.jpg",
+        "56a53b0d-1157-4226-97f6-4eb7544212d0.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    }
   },
   {
     "id": 19,
     "brand": "Strauss Fantasia",
     "name": "IJstaart met Mokka en Vanille",
     "englishName": "",
-    "variant": "",
+    "variant": "1 liter",
     "category": "Desserts",
     "ingredients": "water, suiker, kokosolie, glucosestroop, dextrose, inuline, maltodextrine, soja-eiwit, mono- en diglyceriden, kunstmatige aroma’s, kleurstoffen (karamel en bètacaroteen), zout, cacao, oploskoffie, johannesbroodpitmeel, guargom, carrageen, koolzaadlecithine, PGPR",
     "allergens": [
@@ -794,9 +823,9 @@ window.KPI_PRODUCTS = [
     "ean": "7290006681249",
     "image": "./images/19-mocha-recht.png",
     "warning": "",
-    "note": "Ingevroren bewaren (Parve). Nettogewicht in gram nog te bevestigen",
-    "reviewStatus": "label-weight-unconfirmed",
-    "quantitySource": "Foto’s 41–42 vermelden uitsluitend volume. Geen omrekening naar gram gemaakt.",
+    "note": "Ingevroren bewaren (Parve)",
+    "reviewStatus": "label-verified",
+    "quantitySource": "Fysieke verpakking: 5c403aac-6477-4745-a4cb-94563cc787be.jpg vermeldt 1 liter. Volume overgenomen, niet omgerekend naar gram.",
     "ingredientsComplete": true,
     "barcodeSource": "Afgelezen op actuele verpakkingsfoto 42.jpg",
     "labelSource": {
@@ -812,7 +841,15 @@ window.KPI_PRODUCTS = [
       "url": "https://cdn11.bigcommerce.com/s-vckm6cgfwi/images/stencil/800x800/products/4135/12512/20201210_120110-removebg-preview__71271.1607619735.png?c=2"
     },
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 41.jpg en 42.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 41.jpg en 42.jpg",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "5c403aac-6477-4745-a4cb-94563cc787be.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
+      "priority": "Actuele fysieke verpakking van gebruiker"
+    }
   },
   {
     "id": 20,
