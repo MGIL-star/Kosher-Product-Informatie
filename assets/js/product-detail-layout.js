@@ -4,6 +4,18 @@
   window.KPI_normalizeProductLayout = function (container, product = {}) {
     const root = container.querySelector('.dialog-product');
     if (!root) return;
+    for (const section of root.querySelectorAll('section')) {
+      if (section.querySelector('h3')?.textContent !== 'Hechser') continue;
+      const line = section.querySelector('p');
+      if (!line) continue;
+      const lines = product.kosherLines || line.textContent.split(/\s+[—–-]\s+|\n/);
+      if (lines.length < 2) continue;
+      line.replaceChildren();
+      lines.filter(Boolean).forEach((text, index) => {
+        if (index) line.append(document.createElement('br'));
+        line.append(document.createTextNode(text.trim()));
+      });
+    }
     const hiddenLabel = label => /herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
