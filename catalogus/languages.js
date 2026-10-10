@@ -1,14 +1,14 @@
 // Catalogue-only automatic translation using GTranslate's current library.
 (() => {
   'use strict';
-  const names = {nl:'Nederlands',iw:'עברית',en:'English',fr:'Français',es:'Español',uk:'Українська'};
+  const names = {nl:'Nederlands',iw:'עברית',en:'English'};
   const nav = document.querySelector('.catalog-languages');
   const status = document.createElement('span');
   status.className = 'translation-status'; status.setAttribute('role','status');
   nav.after(status);
   let loading, active = 'nl', translated = false, refreshTimer;
   function cleanProductTitles(code) {
-    if (!['en','fr','es','iw','uk'].includes(code)) return;
+    if (!['en','iw'].includes(code)) return;
     document.querySelectorAll('[data-source-title]').forEach(el => {
       // Preserve punctuation already present in the Dutch name and never alter
       // ingredients, quantities, barcodes or brand names.
