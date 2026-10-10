@@ -3,7 +3,7 @@
 @media print{body>*{display:none!important}#print-list{display:block!important;padding:20px;color:black}#print-list li{padding:10px;border-bottom:1px solid #ccc}dialog{display:none!important}}
 
 .meter-section{margin:0 0 56px}.meter-heading{display:flex;align-items:baseline;justify-content:space-between;gap:16px;padding:18px 0 14px;border-top:2px solid #123c32}.meter-heading h2{margin:0;font-size:27px;color:#123c32}.meter-heading>span{font-size:12px;color:#68786e}.meter-heading h2{scroll-margin-top:105px}.product-open{border:0;background:white;font:inherit;cursor:pointer;text-align:left}.card-copy h3{overflow-wrap:anywhere}.catalog-tools{margin-bottom:24px}
-@media(max-width:639px){.photo{height:120px;padding:8px}.card-copy{padding:9px 7px}.card-copy h3{font-size:12px}.card-bottom{padding:0 7px 10px}.product-card .add{padding:8px 6px;font-size:10px;gap:3px}.meter-section{margin-bottom:36px}.meter-heading h2{font-size:23px}}
+@media(max-width:639px){.photo{height:180px;padding:10px}.card-copy{padding:9px 7px}.card-copy h3{font-size:12px}.card-bottom{padding:0 7px 10px}.product-card .add{padding:8px 6px;font-size:10px;gap:3px}.meter-section{margin-bottom:36px}.meter-heading h2{font-size:23px}}
 
 .catalog-detail-photo{height:390px;width:100%;background:#fff}@media(max-width:700px){.catalog-detail-photo{height:240px}}
 /* Subtle cart action in the corner of each product photo. */
@@ -52,3 +52,23 @@
 .intro-topline{display:flex;align-items:center;justify-content:space-between;gap:20px}
 .intro-topline .eyebrow{margin:0}.intro-topline .hebrew-blessing{flex-shrink:0}
 .hebrew-blessing{font-family:"Noto Serif Hebrew","David","Times New Roman",serif;font-size:23px;font-weight:400;line-height:1.2;color:#123c32}
+.catalog-intro>.hebrew-blessing{display:block;text-align:right;margin:0 0 6px;direction:rtl}
+/* Catalogue-only language controls; keep flags left to right in Hebrew too. */
+.catalog-languages{display:grid;grid-template-rows:repeat(2,33px);grid-auto-flow:column;grid-auto-columns:42px;justify-content:start;align-items:center;direction:ltr;gap:0;max-width:100%;overflow-x:auto;padding:0;margin:0 0 8px -3px;scrollbar-width:thin}
+.catalog-languages .glink{display:flex;flex:0 0 auto;align-items:center;justify-content:center;min-width:38px;min-height:33px;padding:2px;border:1px solid transparent;border-radius:5px;background:transparent;font:inherit;cursor:pointer}
+.catalog-languages .glink img{width:32px;height:24px;object-fit:contain}
+.catalog-languages .glink span:not(.flag-icon){position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.catalog-languages .glink:hover{background:#f0f6f2}
+.catalog-languages .gt-current-lang{border-color:#9cb9a9;background:#edf4ef}
+.catalog-languages .glink:focus-visible{outline:2px solid #39765e;outline-offset:-2px}
+.catalog-languages .flag-icon{display:block;position:relative;width:32px;height:24px;overflow:hidden;flex:none}
+.catalog-languages [data-lang="iw"] .flag-icon{width:36px;height:27px}
+.catalog-languages [data-lang="iw"] img{display:block;width:36px;height:27px;object-fit:contain}
+.translation-status{display:block;font-size:12px;color:#68786e}.translation-status:empty{display:none}
+.site-footer .translation-note{font-size:11px;opacity:.75}
+.card-copy .brand,.cart-item .brand,#product-detail .dialog-heading>p{text-transform:uppercase}
+html[dir="rtl"] .card-copy,html[dir="rtl"] .product-open,html[dir="rtl"] .cart-button{text-align:right}
+/* The selected Hebrew catalogue typeface, including product details and basket. */
+html[dir="rtl"] body,html[dir="rtl"] button,html[dir="rtl"] input,
+html[dir="rtl"] h1,html[dir="rtl"] h2,html[dir="rtl"] h3,
+html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}

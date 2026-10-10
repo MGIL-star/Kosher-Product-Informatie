@@ -43,6 +43,16 @@
     const margin=frame.clientWidth<150?10:18;
     const height=Math.min(frame.clientHeight-2*margin,(frame.clientWidth-2*margin)/ratio);
     const width=height*ratio, left=(frame.clientWidth-width)/2, top=(frame.clientHeight-height)/2;
+    // Render straight crops at their final size. A scaled 3D layer can soften
+    // small packaging text, especially at fractional desktop/phone pixel ratios.
+    const [[l,t],[r,t2],[r2,b],[l2,b2]]=points;
+    if(Math.abs(t-t2)<1e-6 && Math.abs(r-r2)<1e-6 && Math.abs(b-b2)<1e-6 && Math.abs(l-l2)<1e-6 && r>l && b>t) {
+      const iw=width/(r-l), ih=height/(b-t);
+      Object.assign(frame.style,{position:'relative',overflow:'hidden',background:'#fff'});
+      Object.assign(img.style,{position:'absolute',left:(left-l*iw)+'px',top:(top-t*ih)+'px',padding:'0',maxWidth:'none',maxHeight:'none',width:iw+'px',height:ih+'px',objectFit:'fill',transform:'none',clipPath:`inset(${t*100}% ${(1-r)*100}% ${(1-b)*100}% ${l*100}%)`});
+      frame.dataset.photoFitted='true';
+      return;
+    }
     const xs=points.map(p=>p[0]), rw=2*width/(Math.max(...xs)-Math.min(...xs));
     const rh=rw*img.naturalHeight/img.naturalWidth;
     const transform=matrix(points.map(([x,y])=>[x*rw,y*rh]),[[left,top],[left+width,top],[left+width,top+height],[left,top+height]]);
