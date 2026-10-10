@@ -12,11 +12,17 @@
     document.querySelectorAll('[data-source-title]').forEach(el => {
       // Preserve punctuation already present in the Dutch name and never alter
       // ingredients, quantities, barcodes or brand names.
-      if (/[-\u2010\u2011]/u.test(el.dataset.sourceTitle)) return;
+      const preserveHyphens = /[-\u2010\u2011]/u.test(el.dataset.sourceTitle);
+      let firstLetter = true;
       const walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
       while (walker.nextNode()) {
         const node = walker.currentNode;
-        const clean = node.nodeValue.replace(/\u00ad/g,'').replace(/(\p{L})[-\u2010\u2011](?=\p{L})/gu,'$1 ');
+        let clean = node.nodeValue;
+        if (!preserveHyphens) clean = clean.replace(/\u00ad/g,'').replace(/(\p{L})[-\u2010\u2011](?=\p{L})/gu,'$1 ');
+        if (firstLetter && /\p{L}/u.test(clean)) {
+          clean = clean.replace(/\p{L}/u, letter => letter.toLocaleUpperCase(code === 'iw' ? 'he' : code));
+          firstLetter = false;
+        }
         if (clean !== node.nodeValue) node.nodeValue = clean;
       }
     });
