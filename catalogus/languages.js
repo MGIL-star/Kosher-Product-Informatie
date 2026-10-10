@@ -1,7 +1,7 @@
 // Catalogue-only automatic translation using GTranslate's current library.
 (() => {
   'use strict';
-  const names = {nl:'Nederlands',en:'English',fr:'Français',iw:'עברית'};
+  const names = {nl:'Nederlands',fr:'Français',en:'English',iw:'עברית'};
   const nav = document.querySelector('.catalog-languages');
   const status = document.createElement('span');
   status.className = 'translation-status'; status.setAttribute('role','status');
