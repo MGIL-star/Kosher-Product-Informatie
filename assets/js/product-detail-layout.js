@@ -68,7 +68,7 @@
       if (title === 'Kan bevatten') return 3;
       if (title === 'Waarschuwing') return 4;
       if (title === 'Hechser') return 98;
-      if (title === 'Barcode / EAN') return 99;
+      if (/^Barcode [\/&] EAN$/.test(title)) return 99;
       return 6;
     };
     const sections = [...root.children].filter(el => el.tagName === 'SECTION');
@@ -97,5 +97,15 @@
     [...root.children].filter(el => el.tagName === 'SECTION')
       .sort((a, b) => rank(a.querySelector('h3')?.textContent || '') - rank(b.querySelector('h3')?.textContent || ''))
       .forEach(el => root.append(el));
+    // Shared label styling for both QR pages and the full catalogue.
+    for (const heading of root.querySelectorAll('section > h3')) {
+      heading.textContent = heading.textContent
+        .replace('Productinformatie / wijnstijl', 'Productinformatie & wijnstijl')
+        .replace('Barcode / EAN', 'Barcode & EAN');
+    }
+    for (const label of root.querySelectorAll('section > p > strong:first-child')) {
+      if (/:\s*$/.test(label.textContent)) label.classList.add('detail-field-label');
+    }
+
   };
 }());

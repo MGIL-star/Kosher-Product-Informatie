@@ -528,7 +528,7 @@ window.KPI_PRODUCTS = [
     "alcohol": "5,5%",
     "category": "Witte wijn",
     "variant": "750 ml · 5,5%",
-    "image": "images/barkan-moscato-2025.png",
+    "image": "images/barkan-moscato-zonder-bubbel.png",
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Zoet, licht mousserend",
@@ -543,11 +543,11 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
     "imageFrame": {
-      "x": 0.11,
-      "y": 0.096,
-      "width": 0.325,
-      "height": 0.886,
-      "aspectRatio": 0.25955204515278274
+      "x": 0.324,
+      "y": 0.014,
+      "width": 0.351,
+      "height": 0.946,
+      "aspectRatio": 0.24736
     },
     "mevushalStatus": "mevushal",
     "labelVerification": {
