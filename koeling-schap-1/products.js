@@ -840,33 +840,6 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 42,
-    "name": "Mamora",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059040958",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-119.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
     "id": 44,
     "name": "Falafel",
     "brand": "Eden Gourmet",
@@ -933,6 +906,33 @@ window.KPI_PRODUCTS = [
     "kosher": "Nog te controleren",
     "image": "./images/eden-1232.png",
     "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Mamora",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040958",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-119.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
     }
