@@ -77,7 +77,10 @@
         info.append(line);
       }
     }
-    // Give every "Let op" notice the same section and order as olive warnings.
+    // Factory allergen notices have their own "Let op" section; other notices
+    // use the same warning section and order as the olive pit warnings.
+    const isFactoryNotice = value => /\b(?:bedrijf|fabriek|omgeving)\b[\s\S]*\b(?:verwerkt|gebruikt)\b/i.test(String(value || ''));
+    const factoryNotices = [...new Set([product.allergenNote, product.mayContain, product.warning, ...Object.values(product.productInfo || {})].filter(value => typeof value === 'string' && isFactoryNotice(value)))];
     let warningSection = [...root.children].find(el => el.tagName === 'SECTION' && el.querySelector('h3')?.textContent === 'Waarschuwing');
     const getWarningSection = () => {
       if (!warningSection) {
@@ -101,11 +104,32 @@
       }
       if (section !== warningSection && section.children.length === 1 && heading) section.remove();
     }
+    if (factoryNotices.length) {
+      // Remove the old occurrences before adding one clearly labelled section.
+      for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
+        for (const paragraph of [...section.children].filter(el => el.tagName === 'P')) {
+          if (factoryNotices.some(text => paragraph.textContent.trim().endsWith(text.trim()))) paragraph.remove();
+        }
+        if (!section.querySelector('p, .allergen-list') && !section.textContent.replace(section.querySelector('h3')?.textContent || '', '').trim()) section.remove();
+      }
+      const notice = document.createElement('section');
+      notice.className = 'factory-allergen-notice';
+      const heading = document.createElement('h3');
+      heading.textContent = 'Let op';
+      notice.append(heading);
+      for (const text of factoryNotices) {
+        const paragraph = document.createElement('p');
+        paragraph.textContent = text;
+        notice.append(paragraph);
+      }
+      root.append(notice);
+    }
     const rank = title => {
       if (/^Productinformatie/.test(title)) return 0;
       if (/^(Ingrediënten|Bekende ingrediënten|Samenstelling)/.test(title)) return 1;
       if (title === 'Allergenen') return 2;
       if (title === 'Kan bevatten') return 3;
+      if (title === 'Let op') return 3.5;
       if (title === 'Waarschuwing') return 4;
       if (title === 'Hechser') return 98;
       if (/^Barcode [\/&] EAN$/.test(title)) return 99;
