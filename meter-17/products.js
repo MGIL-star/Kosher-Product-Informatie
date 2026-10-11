@@ -3457,7 +3457,6 @@ window.KPI_PRODUCTS = [
     "image": "images/clean/menora-12-candles.png",
     "allergens": null,
     "productInfo": {
-      "Beschrijving": "Witte huishoudkaarsen van Menora, gemaakt in Israël.",
       "Brandduur": "3 uur per kaars."
     },
     "imageBounds": [
