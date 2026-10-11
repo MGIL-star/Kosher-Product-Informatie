@@ -377,7 +377,7 @@ window.KPI_PRODUCTS = [
       "SESAM"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Sesamzaad in een meegeleverd zakje. Kan noten, eieren, pinda’s, sesam, selderij en andere glutenbevattende granen bevatten",
+    "allergenNote": "Sesamzaad in een meegeleverd zakje.",
     "kosher": "OU-D (Orthodox Union) en Badatz Edah HaChareidis",
     "ean": "7290000131054",
     "image": "./images/09-cheese-recht.png",
@@ -405,7 +405,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU-D (Orthodox Union)",
       "Badatz Edah HaChareidis"
-    ]
+    ],
+    "mayContain": "Kan noten, eieren, pinda’s, sesam, selderij en andere glutenbevattende granen bevatten."
   },
   {
     "id": 11,
@@ -422,7 +423,7 @@ window.KPI_PRODUCTS = [
       "SESAM"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Sesamzaad in een meegeleverd zakje. Kan noten, eieren, pinda’s, melk, sesam, selderij en andere glutenbevattende granen bevatten",
+    "allergenNote": "Sesamzaad in een meegeleverd zakje.",
     "kosher": "OU (Orthodox Union) en Badatz Edah HaChareidis",
     "ean": "7290000131030",
     "image": "./images/11-potato-recht.png",
@@ -450,7 +451,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Badatz Edah HaChareidis"
-    ]
+    ],
+    "mayContain": "Kan noten, eieren, pinda’s, melk, sesam, selderij en andere glutenbevattende granen bevatten."
   },
   {
     "id": 10,
@@ -467,7 +469,7 @@ window.KPI_PRODUCTS = [
       "SESAM"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Sesamzaad in een meegeleverd zakje. Kan noten, eieren, pinda’s, melk en andere glutenbevattende granen bevatten",
+    "allergenNote": "Sesamzaad in een meegeleverd zakje.",
     "kosher": "OU (Orthodox Union) en Badatz Edah HaChareidis",
     "ean": "7290000131047",
     "image": "./images/10-mushroom-recht.png",
@@ -496,7 +498,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Badatz Edah HaChareidis"
-    ]
+    ],
+    "mayContain": "Kan noten, eieren, pinda’s, melk en andere glutenbevattende granen bevatten."
   },
   {
     "id": 12,
@@ -887,7 +890,7 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Bevat soja. Kan cashewnoten, hazelnoten, pecannoten, walnoten, amandelen, pistachenoten, pinda’s en sporen van melk bevatten",
+    "allergenNote": "Bevat soja.",
     "kosher": "Rabbinaat Acco (Akko), Mehadrin",
     "ean": "7290004554903",
     "image": "./images/20-choc-zonder-ijssymbool.png",
@@ -913,7 +916,8 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 43.jpg en 44.jpg",
     "kosherNote": "",
-    "kosherStatusSource": "Gebruiker bevestigt op 10 september 2026 dat Chocolade en Vanille Parve is"
+    "kosherStatusSource": "Gebruiker bevestigt op 10 september 2026 dat Chocolade en Vanille Parve is",
+    "mayContain": "Kan cashewnoten, hazelnoten, pecannoten, walnoten, amandelen, pistachenoten, pinda’s en sporen van melk bevatten."
   },
   {
     "id": 21,

@@ -111,7 +111,7 @@
     // Factory allergen notices have their own "Let op" section; other notices
     // use the same warning section and order as the olive pit warnings.
     const isFactoryNotice = value => /\b(?:bedrijf|fabriek|omgeving)\b[\s\S]*\b(?:verwerkt|gebruikt)\b/i.test(String(value || ''));
-    const factoryNotices = [...new Set([product.allergenNote, product.mayContain, product.warning, ...Object.values(product.productInfo || {})].filter(value => typeof value === 'string' && isFactoryNotice(value)))];
+    const factoryNotices = [...new Set([product.notice, product.allergenNote, product.mayContain, product.warning, ...Object.values(product.productInfo || {})].filter(value => typeof value === 'string' && value.trim() && (value === product.notice || isFactoryNotice(value) || ([product.allergenNote, product.mayContain].includes(value) && /^kan\b[\s\S]*\bbevatten\b/i.test(value)))))];
     let warningSection = [...root.children].find(el => el.tagName === 'SECTION' && el.querySelector('h3')?.textContent === 'Waarschuwing');
     const getWarningSection = () => {
       if (!warningSection) {

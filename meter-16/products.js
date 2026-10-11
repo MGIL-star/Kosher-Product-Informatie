@@ -373,7 +373,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "TARWE (GLUTEN)"
     ],
-    "mayContain": "Geproduceerd in een fabriek die MELK verwerkt.",
+    "mayContain": "Geproduceerd in een fabriek die melk verwerkt.",
     "warning": "",
     "kosher": "Star-K / Rabbi Schneebalg (Parve)",
     "sources": [],
@@ -424,7 +424,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "TARWE (GLUTEN)"
     ],
-    "mayContain": "Geproduceerd in een fabriek die MELK verwerkt.",
+    "mayContain": "Geproduceerd in een fabriek die melk verwerkt.",
     "warning": "",
     "kosher": "Star-K / Rabbi Schneebalg (Parve)",
     "sources": [],
@@ -786,7 +786,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "TARWE (GLUTEN)"
     ],
-    "mayContain": "Kan sporen bevatten van MELK en SOJA.",
+    "mayContain": "Kan sporen bevatten van melk en soja.",
     "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
@@ -974,7 +974,7 @@ window.KPI_PRODUCTS = [
     ],
     "ingredients": "Water, rode chilipeper, knoflook, azijnzuur, gemodificeerd tapiocazetmeel, natriumbenzoaat, kaliumsorbaat, xanthaangom, witte suiker, zout.",
     "allergens": [],
-    "mayContain": "Geproduceerd in een fabriek die TARWE en SOJA verwerkt.",
+    "mayContain": "Geproduceerd in een fabriek die tarwe en soja verwerkt.",
     "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],

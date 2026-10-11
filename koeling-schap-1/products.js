@@ -12,9 +12,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-rode-shug-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
@@ -34,9 +32,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-groene-shug-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
@@ -56,9 +52,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-hummus-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -75,9 +69,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-tahin-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -94,9 +86,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-auberginepate-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -113,9 +103,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-auberginesalade-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
@@ -143,9 +131,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-gegrilde-auberginedip-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -162,9 +148,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-auberginedip-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -258,9 +242,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-rodekoolsalade-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
@@ -287,9 +269,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-matbucha-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -306,9 +286,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-tonijn-ei-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -325,9 +303,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-tonijn-bosui-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
@@ -347,9 +323,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-zalmspread-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
@@ -378,9 +352,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-haring-closed.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
@@ -417,9 +389,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 45,
@@ -444,9 +414,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 46,
@@ -471,9 +439,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 47,
@@ -498,9 +464,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 48,
@@ -525,9 +489,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 49,
@@ -552,9 +514,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 50,
@@ -579,9 +539,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 51,
@@ -606,9 +564,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 33,
@@ -633,9 +589,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 34,
@@ -653,14 +607,12 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
     "image": "./images/eden-103.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket b730f4a3-ed88-42b7-936e-2e4278eeb97e.jpg; aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Vergeleken met 7de90a18-dd25-423b-82fb-628afb869fdf.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op 7de90a18-dd25-423b-82fb-628afb869fdf.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis."
   },
   {
     "id": 36,
@@ -677,14 +629,12 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Beit Yosef (Parve)",
     "image": "./images/eden-109-250g.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket b1c92502-9425-41d3-b321-2b21c3d59944.jpg; aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Vergeleken met 3f7bf39d-4dab-4fec-80d8-1ba2b699615d.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op 3f7bf39d-4dab-4fec-80d8-1ba2b699615d.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis."
   },
   {
     "id": 37,
@@ -701,14 +651,12 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
     "image": "./images/eden-110.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket 4a6b1361-55a3-4302-b5ac-d837ed2b7d75.jpg; aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Vergeleken met d4e7c448-0f08-4c6f-96c5-665c93455f35.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op d4e7c448-0f08-4c6f-96c5-665c93455f35.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis."
   },
   {
     "id": 38,
@@ -726,14 +674,12 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Beit Yosef (Parve)",
     "image": "./images/eden-111-250g.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket 77e8ae73-0298-4a45-a827-7452a7f0bcc4.jpg; aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Vergeleken met 89f0832e-f561-415e-9e68-6cdba5b2a3a6.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op 89f0832e-f561-415e-9e68-6cdba5b2a3a6.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS.",
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
     "ingredientNote": "De percentages van sojaolie, maïszetmeel en eipoeder staan op het etiket als 0%. De allergenenvermelding op datzelfde etiket noemt soja en ei."
   },
   {
@@ -759,9 +705,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 39,
@@ -778,14 +722,12 @@ window.KPI_PRODUCTS = [
     "kosher": "K (volgens etiket)",
     "image": "./images/eden-113-250g.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking. Na openen binnen 48 uur consumeren."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg; aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Vergeleken met d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg.",
-    "allergenNote": "Kan sporen bevatten van SELDERIJ, GLUTEN en SESAM."
+    "allergenNote": "Kan sporen bevatten van selderij, gluten en sesam."
   },
   {
     "id": 40,
@@ -802,14 +744,12 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
     "image": "./images/eden-114-250g.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket d3507a03-75da-41d3-b717-52eec158c862.jpg; aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Vergeleken met 432decc0-1b8e-475c-84ef-e360428c53dd.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op 432decc0-1b8e-475c-84ef-e360428c53dd.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis."
   },
   {
     "id": 61,
@@ -823,7 +763,7 @@ window.KPI_PRODUCTS = [
     "ingredientsComplete": true,
     "allergens": [],
     "allergensConfirmedAbsent": true,
-    "allergenNote": "Kan sporen bevatten van SESAM, NOTEN en PINDA.",
+    "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
     "kosher": "EK (volgens etiket)",
     "kosherSource": "Ovaal EK-keurmerk op cb7164c9-e290-4ea6-9684-81668a7d7873.jpg; naam van certificerende instantie niet uit het etiket vastgesteld.",
     "image": "./images/eden-kikkererwtensalade-front.png",
@@ -835,9 +775,7 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysiek etiket cb7164c9-e290-4ea6-9684-81668a7d7873.jpg.",
     "barcodeSource": "3760059041078 afgelezen op de fysieke verpakking; EAN-13-controlecijfer geldig.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 42,
@@ -862,9 +800,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 43,
@@ -889,9 +825,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 54,
@@ -915,9 +849,7 @@ window.KPI_PRODUCTS = [
       "scale": 0.6,
       "sourceWidth": 1179
     },
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 41,
@@ -941,9 +873,7 @@ window.KPI_PRODUCTS = [
       "scale": 1.6,
       "sourceWidth": 1179
     },
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Frans etiket op foto b8da64b9-9ab3-4dcc-b8d7-b3a7230282bc.jpg, aangeleverd op 10 oktober 2026: piment 70%, ail 18%, sel."
   },
@@ -960,9 +890,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Nog te controleren",
     "image": "./images/hoffmans-rood.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Vergroot fysiek etiket op 4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg, aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Afgelezen op 4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
@@ -987,9 +915,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Nog te controleren",
     "image": "./images/hoffmans-wit.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Vergroot fysiek etiket op 0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg, aangeleverd op 10 oktober 2026.",
     "barcodeSource": "Afgelezen op 0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
@@ -1023,9 +949,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "image": "./images/surimi-180.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 44,
@@ -1050,9 +974,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 52,
@@ -1077,9 +999,7 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 53,
@@ -1094,9 +1014,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Nog te controleren",
     "image": "./images/eden-1232.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 1,
@@ -1111,10 +1029,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/1-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 1,
     "sourceLabels": [
@@ -1141,10 +1059,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/3-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 3,
     "sourceLabels": [
@@ -1171,10 +1089,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/5-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 5,
     "sourceLabels": [
@@ -1201,10 +1119,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/7-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 7,
     "sourceLabels": [
@@ -1231,10 +1149,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/9-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 9,
     "sourceLabels": [
@@ -1261,10 +1179,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/11-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 11,
     "sourceLabels": [
@@ -1291,10 +1209,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/13-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 13,
     "sourceLabels": [
@@ -1322,10 +1240,10 @@ window.KPI_PRODUCTS = [
       "SULFIETEN",
       "SOJA"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/15-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 15,
     "sourceLabels": [
@@ -1352,10 +1270,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/22-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 22,
     "sourceLabels": [
@@ -1382,10 +1300,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/24-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 24,
     "sourceLabels": [
@@ -1412,10 +1330,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/26-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 26,
     "sourceLabels": [
@@ -1442,10 +1360,10 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 17,
     "sourceLabels": [
@@ -1484,10 +1402,10 @@ window.KPI_PRODUCTS = [
       "SULFIETEN",
       "SOJA"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/28-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 28,
     "sourceLabels": [
@@ -1514,10 +1432,10 @@ window.KPI_PRODUCTS = [
       "SULFIETEN",
       "SOJA"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/30-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 30,
     "sourceLabels": [
@@ -1544,10 +1462,10 @@ window.KPI_PRODUCTS = [
       "SULFIETEN",
       "SOJA"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/32-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 32,
     "sourceLabels": [
@@ -1574,10 +1492,10 @@ window.KPI_PRODUCTS = [
       "SULFIETEN",
       "SOJA"
     ],
-    "allergenNote": "Geproduceerd in een fabriek waar ook SELDERIJ, GLUTEN, MOSTERD, SESAM, SOJA en SULFIETEN worden verwerkt.",
+    "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/34-verpakking.png",
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 34,
     "sourceLabels": [
@@ -1607,7 +1525,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-beef-viennas.png",
     "imageEdited": true,
-    "note": "Gekoeld bewaren beneden 5 °C. Na openen binnen 2 dagen consumeren. Dit product is volledig gegaard.",
+    "note": "Dit product is volledig gegaard.",
     "imageFrame": {
       "x": 0.185,
       "y": 0.123,
@@ -1631,11 +1549,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
     "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "Vacuüm verpakt.",
-      "Gebruiksadvies": "Omhulsel niet eetbaar; verwijderen voor consumptie."
-    },
+    "productInfo": {},
     "id": 64,
     "name": "Kipmortadella",
     "englishName": "Chicken Mortadella",
@@ -1649,7 +1563,7 @@ window.KPI_PRODUCTS = [
       "SOJA",
       "MOSTERD"
     ],
-    "allergenNote": "Kan sporen bevatten van GLUTEN en SELDERIJ.",
+    "allergenNote": "Kan sporen bevatten van gluten en selderij.",
     "image": "./images/gulliver-mortadella-500g.png",
     "ingredientsSource": "Fysieke etiketten 7a5d2c5a-7180-45fb-b355-1620f5add7dc.jpg en 29d0be91-e2df-49f3-847e-82f6cbd94da0.jpg.",
     "imageSource": {
@@ -1662,7 +1576,8 @@ window.KPI_PRODUCTS = [
       "Av Beth Din Amsterdam",
       "Glatt Kosher Lamehadrine",
       "Shechita Lubavitch"
-    ]
+    ],
+    "notice": "Omhulsel niet eetbaar; verwijderen voor consumptie."
   },
   {
     "brand": "Gulliver",
@@ -1671,10 +1586,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
     "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "Vacuüm verpakt."
-    },
+    "productInfo": {},
     "id": 62,
     "name": "Gerookte Cabanossi Kipworstjes",
     "englishName": "Smoked Cabanosi Chicken Sausage",
@@ -1686,7 +1598,7 @@ window.KPI_PRODUCTS = [
       "SOJA",
       "SELDERIJ"
     ],
-    "allergenNote": "Kan sporen bevatten van GLUTEN, MOSTERD en EI.",
+    "allergenNote": "Kan sporen bevatten van gluten, mosterd en ei.",
     "image": "./images/gulliver-cabanossi-190g.png",
     "ingredientsSource": "Fysiek etiket cf041231-5f09-4540-804f-43710adebe38.jpg.",
     "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
@@ -1709,10 +1621,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
     "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "Vacuüm verpakt."
-    },
+    "productInfo": {},
     "id": 63,
     "name": "Gerookte Bavarian Kipworstjes",
     "englishName": "Smoked Bavarian Chicken Sausage",
@@ -1724,7 +1633,7 @@ window.KPI_PRODUCTS = [
       "SOJA",
       "SELDERIJ"
     ],
-    "allergenNote": "Kan sporen bevatten van GLUTEN, MOSTERD en EI.",
+    "allergenNote": "Kan sporen bevatten van gluten, mosterd en ei.",
     "image": "./images/gulliver-bavarian-190g.png",
     "ingredientsSource": "Fysiek etiket de055885-67ea-4eaf-92aa-e425979fe269.jpg.",
     "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
@@ -1753,9 +1662,7 @@ window.KPI_PRODUCTS = [
     "ean": "3252880813011",
     "kosher": "Grand Rabbinat de Strasbourg",
     "image": "./images/mets-droge-runderworst-250g.png",
-    "productInfo": {
-      "Gebruiksadvies": "De huid niet consumeren. Verpakt onder beschermende atmosfeer."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket bc588742-74c2-47c2-9caa-aa957859e066.jpg.",
     "barcodeSource": "Afgelezen op hetzelfde fysieke etiket; EAN-13-controlecijfer geldig.",
@@ -1764,7 +1671,8 @@ window.KPI_PRODUCTS = [
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "159f5de3-597f-41f3-93c5-fb11961c5527.jpg",
       "edit": "Ingebouwde imagegen: nieuwe verpakking rechtgezet op witte achtergrond; door gebruiker gevraagd ter vervanging van de oude verpakking."
-    }
+    },
+    "notice": "De huid niet consumeren. Verpakt onder beschermende atmosfeer."
   },
   {
     "id": 65,
@@ -1785,7 +1693,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "ingredientsSource": "Fysiek etiket 04a1314d-0b4e-497f-8cee-ed46d3eb76f7.jpg.",
     "productInfo": {
-      "Bewaaradvies": "Bewaren tussen 0 °C en +5 °C. Na openen binnen 2 dagen consumeren. Houdbaarheidsdatum: zie verpakking.",
       "Herkomst": "Kalkoen uit het Verenigd Koninkrijk.",
       "Verpakking": "Verpakt onder beschermende atmosfeer.",
       "Bereiding": "Gerookt op beukenhout."

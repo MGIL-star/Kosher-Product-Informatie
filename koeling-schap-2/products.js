@@ -15,10 +15,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-naturel-500.webp?v=4e836f1846ad",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/youghurt/Natural",
       "https://shefaco.be/about/kashrus"
@@ -40,10 +37,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-aardbei-500.webp?v=9abd0539e0d7",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/all/Strawberry",
       "https://shefaco.be/about/kashrus"
@@ -78,10 +72,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-bosvruchten-500.webp?v=2932420c7a3c",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/all/ForestFruit",
       "https://shefaco.be/about/kashrus"
@@ -116,10 +107,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-tropical-500.webp?v=4c0ed9a13021",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/all/Tropical",
       "https://shefaco.be/about/kashrus"
@@ -160,10 +148,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-vanille-500.webp?v=785bf48499e8",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
@@ -187,10 +172,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-chocolade-500.webp?v=88b5b6c19a16",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
@@ -225,10 +207,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-naturel-125-deksel.png",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/youghurt/Natural",
       "https://shefaco.be/about/kashrus"
@@ -250,10 +229,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-aardbei-125-deksel.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/all/Strawberry",
       "https://shefaco.be/about/kashrus"
@@ -290,10 +266,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-bosvruchten-125-deksel.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/all/ForestFruit",
       "https://shefaco.be/about/kashrus"
@@ -331,10 +304,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-tropical-125-deksel.png",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/all/Tropical",
       "https://shefaco.be/about/kashrus"
@@ -360,10 +330,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-vanille-125-deksel.png",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
@@ -388,10 +355,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-chocolade-125-deksel.png",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
@@ -414,7 +378,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Bewaaradvies": "Bewaren op kamertemperatuur. Houdbaarheidsdatum: zie verpakking.",
       "Serveertip": "Voor een mooie presentatie het potje omkeren op een schoteltje en een gaatje in de bodem maken.",
       "Verpakking": "2 potjes van 90 g."
     },
@@ -457,10 +420,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/pudding-chocolade.webp?v=662c7b88ecc9",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen 0 °C en +4 °C volgens het importetiket. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "2 potjes van 100 g."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.sterilgarda.it/en/desserts/dessert/sterilgarda-cocoa-cream-2x100-g/"
     ],
@@ -500,10 +460,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/pudding-vanille.webp?v=9009111907cf",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren op kamertemperatuur. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "2 potjes van 100 g."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.sterilgarda.it/en/desserts/dessert/sterilgarda-vanilla-cream-2x100-g/"
     ],
@@ -544,9 +501,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/petits-nova.webp?v=e4a92a3b4252",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren bij maximaal +6 °C."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.solucious.be/27573"
     ],
@@ -566,14 +521,12 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De leveranciersfiche voor deze EAN vermeldt MELK, SOJA en SULFIETEN. Controleer de actuele kosjere verpakking; de gepubliceerde ingrediëntenlijsten verschillen.",
+    "allergenNote": "De leveranciersfiche voor deze EAN vermeldt melk, soja en sulfieten. Controleer de actuele kosjere verpakking; de gepubliceerde ingrediëntenlijsten verschillen.",
     "kosher": "Rav Betito",
     "image": "./images/creme-chocolade.webp?v=cb838f8fc7ca",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.solucious.be/fr/28396"
     ],
@@ -596,9 +549,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/creme-vanille.webp?v=f697620664f2",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.solucious.be/38517?suggested=1"
     ],
@@ -621,9 +572,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/flan-karamel.webp?v=80d3634dc67b",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren bij maximaal +6 °C."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.solucious.be/27382"
     ],
@@ -646,9 +595,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/liegeois.webp?v=be9e6d32312d",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.auchan.fr/discount-liegeois-au-chocolat/pr-C1186925"
     ],
@@ -670,9 +617,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
-    },
+    "productInfo": {},
     "id": 83,
     "name": "Double Chocolate Mousse",
     "ean": "3343154182350",
@@ -709,9 +654,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
-    },
+    "productInfo": {},
     "id": 84,
     "name": "Cheesecake",
     "ean": "8052870001085",
@@ -747,9 +690,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
-    },
+    "productInfo": {},
     "id": 85,
     "name": "Crème Brûlée Cheesecake",
     "ean": "3343154182336",
@@ -784,10 +725,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-roomkaas-naturel-150g.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/cheese/natural",
       "https://shefaco.be/about/kashrus"
@@ -823,10 +761,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-roomkaas-kruiden-150g.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://shefaco.be/cheese/herbs",
       "https://shefaco.be/about/kashrus"
@@ -862,10 +797,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-roomkaas-olijven-150g.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "Door gebruiker aangeleverd en bevestigd",
       "https://shefaco.be/about/kashrus"
@@ -903,9 +835,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/samson-naturel.webp?v=aaccfc30bfc4",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "6bb609a8-13b5-4a68-9c65-0000f894f377.jpg",
     "ingredientsComplete": true,
@@ -943,9 +873,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/samson-bieslook.webp?v=41210730f74d",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "6bb609a8-13b5-4a68-9c65-0000f894f377.jpg",
     "ingredientsComplete": true,
@@ -981,9 +909,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosher": "Badatz Beit Yosef",
     "image": "./images/euro-kaaspuntjes-200g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +8 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "supplementalLabelSource": {
@@ -1024,9 +950,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-gouda.webp?v=167b8875e788",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar."
-    },
+    "productInfo": {},
     "sources": [],
     "kosherLines": [
       "Machsike Hadas Antwerpen",
@@ -1059,10 +983,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/shefa-geraspte-gouda-400.webp?v=c7e084b60f53",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "Door gebruiker aangeleverde productfoto",
       "https://shefaco.be/about/kashrus"
@@ -1101,10 +1022,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-classic.webp?v=fa76a4684f73",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1141,10 +1059,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-gouda-light.webp?v=51a468a93dd8",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1182,10 +1097,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-edam.webp?v=55ace937b7cc",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1222,10 +1134,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-edam-light.webp?v=5879f7b22f51",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1263,10 +1172,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-muenster.webp?v=1e931263c4cf",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1303,10 +1209,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-bieslook.webp?v=c6b671a1e799",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1343,10 +1246,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-pepper-jack.webp?v=eae9944cda28",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1383,10 +1283,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/amstelvelder-geit.webp?v=826319e8a34a",
     "imageEdited": false,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
       "https://www.amstelvelder.com/copy-of-faq"
@@ -1421,9 +1318,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "image": "./images/amstelvelder-gerookte-gouda-125g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar."
-    },
+    "productInfo": {},
     "allergens": [
       "MELK"
     ],
@@ -1458,8 +1353,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Productlijn": "Shoshana Brand"
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -1499,8 +1393,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Productlijn": "Shoshana Brand"
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -1540,8 +1433,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Productlijn": "Shoshana Brand"
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -1581,8 +1473,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Productlijn": "Shoshana Brand"
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -1622,8 +1513,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
+      "Productlijn": "Shoshana Brand"
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -1661,9 +1551,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "image": "./images/vebo-edam-stuk-200g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C."
-    },
+    "productInfo": {},
     "allergens": [
       "MELK"
     ],
@@ -1696,9 +1584,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "image": "./images/vebo-gouda-stuk-250g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C."
-    },
+    "productInfo": {},
     "allergens": [
       "MELK"
     ],
@@ -1736,9 +1622,7 @@ window.KPI_PRODUCTS = [
     ],
     "image": "./images/vebo-gouda-geraspt-400g.png",
     "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
@@ -1768,9 +1652,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/emmental.webp?v=16863829406e",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -1809,9 +1691,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/emmental-geraspt.webp?v=684f5c838e63",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -1849,11 +1729,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/manchego-150g.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +8 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Gebruiksadvies": "De korst is niet eetbaar.",
-      "Rijping": "Minimaal 6 maanden."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "66413e4a-566d-4b6b-b7a9-861bdb690355.jpg",
     "ingredientsComplete": true,
@@ -1875,7 +1751,8 @@ window.KPI_PRODUCTS = [
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
-    }
+    },
+    "notice": "De korst is niet eetbaar."
   },
   {
     "id": 55,
@@ -1894,9 +1771,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/grana-geraspt.webp?v=c6d1a185b1e3",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
   },
@@ -1917,9 +1792,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/grana-portie.webp?v=5d95eaff38f6",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +4 °C en +8 °C."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg",
     "kosherLines": [
@@ -1953,9 +1826,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/camembert-royal.webp?v=df5901f8c48d",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +8 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -1993,9 +1864,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/royal-cremeux.webp?v=3f9b8dde4b55",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -2034,9 +1903,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/carre-est.webp?v=9613139f8062",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -2059,9 +1926,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/fleur-sources.webp?v=e894c4513f3b",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -2084,9 +1949,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/camembert-saintois.webp?v=6f94d5c97e75",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -2109,9 +1972,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/camembert-grand.webp?v=b9f06e29cd12",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -2133,9 +1994,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/camembert-porties.webp?v=32856d8f840b",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaarvoorschrift controleren op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "219-CAMB.-PORTION-X-8-Grd-Fermage--300x257.png",
     "ingredientsComplete": false,
@@ -2170,9 +2029,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/fromage-ducs.webp?v=0a0f728557e6",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/produit/fromage-camb-des-ducs-220g"
     ],
@@ -2195,9 +2052,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/brie-ducs.webp?v=d3080cf052e1",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "224_Pointe-de-Brie-Brie-des-Ducs-300x209.png"
   },
@@ -2218,9 +2073,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/le-maubert.webp?v=aea4492c818d",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
@@ -2243,9 +2096,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/smeerbare-geit.webp?v=b992e722478e",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg"
   },
@@ -2264,9 +2115,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/soignon-geitenkaas-geklopt.png",
     "quantitySource": "Gewicht niet leesbaar op de aangeleverde foto’s.",
     "barcodeSource": "Geen leesbare barcode aangeleverd voor deze verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "supplementalLabelSource": {
@@ -2304,9 +2153,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/geitenrol.webp?v=3be59c544563",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "62f8da79-0e6a-409f-bf9f-320cd4fbaa87.jpg",
     "ingredientsComplete": true,
@@ -2344,9 +2191,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/mini-geit-naturel-gelijk.png",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "b1aa8ff2-4ccb-4b52-bce7-0e13732b5be7.jpg"
   },
@@ -2367,9 +2212,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/mini-geit-kruiden.webp?v=b35e0dcfb794",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "2acefa03-7d64-4653-8056-719047998a05.jpg"
   },
@@ -2390,9 +2233,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/piramide-naturel.webp?v=9ee1c16fe21d",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "ea539a4f-4732-48e2-8c1e-78cb8e9fd145.jpg"
   },
@@ -2412,9 +2253,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/piramide-kruiden.webp?v=c8378d899dc6",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "ea539a4f-4732-48e2-8c1e-78cb8e9fd145.jpg",
     "ingredientsComplete": true,
@@ -2445,9 +2284,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/gabriel-coulet-saladekaas-200g.png",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg",
     "ingredientsComplete": true,
@@ -2489,9 +2326,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "image": "./images/gabriel-coulet-saladeblokjes-150g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "supplementalLabelSource": {
@@ -2529,9 +2364,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/roquefort.webp?v=fa8423d869ed",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "f47d7def-86bd-461d-9e98-6b80518bd83f.jpg",
     "ingredientsComplete": true,
@@ -2569,9 +2402,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/brebiac.webp?v=2555c15e97d3",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg"
   },
@@ -2594,8 +2425,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hebreeuws etiket vermeldt goedkeuring door het Opperrabbinaat Israël en Chalav Yisrael. De naam in het aanvullende keurmerk is nog niet vastgesteld.",
     "image": "./images/kolios-kaasblokjes-325g.png",
     "productInfo": {
-      "Uitlekgewicht": "150 g.",
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
+      "Uitlekgewicht": "150 g."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -2635,9 +2465,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/mozzarella.webp?v=425cf8172651",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "e89e50ce-e8bf-442c-b900-bdfb3d838ae8.jpg"
   },
@@ -2658,9 +2486,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/mozzarella-mini.webp?v=8f0d1cd03a80",
     "imageEdited": true,
     "detailsPending": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "e89e50ce-e8bf-442c-b900-bdfb3d838ae8.jpg"
   },
@@ -2679,9 +2505,7 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "image": "./images/eden-halloumi-200g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Binnen 5 dagen na openen consumeren."
-    },
+    "productInfo": {},
     "allergens": [
       "MELK"
     ],
@@ -2715,9 +2539,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/boter.webp?v=b7ab78a56bb3",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +8 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "3d0c2188-e8ea-4ead-9a04-00dc84676d30.jpg",
     "ingredientsComplete": true,
@@ -2753,9 +2575,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/arcy-koken.webp?v=671de2798293",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren tussen +5 °C en +18 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "8c619462-15f9-488b-a8cc-242c954a9d5c.jpg",
     "ingredientsComplete": true,
@@ -2792,9 +2612,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/arcy-bakken.webp?v=a923c1d50e82",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren tussen +5 °C en +18 °C. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "sources": [],
     "sourcePhoto": "8c619462-15f9-488b-a8cc-242c954a9d5c.jpg",
     "ingredientsComplete": true,
@@ -2838,9 +2656,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "OU en rond keurmerk: Under the supervision of Rabbi Binyomin Gruber, Monsey, N.Y.; Kosher Parve.",
     "image": "./images/migdal-margarine-454g.png",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren. Houdbaarheidsdatum: zie verpakking."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "supplementalLabelSource": {
@@ -2879,7 +2695,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Bereiding": "Bereid volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2901,7 +2716,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Bereiding": "Bereid volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2923,7 +2737,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Bereiding": "Bereid volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2947,10 +2760,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/brick.webp?v=5d64766397b3",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren tussen 0 °C en +8 °C. Na openen snel gebruiken.",
-      "Gebruiksadvies": "Bereiden in de koekenpan of oven. Niet rauw eten. De scheidingsvellen niet als bakpapier gebruiken."
-    },
+    "productInfo": {},
     "sources": [
       "https://www.solucious.be/17728"
     ],
@@ -2970,6 +2780,7 @@ window.KPI_PRODUCTS = [
         "ef4186d5-cb29-4346-8195-1955e015663f.jpg"
       ],
       "directory": "tmp/melkkost-bron-20261010"
-    }
+    },
+    "notice": "Bereiden in de koekenpan of oven. Niet rauw eten. De scheidingsvellen niet als bakpapier gebruiken."
   }
 ];

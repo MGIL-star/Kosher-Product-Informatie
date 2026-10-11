@@ -934,7 +934,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SOJA"
     ],
-    "allergenNote": "Bevat soja-eiwit en sojalecithine. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
+    "allergenNote": "Bevat soja-eiwit en sojalecithine.  Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
     "ean": "7290004575069",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem) · Rabbinaat van Netanya",
     "image": "./images/20-gekozen-voorbeeld.png",
@@ -970,7 +970,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis (Jeruzalem)",
       "Rabbinaat van Netanya"
-    ]
+    ],
+    "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten."
   },
   {
     "id": 21,
@@ -984,7 +985,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "SOJA"
     ],
-    "allergenNote": "Bevat soja-eiwit en sojalecithine. Bevat aardbei. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
+    "allergenNote": "Bevat soja-eiwit en sojalecithine. Bevat aardbei.  Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
     "ean": "7290004575069",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem) · Rabbinaat van Netanya",
     "image": "./images/21-gekozen-voorbeeld.png",
@@ -1020,7 +1021,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis (Jeruzalem)",
       "Rabbinaat van Netanya"
-    ]
+    ],
+    "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten."
   },
   {
     "id": 22,
@@ -1035,7 +1037,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "VIS"
     ],
-    "allergenNote": "Bevat visgelatine. Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten",
+    "allergenNote": "Bevat visgelatine.",
     "ean": "7290106571037",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
     "image": "./images/22-recht.png",
@@ -1067,6 +1069,7 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
-    "quantitySource": "Fysieke verpakking: 5 stuks van 90 g, totaal 450 g"
+    "quantitySource": "Fysieke verpakking: 5 stuks van 90 g, totaal 450 g",
+    "mayContain": "Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten."
   }
 ];

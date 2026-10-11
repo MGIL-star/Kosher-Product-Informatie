@@ -44,3 +44,5 @@
 - Toon nergens het achteretiketblok, de tekst Ingrediënten op de verpakking of de link Etiket vergroten in catalogus en QR-productpagina’s. Bewaar originele bronfoto’s intern. Lichaamsboter Vanille (meter 17, ID 12) en Gezichtszeep PH 5.5 (ID 13) zijn op gebruikersverzoek verwijderd; hergebruik hun ID’s niet.
 
 - Verwijder op gebruikersverzoek bewaarvermeldingen bij diepvriesproducten, inclusief Ingevroren bewaren (Parve), bewaartemperatuur en niet opnieuw invriezen na ontdooien. Pas dit toe in catalogus en QR-productpagina’s.
+
+- Koelingen en diepvries volgen dezelfde sectie-opmaak en allergenenstijl als DKW. Sporenmeldingen en fabrieksmeldingen staan onder LET OP, met gewone schrijfwijze. Bewaaradvies vervalt ook bij koelingen. Verwijder aparte velden Zuivel: Chalav Yisroel en Verpakking: Vacuüm verpakt / 2 potjes van 100 g; gewicht blijft onder de merknaam.
