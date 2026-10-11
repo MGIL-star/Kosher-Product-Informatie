@@ -339,7 +339,7 @@ window.KPI_PRODUCTS = [
     "id": 15,
     "brand": "Shneider’s",
     "name": "Lange Vingers",
-    "variant": "400 g",
+    "variant": "400 g · 4 × 8",
     "ean": "194961003177",
     "ingredients": "Tarwebloem, suiker, eieren (26%), rijsmiddelen (natriumwaterstofcarbonaat, ammoniumwaterstofcarbonaat), glucosestroop, natuurlijke aroma’s, zout.",
     "allergens": [
@@ -351,9 +351,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/15.png",
     "imageEdited": true,
-    "productInfo": {
-      "Verpakking": "4 × 8 koekjes"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/0e3bf41a-9dbd-4aa0-8600-042d946ffa2f.jpg",
       "source-labels/201307cc-1b6f-4213-9cf1-742d0732a9a2.jpg",
