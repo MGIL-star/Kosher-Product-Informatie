@@ -1624,7 +1624,8 @@ window.KPI_PRODUCTS = [
       "Inhoud": "8 × 100 ml (totaal 800 ml)",
       "Bewaaradvies": "Koel en droog bewaren. Voor consumptie invriezen; bevroren of gekoeld serveren.",
       "Samenstelling": "Bevat geen fruit.",
-      "Pesach": "Geschikt voor Pesach zonder kitniyot volgens het keurmerk."
+      "Pesach": "Geschikt voor Pesach zonder kitniyot volgens het keurmerk.",
+      "Smaken": "Citroen, ananas, framboos en druif."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1640,6 +1641,7 @@ window.KPI_PRODUCTS = [
         "acd1513d-4593-4996-9fa6-f6b28746954e.jpg"
       ]
     },
-    "kosherStatus": "Parve"
+    "kosherStatus": "Parve",
+    "flavoursSource": "Fysieke verpakking: acd1513d-4593-4996-9fa6-f6b28746954e.jpg."
   }
 ];
