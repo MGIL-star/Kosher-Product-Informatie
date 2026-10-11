@@ -1,11 +1,12 @@
-// Match all Tasty tubs to the measured grilled aubergine reference, without changing source images.
+// Match salad tubs to grilled aubergine; the taller shug tubs use the original red shug.
 (() => {
  const bounds = {"tasty-auberginedip-closed.png": [0.0709729, 0.1889952, 0.930622, 0.84689], "tasty-auberginepate-closed.png": [0.0837321, 0.192185, 0.9178628, 0.8444976], "tasty-auberginesalade-closed.png": [0.1363636, 0.2065391, 0.8676236, 0.8269537], "tasty-babaganoush-closed.png": [0.0733652, 0.2711324, 0.9266348, 0.7966507], "tasty-gegrilde-auberginedip-closed.png": [0.0956938, 0.2049442, 0.9059011, 0.8460925], "tasty-groene-shug-closed.png": [0.1483254, 0.1674641, 0.8500797, 0.8700159], "tasty-haring-closed.png": [0.1052632, 0.2057416, 0.8963317, 0.8405104], "tasty-hummus-closed.png": [0.1427432, 0.222488, 0.8572568, 0.7982456], "tasty-matbucha-closed.png": [0.0813397, 0.1834131, 0.9178628, 0.8508772], "tasty-rode-shug-closed.png": [0.1108453, 0.1220096, 0.8875598, 0.8700159], "tasty-rodekoolsalade-closed.png": [0.11563, 0.222488, 0.8835726, 0.8317384], "tasty-tahin-closed.png": [0.099681, 0.2200957, 0.9011164, 0.8221691], "tasty-tonijn-bosui-closed.png": [0.0972887, 0.2025518, 0.9066986, 0.8197767], "tasty-tonijn-ei-closed.png": [0.1124402, 0.2208931, 0.8875598, 0.823764], "tasty-zalmspread-closed.png": [0.122807, 0.2256778, 0.877193, 0.823764], "tasty-zoetzure-aubergine-closed.png": [0.0606061, 0.2488038, 0.9393939, 0.8157895]};
- const reference = bounds['tasty-gegrilde-auberginedip-closed.png'];
  const observed = new WeakSet();
  function fit(frame) {
   const img=frame.querySelector('img'); if(!img || !img.complete || !img.naturalWidth)return;
-  const box=bounds[img.src.split('/').pop().split('?')[0]]; if(!box)return;
+  const filename=img.src.split('/').pop().split('?')[0];
+  const box=bounds[filename]; if(!box)return;
+  const reference=bounds[/^tasty-(rode|groene)-shug-closed\.png$/.test(filename) ? 'tasty-rode-shug-closed.png' : 'tasty-gegrilde-auberginedip-closed.png'];
   const f=getComputedStyle(frame), i=getComputedStyle(img);
   if(!img.dataset.tastyPadding)img.dataset.tastyPadding=JSON.stringify([parseFloat(i.paddingLeft)||0,parseFloat(i.paddingRight)||0,parseFloat(i.paddingTop)||0,parseFloat(i.paddingBottom)||0]);
   const [il,ir,it,ib]=JSON.parse(img.dataset.tastyPadding);
