@@ -1,5 +1,10 @@
 # Productcatalogus: vaste gebruikersafspraken
 
+- Meter 17 volgt van links naar rechts de volgorde van de door de gebruiker gestuurde producten, beginnend bij de wc-blokjes. Gebruik dezelfde productvolgorde in de catalogus en het QR-productoverzicht; wijzig bestaande product-ID's en QR-adressen niet.
+- De QR-productpagina's hebben onderling een uniforme opmaak en staan los van de catalogus. De productgegevens blijven gelijk in beide weergaven.
+- De gebruiker heeft op 11 oktober 2026 expliciet toestemming gegeven om alle voorbereide wijzigingen te publiceren, inclusief de daaropvolgende correctie van de rode reflecties op de patchouli-vanillepot.
+- Behoud voorlopig bestaande producten zonder nieuwe foto. Verwijder die pas wanneer de gebruiker aangeeft dat alle foto's zijn gestuurd.
+
 - Neem productgegevens nauwkeurig over van de juiste fysieke verpakking. Koppel voor- en achterkant op productvariant, gewicht en barcode.
 - Voeg geen zelfbedachte opmerkingen toe over ontbrekende sporenwaarschuwingen of onvolledige ingrediëntenlijsten.
 - Gebruik dezelfde gegevens in de catalogus en op de productpagina’s achter de QR-codes.
@@ -20,3 +25,5 @@
 - Mamora, guacamole, tarama met kabeljauwkuit, harissa en beide Hoffmans-chrijnsoorten staan direct achter elkaar, in die volgorde. Dit blok staat direct na de oosterse kikkererwtensalade; daarna surimi en vervolgens alle falafelvarianten.
 - Zuivelvolgorde verfijnd: alle zes Shefa-potten van 500 g (naturel, aardbei, bosvruchten, tropical, vanillevla, chocoladevla), alle zes van 125 g, alle desserts per merk, Shefa-roomkaas, Samson-roomkaas, overige smeerkazen, plakken/harde/geraspte kaas en kaasstukken per merk, zachte kazen per familie en merk, boter en margarine, pasta en deegproducten onderaan.
 - Shefa-foto's: laat alle 500g-foto's ongewijzigd. Alleen het deksel van elke 125g-variant krijgt dezelfde opdruk als de bijbehorende 500g-pot; behoud de kleine gesloten verpakking, het gewicht 125 g en de effen zijkant zonder koe.
+
+- Productnamen: gebruik vanaf meter 7 t/m 17, alle diepvriesmeters en alle koelingen dezelfde hoofdletterstijl als meter 6 (bijvoorbeeld Paneermeel Goud en Paneermeel met Knoflook en Sesam), in catalogus en QR-productpagina’s. Verbindingswoorden zoals met, en en voor blijven klein.

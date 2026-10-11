@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Spitzer",
-    "name": "Vanillegebak met chocoladestukjes",
+    "name": "Vanillegebak met Chocoladestukjes",
     "variant": "400 g",
     "ean": "7290010473106",
     "ingredients": "Witte tarwebloem (bevat gluten), water, vulling met vanille- en chocoladesmaak [glucosestroop, pure chocoladechips, verdikkingsmiddelen (E460, E1442, E341iii), rijstmeel, stabilisatoren (E170, E466, E475), zuurteregelaars (melkzuur, citroenzuur), aroma’s, kleurstof (E160a(ii))], margarine, geraffineerde sojaolie, gist, bevochtigingsmiddel (glycerol), emulgatoren (sojalecithine, E472e, E481, E471), keukenzout, conserveermiddelen (E282, E202), enzymen, meelverbeteraar (E920).",
@@ -25,7 +25,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 2,
     "brand": "Agadata",
-    "name": "Klassieke briochecake met chocolade",
+    "name": "Klassieke Briochecake met Chocolade",
     "variant": "350 g",
     "ean": "7290119045921",
     "ingredients": "Crème met chocoladesmaak (40%) [suiker, water, plantaardige olie, cacaopoeder, gemodificeerd aardappelzetmeel (E1442), sojameel, voedingsvezels, palmvet, stabilisator (E460), verdikkingsmiddel (E466), conserveermiddel (E202), emulgator (sojalecithine), aroma’s, zout], tarwebloem (bevat gluten), suiker, gepasteuriseerd eipoeder, water, palmolie, margarine [conserveermiddel (sorbinezuur), kleurstof (E160a(ii))], bevochtigingsmiddel (glycerine), gist, invertsuiker, glucose (bevat sulfiet), broodverbetermiddel [maïszetmeel, antiklontermiddelen (E170, E551), emulgator (E481), sojameel, antioxidant (vitamine C), enzymen] (bevat soja), gemodificeerd tarwezetmeel, oblaat [water, emulgatoren (E471, E477, E433), bevochtigingsmiddel (E1520), stabilisator (E570), verdikkingsmiddel (E422), zuurteregelaar (E525), conserveermiddel (E202)], zout, gluten (afkomstig van tarwe), rijsmiddel (E500(ii)), aroma’s, stabilisator (E415), emulgator (gedistilleerde monoglyceriden), alcohol, conserveermiddelen (E200, E282), zuurteregelaar (E300), antioxidant (rozemarijnextract).",
@@ -50,7 +50,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "brand": "Agadata",
-    "name": "Opgerolde chocoladecake",
+    "name": "Opgerolde Chocoladecake",
     "variant": "350 g",
     "ean": "7290119046362",
     "ingredients": "Crème met chocoladesmaak (40%) [suiker, water, plantaardige olie, cacaopoeder, gemodificeerd aardappelzetmeel (E1442), sojameel, voedingsvezels, palmvet, stabilisator (E460), verdikkingsmiddel (E466), conserveermiddel (E202), emulgator (sojalecithine), aroma’s, zout], tarwebloem (bevat gluten), suiker, gepasteuriseerd eipoeder, water, palmolie, margarine [conserveermiddel (sorbinezuur), kleurstof (E160a(ii))], bevochtigingsmiddel (glycerine), gist, invertsuiker, glucose (bevat sulfiet), broodverbetermiddel [maïszetmeel, antiklontermiddelen (E170, E551), emulgator (E481), sojameel, antioxidant (vitamine C), enzymen] (bevat soja), gemodificeerd maïszetmeel, oblaat [water, emulgatoren (E471, E477, E433), bevochtigingsmiddel (E1520), stabilisator (E570), verdikkingsmiddel (E422), zuurteregelaar (E525), conserveermiddel (E202)], zout, gluten (afkomstig van tarwe), rijsmiddel (E500(ii)), aroma’s, stabilisator (E415), emulgator (gedistilleerde monoglyceriden), alcohol, conserveermiddelen (E200, E282), zuurteregelaar (E300), antioxidant (rozemarijnextract).",
@@ -178,7 +178,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "brand": "Rimon",
-    "name": "Vanillewafels met chocolade",
+    "name": "Vanillewafels met Chocolade",
     "variant": "252 g (8 stuks)",
     "ean": "5425024681700",
     "ingredients": "Tarwebloem, margarine (20,9%) [plantaardige oliën en vetten (palm, raapzaad), water, emulgator (E471), voedingszuur (E330)], suiker, gepasteuriseerde scharreleieren, chocolade (12,5%) [cacaomassa, suiker, cacaoboter, emulgator (E322 soja)], natuurlijk vanillearoma, invertsuikerstroop, sojameel, zout, vanilline (0,04%).",
@@ -269,7 +269,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "brand": "Osem",
-    "name": "Wafels met chocoladesmaak",
+    "name": "Wafels met Chocoladesmaak",
     "variant": "200 g",
     "ean": "0029424000274",
     "ingredients": "Suiker, plantaardige oliën (palmolie, sojaolie), tarwebloem (gluten), sojameel, vetarm cacaopoeder (1,7%), emulgator (sojalecithine), rijsmiddelen (E503, E500), aroma’s, zout. De vulling vormt circa 80% van het product.",
@@ -292,7 +292,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 13,
     "brand": "Shneider’s",
-    "name": "Koekrolletjes met chocoladevulling",
+    "name": "Koekrolletjes met Chocoladevulling",
     "variant": "300 g",
     "ean": "838948007108",
     "ingredients": "Tarwebloem (52,9%), suiker, palmvet, glucosestroop, mager cacaopoeder (5,8%), palmpitvet, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten, difosfaten), zout, natuurlijk aroma.",
@@ -315,7 +315,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 14,
     "brand": "Shneider’s",
-    "name": "Assortiment koekjes in blik",
+    "name": "Assortiment Koekjes in Blik",
     "variant": "340 g",
     "ean": "838948010771",
     "ingredients": "Tarwebloem, suiker, plantaardig vet (palmolie), gedroogde kokosnoot, parelsuiker, havervlokken, zout, invertsuiker, rijsmiddel (ammoniumwaterstofcarbonaat), natuurlijk aroma.",
@@ -338,7 +338,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Shneider’s",
-    "name": "Lange vingers",
+    "name": "Lange Vingers",
     "variant": "400 g",
     "ean": "194961003177",
     "ingredients": "Tarwebloem, suiker, eieren (26%), rijsmiddelen (natriumwaterstofcarbonaat, ammoniumwaterstofcarbonaat), glucosestroop, natuurlijke aroma’s, zout.",
@@ -364,7 +364,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 16,
     "brand": "Osem",
-    "name": "Koekjes met chocoladevulling",
+    "name": "Koekjes met Chocoladevulling",
     "variant": "300 g",
     "ean": "077544002777",
     "ingredients": "Tarwebloem, suiker, palmolie, water, maïszetmeel, zonnebloemolie, koolzaadolie, cacaopoeder, maltodextrine, sojalecithine, kunstmatig aroma, maïsstroop, zout, natriumbicarbonaat, gemodificeerd zetmeel, citroenzuur.",
@@ -387,7 +387,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "brand": "Osem",
-    "name": "Koekjes met aardbeienvulling",
+    "name": "Koekjes met Aardbeienvulling",
     "variant": "300 g",
     "ean": "077544002715",
     "ingredients": "Tarwebloem, suiker, aardbeiensap uit concentraat, palmolie, maïszetmeel, zonnebloemolie, koolzaadolie, bamboevezel, sojalecithine, kunstmatig aardbeienaroma, kunstmatige aroma’s, citroenzuur, natriumbicarbonaat, vlierbessenconcentraat, zout.",
@@ -410,7 +410,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "brand": "Loacker",
-    "name": "Grote wafels met hazelnootvulling",
+    "name": "Grote Wafels met Hazelnootvulling",
     "variant": "200 g",
     "ean": "8000380213597",
     "ingredients": "Krokante wafels met hazelnootcrèmevulling (78%). Ingrediënten: tarwebloem, kokosnootolie, glucosestroop, hazelnoten (12%), suiker, cichoreiwortelvezel (inuline), sojameel, tarwezetmeel, mager cacaopoeder, gerstemoutextract, cacaoboter, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zout, emulgator (sojalecithine), pindakaas, specerijen, vanillestokjes Bourbon.",
@@ -435,7 +435,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "brand": "Loacker",
-    "name": "Grote wafels met chocoladevulling",
+    "name": "Grote Wafels met Chocoladevulling",
     "variant": "200 g",
     "ean": "8000380215706",
     "ingredients": "Krokante wafels met chocoladecrèmevulling (78%). Ingrediënten: kokosnootolie, tarwebloem, glucosestroop, suiker, magere cacao, cichoreiwortelvezel (inuline), sojameel, tarwezetmeel, chocolade (suiker, cacaomassa) (4%), rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), emulgator (sojalecithine), zout, cacaoboter, hazelnoten, specerijen, vanillestokjes Bourbon.",
@@ -458,7 +458,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "brand": "Loacker",
-    "name": "Wafelblokjes met hazelnootvulling",
+    "name": "Wafelblokjes met Hazelnootvulling",
     "variant": "125 g",
     "ean": "8000380005918",
     "ingredients": "Krokante wafeltjes met hazelnootcrèmevulling (74%). Ingrediënten: tarwebloem, kokosnootolie, glucosestroop, suiker, hazelnoten (11% in de crèmevulling), weipoeder (melk), magere melkpoeder, sojameel, magere cacao, gerstemoutextract, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zout, emulgator (sojalecithine), specerijen, vanillestokjes Bourbon.",
@@ -484,7 +484,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Loacker",
-    "name": "Wafelblokjes met chocoladevulling",
+    "name": "Wafelblokjes met Chocoladevulling",
     "variant": "125 g",
     "ean": "8000380005963",
     "ingredients": "Krokante wafeltjes met chocoladecrèmevulling (74%). Ingrediënten: tarwebloem, kokosnootolie, glucosestroop, weipoeder (melk), suiker, magere cacao, sojameel, chocolade (suiker, cacaomassa) (5% in de crèmevulling), magere melkpoeder, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), hazelnoten, zout, emulgator (sojalecithine), gerstemoutextract, pindapasta, specerijen, amandelen, vanillestokjes Bourbon.",
@@ -512,7 +512,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Aviva",
-    "name": "Suikervrije koekjes met cappuccinosmaak",
+    "name": "Suikervrije Koekjes met Cappuccinosmaak",
     "variant": "200 g",
     "ean": "096086001529",
     "ingredients": "Tarwebloem (gluten), zoetstof (maltitol), water, geraffineerde koolzaadolie, voedingsvezels (cichorei), zoetstof (isomalt), vulstof (polydextrose), gemodificeerd zetmeel (E1414), rijsmiddelen (ammoniumbicarbonaat, natriumbicarbonaat), emulgator (sojalecithine), aroma’s, cappuccino-extract, voedingszuur (citroenzuur), keukenzout, zoetstof (sucralose).",
@@ -536,7 +536,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 23,
     "brand": "Presteez",
-    "name": "Reep met framboos en amandel",
+    "name": "Reep met Framboos en Amandel",
     "variant": "35 g",
     "ean": "0796554370569",
     "ingredients": "Gedroogde mango, amandelen (21%), gedroogde abrikozen, gedroogde frambozen (8%), gedroogde appels, zonnebloemolie, gedroogde aardbeien, cichoreiwortelvezel, gedroogde rode bieten, maïsvezel, vanille, vitamine C, zout, tapiocazetmeel.",
@@ -558,7 +558,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 24,
     "brand": "Presteez",
-    "name": "Reep met vijg en pistache",
+    "name": "Reep met Vijg en Pistache",
     "variant": "35 g",
     "ean": "0796554370521",
     "ingredients": "Gedroogde abrikozen, pistachenoten (20%), amandelen, gedroogde rode bieten, gedroogde mango, gedroogde vijgen (5%), gedroogde ananas, cichoreiwortelvezel, maïsvezel, zonnebloemolie, zout, vitamine C, tapiocazetmeel.",
@@ -581,7 +581,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "brand": "Presteez",
-    "name": "Eiwitreep met pinda en banaan",
+    "name": "Eiwitreep met Pinda en Banaan",
     "variant": "50 g",
     "ean": "0796554370606",
     "ingredients": "Pinda’s (56%), rozijnen, cichoreiwortelvezel, gedroogde abrikozen, gedroogde bananen (6%), wei-eiwitconcentraat (melk), zout, vitamine C, vanille.",
@@ -604,7 +604,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 26,
     "brand": "Presteez",
-    "name": "Reep met olijven en zaden",
+    "name": "Reep met Olijven en Zaden",
     "variant": "35 g",
     "ean": "0796554370583",
     "ingredients": "Amandelen, rozijnen, gedroogde olijven (15%), gedroogde appels, pompoenpitten (8%), cichoreiwortelvezel, maïsvezel, zonnebloemolie, sesamzaad, nigellazaad, vitamine C, zout, tapiocazetmeel.",
@@ -628,7 +628,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 27,
     "brand": "Presteez",
-    "name": "Eiwitreep met amandel en appel",
+    "name": "Eiwitreep met Amandel en Appel",
     "variant": "50 g",
     "ean": "0796554370507",
     "ingredients": "Amandelen (44%), rozijnen, gedroogde abrikozen, cichoreiwortelvezel, pompoenpitten, wei-eiwitconcentraat (melk), gedroogde appels (4%), vitamine C, kaneel, vanille, zout.",
@@ -655,7 +655,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 28,
     "brand": "Presteez",
-    "name": "Reep met banaan en kokos",
+    "name": "Reep met Banaan en Kokos",
     "variant": "35 g",
     "ean": "0796554370507",
     "ingredients": "Gedroogde bananen (21%), gedroogde abrikozen, gedroogde mango, amandelen, pecannoten, gedroogde kokosnoot (8%), gedroogde bosbessen, cichoreiwortelvezel, maïsvezel, zonnebloemolie, vitamine C, tapiocazetmeel, zout, kaneel, kardemom, gember.",

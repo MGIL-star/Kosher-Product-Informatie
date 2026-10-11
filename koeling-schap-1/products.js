@@ -1,7 +1,7 @@
 window.KPI_PRODUCTS = [
   {
     "id": 20,
-    "name": "Rode shug",
+    "name": "Rode Shug",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "100 g",
@@ -23,7 +23,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 31,
-    "name": "Groene shug",
+    "name": "Groene Shug",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "100 g",
@@ -45,7 +45,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 21,
-    "name": "Klassieke hummus",
+    "name": "Klassieke Hummus",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 27,
-    "name": "Gegrilde auberginedip",
+    "name": "Gegrilde Auberginedip",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -208,7 +208,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 60,
-    "name": "Zoetzure aubergine",
+    "name": "Zoetzure Aubergine",
     "englishName": "Sweet & Sour Aubergine",
     "brand": "Tasty Food",
     "category": "Salades & dips",
@@ -295,7 +295,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
-    "name": "Tonijn eisalade",
+    "name": "Tonijn Eisalade",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -314,7 +314,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 25,
-    "name": "Tonijnsalade met bosui",
+    "name": "Tonijnsalade met Bosui",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "",
@@ -396,7 +396,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 32,
-    "name": "Hummus naturel",
+    "name": "Hummus Naturel",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -423,7 +423,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 45,
-    "name": "Hummus met kikkererwten",
+    "name": "Hummus met Kikkererwten",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -504,7 +504,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 48,
-    "name": "Hummus met za’atar",
+    "name": "Hummus met Za’atar",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "500 g",
@@ -531,7 +531,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 49,
-    "name": "Pittige hummus",
+    "name": "Pittige Hummus",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "400 g",
@@ -558,7 +558,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 50,
-    "name": "Hummus traditioneel",
+    "name": "Hummus Traditioneel",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "400 g",
@@ -585,7 +585,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 51,
-    "name": "Hummus met pijnboompitten",
+    "name": "Hummus met Pijnboompitten",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "400 g",
@@ -639,7 +639,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 34,
-    "name": "Aubergine met mayonaise",
+    "name": "Aubergine met Mayonaise",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -664,7 +664,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 36,
-    "name": "Gestoofde aubergine",
+    "name": "Gestoofde Aubergine",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "250 g",
@@ -688,7 +688,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 37,
-    "name": "Pittige aubergineplakjes",
+    "name": "Pittige Aubergineplakjes",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "250 g",
@@ -738,7 +738,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 35,
-    "name": "Rodekool met mayonaise",
+    "name": "Rodekool met Mayonaise",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -789,7 +789,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 40,
-    "name": "Marokkaanse wortelsalade",
+    "name": "Marokkaanse Wortelsalade",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "250 g",
@@ -813,7 +813,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 61,
-    "name": "Oosterse kikkererwtensalade",
+    "name": "Oosterse Kikkererwtensalade",
     "englishName": "Pois Chiches à l’Orientale",
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
@@ -895,7 +895,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 54,
-    "name": "Tarama met kabeljauwkuit",
+    "name": "Tarama met Kabeljauwkuit",
     "brand": "KYAM",
     "category": "Vis",
     "variant": "165 g",
@@ -949,7 +949,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 55,
-    "name": "Rode chrijn",
+    "name": "Rode Chrijn",
     "brand": "Hoffmans",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -976,7 +976,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 56,
-    "name": "Witte chrijn",
+    "name": "Witte Chrijn",
     "brand": "Hoffmans",
     "category": "Salades & dips",
     "variant": "200 g",
@@ -1056,7 +1056,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 52,
-    "name": "Pittige falafel",
+    "name": "Pittige Falafel",
     "brand": "Eden Gourmet",
     "category": "Falafel",
     "variant": "200 g",
@@ -1083,7 +1083,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 53,
-    "name": "Falafel met tomaat",
+    "name": "Falafel met Tomaat",
     "brand": "Eden Gourmet",
     "category": "Falafel",
     "variant": "200 g",
@@ -1130,7 +1130,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
-    "name": "Gezouten rundvlees",
+    "name": "Gezouten Rundvlees",
     "englishName": "Salt Beef",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1160,7 +1160,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
-    "name": "Prime gezouten rundvlees",
+    "name": "Prime Gezouten Rundvlees",
     "englishName": "Prime Salt Beef",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1190,7 +1190,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
-    "name": "Gezouten rundvlees en kalkoen",
+    "name": "Gezouten Rundvlees en Kalkoen",
     "englishName": "Salt Beef & Turkey",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1220,7 +1220,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
-    "name": "Gerookte kalkoen",
+    "name": "Gerookte Kalkoen",
     "englishName": "Smoked Turkey",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1250,7 +1250,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
-    "name": "Prime kalkoen",
+    "name": "Prime Kalkoen",
     "englishName": "Prime Turkey",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1280,7 +1280,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 7,
-    "name": "Kalkoen Mexicaanse stijl",
+    "name": "Kalkoen Mexicaanse Stijl",
     "englishName": "Mexican Style Turkey",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1401,7 +1401,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 12,
-    "name": "Deli salami",
+    "name": "Deli Salami",
     "englishName": "Deli Salami",
     "brand": "Prime Cut",
     "category": "Vleeswaren",
@@ -1431,7 +1431,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 9,
-    "name": "Rundersalami heel",
+    "name": "Rundersalami Heel",
     "englishName": "Beef Salami",
     "brand": "Prime Cut",
     "category": "Hele worst",
@@ -1473,7 +1473,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
-    "name": "Kip hotdogs",
+    "name": "Kip Hotdogs",
     "englishName": "Chicken Hot Dog",
     "brand": "Prime Cut",
     "category": "Worstjes",
@@ -1503,7 +1503,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
-    "name": "Rund en kalkoen hotdogs",
+    "name": "Rund en Kalkoen Hotdogs",
     "englishName": "Beef & Turkey Hot Dog",
     "brand": "Prime Cut",
     "category": "Worstjes",
@@ -1533,7 +1533,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
-    "name": "Runder cocktailworstjes",
+    "name": "Runder Cocktailworstjes",
     "englishName": "Beef Cocktails",
     "brand": "Prime Cut",
     "category": "Worstjes",
@@ -1593,7 +1593,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
-    "name": "Weense runderworstjes",
+    "name": "Weense Runderworstjes",
     "englishName": "Beef Viennas",
     "brand": "Prime Cut",
     "category": "Worstjes",
@@ -1676,7 +1676,7 @@ window.KPI_PRODUCTS = [
       "Verpakking": "Vacuüm verpakt."
     },
     "id": 62,
-    "name": "Gerookte Cabanossi kipworstjes",
+    "name": "Gerookte Cabanossi Kipworstjes",
     "englishName": "Smoked Cabanosi Chicken Sausage",
     "category": "Worstjes",
     "variant": "190 g",
@@ -1714,7 +1714,7 @@ window.KPI_PRODUCTS = [
       "Verpakking": "Vacuüm verpakt."
     },
     "id": 63,
-    "name": "Gerookte Bavarian kipworstjes",
+    "name": "Gerookte Bavarian Kipworstjes",
     "englishName": "Smoked Bavarian Chicken Sausage",
     "category": "Worstjes",
     "variant": "190 g",
@@ -1746,7 +1746,7 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": true,
     "imageEdited": true,
     "id": 57,
-    "name": "Droge worst",
+    "name": "Droge Worst",
     "brand": "Mets et Traditions",
     "category": "Hele worst",
     "variant": "250 g",
@@ -1768,7 +1768,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 65,
-    "name": "Gerookte kalkoenfilet, flinterdun",
+    "name": "Gerookte Kalkoenfilet, Flinterdun",
     "englishName": "Chiffonnade de poitrine de dinde",
     "brand": "Eden Gourmet",
     "category": "Vleeswaren",

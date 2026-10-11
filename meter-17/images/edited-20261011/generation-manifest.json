@@ -1,0 +1,154 @@
+[
+  {
+    "key": "day-cream-white",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-323d4803-9f2b-4bae-b039-15e3c44ab213.png",
+    "prompt": "Change ONLY the ivory/cream-colored cardboard to neutral clean white like a white night-cream box. Keep every English and Hebrew word, SHEMEN Amour logo, monogram, landscape, black label, border, packaging shape and all typography exactly unchanged. Pure white background. The product remains Enriched Moisturizing Day Cream.",
+    "productId": 9,
+    "workspacePath": "meter-17\\images\\edited-20261011\\day-cream-white.png"
+  },
+  {
+    "key": "night-cream-corrected",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-0127a6d0-ea7b-473f-9c93-5ce6fa3e7b39.png",
+    "prompt": "Correct the incorrect invented brand in this image to the actual reference brand from the second supplied source photo: SHEMEN Amour with its actual circular A monogram, NOT Catherine Arnaudin. Preserve exact original brand as in second image. Keep the rest of the first image: pure white closed box on white background, Enriched Night Cream, Hebrew text, landscape, SPA NATURAL and Dead Sea Treatment. No other changes.",
+    "productId": 8,
+    "workspacePath": "meter-17\\images\\edited-20261011\\night-cream-corrected.png"
+  },
+  {
+    "key": "hb-multi-aloe",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-f517dd72-6790-4b80-90af-f865d9311d16.png",
+    "prompt": "Edit this actual product photograph for a catalogue. Keep the actual closed product exactly as photographed; isolate it upright on pure white, front label readable, entire packaging visible with modest margin and minimal natural shadow. Remove hands and background. Do not redesign, rename, rebrand, add extra product or packaging, invent text or icons. Preserve original shape, color, label, graphics and every actual English and Hebrew word. Keep the photographed closure (no pump unless present). Remove only visible expiry/production dates or batch codes. Only background, orientation and lighting cleanup.",
+    "productId": 81,
+    "workspacePath": "meter-17\\images\\edited-20261011\\hb-multi-aloe.png"
+  },
+  {
+    "key": "argan-shampoo",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-37deb597-fdf1-4406-8be6-1fd2dc1cfcbd.png",
+    "prompt": "Edit this actual product photograph for a catalogue. Keep the actual closed product exactly as photographed; isolate it upright on pure white, front label readable, entire packaging visible with modest margin and minimal natural shadow. Remove hands and background. Do not redesign, rename, rebrand, add extra product or packaging, invent text or icons. Preserve original shape, color, label, graphics and every actual English and Hebrew word. Keep the photographed closure (no pump unless present). Remove only visible expiry/production dates or batch codes. Only background, orientation and lighting cleanup.",
+    "productId": 82,
+    "workspacePath": "meter-17\\images\\edited-20261011\\argan-shampoo.png"
+  },
+  {
+    "key": "olive-honey-lotion",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-65719744-1878-42d8-a358-7637912d76c7.png",
+    "prompt": "Edit this actual product photograph for a catalogue. Keep the actual closed product exactly as photographed; isolate it upright on pure white, front label readable, entire packaging visible with modest margin and minimal natural shadow. Remove hands and background. Do not redesign, rename, rebrand, add extra product or packaging, invent text or icons. Preserve original shape, color, label, graphics and every actual English and Hebrew word. Keep the photographed closure (no pump unless present). Remove only visible expiry/production dates or batch codes. Only background, orientation and lighting cleanup.",
+    "productId": 15,
+    "workspacePath": "meter-17\\images\\edited-20261011\\olive-honey-lotion.png"
+  },
+  {
+    "key": "hb-soap",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-c9d9768b-63d5-498b-819e-8e9e35c8ba3e.png",
+    "prompt": "Edit this actual product photograph for a catalogue. Keep the actual closed product exactly as photographed; isolate it upright on pure white, front label readable, entire packaging visible with modest margin and minimal natural shadow. Remove hands and background. Do not redesign, rename, rebrand, add extra product or packaging, invent text or icons. Preserve original shape, color, label, graphics and every actual English and Hebrew word. Keep the photographed closure (no pump unless present). Remove only visible expiry/production dates or batch codes. Only background, orientation and lighting cleanup.",
+    "productId": 19,
+    "workspacePath": "meter-17\\images\\edited-20261011\\hb-soap.png"
+  },
+  {
+    "key": "pro-collagen-box",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-c15f1a68-936b-414c-ae72-4fbfa782cadb.png",
+    "prompt": "Background extraction and orientation correction ONLY of the exact real closed package in this photo for a product catalogue. Pure white background, remove hands and surroundings, upright readable text, entire package visible. Preserve source label lettering, graphics and proportions precisely, do not redesign or invent any lettering/icons or extra object. For a box show ONLY this closed box, NEVER add a cream jar. For a jar preserve the actual jar and its exact front label. Remove printed dates/batch codes only, leave all other printed text unchanged. Modest white margin, soft minimal shadow.",
+    "productId": 38,
+    "workspacePath": "meter-17\\images\\edited-20261011\\pro-collagen-box.png"
+  },
+  {
+    "key": "c-power-day-box",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-dcd94f3e-77fb-4bb6-bc2b-e21ed6a3226a.png",
+    "prompt": "Background extraction and orientation correction ONLY of the exact real closed package in this photo for a product catalogue. Pure white background, remove hands and surroundings, upright readable text, entire package visible. Preserve source label lettering, graphics and proportions precisely, do not redesign or invent any lettering/icons or extra object. For a box show ONLY this closed box, NEVER add a cream jar. For a jar preserve the actual jar and its exact front label. Remove printed dates/batch codes only, leave all other printed text unchanged. Modest white margin, soft minimal shadow.",
+    "productId": 39,
+    "workspacePath": "meter-17\\images\\edited-20261011\\c-power-day-box.png"
+  },
+  {
+    "key": "c-power-night-box",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-a34a38c9-b3c2-49d7-bdfb-64c9d8e98aef.png",
+    "prompt": "Background extraction and orientation correction ONLY of the exact real closed package in this photo for a product catalogue. Pure white background, remove hands and surroundings, upright readable text, entire package visible. Preserve source label lettering, graphics and proportions precisely, do not redesign or invent any lettering/icons or extra object. For a box show ONLY this closed box, NEVER add a cream jar. For a jar preserve the actual jar and its exact front label. Remove printed dates/batch codes only, leave all other printed text unchanged. Modest white margin, soft minimal shadow.",
+    "productId": 41,
+    "workspacePath": "meter-17\\images\\edited-20261011\\c-power-night-box.png"
+  },
+  {
+    "key": "hb-bodybutter",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-4e6b09ec-20dc-4b8a-a8d6-fda856bb3f77.png",
+    "prompt": "Background extraction and orientation correction ONLY of the exact real closed package in this photo for a product catalogue. Pure white background, remove hands and surroundings, upright readable text, entire package visible. Preserve source label lettering, graphics and proportions precisely, do not redesign or invent any lettering/icons or extra object. For a box show ONLY this closed box, NEVER add a cream jar. For a jar preserve the actual jar and its exact front label. Remove printed dates/batch codes only, leave all other printed text unchanged. Modest white margin, soft minimal shadow.",
+    "productId": 20,
+    "workspacePath": "meter-17\\images\\edited-20261011\\hb-bodybutter.png"
+  },
+  {
+    "key": "facial-peeling",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-6eb07994-687a-4045-b453-a3dc962aad6b.png",
+    "prompt": "Precise product photo background cleanup of the supplied actual Shemen Amour product. Isolate the entire real CLOSED package upright, with front label facing viewer, on pure white with minimal natural shadow. Remove hand and surroundings. Preserve exact real package shape, silver chrome lid, contents color, all artwork and ALL original Hebrew and English lettering, product name and label layout. No invented variant, no extra packaging, do not change text. Remove only production/expiry dates and batch codes if visible. Modest white margin.",
+    "productId": 79,
+    "workspacePath": "meter-17\\images\\edited-20261011\\facial-peeling.png"
+  },
+  {
+    "key": "salt-scrub-patchouli",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-262c1df0-c891-411d-92be-5262a29bb6de.png",
+    "prompt": "Precise product photo background cleanup of the supplied actual Shemen Amour product. Isolate the entire real CLOSED package upright, with front label facing viewer, on pure white with minimal natural shadow. Remove hand and surroundings. Preserve exact real package shape, silver chrome lid, contents color, all artwork and ALL original Hebrew and English lettering, product name and label layout. No invented variant, no extra packaging, do not change text. Remove only production/expiry dates and batch codes if visible. Modest white margin.",
+    "productId": 80,
+    "workspacePath": "meter-17\\images\\edited-20261011\\salt-scrub-patchouli.png"
+  },
+  {
+    "key": "men-cream-corrected",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-86f9ff1e-ac94-4105-87f4-cc43b7316365.png",
+    "prompt": "Edit image 2 product photo using image 1 ORIGINAL as exact label reference. The brand script is wrong in image 2: replace it with exact original SHEMEN Amour (A-m-o-u-r), and exact original circular monogram. Correct Hebrew to קרם לחות מועשר לגבר. Keep all other original packaging label layout, silver frame, SPA, Dead Sea Treatment and Moisturizing Cream for Men. Closed black rectangular box only, upright white background. Do not invent branding.",
+    "productId": 73,
+    "workspacePath": "meter-17\\images\\edited-20261011\\men-cream-corrected.png"
+  },
+  {
+    "key": "pro-retinol-corrected",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-db089f6e-e159-442d-86c6-0e63f578efb3.png",
+    "prompt": "Edit image 1 only the misrendered Hebrew text in white strip to EXACTLY קרם לילה מתקן מועשר בניאצינמיד matching original image2. Keep all other text and real closed yellow Careline Pro Retinol 2% carton unchanged. Pure white background.",
+    "productId": 40,
+    "workspacePath": "meter-17\\images\\edited-20261011\\pro-retinol-corrected.png"
+  },
+  {
+    "key": "bodybutter-aloe-final",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-121d6652-f53e-46ab-a3f6-ee90a9244d3e.png",
+    "prompt": "Remove only the two invented icons and labels on the left side (PARABEN FREE and SLS FREE), replacing that small area with plain matching white label. Keep all other label graphics and text, entire closed silver lid jar and white background unchanged.",
+    "productId": 10,
+    "workspacePath": "meter-17\\images\\edited-20261011\\bodybutter-aloe-final.png"
+  },
+  {
+    "key": "bodybutter-patchouli-final",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-4e4f8414-cfdd-4baa-a703-246a76cb6fd6.png",
+    "prompt": "Remove only the three invented icons and accompanying claims on left side (NOT TESTED ON ANIMALS, PARABEN FREE, MINERAL OIL FREE), replacing that area with matching plain white label. Keep all other original label text and graphics, closed silver lid jar, and white background unchanged.",
+    "productId": 11,
+    "workspacePath": "meter-17\\images\\edited-20261011\\bodybutter-patchouli-final.png"
+  },
+  {
+    "key": "men-shampoo-final",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-e4c962c1-3811-44a1-b405-62ae5f70f4bb.png",
+    "prompt": "Correct only the Hebrew two lines to exactly שמפו then לגבר (singular), and the small text under SPA to NATURAL. Preserve all other English text, logo, photograph, black closed bottle shape and white background unchanged.",
+    "productId": 31,
+    "workspacePath": "meter-17\\images\\edited-20261011\\men-shampoo-final.png"
+  },
+  {
+    "key": "olive-honey-shower-final",
+    "tool": "image_gen (built-in)",
+    "path": "C:\\Users\\ellag\\.codex\\generated_images\\01a0d4e9-3702-7e70-8326-42017f1675f4\\exec-a5bb410d-5ac2-45ab-8d52-d003fc951ed8.png",
+    "prompt": "Correct only the first Hebrew line to exactly ג׳ל רחצה instead of תחליב רחצה. Preserve second Hebrew line שמן זית ודבש and all other label text graphics bottle cap shape and white background unchanged.",
+    "productId": 30,
+    "workspacePath": "meter-17\\images\\edited-20261011\\olive-honey-shower-final.png"
+  },
+  {
+    "key": "brilliant-sponge",
+    "tool": "image_gen (built-in)",
+    "productId": 7,
+    "workspacePath": "meter-17/images/edited-20261011/brilliant-sponge.png",
+    "path": "C:/Users/ellag/.codex/generated_images/01a0d4e9-3702-7e70-8326-42017f1675f4/exec-b639cde0-2a7a-4845-b9cb-a95718103014.png",
+    "prompt": "Precise product photo cleanup. Isolate the actual sealed Brilliant six-piece wonder sponge box from this photograph on pure white. Remove hands, shopping trolley, surroundings. Straighten box to upright readable front catalogue view, preserve exactly the real black blue green packaging graphics and all Hebrew and English lettering, Brilliant logo, 6 units, 6.6x11 cm and certification mark. Do not redesign or replace branding. Soft natural minimal shadow. Entire closed box visible. Remove only dates/lot codes if any."
+  }
+]

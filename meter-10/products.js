@@ -1,7 +1,7 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
-    "name": "Biscuitjes met chocolade",
+    "name": "Biscuitjes met Chocolade",
     "brand": "Osem",
     "category": "Koekjes",
     "variant": "500 g (2 × 250 g)",
@@ -45,7 +45,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
-    "name": "Naturel biscuitjes",
+    "name": "Naturel Biscuitjes",
     "brand": "Osem",
     "category": "Koekjes",
     "variant": "250 g",
@@ -92,7 +92,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 33,
-    "name": "Tirosh half omhulde biscuitjes",
+    "name": "Tirosh Half Omhulde Biscuitjes",
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "175 g",
@@ -190,7 +190,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
-    "name": "Biscuitjes met vanille",
+    "name": "Biscuitjes met Vanille",
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "120 g",
@@ -235,7 +235,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
-    "name": "Biscuitjes met chocolade",
+    "name": "Biscuitjes met Chocolade",
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "110 g",
@@ -280,7 +280,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
-    "name": "Theekoekjes met chocoladesmaak",
+    "name": "Theekoekjes met Chocoladesmaak",
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "175 g",
@@ -326,7 +326,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 7,
-    "name": "Traditionele theekoekjes",
+    "name": "Traditionele Theekoekjes",
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "175 g",
@@ -372,7 +372,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 8,
-    "name": "Theekoekjes met vanillesmaak",
+    "name": "Theekoekjes met Vanillesmaak",
     "brand": "Hadar",
     "category": "Koekjes",
     "variant": "175 g",
@@ -418,7 +418,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 9,
-    "name": "Knapperige koekjes met suiker",
+    "name": "Knapperige Koekjes met Suiker",
     "brand": "Gross & Co",
     "category": "Koekjes",
     "variant": "250 g",
@@ -504,7 +504,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 11,
-    "name": "Vanillespritsen met pure chocolade",
+    "name": "Vanillespritsen met Pure Chocolade",
     "brand": "Gross & Co",
     "category": "Koekjes",
     "variant": "300 g",
@@ -547,7 +547,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 12,
-    "name": "Chocoladespritsen met pure chocolade",
+    "name": "Chocoladespritsen met Pure Chocolade",
     "brand": "Gross & Co",
     "category": "Koekjes",
     "variant": "300 g",
@@ -590,7 +590,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
-    "name": "Ringkoekjes met chocolade",
+    "name": "Ringkoekjes met Chocolade",
     "brand": "Gross & Co",
     "category": "Koekjes",
     "variant": "300 g",
@@ -633,7 +633,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
-    "name": "Chocoladekoekjes met chocoladestukjes",
+    "name": "Chocoladekoekjes met Chocoladestukjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "200 g",
@@ -682,7 +682,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
-    "name": "Koekjes met chocoladestukjes",
+    "name": "Koekjes met Chocoladestukjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "200 g",
@@ -731,7 +731,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
-    "name": "Koekjes met hazelnoten en chocoladestukjes",
+    "name": "Koekjes met Hazelnoten en Chocoladestukjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "200 g",
@@ -782,7 +782,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 34,
-    "name": "Koekjes met 25% chocolade",
+    "name": "Koekjes met 25% Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "150 g",
@@ -831,7 +831,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
-    "name": "Franse vanillekoekjes",
+    "name": "Franse Vanillekoekjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "200 g",
@@ -881,7 +881,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
-    "name": "Bladerdeegkoekjes met framboos en chocolade",
+    "name": "Bladerdeegkoekjes met Framboos en Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "100 g",
@@ -930,7 +930,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 19,
-    "name": "Bladerdeegvlinders naturel",
+    "name": "Bladerdeegvlinders Naturel",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "100 g",
@@ -979,7 +979,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 20,
-    "name": "Langwerpige bladerdeegkoekjes naturel",
+    "name": "Langwerpige Bladerdeegkoekjes Naturel",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "100 g",
@@ -1028,7 +1028,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 21,
-    "name": "Biscuitjes met pure chocolade",
+    "name": "Biscuitjes met Pure Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "150 g",
@@ -1077,7 +1077,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 22,
-    "name": "Biscuitjes met melkchocolade",
+    "name": "Biscuitjes met Melkchocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "150 g",
@@ -1126,7 +1126,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 23,
-    "name": "Viergranen ontbijtkoekjes met pure chocolade",
+    "name": "Viergranen Ontbijtkoekjes met Pure Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "205 g",
@@ -1180,8 +1180,8 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 24,
-    "name": "Viergranen ontbijtkoekjes met hazelnoten en chocolade",
-    "shortName": "Viergranenkoekjes hazelnoot & chocolade",
+    "name": "Viergranen Ontbijtkoekjes met Hazelnoten en Chocolade",
+    "shortName": "Viergranenkoekjes Hazelnoot & Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
     "variant": "205 g",
@@ -1235,7 +1235,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 25,
-    "name": "Koffiekoekjes met chocolade en vanille",
+    "name": "Koffiekoekjes met Chocolade en Vanille",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
@@ -1279,7 +1279,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 26,
-    "name": "Gezichtjeskoekjes met chocoladesmaaklaag",
+    "name": "Gezichtjeskoekjes met Chocoladesmaaklaag",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
@@ -1324,7 +1324,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 27,
-    "name": "Koekjes met chocoladesmaakvulling",
+    "name": "Koekjes met Chocoladesmaakvulling",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
@@ -1369,7 +1369,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 28,
-    "name": "Mini spiraalkoekjes",
+    "name": "Mini Spiraalkoekjes",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
@@ -1413,7 +1413,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 29,
-    "name": "Ringkoekjes met chocoladesmaaklaag",
+    "name": "Ringkoekjes met Chocoladesmaaklaag",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
@@ -1458,7 +1458,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 30,
-    "name": "Koekjes met chocoladestukjes",
+    "name": "Koekjes met Chocoladestukjes",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
@@ -1503,7 +1503,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 31,
-    "name": "Mini cacaokoekjes met chocoladestukjes",
+    "name": "Mini Cacaokoekjes met Chocoladestukjes",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
@@ -1548,7 +1548,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 32,
-    "name": "Koekjes met pretzelcrèmevulling",
+    "name": "Koekjes met Pretzelcrèmevulling",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",

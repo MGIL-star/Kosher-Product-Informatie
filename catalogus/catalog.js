@@ -69,7 +69,9 @@
       +'<div class="catalog-purchase"><button class="primary" data-add="'+esc(p.key)+'">Toevoegen aan mandje <span>+</span></button></div>'
       +(info?'<section><h3>'+(p.isWine?'Productinformatie / wijnstijl':'Productinformatie')+'</h3>'+info+'</section>':'')
       +(p.ingredients?'<section><h3>'+(p.ingredientsPartial?'Bekende ingrediënten':'Ingrediënten')+'</h3><p>'+window.KPI_emphasizeAllergens(p.ingredients)+'</p>'+(p.ingredientNote||p.ingredientsNote?'<p>'+esc(p.ingredientNote||p.ingredientsNote)+'</p>':'')+'</section>':'')
-      +'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>'
+      +(p.catalogType==='nonfood'&&p.composition?'<section class="product-composition"><h3>'+esc(p.composition.heading||'Ingrediënten (INCI)')+'</h3>'+(p.composition.text?'<p>'+esc(p.composition.text)+'</p>':'')+(p.composition.note?'<p class="composition-note">'+esc(p.composition.note)+'</p>':'')+'</section>':'')
+      +(p.catalogType==='nonfood'&&p.backLabel?'<section class="back-label"><h3>Achterkant van de verpakking</h3><p>'+esc(p.backLabel.note)+'</p><a href="'+esc(new URL(p.backLabel.image,new URL(p.meter+'/',root)).href)+'" target="_blank" rel="noopener noreferrer">Etiket vergroten ↗</a></section>':'')
+      +(p.catalogType!=='nonfood'?'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>':'')
       +section('Kan bevatten',p.mayContain)+section('Waarschuwing',p.warning)
       +(kosher?'<section class="hechsher"><h3>Hechser</h3><p class="notranslate" translate="no">'+esc(kosher)+'</p></section>':'')
       +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p></section></div>';

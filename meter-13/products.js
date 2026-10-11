@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Osem",
-    "name": "Dunne pretzels met zeezout",
+    "name": "Dunne Pretzels met Zeezout",
     "category": "Zoute snacks",
     "variant": "350 g",
     "ean": "077544000742",
@@ -50,7 +50,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "brand": "Osem",
-    "name": "Dunne pretzels met sesam",
+    "name": "Dunne Pretzels met Sesam",
     "category": "Zoute snacks",
     "variant": "350 g",
     "ean": "077544000728",
@@ -95,7 +95,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "brand": "Osem",
-    "name": "Pretzelringen met sesam",
+    "name": "Pretzelringen met Sesam",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "077544162327",
@@ -146,7 +146,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 9,
     "brand": "Osem",
-    "name": "Gezouten pretzels",
+    "name": "Gezouten Pretzels",
     "category": "Zoute snacks",
     "variant": "400 g",
     "ean": "077544162044",
@@ -194,7 +194,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "brand": "Osem",
-    "name": "Gezouten pretzelstokjes",
+    "name": "Gezouten Pretzelstokjes",
     "category": "Zoute snacks",
     "variant": "400 g",
     "ean": "077544162549",
@@ -244,7 +244,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Beigel & Beigel",
-    "name": "XL-pretzels met zout",
+    "name": "XL-pretzels met Zout",
     "category": "Zoute snacks",
     "variant": "400 g",
     "ean": "7290000461700",
@@ -288,7 +288,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "brand": "Beigel & Beigel",
-    "name": "XL-pretzels met sesam",
+    "name": "XL-pretzels met Sesam",
     "category": "Zoute snacks",
     "variant": "400 g",
     "ean": "7290000461724",
@@ -336,7 +336,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "brand": "Beigel & Beigel",
-    "name": "Gezouten pretzels",
+    "name": "Gezouten Pretzels",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "084685000517",
@@ -392,7 +392,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 24,
     "brand": "Gratify",
-    "name": "Glutenvrije dunne pretzels Everything",
+    "name": "Glutenvrije Dunne Pretzels Everything",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "819021011205",
@@ -439,7 +439,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 27,
     "brand": "Gratify",
-    "name": "Glutenvrije dunne pretzels met sesam",
+    "name": "Glutenvrije Dunne Pretzels met Sesam",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "819021011083",
@@ -486,7 +486,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 30,
     "brand": "Gratify",
-    "name": "Glutenvrije pretzels met zeezout",
+    "name": "Glutenvrije Pretzels met Zeezout",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "819021011540",
@@ -533,7 +533,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 33,
     "brand": "Beigel & Beigel",
-    "name": "Dunne pretzelstokjes met zout",
+    "name": "Dunne Pretzelstokjes met Zout",
     "category": "Zoute snacks",
     "variant": "150 g",
     "ean": "008982000797",
@@ -579,7 +579,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 36,
     "brand": "Beigel & Beigel",
-    "name": "Pretzelstokjes met sesam",
+    "name": "Pretzelstokjes met Sesam",
     "category": "Zoute snacks",
     "variant": "150 g",
     "ean": "008982000636",
@@ -637,7 +637,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 39,
     "brand": "Hadar",
-    "name": "Pretzelroosters met zout",
+    "name": "Pretzelroosters met Zout",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "7290018790588",
@@ -684,7 +684,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 42,
     "brand": "Hadar",
-    "name": "Pretzelroosters met sesam",
+    "name": "Pretzelroosters met Sesam",
     "category": "Zoute snacks",
     "variant": "300 g",
     "ean": "7290018790618",
@@ -732,7 +732,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 58,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster ketelchips met zeezout",
+    "name": "Mr. Hipster Ketelchips met Zeezout",
     "category": "Chips",
     "variant": "120 g",
     "ean": "194961002453",
@@ -772,7 +772,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 55,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster ketelchips mediterraan",
+    "name": "Mr. Hipster Ketelchips Mediterraan",
     "category": "Chips",
     "variant": "120 g",
     "ean": "194961002477",
@@ -937,7 +937,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 61,
     "brand": "Elisha",
-    "name": "Aardappelsnack paprika",
+    "name": "Aardappelsnack Paprika",
     "category": "Chips",
     "variant": "75 g",
     "ean": "5425000533689",
@@ -977,7 +977,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 64,
     "brand": "Elisha",
-    "name": "Aardappelsnack gezouten",
+    "name": "Aardappelsnack Gezouten",
     "category": "Chips",
     "variant": "75 g",
     "ean": "5425000533672",
@@ -1017,7 +1017,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 67,
     "brand": "Elisha",
-    "name": "Mini snacks rode rijst en kikkererwten",
+    "name": "Mini Snacks Rode Rijst en Kikkererwten",
     "category": "Rijst- en maïssnacks",
     "variant": "80 g",
     "ean": "5425000534488",
@@ -1057,7 +1057,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 70,
     "brand": "Elisha",
-    "name": "Mini snacks maïs en peulvruchten",
+    "name": "Mini Snacks Maïs en Peulvruchten",
     "category": "Rijst- en maïssnacks",
     "variant": "80 g",
     "ean": "5425000534204",
@@ -1096,7 +1096,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 72,
     "brand": "Elisha",
-    "name": "Mini maïssnacks",
+    "name": "Mini Maïssnacks",
     "category": "Rijst- en maïssnacks",
     "variant": "80 g",
     "ean": "5425000534303",
@@ -1135,7 +1135,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 74,
     "brand": "Elisha",
-    "name": "Mini snacks rode linzen en zwarte rijst",
+    "name": "Mini Snacks Rode Linzen en Zwarte Rijst",
     "category": "Rijst- en maïssnacks",
     "variant": "80 g",
     "ean": "5425000534389",
@@ -1174,7 +1174,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 76,
     "brand": "Shufra",
-    "name": "Magnetronpopcorn light",
+    "name": "Magnetronpopcorn Light",
     "category": "Popcorn",
     "variant": "255 g (3 × 85 g)",
     "ean": "689423002855",
@@ -1214,7 +1214,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 79,
     "brand": "Beigel & Beigel",
-    "name": "Cracker Crisps met zure-room- en uiensmaak",
+    "name": "Cracker Crisps met Zure-room- en Uiensmaak",
     "category": "Crackers",
     "variant": "300 g",
     "ean": "008982000513",
@@ -1263,7 +1263,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 82,
     "brand": "Beigel & Beigel",
-    "name": "Dag Dag gezouten visvormige crackers",
+    "name": "Dag Dag Gezouten Visvormige Crackers",
     "category": "Crackers",
     "variant": "250 g",
     "ean": "7290116533544",
@@ -1306,7 +1306,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 85,
     "brand": "Beigel & Beigel",
-    "name": "Mini crackers sesamcocktail",
+    "name": "Mini Crackers Sesamcocktail",
     "category": "Crackers",
     "variant": "300 g",
     "ean": "7290112495174",
@@ -1350,7 +1350,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 88,
     "brand": "Beigel & Beigel",
-    "name": "Ronde mini crackers met zout",
+    "name": "Ronde Mini Crackers met Zout",
     "category": "Crackers",
     "variant": "300 g",
     "ean": "7290112495150",
@@ -1393,7 +1393,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 91,
     "brand": "Beigel & Beigel",
-    "name": "Mini crackers zoutcocktail",
+    "name": "Mini Crackers Zoutcocktail",
     "category": "Crackers",
     "variant": "300 g",
     "ean": "7290112495143",
@@ -1477,7 +1477,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 97,
     "brand": "Poco Loco",
-    "name": "Tortillarolletjes zoete tomaat",
+    "name": "Tortillarolletjes Zoete Tomaat",
     "category": "Rijst- en maïssnacks",
     "variant": "125 g",
     "ean": "5412514931063",
@@ -1518,7 +1518,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 111,
     "brand": "Elisha",
-    "name": "Sprinkles geel",
+    "name": "Sprinkles Geel",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535454",
@@ -1573,7 +1573,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 113,
     "brand": "Elisha",
-    "name": "Sprinkles rood",
+    "name": "Sprinkles Rood",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535409",
@@ -1628,7 +1628,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 114,
     "brand": "Elisha",
-    "name": "Sprinkles oranje",
+    "name": "Sprinkles Oranje",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535423",
@@ -1683,7 +1683,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 115,
     "brand": "Elisha",
-    "name": "Sprinkles groen",
+    "name": "Sprinkles Groen",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535416",
@@ -1738,7 +1738,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 116,
     "brand": "Elisha",
-    "name": "Sprinkles paars",
+    "name": "Sprinkles Paars",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535430",
@@ -1793,7 +1793,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 117,
     "brand": "Elisha",
-    "name": "Sprinkles wit",
+    "name": "Sprinkles Wit",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535447",
@@ -1849,7 +1849,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 118,
     "brand": "Elisha",
-    "name": "Sprinkles kleurenmix",
+    "name": "Sprinkles Kleurenmix",
     "category": "Bakdecoratie",
     "variant": "120 g",
     "ean": "5425000535393",
@@ -1904,7 +1904,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 100,
     "brand": "Elisha",
-    "name": "Knapperige suikerhoorntjes",
+    "name": "Knapperige Suikerhoorntjes",
     "category": "IJshoorntjes",
     "variant": "30 stuks",
     "ean": "5425000532644",
@@ -1954,7 +1954,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 102,
     "brand": "Shevach",
-    "name": "Corn Balls Classic maïsbolletjes",
+    "name": "Corn Balls Classic Maïsbolletjes",
     "category": "Ontbijtgranen",
     "variant": "375 g",
     "ean": "5425000534945",
@@ -1994,7 +1994,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 105,
     "brand": "Poco Loco",
-    "name": "Tortilla’s Original, maat M",
+    "name": "Tortilla’s Original, Maat M",
     "category": "Tortilla’s en wraps",
     "variant": "320 g (8 stuks)",
     "ean": "5412514555559",
@@ -2049,7 +2049,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 107,
     "brand": "Poco Loco",
-    "name": "Wraps Original, maat L",
+    "name": "Wraps Original, Maat L",
     "category": "Tortilla’s en wraps",
     "variant": "370 g (6 stuks)",
     "ean": "5412514350000",

@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Elite MUST",
-    "name": "Suikervrije snoepjes met citroensmaak",
+    "name": "Suikervrije Snoepjes met Citroensmaak",
     "variant": "80 g",
     "ean": "7290112336644",
     "ingredients": "Zoetstoffen (isomalt, sucralose), zuurteregelaar (citroenzuur), aroma’s.",
@@ -25,8 +25,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 2,
     "brand": "Elite MUST",
-    "name": "Suikervrije snoepjes met yoghurtsmaak (aardbei en bosbes)",
-    "shortName": "MUST yoghurt aardbei & bosbes (suikervrij)",
+    "name": "Suikervrije Snoepjes met Yoghurtsmaak (Aardbei en Bosbes)",
+    "shortName": "MUST Yoghurt Aardbei & Bosbes (Suikervrij)",
     "variant": "80 g",
     "ean": "7290112336637",
     "ingredients": "Zoetstoffen (isomalt, sucralose), plantaardig vet, zuurteregelaar (citroenzuur), aroma’s, kleurstoffen (paprika-extract, anthocyanen uit zwartewortelextract), zwartewortelconcentraat, zout, emulgator (sojalecithine).",
@@ -52,8 +52,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "brand": "Elite MUST",
-    "name": "Suikervrije snoepjes met de smaak van framboos en citroen",
-    "shortName": "MUST framboos & citroen (suikervrij)",
+    "name": "Suikervrije Snoepjes met de Smaak van Framboos en Citroen",
+    "shortName": "MUST Framboos & Citroen (Suikervrij)",
     "variant": "80 g",
     "ean": "7290112337474",
     "ingredients": "Zoetstoffen (isomalt, sucralose), zuurteregelaar (citroenzuur), aroma’s, kleurstof (anthocyanen uit zwartewortelextract).",
@@ -76,7 +76,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 4,
     "brand": "Elite MUST",
-    "name": "Suikervrije snoepjes met koffiesmaak",
+    "name": "Suikervrije Snoepjes met Koffiesmaak",
     "variant": "80 g",
     "ean": "7290112337481",
     "ingredients": "Zoetstoffen (isomalt, sucralose), plantaardig vet, aroma’s, oploskoffiepoeder (1,3%), water, emulgator (sojalecithine).",
@@ -101,8 +101,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 5,
     "brand": "Elite MUST",
-    "name": "Suikervrije snoepjes met de smaak van dulce de leche",
-    "shortName": "MUST dulce de leche (suikervrij)",
+    "name": "Suikervrije Snoepjes met de Smaak van Dulce de Leche",
+    "shortName": "MUST Dulce de Leche (Suikervrij)",
     "variant": "80 g",
     "ean": "7290112336651",
     "ingredients": "Zoetstoffen (isomalt, sucralose), plantaardig vet, stabilisator (glycerol), zout, kleurstof (karamel), aroma’s, water, zwartewortelconcentraat, emulgator (sojalecithine).",
@@ -128,8 +128,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "brand": "Elite MUST",
-    "name": "Suikervrije kauwgomblokjes met aardbeiensmaak en vloeibare vulling",
-    "shortName": "MUST suikervrije aardbeikauwgom",
+    "name": "Suikervrije Kauwgomblokjes met Aardbeiensmaak en Vloeibare Vulling",
+    "shortName": "MUST Suikervrije Aardbeikauwgom",
     "variant": "58 g",
     "ean": "7290110556563",
     "ingredients": "Zoetstoffen (sorbitol, maltitol, maltitolstroop, isomalt, acesulfaam-K, sucralose), gombasis, bevochtigingsmiddel (glycerol), zuurteregelaars (appelzuur, citroenzuur), verdikkingsmiddelen (arabische gom, cellulosegom), aroma’s, kleurstof (anthocyanen uit zwartewortelextract).",
@@ -152,7 +152,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 7,
     "brand": "Elite MUST",
-    "name": "Suikervrije kauwgom met de smaak van fruit en munt",
+    "name": "Suikervrije Kauwgom met de Smaak van Fruit en Munt",
     "variant": "66 g",
     "ean": "7290119374298",
     "ingredients": "Zoetstoffen (isomalt, sorbitol, xylitol, maltitolstroop, mannitol, acesulfaam-K, sucralose), gombasis, zuurteregelaar (calciumcarbonaat), bevochtigingsmiddel (glycerol), aroma’s, verdikkingsmiddel (arabische gom), emulgator (lecithine), glansmiddel (carnaubawas), kleurstof (bietenrood).",
@@ -185,7 +185,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "brand": "Elite MUST",
-    "name": "Suikervrije kauwgom met milde muntsmaak",
+    "name": "Suikervrije Kauwgom met Milde Muntsmaak",
     "variant": "28 g",
     "ean": "7290008754415",
     "ingredients": "Zoetstoffen (isomalt, sorbitol, maltitolstroop, xylitol, mannitol, acesulfaam-K, sucralose), gombasis, zuurteregelaar (calciumcarbonaat), aroma’s, verdikkingsmiddel (arabische gom), bevochtigingsmiddel (glycerol), emulgator (lecithine), glansmiddel (carnaubawas).",
@@ -218,7 +218,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Shneider’s",
-    "name": "Candy Planet Mr Black dropmix",
+    "name": "Candy Planet Mr Black Dropmix",
     "variant": "150 g",
     "ean": "194961003085",
     "ingredients": "Rietsuikermelasse (sulfieten), tarwebloem, glucosestroop (tarwe), zout, zoethoutextract, suiker, carnaubawas, zonnebloemolie, aroma’s, kleurstoffen (paprikaoleohars, groentesap, kurkumaoleohars), palmvet, arabische gom, gehydrolyseerd erwteneiwit.",
@@ -250,7 +250,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 13,
     "brand": "Shneider’s",
-    "name": "Candy Planet gesuikerde colaflesjes",
+    "name": "Candy Planet Gesuikerde Colaflesjes",
     "variant": "120 g",
     "ean": "194961003283",
     "ingredients": "Glucosestroop, suiker, gemodificeerd zetmeel, voedingszuren (citroenzuur, appelzuur), zuurteregelaars (natriummalaten, natriumcitraten), geleermiddel (carrageen), kleurstof (karamel), natuurlijk aroma, tarwezetmeel.",
@@ -282,7 +282,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 14,
     "brand": "Shneider’s",
-    "name": "Candy Planet bananen",
+    "name": "Candy Planet Bananen",
     "variant": "120 g",
     "ean": "194961003313",
     "ingredients": "Glucosestroop, suiker, geleermiddel (pectine), voedingszuur (citroenzuur), gehydrolyseerd plantaardig eiwit, natuurlijk aroma, zuurteregelaar (natriumcitraten), kleurstof (curcumine), tarwezetmeel.",
@@ -314,7 +314,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Shneider’s",
-    "name": "Candy Planet dubbele kersen",
+    "name": "Candy Planet Dubbele Kersen",
     "variant": "120 g",
     "ean": "194961003245",
     "ingredients": "Glucosestroop, suiker, visgelatine, water, bevochtigingsmiddel (sorbitol, E420), voedingszuren (citroenzuur, E330; melkzuur, E270), zuurteregelaar (natriumlactaat, E325), aroma’s, glansmiddelen (bijenwas, E901; carnaubawas, E903), kleurstoffen (E102, E129, E133).",
@@ -345,7 +345,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 16,
     "brand": "Shneider’s",
-    "name": "Candy Planet gladde colaflesjes",
+    "name": "Candy Planet Gladde Colaflesjes",
     "variant": "120 g",
     "ean": "194961003238",
     "ingredients": "Glucosestroop, suiker, visgelatine, water, bevochtigingsmiddel (sorbitol, E420), voedingszuren (citroenzuur, E330; melkzuur, E270), zuurteregelaar (natriumlactaat, E325), aroma’s, glansmiddelen (bijenwas, E901; carnaubawas, E903), kleurstoffen (E150d).",
@@ -376,7 +376,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "brand": "Shneider’s",
-    "name": "Candy Planet krokodillen",
+    "name": "Candy Planet Krokodillen",
     "variant": "120 g",
     "ean": "194961003337",
     "ingredients": "Glucosestroop, suiker, gemodificeerd tarwezetmeel, gehydrolyseerd erwteneiwit, carnaubawas, zonnebloemolie, aroma’s, kleurstoffen (paprikaoleohars, curcumine).",
@@ -408,7 +408,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "brand": "Shneider’s",
-    "name": "Candy Planet gummibeertjes",
+    "name": "Candy Planet Gummibeertjes",
     "variant": "120 g",
     "ean": "194961004006",
     "ingredients": "Glucosestroop, suiker, visgelatine, water, bevochtigingsmiddel (sorbitol, E420), voedingszuren (citroenzuur, E330; melkzuur, E270), zuurteregelaar (natriumlactaat, E325), aroma’s, glansmiddelen (bijenwas, E901; carnaubawas, E903), kleurstoffen (E102, E129, E133).",
@@ -439,7 +439,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 10,
     "brand": "Shneider’s",
-    "name": "Taffy Time toffees met fruitsmaken",
+    "name": "Taffy Time Toffees met Fruitsmaken",
     "variant": "800 g",
     "ean": "194961000961",
     "ingredients": "Suiker, glucosestroop, kokosolie, verdikkingsmiddel (arabische gom), voedingszuur (citroenzuur), aroma’s, zout.",
@@ -473,7 +473,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "brand": "Elite",
-    "name": "Mini Snap melkchocoladereepjes met wafel",
+    "name": "Mini Snap Melkchocoladereepjes met Wafel",
     "variant": "400 g",
     "ean": "077245108303",
     "ingredients": "Melkchocolade [suiker, magere melkpoeder, cacaoboter, cacaomassa, melkvet, emulgatoren (PGPR, raapzaadlecithine), kunstmatig aroma (vanilline)], tarwebloem, suiker, plantaardige vetten (palm, palmpit), plantaardige oliën (palm, palmpit), volle melkpoeder, sojameel, weipoeder (melk), magere cacao (behandeld met alkali), maltitol, raapzaadlecithine, rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat), zout, kunstmatig aroma (vanilline), enzym (proteïnase), hazelnootpasta.",
@@ -507,7 +507,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "brand": "Elite",
-    "name": "Mini Pesek Zman Classic melkchocoladereepjes met wafel en hazelnootcrème",
+    "name": "Mini Pesek Zman Classic Melkchocoladereepjes met Wafel en Hazelnootcrème",
     "shortName": "Mini Pesek Zman Classic",
     "variant": "400 g",
     "ean": "077245108310",
@@ -540,7 +540,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 9,
     "brand": "Elite",
-    "name": "Mini Mekupelet melkchocolade",
+    "name": "Mini Mekupelet Melkchocolade",
     "variant": "400 g",
     "ean": "7290010116386",
     "ingredients": "Suiker, cacaoboter, cacaomassa, melkpoeder, melkvet, emulgator (raapzaadlecithine), vanilline. Cacaobestanddelen: ten minste 30%.",
@@ -569,7 +569,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "brand": "Shneider’s",
-    "name": "Mini marshmallows wit en roze",
+    "name": "Mini Marshmallows Wit en Roze",
     "variant": "175 g",
     "ean": "838948010184",
     "ingredients": "Glucosefructosestroop, suiker, water, visgelatine, dextrose, maïszetmeel, voedingszuur (appelzuur), zuurteregelaar (natriumcitraat). Afhankelijk van de variant: natuurlijke vanille- en aardbeienaroma’s, kleurstoffen (curcumine, betanine, E141).",
@@ -603,7 +603,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Shneider’s",
-    "name": "BBQ marshmallows wit",
+    "name": "BBQ Marshmallows Wit",
     "variant": "175 g",
     "ean": "838948002752",
     "ingredients": "Glucosefructosestroop, suiker, water, visgelatine, dextrose, maïszetmeel, voedingszuur (appelzuur), zuurteregelaar (natriumcitraat). Afhankelijk van de variant: natuurlijke vanille- en aardbeienaroma’s, kleurstoffen (curcumine, betanine, E141).",

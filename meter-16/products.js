@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Lieber’s",
-    "name": "Aardappelchips naturel",
+    "name": "Aardappelchips Naturel",
     "variant": "340 g",
     "category": "Snacks",
     "ean": "043427181310",
@@ -53,7 +53,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 2,
     "brand": "Lieber’s",
-    "name": "Aardappelchips met honingsmaak",
+    "name": "Aardappelchips met Honingsmaak",
     "variant": "227 g",
     "category": "Snacks",
     "ean": "043427000635",
@@ -102,7 +102,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "brand": "Lieber’s",
-    "name": "Maïschips naturel",
+    "name": "Maïschips Naturel",
     "variant": "312 g",
     "category": "Snacks",
     "ean": "043427181143",
@@ -153,7 +153,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 4,
     "brand": "Lieber’s",
-    "name": "Ketelgebakken chips naturel",
+    "name": "Ketelgebakken Chips Naturel",
     "variant": "141 g",
     "category": "Snacks",
     "ean": "043427004701",
@@ -205,7 +205,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 5,
     "brand": "Lieber’s",
-    "name": "Ketelgebakken chips met barbecuesmaak",
+    "name": "Ketelgebakken Chips met Barbecuesmaak",
     "variant": "141 g",
     "category": "Snacks",
     "ean": "043427004718",
@@ -257,7 +257,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "brand": "Lieber's",
-    "name": "Barbecueringen gezinsverpakking",
+    "name": "Barbecueringen Gezinsverpakking",
     "variant": "10 × 15 g · 150 g",
     "category": "Snacks",
     "ean": "043427014908",
@@ -361,7 +361,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster chips met zoete chilismaak",
+    "name": "Mr. Hipster Chips met Zoete Chilismaak",
     "variant": "170 g",
     "category": "Snacks",
     "ean": "194961000770",
@@ -412,7 +412,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 9,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster licht gezouten chips",
+    "name": "Mr. Hipster Licht Gezouten Chips",
     "variant": "170 g",
     "category": "Snacks",
     "ean": "194961000763",
@@ -517,7 +517,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "brand": "Lieber’s",
-    "name": "Gevlochten pretzels",
+    "name": "Gevlochten Pretzels",
     "variant": "340 g",
     "category": "Snacks",
     "ean": "043427182119",
@@ -571,7 +571,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "brand": "Lieber’s",
-    "name": "Snoepstukjes met kersensmaak",
+    "name": "Snoepstukjes met Kersensmaak",
     "variant": "113 g",
     "category": "Snoep",
     "ean": "043427400480",
@@ -623,7 +623,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 13,
     "brand": "Lieber’s",
-    "name": "Ronde lolly’s",
+    "name": "Ronde Lolly’s",
     "variant": "85 g",
     "category": "Snoep",
     "ean": "043427400619",
@@ -672,7 +672,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 14,
     "brand": "Lieber’s",
-    "name": "Gedraaide zwarte drop",
+    "name": "Gedraaide Zwarte Drop",
     "variant": "113 g",
     "category": "Snoep",
     "ean": "043427400466",
@@ -724,7 +724,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Lieber’s",
-    "name": "Snoepveters met kersensmaak",
+    "name": "Snoepveters met Kersensmaak",
     "variant": "172 g",
     "category": "Snoep",
     "ean": "043427400688",
@@ -775,7 +775,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 16,
     "brand": "Lieber’s",
-    "name": "Taartbodem van grahamcrackers",
+    "name": "Taartbodem van Grahamcrackers",
     "variant": "170 g",
     "category": "Bakken",
     "ean": "043427127011",
@@ -917,7 +917,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "brand": "Lieber’s",
-    "name": "Barbecuesaus met honing",
+    "name": "Barbecuesaus met Honing",
     "variant": "510 g",
     "category": "Sauzen",
     "ean": "043427011792",
@@ -969,7 +969,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Lieber’s",
-    "name": "Pittige sriracha-chilisaus",
+    "name": "Pittige Sriracha-chilisaus",
     "variant": "454 g",
     "category": "Sauzen",
     "ean": "043427007801",
@@ -1126,7 +1126,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 23,
     "brand": "Lieber’s",
-    "name": "Lichte sojasaus",
+    "name": "Lichte Sojasaus",
     "variant": "296 ml",
     "category": "Sauzen",
     "ean": "043427222617",
@@ -1179,7 +1179,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 24,
     "brand": "Lieber’s",
-    "name": "Hele palmharten",
+    "name": "Hele Palmharten",
     "variant": "400 g · uitlekgewicht 220 g",
     "category": "Conserven",
     "ean": "043427201353",
@@ -1225,7 +1225,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "brand": "Shwartz",
-    "name": "Bonenmix voor cholent",
+    "name": "Bonenmix voor Cholent",
     "variant": "454 g",
     "category": "Peulvruchten",
     "ean": "748935026206",
@@ -1324,7 +1324,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 27,
     "brand": "Lieber’s",
-    "name": "Zoetzure saus",
+    "name": "Zoetzure Saus",
     "variant": "793 g",
     "category": "Sauzen",
     "ean": "043427004619",
@@ -1373,7 +1373,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 28,
     "brand": "Lieber’s",
-    "name": "Gezeefde tomaten (passata)",
+    "name": "Gezeefde Tomaten (Passata)",
     "variant": "652 g",
     "category": "Conserven",
     "ean": "043427028202",
@@ -1420,7 +1420,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 29,
     "brand": "Lieber’s",
-    "name": "Pastasaus met tomaat en basilicum",
+    "name": "Pastasaus met Tomaat en Basilicum",
     "variant": "680 g",
     "category": "Sauzen",
     "ean": "043427225038",
@@ -1470,7 +1470,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 30,
     "brand": "Lieber’s",
-    "name": "Klassieke tomatensaus voor pasta",
+    "name": "Klassieke Tomatensaus voor Pasta",
     "variant": "680 g",
     "category": "Sauzen",
     "ean": "043427225014",
@@ -1570,7 +1570,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "brand": "Ice Li",
-    "name": "Fruitijsjes om in te vriezen",
+    "name": "Fruitijsjes om in Te Vriezen",
     "variant": "8 × 100 ml (totaal 800 ml)",
     "volumeSource": "Gebruiker bevestigt 8 × 100 ml op 9 oktober 2026.",
     "category": "IJsjes",

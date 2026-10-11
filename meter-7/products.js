@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 41,
     "brand": "Osem",
-    "name": "Paneermeel goud",
+    "name": "Paneermeel Goud",
     "category": "Paneermeel",
     "variant": "350 g",
     "ean": "7290100680711",
@@ -33,7 +33,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Klassiek paneermeel",
+    "name": "Klassiek Paneermeel",
     "variant": "350 g",
     "ean": "7290100680728",
     "ingredients": "Tarwebloem (gluten), zout, gist.",
@@ -70,7 +70,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Davidovich",
-    "name": "Goudkleurig paneermeel",
+    "name": "Goudkleurig Paneermeel",
     "variant": "800 g",
     "ean": "7290011553883",
     "ingredients": "Witte tarwebloem (gluten), verse gist, keukenzout, water, kleurstof (paprika-extract).",
@@ -110,7 +110,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Davidovich",
-    "name": "Klassiek paneermeel",
+    "name": "Klassiek Paneermeel",
     "variant": "800 g",
     "ean": "7290011553876",
     "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E322, E481, E472, E471), conserveermiddelen (E282, E202, E200), haver (gluten), meelbehandelingsmiddelen (sojameel, L-cysteïne, ascorbinezuur [vitamine C], alfa-amylase), zuurteregelaar (citroenzuur).",
@@ -166,7 +166,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Davidovich",
-    "name": "Klassiek paneermeel",
+    "name": "Klassiek Paneermeel",
     "variant": "400 g",
     "ean": "7290015033299",
     "ingredients": "Witte tarwebloem (gluten), donkere tarwebloem (gluten), volkoren tarwemeel (gluten), volkoren roggemeel (gluten), speltmeel (gluten), meel van amandelen, noten en zaden (amandelen, walnoten, lijnzaad, zonnebloempitten), kikkererwtenmeel, tarwegluten, plantaardige oliën, gist, keukenzout, witte suiker, gerstemout (gluten), voedingsvezels, sesam, aroma’s, water, emulgatoren (E322, E481, E472, E471), conserveermiddelen (E282, E202, E200), haver (gluten), meelbehandelingsmiddelen (sojameel, L-cysteïne, ascorbinezuur [vitamine C], alfa-amylase), zuurteregelaar (citroenzuur).",
@@ -223,8 +223,8 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Davidovich",
-    "name": "Paneermeel met knoflook en sesam",
-    "shortName": "Paneermeel knoflook en sesam",
+    "name": "Paneermeel met Knoflook en Sesam",
+    "shortName": "Paneermeel Knoflook en Sesam",
     "variant": "400 g",
     "ean": "7290011553142",
     "ingredients": "Tarwebloem (gluten), sesamzaad, knoflookpoeder (2%), gist, keukenzout, plantaardige olie, kleurstof (paprika-extract).",
@@ -270,7 +270,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Bouillon en kruidenmix",
+    "name": "Bouillon en Kruidenmix",
     "shortName": "Bouillon",
     "variant": "400 g",
     "ean": "077544002883",
@@ -318,8 +318,8 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Soep en kruidenmix met kipsmaak",
-    "shortName": "Soepmix met kipsmaak",
+    "name": "Soep en Kruidenmix met Kipsmaak",
+    "shortName": "Soepmix met Kipsmaak",
     "variant": "400 g",
     "ean": "077544529403",
     "ingredients": "Zout, zetmeel, suiker, maltodextrine, palmolie, smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), gedroogde uien (0,9%), gistextract, gedroogde peterselie (0,2%), zuurteregelaar (citroenzuur), zwarte peper, aroma’s (bevatten selderij), kurkuma-extract, antioxidant (rozemarijnextract).",
@@ -364,7 +364,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Groentesoep en kruidenmix",
+    "name": "Groentesoep en Kruidenmix",
     "shortName": "Groentesoepmix",
     "variant": "400 g",
     "ean": "077544332409",
@@ -398,8 +398,8 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Soep en kruidenmix met rundvleessmaak",
-    "shortName": "Soepmix met rundvleessmaak",
+    "name": "Soep en Kruidenmix met Rundvleessmaak",
+    "shortName": "Soepmix met Rundvleessmaak",
     "variant": "400 g",
     "ean": "077544528406",
     "ingredients": "Zout, maïszetmeel, suikers, tarwebloem, palmolie, smaakversterker (E621), gedroogde uien, kleurstoffen (karamel, kurkuma-extract), vezels (cellulose, rode biet), gedroogde peterselie, aroma’s (bevatten selderij), komijn, antioxidant (rozemarijnextract).",
@@ -440,7 +440,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Uiensoep en kruidenmix",
+    "name": "Uiensoep en Kruidenmix",
     "shortName": "Uiensoepmix",
     "variant": "400 g",
     "ean": "077544489400",
@@ -476,7 +476,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "brand": "Osem",
-    "name": "Champignonsoep en kruidenmix",
+    "name": "Champignonsoep en Kruidenmix",
     "shortName": "Champignonsoepmix",
     "variant": "400 g",
     "ean": "077544334403",
@@ -515,7 +515,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 13,
     "brand": "Melvit",
-    "name": "Gepelde gerst",
+    "name": "Gepelde Gerst",
     "variant": "400 g",
     "ean": "5906827003000",
     "ingredients": "100% gepelde gerst.",
@@ -548,7 +548,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 42,
     "brand": "Creative Pea",
-    "name": "Vegan burger mix",
+    "name": "Vegan Burger Mix",
     "variant": "65 g",
     "ean": "860014358906",
     "barcodeNeedsCheck": false,
@@ -589,7 +589,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 14,
     "brand": "Creative Pea",
-    "name": "Vegan nuggets mix",
+    "name": "Vegan Nuggets Mix",
     "variant": "65 g",
     "ean": "860014358975",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), natuurlijke aroma’s.",
@@ -629,7 +629,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Creative Pea",
-    "name": "Vegan kebab mix",
+    "name": "Vegan Kebab Mix",
     "variant": "65 g",
     "ean": "860014358982",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gerookte paprika, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), bietenpoeder (natuurlijke kleurstof), cacaopoeder, natuurlijke aroma’s.",
@@ -668,7 +668,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 16,
     "brand": "Creative Pea",
-    "name": "Vegan vissticks mix",
+    "name": "Vegan Vissticks Mix",
     "variant": "65 g",
     "ean": "860014358968",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gemalen zwarte peper), aardappelzetmeel, methylcellulose, droge gist, voedingsvezels (erwtenvezels), zout, natuurlijke aroma’s.",
@@ -709,7 +709,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "brand": "Osem",
-    "name": "Mini croutons gekruid",
+    "name": "Mini Croutons Gekruid",
     "variant": "400 g",
     "ean": "7290000065090",
     "ingredients": "Tarwebloem (gluten), plantaardige oliën, zetmeel, specerijen (1,8%) (uienpoeder, knoflook), zout, gist, antioxidant (rozemarijnextract).",
@@ -742,7 +742,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "brand": "Osem",
-    "name": "Dunne noedels",
+    "name": "Dunne Noedels",
     "variant": "400 g",
     "ean": "7290000060163",
     "ingredients": "Tarwebloem (gluten), kurkuma (voor de kleur).",
@@ -781,7 +781,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "brand": "Osem",
-    "name": "Middelbrede noedels",
+    "name": "Middelbrede Noedels",
     "variant": "400 g",
     "ean": "7290000060958",
     "ingredients": "Tarwebloem (gluten), kurkuma (voor de kleur).",
@@ -820,7 +820,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Osem",
-    "name": "Parelcouscous geroosterd",
+    "name": "Parelcouscous Geroosterd",
     "variant": "500 g",
     "ean": "077544001251",
     "ingredients": "Tarwebloem (gluten).",
@@ -857,7 +857,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "brand": "Osem",
-    "name": "Orzo geroosterd",
+    "name": "Orzo Geroosterd",
     "variant": "500 g",
     "ean": "077544001299",
     "ingredients": "Tarwebloem (gluten).",
@@ -893,7 +893,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Osem",
-    "name": "Sterretjespasta geroosterd",
+    "name": "Sterretjespasta Geroosterd",
     "variant": "500 g",
     "ean": "077544001275",
     "ingredients": "Tarwebloem (gluten).",
@@ -930,7 +930,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 23,
     "brand": "Osem",
-    "name": "Couscous middelgrof",
+    "name": "Couscous Middelgrof",
     "variant": "350 g",
     "ean": "7290000064758",
     "ingredients": "Tarwegriesmeel (gluten).",
@@ -967,7 +967,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 24,
     "brand": "Melvit",
-    "name": "Geroosterde boekweit",
+    "name": "Geroosterde Boekweit",
     "variant": "4 × 100 g",
     "ean": "5906827001303",
     "ingredients": "100% geroosterde boekweit.",
@@ -998,7 +998,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "brand": "Osem",
-    "name": "Mini croutons pot",
+    "name": "Mini Croutons Pot",
     "variant": "400 g",
     "ean": "077544297807",
     "ingredients": "Tarwebloem, zonnebloemolie, zout, kurkuma-extract.",
@@ -1031,7 +1031,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 26,
     "brand": "Osem",
-    "name": "Mini croutons zak",
+    "name": "Mini Croutons Zak",
     "variant": "400 g",
     "ean": "077544297401",
     "ingredients": "Tarwebloem, zonnebloemolie, zout, palmolie, kurkuma-extract.",
@@ -1069,7 +1069,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 27,
     "brand": "Osem",
-    "name": "Aardappelpureemix zak",
+    "name": "Aardappelpureemix Zak",
     "variant": "130 g",
     "ean": "077544152403",
     "ingredients": "Gedroogde aardappelen (74%), palmolie, zout, suiker, smaakversterker (E621), gistextract, gedroogde knoflook, emulgator (mono- en diglyceriden van vetzuren), gedroogde ui, zuurteregelaar (dinatriumdifosfaat), zwarte peper, citroenzuur, antioxidant (rozemarijnextract).",
@@ -1143,7 +1143,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 29,
     "brand": "Osem",
-    "name": "Noedelsoep met kipsmaak",
+    "name": "Noedelsoep met Kipsmaak",
     "variant": "53 g",
     "ean": "077544135406",
     "ingredients": "Noedels (41%) (tarwebloem), zout, aardappelzetmeel, suiker, maltodextrine, gedroogde groenten (wortelen, uien), smaakversterkers (E621, E635), palmolie, gistextract, gedroogde peterselie (0,4%), antiklontermiddel (E460ii: cellulose), aroma’s (bevatten selderij), kurkuma-extract, antioxidant (rozemarijnextract).",
@@ -1220,7 +1220,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 31,
     "brand": "Falafelz",
-    "name": "Premium falafelmix",
+    "name": "Premium Falafelmix",
     "variant": "180 g",
     "ean": "7290015809115",
     "ingredients": "Kikkererwten (75%), gedroogde ui, specerijen, zout, rijsmiddelen (natriumbicarbonaat, dinatriumdifosfaat), gedroogde knoflook, peterselie, maïszetmeel.",
@@ -1257,7 +1257,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "brand": "Shneider’s",
-    "name": "Krokant gebakken uitjes",
+    "name": "Krokant Gebakken Uitjes",
     "variant": "150 g",
     "ean": "838948004350",
     "ingredients": "Uien (75%), palmolie, tarwebloem, zout.",
@@ -1300,7 +1300,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 33,
     "brand": "Osem",
-    "name": "Jusmix voor gebraad",
+    "name": "Jusmix voor Gebraad",
     "variant": "22 g",
     "ean": "7290000493176",
     "ingredients": "Tarwebloem (gluten), maltodextrine, plantaardige oliën, zetmeel, specerijen, zout, smaakversterkers (mononatriumglutamaat, E635, E631, E627), zoutvervanger (kaliumchloride), suikers, gistextract, gedroogde groenten (champignons, tomaten), kleurstof (karamel), aroma’s, selderijextract, antioxidant (rozemarijnextract).",
@@ -1394,7 +1394,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 35,
     "brand": "Osem",
-    "name": "Couscous met groenten beker",
+    "name": "Couscous met Groenten Beker",
     "variant": "84 g",
     "ean": "077544155909",
     "ingredients": "Couscous (81%) (tarwegriesmeel), gedroogde groenten (11%) (ui, wortel (3%), selderij (2%), prei (0,7%)), peterselie, zonnebloemolie, zout, gistextract, kurkuma-extract, aroma’s.",
@@ -1433,7 +1433,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 36,
     "brand": "Osem",
-    "name": "Aardappelpuree met groenten beker",
+    "name": "Aardappelpuree met Groenten Beker",
     "variant": "55 g",
     "ean": "7290000065335",
     "ingredients": "Gedroogde aardappelen (54%) (emulgator E471, zuurteregelaar E450, antioxidant citroenzuur), maltodextrine, gedroogde groenten (11%) (ui (7%), wortel (3,5%), peterselie (0,2%)), plantaardige oliën, zout, gemodificeerd zetmeel (E1450), specerijen (knoflook, witte peper), citroenzuur, kleurstof (kurkuma-extract), antioxidant (rozemarijnextract).",
@@ -1469,7 +1469,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 37,
     "brand": "Ayeka",
-    "name": "Instant noedels met kipsmaak",
+    "name": "Instant Noedels met Kipsmaak",
     "variant": "68 g",
     "ean": "3770021861603",
     "ingredients": "Noedels: tarwebloem (gluten), palmolie, cassavezetmeel, zout, stabilisatoren (guargom [E412], xanthaangom [E415], natriumtrifosfaat [E451], natriumhexametafosfaat [E452], tetranatriumpyrofosfaat [E450]). Kruidenmengsel: zout, smaakversterker (mononatriumglutamaat [E621]), suiker, kunstmatig kiparoma, uienpoeder, knoflookpoeder, gemberpoeder, kurkumapoeder, gistextract, peperpoeder, kerriepoeder, smaakversterker (E635), maltodextrine. Gedroogde groenten: wortel, kool en lente-ui.",
@@ -1520,7 +1520,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 38,
     "brand": "Ayeka",
-    "name": "Instant noedels met groentesmaak",
+    "name": "Instant Noedels met Groentesmaak",
     "variant": "68 g",
     "ean": "3770021861627",
     "ingredients": "Noedels: tarwebloem (gluten), palmolie, cassavezetmeel, zout, stabilisatoren (guargom [E412], xanthaangom [E415], natriumtrifosfaat [E451], natriumhexametafosfaat [E452], tetranatriumpyrofosfaat [E450]). Kruidenmengsel: zout, smaakversterker (mononatriumglutamaat [E621]), suiker, groentepoeders (koriander, selderij, champignon, tomaat), gistextract, sojasauspoeder, gehydrolyseerd plantaardig eiwit (water, soja, maïs), maltodextrine, smaakversterker (E635), maltodextrine. Gedroogde groenten: wortel, kool en lente-ui.",
@@ -1571,7 +1571,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 39,
     "brand": "Sterilgarda",
-    "name": "Halfvolle houdbare melk",
+    "name": "Halfvolle Houdbare Melk",
     "variant": "1 liter",
     "ean": "8002795001417",
     "ingredients": "Halfvolle melk.",
@@ -1614,7 +1614,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 40,
     "brand": "Elite",
-    "name": "Turkse koffie",
+    "name": "Turkse Koffie",
     "variant": "100 g",
     "ean": "7290000176062",
     "ingredients": "Gebrande en gemalen koffie.",

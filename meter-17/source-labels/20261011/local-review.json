@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-11",
+  "publication": "Authorized by user on 2026-10-11; publication in progress",
+  "productCount": 76,
+  "receivedProductCount": 67,
+  "retainedAwaitingPhotos": [
+    {
+      "id": 12,
+      "name": "Lichaamsboter Vanille"
+    },
+    {
+      "id": 13,
+      "name": "Gezichtszeep PH 5.5"
+    },
+    {
+      "id": 14,
+      "name": "Balsem Na het Scheren"
+    },
+    {
+      "id": 23,
+      "name": "Voetcrème met Vitaminen"
+    },
+    {
+      "id": 27,
+      "name": "Conditioner met Marokkaanse Arganolie"
+    },
+    {
+      "id": 29,
+      "name": "Zeep met Dode Zeemodder"
+    },
+    {
+      "id": 36,
+      "name": "Handzeep Spring Blossom"
+    },
+    {
+      "id": 48,
+      "name": "Shampoo Douchegel en Gezichtsreiniger met Munt 3 in 1"
+    },
+    {
+      "id": 74,
+      "name": "Herdenkingskaars voor 3 Dagen"
+    }
+  ],
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    79,
+    80,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    25,
+    24,
+    81,
+    26,
+    82,
+    27,
+    28,
+    29,
+    73,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    75,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    76,
+    49,
+    50,
+    51,
+    52,
+    77,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    63,
+    78,
+    74,
+    65,
+    66,
+    67,
+    68,
+    70,
+    71
+  ],
+  "checks": {
+    "uniqueIds": true,
+    "existingIdsPreserved": true,
+    "allImageFilesPresent": true,
+    "sourceCopiesUnchanged": true,
+    "eanChecksums": true
+  },
+  "pending": [
+    {
+      "id": 21,
+      "name": "Hand- en Nagelcrème met Lavendel",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Hand- en Nagelcrème met Avocado en Aloë Vera",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Aloë Vera Gel met Vitamine E",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Voetcrème met Avocado en Aloë Vera",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Multifunctionele Crème met Aloë Vera",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Douchegel met Olijfolie en Honing",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Shampoo voor Mannen",
+      "items": [
+        "Volledige INCI blijft open; genoemde verzorgende bestanddelen zijn overgenomen uit de Hebreeuwse verpakkingstekst."
+      ]
+    }
+  ],
+  "visualBrowserReview": "Pending: local preview timed out; individual edited images visually inspected.",
+  "errors": [],
+  "sourceRecheck": "Original external photo folder no longer contains every source; all previously verified repository copies remain present."
+}

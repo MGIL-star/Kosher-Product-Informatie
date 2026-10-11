@@ -1,7 +1,7 @@
 window.KPI_PRODUCTS = [
   {
     "id": 7,
-    "name": "Yoghurt naturel",
+    "name": "Yoghurt Naturel",
     "brand": "Shefa",
     "category": "Yoghurt",
     "variant": "500 g",
@@ -103,7 +103,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 10,
-    "name": "Tropische vruchtenyoghurt",
+    "name": "Tropische Vruchtenyoghurt",
     "brand": "Shefa",
     "category": "Yoghurt",
     "variant": "500 g",
@@ -211,7 +211,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 1,
-    "name": "Yoghurt naturel",
+    "name": "Yoghurt Naturel",
     "brand": "Shefa",
     "category": "Yoghurt",
     "variant": "125 g",
@@ -317,7 +317,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
-    "name": "Tropische vruchtenyoghurt",
+    "name": "Tropische Vruchtenyoghurt",
     "brand": "Shefa",
     "category": "Yoghurt",
     "variant": "125 g",
@@ -399,7 +399,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 25,
-    "name": "Panna cotta karamel",
+    "name": "Panna Cotta Karamel",
     "brand": "Sterilgarda",
     "category": "Desserts",
     "variant": "2 × 90 g",
@@ -631,7 +631,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 67,
-    "name": "Chocoladedessert met room",
+    "name": "Chocoladedessert met Room",
     "brand": "Liégeois",
     "category": "Desserts",
     "variant": "4 × 100 g",
@@ -771,7 +771,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
-    "name": "Roomkaas naturel",
+    "name": "Roomkaas Naturel",
     "brand": "Shefa",
     "category": "Roomkaas",
     "variant": "150 g",
@@ -810,7 +810,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
-    "name": "Roomkaas met kruiden",
+    "name": "Roomkaas met Kruiden",
     "brand": "Shefa",
     "category": "Roomkaas",
     "variant": "150 g",
@@ -849,7 +849,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
-    "name": "Roomkaas met olijven",
+    "name": "Roomkaas met Olijven",
     "brand": "Shefa",
     "category": "Roomkaas",
     "variant": "150 g",
@@ -889,7 +889,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 49,
-    "name": "Roomkaas naturel",
+    "name": "Roomkaas Naturel",
     "brand": "Samson",
     "category": "Roomkaas",
     "variant": "150 g",
@@ -929,7 +929,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 50,
-    "name": "Roomkaas bieslook",
+    "name": "Roomkaas Bieslook",
     "brand": "Samson",
     "category": "Roomkaas",
     "variant": "150 g",
@@ -970,7 +970,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 74,
-    "name": "Smeerkaaspuntjes 14% vet",
+    "name": "Smeerkaaspuntjes 14% Vet",
     "brand": "Euro",
     "category": "Kaas",
     "variant": "200 g · 16 porties van 12,5 g",
@@ -1011,7 +1011,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 73,
-    "name": "Goudse kaas in plakken",
+    "name": "Goudse Kaas in Plakken",
     "brand": "Shefa",
     "category": "Kaas",
     "variant": "200 g",
@@ -1046,7 +1046,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
-    "name": "Geraspte Goudse kaas",
+    "name": "Geraspte Goudse Kaas",
     "brand": "Shefa",
     "category": "Kaas",
     "variant": "400 g",
@@ -1088,7 +1088,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
-    "name": "Goudse kaas classic",
+    "name": "Goudse Kaas Classic",
     "brand": "Amstelvelder",
     "category": "Kaas",
     "variant": "150 g",
@@ -1128,7 +1128,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
-    "name": "Goudse kaas light",
+    "name": "Goudse Kaas Light",
     "brand": "Amstelvelder",
     "category": "Kaas",
     "variant": "150 g",
@@ -1169,7 +1169,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 19,
-    "name": "Edammer kaas",
+    "name": "Edammer Kaas",
     "brand": "Amstelvelder",
     "category": "Kaas",
     "variant": "150 g",
@@ -1209,7 +1209,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 20,
-    "name": "Edammer kaas light",
+    "name": "Edammer Kaas Light",
     "brand": "Amstelvelder",
     "category": "Kaas",
     "variant": "150 g",
@@ -1290,7 +1290,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 22,
-    "name": "Kaas met bieslook",
+    "name": "Kaas met Bieslook",
     "brand": "Amstelvelder",
     "category": "Kaas",
     "variant": "125 g",
@@ -1410,7 +1410,7 @@ window.KPI_PRODUCTS = [
   {
     "category": "Kaas",
     "id": 82,
-    "name": "Gerookte Goudse kaas",
+    "name": "Gerookte Goudse Kaas",
     "brand": "Amstelvelder",
     "variant": "125 g",
     "ean": "8719689267452",
@@ -1444,7 +1444,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 68,
-    "name": "Mimolette in plakken",
+    "name": "Mimolette in Plakken",
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
@@ -1485,7 +1485,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 69,
-    "name": "Havarti in plakken",
+    "name": "Havarti in Plakken",
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
@@ -1526,7 +1526,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 70,
-    "name": "Light kaas in plakken",
+    "name": "Light Kaas in Plakken",
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
@@ -1567,7 +1567,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 71,
-    "name": "Edammer kaas in plakken",
+    "name": "Edammer Kaas in Plakken",
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
@@ -1608,7 +1608,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 72,
-    "name": "Goudse kaas in plakken",
+    "name": "Goudse Kaas in Plakken",
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
@@ -1650,7 +1650,7 @@ window.KPI_PRODUCTS = [
   {
     "category": "Kaas",
     "id": 79,
-    "name": "Edammer kaas aan stuk",
+    "name": "Edammer Kaas aan Stuk",
     "brand": "VEBO Shoshana",
     "variant": "200 g",
     "ean": "8711528120300",
@@ -1685,7 +1685,7 @@ window.KPI_PRODUCTS = [
   {
     "category": "Kaas",
     "id": 80,
-    "name": "Jonge Goudse kaas aan stuk",
+    "name": "Jonge Goudse Kaas aan Stuk",
     "brand": "VEBO Shoshana",
     "variant": "200 g",
     "ean": "8711528757704",
@@ -1719,7 +1719,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 86,
-    "name": "Geraspte Goudse kaas 48+",
+    "name": "Geraspte Goudse Kaas 48+",
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "400 g",
@@ -1795,7 +1795,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 39,
-    "name": "Geraspte emmentaler",
+    "name": "Geraspte Emmentaler",
     "brand": "Vert Bosquet",
     "category": "Kaas",
     "variant": "200 g",
@@ -1879,7 +1879,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 55,
-    "name": "Geraspte grana padano",
+    "name": "Geraspte Grana Padano",
     "brand": "Agriform",
     "category": "Kaas",
     "variant": "100 g",
@@ -1902,7 +1902,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 56,
-    "name": "Grana padano",
+    "name": "Grana Padano",
     "brand": "Agriform",
     "category": "Kaas",
     "variant": "200 g",
@@ -1939,7 +1939,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 29,
-    "name": "Royal camembert",
+    "name": "Royal Camembert",
     "brand": "Ermitage",
     "category": "Kaas",
     "variant": "250 g",
@@ -1979,7 +1979,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 30,
-    "name": "Royal romige zachte kaas",
+    "name": "Royal Romige Zachte Kaas",
     "brand": "Ermitage",
     "category": "Kaas",
     "variant": "250 g",
@@ -2019,7 +2019,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 35,
-    "name": "Carré de l’Est zachte kaas",
+    "name": "Carré de L’Est Zachte Kaas",
     "brand": "Ermitage",
     "category": "Kaas",
     "variant": "230 g",
@@ -2044,7 +2044,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 36,
-    "name": "Fleur des Sources romige zachte kaas",
+    "name": "Fleur Des Sources Romige Zachte Kaas",
     "brand": "Ermitage",
     "category": "Kaas",
     "variant": "200 g",
@@ -2119,7 +2119,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 33,
-    "name": "Camembert in porties",
+    "name": "Camembert in Porties",
     "brand": "Grand Fermage",
     "category": "Kaas",
     "variant": "240 g",
@@ -2155,7 +2155,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 31,
-    "name": "Zachte kaas",
+    "name": "Zachte Kaas",
     "brand": "Fromage des Ducs",
     "category": "Kaas",
     "variant": "220 g",
@@ -2228,7 +2228,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 46,
-    "name": "Smeerbare geitenkaas",
+    "name": "Smeerbare Geitenkaas",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "150 g",
@@ -2251,7 +2251,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 77,
-    "name": "Opgeklopte geitenkaas naturel 13% vet",
+    "name": "Opgeklopte Geitenkaas Naturel 13% Vet",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "",
@@ -2290,7 +2290,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 41,
-    "name": "Gerijpte geitenkaasrol",
+    "name": "Gerijpte Geitenkaasrol",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "180 g",
@@ -2329,7 +2329,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 42,
-    "name": "Minigeitenkaasrol naturel",
+    "name": "Minigeitenkaasrol Naturel",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "125 g",
@@ -2352,7 +2352,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 43,
-    "name": "Minigeitenkaasrol met knoflook en kruiden",
+    "name": "Minigeitenkaasrol met Knoflook en Kruiden",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "125 g",
@@ -2375,7 +2375,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 44,
-    "name": "Geitenkaaspiramide naturel",
+    "name": "Geitenkaaspiramide Naturel",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "140 g",
@@ -2398,7 +2398,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 45,
-    "name": "Geitenkaaspiramide met knoflook en kruiden",
+    "name": "Geitenkaaspiramide met Knoflook en Kruiden",
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "150 g",
@@ -2431,7 +2431,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 48,
-    "name": "Salad’Aperos schapenkaas",
+    "name": "Salad’Aperos Schapenkaas",
     "brand": "Gabriel Coulet",
     "category": "Kaas",
     "variant": "200 g",
@@ -2474,7 +2474,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 78,
-    "name": "Salad’Aperos schapenkaasblokjes",
+    "name": "Salad’Aperos Schapenkaasblokjes",
     "brand": "Gabriel Coulet",
     "category": "Kaas",
     "variant": "150 g",
@@ -2554,7 +2554,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 47,
-    "name": "Kaasblokjes voor salade",
+    "name": "Kaasblokjes voor Salade",
     "brand": "Brebiac",
     "category": "Kaas",
     "variant": "150 g",
@@ -2577,7 +2577,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 75,
-    "name": "Bulgaarse kaasblokjes in olie met kruiden",
+    "name": "Bulgaarse Kaasblokjes in Olie met Kruiden",
     "brand": "Kolios",
     "category": "Kaas",
     "variant": "325 g",
@@ -2701,7 +2701,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 57,
-    "name": "Ongezouten roomboter",
+    "name": "Ongezouten Roomboter",
     "brand": "Le Gall",
     "category": "Boter en margarine",
     "variant": "250 g",
@@ -2741,7 +2741,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 58,
-    "name": "Margarine voor koken",
+    "name": "Margarine voor Koken",
     "brand": "Arcy",
     "category": "Boter en margarine",
     "variant": "500 g",
@@ -2780,7 +2780,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 59,
-    "name": "Margarine voor gebak",
+    "name": "Margarine voor Gebak",
     "brand": "Arcy",
     "category": "Boter en margarine",
     "variant": "500 g",
@@ -2819,7 +2819,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 76,
-    "name": "Ongezouten margarine",
+    "name": "Ongezouten Margarine",
     "brand": "Migdal",
     "category": "Boter en margarine",
     "variant": "453 g · 4 sticks",
@@ -2865,7 +2865,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 60,
-    "name": "Ravioli tomaat en mozzarella",
+    "name": "Ravioli Tomaat en Mozzarella",
     "brand": "Ravioli",
     "category": "Pasta",
     "variant": "250 g",
@@ -2887,7 +2887,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 61,
-    "name": "Ravioli spinazie en ricotta",
+    "name": "Ravioli Spinazie en Ricotta",
     "brand": "Ravioli",
     "category": "Pasta",
     "variant": "250 g",
@@ -2909,7 +2909,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 62,
-    "name": "Ravioli eekhoorntjesbrood en zwarte truffel",
+    "name": "Ravioli Eekhoorntjesbrood en Zwarte Truffel",
     "brand": "Ravioli",
     "category": "Pasta",
     "variant": "250 g",

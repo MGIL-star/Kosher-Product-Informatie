@@ -186,7 +186,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
-    "name": "Kip karbonade",
+    "name": "Kip Karbonade",
     "brand": "Kosher Poultry",
     "category": "Kip",
     "variant": "",
@@ -200,7 +200,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
-    "name": "Kip gehakt",
+    "name": "Kip Gehakt",
     "brand": "Kosher Poultry",
     "category": "Kip",
     "variant": "",
@@ -214,7 +214,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
-    "name": "Kip schnitzels gesneden",
+    "name": "Kip Schnitzels Gesneden",
     "brand": "Kosher Poultry",
     "category": "Kip",
     "variant": "",
@@ -242,7 +242,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
-    "name": "Hele kip",
+    "name": "Hele Kip",
     "brand": "Kosher Poultry",
     "category": "Kip",
     "variant": "",

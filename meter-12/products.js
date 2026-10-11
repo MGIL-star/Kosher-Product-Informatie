@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Carmit Nature",
-    "name": "Granola repen met noten en cranberry",
+    "name": "Granola Repen met Noten en Cranberry",
     "category": "Repen",
     "variant": "150 g (5 × 30 g)",
     "ean": "850047456717",
@@ -50,7 +50,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "brand": "Carmit Nature",
-    "name": "Granola repen met pecantaartsmaak",
+    "name": "Granola Repen met Pecantaartsmaak",
     "category": "Repen",
     "variant": "150 g (5 × 30 g)",
     "ean": "850047456694",
@@ -97,7 +97,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 2,
     "brand": "Carmit Nature",
-    "name": "Granola repen met kokos en cashewnoten",
+    "name": "Granola Repen met Kokos en Cashewnoten",
     "category": "Repen",
     "variant": "150 g (5 × 30 g)",
     "ean": "850047456700",
@@ -145,7 +145,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 4,
     "brand": "Carmit Nature",
-    "name": "Granola repen met tahin en amandelen",
+    "name": "Granola Repen met Tahin en Amandelen",
     "category": "Repen",
     "variant": "150 g (5 × 30 g)",
     "ean": "850047456724",
@@ -192,7 +192,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 5,
     "brand": "Carmit Nature",
-    "name": "Krokante granola met chocolade en hazelnoten",
+    "name": "Krokante Granola met Chocolade en Hazelnoten",
     "category": "Granola",
     "variant": "300 g",
     "ean": "850047456755",
@@ -239,7 +239,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "brand": "Carmit Nature",
-    "name": "Krokante granola met banaan en pecannoten",
+    "name": "Krokante Granola met Banaan en Pecannoten",
     "category": "Granola",
     "variant": "300 g",
     "ean": "850047456748",
@@ -286,7 +286,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 7,
     "brand": "Carmit Nature",
-    "name": "Krokante granola met cranberry en cashewnoten",
+    "name": "Krokante Granola met Cranberry en Cashewnoten",
     "category": "Granola",
     "variant": "300 g",
     "ean": "850047456762",
@@ -378,7 +378,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 9,
     "brand": "Shneider’s",
-    "name": "Mix voor banketbakkersroom",
+    "name": "Mix voor Banketbakkersroom",
     "category": "Bakmixen & desserts",
     "variant": "240 g (2 × 120 g)",
     "ean": "194961004525",
@@ -467,7 +467,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "brand": "Shneider’s",
-    "name": "Mix voor roomdessert met karamellaag",
+    "name": "Mix voor Roomdessert met Karamellaag",
     "category": "Bakmixen & desserts",
     "variant": "105 g",
     "ean": "194961004518",
@@ -511,7 +511,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "brand": "Osem",
-    "name": "Instantpudding met vanillesmaak",
+    "name": "Instantpudding met Vanillesmaak",
     "category": "Bakmixen & desserts",
     "variant": "80 g",
     "ean": "077544361003",
@@ -553,7 +553,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 13,
     "brand": "Osem",
-    "name": "Instantpudding met Franse vanillesmaak",
+    "name": "Instantpudding met Franse Vanillesmaak",
     "category": "Bakmixen & desserts",
     "variant": "80 g",
     "ean": "7290104501661",
@@ -595,7 +595,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 14,
     "brand": "Osem",
-    "name": "Instantpudding met chocoladesmaak",
+    "name": "Instantpudding met Chocoladesmaak",
     "category": "Bakmixen & desserts",
     "variant": "95 g",
     "ean": "077544003958",
@@ -638,7 +638,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Osem",
-    "name": "Geleipudding met aardbeiensmaak",
+    "name": "Geleipudding met Aardbeiensmaak",
     "category": "Bakmixen & desserts",
     "variant": "90 g",
     "ean": "077544490000",
@@ -690,7 +690,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 16,
     "brand": "Osem",
-    "name": "Instantpudding met melkkaramelsmaak",
+    "name": "Instantpudding met Melkkaramelsmaak",
     "category": "Bakmixen & desserts",
     "variant": "84 g",
     "ean": "7290100681015",
@@ -732,7 +732,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "brand": "The Date Bar",
-    "name": "Dadelreep cashew & cranberry",
+    "name": "Dadelreep Cashew & Cranberry",
     "category": "Repen",
     "variant": "37 g",
     "ean": "890867000448",
@@ -778,7 +778,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "brand": "The Date Bar",
-    "name": "Dadelreep walnoot",
+    "name": "Dadelreep Walnoot",
     "category": "Repen",
     "variant": "37 g",
     "ean": "890867000431",
@@ -824,7 +824,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "brand": "The Date Bar",
-    "name": "Dadelreep banaan & walnoot",
+    "name": "Dadelreep Banaan & Walnoot",
     "category": "Repen",
     "variant": "37 g",
     "ean": "890867000592",
@@ -868,7 +868,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "The Date Bar",
-    "name": "Dadelreep kokos & hazelnoot",
+    "name": "Dadelreep Kokos & Hazelnoot",
     "category": "Repen",
     "variant": "37 g",
     "ean": "890867000455",
@@ -912,7 +912,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "brand": "The Date Bar",
-    "name": "Dadelreep pinda",
+    "name": "Dadelreep Pinda",
     "category": "Repen",
     "variant": "37 g",
     "ean": "890867000424",
@@ -957,7 +957,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Bar Bary",
-    "name": "Dadelhapjes met amandel, kokos en ananassmaak",
+    "name": "Dadelhapjes met Amandel, Kokos en Ananassmaak",
     "category": "Dadelbites",
     "variant": "55 g",
     "ean": "890867000653",
@@ -1004,8 +1004,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 23,
     "brand": "Bar Bary",
-    "name": "Dadelhapjes met pecannoten, hazelnoten en bessensmaak",
-    "shortName": "Dadelhapjes pecan, hazelnoot & bessen",
+    "name": "Dadelhapjes met Pecannoten, Hazelnoten en Bessensmaak",
+    "shortName": "Dadelhapjes Pecan, Hazelnoot & Bessen",
     "category": "Dadelbites",
     "variant": "55 g",
     "ean": "890867000639",
@@ -1052,7 +1052,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 24,
     "brand": "Bar Bary",
-    "name": "Dadelhapjes met cashewnoten en pistachenoten",
+    "name": "Dadelhapjes met Cashewnoten en Pistachenoten",
     "category": "Dadelbites",
     "variant": "55 g",
     "ean": "890867000622",
@@ -1113,7 +1113,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 25,
     "brand": "Bar Bary",
-    "name": "Dadelhapjes met walnoten en banaan",
+    "name": "Dadelhapjes met Walnoten en Banaan",
     "category": "Dadelbites",
     "variant": "55 g",
     "ean": "890867000646",
@@ -1159,7 +1159,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 26,
     "brand": "Schmerling’s",
-    "name": "Witte chocolade zonder toegevoegde suiker",
+    "name": "Witte Chocolade zonder Toegevoegde Suiker",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "011835212001",
@@ -1204,7 +1204,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 27,
     "brand": "Schmerling’s",
-    "name": "Witte chocolade met pralinévulling",
+    "name": "Witte Chocolade met Pralinévulling",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643070248",
@@ -1250,7 +1250,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 28,
     "brand": "Schmerling’s",
-    "name": "Chocolade met koffiepralinévulling",
+    "name": "Chocolade met Koffiepralinévulling",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643051445",
@@ -1297,7 +1297,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 29,
     "brand": "Schmerling’s",
-    "name": "Chocolade met nougat-pralinévulling",
+    "name": "Chocolade met Nougat-pralinévulling",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643084047",
@@ -1343,7 +1343,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 30,
     "brand": "Schmerling’s",
-    "name": "Witte chocolade met koffie",
+    "name": "Witte Chocolade met Koffie",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643070446",
@@ -1388,7 +1388,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 63,
     "brand": "Schmerling’s",
-    "name": "Pure chocolade met sinaasappel en amandelen",
+    "name": "Pure Chocolade met Sinaasappel en Amandelen",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643070057",
@@ -1429,7 +1429,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 31,
     "brand": "Schmerling’s",
-    "name": "Witte chocolade met amandelen",
+    "name": "Witte Chocolade met Amandelen",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643070040",
@@ -1473,7 +1473,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "brand": "Schmerling’s",
-    "name": "Witte chocolade",
+    "name": "Witte Chocolade",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643070149",
@@ -1516,7 +1516,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 33,
     "brand": "Schmerling’s",
-    "name": "Zwitserse melkchocolade",
+    "name": "Zwitserse Melkchocolade",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643069549",
@@ -1559,7 +1559,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 34,
     "brand": "Schmerling’s",
-    "name": "Pure chocolade met 72% cacao",
+    "name": "Pure Chocolade met 72% Cacao",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643044546",
@@ -1601,7 +1601,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 35,
     "brand": "Schmerling’s",
-    "name": "Extra pure chocolade met 85% cacao",
+    "name": "Extra Pure Chocolade met 85% Cacao",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643044553",
@@ -1643,7 +1643,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 36,
     "brand": "Elite",
-    "name": "Witte karamelchocolade met roomvulling",
+    "name": "Witte Karamelchocolade met Roomvulling",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290112332158",
@@ -1691,7 +1691,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 37,
     "brand": "Elite",
-    "name": "Witte karamelchocolade met hazelnootcrème",
+    "name": "Witte Karamelchocolade met Hazelnootcrème",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290110564353",
@@ -1738,7 +1738,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 38,
     "brand": "Elite",
-    "name": "Melkchocolade met nougatcrème",
+    "name": "Melkchocolade met Nougatcrème",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290104724718",
@@ -1785,7 +1785,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 39,
     "brand": "Elite",
-    "name": "Melkchocolade met melkcrème",
+    "name": "Melkchocolade met Melkcrème",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290003903955",
@@ -1846,7 +1846,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 40,
     "brand": "Elite",
-    "name": "Witte chocolade met glutenvrije cacaokoekjes",
+    "name": "Witte Chocolade met Glutenvrije Cacaokoekjes",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290119382576",
@@ -1889,7 +1889,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 41,
     "brand": "Elite",
-    "name": "Wafelreep met melkchocolade en hazelnootcrème",
+    "name": "Wafelreep met Melkchocolade en Hazelnootcrème",
     "category": "Chocoladerepen",
     "variant": "45 g",
     "ean": "815871010146",
@@ -1934,8 +1934,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 42,
     "brand": "Elite",
-    "name": "Grote wafelreep met melkchocolade en hazelnootcrème",
-    "shortName": "Grote wafelreep melkchocolade & hazelnoot",
+    "name": "Grote Wafelreep met Melkchocolade en Hazelnootcrème",
+    "shortName": "Grote Wafelreep Melkchocolade & Hazelnoot",
     "category": "Chocoladerepen",
     "variant": "52 g",
     "ean": "815871010184",
@@ -1982,7 +1982,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 43,
     "brand": "Elite",
-    "name": "Chocoladereep met karamel en gepofte rijst",
+    "name": "Chocoladereep met Karamel en Gepofte Rijst",
     "category": "Chocoladerepen",
     "variant": "40 g",
     "ean": "72917367",
@@ -2073,7 +2073,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 45,
     "brand": "Elite",
-    "name": "Melkchocolade met biscuit en hazelnootcrème",
+    "name": "Melkchocolade met Biscuit en Hazelnootcrème",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290119384068",
@@ -2132,7 +2132,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 46,
     "brand": "WOW",
-    "name": "Graanbolletjes met melkchocolade",
+    "name": "Graanbolletjes met Melkchocolade",
     "category": "Chocoladesnacks",
     "variant": "50 g",
     "ean": "7290019779315",
@@ -2177,7 +2177,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 47,
     "brand": "WOW",
-    "name": "Cornflakes met melkchocolade",
+    "name": "Cornflakes met Melkchocolade",
     "category": "Chocoladesnacks",
     "variant": "50 g",
     "ean": "7290019779278",
@@ -2222,7 +2222,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 48,
     "brand": "WOW",
-    "name": "Koekjes met melkchocolade",
+    "name": "Koekjes met Melkchocolade",
     "category": "Chocoladesnacks",
     "variant": "50 g",
     "ean": "7290019779292",
@@ -2268,7 +2268,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 49,
     "brand": "WOW",
-    "name": "Graanbolletjes met melk- en witte chocolade",
+    "name": "Graanbolletjes met Melk- en Witte Chocolade",
     "category": "Chocoladesnacks",
     "variant": "50 g",
     "ean": "7290019779322",
@@ -2313,7 +2313,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 50,
     "brand": "WOW",
-    "name": "Wafelrolletjes met notencrème en melkchocolade",
+    "name": "Wafelrolletjes met Notencrème en Melkchocolade",
     "category": "Chocoladesnacks",
     "variant": "50 g",
     "ean": "7290019779285",
@@ -2362,7 +2362,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 60,
     "brand": "Gross & Co",
-    "name": "Pure chocoladevierkantjes met muntvulling",
+    "name": "Pure Chocoladevierkantjes met Muntvulling",
     "category": "Chocoladesnacks",
     "variant": "200 g",
     "ean": "712963003744",
@@ -2417,8 +2417,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 61,
     "brand": "Gross & Co",
-    "name": "Pure chocoladevierkantjes met sinaasappel- en muntvulling",
-    "shortName": "Pure chocolade sinaasappel & munt",
+    "name": "Pure Chocoladevierkantjes met Sinaasappel- en Muntvulling",
+    "shortName": "Pure Chocolade Sinaasappel & Munt",
     "category": "Chocoladesnacks",
     "variant": "200 g",
     "ean": "712963003751",
@@ -2473,7 +2473,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 62,
     "brand": "Gross & Co",
-    "name": "Pure chocoladevierkantjes met frambozenvulling",
+    "name": "Pure Chocoladevierkantjes met Frambozenvulling",
     "category": "Chocoladesnacks",
     "variant": "200 g",
     "ean": "712963004932",
@@ -2569,7 +2569,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 52,
     "brand": "Alprose",
-    "name": "Zwitserse pure bakchocolade",
+    "name": "Zwitserse Pure Bakchocolade",
     "category": "Bakingrediënten",
     "variant": "300 g",
     "ean": "712963000286",
@@ -2612,7 +2612,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 53,
     "brand": "Elisha",
-    "name": "Marsepein 50/50 met chocolade",
+    "name": "Marsepein 50/50 met Chocolade",
     "category": "Marsepein",
     "variant": "40 g",
     "ean": "5425000532026",
@@ -2668,7 +2668,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 54,
     "brand": "Elisha",
-    "name": "Marsepein 50/50 naturel",
+    "name": "Marsepein 50/50 Naturel",
     "category": "Marsepein",
     "variant": "40 g",
     "ean": "5425000533344",
@@ -2711,7 +2711,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 55,
     "brand": "Shneider’s",
-    "name": "Plantaardige kloproom",
+    "name": "Plantaardige Kloproom",
     "category": "Room & mascarpone",
     "variant": "1 L",
     "ean": "194961000923",
@@ -2755,7 +2755,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 56,
     "brand": "Shneider’s",
-    "name": "Plantaardige spuitroom",
+    "name": "Plantaardige Spuitroom",
     "category": "Room & mascarpone",
     "variant": "250 g",
     "ean": "194961000930",
@@ -2841,7 +2841,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 58,
     "brand": "Shneider’s",
-    "name": "Chocoladefondue puur 56% cacao",
+    "name": "Chocoladefondue Puur 56% Cacao",
     "category": "Bakingrediënten",
     "variant": "300 g",
     "ean": "194961005003",
@@ -2884,7 +2884,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 59,
     "brand": "Shneider’s",
-    "name": "Chocoladefondue melk",
+    "name": "Chocoladefondue Melk",
     "category": "Bakingrediënten",
     "variant": "300 g",
     "ean": "194961005072",
