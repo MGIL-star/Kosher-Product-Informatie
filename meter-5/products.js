@@ -281,9 +281,9 @@ window.KPI_PRODUCTS = [
     "image": "images/8-online.jpg",
     "productInfo": {
       "Bewaren": "Koel en donker bewaren, buiten direct zonlicht. Na opening gekoeld bewaren.",
-      "Gebruik": "Schudden voor gebruik.",
-      "Let op": "Kan pitten van de vruchten bevatten."
+      "Gebruik": "Schudden voor gebruik."
     },
+    "warning": "Kan pitten van de vruchten bevatten.",
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "storage": "Koel en donker bewaren, buiten direct zonlicht. Na opening gekoeld bewaren.",
