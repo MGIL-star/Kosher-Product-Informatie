@@ -362,7 +362,8 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "barcodeSource": "Gebruiker bevestigt op 9 oktober 2026 barcode 0811962010255 voor Berry Mix / Bessenmix Fruitpasta.",
     "barcodeChecked": "2026-10-09",
-    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de beschikbare volledige ingrediëntenlijst volgens leveranciersinformatie. Geen bevestiging dat het product vrij is van allergenen of sporen."
+    "allergenSource": "Geen declaratieplichtige allergenen vermeld in de beschikbare volledige ingrediëntenlijst volgens leveranciersinformatie. Geen bevestiging dat het product vrij is van allergenen of sporen.",
+    "warning": "Kan deeltjes van pitten bevatten."
   },
   {
     "id": 57,
