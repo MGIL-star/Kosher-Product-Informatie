@@ -279,9 +279,7 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan soja, sesam en tarwe (gluten) bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "barcodeNeedsCheck": false,
-    "productInfo": {
-      "Verpakking": "Pot met groen deksel"
-    },
+    "productInfo": {},
     "id": 7,
     "category": "Soep en bouillon",
     "image": "images/product-7-edited.png",
