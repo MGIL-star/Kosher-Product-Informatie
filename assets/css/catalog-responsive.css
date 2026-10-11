@@ -123,11 +123,6 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
   color: var(--danger, #a43b2e);
 }
 
-/* Ingredient allergens mirror the red used in the separate allergen section. */
-.dialog-product .ingredient-allergen {
-  color: var(--danger, #a43b2e);
-}
-
 /* Consistent punctuation with a small gap after each section heading. */
 .dialog-product > section > h3::after {
   content: ":";

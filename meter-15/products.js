@@ -241,7 +241,7 @@ window.KPI_PRODUCTS = [
     "ean": "5941868200087",
     "ingredients": "Maïszetmeel (90%), palmolie, zout (0,6%).",
     "allergens": [],
-    "mayContain": "Kan glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten bevatten.",
+    "mayContain": "Kan glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), sulfieten bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/gusto-85g-selected.png",
     "sourcePhotos": [
@@ -272,7 +272,7 @@ window.KPI_PRODUCTS = [
     "ean": "5941868203248",
     "ingredients": "Maïszetmeel (90%), palmolie, zout (0,6%).",
     "allergens": [],
-    "mayContain": "Kan glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten bevatten.",
+    "mayContain": "Kan glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), sulfieten bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/gusto-45g-foodplus.png",
     "sourcePhotos": [

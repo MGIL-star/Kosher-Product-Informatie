@@ -579,7 +579,7 @@ window.KPI_PRODUCTS = [
       25,
       26
     ],
-    "ingredients": "Glucosestroop, verrijkt TARWEmeel (bloem, niacine, ijzersulfaat, thiaminemononitraat, riboflavine, foliumzuur), suiker, maïszetmeel; bevat 2% of minder van: palmolie, zout, natuurlijke en kunstmatige aroma’s, glycerol, citroenzuur, kaliumsorbaat (conserveermiddel), kleurstof E129, ZWAVELDIOXIDE (om de versheid te behouden), minerale olie, SOJAlecithine.",
+    "ingredients": "Glucosestroop, verrijkt TARWEmeel (bloem, niacine, ijzersulfaat, thiaminemononitraat, riboflavine, foliumzuur), suiker, maïszetmeel; bevat 2% of minder van: palmolie, zout, natuurlijke en kunstmatige aroma’s, glycerol, citroenzuur, kaliumsorbaat (conserveermiddel), kleurstof E129, sulfieten (om de versheid te behouden), minerale olie, SOJAlecithine.",
     "allergens": [
       "TARWE (GLUTEN)",
       "SOJA",

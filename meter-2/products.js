@@ -74,7 +74,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Zwaveldioxide en sorbinezuur.",
+    "ingredients": "sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Zwaveldioxide en sorbinezuur.",
+    "ingredients": "sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -189,7 +189,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sauvignon Blanc & zwaveldioxide (sulfieten).",
+    "ingredients": "Sauvignon Blanc & sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -285,7 +285,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Zwaveldioxide en sorbinezuur.",
+    "ingredients": "sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -343,7 +343,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Zwaveldioxide en sorbinezuur.",
+    "ingredients": "sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -405,7 +405,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rosé",
     "variant": "750 ml · 11%",
-    "ingredients": "Zwaveldioxide en sorbinezuur.",
+    "ingredients": "sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -527,7 +527,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "year": null,
     "volume": "750 ml",
-    "ingredients": "Zwaveldioxide (sulfieten).",
+    "ingredients": "sulfieten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 30,
@@ -550,7 +550,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
     ],
-    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
     "imageFrame": {
       "x": 0.324,
       "y": 0.014,
@@ -781,7 +781,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Zwaveldioxide (sulfieten).",
+    "ingredients": "sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -849,7 +849,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "year": null,
     "volume": "750 ml",
-    "ingredients": "Zwaveldioxide (sulfieten).",
+    "ingredients": "sulfieten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 29,
@@ -874,7 +874,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "codex-clipboard-be09ec82-5612-491c-8c82-a525bfb744ef.png"
     ],
-    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten/zwaveldioxide vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
     "sources": [
       {
         "label": "Israëlwinkel — productvermelding",
@@ -1134,7 +1134,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, wijn, conserveermiddel: zwaveldioxide (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.",
+    "ingredients": "Druiven, wijn, conserveermiddel: sulfieten (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.",
     "allergens": [
       "SULFIETEN"
     ],

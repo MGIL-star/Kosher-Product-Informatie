@@ -642,7 +642,7 @@ window.KPI_PRODUCTS = [
     "category": "Bakmixen & desserts",
     "variant": "90 g",
     "ean": "077544490000",
-    "ingredients": "Suiker, geleermiddel (E407), voedingszuren (E355, E297, E330), zuurteregelaars (E331, E263), maltodextrine, kleurstoffen (zwartewortelextract, kurkuma-extract), aroma’s, conserveermiddel (zwaveldioxide).",
+    "ingredients": "Suiker, geleermiddel (E407), voedingszuren (E355, E297, E330), zuurteregelaars (E331, E263), maltodextrine, kleurstoffen (zwartewortelextract, kurkuma-extract), aroma’s, conserveermiddel (sulfieten).",
     "allergens": [
       "Sulfieten"
     ],
