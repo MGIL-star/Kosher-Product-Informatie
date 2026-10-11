@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "brand": "Neviot",
-    "name": "Mineraalwaterdrank met appelsmaak",
+    "name": "Mineraalwaterdrank met Appelsmaak",
     "category": "Water met smaak",
     "variant": "1,5 L",
     "ean": "850335003128",
@@ -43,7 +43,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 4,
     "brand": "Neviot",
-    "name": "Mineraalwaterdrank met druivensmaak",
+    "name": "Mineraalwaterdrank met Druivensmaak",
     "category": "Water met smaak",
     "variant": "1,5 L",
     "ean": "850335003159",
@@ -83,7 +83,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "brand": "Neviot",
-    "name": "Mineraalwaterdrank met perziksmaak",
+    "name": "Mineraalwaterdrank met Perziksmaak",
     "category": "Water met smaak",
     "variant": "1,5 L",
     "ean": "850335003111",
@@ -123,7 +123,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "brand": "Elisha",
-    "name": "Helder appelsap",
+    "name": "Helder Appelsap",
     "category": "Vruchtensap",
     "variant": "1 L",
     "ean": "5425000532460",
@@ -163,7 +163,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "brand": "Elisha",
-    "name": "Troebel appelsap",
+    "name": "Troebel Appelsap",
     "category": "Vruchtensap",
     "variant": "1 L",
     "ean": "5425000532019",
@@ -243,7 +243,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "brand": "Elisha",
-    "name": "Wit druivensap",
+    "name": "Wit Druivensap",
     "category": "Vruchtensap",
     "variant": "1 L",
     "ean": "5425000533467",
@@ -282,7 +282,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "brand": "Elisha",
-    "name": "Rood druivensap",
+    "name": "Rood Druivensap",
     "category": "Vruchtensap",
     "variant": "1 L",
     "ean": "5425000533894",

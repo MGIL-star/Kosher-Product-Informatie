@@ -703,7 +703,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "brand": "Haddar",
-    "name": "Topping Zonder Zuivel",
+    "name": "Topping zonder Zuivel",
     "englishName": "",
     "variant": "453 g",
     "category": "Desserts",

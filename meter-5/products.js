@@ -1181,7 +1181,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 44,
     "brand": "",
-    "name": "Gefilte Fish Zonder Toegevoegde Suiker",
+    "name": "Gefilte Fish zonder Toegevoegde Suiker",
     "variant": "510 g · 4 stuks",
     "ean": "7290002475101",
     "ingredients": "Water, karper (15,3%), zilverkarper (15,3%), gedroogde uistukjes, aardappelzetmeel, wortel (1,6%), zout, aardappelvlokken, gedroogd ei, specerijen, stabilisator: E407, zoetstof: sucralose. De percentages zijn inclusief bouillon.",

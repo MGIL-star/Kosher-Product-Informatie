@@ -764,7 +764,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 11,
-    "name": "Droge witte wijn",
+    "name": "Droge Witte Wijn",
     "brand": "Segal",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
@@ -1230,7 +1230,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 25,
-    "name": "Classic Cabernet Sauvignon mini",
+    "name": "Classic Cabernet Sauvignon Mini",
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "187 ml · 12,5%",
@@ -1292,7 +1292,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 24,
-    "name": "Droge rode wijn",
+    "name": "Droge Rode Wijn",
     "brand": "Segal",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
@@ -1848,7 +1848,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 28,
-    "name": "Tirosh druivensap",
+    "name": "Tirosh Druivensap",
     "brand": "Segal",
     "category": "Druivensap",
     "variant": "1 liter · Alcoholvrij",
