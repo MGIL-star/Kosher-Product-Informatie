@@ -7,19 +7,14 @@
   const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 
   window.KPI_emphasizeAllergens = function (value) {
-    let capitalizeNextWord = true;
     const ingredients = String(value).replace(/(tonijn(?:stukken|filets)?)\s*\(\s*vis\s*(?:[,;]\s*([^)]*)|\s*)\)/gi, (_, name, details) => name + (details ? ' (' + details.trim() + ')' : ''));
     return ingredients.replace(/\[/g, '(').replace(/\]/g, ')').replace(/;\s*/g, ', ').split(/([\p{L}]+(?:[’'][\p{L}]+)?(?:\d+[a-z]*)?)/u).map(part => {
-      if (!/^[\p{L}]/u.test(part)) {
-        if (/[.!?]\s*$/u.test(part)) capitalizeNextWord = true;
-        return escapeHtml(part);
-      }
+      if (!/^[\p{L}]/u.test(part)) return escapeHtml(part);
       const allergen = names.test(part) || compounds.test(part);
       // Keep additive and vitamin codes readable; normalize prose consistently.
       const code = /^(?:E\d+[a-z]*|B\d+|CMC|BHA|BHT|EDTA|TBHQ|MSG)$/i.test(part);
       let formatted = code ? part.toUpperCase() : part.toLocaleLowerCase('nl');
-      if (capitalizeNextWord && !code) formatted = formatted[0].toLocaleUpperCase('nl') + formatted.slice(1);
-      capitalizeNextWord = false;
+      if (!code) formatted = formatted[0].toLocaleUpperCase('nl') + formatted.slice(1);
       const safe = escapeHtml(formatted);
       return allergen ? `<strong class="ingredient-allergen">${safe}</strong>` : safe;
     }).join('');
