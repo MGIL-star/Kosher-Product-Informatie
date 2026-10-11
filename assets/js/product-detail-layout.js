@@ -38,9 +38,9 @@
       line.classList.add('notranslate');
       line.setAttribute('translate', 'no');
       line.replaceChildren();
-      names.forEach((text, index) => {
+      names.map(text => window.KPI_formatHechsher(text)).sort((a, b) => b.length - a.length).forEach((text, index) => {
         if (index) line.append(document.createElement('br'));
-        line.append(document.createTextNode(window.KPI_formatHechsher(text)));
+        line.append(document.createTextNode(text));
       });
     }
     const meter = (String(product.meter || window.location.pathname).match(/(?:^|\/)(meter-\d+)(?:[^/]*)(?:\/|$)/) || [])[1];
