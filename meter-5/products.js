@@ -825,12 +825,9 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/29.png",
-    "productInfo": {
-      "Bewaren": "Na openen gekoeld bewaren."
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "storage": "Na openen gekoeld bewaren.",
     "sources": [
       "https://www.kineret-agro.com/_files/ugd/d13362_199a30d72f444c318898f8ead190e051.pdf"
     ],
@@ -975,13 +972,11 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/33-clean.png",
     "productInfo": {
-      "Bewaren": "Na openen gekoeld bewaren en binnen 15 dagen gebruiken.",
       "Uitlekgewicht": "55 g",
       "Netto inhoud": "100 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "storage": "Na openen gekoeld bewaren en binnen 15 dagen gebruiken.",
     "sources": [
       "https://moulin-ville.fr/pdf/moulinvillekosher-importateurgrossistealimentation-catalogue-2022.pdf"
     ],
@@ -1014,12 +1009,9 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/34-straight.png",
-    "productInfo": {
-      "Bewaren": "Na openen gekoeld bewaren en binnen 48 uur gebruiken."
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "storage": "Na openen gekoeld bewaren en binnen 48 uur gebruiken.",
     "sources": [],
     "imageEdited": true,
     "imageBounds": [
@@ -1119,7 +1111,7 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/36-straight.png",
     "productInfo": {
-      "Bewaren": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren."
+      "Bewaren": "Op kamertemperatuur en droog bewaren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -1134,7 +1126,7 @@ window.KPI_PRODUCTS = [
       0.9789,
       0.957
     ],
-    "storage": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren.",
+    "storage": "Op kamertemperatuur en droog bewaren.",
     "kosherSource": "Etiketfoto gebruiker: f17fee26-999a-4109-bc0c-88ac6442dd51.jpg",
     "kosherChecked": "2026-10-09",
     "labelSources": [

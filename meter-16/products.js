@@ -846,9 +846,7 @@ window.KPI_PRODUCTS = [
       0.99
     ],
     "englishName": "Chocolate Flavored Syrup",
-    "productInfo": {
-      "Bewaaradvies": "Na openen gekoeld bewaren."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
@@ -894,9 +892,7 @@ window.KPI_PRODUCTS = [
       0.925
     ],
     "englishName": "Strawberry Flavored Syrup",
-    "productInfo": {
-      "Bewaaradvies": "Na openen gekoeld bewaren."
-    },
+    "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
@@ -945,7 +941,6 @@ window.KPI_PRODUCTS = [
     "imageOriginal": "images/product-19.jpg",
     "imageRetouched": true,
     "productInfo": {
-      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
       "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
@@ -1350,7 +1345,7 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Sweet & Sour Duck Sauce",
     "productInfo": {
-      "Bewaaradvies": "Koel en donker bewaren. Na openen gekoeld bewaren."
+      "Bewaaradvies": "Koel en donker bewaren."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1446,7 +1441,6 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Tomato Basil Marinara Pasta Sauce",
     "productInfo": {
-      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
       "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
@@ -1496,7 +1490,6 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Classic Marinara Pasta Sauce",
     "productInfo": {
-      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
       "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
@@ -1546,7 +1539,6 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Original Pizza Sauce",
     "productInfo": {
-      "Bewaaradvies": "Direct na openen gekoeld bewaren.",
       "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
