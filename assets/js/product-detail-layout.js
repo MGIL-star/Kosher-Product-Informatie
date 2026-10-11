@@ -1,5 +1,19 @@
 (function () {
   'use strict';
+  // Display only supplied places/statuses, separated consistently from the name.
+  window.KPI_formatHechsher = function (value) {
+    let text = String(value).trim()
+      .replace(/\b(?:Badatz\s+)?Cha(?:tam|sam) Sofer\b/gi, 'Badatz Chatam Sofer')
+      .replace(/\bBne[i ]*Brak\b/gi, 'Bnei Brak')
+      .replace(/\s*[,·]\s*/g, ' - ');
+    const status = [];
+    text = text.replace(/\s*(?:-\s*)?\((Parve|Chalav Yisrael|Zuivel)\)/gi, (_, name) => {
+      status.push(name); return '';
+    });
+    text = text.replace(/\s+(?:of\s+)?\(?(Bnei Brak|Jeruzalem|Jerusalem|Antwerpen|Londen|London|Parijs|Straatsburg|Genève|Amsterdam|Den Haag|Kiryat Gat|Kiryat Ata|Nof HaGalil|Petach Tikva|Zichron Yaakov|Mateh Asher|Matte Asher|Netanya|Sderot|Yavne|Haifa|Lod|Arava|Safed|Volendam|Yokneam|Nitra–Monsey|Monsey)\)?(?=\s*(?:$| - ))/g, ' - $1');
+    text = text.replace(/(?:\s*-\s*){2,}/g, ' - ').replace(/\s+-\s*$/, '').trim();
+    return [text, ...status.map(name => '(' + name + ')')].filter(Boolean).join(' - ');
+  };
   // DKW meter 1 defines the order for every product detail view.
   window.KPI_normalizeProductLayout = function (container, product = {}) {
     const root = container.querySelector('.dialog-product');
@@ -26,7 +40,7 @@
       line.replaceChildren();
       names.forEach((text, index) => {
         if (index) line.append(document.createElement('br'));
-        line.append(document.createTextNode(text.trim()));
+        line.append(document.createTextNode(window.KPI_formatHechsher(text)));
       });
     }
     const hiddenLabel = label => /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
