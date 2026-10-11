@@ -3484,7 +3484,8 @@ window.KPI_PRODUCTS = [
     "barcodeSource": {
       "label": "Fysieke verpakking, etiketfoto gebruiker — 11 oktober 2026",
       "url": "source-labels/20261011/bbff6d32-4f85-4ec5-8a46-0b1bdf9275fb.jpg"
-    }
+    },
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter."
   },
   {
     "id": 74,
@@ -3522,7 +3523,8 @@ window.KPI_PRODUCTS = [
       "width": 1,
       "height": 1,
       "aspectRatio": 0.62
-    }
+    },
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter."
   },
   {
     "id": 65,
@@ -3552,7 +3554,7 @@ window.KPI_PRODUCTS = [
       "height": 1,
       "aspectRatio": 0.39
     },
-    "warning": "Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter.",
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter.",
     "labelVerification": {
       "date": "2026-10-11",
       "photos": [
@@ -3601,7 +3603,7 @@ window.KPI_PRODUCTS = [
     },
     "ean": "706132200829",
     "imageEdited": true,
-    "warning": "Laat een brandende kaars nooit onbeheerd achter. Buiten bereik van kinderen houden.",
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter.",
     "labelVerification": {
       "date": "2026-10-11",
       "photos": [
@@ -3650,7 +3652,7 @@ window.KPI_PRODUCTS = [
       0.927
     ],
     "imageEdited": true,
-    "warning": "Laat een brandende kaars nooit onbeheerd achter. Buiten bereik van kinderen houden. Niet op of bij brandbare voorwerpen plaatsen. Gooi geen lucifers in de houder.",
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter. Niet op of bij brandbare voorwerpen plaatsen.",
     "labelVerification": {
       "date": "2026-10-11",
       "photos": [
@@ -3699,7 +3701,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.1639676113360324
     },
     "ean": "7290015759090",
-    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter.",
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter.",
     "labelVerification": {
       "date": "2026-10-11",
       "photos": [
@@ -3748,7 +3750,7 @@ window.KPI_PRODUCTS = [
       "label": "Fysieke verpakking, etiketfoto gebruiker — 11 oktober 2026",
       "url": "source-labels/20261011/b60d98cc-dbb1-4dc0-a13b-21c29ff51074.jpg"
     },
-    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Niet bij brandbare voorwerpen plaatsen.",
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter. Niet bij brandbare voorwerpen plaatsen.",
     "labelVerification": {
       "date": "2026-10-11",
       "photos": [
@@ -3788,7 +3790,7 @@ window.KPI_PRODUCTS = [
     },
     "sources": [],
     "ean": "7290002128083",
-    "warning": "Laat brandende kaarsen nooit onbeheerd achter. Niet op of bij brandbare voorwerpen plaatsen. Buiten bereik van kinderen houden.",
+    "warning": "Buiten bereik van kinderen houden. Laat een brandende kaars nooit onbeheerd achter. Laat geen voorwerpen, bijvoorbeeld lucifers, in de kaars achter. Niet op of bij brandbare voorwerpen plaatsen.",
     "labelVerification": {
       "date": "2026-10-11",
       "photos": [
