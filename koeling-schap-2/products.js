@@ -146,142 +146,6 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
-    "id": 1,
-    "name": "Yoghurt naturel",
-    "brand": "Shefa",
-    "category": "Yoghurt",
-    "variant": "125 g",
-    "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-naturel-125.webp?v=4b4efe52062b",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Volle roeryoghurt met een zachte, frisse smaak.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
-    },
-    "sources": [
-      "https://shefaco.be/youghurt/Natural",
-      "https://shefaco.be/about/kashrus"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Aardbeienyoghurt",
-    "brand": "Shefa",
-    "category": "Yoghurt",
-    "variant": "125 g",
-    "ean": "8711723932142",
-    "ingredients": "Volle MELK, yoghurtzuursel, suiker (10%), concentraat (wortel, zwarte bes en appel), aroma.",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-aardbei-125.webp?v=7540c83d4595",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Omschrijving": "Romige yoghurt met aardbei.",
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
-    },
-    "sources": [
-      "https://shefaco.be/all/Strawberry",
-      "https://shefaco.be/about/kashrus"
-    ],
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "ingredientsComplete": true,
-    "kosherLines": [
-      "Machsike Hadas Antwerpen",
-      "Chalav Yisrael"
-    ],
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "d351fae4-c566-45af-99f9-8510dac8c73f.jpg",
-        "029d03e2-cc31-4f16-9645-3e18d566bf42.jpg",
-        "a94c108e-ca3e-4cc1-851a-ca06be65405c.jpg"
-      ]
-    }
-  },
-  {
-    "id": 3,
-    "name": "Bosvruchtenyoghurt",
-    "brand": "Shefa",
-    "category": "Yoghurt",
-    "variant": "125 g",
-    "ean": "8711723932159",
-    "ingredients": "Volle MELK, yoghurtzuursel, suiker (10%), concentraat (wortel en hibiscus), aroma.",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-bosvruchten-125.webp?v=46682e0e265c",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Omschrijving": "Romige yoghurt met bosvruchten.",
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
-    },
-    "sources": [
-      "https://shefaco.be/all/ForestFruit",
-      "https://shefaco.be/about/kashrus"
-    ],
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "ingredientsComplete": true,
-    "kosherLines": [
-      "Machsike Hadas Antwerpen",
-      "Chalav Yisrael"
-    ],
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "5f1d52bb-3704-4794-bbf4-ebdba2d537ea.jpg",
-        "9d95431b-86cc-4866-8f48-02cde520caf4.jpg",
-        "0c8eab1e-05b4-4864-bc21-e9bf86eccc6b.jpg"
-      ]
-    }
-  },
-  {
-    "id": 4,
-    "name": "Tropische vruchtenyoghurt",
-    "brand": "Shefa",
-    "category": "Yoghurt",
-    "variant": "125 g",
-    "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-tropical-125.webp?v=9f0db00f3f64",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Romige yoghurt met tropische vruchten.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
-    },
-    "sources": [
-      "https://shefaco.be/all/Tropical",
-      "https://shefaco.be/about/kashrus"
-    ]
-  },
-  {
     "id": 11,
     "name": "Vanillevla",
     "brand": "Shefa",
@@ -352,6 +216,142 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 1,
+    "name": "Yoghurt naturel",
+    "brand": "Shefa",
+    "category": "Yoghurt",
+    "variant": "125 g",
+    "ean": "",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Machsike Hadas Antwerpen",
+    "image": "./images/shefa-naturel-125-deksel.png",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Volle roeryoghurt met een zachte, frisse smaak.",
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
+      "Zuivel": "Chalav Yisroel",
+      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+    },
+    "sources": [
+      "https://shefaco.be/youghurt/Natural",
+      "https://shefaco.be/about/kashrus"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aardbeienyoghurt",
+    "brand": "Shefa",
+    "category": "Yoghurt",
+    "variant": "125 g",
+    "ean": "8711723932142",
+    "ingredients": "Volle MELK, yoghurtzuursel, suiker (10%), concentraat (wortel, zwarte bes en appel), aroma.",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Machsike Hadas Antwerpen",
+    "image": "./images/shefa-aardbei-125-deksel.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Omschrijving": "Romige yoghurt met aardbei.",
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
+      "Zuivel": "Chalav Yisroel",
+      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+    },
+    "sources": [
+      "https://shefaco.be/all/Strawberry",
+      "https://shefaco.be/about/kashrus"
+    ],
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "ingredientsComplete": true,
+    "kosherLines": [
+      "Machsike Hadas Antwerpen",
+      "Chalav Yisrael"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "d351fae4-c566-45af-99f9-8510dac8c73f.jpg",
+        "029d03e2-cc31-4f16-9645-3e18d566bf42.jpg",
+        "a94c108e-ca3e-4cc1-851a-ca06be65405c.jpg"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bosvruchtenyoghurt",
+    "brand": "Shefa",
+    "category": "Yoghurt",
+    "variant": "125 g",
+    "ean": "8711723932159",
+    "ingredients": "Volle MELK, yoghurtzuursel, suiker (10%), concentraat (wortel en hibiscus), aroma.",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Machsike Hadas Antwerpen",
+    "image": "./images/shefa-bosvruchten-125-deksel.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Omschrijving": "Romige yoghurt met bosvruchten.",
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
+      "Zuivel": "Chalav Yisroel",
+      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+    },
+    "sources": [
+      "https://shefaco.be/all/ForestFruit",
+      "https://shefaco.be/about/kashrus"
+    ],
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "ingredientsComplete": true,
+    "kosherLines": [
+      "Machsike Hadas Antwerpen",
+      "Chalav Yisrael"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "5f1d52bb-3704-4794-bbf4-ebdba2d537ea.jpg",
+        "9d95431b-86cc-4866-8f48-02cde520caf4.jpg",
+        "0c8eab1e-05b4-4864-bc21-e9bf86eccc6b.jpg"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tropische vruchtenyoghurt",
+    "brand": "Shefa",
+    "category": "Yoghurt",
+    "variant": "125 g",
+    "ean": "",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Machsike Hadas Antwerpen",
+    "image": "./images/shefa-tropical-125-deksel.png",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Romige yoghurt met tropische vruchten.",
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
+      "Zuivel": "Chalav Yisroel",
+      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+    },
+    "sources": [
+      "https://shefaco.be/all/Tropical",
+      "https://shefaco.be/about/kashrus"
+    ]
+  },
+  {
     "id": 5,
     "name": "Vanillevla",
     "brand": "Shefa",
@@ -367,7 +367,7 @@ window.KPI_PRODUCTS = [
     ],
     "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-vanille-125.webp?v=3368abb90ede",
+    "image": "./images/shefa-vanille-125-deksel.png",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
@@ -396,7 +396,7 @@ window.KPI_PRODUCTS = [
     ],
     "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-chocolade-125.webp?v=cd59819aea4b",
+    "image": "./images/shefa-chocolade-125-deksel.png",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
@@ -408,6 +408,383 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
     ]
+  },
+  {
+    "id": 25,
+    "name": "Panna cotta karamel",
+    "brand": "Sterilgarda",
+    "category": "Desserts",
+    "variant": "2 × 90 g",
+    "ean": "80094883",
+    "ingredients": "ROOM (MELK), suiker, karamel (5,5%) (glucosestroop, gekaramelliseerde suikers, kleurstof E150b), gemodificeerd zetmeel, geleermiddelen pectine en carrageen, aroma’s.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Dayan Yermia Kohen",
+    "image": "./images/panna-cotta.webp?v=c9ae7dcace82",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Bewaaradvies": "Bewaren op kamertemperatuur. Houdbaarheidsdatum: zie verpakking.",
+      "Serveertip": "Voor een mooie presentatie het potje omkeren op een schoteltje en een gaatje in de bodem maken.",
+      "Verpakking": "2 potjes van 90 g."
+    },
+    "sources": [
+      "https://www.sterilgarda.it/desserts/dessert/panna-cotta-al-caramello-sterilgarda-2x90g/"
+    ],
+    "sourcePhoto": "f2c298ee-5ea3-4435-9d78-05b3999a7a49.jpg",
+    "ingredientsComplete": true,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "24fe2ec6-f3da-468e-affc-8d39cb80c172.jpg",
+        "af150f8c-039f-4790-af35-f73006375191.jpg",
+        "bb4b0b23-b7cf-4636-a08d-460cb9d97dc8.jpg",
+        "codex-clipboard-b7e094e4-fb3a-45da-b0ae-64841f26f3b2.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "ingredientsSource": "Fysieke etiketten: 24fe2ec6-f3da-468e-affc-8d39cb80c172.jpg, af150f8c-039f-4790-af35-f73006375191.jpg, bb4b0b23-b7cf-4636-a08d-460cb9d97dc8.jpg",
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
+    "kosherLines": [
+      "Dayan Yermia Kohen",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
+  },
+  {
+    "id": 26,
+    "name": "Chocoladepudding",
+    "brand": "Sterilgarda",
+    "category": "Desserts",
+    "variant": "2 × 100 g",
+    "ean": "80094746",
+    "ingredients": "Volle MELK, suiker, gemodificeerd tapiocazetmeel, chocolade (1,4%), magere cacaopoeder, geleermiddel carrageen, aroma’s.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Dayan Yermia Kohen",
+    "image": "./images/pudding-chocolade.webp?v=662c7b88ecc9",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen 0 °C en +4 °C volgens het importetiket. Houdbaarheidsdatum: zie verpakking.",
+      "Verpakking": "2 potjes van 100 g."
+    },
+    "sources": [
+      "https://www.sterilgarda.it/en/desserts/dessert/sterilgarda-cocoa-cream-2x100-g/"
+    ],
+    "sourcePhoto": "f2c298ee-5ea3-4435-9d78-05b3999a7a49.jpg",
+    "ingredientsComplete": true,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "6fecd743-0248-42b4-ad3c-6139bf947152.jpg",
+        "34da7536-92cc-411b-9850-54da91d01834.jpg",
+        "5f646c7f-a9ca-4dca-8316-a41848884250.jpg",
+        "codex-clipboard-b7e094e4-fb3a-45da-b0ae-64841f26f3b2.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "ingredientsSource": "Fysieke etiketten: 6fecd743-0248-42b4-ad3c-6139bf947152.jpg, 34da7536-92cc-411b-9850-54da91d01834.jpg, 5f646c7f-a9ca-4dca-8316-a41848884250.jpg",
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
+    "kosherLines": [
+      "Dayan Yermia Kohen",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
+  },
+  {
+    "id": 27,
+    "name": "Vanillepudding",
+    "brand": "Sterilgarda",
+    "category": "Desserts",
+    "variant": "2 × 100 g",
+    "ean": "80094753",
+    "ingredients": "Volle MELK, suiker, gemodificeerd tapiocazetmeel, geleermiddel carrageen, natuurlijk vanille-extract (0,05%), aroma’s.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Dayan Yermia Kohen",
+    "image": "./images/pudding-vanille.webp?v=9009111907cf",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Bewaaradvies": "Bewaren op kamertemperatuur. Houdbaarheidsdatum: zie verpakking.",
+      "Verpakking": "2 potjes van 100 g."
+    },
+    "sources": [
+      "https://www.sterilgarda.it/en/desserts/dessert/sterilgarda-vanilla-cream-2x100-g/"
+    ],
+    "sourcePhoto": "f2c298ee-5ea3-4435-9d78-05b3999a7a49.jpg",
+    "ingredientsComplete": true,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "e0b361d3-b62a-412c-8527-4eb6bcb37e7c.jpg",
+        "af391673-2615-4fe8-afd7-150ba0092319.jpg",
+        "0217fb51-b458-4f3a-9300-1c7743cac84f.jpg",
+        "codex-clipboard-b7e094e4-fb3a-45da-b0ae-64841f26f3b2.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "ingredientsSource": "Fysieke etiketten: e0b361d3-b62a-412c-8527-4eb6bcb37e7c.jpg, af391673-2615-4fe8-afd7-150ba0092319.jpg, 0217fb51-b458-4f3a-9300-1c7743cac84f.jpg",
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
+    "kosherLines": [
+      "Dayan Yermia Kohen",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
+  },
+  {
+    "id": 63,
+    "name": "Vruchtenzuiveldessert",
+    "brand": "Nova",
+    "category": "Desserts",
+    "variant": "6 × 60 g",
+    "ean": "3456770001704",
+    "ingredients": "Gepasteuriseerde volle MELK, gepasteuriseerde room (MELK), suiker (8,4%), vruchtenpuree (5%; abrikoos, banaan, aardbei), calciumcitraten, zetmeel, MELKEIWITTEN, wortel- en pompoenconcentraten, geconcentreerd sap van paarse wortelen, verdikkingsmiddelen: E415 en E412; natuurlijke aroma’s, melkfermenten (MELK), vitamine D.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Betito",
+    "image": "./images/petits-nova.webp?v=e4a92a3b4252",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Zuiveldessertjes met verschillende fruitsmaken.",
+      "Bewaaradvies": "Bewaren bij maximaal +6 °C."
+    },
+    "sources": [
+      "https://www.solucious.be/27573"
+    ],
+    "sourcePhoto": "5972909b-3c22-48b6-a2aa-f3cb66748a5b.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Chocoladeroomdessert",
+    "brand": "Nova",
+    "category": "Desserts",
+    "variant": "4 × 125 g",
+    "ean": "3456770521127",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK",
+      "SOJA",
+      "SULFIETEN"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De leveranciersfiche voor deze EAN vermeldt MELK, SOJA en SULFIETEN. Controleer de actuele kosjere verpakking; de gepubliceerde ingrediëntenlijsten verschillen.",
+    "kosher": "Rav Betito",
+    "image": "./images/creme-chocolade.webp?v=cb838f8fc7ca",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Romig chocoladedessert.",
+      "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
+    },
+    "sources": [
+      "https://www.solucious.be/fr/28396"
+    ],
+    "sourcePhoto": "3005f35e-d36b-495b-b02a-19100bd66c70.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Vanilleroomdessert",
+    "brand": "Nova",
+    "category": "Desserts",
+    "variant": "4 × 125 g",
+    "ean": "3456770521134",
+    "ingredients": "Volle MELK, magere MELK, LACTOSE en MELKMINERALEN, suiker, gemodificeerd maïszetmeel, aroma, verdikkingsmiddel: carrageen (algenextract), kleurstof: carotenoïden, MELKEIWITTEN.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Betito",
+    "image": "./images/creme-vanille.webp?v=f697620664f2",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Romig vanilledessert.",
+      "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
+    },
+    "sources": [
+      "https://www.solucious.be/38517?suggested=1"
+    ],
+    "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Karamelpudding",
+    "brand": "Mister Flan",
+    "category": "Desserts",
+    "variant": "4 × 90 g",
+    "ean": "3456770521660",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Betito",
+    "image": "./images/flan-karamel.webp?v=80d3634dc67b",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Pudding met een karamellaag.",
+      "Bewaaradvies": "Bewaren bij maximaal +6 °C."
+    },
+    "sources": [
+      "https://www.solucious.be/27382"
+    ],
+    "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Chocoladedessert met room",
+    "brand": "Liégeois",
+    "category": "Desserts",
+    "variant": "4 × 100 g",
+    "ean": "3456776721040",
+    "ingredients": "Magere MELK, room (MELK; 14,5%), suiker, chocolade (2,8%; cacaopoeder, suiker), gemodificeerd zetmeel, LACTOSE en MELKMINERALEN, verdikkingsmiddelen: E407 en E415; MELKEIWITTEN, emulgator: E472b, aroma.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Betito",
+    "image": "./images/liegeois.webp?v=be9e6d32312d",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Chocoladedessert met een roomlaag.",
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
+    },
+    "sources": [
+      "https://www.auchan.fr/discount-liegeois-au-chocolat/pr-C1186925"
+    ],
+    "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
+  },
+  {
+    "brand": "Glidini",
+    "category": "Dessert",
+    "variant": "100 g",
+    "allergens": [
+      "MELK",
+      "EI",
+      "SOJA"
+    ],
+    "kosher": "Rabbi M. Weissmandl",
+    "kosherLines": [
+      "Rabbi M. Weissmandl",
+      "Rav of Nitra, Monsey",
+      "Chalav Yisrael"
+    ],
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
+    },
+    "id": 83,
+    "name": "Double Chocolate Mousse",
+    "ean": "3343154182350",
+    "image": "./images/glidini-double-chocolate-mousse-100g.png",
+    "ingredients": "Gepasteuriseerde verse MELK, plantaardig kokosvet, suiker, cacao (5%), pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (5%), EIwit, maïsmaltodextrine, MELKpoeder, zonnebloemolie, kokosolie, maïszetmeel, EIEREN, vanillealcohol, rijstmeel, emulgatoren (mono- en diglyceriden van vetzuren), zout, verdikkingsmiddelen (xanthaangom, carrageen), aroma’s, conserveermiddel (kaliumsorbaat).",
+    "allergenNote": "Kan sporen bevatten van amandelen, hazelnoten, walnoten, pistachenoten en soja.",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "0fe23e80-ebc7-40e9-be70-e05f3872d5c1.jpg",
+        "4855d1a9-00df-4f49-9eeb-f1733fdce3ed.jpg",
+        "dbb4c669-9ecc-460f-9e40-68498b00793e.jpg",
+        "37427b0a-7474-4c28-b312-a21b809e3775.jpg"
+      ]
+    }
+  },
+  {
+    "brand": "Glidini",
+    "category": "Dessert",
+    "variant": "100 g",
+    "allergens": [
+      "MELK",
+      "EI",
+      "SOJA"
+    ],
+    "kosher": "Rabbi M. Weissmandl",
+    "kosherLines": [
+      "Rabbi M. Weissmandl",
+      "Rav of Nitra, Monsey",
+      "Chalav Yisrael"
+    ],
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
+    },
+    "id": 84,
+    "name": "Cheesecake",
+    "ean": "8052870001085",
+    "image": "./images/glidini-cheesecake-100g.png",
+    "ingredients": "Gerehydrateerd magere MELKpoeder, plantaardige oliën en vetten (kokos en zonnebloem), ricotta (10%) (gepasteuriseerde verse MELK, zuurteregelaar: citroenzuur, zout), glucosestroop, suiker, EIwit, maïsmaltodextrine, rijstmeel, pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (3,1%), maïszetmeel, vanillealcohol, verdikkingsmiddelen (xanthaangom, carrageen), EIEREN, emulgatoren (mono- en diglyceriden van vetzuren), cacao, zout, conserveermiddel (kaliumsorbaat), aroma’s, stabilisator (glycerine).",
+    "allergenNote": "Kan sporen bevatten van walnoten, hazelnoten, pijnboompitten, amandelen en pistachenoten.",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "1aac2537-0937-4b76-84d6-108e1d1dade9.jpg",
+        "6654aec8-a686-4355-9125-c992ee07f4f1.jpg",
+        "a8a7f252-430a-45d1-b24f-360f90d3f67b.jpg"
+      ]
+    }
+  },
+  {
+    "brand": "Glidini",
+    "category": "Dessert",
+    "variant": "100 g",
+    "allergens": [
+      "MELK",
+      "EI",
+      "SOJA"
+    ],
+    "kosher": "Rabbi M. Weissmandl",
+    "kosherLines": [
+      "Rabbi M. Weissmandl",
+      "Rav of Nitra, Monsey",
+      "Chalav Yisrael"
+    ],
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
+    },
+    "id": 85,
+    "name": "Crème Brûlée Cheesecake",
+    "ean": "3343154182336",
+    "image": "./images/glidini-creme-brulee-cheesecake-100g.png",
+    "ingredients": "Gerehydrateerd magere MELKpoeder, plantaardige oliën en vetten (kokos en zonnebloem), ricotta (10%) (WEI (MELK), ROOM (MELK), zout, zuurteregelaar: citroenzuur), glucosestroop, suiker, EIwit, maïsmaltodextrine, rijstmeel, pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (3,1%), maïszetmeel, vanillealcohol, verdikkingsmiddelen (xanthaangom, carrageen), EIEREN, emulgatoren (mono- en diglyceriden van vetzuren), cacao, zout, conserveermiddel (kaliumsorbaat), aroma’s, stabilisator (glycerine).",
+    "allergenNote": "Kan sporen bevatten van walnoten, hazelnoten, pijnboompitten, amandelen en pistachenoten.",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "1d727444-a8c7-4981-9576-0ea5b1cf05a0.jpg",
+        "7cd096ad-ca38-485c-b6a7-92da8b9a8271.jpg",
+        "ed9dd3e8-b99c-4820-928f-c9c6b8c9fb27.jpg"
+      ]
+    }
   },
   {
     "id": 13,
@@ -529,6 +906,129 @@ window.KPI_PRODUCTS = [
         "609f0733-e6b7-423d-9b2c-5c91c5305f0a.jpg"
       ]
     }
+  },
+  {
+    "id": 49,
+    "name": "Roomkaas naturel",
+    "brand": "Samson",
+    "category": "Roomkaas",
+    "variant": "150 g",
+    "ean": "5425000535577",
+    "ingredients": "MELK, ROOM (MELK), startercultuur, zout.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen",
+    "image": "./images/samson-naturel.webp?v=aaccfc30bfc4",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "sources": [],
+    "sourcePhoto": "6bb609a8-13b5-4a68-9c65-0000f894f377.jpg",
+    "ingredientsComplete": true,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "3d0fada3-f63b-4a9b-b767-3261c087ca62.jpg",
+        "7e931bde-cf32-4856-97f3-dc0b8a2fda46.jpg",
+        "cc9c1cfa-5009-417a-879c-cb892dd544d0.jpg",
+        "9a606e64-b8cc-48f1-adbf-5240634fda08.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "ingredientsSource": "Fysieke etiketten: 3d0fada3-f63b-4a9b-b767-3261c087ca62.jpg, 7e931bde-cf32-4856-97f3-dc0b8a2fda46.jpg, cc9c1cfa-5009-417a-879c-cb892dd544d0.jpg",
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
+    "kosherLines": [
+      "Machzike Hadas Antwerpen",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Afgelezen op de aangeleverde foto van het keurmerk. Lichtblauw: naturel. Groen: kruiden."
+  },
+  {
+    "id": 50,
+    "name": "Roomkaas bieslook",
+    "brand": "Samson",
+    "category": "Roomkaas",
+    "variant": "150 g",
+    "ean": "5425000535584",
+    "ingredients": "Roomkaas met bieslook: MELK, ROOM (MELK), startercultuur, zout.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen",
+    "image": "./images/samson-bieslook.webp?v=41210730f74d",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "sources": [],
+    "sourcePhoto": "6bb609a8-13b5-4a68-9c65-0000f894f377.jpg",
+    "ingredientsComplete": true,
+    "ingredientNote": "Overgenomen van de Nederlandstalige ingrediëntenvermelding; bieslook staat in de productomschrijving van die vermelding.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "f3080f05-b720-4ed6-85ca-a301a9e3ca91.jpg",
+        "02ff3f3e-1031-4e0c-8559-804f451ecae0.jpg",
+        "b37ad0e9-7682-4eb5-a4f4-daa99d6f9ff8.jpg",
+        "27959a47-ad60-4b4b-a47c-29a490567540.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "ingredientsSource": "Fysieke etiketten: f3080f05-b720-4ed6-85ca-a301a9e3ca91.jpg, 02ff3f3e-1031-4e0c-8559-804f451ecae0.jpg, b37ad0e9-7682-4eb5-a4f4-daa99d6f9ff8.jpg",
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
+    "kosherLines": [
+      "Machzike Hadas Antwerpen",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Afgelezen op de aangeleverde foto van het keurmerk. Lichtblauw: naturel. Groen: kruiden."
+  },
+  {
+    "id": 74,
+    "name": "Smeerkaaspuntjes 14% vet",
+    "brand": "Euro",
+    "category": "Kaas",
+    "variant": "200 g",
+    "ean": "7290108509090",
+    "ingredients": "Kaas (MELK), koemelk (MELK), smeltzouten (polyfosfaten), stabilisator carrageen, kleurstof bètacaroteen, sorbinezuur, zout.",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/euro-kaaspuntjes-200g.png",
+    "productInfo": {
+      "Inhoud": "16 porties van 12,5 g.",
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +8 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "02582f55-2273-4370-841c-c46e195da890.jpg",
+        "edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg",
+        "07c53636-00aa-4217-adee-85c165275593.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "ingredientsSource": "Fysieke etiketten: 02582f55-2273-4370-841c-c46e195da890.jpg, edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg, 07c53636-00aa-4217-adee-85c165275593.jpg",
+    "allergensConfirmedAbsent": false,
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
+    "kosherSource": "Keurmerk afgelezen op edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg en bevestigd door gebruiker, 11 oktober 2026.",
+    "imageEdited": true,
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "02582f55-2273-4370-841c-c46e195da890.jpg",
+      "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
+    },
+    "kosherLines": [
+      "Badatz Beit Yosef"
+    ]
   },
   {
     "id": 73,
@@ -1289,127 +1789,193 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 49,
-    "name": "Roomkaas naturel",
-    "brand": "Samson",
-    "category": "Roomkaas",
-    "variant": "150 g",
-    "ean": "5425000535577",
-    "ingredients": "MELK, ROOM (MELK), startercultuur, zout.",
+    "id": 38,
+    "name": "Emmentaler",
+    "brand": "Vert Bosquet",
+    "category": "Kaas",
+    "variant": "250 g",
+    "ean": "3060921349838",
+    "ingredients": "Koemelk (MELK, herkomst EU), zout, melkfermenten (MELK), microbieel stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen",
-    "image": "./images/samson-naturel.webp?v=aaccfc30bfc4",
+    "kosher": "Rav Schlesinger Zwitserland",
+    "image": "./images/emmental.webp?v=16863829406e",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Houdbaarheidsdatum: zie verpakking."
+      "Omschrijving": "Emmentaler in een stuk, om te snijden of te raspen.",
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
-    "sources": [],
-    "sourcePhoto": "6bb609a8-13b5-4a68-9c65-0000f894f377.jpg",
+    "sources": [
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+    ],
+    "sourcePhoto": "256_Emmental-300x265.png",
+    "kosherLines": [
+      "Rav Schlesinger",
+      "Zwitserland",
+      "Chalav Yisrael"
+    ],
     "ingredientsComplete": true,
     "supplementalLabelSource": {
       "date": "2026-10-11",
       "photos": [
-        "3d0fada3-f63b-4a9b-b767-3261c087ca62.jpg",
-        "7e931bde-cf32-4856-97f3-dc0b8a2fda46.jpg",
-        "cc9c1cfa-5009-417a-879c-cb892dd544d0.jpg",
-        "9a606e64-b8cc-48f1-adbf-5240634fda08.jpg"
+        "1cf5d107-0315-4472-a217-cad20c01d10e.jpg",
+        "e2737cb1-0d3e-4ec3-a8ce-167fee4e2584.jpg",
+        "463aa3c7-2a09-4860-b043-d6b62f9d6828.jpg",
+        "31a8184b-d094-4b8a-ac6c-c76da07a661c.jpg"
       ],
-      "directory": "tmp/melkkost-bron-20261010"
+      "directory": "tmp/kaas-bron-20261011"
     },
-    "ingredientsSource": "Fysieke etiketten: 3d0fada3-f63b-4a9b-b767-3261c087ca62.jpg, 7e931bde-cf32-4856-97f3-dc0b8a2fda46.jpg, cc9c1cfa-5009-417a-879c-cb892dd544d0.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherLines": [
-      "Machzike Hadas Antwerpen",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Afgelezen op de aangeleverde foto van het keurmerk. Lichtblauw: naturel. Groen: kruiden."
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
   },
   {
-    "id": 50,
-    "name": "Roomkaas bieslook",
-    "brand": "Samson",
-    "category": "Roomkaas",
-    "variant": "150 g",
-    "ean": "5425000535584",
-    "ingredients": "Roomkaas met bieslook: MELK, ROOM (MELK), startercultuur, zout.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen",
-    "image": "./images/samson-bieslook.webp?v=41210730f74d",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "sources": [],
-    "sourcePhoto": "6bb609a8-13b5-4a68-9c65-0000f894f377.jpg",
-    "ingredientsComplete": true,
-    "ingredientNote": "Overgenomen van de Nederlandstalige ingrediëntenvermelding; bieslook staat in de productomschrijving van die vermelding.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "f3080f05-b720-4ed6-85ca-a301a9e3ca91.jpg",
-        "02ff3f3e-1031-4e0c-8559-804f451ecae0.jpg",
-        "b37ad0e9-7682-4eb5-a4f4-daa99d6f9ff8.jpg",
-        "27959a47-ad60-4b4b-a47c-29a490567540.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: f3080f05-b720-4ed6-85ca-a301a9e3ca91.jpg, 02ff3f3e-1031-4e0c-8559-804f451ecae0.jpg, b37ad0e9-7682-4eb5-a4f4-daa99d6f9ff8.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherLines": [
-      "Machzike Hadas Antwerpen",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Afgelezen op de aangeleverde foto van het keurmerk. Lichtblauw: naturel. Groen: kruiden."
-  },
-  {
-    "id": 74,
-    "name": "Smeerkaaspuntjes 14% vet",
-    "brand": "Euro",
+    "id": 39,
+    "name": "Geraspte emmentaler",
+    "brand": "Vert Bosquet",
     "category": "Kaas",
     "variant": "200 g",
-    "ean": "7290108509090",
-    "ingredients": "Kaas (MELK), koemelk (MELK), smeltzouten (polyfosfaten), stabilisator carrageen, kleurstof bètacaroteen, sorbinezuur, zout.",
+    "ean": "3060921349111",
+    "ingredients": "Emmentaler (98%) (koemelk (MELK, herkomst Frankrijk), zout, melkfermenten (MELK), microbieel stremsel), aardappelzetmeel.",
     "allergens": [
       "MELK"
     ],
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/euro-kaaspuntjes-200g.png",
-    "productInfo": {
-      "Inhoud": "16 porties van 12,5 g.",
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +8 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": false,
+    "kosher": "Rav Schlesinger Zwitserland",
+    "image": "./images/emmental-geraspt.webp?v=684f5c838e63",
+    "imageEdited": true,
     "detailsPending": false,
+    "productInfo": {
+      "Omschrijving": "Geraspte emmentaler voor warme gerechten.",
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
+    },
+    "sources": [
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+    ],
+    "sourcePhoto": "257_Emmental-Rape-300x264.png",
+    "kosherLines": [
+      "Rav Schlesinger",
+      "Zwitserland",
+      "Chalav Yisrael"
+    ],
+    "ingredientsComplete": true,
     "supplementalLabelSource": {
       "date": "2026-10-11",
       "photos": [
-        "02582f55-2273-4370-841c-c46e195da890.jpg",
-        "edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg",
-        "07c53636-00aa-4217-adee-85c165275593.jpg"
+        "a82efd11-46e9-498d-977d-bb659f0cdcfb.jpg",
+        "2c4bc54b-337a-40ab-a601-73463b123608.jpg"
+      ],
+      "directory": "tmp/kaas-bron-20261011"
+    },
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
+  },
+  {
+    "id": 52,
+    "name": "Manchego-schapenkaas",
+    "brand": "La Cueva del Abuelo",
+    "category": "Kaas",
+    "variant": "150 g",
+    "ean": "8436025982762",
+    "ingredients": "Gepasteuriseerde schapenmelk (MELK), melkzuurculturen (K), calciumchloride, kosjere lysozyme (OU), stremsel Hannilaz (K), zout.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Het etiket noemt ook lysozyme; de herkomst daarvan is niet vermeld.",
+    "kosher": "Rav Y. Schlesinger Genève",
+    "image": "./images/manchego-150g.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +8 °C. Houdbaarheidsdatum: zie verpakking.",
+      "Gebruiksadvies": "De korst is niet eetbaar.",
+      "Rijping": "Minimaal 6 maanden."
+    },
+    "sources": [],
+    "sourcePhoto": "66413e4a-566d-4b6b-b7a9-861bdb690355.jpg",
+    "ingredientsComplete": true,
+    "kosherLines": [
+      "Rav Y. Schlesinger Genève",
+      "Chalav Yisrael"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
+        "ac540a8c-9195-4538-8ea1-43fa7cae880e.jpg"
       ],
       "directory": "tmp/melkkost-bron-20261010"
     },
-    "ingredientsSource": "Fysieke etiketten: 02582f55-2273-4370-841c-c46e195da890.jpg, edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg, 07c53636-00aa-4217-adee-85c165275593.jpg",
-    "allergensConfirmedAbsent": false,
+    "ingredientsSource": "Fysieke etiketten: c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg, ac540a8c-9195-4538-8ea1-43fa7cae880e.jpg",
     "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherSource": "Keurmerk afgelezen op edeac7ab-3268-4a45-b38f-147ff83f48b6.jpg en bevestigd door gebruiker, 11 oktober 2026.",
-    "imageEdited": true,
     "imageSource": {
       "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "02582f55-2273-4370-841c-c46e195da890.jpg",
+      "photo": "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
+    }
+  },
+  {
+    "id": 55,
+    "name": "Geraspte grana padano",
+    "brand": "Agriform",
+    "category": "Kaas",
+    "variant": "100 g",
+    "ean": "8003518100219",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Y. Schlesinger Genève",
+    "image": "./images/grana-geraspt.webp?v=c6d1a185b1e3",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Omschrijving": "Fijn geraspte Grana Padano.",
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
+    "sources": [],
+    "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Grana padano",
+    "brand": "Agriform",
+    "category": "Kaas",
+    "variant": "200 g",
+    "ean": "8003518101469",
+    "ingredients": "MELK, zout, stremsel, conserveermiddel: lysozyme uit EI.",
+    "allergens": [
+      "MELK",
+      "EI"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Rav Schlesinger Genève",
+    "image": "./images/grana-portie.webp?v=5d95eaff38f6",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Omschrijving": "Grana Padano in een stuk.",
+      "Bewaaradvies": "Gekoeld bewaren tussen +4 °C en +8 °C."
+    },
+    "sources": [],
+    "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg",
     "kosherLines": [
-      "Badatz Beit Yosef"
-    ]
+      "Rav Schlesinger",
+      "Genève"
+    ],
+    "ingredientsComplete": true,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "10f34e8f-a665-40d6-895e-5b500cbfec2f.jpg",
+        "7fde61b8-a68a-4f7a-8308-e8b94eb30e00.jpg"
+      ],
+      "directory": "tmp/kaas-bron-20261011"
+    },
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
   },
   {
     "id": 29,
@@ -1710,86 +2276,67 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "221_Le-Maubert-300x228.png"
   },
   {
-    "id": 38,
-    "name": "Emmentaler",
-    "brand": "Vert Bosquet",
+    "id": 46,
+    "name": "Smeerbare geitenkaas",
+    "brand": "Soignon",
     "category": "Kaas",
-    "variant": "250 g",
-    "ean": "3060921349838",
-    "ingredients": "Koemelk (MELK, herkomst EU), zout, melkfermenten (MELK), microbieel stremsel.",
+    "variant": "150 g",
+    "ean": "3523230039970",
+    "ingredients": "Nog te controleren op de verpakking.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "kosher": "Rav Schlesinger Zwitserland",
-    "image": "./images/emmental.webp?v=16863829406e",
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Triangle K",
+    "image": "./images/smeerbare-geit.webp?v=b992e722478e",
     "imageEdited": true,
-    "detailsPending": false,
+    "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Emmentaler in een stuk, om te snijden of te raspen.",
+      "Omschrijving": "Geitenkaas naturel om te smeren.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
-    "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
-    ],
-    "sourcePhoto": "256_Emmental-300x265.png",
-    "kosherLines": [
-      "Rav Schlesinger",
-      "Zwitserland",
-      "Chalav Yisrael"
-    ],
-    "ingredientsComplete": true,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "1cf5d107-0315-4472-a217-cad20c01d10e.jpg",
-        "e2737cb1-0d3e-4ec3-a8ce-167fee4e2584.jpg",
-        "463aa3c7-2a09-4860-b043-d6b62f9d6828.jpg",
-        "31a8184b-d094-4b8a-ac6c-c76da07a661c.jpg"
-      ],
-      "directory": "tmp/kaas-bron-20261011"
-    },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
+    "sources": [],
+    "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg"
   },
   {
-    "id": 39,
-    "name": "Geraspte emmentaler",
-    "brand": "Vert Bosquet",
+    "id": 77,
+    "name": "Opgeklopte geitenkaas naturel 13% vet",
+    "brand": "Soignon",
     "category": "Kaas",
-    "variant": "200 g",
-    "ean": "3060921349111",
-    "ingredients": "Emmentaler (98%) (koemelk (MELK, herkomst Frankrijk), zout, melkfermenten (MELK), microbieel stremsel), aardappelzetmeel.",
+    "variant": "",
+    "ean": "",
+    "ingredients": "Gepasteuriseerde geitenmelk (MELK) (62%), water, zout, culturen (MELK), stremsel.",
     "allergens": [
       "MELK"
     ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Rav Schlesinger Zwitserland",
-    "image": "./images/emmental-geraspt.webp?v=684f5c838e63",
-    "imageEdited": true,
-    "detailsPending": false,
+    "kosher": "Triangle K",
+    "image": "./images/soignon-geitenkaas-geklopt.png",
+    "quantitySource": "Gewicht niet leesbaar op de aangeleverde foto’s.",
+    "barcodeSource": "Geen leesbare barcode aangeleverd voor deze verpakking.",
     "productInfo": {
-      "Omschrijving": "Geraspte emmentaler voor warme gerechten.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking.",
+      "Vetgehalte": "13%."
     },
-    "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
-    ],
-    "sourcePhoto": "257_Emmental-Rape-300x264.png",
-    "kosherLines": [
-      "Rav Schlesinger",
-      "Zwitserland",
-      "Chalav Yisrael"
-    ],
     "ingredientsComplete": true,
+    "detailsPending": false,
     "supplementalLabelSource": {
       "date": "2026-10-11",
       "photos": [
-        "a82efd11-46e9-498d-977d-bb659f0cdcfb.jpg",
-        "2c4bc54b-337a-40ab-a601-73463b123608.jpg"
+        "5050cadf-4f75-4f93-8a8a-41335f774081.jpg",
+        "41a5fb8a-e4ab-427e-b37c-12f3074f6eb4.jpg"
       ],
-      "directory": "tmp/kaas-bron-20261011"
+      "directory": "tmp/melkkost-bron-20261010"
     },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
+    "ingredientsSource": "Fysieke etiketten: 5050cadf-4f75-4f93-8a8a-41335f774081.jpg, 41a5fb8a-e4ab-427e-b37c-12f3074f6eb4.jpg",
+    "allergensConfirmedAbsent": false,
+    "kosherSource": "Volgens de aangeleverde fysieke verpakking.",
+    "imageEdited": true,
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "5050cadf-4f75-4f93-8a8a-41335f774081.jpg",
+      "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
+    }
   },
   {
     "id": 41,
@@ -1934,69 +2481,6 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke etiketten: 74d7c594-bfbb-40b4-b1d5-b0ef60b474f5.jpg, 0caba7e8-9eb4-489e-a123-a4f3b919dd2d.jpg",
     "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig."
-  },
-  {
-    "id": 46,
-    "name": "Smeerbare geitenkaas",
-    "brand": "Soignon",
-    "category": "Kaas",
-    "variant": "150 g",
-    "ean": "3523230039970",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Triangle K",
-    "image": "./images/smeerbare-geit.webp?v=b992e722478e",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Geitenkaas naturel om te smeren.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
-    "sources": [],
-    "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg"
-  },
-  {
-    "id": 77,
-    "name": "Opgeklopte geitenkaas naturel 13% vet",
-    "brand": "Soignon",
-    "category": "Kaas",
-    "variant": "",
-    "ean": "",
-    "ingredients": "Gepasteuriseerde geitenmelk (MELK) (62%), water, zout, culturen (MELK), stremsel.",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Triangle K",
-    "image": "./images/soignon-geitenkaas-geklopt.png",
-    "quantitySource": "Gewicht niet leesbaar op de aangeleverde foto’s.",
-    "barcodeSource": "Geen leesbare barcode aangeleverd voor deze verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Vetgehalte": "13%."
-    },
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "5050cadf-4f75-4f93-8a8a-41335f774081.jpg",
-        "41a5fb8a-e4ab-427e-b37c-12f3074f6eb4.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: 5050cadf-4f75-4f93-8a8a-41335f774081.jpg, 41a5fb8a-e4ab-427e-b37c-12f3074f6eb4.jpg",
-    "allergensConfirmedAbsent": false,
-    "kosherSource": "Volgens de aangeleverde fysieke verpakking.",
-    "imageEdited": true,
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "5050cadf-4f75-4f93-8a8a-41335f774081.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
-    }
   },
   {
     "id": 48,
@@ -2189,51 +2673,6 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 52,
-    "name": "Manchego-schapenkaas",
-    "brand": "La Cueva del Abuelo",
-    "category": "Kaas",
-    "variant": "150 g",
-    "ean": "8436025982762",
-    "ingredients": "Gepasteuriseerde schapenmelk (MELK), melkzuurculturen (K), calciumchloride, kosjere lysozyme (OU), stremsel Hannilaz (K), zout.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Het etiket noemt ook lysozyme; de herkomst daarvan is niet vermeld.",
-    "kosher": "Rav Y. Schlesinger Genève",
-    "image": "./images/manchego-150g.png",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +8 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Gebruiksadvies": "De korst is niet eetbaar.",
-      "Rijping": "Minimaal 6 maanden."
-    },
-    "sources": [],
-    "sourcePhoto": "66413e4a-566d-4b6b-b7a9-861bdb690355.jpg",
-    "ingredientsComplete": true,
-    "kosherLines": [
-      "Rav Y. Schlesinger Genève",
-      "Chalav Yisrael"
-    ],
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
-        "ac540a8c-9195-4538-8ea1-43fa7cae880e.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg, ac540a8c-9195-4538-8ea1-43fa7cae880e.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
-    }
-  },
-  {
     "id": 53,
     "name": "Mozzarella",
     "brand": "Eden Gourmet",
@@ -2315,68 +2754,6 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
     "imageEdited": true
-  },
-  {
-    "id": 55,
-    "name": "Geraspte grana padano",
-    "brand": "Agriform",
-    "category": "Kaas",
-    "variant": "100 g",
-    "ean": "8003518100219",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Y. Schlesinger Genève",
-    "image": "./images/grana-geraspt.webp?v=c6d1a185b1e3",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Fijn geraspte Grana Padano.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
-    "sources": [],
-    "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
-  },
-  {
-    "id": 56,
-    "name": "Grana padano",
-    "brand": "Agriform",
-    "category": "Kaas",
-    "variant": "200 g",
-    "ean": "8003518101469",
-    "ingredients": "MELK, zout, stremsel, conserveermiddel: lysozyme uit EI.",
-    "allergens": [
-      "MELK",
-      "EI"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Rav Schlesinger Genève",
-    "image": "./images/grana-portie.webp?v=5d95eaff38f6",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Omschrijving": "Grana Padano in een stuk.",
-      "Bewaaradvies": "Gekoeld bewaren tussen +4 °C en +8 °C."
-    },
-    "sources": [],
-    "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg",
-    "kosherLines": [
-      "Rav Schlesinger",
-      "Genève"
-    ],
-    "ingredientsComplete": true,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "10f34e8f-a665-40d6-895e-5b500cbfec2f.jpg",
-        "7fde61b8-a68a-4f7a-8308-e8b94eb30e00.jpg"
-      ],
-      "directory": "tmp/kaas-bron-20261011"
-    },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
   },
   {
     "id": 57,
@@ -2542,383 +2919,6 @@ window.KPI_PRODUCTS = [
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
     },
     "quantitySource": "Voorzijde vermeldt 16 oz (1 lb), 453 g."
-  },
-  {
-    "id": 25,
-    "name": "Panna cotta karamel",
-    "brand": "Sterilgarda",
-    "category": "Desserts",
-    "variant": "2 × 90 g",
-    "ean": "80094883",
-    "ingredients": "ROOM (MELK), suiker, karamel (5,5%) (glucosestroop, gekaramelliseerde suikers, kleurstof E150b), gemodificeerd zetmeel, geleermiddelen pectine en carrageen, aroma’s.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Dayan Yermia Kohen",
-    "image": "./images/panna-cotta.webp?v=c9ae7dcace82",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren op kamertemperatuur. Houdbaarheidsdatum: zie verpakking.",
-      "Serveertip": "Voor een mooie presentatie het potje omkeren op een schoteltje en een gaatje in de bodem maken.",
-      "Verpakking": "2 potjes van 90 g."
-    },
-    "sources": [
-      "https://www.sterilgarda.it/desserts/dessert/panna-cotta-al-caramello-sterilgarda-2x90g/"
-    ],
-    "sourcePhoto": "f2c298ee-5ea3-4435-9d78-05b3999a7a49.jpg",
-    "ingredientsComplete": true,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "24fe2ec6-f3da-468e-affc-8d39cb80c172.jpg",
-        "af150f8c-039f-4790-af35-f73006375191.jpg",
-        "bb4b0b23-b7cf-4636-a08d-460cb9d97dc8.jpg",
-        "codex-clipboard-b7e094e4-fb3a-45da-b0ae-64841f26f3b2.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: 24fe2ec6-f3da-468e-affc-8d39cb80c172.jpg, af150f8c-039f-4790-af35-f73006375191.jpg, bb4b0b23-b7cf-4636-a08d-460cb9d97dc8.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherLines": [
-      "Dayan Yermia Kohen",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
-  },
-  {
-    "id": 26,
-    "name": "Chocoladepudding",
-    "brand": "Sterilgarda",
-    "category": "Desserts",
-    "variant": "2 × 100 g",
-    "ean": "80094746",
-    "ingredients": "Volle MELK, suiker, gemodificeerd tapiocazetmeel, chocolade (1,4%), magere cacaopoeder, geleermiddel carrageen, aroma’s.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Dayan Yermia Kohen",
-    "image": "./images/pudding-chocolade.webp?v=662c7b88ecc9",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen 0 °C en +4 °C volgens het importetiket. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "2 potjes van 100 g."
-    },
-    "sources": [
-      "https://www.sterilgarda.it/en/desserts/dessert/sterilgarda-cocoa-cream-2x100-g/"
-    ],
-    "sourcePhoto": "f2c298ee-5ea3-4435-9d78-05b3999a7a49.jpg",
-    "ingredientsComplete": true,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "6fecd743-0248-42b4-ad3c-6139bf947152.jpg",
-        "34da7536-92cc-411b-9850-54da91d01834.jpg",
-        "5f646c7f-a9ca-4dca-8316-a41848884250.jpg",
-        "codex-clipboard-b7e094e4-fb3a-45da-b0ae-64841f26f3b2.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: 6fecd743-0248-42b4-ad3c-6139bf947152.jpg, 34da7536-92cc-411b-9850-54da91d01834.jpg, 5f646c7f-a9ca-4dca-8316-a41848884250.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherLines": [
-      "Dayan Yermia Kohen",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
-  },
-  {
-    "id": 27,
-    "name": "Vanillepudding",
-    "brand": "Sterilgarda",
-    "category": "Desserts",
-    "variant": "2 × 100 g",
-    "ean": "80094753",
-    "ingredients": "Volle MELK, suiker, gemodificeerd tapiocazetmeel, geleermiddel carrageen, natuurlijk vanille-extract (0,05%), aroma’s.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Dayan Yermia Kohen",
-    "image": "./images/pudding-vanille.webp?v=9009111907cf",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {
-      "Bewaaradvies": "Bewaren op kamertemperatuur. Houdbaarheidsdatum: zie verpakking.",
-      "Verpakking": "2 potjes van 100 g."
-    },
-    "sources": [
-      "https://www.sterilgarda.it/en/desserts/dessert/sterilgarda-vanilla-cream-2x100-g/"
-    ],
-    "sourcePhoto": "f2c298ee-5ea3-4435-9d78-05b3999a7a49.jpg",
-    "ingredientsComplete": true,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "e0b361d3-b62a-412c-8527-4eb6bcb37e7c.jpg",
-        "af391673-2615-4fe8-afd7-150ba0092319.jpg",
-        "0217fb51-b458-4f3a-9300-1c7743cac84f.jpg",
-        "codex-clipboard-b7e094e4-fb3a-45da-b0ae-64841f26f3b2.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: e0b361d3-b62a-412c-8527-4eb6bcb37e7c.jpg, af391673-2615-4fe8-afd7-150ba0092319.jpg, 0217fb51-b458-4f3a-9300-1c7743cac84f.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherLines": [
-      "Dayan Yermia Kohen",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
-  },
-  {
-    "id": 63,
-    "name": "Vruchtenzuiveldessert",
-    "brand": "Nova",
-    "category": "Desserts",
-    "variant": "6 × 60 g",
-    "ean": "3456770001704",
-    "ingredients": "Gepasteuriseerde volle MELK, gepasteuriseerde room (MELK), suiker (8,4%), vruchtenpuree (5%; abrikoos, banaan, aardbei), calciumcitraten, zetmeel, MELKEIWITTEN, wortel- en pompoenconcentraten, geconcentreerd sap van paarse wortelen, verdikkingsmiddelen: E415 en E412; natuurlijke aroma’s, melkfermenten (MELK), vitamine D.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Betito",
-    "image": "./images/petits-nova.webp?v=e4a92a3b4252",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Zuiveldessertjes met verschillende fruitsmaken.",
-      "Bewaaradvies": "Bewaren bij maximaal +6 °C."
-    },
-    "sources": [
-      "https://www.solucious.be/27573"
-    ],
-    "sourcePhoto": "5972909b-3c22-48b6-a2aa-f3cb66748a5b.jpg"
-  },
-  {
-    "id": 64,
-    "name": "Chocoladeroomdessert",
-    "brand": "Nova",
-    "category": "Desserts",
-    "variant": "4 × 125 g",
-    "ean": "3456770521127",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK",
-      "SOJA",
-      "SULFIETEN"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De leveranciersfiche voor deze EAN vermeldt MELK, SOJA en SULFIETEN. Controleer de actuele kosjere verpakking; de gepubliceerde ingrediëntenlijsten verschillen.",
-    "kosher": "Rav Betito",
-    "image": "./images/creme-chocolade.webp?v=cb838f8fc7ca",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Romig chocoladedessert.",
-      "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
-    },
-    "sources": [
-      "https://www.solucious.be/fr/28396"
-    ],
-    "sourcePhoto": "3005f35e-d36b-495b-b02a-19100bd66c70.jpg"
-  },
-  {
-    "id": 65,
-    "name": "Vanilleroomdessert",
-    "brand": "Nova",
-    "category": "Desserts",
-    "variant": "4 × 125 g",
-    "ean": "3456770521134",
-    "ingredients": "Volle MELK, magere MELK, LACTOSE en MELKMINERALEN, suiker, gemodificeerd maïszetmeel, aroma, verdikkingsmiddel: carrageen (algenextract), kleurstof: carotenoïden, MELKEIWITTEN.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Betito",
-    "image": "./images/creme-vanille.webp?v=f697620664f2",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Romig vanilledessert.",
-      "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
-    },
-    "sources": [
-      "https://www.solucious.be/38517?suggested=1"
-    ],
-    "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
-  },
-  {
-    "id": 66,
-    "name": "Karamelpudding",
-    "brand": "Mister Flan",
-    "category": "Desserts",
-    "variant": "4 × 90 g",
-    "ean": "3456770521660",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Betito",
-    "image": "./images/flan-karamel.webp?v=80d3634dc67b",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Pudding met een karamellaag.",
-      "Bewaaradvies": "Bewaren bij maximaal +6 °C."
-    },
-    "sources": [
-      "https://www.solucious.be/27382"
-    ],
-    "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
-  },
-  {
-    "id": 67,
-    "name": "Chocoladedessert met room",
-    "brand": "Liégeois",
-    "category": "Desserts",
-    "variant": "4 × 100 g",
-    "ean": "3456776721040",
-    "ingredients": "Magere MELK, room (MELK; 14,5%), suiker, chocolade (2,8%; cacaopoeder, suiker), gemodificeerd zetmeel, LACTOSE en MELKMINERALEN, verdikkingsmiddelen: E407 en E415; MELKEIWITTEN, emulgator: E472b, aroma.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Betito",
-    "image": "./images/liegeois.webp?v=be9e6d32312d",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {
-      "Omschrijving": "Chocoladedessert met een roomlaag.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
-    },
-    "sources": [
-      "https://www.auchan.fr/discount-liegeois-au-chocolat/pr-C1186925"
-    ],
-    "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
-  },
-  {
-    "brand": "Glidini",
-    "category": "Dessert",
-    "variant": "100 g",
-    "allergens": [
-      "MELK",
-      "EI",
-      "SOJA"
-    ],
-    "kosher": "Rabbi M. Weissmandl",
-    "kosherLines": [
-      "Rabbi M. Weissmandl",
-      "Rav of Nitra, Monsey",
-      "Chalav Yisrael"
-    ],
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
-    },
-    "id": 83,
-    "name": "Double Chocolate Mousse",
-    "ean": "3343154182350",
-    "image": "./images/glidini-double-chocolate-mousse-100g.png",
-    "ingredients": "Gepasteuriseerde verse MELK, plantaardig kokosvet, suiker, cacao (5%), pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (5%), EIwit, maïsmaltodextrine, MELKpoeder, zonnebloemolie, kokosolie, maïszetmeel, EIEREN, vanillealcohol, rijstmeel, emulgatoren (mono- en diglyceriden van vetzuren), zout, verdikkingsmiddelen (xanthaangom, carrageen), aroma’s, conserveermiddel (kaliumsorbaat).",
-    "allergenNote": "Kan sporen bevatten van amandelen, hazelnoten, walnoten, pistachenoten en soja.",
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "0fe23e80-ebc7-40e9-be70-e05f3872d5c1.jpg",
-        "4855d1a9-00df-4f49-9eeb-f1733fdce3ed.jpg",
-        "dbb4c669-9ecc-460f-9e40-68498b00793e.jpg",
-        "37427b0a-7474-4c28-b312-a21b809e3775.jpg"
-      ]
-    }
-  },
-  {
-    "brand": "Glidini",
-    "category": "Dessert",
-    "variant": "100 g",
-    "allergens": [
-      "MELK",
-      "EI",
-      "SOJA"
-    ],
-    "kosher": "Rabbi M. Weissmandl",
-    "kosherLines": [
-      "Rabbi M. Weissmandl",
-      "Rav of Nitra, Monsey",
-      "Chalav Yisrael"
-    ],
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
-    },
-    "id": 84,
-    "name": "Cheesecake",
-    "ean": "8052870001085",
-    "image": "./images/glidini-cheesecake-100g.png",
-    "ingredients": "Gerehydrateerd magere MELKpoeder, plantaardige oliën en vetten (kokos en zonnebloem), ricotta (10%) (gepasteuriseerde verse MELK, zuurteregelaar: citroenzuur, zout), glucosestroop, suiker, EIwit, maïsmaltodextrine, rijstmeel, pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (3,1%), maïszetmeel, vanillealcohol, verdikkingsmiddelen (xanthaangom, carrageen), EIEREN, emulgatoren (mono- en diglyceriden van vetzuren), cacao, zout, conserveermiddel (kaliumsorbaat), aroma’s, stabilisator (glycerine).",
-    "allergenNote": "Kan sporen bevatten van walnoten, hazelnoten, pijnboompitten, amandelen en pistachenoten.",
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "1aac2537-0937-4b76-84d6-108e1d1dade9.jpg",
-        "6654aec8-a686-4355-9125-c992ee07f4f1.jpg",
-        "a8a7f252-430a-45d1-b24f-360f90d3f67b.jpg"
-      ]
-    }
-  },
-  {
-    "brand": "Glidini",
-    "category": "Dessert",
-    "variant": "100 g",
-    "allergens": [
-      "MELK",
-      "EI",
-      "SOJA"
-    ],
-    "kosher": "Rabbi M. Weissmandl",
-    "kosherLines": [
-      "Rabbi M. Weissmandl",
-      "Rav of Nitra, Monsey",
-      "Chalav Yisrael"
-    ],
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Diepgevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen."
-    },
-    "id": 85,
-    "name": "Crème Brûlée Cheesecake",
-    "ean": "3343154182336",
-    "image": "./images/glidini-creme-brulee-cheesecake-100g.png",
-    "ingredients": "Gerehydrateerd magere MELKpoeder, plantaardige oliën en vetten (kokos en zonnebloem), ricotta (10%) (WEI (MELK), ROOM (MELK), zout, zuurteregelaar: citroenzuur), glucosestroop, suiker, EIwit, maïsmaltodextrine, rijstmeel, pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (3,1%), maïszetmeel, vanillealcohol, verdikkingsmiddelen (xanthaangom, carrageen), EIEREN, emulgatoren (mono- en diglyceriden van vetzuren), cacao, zout, conserveermiddel (kaliumsorbaat), aroma’s, stabilisator (glycerine).",
-    "allergenNote": "Kan sporen bevatten van walnoten, hazelnoten, pijnboompitten, amandelen en pistachenoten.",
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "1d727444-a8c7-4981-9576-0ea5b1cf05a0.jpg",
-        "7cd096ad-ca38-485c-b6a7-92da8b9a8271.jpg",
-        "ed9dd3e8-b99c-4820-928f-c9c6b8c9fb27.jpg"
-      ]
-    }
   },
   {
     "id": 60,
