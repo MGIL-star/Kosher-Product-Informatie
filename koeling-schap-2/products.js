@@ -20,7 +20,6 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/youghurt/Natural",
       "https://shefaco.be/about/kashrus"
     ],
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 8,
@@ -55,7 +54,6 @@ window.KPI_PRODUCTS = [
         "fde6bbe2-3da8-4d59-a6e5-69e6acee38a5.jpg"
       ]
     },
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 9,
@@ -90,7 +88,6 @@ window.KPI_PRODUCTS = [
         "0700731b-d208-4c75-a471-4ce8d91511ac.jpg"
       ]
     },
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 10,
@@ -127,7 +124,6 @@ window.KPI_PRODUCTS = [
       "Machsike Hadas Antwerpen",
       "Chalav Yisrael"
     ],
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 11,
@@ -212,7 +208,6 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/youghurt/Natural",
       "https://shefaco.be/about/kashrus"
     ],
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 2,
@@ -249,7 +244,6 @@ window.KPI_PRODUCTS = [
         "a94c108e-ca3e-4cc1-851a-ca06be65405c.jpg"
       ]
     },
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 3,
@@ -286,7 +280,6 @@ window.KPI_PRODUCTS = [
         "0c8eab1e-05b4-4864-bc21-e9bf86eccc6b.jpg"
       ]
     },
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 4,
@@ -309,7 +302,6 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/all/Tropical",
       "https://shefaco.be/about/kashrus"
     ],
-    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 5,

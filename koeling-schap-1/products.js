@@ -8,7 +8,7 @@ window.KPI_PRODUCTS = [
     "ean": "0796967650555",
     "ingredients": "Gedroogde peper, rode peper, olie, water, knoflook, zwarte peper, zout, komijn.",
     "allergens": [],
-    "allergensConfirmedAbsent": false,
+    "allergensConfirmedAbsent": true,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-rode-shug-closed.png",
     "imageEdited": true,
@@ -1032,7 +1032,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/1-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 1,
     "sourceLabels": [
@@ -1062,7 +1061,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/3-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 3,
     "sourceLabels": [
@@ -1092,7 +1090,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/5-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 5,
     "sourceLabels": [
@@ -1122,7 +1119,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/7-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 7,
     "sourceLabels": [
@@ -1152,7 +1148,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/9-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 9,
     "sourceLabels": [
@@ -1182,7 +1177,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/11-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 11,
     "sourceLabels": [
@@ -1212,7 +1206,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/13-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 13,
     "sourceLabels": [
@@ -1243,7 +1236,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/15-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 15,
     "sourceLabels": [
@@ -1273,7 +1265,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/22-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 22,
     "sourceLabels": [
@@ -1303,7 +1294,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/24-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 24,
     "sourceLabels": [
@@ -1333,7 +1323,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/26-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 26,
     "sourceLabels": [
@@ -1363,7 +1352,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 17,
     "sourceLabels": [
@@ -1405,7 +1393,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/28-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 28,
     "sourceLabels": [
@@ -1435,7 +1422,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/30-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 30,
     "sourceLabels": [
@@ -1465,7 +1451,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/32-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 32,
     "sourceLabels": [
@@ -1495,7 +1480,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/34-verpakking.png",
-    "note": "Dit product is volledig gegaard.",
     "imageEdited": true,
     "sourcePhoto": 34,
     "sourceLabels": [
@@ -1525,7 +1509,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-beef-viennas.png",
     "imageEdited": true,
-    "note": "Dit product is volledig gegaard.",
     "imageFrame": {
       "x": 0.185,
       "y": 0.123,
@@ -1686,7 +1669,6 @@ window.KPI_PRODUCTS = [
     "ingredientsComplete": true,
     "allergens": [],
     "allergensConfirmedAbsent": true,
-    "allergenNote": "Op het aangeleverde etiket zijn geen allergenen of mogelijke sporen vermeld.",
     "kosher": "Keurmerk aanwezig; naam van de instantie nog te controleren",
     "kosherSource": "Keurmerken op foto 543474e4-3915-48d6-92a8-9267e1636813.jpg; volledige namen niet betrouwbaar leesbaar.",
     "image": "./images/eden-kalkoenfilet-110g.png",
