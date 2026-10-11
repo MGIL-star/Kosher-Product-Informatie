@@ -66,8 +66,6 @@
 }
 
 @media (max-width: 359px) { .card-text strong { font-size: 12px; } }
-/* Match the red Tasty shug tub to the green tub's visible height and baseline. */
-img[src*="tasty-rode-shug-closed.png"]{transform:scaleY(.975);transform-origin:center 87%}
 /* Align the smaller chive packshot with Samson naturel. */
 img[src*="samson-bieslook.webp"]{transform:scale(1.14,1.10);transform-origin:center}
 img[src*="shefa-roomkaas-olijven-150g.png"]{transform:scale(1.31);transform-origin:center}

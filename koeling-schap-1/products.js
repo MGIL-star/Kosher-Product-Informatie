@@ -826,7 +826,7 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan sporen bevatten van SESAM, NOTEN en PINDA.",
     "kosher": "EK (volgens etiket)",
     "kosherSource": "Ovaal EK-keurmerk op cb7164c9-e290-4ea6-9684-81668a7d7873.jpg; naam van certificerende instantie niet uit het etiket vastgesteld.",
-    "image": "./images/eden-kikkererwtensalade.png",
+    "image": "./images/eden-kikkererwtensalade-front.png",
     "imageEdited": true,
     "imageSource": {
       "type": "Bewerkte fysieke verpakkingsfoto",
@@ -837,77 +837,6 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "3760059041078 afgelezen op de fysieke verpakking; EAN-13-controlecijfer geldig.",
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking."
-    }
-  },
-  {
-    "id": 44,
-    "name": "Falafel",
-    "brand": "Eden Gourmet",
-    "category": "Falafel",
-    "variant": "200 g",
-    "ean": "3760059040224",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-123.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 52,
-    "name": "Pittige falafel",
-    "brand": "Eden Gourmet",
-    "category": "Falafel",
-    "variant": "200 g",
-    "ean": "3760059040927",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-1231.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 53,
-    "name": "Falafel met tomaat",
-    "brand": "Eden Gourmet",
-    "category": "Falafel",
-    "variant": "200 g",
-    "ean": "3760059040910",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Nog te controleren",
-    "image": "./images/eden-1232.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
     }
   },
   {
@@ -1096,6 +1025,77 @@ window.KPI_PRODUCTS = [
     "image": "./images/surimi-180.png",
     "productInfo": {
       "Inhoud": "12 stuks",
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Falafel",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040224",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-falafel-naturel-heel.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Pittige falafel",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040927",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-1231.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Falafel met tomaat",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040910",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/eden-1232.png",
+    "imageEdited": true,
+    "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
     }
   },

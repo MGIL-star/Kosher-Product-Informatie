@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "edits": [
+    {
+      "image": "koeling-schap-1/images/eden-falafel-naturel-heel.png",
+      "prompt": "Edit this exact product photograph only: repair the cut/broken falafel ball in the front-left-center with exposed yellow green interior into a whole attractive naturally round falafel ball with continuous fried brown crust matching surrounding balls. Keep every other detail identical, including closed transparent packaging, label EDEN GOURMET Falafel 200 g, camera angle, size, placement, all other balls and transparent background. Do not redesign packaging. Precise local retouch."
+    },
+    {
+      "image": "koeling-schap-1/images/eden-kikkererwtensalade-front.png",
+      "prompt": "Product catalogue style-transfer edit. Use image 2 Eden Mamora as exact template for camera angle, tub silhouette and scale, front cream label layout, clear CLOSED lid and transparent background. Replace its red Mamora contents and walnut garnish with the chickpea and red pepper salad in image 1, no walnuts. Replace front label Mamora with 'Pois Chiches à l’Orientale' and retain EDEN GOURMET and 200 g. The resulting chickpea tub must look like a member of the same catalogue series as image 2, with the same LOW three-quarter front angle and same flat oval top appearance. No large top-facing label or overhead view; front-facing cream label like image 2. Keep closed packaging. Do not add unsupported logos or data."
+    }
+  ]
+}
