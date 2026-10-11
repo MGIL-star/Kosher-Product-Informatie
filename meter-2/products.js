@@ -74,7 +74,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -285,7 +285,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -343,7 +343,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -405,7 +405,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rosé",
     "variant": "750 ml · 11%",
-    "ingredients": "sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten en sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -463,7 +463,7 @@ window.KPI_PRODUCTS = [
     "brand": "Zmora",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -527,7 +527,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "year": null,
     "volume": "750 ml",
-    "ingredients": "sulfieten.",
+    "ingredients": "Sulfieten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 30,
@@ -585,7 +585,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof. Bevat sulfieten.",
+    "ingredients": "Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof, sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -662,7 +662,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -720,7 +720,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof. Bevat sulfieten.",
+    "ingredients": "Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof, sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -781,7 +781,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -849,7 +849,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "year": null,
     "volume": "750 ml",
-    "ingredients": "sulfieten.",
+    "ingredients": "Sulfieten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 29,
@@ -897,7 +897,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -955,7 +955,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1018,7 +1018,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1076,7 +1076,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1196,7 +1196,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1258,7 +1258,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "187 ml · 12,5%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1322,7 +1322,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1394,7 +1394,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Rode wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1455,7 +1455,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1513,7 +1513,7 @@ window.KPI_PRODUCTS = [
     "brand": "Zmora",
     "category": "Rode wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1586,7 +1586,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1663,7 +1663,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13,5%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1741,7 +1741,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13,5%",
-    "ingredients": "Bevat sulfieten.",
+    "ingredients": "Sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -1891,7 +1891,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Druivensap",
     "variant": "1 liter · Alcoholvrij",
-    "ingredients": "Druivensap (100%). Bevat sulfieten.",
+    "ingredients": "Druivensap (100%), sulfieten.",
     "allergens": [
       "SULFIETEN"
     ],
