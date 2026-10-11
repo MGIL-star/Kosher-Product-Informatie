@@ -86,3 +86,15 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
   letter-spacing: .07em;
   text-transform: none;
 }
+
+/* Allergen emphasis changes weight only, never the surrounding text size/font. */
+.dialog-product section p strong:not(.detail-field-label),
+.dialog-product section p b,
+.dialog-product .allergen {
+  font-family: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  font-weight: 700;
+}
