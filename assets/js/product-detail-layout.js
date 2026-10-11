@@ -12,7 +12,7 @@
     });
     text = text.replace(/\s+(?:of\s+)?\(?(Bnei Brak|Jeruzalem|Jerusalem|Antwerpen|Londen|London|Parijs|Straatsburg|Genève|Amsterdam|Den Haag|Kiryat Gat|Kiryat Ata|Nof HaGalil|Petach Tikva|Zichron Yaakov|Mateh Asher|Matte Asher|Netanya|Sderot|Yavne|Haifa|Lod|Arava|Safed|Volendam|Yokneam|Nitra–Monsey|Monsey)\)?(?=\s*(?:$| - ))/g, ' - $1');
     text = text.replace(/(?:\s*-\s*){2,}/g, ' - ').replace(/\s+-\s*$/, '').trim();
-    return [text, ...status.map(name => '(' + name + ')')].filter(Boolean).join(' - ');
+    return [text, ...status.map(name => '(' + name + ')')].filter(Boolean).join(' ').replace(/\s+[-–—]\s+/g, ' ').replace(/\s+/g, ' ').trim();
   };
   // DKW meter 1 defines the order for every product detail view.
   window.KPI_normalizeProductLayout = function (container, product = {}) {

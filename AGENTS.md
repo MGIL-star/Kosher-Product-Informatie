@@ -8,7 +8,7 @@
 - Neem productgegevens nauwkeurig over van de juiste fysieke verpakking. Koppel voor- en achterkant op productvariant, gewicht en barcode.
 - Voeg geen zelfbedachte opmerkingen toe over ontbrekende sporenwaarschuwingen of onvolledige ingrediëntenlijsten.
 - Gebruik dezelfde gegevens in de catalogus en op de productpagina’s achter de QR-codes.
-- Schrijf hechsjers volgens de nieuwe gebruikersafspraak met een streepje tussen naam, bekende plaats en status, bijvoorbeeld `Badatz Chatam Sofer - Bnei Brak - (Parve)`. Voeg geen onbekende plaats of status toe. Gebruik dit formaat in catalogus en QR-productpagina’s.
+- Schrijf hechsjers volgens de nieuwe gebruikersafspraak met één spatie tussen naam, bekende plaats en status, zonder scheidingsstreepjes, bijvoorbeeld `Badatz Chatam Sofer Bnei Brak (Parve)`. Voeg geen onbekende plaats of status toe. Gebruik dit formaat in catalogus en QR-productpagina’s.
 - Toon meerdere hechsjers elk op een eigen regel, van de langste naar de kortste tekstregel, in zowel catalogus als QR-productpagina’s.
 - Scheid verschillende allergenen met komma’s, bijvoorbeeld `Gerst (gluten), Melk, Soja`. Elk allergeen in de aparte opsomming krijgt een beginhoofdletter, ook na een komma. Houd een graan en de bijbehorende glutenaanduiding samen; voeg geen niet-aangeleverde allergenen toe.
 - Bewerk productfoto’s met behoud van de echte gesloten verpakking, rechtop op een witte achtergrond. Verwijder standaard zichtbare houdbaarheidsdatums, productiedatums en lot-/batchcodes uit de bewerkte catalogusfoto. Bewaar de originele bronfoto ongewijzigd. Behoud ingrediënten, gewicht, barcode en keurmerken.
