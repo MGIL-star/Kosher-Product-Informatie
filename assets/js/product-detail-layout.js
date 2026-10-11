@@ -77,6 +77,30 @@
         info.append(line);
       }
     }
+    // Give every "Let op" notice the same section and order as olive warnings.
+    let warningSection = [...root.children].find(el => el.tagName === 'SECTION' && el.querySelector('h3')?.textContent === 'Waarschuwing');
+    const getWarningSection = () => {
+      if (!warningSection) {
+        warningSection = document.createElement('section');
+        if (!product.meter) warningSection.classList.add('product-warning');
+        const heading = document.createElement('h3');
+        heading.textContent = 'Waarschuwing';
+        warningSection.append(heading);
+        root.append(warningSection);
+      }
+      return warningSection;
+    };
+    for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
+      const heading = section.querySelector('h3');
+      const wholeNotice = /^let op\s*:?\s*$/i.test(heading?.textContent || '');
+      for (const paragraph of [...section.children].filter(el => el.tagName === 'P')) {
+        const label = paragraph.querySelector('strong');
+        if (!wholeNotice && !/^let op\s*:?\s*$/i.test(label?.textContent || '')) continue;
+        if (!wholeNotice) label.remove();
+        getWarningSection().append(paragraph);
+      }
+      if (section !== warningSection && section.children.length === 1 && heading) section.remove();
+    }
     const rank = title => {
       if (/^Productinformatie/.test(title)) return 0;
       if (/^(Ingrediënten|Bekende ingrediënten|Samenstelling)/.test(title)) return 1;
