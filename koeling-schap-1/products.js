@@ -1,5 +1,1105 @@
 window.KPI_PRODUCTS = [
   {
+    "id": 20,
+    "name": "Rode shug",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "100 g",
+    "ean": "0796967650555",
+    "ingredients": "Gedroogde peper, rode peper, olie, water, knoflook, zwarte peper, zout, komijn.",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-rode-shug-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket op foto 49e894cd-e074-447c-a6f8-2941a1970213.jpg, aangeleverd op 10 oktober 2026",
+    "barcodeSource": "Foto 2aec2122-636b-435e-bd3d-5486a36d8178.jpg; cijfers afgelezen en EAN-13-controlecijfer gecontroleerd"
+  },
+  {
+    "id": 31,
+    "name": "Groene shug",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "100 g",
+    "ean": "6097418510508",
+    "ingredients": "Water, olie, paprika, jalapeño, knoflookpoeder, zout, koriander, chili, komijn, knoflook, zwarte peper.",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-groene-shug-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket op foto 2cb127e5-fe7e-4c67-ae36-9b90666397eb.jpg, aangeleverd op 10 oktober 2026",
+    "barcodeSource": "Foto 07f9a430-948f-440c-8c11-095f45c453f5.jpg; EAN-13 uit streepjespatroon gelezen, inclusief geldig controlecijfer 8"
+  },
+  {
+    "id": 21,
+    "name": "Klassieke hummus",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-hummus-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 22,
+    "name": "Tahindip",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-tahin-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 23,
+    "name": "Auberginepaté",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-auberginepate-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 24,
+    "name": "Auberginesalade",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "0796567649904",
+    "ingredients": "Aubergine (71%), zonnebloemolie, paprika, tomaat, tomatenpuree, knoflook, suiker, zout, azijn.",
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-auberginesalade-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Vergroot fysiek etiket op b4cd516a-442c-4d14-877f-16ac64d795d5.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op c477ac4e-fb10-4130-8145-e2844f8ef17d.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "b4cd516a-442c-4d14-877f-16ac64d795d5.jpg",
+        "c477ac4e-fb10-4130-8145-e2844f8ef17d.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Gegrilde auberginedip",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-gegrilde-auberginedip-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 30,
+    "name": "Auberginedip",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-auberginedip-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 59,
+    "name": "Babaganoush",
+    "englishName": "Babaganoush",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "",
+    "ean": "6097415280282",
+    "ingredients": "Aubergine (66%), mayonaise (plantaardige olie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren E412 en E415, conserveermiddelen E202 en E211, zuurteregelaar E575, antioxidant E385), knoflook, zout.",
+    "allergens": [
+      "EI",
+      "MOSTERD"
+    ],
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; gebruiker bevestigt dit voor de hele Tasty Food-lijn.",
+    "image": "./images/tasty-babaganoush-closed.png",
+    "quantitySource": "Gewicht niet zichtbaar op de aangeleverde foto’s; niet geschat.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "65f8e282-3ee1-4ae4-a4f7-8c65e96d9f5d.jpg",
+      "date": "2026-10-10",
+      "edit": "Gesloten groene deksel en witte achtergrond, in de stijl van de overige Tasty Food-producten. Bewerkt met ingebouwde imagegen; etiketfoto blijft leidend voor productgegevens."
+    },
+    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": false,
+    "ingredientsSource": "Vergroot fysiek etiket op da233b1f-a3c0-4a86-bca8-58951e2c9994.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op da233b1f-a3c0-4a86-bca8-58951e2c9994.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "65f8e282-3ee1-4ae4-a4f7-8c65e96d9f5d.jpg",
+        "da233b1f-a3c0-4a86-bca8-58951e2c9994.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    },
+    "imageEdited": true
+  },
+  {
+    "id": 60,
+    "name": "Zoetzure aubergine",
+    "englishName": "Sweet & Sour Aubergine",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "",
+    "ean": "0796967649771",
+    "ingredients": "Aubergine, canola-olie, suiker, azijn, knoflook, zout.",
+    "allergens": [],
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; gebruiker bevestigt dit voor de hele Tasty Food-lijn.",
+    "image": "./images/tasty-zoetzure-aubergine-closed.png",
+    "quantitySource": "Gewicht niet zichtbaar op de aangeleverde foto’s; niet geschat.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "e026424b-3572-40c2-8080-ca5dbc0e6e67.jpg",
+      "date": "2026-10-10",
+      "edit": "Gesloten groene deksel en witte achtergrond, in de stijl van de overige Tasty Food-producten. Bewerkt met ingebouwde imagegen; etiketfoto blijft leidend voor productgegevens."
+    },
+    "ingredientsComplete": true,
+    "allergensConfirmedAbsent": true,
+    "ingredientsSource": "Vergroot fysiek etiket op f14eaad0-ba48-4d21-82f2-b963d3d2a8ca.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op 6b0bd812-2344-46c3-b01d-228d9815ab11.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "e026424b-3572-40c2-8080-ca5dbc0e6e67.jpg",
+        "f14eaad0-ba48-4d21-82f2-b963d3d2a8ca.jpg",
+        "6b0bd812-2344-46c3-b01d-228d9815ab11.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    },
+    "imageEdited": true
+  },
+  {
+    "id": 19,
+    "name": "Rodekoolsalade",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "0796867649802",
+    "ingredients": "Gezuurde kool 57% (rode kool 46%, water, azijn, zout), mayonaise (raapzaadolie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren E412 en E415, conserveermiddelen E202 en E211, zuurteregelaar E575, antioxidant E385), suiker, wortelen, conserveermiddel kaliumsorbaat.",
+    "allergens": [
+      "EI",
+      "MOSTERD"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-rodekoolsalade-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Vergroot fysiek etiket op 24208d85-8f0d-4149-9e40-6148bd25f1eb.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "0796867649802, rechtstreeks opgegeven door de gebruiker op 11 oktober 2026.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "24208d85-8f0d-4149-9e40-6148bd25f1eb.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Matbucha",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-matbucha-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 18,
+    "name": "Tonijn eisalade",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-tonijn-ei-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 25,
+    "name": "Tonijnsalade met bosui",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-tonijn-bosui-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+  },
+  {
+    "id": 29,
+    "name": "Zalmspread",
+    "brand": "Tasty Food",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "0796967650296",
+    "ingredients": "Mayonaise (koolzaadolie, EIGEEL, azijn, suiker, zout, peper, verdikkingsmiddelen E415 en E412, antioxidant E385), gerookte ZALM (zout), suiker.",
+    "allergens": [
+      "EI",
+      "VIS"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-zalmspread-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Vergroot fysiek etiket op 33fef892-8c80-43c0-b0d0-332236193903.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op 33fef892-8c80-43c0-b0d0-332236193903.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "33fef892-8c80-43c0-b0d0-332236193903.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Haring",
+    "brand": "Tasty Food",
+    "category": "Vis",
+    "variant": "",
+    "ean": "6097428030041",
+    "ingredients": "Haring (49%) (VIS) (zout), ui, zonnebloemolie.",
+    "allergens": [
+      "VIS"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Machzike Hadas Antwerpen (Parve)",
+    "image": "./images/tasty-haring-closed.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "kosherStatus": "Parve",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Vergroot fysiek etiket op 646e9273-2f5f-462d-bb70-bd753455e818.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op 646e9273-2f5f-462d-bb70-bd753455e818.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "646e9273-2f5f-462d-bb70-bd753455e818.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Hummus naturel",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-100.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 45,
+    "name": "Hummus met kikkererwten",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-130.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 46,
+    "name": "Hummus Gourmet",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040026",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-136.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 47,
+    "name": "Hummus Masbacha",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "500 g",
+    "ean": "3760059040613",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-151.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 48,
+    "name": "Hummus met za’atar",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "500 g",
+    "ean": "3760059040637",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-153.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 49,
+    "name": "Pittige hummus",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "400 g",
+    "ean": "0746132001545",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-154.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 50,
+    "name": "Hummus traditioneel",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "400 g",
+    "ean": "0746132001576",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-155.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 51,
+    "name": "Hummus met pijnboompitten",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "400 g",
+    "ean": "0746132001552",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-156.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 33,
+    "name": "Thina",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041443",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-102.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 34,
+    "name": "Aubergine met mayonaise",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041429",
+    "ingredients": "Aubergine (28%), mayonaise (62%) (SOJAolie (35%), water, EIPOEDER (0,9%), maïszetmeel, suiker, zout, knoflook, azijn), conserveermiddel E202, stabilisator E412, zuurteregelaar citroenzuur (E330).",
+    "allergens": [
+      "SOJA",
+      "EI"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
+    "image": "./images/eden-103.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket b730f4a3-ed88-42b7-936e-2e4278eeb97e.jpg; aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Vergeleken met 7de90a18-dd25-423b-82fb-628afb869fdf.jpg; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Keurmerk van de eigen verpakking op 7de90a18-dd25-423b-82fb-628afb869fdf.jpg.",
+    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+  },
+  {
+    "id": 36,
+    "name": "Gestoofde aubergine",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358176",
+    "ingredients": "Aubergine (49%), water, SOJAolie, knoflook, maïszetmeel, zout, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "allergens": [
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef (Parve)",
+    "image": "./images/eden-109-250g.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket b1c92502-9425-41d3-b321-2b21c3d59944.jpg; aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Vergeleken met 3f7bf39d-4dab-4fec-80d8-1ba2b699615d.jpg; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Keurmerk van de eigen verpakking op 3f7bf39d-4dab-4fec-80d8-1ba2b699615d.jpg.",
+    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+  },
+  {
+    "id": 37,
+    "name": "Pittige aubergineplakjes",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358398",
+    "ingredients": "Aubergine (40%), rode paprika, water, SOJAolie, tomaat, zout, knoflook, stabilisator E412, zuurteregelaar citroenzuur (E330), conserveermiddel E202, chilipoeder (0,1%), maïszetmeel, komijn, zoetstof E954.",
+    "allergens": [
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
+    "image": "./images/eden-110.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket 4a6b1361-55a3-4302-b5ac-d837ed2b7d75.jpg; aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Vergeleken met d4e7c448-0f08-4c6f-96c5-665c93455f35.jpg; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Keurmerk van de eigen verpakking op d4e7c448-0f08-4c6f-96c5-665c93455f35.jpg.",
+    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+  },
+  {
+    "id": 38,
+    "name": "Auberginekaviaar",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358619",
+    "ingredients": "Aubergine (63%), ui (28%), water, suiker, zout, zwarte peper, SOJAolie (0%), maïszetmeel (0%), EIPOEDER (0%), azijn, conserveermiddel E202, stabilisator E412.",
+    "allergens": [
+      "SOJA",
+      "EI"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef (Parve)",
+    "image": "./images/eden-111-250g.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket 77e8ae73-0298-4a45-a827-7452a7f0bcc4.jpg; aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Vergeleken met 89f0832e-f561-415e-9e68-6cdba5b2a3a6.jpg; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Keurmerk van de eigen verpakking op 89f0832e-f561-415e-9e68-6cdba5b2a3a6.jpg.",
+    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS.",
+    "ingredientNote": "De percentages van sojaolie, maïszetmeel en eipoeder staan op het etiket als 0%. De allergenenvermelding op datzelfde etiket noemt soja en ei."
+  },
+  {
+    "id": 35,
+    "name": "Rodekool met mayonaise",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041436",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Beit Yosef",
+    "image": "./images/eden-104.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/hummus.jpg",
+      "x": 293,
+      "y": 495,
+      "width": 85,
+      "height": 65,
+      "scale": 1.7,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 39,
+    "name": "Koolsalade",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358275",
+    "ingredients": "Witte kool (38,8%), geraspte wortel (17,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (42,4%), zout, suiker, azijnzuur, witte peper, MOSTERDZAAD, E202.",
+    "allergens": [
+      "MOSTERD"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "K (volgens etiket)",
+    "image": "./images/eden-113-250g.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking. Na openen binnen 48 uur consumeren."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg; aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Vergeleken met d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Keurmerk van de eigen verpakking op d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg.",
+    "allergenNote": "Kan sporen bevatten van SELDERIJ, GLUTEN en SESAM."
+  },
+  {
+    "id": 40,
+    "name": "Marokkaanse wortelsalade",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "250 g",
+    "ean": "7290002358589",
+    "ingredients": "Wortel (55%), water, rode paprika, SOJAolie, tomaat, zout, knoflook, azijn, komijn, karwijzaad, conserveermiddel E202, chilipoeder (0,1%), stabilisator E412, zuurteregelaar citroenzuur (E330), maïszetmeel, zoetstof E954.",
+    "allergens": [
+      "SOJA"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
+    "image": "./images/eden-114-250g.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket d3507a03-75da-41d3-b717-52eec158c862.jpg; aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Vergeleken met 432decc0-1b8e-475c-84ef-e360428c53dd.jpg; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Keurmerk van de eigen verpakking op 432decc0-1b8e-475c-84ef-e360428c53dd.jpg.",
+    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
+  },
+  {
+    "id": 61,
+    "name": "Oosterse kikkererwtensalade",
+    "englishName": "Pois Chiches à l’Orientale",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041078",
+    "ingredients": "Kikkererwten (71,5%), gekookte rode paprika (11,5%), zonnebloemolie (7,5%), citroensap (5,2%), peterselie, zout, knoflook, peper, conserveermiddelen E202 en E211.",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "allergenNote": "Kan sporen bevatten van SESAM, NOTEN en PINDA.",
+    "kosher": "EK (volgens etiket)",
+    "kosherSource": "Ovaal EK-keurmerk op cb7164c9-e290-4ea6-9684-81668a7d7873.jpg; naam van certificerende instantie niet uit het etiket vastgesteld.",
+    "image": "./images/eden-kikkererwtensalade.png",
+    "imageEdited": true,
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "3c385237-3dc8-4ac1-a44b-469cd89fc492.jpg",
+      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond."
+    },
+    "ingredientsSource": "Fysiek etiket cb7164c9-e290-4ea6-9684-81668a7d7873.jpg.",
+    "barcodeSource": "3760059041078 afgelezen op de fysieke verpakking; EAN-13-controlecijfer geldig.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking."
+    }
+  },
+  {
+    "id": 42,
+    "name": "Mamora",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040958",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-119.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 44,
+    "name": "Falafel",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040224",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-123.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 52,
+    "name": "Pittige falafel",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040927",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-1231.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 53,
+    "name": "Falafel met tomaat",
+    "brand": "Eden Gourmet",
+    "category": "Falafel",
+    "variant": "200 g",
+    "ean": "3760059040910",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/eden-1232.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 43,
+    "name": "Guacamole",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040088",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Opperrabbinaat voor Nederland",
+    "image": "./images/eden-121.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/thina.jpg",
+      "x": 308,
+      "y": 393,
+      "width": 69,
+      "height": 63,
+      "scale": 2,
+      "sourceWidth": 1179
+    },
+    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 54,
+    "name": "Tarama met kabeljauwkuit",
+    "brand": "KYAM",
+    "category": "Vis",
+    "variant": "165 g",
+    "ean": "3760227151110",
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Chatam Sofer Bnei Brak",
+    "image": "./images/kyam-1810-165g.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/tarama.jpg",
+      "x": 850,
+      "y": 849,
+      "width": 275,
+      "height": 278,
+      "scale": 0.6,
+      "sourceWidth": 1179
+    },
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
+    "id": 41,
+    "name": "Harissa",
+    "brand": "JR",
+    "category": "Salades & dips",
+    "variant": "150 g",
+    "ean": "3302040000055",
+    "ingredients": "Chilipeper (70%), knoflook (18%), zout.",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "BDP (K)",
+    "image": "./images/eden-117.png",
+    "imageEdited": true,
+    "kosherMark": {
+      "image": "./review/catalogus/falafel.jpg",
+      "x": 300,
+      "y": 689,
+      "width": 78,
+      "height": 80,
+      "scale": 1.6,
+      "sourceWidth": 1179
+    },
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Frans etiket op foto b8da64b9-9ab3-4dcc-b8d7-b3a7230282bc.jpg, aangeleverd op 10 oktober 2026: piment 70%, ail 18%, sel."
+  },
+  {
+    "id": 55,
+    "name": "Rode chrijn",
+    "brand": "Hoffmans",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "5000120000008",
+    "ingredients": "Mierikswortel, rode biet, azijn, suiker.",
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "kosher": "Nog te controleren",
+    "image": "./images/hoffmans-rood.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Vergroot fysiek etiket op 4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op 4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Witte chrijn",
+    "brand": "Hoffmans",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "5490608000000",
+    "ingredients": "Mierikswortel, citroen, azijn, suiker.",
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "kosher": "Nog te controleren",
+    "image": "./images/hoffmans-wit.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    },
+    "ingredientsComplete": true,
+    "ingredientsSource": "Vergroot fysiek etiket op 0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg, aangeleverd op 10 oktober 2026.",
+    "barcodeSource": "Afgelezen op 0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
+    "supplementalLabelSource": {
+      "date": "2026-10-10",
+      "photos": [
+        "0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg"
+      ],
+      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
+    }
+  },
+  {
+    "ingredients": "Nog te controleren",
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "imageEdited": true,
+    "id": 58,
+    "name": "Surimi",
+    "brand": "Fleury Michon",
+    "category": "Vis",
+    "variant": "200 g",
+    "ean": "3302745556109",
+    "kosher": "Chatam Sofer Bnei Brak",
+    "kosherMark": {
+      "image": "./review/catalogus/surimi.jpg",
+      "x": 831,
+      "y": 790,
+      "width": 260,
+      "height": 272,
+      "scale": 0.6,
+      "sourceWidth": 1179
+    },
+    "image": "./images/surimi-180.png",
+    "productInfo": {
+      "Inhoud": "12 stuks",
+      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
+    }
+  },
+  {
     "id": 1,
     "name": "Runderpastrami",
     "englishName": "Beef Pastrami",
@@ -668,401 +1768,6 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 21,
-    "name": "Klassieke hummus",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-hummus-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 22,
-    "name": "Tahindip",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-tahin-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 23,
-    "name": "Auberginepaté",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-auberginepate-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 24,
-    "name": "Auberginesalade",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "0796567649904",
-    "ingredients": "Aubergine (71%), zonnebloemolie, paprika, tomaat, tomatenpuree, knoflook, suiker, zout, azijn.",
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-auberginesalade-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Vergroot fysiek etiket op b4cd516a-442c-4d14-877f-16ac64d795d5.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op c477ac4e-fb10-4130-8145-e2844f8ef17d.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "b4cd516a-442c-4d14-877f-16ac64d795d5.jpg",
-        "c477ac4e-fb10-4130-8145-e2844f8ef17d.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
-  },
-  {
-    "id": 27,
-    "name": "Gegrilde auberginedip",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-gegrilde-auberginedip-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 30,
-    "name": "Auberginedip",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-auberginedip-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 59,
-    "name": "Babaganoush",
-    "englishName": "Babaganoush",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "",
-    "ean": "6097415280282",
-    "ingredients": "Aubergine (66%), mayonaise (plantaardige olie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren E412 en E415, conserveermiddelen E202 en E211, zuurteregelaar E575, antioxidant E385), knoflook, zout.",
-    "allergens": [
-      "EI",
-      "MOSTERD"
-    ],
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; gebruiker bevestigt dit voor de hele Tasty Food-lijn.",
-    "image": "./images/tasty-babaganoush-closed.png",
-    "quantitySource": "Gewicht niet zichtbaar op de aangeleverde foto’s; niet geschat.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "65f8e282-3ee1-4ae4-a4f7-8c65e96d9f5d.jpg",
-      "date": "2026-10-10",
-      "edit": "Gesloten groene deksel en witte achtergrond, in de stijl van de overige Tasty Food-producten. Bewerkt met ingebouwde imagegen; etiketfoto blijft leidend voor productgegevens."
-    },
-    "ingredientsComplete": true,
-    "allergensConfirmedAbsent": false,
-    "ingredientsSource": "Vergroot fysiek etiket op da233b1f-a3c0-4a86-bca8-58951e2c9994.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op da233b1f-a3c0-4a86-bca8-58951e2c9994.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "65f8e282-3ee1-4ae4-a4f7-8c65e96d9f5d.jpg",
-        "da233b1f-a3c0-4a86-bca8-58951e2c9994.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    },
-    "imageEdited": true
-  },
-  {
-    "id": 60,
-    "name": "Zoetzure aubergine",
-    "englishName": "Sweet & Sour Aubergine",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "",
-    "ean": "0796967649771",
-    "ingredients": "Aubergine, canola-olie, suiker, azijn, knoflook, zout.",
-    "allergens": [],
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; gebruiker bevestigt dit voor de hele Tasty Food-lijn.",
-    "image": "./images/tasty-zoetzure-aubergine-closed.png",
-    "quantitySource": "Gewicht niet zichtbaar op de aangeleverde foto’s; niet geschat.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "e026424b-3572-40c2-8080-ca5dbc0e6e67.jpg",
-      "date": "2026-10-10",
-      "edit": "Gesloten groene deksel en witte achtergrond, in de stijl van de overige Tasty Food-producten. Bewerkt met ingebouwde imagegen; etiketfoto blijft leidend voor productgegevens."
-    },
-    "ingredientsComplete": true,
-    "allergensConfirmedAbsent": true,
-    "ingredientsSource": "Vergroot fysiek etiket op f14eaad0-ba48-4d21-82f2-b963d3d2a8ca.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op 6b0bd812-2344-46c3-b01d-228d9815ab11.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "e026424b-3572-40c2-8080-ca5dbc0e6e67.jpg",
-        "f14eaad0-ba48-4d21-82f2-b963d3d2a8ca.jpg",
-        "6b0bd812-2344-46c3-b01d-228d9815ab11.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    },
-    "imageEdited": true
-  },
-  {
-    "id": 19,
-    "name": "Rodekoolsalade",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "0796867649802",
-    "ingredients": "Gezuurde kool 57% (rode kool 46%, water, azijn, zout), mayonaise (raapzaadolie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren E412 en E415, conserveermiddelen E202 en E211, zuurteregelaar E575, antioxidant E385), suiker, wortelen, conserveermiddel kaliumsorbaat.",
-    "allergens": [
-      "EI",
-      "MOSTERD"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-rodekoolsalade-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Vergroot fysiek etiket op 24208d85-8f0d-4149-9e40-6148bd25f1eb.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "0796867649802, rechtstreeks opgegeven door de gebruiker op 11 oktober 2026.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "24208d85-8f0d-4149-9e40-6148bd25f1eb.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
-  },
-  {
-    "id": 28,
-    "name": "Matbucha",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-matbucha-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 20,
-    "name": "Rode shug",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "100 g",
-    "ean": "0796967650555",
-    "ingredients": "Gedroogde peper, rode peper, olie, water, knoflook, zwarte peper, zout, komijn.",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-rode-shug-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket op foto 49e894cd-e074-447c-a6f8-2941a1970213.jpg, aangeleverd op 10 oktober 2026",
-    "barcodeSource": "Foto 2aec2122-636b-435e-bd3d-5486a36d8178.jpg; cijfers afgelezen en EAN-13-controlecijfer gecontroleerd"
-  },
-  {
-    "id": 31,
-    "name": "Groene shug",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "100 g",
-    "ean": "6097418510508",
-    "ingredients": "Water, olie, paprika, jalapeño, knoflookpoeder, zout, koriander, chili, komijn, knoflook, zwarte peper.",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-groene-shug-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket op foto 2cb127e5-fe7e-4c67-ae36-9b90666397eb.jpg, aangeleverd op 10 oktober 2026",
-    "barcodeSource": "Foto 07f9a430-948f-440c-8c11-095f45c453f5.jpg; EAN-13 uit streepjespatroon gelezen, inclusief geldig controlecijfer 8"
-  },
-  {
-    "id": 18,
-    "name": "Tonijn eisalade",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-tonijn-ei-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 25,
-    "name": "Tonijnsalade met bosui",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-tonijn-bosui-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
-  },
-  {
-    "id": 29,
-    "name": "Zalmspread",
-    "brand": "Tasty Food",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "0796967650296",
-    "ingredients": "Mayonaise (koolzaadolie, EIGEEL, azijn, suiker, zout, peper, verdikkingsmiddelen E415 en E412, antioxidant E385), gerookte ZALM (zout), suiker.",
-    "allergens": [
-      "EI",
-      "VIS"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-zalmspread-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Vergroot fysiek etiket op 33fef892-8c80-43c0-b0d0-332236193903.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op 33fef892-8c80-43c0-b0d0-332236193903.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "33fef892-8c80-43c0-b0d0-332236193903.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
-  },
-  {
-    "id": 26,
-    "name": "Haring",
-    "brand": "Tasty Food",
-    "category": "Vis",
-    "variant": "",
-    "ean": "6097428030041",
-    "ingredients": "Haring (49%) (VIS) (zout), ui, zonnebloemolie.",
-    "allergens": [
-      "VIS"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Machzike Hadas Antwerpen (Parve)",
-    "image": "./images/tasty-haring-closed.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Vergroot fysiek etiket op 646e9273-2f5f-462d-bb70-bd753455e818.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op 646e9273-2f5f-462d-bb70-bd753455e818.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "646e9273-2f5f-462d-bb70-bd753455e818.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
-  },
-  {
     "id": 65,
     "name": "Gerookte kalkoenfilet, flinterdun",
     "englishName": "Chiffonnade de poitrine de dinde",
@@ -1091,711 +1796,6 @@ window.KPI_PRODUCTS = [
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "2917860a-64cf-41cc-b1df-fae53992fb07.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
-    }
-  },
-  {
-    "id": 32,
-    "name": "Hummus naturel",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-100.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 45,
-    "name": "Hummus met kikkererwten",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-130.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 46,
-    "name": "Hummus Gourmet",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059040026",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-136.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 47,
-    "name": "Hummus Masbacha",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "500 g",
-    "ean": "3760059040613",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-151.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 48,
-    "name": "Hummus met za’atar",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "500 g",
-    "ean": "3760059040637",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-153.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 49,
-    "name": "Pittige hummus",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "400 g",
-    "ean": "0746132001545",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-154.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 50,
-    "name": "Hummus traditioneel",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "400 g",
-    "ean": "0746132001576",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-155.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 51,
-    "name": "Hummus met pijnboompitten",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "400 g",
-    "ean": "0746132001552",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-156.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 33,
-    "name": "Thina",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059041443",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-102.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 34,
-    "name": "Aubergine met mayonaise",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059041429",
-    "ingredients": "Aubergine (28%), mayonaise (62%) (SOJAolie (35%), water, EIPOEDER (0,9%), maïszetmeel, suiker, zout, knoflook, azijn), conserveermiddel E202, stabilisator E412, zuurteregelaar citroenzuur (E330).",
-    "allergens": [
-      "SOJA",
-      "EI"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
-    "image": "./images/eden-103.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket b730f4a3-ed88-42b7-936e-2e4278eeb97e.jpg; aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Vergeleken met 7de90a18-dd25-423b-82fb-628afb869fdf.jpg; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Keurmerk van de eigen verpakking op 7de90a18-dd25-423b-82fb-628afb869fdf.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
-  },
-  {
-    "id": 36,
-    "name": "Gestoofde aubergine",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "250 g",
-    "ean": "7290002358176",
-    "ingredients": "Aubergine (49%), water, SOJAolie, knoflook, maïszetmeel, zout, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
-    "allergens": [
-      "SOJA"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef (Parve)",
-    "image": "./images/eden-109-250g.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket b1c92502-9425-41d3-b321-2b21c3d59944.jpg; aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Vergeleken met 3f7bf39d-4dab-4fec-80d8-1ba2b699615d.jpg; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Keurmerk van de eigen verpakking op 3f7bf39d-4dab-4fec-80d8-1ba2b699615d.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
-  },
-  {
-    "id": 37,
-    "name": "Pittige aubergineplakjes",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "250 g",
-    "ean": "7290002358398",
-    "ingredients": "Aubergine (40%), rode paprika, water, SOJAolie, tomaat, zout, knoflook, stabilisator E412, zuurteregelaar citroenzuur (E330), conserveermiddel E202, chilipoeder (0,1%), maïszetmeel, komijn, zoetstof E954.",
-    "allergens": [
-      "SOJA"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
-    "image": "./images/eden-110.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket 4a6b1361-55a3-4302-b5ac-d837ed2b7d75.jpg; aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Vergeleken met d4e7c448-0f08-4c6f-96c5-665c93455f35.jpg; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Keurmerk van de eigen verpakking op d4e7c448-0f08-4c6f-96c5-665c93455f35.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
-  },
-  {
-    "id": 38,
-    "name": "Auberginekaviaar",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "250 g",
-    "ean": "7290002358619",
-    "ingredients": "Aubergine (63%), ui (28%), water, suiker, zout, zwarte peper, SOJAolie (0%), maïszetmeel (0%), EIPOEDER (0%), azijn, conserveermiddel E202, stabilisator E412.",
-    "allergens": [
-      "SOJA",
-      "EI"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef (Parve)",
-    "image": "./images/eden-111-250g.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket 77e8ae73-0298-4a45-a827-7452a7f0bcc4.jpg; aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Vergeleken met 89f0832e-f561-415e-9e68-6cdba5b2a3a6.jpg; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Keurmerk van de eigen verpakking op 89f0832e-f561-415e-9e68-6cdba5b2a3a6.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS.",
-    "ingredientNote": "De percentages van sojaolie, maïszetmeel en eipoeder staan op het etiket als 0%. De allergenenvermelding op datzelfde etiket noemt soja en ei."
-  },
-  {
-    "id": 35,
-    "name": "Rodekool met mayonaise",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059041436",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Beit Yosef",
-    "image": "./images/eden-104.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/hummus.jpg",
-      "x": 293,
-      "y": 495,
-      "width": 85,
-      "height": 65,
-      "scale": 1.7,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 39,
-    "name": "Koolsalade",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "250 g",
-    "ean": "7290002358275",
-    "ingredients": "Witte kool (38,8%), geraspte wortel (17,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (42,4%), zout, suiker, azijnzuur, witte peper, MOSTERDZAAD, E202.",
-    "allergens": [
-      "MOSTERD"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "K (volgens etiket)",
-    "image": "./images/eden-113-250g.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking. Na openen binnen 48 uur consumeren."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg; aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Vergeleken met d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Keurmerk van de eigen verpakking op d0d35b87-8192-4f7e-bb45-952d89a9d949.jpg.",
-    "allergenNote": "Kan sporen bevatten van SELDERIJ, GLUTEN en SESAM."
-  },
-  {
-    "id": 40,
-    "name": "Marokkaanse wortelsalade",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "250 g",
-    "ean": "7290002358589",
-    "ingredients": "Wortel (55%), water, rode paprika, SOJAolie, tomaat, zout, knoflook, azijn, komijn, karwijzaad, conserveermiddel E202, chilipoeder (0,1%), stabilisator E412, zuurteregelaar citroenzuur (E330), maïszetmeel, zoetstof E954.",
-    "allergens": [
-      "SOJA"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
-    "image": "./images/eden-114-250g.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket d3507a03-75da-41d3-b717-52eec158c862.jpg; aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Vergeleken met 432decc0-1b8e-475c-84ef-e360428c53dd.jpg; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Keurmerk van de eigen verpakking op 432decc0-1b8e-475c-84ef-e360428c53dd.jpg.",
-    "allergenNote": "Kan sporen bevatten van PIJNBOOMPITTEN, PINDA, EI, TARWE en VIS."
-  },
-  {
-    "id": 61,
-    "name": "Oosterse kikkererwtensalade",
-    "englishName": "Pois Chiches à l’Orientale",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059041078",
-    "ingredients": "Kikkererwten (71,5%), gekookte rode paprika (11,5%), zonnebloemolie (7,5%), citroensap (5,2%), peterselie, zout, knoflook, peper, conserveermiddelen E202 en E211.",
-    "ingredientsComplete": true,
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "allergenNote": "Kan sporen bevatten van SESAM, NOTEN en PINDA.",
-    "kosher": "EK (volgens etiket)",
-    "kosherSource": "Ovaal EK-keurmerk op cb7164c9-e290-4ea6-9684-81668a7d7873.jpg; naam van certificerende instantie niet uit het etiket vastgesteld.",
-    "image": "./images/eden-kikkererwtensalade.png",
-    "imageEdited": true,
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "3c385237-3dc8-4ac1-a44b-469cd89fc492.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond."
-    },
-    "ingredientsSource": "Fysiek etiket cb7164c9-e290-4ea6-9684-81668a7d7873.jpg.",
-    "barcodeSource": "3760059041078 afgelezen op de fysieke verpakking; EAN-13-controlecijfer geldig.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Na openen binnen 48 uur consumeren. Houdbaarheidsdatum: zie verpakking."
-    }
-  },
-  {
-    "id": 42,
-    "name": "Mamora",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059040958",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-119.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 43,
-    "name": "Guacamole",
-    "brand": "Eden Gourmet",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "3760059040088",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-121.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 44,
-    "name": "Falafel",
-    "brand": "Eden Gourmet",
-    "category": "Falafel",
-    "variant": "200 g",
-    "ean": "3760059040224",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-123.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 52,
-    "name": "Pittige falafel",
-    "brand": "Eden Gourmet",
-    "category": "Falafel",
-    "variant": "200 g",
-    "ean": "3760059040927",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Opperrabbinaat voor Nederland",
-    "image": "./images/eden-1231.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/thina.jpg",
-      "x": 308,
-      "y": 393,
-      "width": 69,
-      "height": 63,
-      "scale": 2,
-      "sourceWidth": 1179
-    },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 53,
-    "name": "Falafel met tomaat",
-    "brand": "Eden Gourmet",
-    "category": "Falafel",
-    "variant": "200 g",
-    "ean": "3760059040910",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Nog te controleren",
-    "image": "./images/eden-1232.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "id": 41,
-    "name": "Harissa",
-    "brand": "JR",
-    "category": "Salades & dips",
-    "variant": "150 g",
-    "ean": "3302040000055",
-    "ingredients": "Chilipeper (70%), knoflook (18%), zout.",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "BDP (K)",
-    "image": "./images/eden-117.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/falafel.jpg",
-      "x": 300,
-      "y": 689,
-      "width": 78,
-      "height": 80,
-      "scale": 1.6,
-      "sourceWidth": 1179
-    },
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Frans etiket op foto b8da64b9-9ab3-4dcc-b8d7-b3a7230282bc.jpg, aangeleverd op 10 oktober 2026: piment 70%, ail 18%, sel."
-  },
-  {
-    "id": 55,
-    "name": "Rode chrijn",
-    "brand": "Hoffmans",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "5000120000008",
-    "ingredients": "Mierikswortel, rode biet, azijn, suiker.",
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "kosher": "Nog te controleren",
-    "image": "./images/hoffmans-rood.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Vergroot fysiek etiket op 4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op 4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "4de730a0-4ab9-40a5-a139-e1d4f18fff8e.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
-  },
-  {
-    "id": 56,
-    "name": "Witte chrijn",
-    "brand": "Hoffmans",
-    "category": "Salades & dips",
-    "variant": "200 g",
-    "ean": "5490608000000",
-    "ingredients": "Mierikswortel, citroen, azijn, suiker.",
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "kosher": "Nog te controleren",
-    "image": "./images/hoffmans-wit.png",
-    "imageEdited": true,
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    },
-    "ingredientsComplete": true,
-    "ingredientsSource": "Vergroot fysiek etiket op 0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg, aangeleverd op 10 oktober 2026.",
-    "barcodeSource": "Afgelezen op 0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg; geldig EAN-13-controlecijfer. Een ontbrekende voorloopnul op het schapetiket is aangevuld.",
-    "supplementalLabelSource": {
-      "date": "2026-10-10",
-      "photos": [
-        "0ec7d99f-8eff-4ec8-b915-056d92d0ae4e.jpg"
-      ],
-      "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
-  },
-  {
-    "id": 54,
-    "name": "Tarama met kabeljauwkuit",
-    "brand": "KYAM",
-    "category": "Vis",
-    "variant": "165 g",
-    "ean": "3760227151110",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Chatam Sofer Bnei Brak",
-    "image": "./images/kyam-1810-165g.png",
-    "imageEdited": true,
-    "kosherMark": {
-      "image": "./review/catalogus/tarama.jpg",
-      "x": 850,
-      "y": 849,
-      "width": 275,
-      "height": 278,
-      "scale": 0.6,
-      "sourceWidth": 1179
-    },
-    "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
-    }
-  },
-  {
-    "ingredients": "Nog te controleren",
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "imageEdited": true,
-    "id": 58,
-    "name": "Surimi",
-    "brand": "Fleury Michon",
-    "category": "Vis",
-    "variant": "200 g",
-    "ean": "3302745556109",
-    "kosher": "Chatam Sofer Bnei Brak",
-    "kosherMark": {
-      "image": "./review/catalogus/surimi.jpg",
-      "x": 831,
-      "y": 790,
-      "width": 260,
-      "height": 272,
-      "scale": 0.6,
-      "sourceWidth": 1179
-    },
-    "image": "./images/surimi-180.png",
-    "productInfo": {
-      "Inhoud": "12 stuks",
-      "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
     }
   }
 ];

@@ -16,3 +16,4 @@
 - Ingrediëntenstijl overal gelijk: gewone ingrediënten in kleine letters (eerste woord met beginhoofdletter), volledige allergeenwoorden in hoofdletters én vet. Behoud E-nummers en afkortingen.
 - Productinformatie, Bewaaradvies en Gebruiksadvies blijven zichtbaar; Bereiding wordt niet getoond.
 - Houd de koelingen logisch geordend per merk en productfamilie. Zuivel begint met grote yoghurts, kleine yoghurts, overige Shefa, Amstelvelder en VEBO/Shoshana; groepeer desserts per merk. Gebruik dezelfde volgorde in catalogus en QR-pagina’s.
+- Vleeskost begint met alle Tasty Food-bakjes: rode shug, groene shug, daarna de overige bakjes. Daarna Eden Gourmet-salades: hummus bij elkaar, aubergine bij elkaar, koolsalades bij elkaar, overige soorten en guacamole als laatste. Vervolgens tarama, harissa, rode en witte chrijn, surimi, alle Prime Cut en de overige vleeswaren.
