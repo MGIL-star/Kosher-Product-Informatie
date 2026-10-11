@@ -1073,7 +1073,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Gedroogde aardappelen (74%), palmolie, zout, suiker, smaakversterker (E621), gistextract, gedroogde knoflook, emulgator (mono- en diglyceriden van vetzuren), gedroogde ui, zuurteregelaar (dinatriumdifosfaat), zwarte peper, citroenzuur, antioxidant (rozemarijnextract).",
     "allergens": [],
     "mayContain": "Kan selderij bevatten.",
-    "kosher": "OU-P / Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)",
+    "kosher": "Badatz Edah HaChareidis (Parve) / Opperrabbinaat Sderot / OU-P",
     "category": "Maaltijdmixen",
     "image": "images/product-27-full.png",
     "imageNeedsCheck": false,
@@ -1096,8 +1096,9 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU-P",
-      "Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)"
+      "Badatz Edah HaChareidis (Parve)",
+      "Opperrabbinaat Sderot",
+      "OU-P"
     ]
   },
   {
@@ -1111,7 +1112,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "mayContain": "Kan selderij bevatten.",
-    "kosher": "OU-P / Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)",
+    "kosher": "Badatz Edah HaChareidis (Parve) / Opperrabbinaat Sderot / OU-P",
     "category": "Maaltijdmixen",
     "image": "images/product-28-full.png",
     "imageNeedsCheck": false,
@@ -1134,8 +1135,9 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU-P",
-      "Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)"
+      "Badatz Edah HaChareidis (Parve)",
+      "Opperrabbinaat Sderot",
+      "OU-P"
     ]
   },
   {
