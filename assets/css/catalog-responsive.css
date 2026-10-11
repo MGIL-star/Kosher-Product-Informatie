@@ -73,17 +73,20 @@ img[src*="amstelvelder-gerookte-gouda-125g.png"]{transform:scale(.88,.93);transf
 img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin:center}
 
 /* Approved detail labels: keep existing sizes, spacing and product headings. */
-.dialog-product > section > h3,
-.dialog-product .detail-field-label {
+.dialog-product > section > h3 {
   color: var(--green-700, #276c58);
   font-weight: 700;
 }
 
-/* Field labels match the approved section-heading typography. */
+/* Field labels differ from their values only by their green color. */
 .dialog-product .detail-field-label {
   font-family: inherit;
-  font-size: 14px;
-  letter-spacing: normal;
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+  color: var(--green-700, #276c58);
   text-transform: none;
 }
 
