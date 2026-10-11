@@ -964,7 +964,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Lieber’s",
-    "name": "Pittige Sriracha chilisaus",
+    "name": "Pittige Sriracha Chilisaus",
     "variant": "454 g",
     "category": "Sauzen",
     "ean": "043427007801",
@@ -1272,7 +1272,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 26,
     "brand": "Lieber’s",
-    "name": "Dille augurken",
+    "name": "Dille Augurken",
     "variant": "720 ml",
     "category": "Conserven",
     "ean": "043427308984",
