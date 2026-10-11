@@ -452,7 +452,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "catalogType": "nonfood",
-    "name": "Lichaamsboter Patchouli-vanille",
+    "name": "Lichaamsboter Patchouli Vanille",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,
@@ -542,7 +542,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 80,
     "catalogType": "nonfood",
-    "name": "Bodyscrub Patchouli-vanille",
+    "name": "Bodyscrub Patchouli Vanille",
     "brand": "Shemen Amour",
     "category": "Huidverzorging",
     "shelf": 2,

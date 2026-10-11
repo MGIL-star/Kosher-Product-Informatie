@@ -964,7 +964,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 20,
     "brand": "Lieber’s",
-    "name": "Pittige Sriracha-chilisaus",
+    "name": "Pittige Sriracha chilisaus",
     "variant": "454 g",
     "category": "Sauzen",
     "ean": "043427007801",
@@ -1272,7 +1272,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 26,
     "brand": "Lieber’s",
-    "name": "Dille-augurken",
+    "name": "Dille augurken",
     "variant": "720 ml",
     "category": "Conserven",
     "ean": "043427308984",
@@ -1562,7 +1562,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "brand": "Ice Li",
-    "name": "Fruitijsjes om in Te Vriezen",
+    "name": "Fruitijsjes om in te Vriezen",
     "variant": "8 × 100 ml (totaal 800 ml)",
     "volumeSource": "Gebruiker bevestigt 8 × 100 ml op 9 oktober 2026.",
     "category": "IJsjes",
