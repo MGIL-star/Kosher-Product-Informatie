@@ -8,7 +8,7 @@
 
   window.KPI_emphasizeAllergens = function (value) {
     let firstWord = true;
-    return String(value).split(/([\p{L}]+(?:[’'][\p{L}]+)?(?:\d+[a-z]*)?)/u).map(part => {
+    return String(value).replace(/\[/g, '(').replace(/\]/g, ')').split(/([\p{L}]+(?:[’'][\p{L}]+)?(?:\d+[a-z]*)?)/u).map(part => {
       if (!/^[\p{L}]/u.test(part)) return escapeHtml(part);
       const allergen = names.test(part) || compounds.test(part);
       // Keep additive and vitamin codes readable; normalize prose consistently.
