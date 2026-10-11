@@ -16,7 +16,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Volle roeryoghurt met een zachte, frisse smaak.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -42,7 +41,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romige yoghurt met aardbei.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -81,7 +79,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romige yoghurt met bosvruchten.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -120,7 +117,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romige yoghurt met tropische vruchten.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -165,7 +161,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romig zuiveldessert met vanillesmaak.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -193,7 +188,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romig zuiveldessert met chocoladesmaak.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -232,7 +226,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Volle roeryoghurt met een zachte, frisse smaak.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -258,7 +251,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romige yoghurt met aardbei.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -299,7 +291,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romige yoghurt met bosvruchten.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -341,7 +332,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romige yoghurt met tropische vruchten.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Zuivel": "Chalav Yisroel",
       "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
@@ -371,7 +361,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romig zuiveldessert met vanillesmaak.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -400,7 +389,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romig zuiveldessert met chocoladesmaak.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -557,7 +545,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Zuiveldessertjes met verschillende fruitsmaken.",
       "Bewaaradvies": "Bewaren bij maximaal +6 °C."
     },
     "sources": [
@@ -585,7 +572,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romig chocoladedessert.",
       "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
     },
     "sources": [
@@ -611,7 +597,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romig vanilledessert.",
       "Bewaaradvies": "Bewaren tussen 0 °C en +6 °C."
     },
     "sources": [
@@ -637,7 +622,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Pudding met een karamellaag.",
       "Bewaaradvies": "Bewaren bij maximaal +6 °C."
     },
     "sources": [
@@ -663,7 +647,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Chocoladedessert met een roomlaag.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -802,7 +785,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Zachte, smeerbare roomkaas voor op brood of een toastje.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -842,7 +824,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Zachte, smeerbare roomkaas met kruiden.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -882,7 +863,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Zachte roomkaas met olijven.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1046,7 +1026,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Goudse kaas in ronde plakken.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar."
     },
     "sources": [],
@@ -1082,7 +1061,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Geraspte Goudse kaas, bijvoorbeeld voor een ovenschotel of tosti.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1125,7 +1103,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Jonge Goudse kaas met een zachte, romige smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1166,7 +1143,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Goudse kaas in plakken met minder vet.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Vetgehalte": "35% minder vet dan de gewone variant.",
       "Zuivel": "Chalav Yisroel"
@@ -1208,7 +1184,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Milde Edammer kaas met een licht nootachtige smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1249,7 +1224,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Edammer kaas in plakken met minder vet.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Vetgehalte": "28% minder vet dan de gewone variant.",
       "Zuivel": "Chalav Yisroel"
@@ -1291,7 +1265,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Zachte witte kaas met een milde, boterachtige smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1332,7 +1305,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Kaas met bieslook en een frisse, volle smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1373,7 +1345,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Halfzachte kaas met een romige smaak en een pittig accent.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1414,7 +1385,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Milde, zachte kaas gemaakt van geitenmelk.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Zuivel": "Chalav Yisroel"
     },
@@ -1489,7 +1459,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Mimolette kaas in plakken.",
       "Productlijn": "Shoshana Brand",
       "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
@@ -1531,7 +1500,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Havarti kaas in plakken.",
       "Productlijn": "Shoshana Brand",
       "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
@@ -1573,7 +1541,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Light kaas in plakken.",
       "Productlijn": "Shoshana Brand",
       "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
@@ -1615,7 +1582,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Edam kaas in plakken.",
       "Productlijn": "Shoshana Brand",
       "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
@@ -1657,7 +1623,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Gouda kaas in plakken.",
       "Productlijn": "Shoshana Brand",
       "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
@@ -1805,7 +1770,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Emmentaler in een stuk, om te snijden of te raspen.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -1847,7 +1811,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Geraspte emmentaler voor warme gerechten.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -1933,7 +1896,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Fijn geraspte Grana Padano.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -1957,7 +1919,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Grana Padano in een stuk.",
       "Bewaaradvies": "Gekoeld bewaren tussen +4 °C en +8 °C."
     },
     "sources": [],
@@ -2034,7 +1995,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Romige zachte kaas.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2076,7 +2036,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Zachte kaas in een vierkante verpakking.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2102,7 +2061,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Romige zachte kaas.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2128,7 +2086,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Zachte camembert in een ronde verpakking.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2154,7 +2111,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Camembert van gepasteuriseerde koemelk.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2179,7 +2135,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Camembert in 8 porties, gemaakt van gepasteuriseerde koemelk (MELK).",
       "Bewaaradvies": "Bewaarvoorschrift controleren op de verpakking."
     },
     "sources": [],
@@ -2217,7 +2172,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Ronde zachte kaas.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2243,7 +2197,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Een punt zachte brie.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2267,7 +2220,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Ronde brie met een zachte structuur.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
@@ -2293,7 +2245,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Geitenkaas naturel om te smeren.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2395,7 +2346,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Kleine geitenkaasrol naturel.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2419,7 +2369,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Kleine geitenkaasrol met knoflook en fijne kruiden.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2443,7 +2392,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Smeerbare geitenkaas naturel in een piramidevormige verpakking.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2623,7 +2571,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Kaasblokjes voor salades.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2690,7 +2637,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Mozzarella in bolvorm.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2714,7 +2660,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Kleine mozzarellabolletjes.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [],
@@ -2936,7 +2881,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Gevulde pasta met tomaat en mozzarella.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Bereiding": "Bereid volgens de aanwijzingen op de verpakking."
     },
@@ -2959,7 +2903,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Gevulde pasta met spinazie en ricotta.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Bereiding": "Bereid volgens de aanwijzingen op de verpakking."
     },
@@ -2982,7 +2925,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
-      "Omschrijving": "Gevulde pasta met eekhoorntjesbrood en zwarte truffel.",
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
       "Bereiding": "Bereid volgens de aanwijzingen op de verpakking."
     },
@@ -3008,7 +2950,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Omschrijving": "Dunne brickdeegvellen om te vullen en te bakken. Bereid volgens de aanwijzingen op de verpakking.",
       "Bewaaradvies": "Bewaren tussen 0 °C en +8 °C. Na openen snel gebruiken.",
       "Gebruiksadvies": "Bereiden in de koekenpan of oven. Niet rauw eten. De scheidingsvellen niet als bakpapier gebruiken."
     },
