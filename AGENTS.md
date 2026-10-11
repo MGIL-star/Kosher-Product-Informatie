@@ -10,3 +10,4 @@
 - Schrijf alle hechsjernamen uitsluitend fonetisch in Latijnse letters, nergens in Hebreeuws schrift, in zowel catalogus als QR-productpagina’s.
 
 - Toon geen vermeldingen van Bishul en geen negatieve Pesach-vermeldingen zoals “niet geschikt voor Pesach” in de catalogus of QR-productpagina’s.
+- Toon geen apart veld Kasjroet; de hechsjernaam blijft onder Hechsjer staan.

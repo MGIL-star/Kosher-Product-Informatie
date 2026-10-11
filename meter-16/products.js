@@ -512,9 +512,7 @@ window.KPI_PRODUCTS = [
         "ead0b127-3068-4a36-9ed5-8c9912ba20da.jpg"
       ]
     },
-    "productInfo": {
-      "Kasjroet": "Pas Yisrael."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
@@ -568,9 +566,7 @@ window.KPI_PRODUCTS = [
         "cf9da0ed-febe-406d-96cc-f7817d11437e.jpg"
       ]
     },
-    "productInfo": {
-      "Kasjroet": "Pas Yisrael."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
