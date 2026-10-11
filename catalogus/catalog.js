@@ -66,7 +66,7 @@
       +'<div class="product-visual product-visual-large">'+image(p,'detail-image')+'</div>'
       +'<p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>'
       +'<div class="dialog-heading"><h2 data-source-title="'+esc(p.name)+'" id="dialog-title">'+esc(p.name)+'</h2><p class="notranslate" translate="no">'+esc(p.brand)+'</p>'+(p.variant?'<span>'+esc(p.variant)+'</span>':'')+'</div>'
-      +'<div class="catalog-purchase"><button class="primary" data-add="'+esc(p.key)+'">Toevoegen aan mandje <span>+</span></button></div>'
+      +'<div class="catalog-purchase"><button class="primary" data-add="'+esc(p.key)+'">Toevoegen aan mandje</button></div>'
       +(info?'<section><h3>'+(p.isWine?'Productinformatie / wijnstijl':'Productinformatie')+'</h3>'+info+'</section>':'')
       +(p.ingredients?'<section><h3>'+(p.ingredientsPartial?'Bekende ingrediënten':'Ingrediënten')+'</h3><p>'+window.KPI_emphasizeAllergens(p.ingredients)+'</p>'+(p.ingredientNote||p.ingredientsNote?'<p>'+esc(p.ingredientNote||p.ingredientsNote)+'</p>':'')+'</section>':'')
       +(p.catalogType==='nonfood'&&p.composition?'<section class="product-composition"><h3>'+esc(p.composition.heading||'Ingrediënten (INCI)')+'</h3>'+(p.composition.text?'<p>'+esc(p.composition.text)+'</p>':'')+(p.composition.note?'<p class="composition-note">'+esc(p.composition.note)+'</p>':'')+'</section>':'')
