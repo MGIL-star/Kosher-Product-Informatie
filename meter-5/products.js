@@ -854,7 +854,7 @@ window.KPI_PRODUCTS = [
     "name": "Mini Citroenen in Zeezout",
     "variant": "200 g",
     "ean": "0646680675451",
-    "ingredients": "100% Mini citroen, pekel (water en zout).",
+    "ingredients": "Mini citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
