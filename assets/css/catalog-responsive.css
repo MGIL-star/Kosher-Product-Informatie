@@ -66,3 +66,5 @@
 }
 
 @media (max-width: 359px) { .card-text strong { font-size: 12px; } }
+/* Match the red Tasty shug tub to the green tub's visible height and baseline. */
+img[src*="tasty-rode-shug-closed.png"]{transform:scaleY(.975);transform-origin:center 87%}
