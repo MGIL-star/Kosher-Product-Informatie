@@ -2788,14 +2788,15 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
     "imageEdited": true,
-    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026."
+    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026.",
+    "quantitySource": "Gebruiker bevestigt beide vacuümverpakte soorten, Edam en Gouda, als 200 g op 11 oktober 2026."
   },
   {
     "category": "Kaas",
     "id": 80,
     "name": "Jonge Goudse kaas aan stuk",
     "brand": "VEBO Shoshana",
-    "variant": "250 g",
+    "variant": "200 g",
     "ean": "8711528757704",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
     "kosher": "Opperrabbinaat Nederland",
@@ -2823,7 +2824,8 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
     "imageEdited": true,
-    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026."
+    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026.",
+    "quantitySource": "Gebruiker bevestigt beide vacuümverpakte soorten, Edam en Gouda, als 200 g op 11 oktober 2026."
   },
   {
     "category": "Kaas",
