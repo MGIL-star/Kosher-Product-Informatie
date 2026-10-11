@@ -74,6 +74,7 @@
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
       <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p></section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div></section>
+      ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || 'Niet bekend')}</p></section>

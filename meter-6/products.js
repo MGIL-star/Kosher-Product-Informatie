@@ -88,7 +88,6 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe"
     ],
-    "warning": "Kan sporen van ei bevatten.",
     "kosher": "Rav Schlesinger Straatsburg - Afiyat Yisrael (Parve)",
     "image": "./images/pidy-12-clean.png",
     "sourcePhotos": [
@@ -111,7 +110,8 @@ window.KPI_PRODUCTS = [
       0.9266347687400319,
       0.981658692185008
     ],
-    "kosherSource": "Eigen etiketfoto’s 7 en 8: keurmerk Rav Schlesinger, Straatsburg; kosher parve en Afiyat Yisrael."
+    "kosherSource": "Eigen etiketfoto’s 7 en 8: keurmerk Rav Schlesinger, Straatsburg; kosher parve en Afiyat Yisrael.",
+    "mayContain": "Kan sporen van ei bevatten."
   },
   {
     "id": 4,
@@ -125,7 +125,6 @@ window.KPI_PRODUCTS = [
       "Tarwe",
       "Gerst"
     ],
-    "warning": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt.",
     "kosher": "Rabbi E.L. Schneebalg, STAR-K - Afiyat Yisrael (Parve)",
     "image": "./images/shneiders-original-front.png",
     "sourcePhotos": [
@@ -150,7 +149,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi E.L. Schneebalg",
       "STAR-K - Afiyat Yisrael (Parve)"
-    ]
+    ],
+    "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt."
   },
   {
     "id": 5,
@@ -164,7 +164,6 @@ window.KPI_PRODUCTS = [
       "Tarwe",
       "Gerst"
     ],
-    "warning": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt.",
     "kosher": "Rabbi E.L. Schneebalg, STAR-K - Afiyat Yisrael (Parve)",
     "image": "./images/shneiders-whole-grain-front.png",
     "sourcePhotos": [
@@ -189,7 +188,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi E.L. Schneebalg",
       "STAR-K - Afiyat Yisrael (Parve)"
-    ]
+    ],
+    "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt."
   },
   {
     "id": 12,
@@ -205,7 +205,6 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "warning": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-12-clean-front.png",
     "sourcePhotos": [
@@ -234,7 +233,8 @@ window.KPI_PRODUCTS = [
     "ingredientSourceNote": "Percentage tarwebloem aangevuld uit productinformatie voor Osem Cream Crackers 250 g bij Tesco en Morrisons. Overige ingrediënten blijven van de aangeleverde verpakking.",
     "imageBeforeTextCleanup": "./images/osem-cream.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room."
   },
   {
     "id": 11,
@@ -250,7 +250,6 @@ window.KPI_PRODUCTS = [
       "Gerst",
       "Sulfieten"
     ],
-    "warning": "Kan soja en noten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-11-clean-front.png",
     "sourcePhotos": [
@@ -272,7 +271,8 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeTextCleanup": "./images/osem-sesame-front.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan soja en noten bevatten."
   },
   {
     "id": 9,
@@ -288,7 +288,6 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "warning": "Kan sesamzaad en noten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-9-clean-front.png",
     "sourcePhotos": [
@@ -311,7 +310,8 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeTextCleanup": "./images/osem-wheaten.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan sesamzaad en noten bevatten."
   },
   {
     "id": 6,
@@ -326,7 +326,6 @@ window.KPI_PRODUCTS = [
       "Gerst",
       "Sulfieten"
     ],
-    "warning": "Kan noten, sesamzaad en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-6-clean-front.png",
     "sourcePhotos": [
@@ -350,7 +349,8 @@ window.KPI_PRODUCTS = [
       0.9744816586921851
     ],
     "imageBeforeTextCleanup": "./images/osem-sea-salt-clean.png",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan noten, sesamzaad en soja bevatten."
   },
   {
     "id": 7,
@@ -367,7 +367,6 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "warning": "Kan noten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-multiseeds-selected.png",
     "sourcePhotos": [
@@ -389,7 +388,8 @@ window.KPI_PRODUCTS = [
       0.9873417721518988,
       0.9693877551020408
     ],
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan noten bevatten."
   },
   {
     "id": 8,
@@ -405,7 +405,6 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "warning": "Kan sesamzaad en noten bevatten. De soja is volgens het etiket geproduceerd uit genetisch gemodificeerde soja.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-8-clean-front.png",
     "sourcePhotos": [
@@ -428,7 +427,8 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeTextCleanup": "./images/osem-fiber.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan sesamzaad en noten bevatten. De soja is volgens het etiket geproduceerd uit genetisch gemodificeerde soja."
   },
   {
     "id": 10,
@@ -444,7 +444,6 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "warning": "Kan sesamzaad en noten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-10-clean-front.png",
     "sourcePhotos": [
@@ -467,7 +466,8 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeTextCleanup": "./images/osem-golden.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan sesamzaad en noten bevatten."
   },
   {
     "id": 53,
@@ -483,7 +483,6 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "warning": "Kan noten, sesam en selderij bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "./images/osem-onion-crackers-250g.png",
     "imageBounds": [
@@ -503,7 +502,8 @@ window.KPI_PRODUCTS = [
       "151aac77-de18-45a2-b53d-8407b354dc2a.jpg",
       "62100ddc-4f6b-426c-97df-e92bdd6bec76.jpg",
       "bdf3f8b8-b79d-4003-a1ce-88768d38327f.jpg"
-    ]
+    ],
+    "mayContain": "Kan noten, sesam en selderij bevatten."
   },
   {
     "id": 13,
@@ -516,7 +516,7 @@ window.KPI_PRODUCTS = [
       "Tarwe",
       "Sulfieten"
     ],
-    "warning": "Kan sesam, noten, soja en olijfpitten bevatten.",
+    "warning": "Kan olijfpitten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Crackers",
     "image": "images/fitness-13.jpg",
@@ -534,7 +534,8 @@ window.KPI_PRODUCTS = [
       0.99,
       0.68
     ],
-    "kosherSource": "Laatste gebruikersbevestiging: uitsluitend Badatz Edah HaChareidis (Parve) voor Kalamata-crackers."
+    "kosherSource": "Laatste gebruikersbevestiging: uitsluitend Badatz Edah HaChareidis (Parve) voor Kalamata-crackers.",
+    "mayContain": "Kan sesam, noten en soja bevatten."
   },
   {
     "id": 14,
@@ -548,7 +549,6 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Sulfieten"
     ],
-    "warning": "Kan noten en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Crackers",
     "image": "images/beet-better.jpg",
@@ -566,7 +566,8 @@ window.KPI_PRODUCTS = [
       0.972,
       0.726
     ],
-    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
+    "mayContain": "Kan noten en soja bevatten."
   },
   {
     "id": 15,
@@ -576,7 +577,6 @@ window.KPI_PRODUCTS = [
     "ean": "5425000533986",
     "ingredients": "Rijst, zeezout.",
     "allergens": [],
-    "warning": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt.",
     "kosher": "Machzikei Hadas Antwerpen (Parve)",
     "category": "Rijst & maïswafels",
     "image": "./images/elisha-15-refined.png",
@@ -596,7 +596,8 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeRefinement": "./images/elisha-15.jpg",
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: recht vooraanzicht karton.",
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "mayContain": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt."
   },
   {
     "id": 16,
@@ -606,7 +607,6 @@ window.KPI_PRODUCTS = [
     "ean": "5425000532910",
     "ingredients": "Maïs, zeezout.",
     "allergens": [],
-    "warning": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt.",
     "kosher": "Machzikei Hadas Antwerpen (Parve)",
     "category": "Rijst & maïswafels",
     "image": "./images/elisha-16-refined.png",
@@ -626,7 +626,8 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeRefinement": "./images/elisha-16.jpg",
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: recht vooraanzicht karton.",
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "mayContain": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt."
   },
   {
     "id": 17,
@@ -667,7 +668,6 @@ window.KPI_PRODUCTS = [
     "ean": "5425000532699",
     "ingredients": "Volkorenrijst, zeezout (0,3%), water.",
     "allergens": [],
-    "warning": "Kan sesam bevatten.",
     "kosher": "Machzikei Hadas Antwerpen (Parve)",
     "category": "Rijst & maïswafels",
     "image": "./images/elisha-18-refined.png",
@@ -688,7 +688,8 @@ window.KPI_PRODUCTS = [
     "imageBeforeRefinement": "./images/elisha-18.jpg",
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: scherpte en helderheid verbeterd. Kleine tekst blijft uitsluitend illustratief.",
     "kosherSource": "Gebruikersbevestiging: Machsike Hadass Antwerpen (Parve) voor Ronde Rijstwafels met Zout.",
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "mayContain": "Kan sesam bevatten."
   },
   {
     "id": 19,
@@ -698,7 +699,6 @@ window.KPI_PRODUCTS = [
     "ean": "5425000535713",
     "ingredients": "Maïs (89,5%), quinoa (10%), zout (0,5%).",
     "allergens": [],
-    "warning": "Kan sesam bevatten.",
     "kosher": "Machzikei Hadas Antwerpen (Parve)",
     "category": "Rijst & maïswafels",
     "image": "./images/elisha-19-original.jpg",
@@ -715,7 +715,8 @@ window.KPI_PRODUCTS = [
       0.980192416525184
     ],
     "imageBeforeRefinement": "./images/elisha-19.jpg",
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "mayContain": "Kan sesam bevatten."
   },
   {
     "id": 20,
@@ -725,7 +726,6 @@ window.KPI_PRODUCTS = [
     "ean": "5425000535706",
     "ingredients": "Rijst (38%), maïs (31,5%), zwarte rijst (30%), zout.",
     "allergens": [],
-    "warning": "Kan sesam bevatten.",
     "kosher": "Machzikei Hadas Antwerpen (Parve)",
     "category": "Rijst & maïswafels",
     "image": "./images/elisha-20-original.jpg",
@@ -742,7 +742,8 @@ window.KPI_PRODUCTS = [
       0.9789555728760717
     ],
     "imageBeforeRefinement": "./images/elisha-20.jpg",
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "mayContain": "Kan sesam bevatten."
   },
   {
     "id": 21,
@@ -754,7 +755,6 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "warning": "Kan melk en sesam bevatten.",
     "kosher": "Machzikei Hadas Antwerpen (Parve)",
     "category": "Rijst & maïswafels",
     "image": "./images/elisha-21.jpg",
@@ -770,7 +770,8 @@ window.KPI_PRODUCTS = [
       0.74,
       0.984
     ],
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "mayContain": "Kan melk en sesam bevatten."
   },
   {
     "id": 47,
