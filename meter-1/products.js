@@ -256,7 +256,9 @@ window.KPI_PRODUCTS = [
       "17.jpg",
       "18.jpg"
     ],
-    "productInfo": {},
+    "productInfo": {
+      "Sluiting": "Schroefdop"
+    },
     "imagePresentation": {
       "corners": [
         [
@@ -295,7 +297,9 @@ window.KPI_PRODUCTS = [
       "19.jpg",
       "20.jpg"
     ],
-    "productInfo": {},
+    "productInfo": {
+      "Sluiting": "Schroefdop"
+    },
     "imagePresentation": {
       "corners": [
         [
