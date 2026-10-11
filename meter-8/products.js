@@ -702,7 +702,7 @@ window.KPI_PRODUCTS = [
       }
     ],
     "reviewNotes": "Etiketgegevens uit gebruikersopgave. Op herhaald verzoek van gebruiker foto van Elisha gekoppeld; productpagina heeft barcode 838948007726 en inhoud 350 g. De foto toont een oudere/andere 400 g-verpakking. Opgegeven inhoud 350 g en ingrediënten ongewijzigd behouden.",
-    "allergenNote": "Kan sporen bevatten van andere noten en soja.",
+    "allergenNote": "Geproduceerd in een omgeving waar ook andere noten, melk en soja worden verwerkt.",
     "imageSource": "https://elisha.be/image/cache/catalog/new%20pics%202017/06-2017/10240-600x600.jpg",
     "imageBounds": [
       0.185,
