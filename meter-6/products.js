@@ -516,7 +516,7 @@ window.KPI_PRODUCTS = [
       "Tarwe",
       "Sulfieten"
     ],
-    "warning": "Kan sesam, noten en soja bevatten. Kan olijfpitten bevatten.",
+    "warning": "Kan sesam, noten, soja en olijfpitten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Crackers",
     "image": "images/fitness-13.jpg",
