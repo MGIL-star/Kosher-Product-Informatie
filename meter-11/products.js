@@ -46,8 +46,7 @@ window.KPI_PRODUCTS = [
       "7c82dab3-ce65-4093-81f1-055bcef4f3cb",
       "2825dd5b-be4a-4a5b-8c1d-e3dcd3638524"
     ],
-    "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar.",
-    "allergenNote": "Ingrediënten en allergenen overgenomen van het huidige Hebreeuwse etiket op de originele verpakking."
+    "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar."
   },
   {
     "id": 3,
@@ -122,8 +121,7 @@ window.KPI_PRODUCTS = [
       "83d3b742-cf50-473b-b5df-6fb1d1040159",
       "90ff922e-b9c7-440a-96b5-6b55fab97750"
     ],
-    "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar.",
-    "allergenNote": "Ingrediënten en allergenen overgenomen van het huidige Hebreeuwse etiket op de originele verpakking."
+    "warning": "Overmatig gebruik kan een laxerend effect hebben. Verstikkingsgevaar: niet geschikt voor kinderen jonger dan 5 jaar."
   },
   {
     "id": 6,

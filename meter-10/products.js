@@ -1252,7 +1252,7 @@ window.KPI_PRODUCTS = [
       "112f3103-3c47-40c1-b569-72dda123187a.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Kan eieren, sesam, soja en noten bevatten. De oorspronkelijke verpakking vermeldt ook pinda’s.",
+    "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
     "sourceUrl": "https://benedikts.com/products/bcc",
     "imagePresentation": {
       "corners": [
@@ -1298,7 +1298,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-smiley-cookies/",
-    "mayContain": "Kan eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s bevatten.",
+    "mayContain": "Kan eieren, sesam, soja, noten (amandelen, hazelnoten, walnoten), kokosnoot en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1343,7 +1343,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bchf",
-    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
+    "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1432,7 +1432,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-coated-rings-%c2%96-coated-crunchy-cookies/",
-    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
+    "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1477,7 +1477,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bccc",
-    "mayContain": "Kan eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s bevatten.",
+    "mayContain": "Kan eieren, sesam, soja, noten (amandelen, hazelnoten, walnoten), kokosnoot en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1522,7 +1522,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-choco-bites-%c2%96-mini-cocoa-cookies/",
-    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
+    "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1568,7 +1568,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-cookies-pretzel-cream-filling/",
-    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
+    "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [

@@ -24,7 +24,7 @@ add(1, 'Elite MUST', 'Suikervrije snoepjes met citroensmaak', '80 g', '729011233
 add(2, 'Elite MUST', 'Suikervrije snoepjes met yoghurtsmaak (aardbei en bosbes)', '80 g', '7290112336637',
   'Zoetstoffen (isomalt, sucralose), plantaardig vet, zuurteregelaar (citroenzuur), aroma’s, kleurstoffen (paprika-extract, anthocyanen uit zwartewortelextract), zwartewortelconcentraat, zout, emulgator (sojalecithine).', ['Soja'], 'Melk.', bir,
   ['a3f4cfaf-f84d-4f89-bc15-985a3be778a2','7c82dab3-ce65-4093-81f1-055bcef4f3cb','2825dd5b-be4a-4a5b-8c1d-e3dcd3638524'],
-  {allergenNote: 'Ingrediënten en allergenen overgenomen van het huidige Hebreeuwse etiket op de originele verpakking.'});
+  {});
 add(3, 'Elite MUST', 'Suikervrije snoepjes met de smaak van framboos en citroen', '80 g', '7290112337474',
   'Zoetstoffen (isomalt, sucralose), zuurteregelaar (citroenzuur), aroma’s, kleurstof (anthocyanen uit zwartewortelextract).', [], 'Melk en soja.', bir,
   ['de951387-e898-47d8-b162-3c0327c6aaca','6d647122-c79e-468f-a709-33d187c3f6fb','4c33ee2d-2343-464e-a5da-d1ee27e4707a']);
@@ -35,7 +35,7 @@ add(4, 'Elite MUST', 'Suikervrije snoepjes met koffiesmaak', '80 g', '7290112337
 add(5, 'Elite MUST', 'Suikervrije snoepjes met de smaak van dulce de leche', '80 g', '7290112336651',
   'Zoetstoffen (isomalt, sucralose), plantaardig vet, stabilisator (glycerol), zout, kleurstof (karamel), aroma’s, water, zwartewortelconcentraat, emulgator (sojalecithine).', ['Soja'], 'Melk.', bir,
   ['e6807b08-74cb-46fb-a720-7092483a99cd','83d3b742-cf50-473b-b5df-6fb1d1040159','90ff922e-b9c7-440a-96b5-6b55fab97750'],
-  {allergenNote: 'Ingrediënten en allergenen overgenomen van het huidige Hebreeuwse etiket op de originele verpakking.'});
+  {});
 add(6, 'Elite MUST', 'Suikervrije kauwgomblokjes met aardbeiensmaak en vloeibare vulling', '58 g', '7290110556563',
   'Zoetstoffen (sorbitol, maltitol, maltitolstroop, isomalt, acesulfaam-K, sucralose), gombasis, bevochtigingsmiddel (glycerol), zuurteregelaars (appelzuur, citroenzuur), verdikkingsmiddelen (arabische gom, cellulosegom), aroma’s, kleurstof (anthocyanen uit zwartewortelextract).', [], '', manchester + '; OU (Parve)',
   ['ee7859a3-0db2-41b5-b873-9329b9f532ab','bcbf7a31-b506-44d9-b59c-f2efab3da9cc','9159ee61-3fb5-4390-9404-61afbd893706'],
