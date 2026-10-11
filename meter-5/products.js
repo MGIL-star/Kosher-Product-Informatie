@@ -822,7 +822,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Gedroogde hete peper, zonnebloemolie, zout, knoflook, koriander, azijn, komijn.",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
+    "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/29.png",
     "productInfo": {
@@ -858,7 +858,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Mini-citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
+    "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "image": "images/30.png",
     "productInfo": {
       "Inhoud": "200 g",
@@ -897,7 +897,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Citroen (100%), pekel (water en zout).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
+    "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "image": "images/31-supplied.png",
     "productInfo": {
       "Inhoud": "150 g",
@@ -935,7 +935,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Knoflook (90%), zonnebloemolie (10%).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
-    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
+    "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/32.png",
     "productInfo": {
@@ -1017,7 +1017,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
+    "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/34-straight.png",
     "productInfo": {
@@ -1053,7 +1053,7 @@ window.KPI_PRODUCTS = [
       "VIS"
     ],
     "category": "Visconserven",
-    "kosher": "Opperrabbinaat van Tunesië · Bishul Beit Yosef (KLP)",
+    "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/37-supplied.png",
     "productInfo": {

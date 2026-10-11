@@ -2650,8 +2650,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/migdal-margarine-454g.png",
     "productInfo": {
       "Inhoud": "4 sticks.",
-      "Bewaaradvies": "Gekoeld bewaren. Houdbaarheidsdatum: zie verpakking.",
-      "Pesach": "Niet geschikt voor Pesach volgens het etiket."
+      "Bewaaradvies": "Gekoeld bewaren. Houdbaarheidsdatum: zie verpakking."
     },
     "ingredientsComplete": true,
     "detailsPending": false,

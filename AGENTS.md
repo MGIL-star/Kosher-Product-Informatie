@@ -8,3 +8,5 @@
 - Behoud bestaande kaasfoto’s bij nieuwe etiketfoto’s voor ingrediënten. Maak de Shoshana-plakken niet opnieuw; alle verpakkingen staan in de lengte, inclusief Mimolette. Wijzig nooit namen, teksten of de indeling van de echte verpakking.
 
 - Schrijf alle hechsjernamen uitsluitend fonetisch in Latijnse letters, nergens in Hebreeuws schrift, in zowel catalogus als QR-productpagina’s.
+
+- Toon geen vermeldingen van Bishul en geen negatieve Pesach-vermeldingen zoals “niet geschikt voor Pesach” in de catalogus of QR-productpagina’s.

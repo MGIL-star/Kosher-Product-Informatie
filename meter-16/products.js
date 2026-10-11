@@ -43,7 +43,6 @@ window.KPI_PRODUCTS = [
       ]
     },
     "productInfo": {
-      "Kasjroet": "Bishul Yisrael.",
       "Productie": "Volgens de verpakking geproduceerd in een notenvrije fabriek."
     },
     "kosherLines": [
@@ -94,9 +93,7 @@ window.KPI_PRODUCTS = [
         "729ba849-3e49-458c-a137-b55116b54913.jpg"
       ]
     },
-    "productInfo": {
-      "Kasjroet": "Bishul Yisrael."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
@@ -147,9 +144,7 @@ window.KPI_PRODUCTS = [
         "157061f1-8574-4cbe-a390-640d547398d9.jpg"
       ]
     },
-    "productInfo": {
-      "Kasjroet": "Bishul Yisrael."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
@@ -200,7 +195,6 @@ window.KPI_PRODUCTS = [
       ]
     },
     "productInfo": {
-      "Kasjroet": "Bishul Yisrael.",
       "Pesach": "Geschikt voor Pesach volgens de verpakking.",
       "Productie": "Volgens de verpakking geproduceerd in een notenvrije fabriek."
     },
@@ -254,7 +248,6 @@ window.KPI_PRODUCTS = [
       ]
     },
     "productInfo": {
-      "Kasjroet": "Bishul Yisrael.",
       "Pesach": "Geschikt voor Pesach volgens de verpakking.",
       "Productie": "Volgens de verpakking geproduceerd in een notenvrije fabriek."
     },
@@ -309,9 +302,7 @@ window.KPI_PRODUCTS = [
         "5e162424-d323-46bd-aec3-4699a415cc39.jpg"
       ]
     },
-    "productInfo": {
-      "Pesach": "Niet geschikt voor Pesach volgens de verpakking."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Badatz Edah HaChareidis (Parve)",
       "Jeruzalem"
@@ -329,7 +320,7 @@ window.KPI_PRODUCTS = [
       14,
       15
     ],
-    "ingredients": "Suiker, kunstmatige aroma’s, kleurstoffen: roze — Red 40; blauw — Blue 1.",
+    "ingredients": "Suiker, kunstmatige aroma’s en kleurstoffen (Red 40 voor de roze variant en Blue 1 voor de blauwe variant).",
     "allergens": [],
     "mayContain": "",
     "warning": "E129 (Red 40) kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
@@ -416,9 +407,7 @@ window.KPI_PRODUCTS = [
         "c579f83f-9752-4b42-818c-2574bf278242.jpg"
       ]
     },
-    "productInfo": {
-      "Kasjroet": "Bishul Yisrael; goedgekeurd door het Opperrabbinaat van Israël."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Star-K (Parve)",
       "Rabbi Schneebalg"
@@ -470,9 +459,7 @@ window.KPI_PRODUCTS = [
         "02569f8c-74ed-42c2-bed0-c2a8473a04c8.jpg"
       ]
     },
-    "productInfo": {
-      "Kasjroet": "Bishul Yisrael; goedgekeurd door het Opperrabbinaat van Israël."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Star-K (Parve)",
       "Rabbi Schneebalg"
@@ -870,8 +857,7 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Chocolate Flavored Syrup",
     "productInfo": {
-      "Bewaaradvies": "Na openen gekoeld bewaren.",
-      "Pesach": "Niet geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Na openen gekoeld bewaren."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1382,8 +1368,7 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Sweet & Sour Duck Sauce",
     "productInfo": {
-      "Bewaaradvies": "Koel en donker bewaren. Na openen gekoeld bewaren.",
-      "Pesach": "Niet geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Koel en donker bewaren. Na openen gekoeld bewaren."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
