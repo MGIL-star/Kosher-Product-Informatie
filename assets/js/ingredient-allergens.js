@@ -18,7 +18,7 @@
       if (firstWord && !code) formatted = formatted[0].toLocaleUpperCase('nl') + formatted.slice(1);
       firstWord = false;
       const safe = escapeHtml(formatted);
-      return allergen ? `<strong>${safe}</strong>` : safe;
+      return allergen ? `<strong class="ingredient-allergen">${safe}</strong>` : safe;
     }).join('');
   };
 })();
