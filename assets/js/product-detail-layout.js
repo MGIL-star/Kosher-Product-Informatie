@@ -100,6 +100,7 @@
     // Shared label styling for both QR pages and the full catalogue.
     for (const heading of root.querySelectorAll('section > h3')) {
       heading.textContent = heading.textContent
+        .replace(/^Bekende ingrediënten$/, 'Ingrediënten')
         .replace('Productinformatie / wijnstijl', 'Productinformatie & wijnstijl')
         .replace('Barcode / EAN', 'Barcode & EAN');
     }
