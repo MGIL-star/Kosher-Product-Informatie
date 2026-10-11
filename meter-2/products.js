@@ -5,7 +5,7 @@ window.KPI_PRODUCTS = [
     "brand": "Cooymans",
     "category": "Advocaat",
     "variant": "700 ml · 14%",
-    "ingredients": "Hoofdingrediënten: eieren, suiker, brandewijn en alcohol.",
+    "ingredients": "Eieren, suiker, brandewijn en alcohol.",
     "allergens": [
       "EI"
     ],
