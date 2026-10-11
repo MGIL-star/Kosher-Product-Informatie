@@ -43,7 +43,9 @@
         line.append(document.createTextNode(window.KPI_formatHechsher(text)));
       });
     }
-    const hiddenLabel = label => /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
+    const meter = (String(product.meter || window.location.pathname).match(/(?:^|\/)(meter-\d+)(?:[^/]*)(?:\/|$)/) || [])[1];
+    const hideCharacteristics = /^meter-\d+$/.test(meter || '') && meter !== 'meter-2';
+    const hiddenLabel = label => (hideCharacteristics && /^kenmerken\s*:?\s*$/i.test(label)) || /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
       if (hiddenLabel(heading?.textContent || '')) { section.remove(); continue; }
