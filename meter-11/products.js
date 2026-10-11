@@ -13,9 +13,7 @@ window.KPI_PRODUCTS = [
     "image": "images/01-web.jpg",
     "imageEdited": false,
     "imageSource": "https://snackfood.delivery/product/elite-must-candy-sugar-free-lemon-flavor-80-grams-from-israel-kosher-certified/",
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [],
     "sourcePhotoIds": [
       "94dbd03b-614c-41ce-98ad-7db707ecebe1",
@@ -41,9 +39,7 @@ window.KPI_PRODUCTS = [
     "image": "images/02-web.jpg",
     "imageEdited": false,
     "imageSource": "https://bullmarket.shopo.co.il/?catalogProduct=7365190",
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [],
     "sourcePhotoIds": [
       "a3f4cfaf-f84d-4f89-bc15-985a3be778a2",
@@ -68,9 +64,7 @@ window.KPI_PRODUCTS = [
     "image": "images/03-web.jpg",
     "imageEdited": false,
     "imageSource": "Door gebruiker aangeleverd op 25 september 2026",
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [],
     "sourcePhotoIds": [
       "de951387-e898-47d8-b162-3c0327c6aaca",
@@ -95,9 +89,7 @@ window.KPI_PRODUCTS = [
     "image": "images/04-web.jpg",
     "imageEdited": false,
     "imageSource": "https://www.ebay.com/itm/286001180650",
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [],
     "sourcePhotoIds": [
       "05c737f7-37ae-4216-b9f3-c26bad517fa9",
@@ -123,9 +115,7 @@ window.KPI_PRODUCTS = [
     "image": "images/05-web.jpg",
     "imageEdited": false,
     "imageSource": "https://www.tivtaam.co.il/?catalogProduct=4791121",
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [],
     "sourcePhotoIds": [
       "e6807b08-74cb-46fb-a720-7092483a99cd",
@@ -150,9 +140,7 @@ window.KPI_PRODUCTS = [
     "image": "images/06-web.jpg",
     "imageEdited": false,
     "imageSource": "https://shop.super-pharm.co.il/p/689231",
-    "productInfo": {
-      "Inhoud": "58 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [],
     "sourcePhotoIds": [
       "ee7859a3-0db2-41b5-b873-9329b9f532ab",
@@ -176,7 +164,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "imageSource": "https://www.geffens.co.il/מסטיק-מאסט-פירות-מנטה",
     "productInfo": {
-      "Inhoud": "66 g",
       "Kenmerken": "Suikervrij. Zonder aspartaam en titaniumdioxide."
     },
     "sourcePhotos": [],
@@ -210,7 +197,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "imageSource": "Eerder gedownloade websitefoto, frontaanzicht 28 g; oorspronkelijke URL nog te reconstrueren",
     "productInfo": {
-      "Inhoud": "28 g",
       "Kenmerken": "Suikervrij. Zonder aspartaam en titaniumdioxide. Glutenvrij."
     },
     "sourcePhotos": [],
@@ -246,9 +232,7 @@ window.KPI_PRODUCTS = [
     "image": "images/22-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/shneiders/Licorice-Coloured?page=2",
-    "productInfo": {
-      "Inhoud": "150 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/e56be4b1-c875-4d60-9944-39d8cc6ebfe5.jpg",
       "source-labels/86d28601-ba6c-4100-8222-4496a1e7cabd.jpg"
@@ -257,7 +241,11 @@ window.KPI_PRODUCTS = [
       "e56be4b1-c875-4d60-9944-39d8cc6ebfe5",
       "86d28601-ba6c-4100-8222-4496a1e7cabd"
     ],
-    "warning": "Bevat zoethout."
+    "warning": "Bevat zoethout.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 13,
@@ -275,9 +263,7 @@ window.KPI_PRODUCTS = [
     "image": "images/13-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/candy-planet-vegan-cola-bottles",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/929ebe5d-e88b-49ab-9894-40f81617cb5a.jpg",
       "source-labels/2c7c4f2f-37a4-4aeb-abf5-6175bd7593d2.jpg"
@@ -287,7 +273,11 @@ window.KPI_PRODUCTS = [
       "2c7c4f2f-37a4-4aeb-abf5-6175bd7593d2"
     ],
     "warning": "",
-    "allergenNote": "Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten."
+    "allergenNote": "Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 14,
@@ -305,9 +295,7 @@ window.KPI_PRODUCTS = [
     "image": "images/14-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/shneiders/Banana-s?page=2",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/470f35e2-9b81-4ba3-9b46-e9c98cabcf0c.jpg",
       "source-labels/065c21db-3d28-45a0-af99-a2039871a9c4.jpg"
@@ -317,7 +305,11 @@ window.KPI_PRODUCTS = [
       "065c21db-3d28-45a0-af99-a2039871a9c4"
     ],
     "warning": "",
-    "allergenNote": "Tarwe en gluten zijn beide vermeld onder allergenen. Bevat tarwezetmeel. Het Franse etiket vermeldt minder dan 20 ppm gluten; het Hebreeuwse etiket vermeldt dat het product gluten bevat."
+    "allergenNote": "Tarwe en gluten zijn beide vermeld onder allergenen. Bevat tarwezetmeel. Het Franse etiket vermeldt minder dan 20 ppm gluten; het Hebreeuwse etiket vermeldt dat het product gluten bevat.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 15,
@@ -335,9 +327,7 @@ window.KPI_PRODUCTS = [
     "image": "images/15-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/shneiders/candy-planet-smooth-twin-cherries?page=2",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/a0950406-b9b2-4a61-b94a-a331eb1851d8.jpg",
       "source-labels/d78e850e-7f47-438a-913d-91b74c3a305c.jpg"
@@ -346,7 +336,11 @@ window.KPI_PRODUCTS = [
       "a0950406-b9b2-4a61-b94a-a331eb1851d8",
       "d78e850e-7f47-438a-913d-91b74c3a305c"
     ],
-    "warning": "E102 en E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden."
+    "warning": "E102 en E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 16,
@@ -364,9 +358,7 @@ window.KPI_PRODUCTS = [
     "image": "images/16-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/shneiders/Cola-Smooth?page=2",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/d0e96d35-41ad-43ad-aa54-a88e33656045.jpg",
       "source-labels/271b562c-984c-4f2c-8581-1b2317a351e9.jpg"
@@ -375,7 +367,11 @@ window.KPI_PRODUCTS = [
       "d0e96d35-41ad-43ad-aa54-a88e33656045",
       "271b562c-984c-4f2c-8581-1b2317a351e9"
     ],
-    "warning": ""
+    "warning": "",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 17,
@@ -393,9 +389,7 @@ window.KPI_PRODUCTS = [
     "image": "images/17-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/shneiders/Crocos-Reptiles?page=2",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/19df55c1-c60a-405b-a83f-238e2e642ffc.jpg",
       "source-labels/f091bb73-2e31-4afe-95e0-cee942da5b58.jpg"
@@ -405,7 +399,11 @@ window.KPI_PRODUCTS = [
       "f091bb73-2e31-4afe-95e0-cee942da5b58"
     ],
     "warning": "",
-    "allergenNote": "Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten."
+    "allergenNote": "Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 18,
@@ -423,9 +421,7 @@ window.KPI_PRODUCTS = [
     "image": "images/18-web.jpg",
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/shneiders/Teddy-Bears?page=2",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/f0da02e7-3654-41ea-b1b6-8e1066e71539.jpg",
       "source-labels/7c40c2f4-eceb-4e0b-8228-4b44f9069914.jpg"
@@ -434,7 +430,11 @@ window.KPI_PRODUCTS = [
       "f0da02e7-3654-41ea-b1b6-8e1066e71539",
       "7c40c2f4-eceb-4e0b-8228-4b44f9069914"
     ],
-    "warning": "E102 en E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden."
+    "warning": "E102 en E129 kunnen de activiteit of oplettendheid van kinderen nadelig beïnvloeden.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 10,
@@ -451,7 +451,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "imageSource": "https://elisha.be/en/all-products/taffy-time",
     "productInfo": {
-      "Inhoud": "800 g",
       "Smaken": "Aardbei, citroen, groene appel, bosbes, kers en sinaasappel"
     },
     "sourcePhotos": [
@@ -465,7 +464,11 @@ window.KPI_PRODUCTS = [
       "aa125430-cc02-47f6-b497-6018b9b976ed"
     ],
     "warning": "",
-    "allergenNote": "Vervaardigd in een fabriek waar melk en hazelnoten worden verwerkt."
+    "allergenNote": "Vervaardigd in een fabriek waar melk en hazelnoten worden verwerkt.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 11,
@@ -487,7 +490,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": false,
     "imageSource": "https://bp.spotyourorder.com/products/nosh-and-snacks/cookies-and-wafers/wafers/895280-elite-mini-snap-chocolate-bar",
     "productInfo": {
-      "Inhoud": "400 g",
       "Aantal": "21 tot 22 stuks"
     },
     "sourcePhotos": [
@@ -523,7 +525,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "imageSource": "Door gebruiker aangeleverde foto, op verzoek bewerkt: Passover- en glutenvrijvermeldingen verwijderd",
     "productInfo": {
-      "Inhoud": "400 g",
       "Aantal": "19 tot 20 stuks"
     },
     "sourcePhotos": [
@@ -552,9 +553,7 @@ window.KPI_PRODUCTS = [
     "image": "images/09-web.jpg",
     "imageEdited": false,
     "imageSource": "https://www.judaicawebstore.com/-elite-mini-mekupelet-mix-bag-400-gr-p1872",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/fb1a6608-61ab-42ce-b467-50a1f35d6bcf.jpg",
       "source-labels/5be2188e-e1d2-41cb-9263-2320df3948c9.jpg",
@@ -583,9 +582,7 @@ window.KPI_PRODUCTS = [
     "image": "images/19-web.jpg",
     "imageEdited": false,
     "imageSource": "https://shneiders.fr/fr/les-marshmallows-guimauves/205-mini-marsh-mallow-rose-blanc.html",
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/abc1d5d5-6bd1-4e84-82f3-8e814cc89c8f.jpg",
       "source-labels/b61a2811-f249-4734-95e4-0ef3e045cc16.jpg",
@@ -597,7 +594,11 @@ window.KPI_PRODUCTS = [
       "3445c1fc-4938-4fba-b7e4-5f87593c028c"
     ],
     "warning": "",
-    "allergenNote": "Vervaardigd in een fabriek waar melk en soja worden verwerkt."
+    "allergenNote": "Vervaardigd in een fabriek waar melk en soja worden verwerkt.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 20,
@@ -615,9 +616,7 @@ window.KPI_PRODUCTS = [
     "image": "images/20-web.jpg",
     "imageEdited": false,
     "imageSource": "https://shneiders.fr/fr/les-marshmallows-guimauves/204-marsh-mallow-blanc.html",
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/8fadcf03-03ff-4dc0-bce5-8c647b9547e7.jpg",
       "source-labels/e66d1906-3586-47e2-a28c-a39d4e0f1420.jpg",
@@ -629,7 +628,11 @@ window.KPI_PRODUCTS = [
       "31916e43-78d6-4bd9-b397-2071e976d935"
     ],
     "warning": "",
-    "allergenNote": "Vervaardigd in een fabriek waar melk en soja worden verwerkt."
+    "allergenNote": "Vervaardigd in een fabriek waar melk en soja worden verwerkt.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   },
   {
     "id": 21,
@@ -647,9 +650,7 @@ window.KPI_PRODUCTS = [
     "image": "images/21-web.jpg",
     "imageEdited": false,
     "imageSource": "https://shneiders.fr/fr/les-marshmallows-guimauves/202-marsh-mallow-kid.html",
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/94729967-aa0b-4e81-b258-2fa00f8c3f56.jpg",
       "source-labels/4633965c-7e84-41e0-8a76-bdebf831c6fb.jpg",
@@ -661,6 +662,10 @@ window.KPI_PRODUCTS = [
       "51d6aad8-843f-4fd6-864a-ca2e100af9b0"
     ],
     "warning": "",
-    "allergenNote": "Vervaardigd in een fabriek waar melk en soja worden verwerkt."
+    "allergenNote": "Vervaardigd in een fabriek waar melk en soja worden verwerkt.",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K (Parve)"
+    ]
   }
 ];

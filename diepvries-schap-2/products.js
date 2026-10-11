@@ -364,7 +364,11 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 17.jpg en 18.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 17.jpg en 18.jpg",
+    "kosherLines": [
+      "OU (Orthodox Union)",
+      "CRC"
+    ]
   },
   {
     "id": 9,
@@ -405,7 +409,11 @@ window.KPI_PRODUCTS = [
     "veganStatus": "Niet vegan: bevat melk",
     "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 19.jpg en 20.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 19.jpg en 20.jpg",
+    "kosherLines": [
+      "OU-D (Orthodox Union)",
+      "Badatz Edah HaChareidis"
+    ]
   },
   {
     "id": 11,
@@ -446,7 +454,11 @@ window.KPI_PRODUCTS = [
     "veganStatus": "Vegan volgens de voorkant van de verpakking",
     "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 21.jpg en 22.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 21.jpg en 22.jpg",
+    "kosherLines": [
+      "OU (Orthodox Union)",
+      "Badatz Edah HaChareidis"
+    ]
   },
   {
     "id": 10,
@@ -488,7 +500,11 @@ window.KPI_PRODUCTS = [
     "ingredientSourceNote": "Vertaald uit de volledig leesbare Franse ingrediëntenlijst op foto 24; Nederlandse tekst deels bedekt door reflectie.",
     "preparation": "Niet ontdooien. Oven voorverwarmen op 190 °C. Leg op bakpapier, bestrijk eventueel volgens het etiket met geklopt ei en bestrooi met het meegeleverde sesamzaad. Bak circa 25 minuten tot goudbruin. Toegevoegd ei verandert de allergenen en vegan-status van het bereide gerecht",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 23.jpg en 24.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 23.jpg en 24.jpg",
+    "kosherLines": [
+      "OU (Orthodox Union)",
+      "Badatz Edah HaChareidis"
+    ]
   },
   {
     "id": 12,
@@ -586,7 +602,11 @@ window.KPI_PRODUCTS = [
     "kosherStatus": "Parve",
     "veganStatus": "Vegan volgens de voorkant van de verpakking",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 33.jpg en 34.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 33.jpg en 34.jpg",
+    "kosherLines": [
+      "OU (Orthodox Union)",
+      "Badatz Edah HaChareidis"
+    ]
   },
   {
     "id": 14,
@@ -716,7 +736,12 @@ window.KPI_PRODUCTS = [
       "note": "Originele internetpackshot van de gele Parve-verpakking, 453 g; geen AI."
     },
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Kayco vermeldt OU, CRC en Hisachdus, Nirbater, OU bij dit product. https://www.kayco.com/product/haddar-16-oz-topping/"
+    "kosherSource": "Kayco vermeldt OU, CRC en Hisachdus, Nirbater, OU bij dit product. https://www.kayco.com/product/haddar-16-oz-topping/",
+    "kosherLines": [
+      "OU (Orthodox Union)",
+      "CRC Hisachdus Harabonim",
+      "Nirbater"
+    ]
   },
   {
     "id": 16,
@@ -754,7 +779,11 @@ window.KPI_PRODUCTS = [
       "url": "https://kosherfood.it/cdn/shop/files/KOSHER_PUFF_PASTRY_SHEETS_ROLL_1_KG..jpg?v=1761156622"
     },
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 38.jpg en 37.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 38.jpg en 37.jpg",
+    "kosherLines": [
+      "OU (Orthodox Union)",
+      "Badatz Edah HaChareidis"
+    ]
   },
   {
     "id": 18,
@@ -804,7 +833,11 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
-    }
+    },
+    "kosherLines": [
+      "OU",
+      "CRC (Central Rabbinical Congress)"
+    ]
   },
   {
     "id": 19,

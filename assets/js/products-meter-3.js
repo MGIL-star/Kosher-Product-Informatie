@@ -68,7 +68,11 @@ window.KPI_PRODUCTS = [
       "BEVAT SULFIETEN"
     ],
     "ean": "194961003061",
-    "image": "../assets/images/meter-3/schneiders-crema-balsamico-250ml.jpg"
+    "image": "../assets/images/meter-3/schneiders-crema-balsamico-250ml.jpg",
+    "kosherLines": [
+      "Rabbi E.L. Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 3,
@@ -85,7 +89,12 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "194961001920",
-    "image": "../assets/images/meter-3/controle-3-spray-sunflower.jpg"
+    "image": "../assets/images/meter-3/controle-3-spray-sunflower.jpg",
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "Rabbi E.L. Schneebalg",
+      "OK Kosher"
+    ]
   },
   {
     "id": 4,
@@ -102,7 +111,12 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "194961001913",
-    "image": "../assets/images/meter-3/controle-4-spray-olive.jpg"
+    "image": "../assets/images/meter-3/controle-4-spray-olive.jpg",
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "Rabbi E.L. Schneebalg",
+      "OK Kosher"
+    ]
   },
   {
     "id": 5,
@@ -222,7 +236,11 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "7350033980149",
-    "image": "../assets/images/meter-3/controle-13-blu-day.webp"
+    "image": "../assets/images/meter-3/controle-13-blu-day.webp",
+    "kosherLines": [
+      "OK Kosher",
+      "BIR (Badatz Igud Harabbonim)"
+    ]
   },
   {
     "id": 14,

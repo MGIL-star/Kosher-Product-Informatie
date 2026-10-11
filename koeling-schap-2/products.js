@@ -17,13 +17,13 @@ window.KPI_PRODUCTS = [
     "detailsPending": true,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/youghurt/Natural",
       "https://shefaco.be/about/kashrus"
-    ]
+    ],
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 8,
@@ -42,8 +42,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/all/Strawberry",
@@ -61,7 +60,8 @@ window.KPI_PRODUCTS = [
       "photos": [
         "fde6bbe2-3da8-4d59-a6e5-69e6acee38a5.jpg"
       ]
-    }
+    },
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 9,
@@ -80,8 +80,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/all/ForestFruit",
@@ -99,7 +98,8 @@ window.KPI_PRODUCTS = [
       "photos": [
         "0700731b-d208-4c75-a471-4ce8d91511ac.jpg"
       ]
-    }
+    },
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 10,
@@ -118,8 +118,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/all/Tropical",
@@ -139,7 +138,8 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Machsike Hadas Antwerpen",
       "Chalav Yisrael"
-    ]
+    ],
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 11,
@@ -227,13 +227,13 @@ window.KPI_PRODUCTS = [
     "detailsPending": true,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/youghurt/Natural",
       "https://shefaco.be/about/kashrus"
-    ]
+    ],
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 2,
@@ -252,8 +252,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/all/Strawberry",
@@ -273,7 +272,8 @@ window.KPI_PRODUCTS = [
         "029d03e2-cc31-4f16-9645-3e18d566bf42.jpg",
         "a94c108e-ca3e-4cc1-851a-ca06be65405c.jpg"
       ]
-    }
+    },
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 3,
@@ -292,8 +292,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +6 °C.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/all/ForestFruit",
@@ -313,7 +312,8 @@ window.KPI_PRODUCTS = [
         "9d95431b-86cc-4866-8f48-02cde520caf4.jpg",
         "0c8eab1e-05b4-4864-bc21-e9bf86eccc6b.jpg"
       ]
-    }
+    },
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 4,
@@ -333,13 +333,13 @@ window.KPI_PRODUCTS = [
     "detailsPending": true,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Zuivel": "Chalav Yisroel",
-      "Vetgehalte": "3,5–4,3%, afhankelijk van het seizoen."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://shefaco.be/all/Tropical",
       "https://shefaco.be/about/kashrus"
-    ]
+    ],
+    "ingredientsNote": "Vetgehalte: 3,5–4,3%, afhankelijk van het seizoen."
   },
   {
     "id": 5,
@@ -973,7 +973,7 @@ window.KPI_PRODUCTS = [
     "name": "Smeerkaaspuntjes 14% vet",
     "brand": "Euro",
     "category": "Kaas",
-    "variant": "200 g",
+    "variant": "200 g · 16 porties van 12,5 g",
     "ean": "7290108509090",
     "ingredients": "Kaas (MELK), koemelk (MELK), smeltzouten (polyfosfaten), stabilisator carrageen, kleurstof bètacaroteen, sorbinezuur, zout.",
     "allergens": [
@@ -982,7 +982,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Beit Yosef",
     "image": "./images/euro-kaaspuntjes-200g.png",
     "productInfo": {
-      "Inhoud": "16 porties van 12,5 g.",
       "Bewaaradvies": "Gekoeld bewaren bij maximaal +8 °C. Houdbaarheidsdatum: zie verpakking."
     },
     "ingredientsComplete": true,
@@ -1144,7 +1143,6 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Vetgehalte": "35% minder vet dan de gewone variant.",
       "Zuivel": "Chalav Yisroel"
     },
     "sources": [
@@ -1166,7 +1164,8 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "tmp/kaas-bron-20261011"
     },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "ingredientsNote": "Vetgehalte: 35% minder vet dan de gewone variant."
   },
   {
     "id": 19,
@@ -1225,7 +1224,6 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Vetgehalte": "28% minder vet dan de gewone variant.",
       "Zuivel": "Chalav Yisroel"
     },
     "sources": [
@@ -1247,7 +1245,8 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "tmp/kaas-bron-20261011"
     },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "ingredientsNote": "Vetgehalte: 28% minder vet dan de gewone variant."
   },
   {
     "id": 21,
@@ -2266,8 +2265,7 @@ window.KPI_PRODUCTS = [
     "quantitySource": "Gewicht niet leesbaar op de aangeleverde foto’s.",
     "barcodeSource": "Geen leesbare barcode aangeleverd voor deze verpakking.",
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Vetgehalte": "13%."
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Houdbaarheidsdatum: zie verpakking."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -2287,7 +2285,8 @@ window.KPI_PRODUCTS = [
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "5050cadf-4f75-4f93-8a8a-41335f774081.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
-    }
+    },
+    "ingredientsNote": "Vetgehalte: 13%."
   },
   {
     "id": 41,
@@ -2717,8 +2716,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +8 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Vetgehalte": "82%."
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +8 °C. Houdbaarheidsdatum: zie verpakking."
     },
     "sources": [],
     "sourcePhoto": "3d0c2188-e8ea-4ead-9a04-00dc84676d30.jpg",
@@ -2738,7 +2736,8 @@ window.KPI_PRODUCTS = [
       "Rav Schlesinger",
       "Straatsburg"
     ],
-    "kosherSource": "Hebreeuws keurmerk op Le Gall-roomboter: onder toezicht van Rav Schlesinger, Av Beth Din Straatsburg."
+    "kosherSource": "Hebreeuws keurmerk op Le Gall-roomboter: onder toezicht van Rav Schlesinger, Av Beth Din Straatsburg.",
+    "ingredientsNote": "Vetgehalte: 82%."
   },
   {
     "id": 58,
@@ -2755,8 +2754,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Bewaaradvies": "Bewaren tussen +5 °C en +18 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Vetgehalte": "80%."
+      "Bewaaradvies": "Bewaren tussen +5 °C en +18 °C. Houdbaarheidsdatum: zie verpakking."
     },
     "sources": [],
     "sourcePhoto": "8c619462-15f9-488b-a8cc-242c954a9d5c.jpg",
@@ -2777,7 +2775,8 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke etiketten: 90e99a19-69cd-4f3a-9f17-27b3e7f0bf02.jpg, d1f38997-dee8-419b-a42b-ad5ec1a00347.jpg",
     "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherSource": "Naam Adath Yereim en vermelding kosjer parve lamehadrin zichtbaar op de nieuwe detailfoto."
+    "kosherSource": "Naam Adath Yereim en vermelding kosjer parve lamehadrin zichtbaar op de nieuwe detailfoto.",
+    "ingredientsNote": "Vetgehalte: 80%."
   },
   {
     "id": 59,
@@ -2794,8 +2793,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {
-      "Bewaaradvies": "Bewaren tussen +5 °C en +18 °C. Houdbaarheidsdatum: zie verpakking.",
-      "Vetgehalte": "80%."
+      "Bewaaradvies": "Bewaren tussen +5 °C en +18 °C. Houdbaarheidsdatum: zie verpakking."
     },
     "sources": [],
     "sourcePhoto": "8c619462-15f9-488b-a8cc-242c954a9d5c.jpg",
@@ -2816,14 +2814,15 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke etiketten: 4c37b2d9-0224-426c-917d-05705fa51c36.jpg, 3fd5099f-6cc5-4667-a784-b8e3ca6c2193.jpg",
     "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "kosherSource": "Naam Adath Yereim en vermelding kosjer parve lamehadrin zichtbaar op de nieuwe detailfoto."
+    "kosherSource": "Naam Adath Yereim en vermelding kosjer parve lamehadrin zichtbaar op de nieuwe detailfoto.",
+    "ingredientsNote": "Vetgehalte: 80%."
   },
   {
     "id": 76,
     "name": "Ongezouten margarine",
     "brand": "Migdal",
     "category": "Boter en margarine",
-    "variant": "453 g",
+    "variant": "453 g · 4 sticks",
     "ean": "026638191002",
     "ingredients": "Vloeibare SOJAolie, palmolie en palmpitolie, water, koolzaadolie. Bevat 2% of minder van: plantaardige mono- en diglyceriden, SOJAlecithine, kaliumsorbaat en citroenzuur (conserveermiddelen), bètacaroteen (kleurstof), vitamine A-palmitaat.",
     "allergens": [
@@ -2840,7 +2839,6 @@ window.KPI_PRODUCTS = [
     "kosherSource": "OU en rond keurmerk: Under the supervision of Rabbi Binyomin Gruber, Monsey, N.Y.; Kosher Parve.",
     "image": "./images/migdal-margarine-454g.png",
     "productInfo": {
-      "Inhoud": "4 sticks.",
       "Bewaaradvies": "Gekoeld bewaren. Houdbaarheidsdatum: zie verpakking."
     },
     "ingredientsComplete": true,

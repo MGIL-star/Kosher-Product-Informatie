@@ -1010,7 +1010,7 @@ window.KPI_PRODUCTS = [
     "name": "Surimi",
     "brand": "Fleury Michon",
     "category": "Vis",
-    "variant": "200 g",
+    "variant": "200 g · 12 stuks",
     "ean": "3302745556109",
     "kosher": "Chatam Sofer Bnei Brak",
     "kosherMark": {
@@ -1024,7 +1024,6 @@ window.KPI_PRODUCTS = [
     },
     "image": "./images/surimi-180.png",
     "productInfo": {
-      "Inhoud": "12 stuks",
       "Bewaaradvies": "Gekoeld bewaren bij +4 °C. Na openen goed afsluiten en binnen 3 tot 4 dagen consumeren. Volg afwijkende bewaarvoorschriften en een kortere houdbaarheid op de verpakking."
     }
   },

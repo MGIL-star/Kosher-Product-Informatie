@@ -31,6 +31,11 @@ window.KPI_PRODUCTS = [
       0.034,
       1,
       0.966
+    ],
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Jeruzalem",
+      "Beth Zedek van de orthodox joodse gemeenschap (Parve)"
     ]
   },
   {
@@ -65,6 +70,11 @@ window.KPI_PRODUCTS = [
       0.097,
       0.888,
       0.90993
+    ],
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Jeruzalem",
+      "Beth Zedek van de orthodox joodse gemeenschap (Parve)"
     ]
   },
   {
@@ -136,7 +146,11 @@ window.KPI_PRODUCTS = [
     ],
     "imageEditNote": "AI perspectiefbewerking van fabrikantbeeld met etiketfoto als detailreferentie. Recht vooraanzicht, illustratief. Kleine verpakkingsdetails kunnen afwijken. Etiketgegevens op de kaart blijven ongewijzigd.",
     "kosherSource": "https://elisha.be/en/Toast-Original",
-    "kosherSourceNote": "EAN gecontroleerd op Elisha. Kosher Supervision vermeldt Rabbi E.L Schneebalg en STAR-K; Parve: Yes. Afiyat Yisrael volgens eigen etiketfoto."
+    "kosherSourceNote": "EAN gecontroleerd op Elisha. Kosher Supervision vermeldt Rabbi E.L Schneebalg en STAR-K; Parve: Yes. Afiyat Yisrael volgens eigen etiketfoto.",
+    "kosherLines": [
+      "Rabbi E.L. Schneebalg",
+      "STAR-K - Afiyat Yisrael (Parve)"
+    ]
   },
   {
     "id": 5,
@@ -171,7 +185,11 @@ window.KPI_PRODUCTS = [
     ],
     "imageEditNote": "AI perspectiefbewerking van fabrikantbeeld met etiketfoto als detailreferentie. Recht vooraanzicht, illustratief. Kleine verpakkingsdetails kunnen afwijken. Etiketgegevens op de kaart blijven ongewijzigd.",
     "kosherSource": "https://elisha.be/en/toast-whole-grain",
-    "kosherSourceNote": "EAN gecontroleerd op Elisha. Kosher Supervision vermeldt Rabbi E.L Schneebalg en STAR-K; Parve: Yes. Afiyat Yisrael volgens eigen etiketfoto."
+    "kosherSourceNote": "EAN gecontroleerd op Elisha. Kosher Supervision vermeldt Rabbi E.L Schneebalg en STAR-K; Parve: Yes. Afiyat Yisrael volgens eigen etiketfoto.",
+    "kosherLines": [
+      "Rabbi E.L. Schneebalg",
+      "STAR-K - Afiyat Yisrael (Parve)"
+    ]
   },
   {
     "id": 12,

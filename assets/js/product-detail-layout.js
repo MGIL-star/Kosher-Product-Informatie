@@ -20,7 +20,7 @@
         line.append(document.createTextNode(text.trim()));
       });
     }
-    const hiddenLabel = label => /bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
+    const hiddenLabel = label => /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
       if (hiddenLabel(heading?.textContent || '')) { section.remove(); continue; }

@@ -326,7 +326,11 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
+    },
+    "kosherLines": [
+      "KF (Federation of Synagogues, Londen)",
+      "Rabbijn Pinchas Avraham Meyers (Vaad HaKashrut Den Haag)"
+    ]
   },
   {
     "id": 6,
@@ -534,7 +538,12 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
+    },
+    "kosherLines": [
+      "Badatz She’erit Yisrael",
+      "Badatz Machzikei Hadass (Belz)",
+      "Rabbinaat Mateh Asher"
+    ]
   },
   {
     "id": 11,
@@ -749,7 +758,11 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
+    },
+    "kosherLines": [
+      "Badatz Machzikei Hadass (Belz)",
+      "Rabbinaat Mateh Asher"
+    ]
   },
   {
     "id": 16,
@@ -794,7 +807,11 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking; productkoppeling bevestigd door gebruiker"
-    }
+    },
+    "kosherLines": [
+      "Badatz Machzikei Hadass (Belz)",
+      "Opperrabbinaat Kiryat Gat"
+    ]
   },
   {
     "id": 19,
@@ -971,7 +988,11 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Laatste Rio-detailfoto’s met volledige Hebreeuwse ingrediënten en allergenen"
-    }
+    },
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Jeruzalem)",
+      "Rabbinaat van Netanya"
+    ]
   },
   {
     "id": 21,
@@ -1018,7 +1039,11 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Laatste Rio-detailfoto’s met volledige Hebreeuwse ingrediënten en allergenen"
-    }
+    },
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Jeruzalem)",
+      "Rabbinaat van Netanya"
+    ]
   },
   {
     "id": 22,

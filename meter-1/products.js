@@ -16,9 +16,7 @@ window.KPI_PRODUCTS = [
       "2.jpg",
       "3.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1,5 L"
-    },
+    "productInfo": {},
     "imageEdited": true,
     "imagePresentation": {
       "corners": [
@@ -58,9 +56,7 @@ window.KPI_PRODUCTS = [
       "4.jpg",
       "5.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1,5 L"
-    },
+    "productInfo": {},
     "imageEdited": true,
     "imagePresentation": {
       "corners": [
@@ -100,9 +96,7 @@ window.KPI_PRODUCTS = [
       "6.jpg",
       "7.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1,5 L"
-    },
+    "productInfo": {},
     "imageEdited": true,
     "imagePresentation": {
       "corners": [
@@ -143,9 +137,7 @@ window.KPI_PRODUCTS = [
       "9.jpg",
       "10.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1 L"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -185,9 +177,7 @@ window.KPI_PRODUCTS = [
       "12.jpg",
       "13.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1 L"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -227,9 +217,7 @@ window.KPI_PRODUCTS = [
       "15.jpg",
       "16.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1 L"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -268,9 +256,7 @@ window.KPI_PRODUCTS = [
       "17.jpg",
       "18.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1 L"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -309,9 +295,7 @@ window.KPI_PRODUCTS = [
       "19.jpg",
       "20.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1 L"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [

@@ -20,9 +20,7 @@ window.KPI_PRODUCTS = [
       "2.jpg",
       "2a.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -43,7 +41,11 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6852459016393443
-    }
+    },
+    "kosherLines": [
+      "OU",
+      "Rabbinaat Yokneam (Parve)"
+    ]
   },
   {
     "id": 6,
@@ -67,9 +69,7 @@ window.KPI_PRODUCTS = [
       "7.jpg",
       "8.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -114,9 +114,7 @@ window.KPI_PRODUCTS = [
       "4.jpg",
       "5.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -166,9 +164,7 @@ window.KPI_PRODUCTS = [
       "10.jpg",
       "11.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -189,7 +185,11 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6862745098039216
-    }
+    },
+    "kosherLines": [
+      "OU",
+      "Rabbinaat Yokneam (Parve)"
+    ]
   },
   {
     "id": 12,
@@ -211,9 +211,7 @@ window.KPI_PRODUCTS = [
       "13.jpg",
       "14.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -263,9 +261,7 @@ window.KPI_PRODUCTS = [
       "16.jpg",
       "17.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -309,9 +305,7 @@ window.KPI_PRODUCTS = [
       "19.jpg",
       "20.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -333,7 +327,11 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7016574585635359
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherLines": [
+      "Badatz Edah Hachareidis",
+      "Rabbinaat Safed (Parve)"
+    ]
   },
   {
     "id": 21,
@@ -385,7 +383,11 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/61.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "OU",
+      "Rabbijn Shmuel Eliezer Stern (Parve)"
+    ]
   },
   {
     "id": 24,
@@ -407,9 +409,7 @@ window.KPI_PRODUCTS = [
       "25.jpg",
       "26.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -430,7 +430,11 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6369426751592356
-    }
+    },
+    "kosherLines": [
+      "Badatz Edah Hachareidis",
+      "Rabbinaat Yokneam"
+    ]
   },
   {
     "id": 27,
@@ -452,9 +456,7 @@ window.KPI_PRODUCTS = [
       "28.jpg",
       "29.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -475,7 +477,11 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6366559485530546
-    }
+    },
+    "kosherLines": [
+      "Badatz Edah Hachareidis",
+      "Rabbinaat Yokneam"
+    ]
   },
   {
     "id": 30,
@@ -496,9 +502,7 @@ window.KPI_PRODUCTS = [
       "31.jpg",
       "32.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -519,7 +523,12 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6378737541528239
-    }
+    },
+    "kosherLines": [
+      "OU",
+      "Badatz Edah Hachareidis",
+      "Rabbinaat Yokneam (Parve)"
+    ]
   },
   {
     "id": 33,
@@ -540,9 +549,7 @@ window.KPI_PRODUCTS = [
       "34.jpg",
       "35.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "150 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -563,7 +570,11 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.7700934579439253
-    }
+    },
+    "kosherLines": [
+      "OU",
+      "Badatz Edah Hachareidis (Parve)"
+    ]
   },
   {
     "id": 36,
@@ -587,7 +598,6 @@ window.KPI_PRODUCTS = [
       "38.jpg"
     ],
     "productInfo": {
-      "Inhoud": "150 g",
       "Kenmerken": "Gebakken, niet gefrituurd. Zonder kleurstoffen en conserveermiddelen."
     },
     "imagePresentation": {
@@ -617,7 +627,12 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/63.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "OU",
+      "Rabbijn Shmuel Eliezer Stern",
+      "Badatz Edah HaChareidis (Parve)"
+    ]
   },
   {
     "id": 39,
@@ -638,9 +653,7 @@ window.KPI_PRODUCTS = [
       "40.jpg",
       "41.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -662,7 +675,11 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.6871794871794872
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherLines": [
+      "Badatz Edah Hachareidis",
+      "Rabbinaat Nof HaGalil (Parve)"
+    ]
   },
   {
     "id": 42,
@@ -684,9 +701,7 @@ window.KPI_PRODUCTS = [
       "43.jpg",
       "44.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -708,7 +723,11 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.568421052631579
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherLines": [
+      "Badatz Edah Hachareidis",
+      "Rabbinaat Nof HaGalil (Parve)"
+    ]
   },
   {
     "id": 58,
@@ -808,9 +827,7 @@ window.KPI_PRODUCTS = [
       "53.jpg",
       "54.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "75 g"
-    },
+    "productInfo": {},
     "allergenNote": "Geproduceerd in een fabriek waar ook pinda’s, sesam, soja en noten worden verwerkt.",
     "imagePresentation": {
       "corners": [
@@ -851,9 +868,7 @@ window.KPI_PRODUCTS = [
       "50.jpg",
       "51.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "75 g"
-    },
+    "productInfo": {},
     "allergenNote": "Geproduceerd in een fabriek waar ook pinda’s, sesam, soja en noten worden verwerkt.",
     "imagePresentation": {
       "corners": [
@@ -895,9 +910,7 @@ window.KPI_PRODUCTS = [
       "47.jpg",
       "48.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "75 g"
-    },
+    "productInfo": {},
     "allergenNote": "Geproduceerd in een fabriek waar ook pinda’s, sesam, soja en noten worden verwerkt.",
     "imagePresentation": {
       "corners": [
@@ -938,9 +951,7 @@ window.KPI_PRODUCTS = [
       "62.jpg",
       "63.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "75 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -980,9 +991,7 @@ window.KPI_PRODUCTS = [
       "65.jpg",
       "66.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "75 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1022,9 +1031,7 @@ window.KPI_PRODUCTS = [
       "68.jpg",
       "69.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1063,9 +1070,7 @@ window.KPI_PRODUCTS = [
       "70.jpg",
       "71.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1104,9 +1109,7 @@ window.KPI_PRODUCTS = [
       "72.jpg",
       "73.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1145,9 +1148,7 @@ window.KPI_PRODUCTS = [
       "74.jpg",
       "75.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1187,9 +1188,7 @@ window.KPI_PRODUCTS = [
       "77.jpg",
       "78.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "255 g (3 × 85 g)"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1234,9 +1233,7 @@ window.KPI_PRODUCTS = [
       "80.jpg",
       "81.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1257,7 +1254,11 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.605
-    }
+    },
+    "kosherLines": [
+      "OU",
+      "Rabbinaat Safed (Parve)"
+    ]
   },
   {
     "id": 82,
@@ -1279,9 +1280,7 @@ window.KPI_PRODUCTS = [
       "83.jpg",
       "84.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1325,9 +1324,7 @@ window.KPI_PRODUCTS = [
       "86.jpg",
       "87.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1370,9 +1367,7 @@ window.KPI_PRODUCTS = [
       "89.jpg",
       "90.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1415,9 +1410,7 @@ window.KPI_PRODUCTS = [
       "92.jpg",
       "93.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1457,9 +1450,7 @@ window.KPI_PRODUCTS = [
       "95.jpg",
       "96.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "125 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1500,9 +1491,7 @@ window.KPI_PRODUCTS = [
       "98.jpg",
       "99.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "125 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1542,7 +1531,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#111",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "geel"
     },
     "imagePresentation": {
@@ -1598,7 +1586,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#113",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "rood"
     },
     "imagePresentation": {
@@ -1654,7 +1641,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#114",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "oranje"
     },
     "imagePresentation": {
@@ -1710,7 +1696,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#115",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "groen"
     },
     "imagePresentation": {
@@ -1766,7 +1751,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#116",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "paars"
     },
     "imagePresentation": {
@@ -1822,7 +1806,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#117",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "wit"
     },
     "imagePresentation": {
@@ -1879,7 +1862,6 @@ window.KPI_PRODUCTS = [
     "image": "images/elisha-sprinkles-clean.png#118",
     "sourcePhotos": [],
     "productInfo": {
-      "Inhoud": "120 g",
       "Kleur": "kleurenmix"
     },
     "imagePresentation": {
@@ -1937,9 +1919,7 @@ window.KPI_PRODUCTS = [
       "100.jpg",
       "101.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "30 stuks"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -1988,9 +1968,7 @@ window.KPI_PRODUCTS = [
       "103.jpg",
       "104.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "375 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -2032,7 +2010,6 @@ window.KPI_PRODUCTS = [
       "106.jpg"
     ],
     "productInfo": {
-      "Inhoud": "320 g (8 stuks)",
       "Bewaren": "Na opening in een gesloten verpakking in de koelkast bewaren en binnen 3 dagen gebruiken.",
       "Bereiding": "De tortilla’s zijn voorgebakken en hoeven alleen te worden opgewarmd."
     },
@@ -2063,7 +2040,11 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/80.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "Rabbijn Pinchas Avraham Meyers (Den Haag)",
+      "Machsike Hadas Antwerpen · Pat Yisrael (Parve)"
+    ]
   },
   {
     "id": 107,
@@ -2083,9 +2064,7 @@ window.KPI_PRODUCTS = [
       "107.jpg",
       "108.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "370 g (6 stuks)"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [

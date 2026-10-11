@@ -13,7 +13,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/1.webp",
     "productInfo": {
-      "Inhoud": "453 g",
       "Kenmerken": "Vegan. Glutenvrij"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -49,7 +48,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/2.webp",
     "productInfo": {
-      "Inhoud": "453 g",
       "Kenmerken": "Glutenvrij"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -83,9 +81,7 @@ window.KPI_PRODUCTS = [
     "category": "Tahini",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/3.png",
-    "productInfo": {
-      "Inhoud": "500 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -114,7 +110,6 @@ window.KPI_PRODUCTS = [
     "kosher": "CRC Hisachdus Harabonim · Rabbi E.L. Schneebalg · STAR-K (Parve)",
     "image": "images/4.jpg",
     "productInfo": {
-      "Inhoud": "454 g",
       "Kenmerken": "Vegan. Glutenvrij"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -132,6 +127,11 @@ window.KPI_PRODUCTS = [
       0.0117,
       0.785,
       0.985
+    ],
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "Rabbi E.L. Schneebalg",
+      "STAR-K (Parve)"
     ]
   },
   {
@@ -147,9 +147,7 @@ window.KPI_PRODUCTS = [
     "category": "Tahini",
     "kosher": "CRC Hisachdus Harabonim · Rabbi E.L. Schneebalg · STAR-K (Parve)",
     "image": "images/5.jpg",
-    "productInfo": {
-      "Inhoud": "310 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -160,6 +158,11 @@ window.KPI_PRODUCTS = [
       0.02,
       0.7,
       0.9933
+    ],
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "Rabbi E.L. Schneebalg",
+      "STAR-K (Parve)"
     ]
   },
   {
@@ -176,7 +179,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU (Parve)",
     "image": "images/6-single.jpg",
     "productInfo": {
-      "Inhoud": "310 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -212,7 +214,6 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-amba-clean.png",
     "productInfo": {
-      "Inhoud": "380 g",
       "Productie": "Dit product wordt geproduceerd en verpakt in een gecertificeerde omgeving."
     },
     "sourceDocument": "Door gebruiker aangeleverde product- en etiketfoto’s; ingrediënten en sporenvermelding aangevuld door gebruiker op 25 september 2026",
@@ -240,7 +241,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Badatz Beit Yosef; Rabbinaat Petach Tikva · KLP (alleen voor wie kitniyot eet)",
     "image": "images/7-supplied.png",
     "productInfo": {
-      "Inhoud": "250 ml",
       "Kenmerken": "Zonder kunstmatige kleurstoffen. Zonder conserveermiddelen."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -262,7 +262,11 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "607a320d-b221-488a-8cea-2bcae8a7dacf.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP)"
+    ]
   },
   {
     "id": 8,
@@ -276,7 +280,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU · Rabbinaat Zichron Yaakov (Parve)",
     "image": "images/8-online.jpg",
     "productInfo": {
-      "Inhoud": "280 ml",
       "Bewaren": "Koel en donker bewaren, buiten direct zonlicht. Na opening gekoeld bewaren.",
       "Gebruik": "Schudden voor gebruik.",
       "Let op": "Kan pitten van de vruchten bevatten."
@@ -296,7 +299,11 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://www.israelcart.com/product/chili-and-garlic-cooking-sauce/",
     "kosherChecked": "2026-09-18",
     "ingredientSource": "Gebruikersfoto etiket: dcca337b-589e-4d16-8087-156a45b5393b.jpg",
-    "allergenSource": "Geen allergenen volgens gebruiker; geen allergenen vermeld op aangeleverd etiket."
+    "allergenSource": "Geen allergenen volgens gebruiker; geen allergenen vermeld op aangeleverd etiket.",
+    "kosherLines": [
+      "OU",
+      "Rabbinaat Zichron Yaakov (Parve)"
+    ]
   },
   {
     "id": 9,
@@ -311,9 +318,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen & Dressings",
     "kosher": "OU (Parve)",
     "image": "images/9.png",
-    "productInfo": {
-      "Inhoud": "240 ml"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "kosherStatus": "Parve",
@@ -347,9 +352,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen & Dressings",
     "kosher": "OU (Parve)",
     "image": "images/10.png",
-    "productInfo": {
-      "Inhoud": "240 ml"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "reviewNotes": [
@@ -385,9 +388,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen & Dressings",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/11-online.jpg",
-    "productInfo": {
-      "Inhoud": "360 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "mayContain": "Ei en mosterd.",
@@ -423,9 +424,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen & Dressings",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/12-online.jpg",
-    "productInfo": {
-      "Inhoud": "330 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "mayContain": "Ei en mosterd.",
@@ -455,9 +454,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen & Dressings",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/13-online.jpg",
-    "productInfo": {
-      "Inhoud": "295 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -491,9 +488,7 @@ window.KPI_PRODUCTS = [
     "category": "Mosterd & Mayonaise",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/15.jpg",
-    "productInfo": {
-      "Inhoud": "265 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "kosherStatus": "Parve",
@@ -521,9 +516,7 @@ window.KPI_PRODUCTS = [
     "category": "Mosterd & Mayonaise",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/16.jpg",
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -549,9 +542,7 @@ window.KPI_PRODUCTS = [
     "category": "Pesto",
     "kosher": "STAR-K · Manchester Beth Din · Rabbijn E.L. Schneebalg (Parve)",
     "image": "images/22.jpg",
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "mayContain": "Andere noten en pinda’s.",
@@ -569,7 +560,12 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://shneiders.fr/import_images/PLI_02_02B_16_Certification-01.png",
     "kosherChecked": "2026-09-18",
-    "ingredientSource": "Gebruikersfoto etiket: d69c5af7-ba9e-46d9-851d-eebd0051ef39.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: d69c5af7-ba9e-46d9-851d-eebd0051ef39.jpg",
+    "kosherLines": [
+      "STAR-K",
+      "Manchester Beth Din",
+      "Rabbijn E.L. Schneebalg (Parve)"
+    ]
   },
   {
     "id": 23,
@@ -585,7 +581,6 @@ window.KPI_PRODUCTS = [
     "kosher": "STAR-K · Manchester Beth Din · Rabbijn E.L. Schneebalg (Parve)",
     "image": "images/23.jpg",
     "productInfo": {
-      "Inhoud": "190 g",
       "Bewaren": "Koel en droog bewaren. Na opening gekoeld bewaren en binnen 7 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -605,7 +600,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://shneiders.fr/import_images/PLI_02_02B_16_Certification-01.png",
     "kosherChecked": "2026-09-18",
     "mayContain": "Andere noten en pinda’s.",
-    "ingredientSource": "Gebruikersfoto etiket: codex-clipboard-cb6517a3-b4bb-4563-8b81-81faa74f50db.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: codex-clipboard-cb6517a3-b4bb-4563-8b81-81faa74f50db.jpg",
+    "kosherLines": [
+      "STAR-K",
+      "Manchester Beth Din",
+      "Rabbijn E.L. Schneebalg (Parve)"
+    ]
   },
   {
     "id": 24,
@@ -621,7 +621,6 @@ window.KPI_PRODUCTS = [
     "kosher": "STAR-K · Manchester Beth Din · Rabbijn E.L. Schneebalg (Parve)",
     "image": "images/24.jpg",
     "productInfo": {
-      "Inhoud": "550 g",
       "Bewaren": "Koel en droog bewaren. Na opening gekoeld bewaren en binnen 7 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -642,7 +641,12 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://shneiders.fr/import_images/PLI_02_02B_16_Certification-01.png",
     "kosherChecked": "2026-09-18",
-    "ingredientSource": "Gebruikersfoto etiket: codex-clipboard-cb6517a3-b4bb-4563-8b81-81faa74f50db.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: codex-clipboard-cb6517a3-b4bb-4563-8b81-81faa74f50db.jpg",
+    "kosherLines": [
+      "STAR-K",
+      "Manchester Beth Din",
+      "Rabbijn E.L. Schneebalg (Parve)"
+    ]
   },
   {
     "id": 25,
@@ -656,7 +660,6 @@ window.KPI_PRODUCTS = [
     "kosher": "KLBD (Parve)",
     "image": "images/25.png",
     "productInfo": {
-      "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
       "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
@@ -698,7 +701,6 @@ window.KPI_PRODUCTS = [
     "kosher": "KLBD (Parve)",
     "image": "images/28.png",
     "productInfo": {
-      "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
       "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
@@ -741,7 +743,6 @@ window.KPI_PRODUCTS = [
     "kosher": "KLBD (Parve)",
     "image": "images/26.png",
     "productInfo": {
-      "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
       "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
@@ -785,7 +786,6 @@ window.KPI_PRODUCTS = [
     "kosher": "KLBD (Parve)",
     "image": "images/27.jpg",
     "productInfo": {
-      "Inhoud": "400 g",
       "Kenmerken": "Biologisch. Vegan. Glutenvrij",
       "Bewaren": "Bewaren tussen 0 °C en 25 °C, beschermd tegen direct zonlicht. Na opening gekoeld bewaren en binnen 2 dagen consumeren."
     },
@@ -826,7 +826,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/29.png",
     "productInfo": {
-      "Inhoud": "270 g",
       "Bewaren": "Na openen gekoeld bewaren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -861,7 +860,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "image": "images/30.png",
     "productInfo": {
-      "Inhoud": "200 g",
       "Uitlekgewicht": "200 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -900,7 +898,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "image": "images/31-supplied.png",
     "productInfo": {
-      "Inhoud": "150 g",
       "Uitlekgewicht": "150 g"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -938,9 +935,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
     "image": "images/32.png",
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "origin": "Tunesië",
@@ -980,7 +975,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/33-clean.png",
     "productInfo": {
-      "Inhoud": "55 g",
       "Bewaren": "Na openen gekoeld bewaren en binnen 15 dagen gebruiken.",
       "Uitlekgewicht": "55 g",
       "Netto inhoud": "100 g"
@@ -1021,7 +1015,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/34-straight.png",
     "productInfo": {
-      "Inhoud": "200 g",
       "Bewaren": "Na openen gekoeld bewaren en binnen 48 uur gebruiken."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1057,7 +1050,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (zonder kitniyot) · Bishul Beit Yosef",
     "image": "images/37-supplied.png",
     "productInfo": {
-      "Inhoud": "200 g",
       "Bewaren": "Na openen binnen 48 uur gebruiken."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1091,9 +1083,7 @@ window.KPI_PRODUCTS = [
     "category": "Visconserven",
     "kosher": "Badatz Agudat Harabanim",
     "image": "images/35-fr.jpg",
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -1129,8 +1119,7 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Badatz Beit Yosef · KLP (alleen voor wie kitniyot eet)",
     "image": "images/36-straight.png",
     "productInfo": {
-      "Bewaren": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren.",
-      "Inhoud": "104 g"
+      "Bewaren": "Op kamertemperatuur en droog bewaren. Na openen gekoeld bewaren en binnen 2 dagen consumeren."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -1175,8 +1164,7 @@ window.KPI_PRODUCTS = [
       0.9476
     ],
     "productInfo": {
-      "Bewaren": "Op kamertemperatuur en droog bewaren. Na opening in de koelkast bewaren en binnen 2 dagen consumeren.",
-      "Inhoud": "104 g"
+      "Bewaren": "Op kamertemperatuur en droog bewaren. Na opening in de koelkast bewaren en binnen 2 dagen consumeren."
     },
     "ingredientsPartial": false,
     "reviewNotes": [
@@ -1205,7 +1193,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/44.png",
     "productInfo": {
-      "Inhoud": "510 g · 4 stuks",
       "Visgehalte": "Minimaal 50% vis per bal.",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
       "Let op": "Kan visgraten bevatten.",
@@ -1246,7 +1233,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/45-online.png",
     "productInfo": {
-      "Inhoud": "350 g · 6 stuks",
       "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
       "Let op": "Kan visgraten bevatten.",
@@ -1293,7 +1279,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem (Parve)",
     "image": "images/46-online.jpg",
     "productInfo": {
-      "Inhoud": "350 g · 6 stuks",
       "Visgehalte": "Minimaal 42% vis per bal.",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
       "Let op": "Kan visgraten bevatten.",
@@ -1338,7 +1323,6 @@ window.KPI_PRODUCTS = [
     "kosher": "KP · Badatz Agudat Harabanim",
     "image": "images/38-supplied.png",
     "productInfo": {
-      "Inhoud": "250 g",
       "Bewaren": "Na openen binnen 48 uur gebruiken."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1355,7 +1339,11 @@ window.KPI_PRODUCTS = [
       0.945
     ],
     "kosherSource": "Gebruiker vraagt op 9 oktober 2026 bij Old Riga uitsluitend KP en de Hebreeuwse naam van de eerder bevestigde Hechser te tonen. KP niet vertaald naar een bevestigde KLP-status.",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "KP",
+      "Badatz Agudat Harabanim"
+    ]
   },
   {
     "id": 39,
@@ -1370,9 +1358,7 @@ window.KPI_PRODUCTS = [
     "category": "Visconserven",
     "kosher": "Kedassia London (Parve)",
     "image": "images/39-supplied.png",
-    "productInfo": {
-      "Inhoud": "160 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "reviewNotes": [
@@ -1403,9 +1389,7 @@ window.KPI_PRODUCTS = [
     "category": "Visconserven",
     "kosher": "Kedassia London (Parve)",
     "image": "images/40.jpg",
-    "productInfo": {
-      "Inhoud": "160 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -1431,9 +1415,7 @@ window.KPI_PRODUCTS = [
     "category": "Visconserven",
     "kosher": "CRC Hisachdus Harabonim · OU (Parve)",
     "image": "images/elisha-original.jpg",
-    "productInfo": {
-      "Inhoud": "145 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "kosherStatus": "Parve",
@@ -1451,7 +1433,11 @@ window.KPI_PRODUCTS = [
       0.96833
     ],
     "kosherSource": "https://elisha.be/en/tuna-in-sunflower-oil",
-    "barcodeSource": "Door gebruiker bevestigd in gesprek."
+    "barcodeSource": "Door gebruiker bevestigd in gesprek.",
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "OU (Parve)"
+    ]
   },
   {
     "id": 42,
@@ -1466,9 +1452,7 @@ window.KPI_PRODUCTS = [
     "category": "Visconserven",
     "kosher": "CRC Hisachdus Harabonim · OU (KLP) (Parve)",
     "image": "images/42-online.jpg",
-    "productInfo": {
-      "Inhoud": "145 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "reviewNotes": [],
@@ -1483,6 +1467,10 @@ window.KPI_PRODUCTS = [
       0.035,
       0.9936,
       0.9883
+    ],
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "OU (KLP) (Parve)"
     ]
   },
   {
@@ -1498,9 +1486,7 @@ window.KPI_PRODUCTS = [
     "category": "Visconserven",
     "kosher": "KF Federation of Synagogues, Londen",
     "image": "images/43-straight.png",
-    "productInfo": {
-      "Inhoud": "125 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "origin": "Marokko",
@@ -1577,9 +1563,7 @@ window.KPI_PRODUCTS = [
     "category": "Mosterd & Mayonaise",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/17.jpg",
-    "productInfo": {
-      "Inhoud": "1 liter · 950 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -1613,7 +1597,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/18.jpg",
     "productInfo": {
-      "Inhoud": "1 liter",
       "Kenmerken": "60% minder vet"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1651,9 +1634,7 @@ window.KPI_PRODUCTS = [
     "category": "Mosterd & Mayonaise",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/19.jpg",
-    "productInfo": {
-      "Inhoud": "500 ml · 470 g"
-    },
+    "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
     "sources": [
@@ -1687,7 +1668,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/20.jpg",
     "productInfo": {
-      "Inhoud": "465 g",
       "Kenmerken": "Met zoetstoffen"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1723,7 +1703,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/21.jpg",
     "productInfo": {
-      "Inhoud": "470 g",
       "Bewaren": "Op kamertemperatuur bewaren en beschermen tegen direct licht. Na opening beperkt houdbaar in de koelkast."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1755,7 +1734,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU (Parve)",
     "image": "images/14-supplied.png",
     "productInfo": {
-      "Inhoud": "750 g",
       "Kenmerken": "Geschikt voor vegetariërs"
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",

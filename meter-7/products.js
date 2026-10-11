@@ -22,9 +22,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [],
     "imageSource": "Online productfoto aangeleverd door gebruiker op 27 september 2026",
     "imageSourceChecked": "2026-09-27",
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "imageFrame": {
       "x": 0.18518518518518517,
       "y": 0,
@@ -52,9 +50,7 @@ window.KPI_PRODUCTS = [
       "source-labels/4a90ad7b-03a0-451d-a936-9d293635ceed.jpg",
       "source-labels/96529613-14fd-437b-9f8f-1882b7a87a4d.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "imageSource": "Online productfoto aangeleverd door gebruiker op 27 september 2026",
     "imageSourceChecked": "2026-09-27",
     "imageFrame": {
@@ -66,7 +62,11 @@ window.KPI_PRODUCTS = [
     },
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
-    "ingredientsSource": "https://www.osem-nestle.co.il/brands/אסם/עזרי-בישול/פירורית"
+    "ingredientsSource": "https://www.osem-nestle.co.il/brands/אסם/עזרי-בישול/פירורית",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "brand": "Davidovich",
@@ -87,9 +87,7 @@ window.KPI_PRODUCTS = [
       "source-labels/89a98347-790d-4cfa-ae5d-afa90f418266.jpg",
       "source-labels/aa4e64e0-17cb-4db1-8a13-99ebb37e124d.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "800 g"
-    },
+    "productInfo": {},
     "imageSource": "Gebruikersfoto bewerkt met de ingebouwde imagegen-tool op 27 september 2026",
     "imageSourceChecked": "2026-09-27",
     "imageFrame": {
@@ -104,6 +102,10 @@ window.KPI_PRODUCTS = [
     "kosherVerification": "label-and-manufacturer",
     "kosherSources": [
       "https://www.davidovitz.co.il/product/חטיפים-פרור-מוזהב-שקית-800-גרם12/"
+    ],
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Kiryat Ata (Parve)"
     ]
   },
   {
@@ -135,9 +137,7 @@ window.KPI_PRODUCTS = [
       "source-labels/64a5329b-9275-428d-8eb1-01a4edc35e85.jpg",
       "source-labels/5d5bbf23-5bc0-4edb-94aa-9e3577009716.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "800 g"
-    },
+    "productInfo": {},
     "imageSource": "Gebruikersfoto bewerkt met de ingebouwde imagegen-tool op 27 september 2026",
     "imageEdited": true,
     "imageSourceChecked": "2026-09-27",
@@ -158,7 +158,11 @@ window.KPI_PRODUCTS = [
       "f31d000a-5733-43f1-b6de-b496f8b4820d.jpg"
     ],
     "barcodeSource": "Etiketfoto gebruiker: f31d000a-5733-43f1-b6de-b496f8b4820d.jpg (door gebruiker bevestigd: 800 g)",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Kiryat Ata (Parve)"
+    ]
   },
   {
     "brand": "Davidovich",
@@ -188,9 +192,7 @@ window.KPI_PRODUCTS = [
       "source-labels/bbb5c9b2-fca4-42a5-a325-fb3f2c68d03d.jpg",
       "source-labels/d0e0b391-cb12-4e53-9d20-c3fb47b5dc46.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imageSource": "https://www.davidovitz.co.il/product/פרור-לחם-שקית-400-גרם-12/",
     "imageSourceUrl": "https://www.davidovitz.co.il/wp-content/uploads/2025/06/A2010703-7290015033299.jpg",
     "imageSourceChecked": "2026-09-27",
@@ -213,7 +215,11 @@ window.KPI_PRODUCTS = [
     "ingredientsPartial": false,
     "barcodeNeedsCheck": false,
     "barcodeSource": "Gebruiker bevestigt op 9 oktober 2026 barcode 7290015033299 voor Davidovich Klassiek paneermeel 400 g.",
-    "barcodeChecked": "2026-10-09"
+    "barcodeChecked": "2026-10-09",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Kiryat Ata (Parve)"
+    ]
   },
   {
     "brand": "Davidovich",
@@ -230,8 +236,7 @@ window.KPI_PRODUCTS = [
     "mayContain": "Soja, amandelen, pecannoten en walnoten.",
     "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (Parve)",
     "productInfo": {
-      "Uitvoering": "Golden Garlic & Sesame",
-      "Inhoud": "400 g"
+      "Uitvoering": "Golden Garlic & Sesame"
     },
     "id": 5,
     "category": "Paneermeel",
@@ -257,6 +262,10 @@ window.KPI_PRODUCTS = [
     "ingredientsVerification": "label",
     "reviewNotes": [
       "Etiket vermeldt sesamzaad en plantaardige olie zonder verdere specificatie. Ingrediënten overgenomen zoals vermeld; geen extra percentage of oliesoort ingevuld."
+    ],
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Kiryat Ata (Parve)"
     ]
   },
   {
@@ -271,8 +280,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "barcodeNeedsCheck": false,
     "productInfo": {
-      "Verpakking": "Pot met groen deksel",
-      "Inhoud": "400 g"
+      "Verpakking": "Pot met groen deksel"
     },
     "id": 7,
     "category": "Soep en bouillon",
@@ -302,7 +310,11 @@ window.KPI_PRODUCTS = [
     "ingredientsChecked": "2026-10-09",
     "ingredientsVerification": "label",
     "ingredientsPartial": false,
-    "barcodeSource": "Etiketfoto gebruiker: 6681e301-62e1-40ad-ab12-38e5ca8e99cd.jpg"
+    "barcodeSource": "Etiketfoto gebruiker: 6681e301-62e1-40ad-ab12-38e5ca8e99cd.jpg",
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "brand": "Osem",
@@ -324,9 +336,7 @@ window.KPI_PRODUCTS = [
       "source-labels/a18ba9df-cd8f-4eec-be26-ec4fa1daf48f.jpg",
       "source-labels/de1d1bb9-817c-4fe3-b3df-584e39a55d2e.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imageSource": "https://www.tesco.com/shop/en-GB/products/252343588",
     "imageSourceUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/88927a5d-e5e5-4af4-9c41-835b22c0a0ef/4d60e193-997a-4c1b-ae98-960520c9adc4_930087912.jpeg?h=960&w=960",
     "imageSourceChecked": "2026-09-27",
@@ -346,7 +356,11 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Etiketfoto gebruiker: f6214346-9632-4db6-a663-e7404e0387d8.jpg",
     "ingredientsChecked": "2026-10-09",
     "ingredientsVerification": "label",
-    "ingredientsPartial": false
+    "ingredientsPartial": false,
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "brand": "Osem",
@@ -368,9 +382,7 @@ window.KPI_PRODUCTS = [
       "source-labels/ea595d58-7907-489f-af57-88aaae42ccad.jpg",
       "source-labels/2111a46f-1c9d-4795-9419-dc83d892b6f8.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imageSource": "https://www.osem-nestleusa.com/product/passover-vegetable-soup-mix-141-oz",
     "imageSourceUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-11/Vegetable%20Soup%20Front.png",
     "imageSourceChecked": "2026-09-27",
@@ -408,9 +420,7 @@ window.KPI_PRODUCTS = [
       "source-labels/06400d76-8906-4d34-939d-dec8b370b6bd.jpg",
       "source-labels/87f1218a-f271-4f98-b119-22ec06535f37.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imageSource": "https://www.osem-nestleusa.com/osem-soups-mixes/beef-soup-seasoning-mix-141-oz",
     "imageSourceUrl": "https://www.osem-nestleusa.com/sites/default/files/2025-01/beef_front.png",
     "imageSourceChecked": "2026-09-27",
@@ -422,7 +432,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7077464788732394
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "brand": "Osem",
@@ -442,9 +456,7 @@ window.KPI_PRODUCTS = [
       "source-labels/0c0c1588-0385-4c34-b15d-a35c1dc98dac.jpg",
       "source-labels/8c44bbb5-7f6d-4fca-8a54-6f8a8c9aa5a6.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imageSource": "https://www.osem-nestleusa.com/osem-passover/passover-onion-soup-mix-141-oz",
     "imageSourceUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-07/Onion%20Front.png",
     "imageSourceChecked": "2026-09-27",
@@ -456,7 +468,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7104247104247104
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "brand": "Osem",
@@ -478,9 +494,7 @@ window.KPI_PRODUCTS = [
       "source-labels/0cbeadb0-4c85-4d31-8b45-afd146004d1a.jpg",
       "source-labels/34403873-9f68-4845-88e2-16cbb9d3010c.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "imageSource": "https://www.osem-nestleusa.com/osem-passover/passover-mushroom-soup-mix-141-oz",
     "imageSourceUrl": "https://www.osem-nestleusa.com/sites/default/files/2023-07/Mushroom%20Front.png",
     "imageSourceChecked": "2026-09-27",
@@ -492,7 +506,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.710172744721689
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 13,
@@ -508,9 +526,7 @@ window.KPI_PRODUCTS = [
     "kosher": "KLBD (London Beth Din)",
     "category": "Granen",
     "image": "images/product-13-straight.png",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/3bb71842-e775-4638-84d1-845f032a09a9.jpg",
       "source-labels/ff300950-a0ed-4354-90c1-8bb1f5e2a952.jpg",
@@ -543,9 +559,7 @@ window.KPI_PRODUCTS = [
     "category": "Vegan mixen",
     "image": "images/product-42-online.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "65 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/creative-pea-burger-pack.png",
       "source-labels/creative-pea-burger-ingredients.png"
@@ -584,9 +598,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-14.png",
-    "productInfo": {
-      "Inhoud": "65 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/48200446-1eb9-4a2f-9995-076304d93bcf.jpg",
       "source-labels/80484c2a-224b-493b-a3e1-23fcb4943ee0.jpg"
@@ -626,9 +638,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-15.png",
-    "productInfo": {
-      "Inhoud": "65 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/c10d6573-9e88-4d62-b689-27ad393fec19.jpg",
       "source-labels/1f874032-1f43-4ba1-8d36-1642fb365e8e.jpg"
@@ -667,9 +677,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-16.png",
-    "productInfo": {
-      "Inhoud": "65 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/4370f2ce-8997-4cf3-828a-33dc55531dbf.jpg",
       "source-labels/b8872164-5f7f-486e-9d19-99f84c6adee3.jpg"
@@ -712,9 +720,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Opperrabbinaat Sderot (Parve)",
     "category": "Croutons",
     "image": "images/product-17.jpg",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/f15adfef-e539-4d6c-bd4c-e5cb8992e69c.jpg",
       "source-labels/3f65196a-3fd3-40bd-b7f6-e26a8d831405.jpg",
@@ -747,9 +753,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "category": "Pasta en couscous",
     "image": "images/product-18.jpg",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/9a926ebf-a477-4d57-9f1e-a5c5f9d314cd.jpg",
       "source-labels/6011b7de-3b29-48ef-ac5f-07236e335821.jpg",
@@ -788,9 +792,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "category": "Pasta en couscous",
     "image": "images/product-19.jpg",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/d16c0c72-e8df-48cb-8f6c-7b8bac173ed4.jpg",
       "source-labels/03610a88-bda5-4224-95d1-7fa0325cddf6.jpg",
@@ -829,9 +831,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-20.jpg",
-    "productInfo": {
-      "Inhoud": "500 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/5537a11b-89e5-492f-919e-b5b894014dd4.jpg",
       "source-labels/d47bc4a2-d259-403b-bc93-97855f70e570.jpg",
@@ -847,7 +847,12 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1.8288288288288288
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 21,
@@ -863,9 +868,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-21.webp",
-    "productInfo": {
-      "Inhoud": "500 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/f1a67dec-341f-43df-9f7f-6ac413d11182.jpg",
       "source-labels/b6b63870-53bf-44d0-9c4c-79e4b8ca90c4.jpg",
@@ -881,7 +884,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1.8677685950413223
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 22,
@@ -897,9 +904,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-22.webp",
-    "productInfo": {
-      "Inhoud": "500 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/0765dd99-9c32-4877-b6a1-fa3579b1d306.jpg",
       "source-labels/6d783473-020d-4bd6-b4d4-398938f68445.jpg",
@@ -915,7 +920,12 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1.9152542372881356
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 23,
@@ -931,9 +941,7 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Behidur HaKashrut Rabbinaat Netanya (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-23.jpg",
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/3d38dc39-7fcd-4525-9ec6-5aced06a42ae.jpg",
       "source-labels/7ca4a0ad-d5da-443e-ad88-7d8c9477b3ed.jpg",
@@ -968,9 +976,7 @@ window.KPI_PRODUCTS = [
     "kosher": "KLBD (London Beth Din)",
     "category": "Granen",
     "image": "images/product-24-straight.png",
-    "productInfo": {
-      "Inhoud": "4 × 100 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/b297c05f-12cc-48b9-ab93-53b508811128.jpg",
       "source-labels/94b3403e-3aab-4eb1-9d84-d3ada6147294.jpg",
@@ -1004,9 +1010,7 @@ window.KPI_PRODUCTS = [
     "category": "Croutons",
     "image": "images/product-25-full.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/83cbbab2-7d99-4cae-95d4-b1462596be16.jpg",
       "source-labels/6823b73c-2f2c-4f76-88d0-881805ab6238.jpg"
@@ -1039,9 +1043,7 @@ window.KPI_PRODUCTS = [
     "category": "Croutons",
     "image": "images/product-26-edited.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/9ec8b8f4-8227-4777-8df6-0e30149dbbce.jpg",
       "source-labels/1c84b853-646e-44f5-a53a-afa7f451d4d1.jpg",
@@ -1058,7 +1060,11 @@ window.KPI_PRODUCTS = [
     },
     "imageEdited": true,
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 27,
@@ -1073,9 +1079,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdmixen",
     "image": "images/product-27-full.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "130 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/8b724ac6-c5ea-4d41-a830-fd8638a25dba.jpg",
       "source-labels/aafa0345-e4a6-43f6-9312-68ead8c5a926.jpg",
@@ -1092,7 +1096,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7098765432098766
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU-P",
+      "Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)"
+    ]
   },
   {
     "id": 28,
@@ -1109,9 +1117,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdmixen",
     "image": "images/product-28-full.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "142 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/51d80757-e4d2-453b-96f5-aba74dd6e5d8.jpg",
       "source-labels/80cc0a67-3851-46c6-a794-0e8e7cdbf020.jpg",
@@ -1128,7 +1134,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7650602409638554
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU-P",
+      "Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)"
+    ]
   },
   {
     "id": 29,
@@ -1146,9 +1156,7 @@ window.KPI_PRODUCTS = [
     "category": "Soep en bouillon",
     "image": "images/product-29-online.jpg",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "53 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/e63f292c-d4e8-46c4-8f9a-f2fe89cb6b9d.jpg",
       "source-labels/bf6eff3a-fd62-46c2-a263-33cc88c66b61.jpg",
@@ -1165,7 +1173,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7154929577464789
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 30,
@@ -1182,9 +1194,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdmixen",
     "image": "images/product-30-full.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/cdbac219-6be3-4a3c-9f32-38667ffb2d96.jpg",
       "source-labels/5d31ddfc-f562-4863-8c80-c3324852e082.jpg",
@@ -1201,7 +1211,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7517482517482518
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 31,
@@ -1216,9 +1230,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdmixen",
     "image": "images/product-31-front.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/6ae348ae-6384-4315-8d0a-5f4b8b4604f9.jpg",
       "source-labels/16e1946e-92fc-4455-aa08-894dfaafadaa.jpg",
@@ -1235,7 +1247,12 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.8726483357452967
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Matte Asher (Parve)"
+    ]
   },
   {
     "id": 32,
@@ -1252,9 +1269,7 @@ window.KPI_PRODUCTS = [
     "category": "Toppings",
     "image": "images/product-32-online.jpg",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "150 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/99d1c7e5-f1a9-4f63-a99c-f4984efd79bc.jpg",
       "source-labels/abadc3fc-5482-435f-9dfc-32215426f6f0.jpg",
@@ -1275,6 +1290,11 @@ window.KPI_PRODUCTS = [
     "kosherSources": [
       "https://shneiders.fr/fr/puree-accompagnements-culinaires/206-oignons-frits.html",
       "https://www.kashrut.com/Alerts/TYNIProductManual-3-20-2025.pdf"
+    ],
+    "kosherLines": [
+      "STAR-K",
+      "CRC",
+      "rabbijn Schneebalg (Parve)"
     ]
   },
   {
@@ -1293,9 +1313,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen",
     "image": "images/product-33-online.jpg",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "22 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/a8dc356e-fd6e-45ee-be8b-8ede34625b67.jpg",
       "source-labels/17a9c7c9-745b-4420-a11a-14671f671df7.jpg"
@@ -1320,7 +1338,11 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "C:/Users/ellag/OneDrive/Desktop/thee/5.jpg"
     ],
-    "kosherSource": "Etiketfoto gebruiker: thee/5.jpg"
+    "kosherSource": "Etiketfoto gebruiker: thee/5.jpg",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 34,
@@ -1337,9 +1359,7 @@ window.KPI_PRODUCTS = [
     "category": "Sauzen",
     "image": "images/product-34-online.jpg",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "30 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/73c13217-a801-4ded-8310-0ce991df990c.jpg",
       "source-labels/c3504799-cc08-4610-a9b7-f7da348f1232.jpg"
@@ -1365,7 +1385,11 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Etiketfoto gebruiker: thee/6.jpg, thee/7.jpg",
     "ingredientsSource": "Etiketfoto gebruiker: C:/Users/ellag/OneDrive/Desktop/thee/7.jpg",
     "ingredientsChecked": "2026-10-09",
-    "ingredientsVerification": "label"
+    "ingredientsVerification": "label",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 35,
@@ -1383,9 +1407,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdbekers",
     "image": "images/product-35-straight.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "84 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/08434f62-f44f-4f50-a882-33119c3cf4ff.jpg",
       "source-labels/7da2aa14-b5a2-4ab2-ac6d-03e33711ce55.jpg",
@@ -1402,7 +1424,11 @@ window.KPI_PRODUCTS = [
     },
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ]
   },
   {
     "id": 36,
@@ -1417,9 +1443,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdbekers",
     "image": "images/product-36-straight.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "55 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/c65c7f6d-60da-429c-9f1b-89a6ace845f2.jpg",
       "source-labels/1687256c-a535-4753-999b-d70bae450dc1.jpg",
@@ -1458,9 +1482,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdbekers",
     "image": "images/product-37-straight.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "68 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/6711e6e2-81d2-4d49-aa34-a03e1890dba9.jpg",
       "source-labels/6e2f0df2-71e1-4d76-a763-df5d083e7802.jpg"
@@ -1512,9 +1534,7 @@ window.KPI_PRODUCTS = [
     "category": "Maaltijdbekers",
     "image": "images/product-38-straight.png",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "68 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/91a8d807-8d80-484f-82ed-2bad6f0b186d.jpg",
       "source-labels/7915a2ff-7443-40b8-a4c9-81e1d8963ca4.jpg"
@@ -1563,9 +1583,7 @@ window.KPI_PRODUCTS = [
     "category": "Melk en koffie",
     "image": "images/product-39-online.jpg",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "1 liter"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/9e2b1dd7-66fb-41a6-8654-b2e43ec91319.jpg",
       "source-labels/22ce7ea2-a498-4f7c-8298-76eaa676764d.jpg"
@@ -1606,9 +1624,7 @@ window.KPI_PRODUCTS = [
     "category": "Melk en koffie",
     "image": "images/product-40-online.jpg",
     "imageNeedsCheck": false,
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/0ecdfd6e-9c78-402d-83d1-cacd5d830a48.jpg",
       "source-labels/8c0b1f45-399a-4a89-8377-4441f4381bbb.jpg",
@@ -1625,6 +1641,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7830423940149626
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "Badatz Beit Yosef",
+      "Rabbinaat Lod (Parve)"
+    ]
   }
 ];

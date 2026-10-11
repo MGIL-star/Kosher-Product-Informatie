@@ -14,7 +14,11 @@ window.KPI_PRODUCTS = [
     "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
     "image": "./images/01-vissticks.jpg",
-    "ean": "732973000083"
+    "ean": "732973000083",
+    "kosherLines": [
+      "OU",
+      "CRC (Central Rabbinical Congress)"
+    ]
   },
   {
     "id": 2,
@@ -31,7 +35,11 @@ window.KPI_PRODUCTS = [
     "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
     "image": "./images/02-gepaneerde-tilapianuggets.jpg",
-    "ean": "732973000809"
+    "ean": "732973000809",
+    "kosherLines": [
+      "OU",
+      "CRC (Central Rabbinical Congress)"
+    ]
   },
   {
     "id": 3,
@@ -47,7 +55,11 @@ window.KPI_PRODUCTS = [
     "kosher": "OU en CRC (Central Rabbinical Congress) (KLP)",
     "note": "",
     "image": "./images/03-tilapiafilets.jpg",
-    "ean": "732973000120"
+    "ean": "732973000120",
+    "kosherLines": [
+      "OU",
+      "CRC (Central Rabbinical Congress) (KLP)"
+    ]
   },
   {
     "id": 4,
@@ -64,7 +76,11 @@ window.KPI_PRODUCTS = [
     "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
     "image": "./images/04-gepaneerde-tilapiafilets.jpg",
-    "ean": "732973000816"
+    "ean": "732973000816",
+    "kosherLines": [
+      "OU",
+      "CRC (Central Rabbinical Congress)"
+    ]
   },
   {
     "id": 5,

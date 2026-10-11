@@ -18,9 +18,7 @@ window.KPI_PRODUCTS = [
       "1.jpg",
       "2.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "500 g (2 × 250 g)"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, hazelnoten en walnoten.",
     "sourceUrl": "https://golanlagan.co.il/Catalog.asp?PRodID=2239406&Page=NewShowProd.asp",
     "imagePresentation": {
@@ -65,9 +63,7 @@ window.KPI_PRODUCTS = [
       "4.jpg",
       "f49e3345-219f-47fa-b6e2-394ec672bad3.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, hazelnoten en walnoten.",
     "sourceUrl": "https://benedikts.com/products/ospbr",
     "imagePresentation": {
@@ -115,9 +111,7 @@ window.KPI_PRODUCTS = [
       "029b6c10-fc26-43a8-8bd7-d7cfc47133f1.jpg",
       "ebc0a185-812e-424a-82da-3ba676184ffe.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "imagePresentation": {
       "corners": [
         [
@@ -141,7 +135,11 @@ window.KPI_PRODUCTS = [
     },
     "kosherSource": "OU eerder door gebruiker bevestigd; Rabbinaat Nof HaGalil en Parve vermeld op ebc0a185-812e-424a-82da-3ba676184ffe.jpg.",
     "barcodeSource": "Aangeleverde verpakkingsfoto: 029b6c10-fc26-43a8-8bd7-d7cfc47133f1.jpg",
-    "ingredientsSource": "Engelse ingrediënten- en allergenenverklaring op ebc0a185-812e-424a-82da-3ba676184ffe.jpg, vertaald naar het Nederlands."
+    "ingredientsSource": "Engelse ingrediënten- en allergenenverklaring op ebc0a185-812e-424a-82da-3ba676184ffe.jpg, vertaald naar het Nederlands.",
+    "kosherLines": [
+      "OU",
+      "Rabbinaat Nof HaGalil (Parve)"
+    ]
   },
   {
     "id": 3,
@@ -163,9 +161,7 @@ window.KPI_PRODUCTS = [
       "6.jpg",
       "7.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://hadar-afifit.com/?page_id=49",
     "mayContain": "Sesam.",
     "imagePresentation": {
@@ -212,9 +208,7 @@ window.KPI_PRODUCTS = [
       "9.jpg",
       "10.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "120 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, gerst en haver.",
     "imagePresentation": {
       "corners": [
@@ -259,9 +253,7 @@ window.KPI_PRODUCTS = [
       "12.jpg",
       "13.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "110 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam.",
     "imagePresentation": {
       "corners": [
@@ -306,9 +298,7 @@ window.KPI_PRODUCTS = [
       "15.jpg",
       "16.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-chocolate/",
     "mayContain": "Sesam en andere glutenbevattende granen.",
     "imagePresentation": {
@@ -354,9 +344,7 @@ window.KPI_PRODUCTS = [
       "18.jpg",
       "19.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam en andere glutenbevattende granen.",
     "sourceUrl": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-plain/",
     "imagePresentation": {
@@ -402,9 +390,7 @@ window.KPI_PRODUCTS = [
       "21.jpg",
       "22.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "175 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam en andere glutenbevattende granen.",
     "sourceUrl": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-vanilla/",
     "imagePresentation": {
@@ -447,9 +433,7 @@ window.KPI_PRODUCTS = [
       "23.jpg",
       "24.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/crunch-cookies",
     "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
     "imagePresentation": {
@@ -492,9 +476,7 @@ window.KPI_PRODUCTS = [
       "25.jpg",
       "26.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/goldring-cookies",
     "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
     "imagePresentation": {
@@ -537,9 +519,7 @@ window.KPI_PRODUCTS = [
       "27.jpg",
       "28.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/vanilla-spritz",
     "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
     "imagePresentation": {
@@ -582,9 +562,7 @@ window.KPI_PRODUCTS = [
       "29.jpg",
       "30.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/choco-choco-spritz",
     "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
     "imagePresentation": {
@@ -626,9 +604,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "31.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/chocolate-goldrings-cookies",
     "mayContain": "Hazelnoten, amandelen, soja, eieren en melk.",
     "ingredientsSourceUrl": "https://www.coop.ch/de/lebensmittel/suesses-snacks/guetzli-suessgebaeck/guetzli-mit-schokolade/ueberzogen-mit-schokolade/gross-chocolate-goldrings-cookies/p/6585605",
@@ -673,9 +649,7 @@ window.KPI_PRODUCTS = [
       "32.jpg",
       "33.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/Double-Chocolate-Chips-Cookies",
     "mayContain": "Sesam, noten, melk en soja.",
     "imagePresentation": {
@@ -700,7 +674,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/Double-Chocolate-Chips-Cookies",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 15,
@@ -720,9 +698,7 @@ window.KPI_PRODUCTS = [
       "44.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Gourmet-Chocolate-Chips-Cookies",
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "mayContain": "Noten, soja, sesam, pinda’s en melk.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-cookies/11-cookies-with-chocolate-chips.html",
     "imagePresentation": {
@@ -747,7 +723,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/Gourmet-Chocolate-Chips-Cookies",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 16,
@@ -769,9 +749,7 @@ window.KPI_PRODUCTS = [
       "45.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Hazelnuts-Chocolate-Chips-Cookies",
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "mayContain": "Andere noten, sesam en pinda’s.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-cookies/7-cookies-nougatine-dark-chocolate.html",
     "imagePresentation": {
@@ -796,7 +774,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/Hazelnuts-Chocolate-Chips-Cookies",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 34,
@@ -819,9 +801,7 @@ window.KPI_PRODUCTS = [
       "2da55909-e741-448a-ae45-35743168d7d6.jpg",
       "fd146d3a-a4bb-49ea-ac76-d4e7b333ed23.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "150 g"
-    },
+    "productInfo": {},
     "searchName": "Chunky Cookies",
     "barcodeSource": "Aangeleverde verpakkingsfoto fd146d3a-a4bb-49ea-ac76-d4e7b333ed23.jpg",
     "ingredientsSource": "Nederlandse ingrediënten op 2da55909-e741-448a-ae45-35743168d7d6.jpg",
@@ -868,9 +848,7 @@ window.KPI_PRODUCTS = [
       "47.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/ougalettes",
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "mayContain": "Noten, soja, sesam en pinda’s.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/8-ougalette.html",
     "imagePresentation": {
@@ -895,7 +873,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/ougalettes",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 18,
@@ -915,9 +897,7 @@ window.KPI_PRODUCTS = [
       "48.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/palmines-raspberry-amp-choco-chips",
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "mayContain": "Eieren, noten, sulfieten, pinda’s, lupine, sesam en melk.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/255-palmines-framboises-pepites-de-chocolat-.html",
     "imagePresentation": {
@@ -942,7 +922,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/palmines-raspberry-amp-choco-chips",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 19,
@@ -962,9 +946,7 @@ window.KPI_PRODUCTS = [
       "49.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Privileges-Palmier",
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "mayContain": "Noten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/199-le-palmier.html",
     "imagePresentation": {
@@ -989,7 +971,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/Privileges-Palmier",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 20,
@@ -1009,9 +995,7 @@ window.KPI_PRODUCTS = [
       "50.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/palmines-nature",
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "mayContain": "Eieren, noten, sulfieten, pinda’s, lupine, sesam en melk.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/254-palmines-nature.html",
     "imagePresentation": {
@@ -1036,7 +1020,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/palmines-nature",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 21,
@@ -1056,9 +1044,7 @@ window.KPI_PRODUCTS = [
       "51.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/t-choc2",
-    "productInfo": {
-      "Inhoud": "150 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, melk, eieren en noten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-biscuits-chocolates/33-t-choc-with-dark-chocolate.html",
     "imagePresentation": {
@@ -1083,7 +1069,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/t-choc2",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 22,
@@ -1103,9 +1093,7 @@ window.KPI_PRODUCTS = [
       "52.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/t-choc",
-    "productInfo": {
-      "Inhoud": "150 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, eieren, soja en noten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-biscuits-chocolates/32-t-choc-with-milk-chocolate.html",
     "imagePresentation": {
@@ -1130,7 +1118,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 2.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/t-choc",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 23,
@@ -1155,9 +1147,7 @@ window.KPI_PRODUCTS = [
       "53.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Start-up2",
-    "productInfo": {
-      "Inhoud": "205 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, pinda’s en andere noten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-petits-dejeuners/16-start-up-with-dark-chocolate.html",
     "imagePresentation": {
@@ -1182,7 +1172,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/Start-up2",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 24,
@@ -1208,9 +1202,7 @@ window.KPI_PRODUCTS = [
       "54.jpg"
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/start-up-honey-amp-hazelnut",
-    "productInfo": {
-      "Inhoud": "205 g"
-    },
+    "productInfo": {},
     "mayContain": "Sesam, pinda’s en andere noten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-petits-dejeuners/17-start-up-chocolate-hazelnuts.html",
     "imagePresentation": {
@@ -1235,7 +1227,11 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 1.8
     },
     "barcodeSourceUrl": "https://elisha.be/en/Biscuits/start-up-honey-amp-hazelnut",
-    "kosherSource": "Door gebruiker bevestigd"
+    "kosherSource": "Door gebruiker bevestigd",
+    "kosherLines": [
+      "Rabbi E.L Schneebalg",
+      "STAR-K"
+    ]
   },
   {
     "id": 25,
@@ -1255,9 +1251,7 @@ window.KPI_PRODUCTS = [
       "56.jpg",
       "112f3103-3c47-40c1-b569-72dda123187a.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "mayContain": "Eieren, sesam, soja en noten. De oorspronkelijke verpakking vermeldt ook pinda’s.",
     "sourceUrl": "https://benedikts.com/products/bcc",
     "imagePresentation": {
@@ -1302,9 +1296,7 @@ window.KPI_PRODUCTS = [
       "58.jpg",
       "a9a57d41-c27f-4a1b-b1fb-1ba542c0261f.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-smiley-cookies/",
     "mayContain": "Eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s.",
     "imagePresentation": {
@@ -1349,9 +1341,7 @@ window.KPI_PRODUCTS = [
       "60.jpg",
       "cf2d63f0-1d14-495d-b05f-34b9f8e7390c.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bchf",
     "mayContain": "Eieren, sesam, noten en pinda’s.",
     "imagePresentation": {
@@ -1395,9 +1385,7 @@ window.KPI_PRODUCTS = [
       "62.jpg",
       "e7fdb6be-b075-45bc-ba79-ac251b73b234.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "mayContain": "Eieren, sesam, soja, noten en pinda’s.",
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-circle-cookies/",
     "imagePresentation": {
@@ -1442,9 +1430,7 @@ window.KPI_PRODUCTS = [
       "64.jpg",
       "3a2a610b-1e88-4f55-91c0-8fa0a56dc6d3.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-coated-rings-%c2%96-coated-crunchy-cookies/",
     "mayContain": "Eieren, sesam, noten en pinda’s.",
     "imagePresentation": {
@@ -1489,9 +1475,7 @@ window.KPI_PRODUCTS = [
       "66.jpg",
       "06aca26c-af82-46ab-b068-4ff3df40e488.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bccc",
     "mayContain": "Eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s.",
     "imagePresentation": {
@@ -1536,9 +1520,7 @@ window.KPI_PRODUCTS = [
       "68.jpg",
       "035766b8-aa0b-4b26-8240-8fe4b9a7e4a2.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-choco-bites-%c2%96-mini-cocoa-cookies/",
     "mayContain": "Eieren, sesam, noten en pinda’s.",
     "imagePresentation": {
@@ -1584,9 +1566,7 @@ window.KPI_PRODUCTS = [
       "70.jpg",
       "aa2fafb9-a721-4f01-bd93-ff3dd41cacde.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "180 g"
-    },
+    "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-cookies-pretzel-cream-filling/",
     "mayContain": "Eieren, sesam, noten en pinda’s.",
     "imagePresentation": {

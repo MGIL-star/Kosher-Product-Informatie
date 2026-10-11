@@ -16,7 +16,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Product": "Advocaat bereid met scharreleieren",
       "Herkomst": "Nederland",
-      "Inhoud": "70 cl",
       "Alcohol": "14% vol",
       "Kleur": "Lichtgeel",
       "Geur": "Zoet",
@@ -90,7 +89,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Gold Edition",
       "Herkomst": "Israël, Beka, uitlopers van de heuvels van Judea",
       "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Aromatische witte wijn.",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Nee"
@@ -148,7 +146,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
-      "Inhoud": "750 ml",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Nee"
     },
@@ -205,7 +202,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Fris wit fruit, appel en citrus, met een lange afdronk.",
       "Mevushal": "Nee"
     },
@@ -300,7 +296,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Aromatisch, licht zoet en fruitig, met muskaatachtige tonen.",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Nee"
@@ -358,7 +353,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Premieur",
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitige tonen van appel, peer en perzik, met een lichte muskaattoon.",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Nee"
@@ -420,7 +414,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "11%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitige rosé met bessen en een lichte kruidigheid.",
       "Serveertemperatuur": "8 tot 10 °C",
       "Mevushal": "Nee"
@@ -478,7 +471,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Zmora",
       "Herkomst": "Israël, Dan",
       "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitige witte wijn met tropische en bloemige aroma’s, een lichte zoetheid en een frisse smaak.",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Ja"
@@ -542,7 +534,6 @@ window.KPI_PRODUCTS = [
       "Wijnstijl": "Zoet, licht mousserend",
       "Herkomst": "Israël",
       "Alcohol": "5,5%",
-      "Inhoud": "750 ml",
       "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
       "Serveertemperatuur": "9 tot 12 °C",
       "Mevushal": "Ja"
@@ -600,7 +591,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Gold Edition",
       "Herkomst": "Israël, Beka, uitlopers van de heuvels van Judea",
       "Alcohol": "12,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Zes maanden gerijpt in eikenhouten vaten.",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Nee"
@@ -677,7 +667,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël, heuvels van Judea",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Perzik, appel en peer, met frisse zuren.",
       "Mevushal": "Ja"
     },
@@ -734,7 +723,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Ben Ami",
       "Herkomst": "Israël, Galil",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Niet bekend"
     },
@@ -795,7 +783,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Segal",
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Fris en fruitig; appel, kruidige tonen en een lichte bitterheid.",
       "Serveertemperatuur": "8 tot 12 °C",
       "Mevushal": "Nee"
@@ -865,7 +852,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Premieur",
       "Herkomst": "Israël",
       "Alcohol": "13%",
-      "Inhoud": "750 ml",
       "Bewaren": "Koel en donker bewaren, bij voorkeur bij 12 tot 15 °C.",
       "Serveertemperatuur": "16 tot 18 °C",
       "Mevushal": "Nee"
@@ -911,7 +897,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël, Samson",
       "Alcohol": "13%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Bramen, anijs en peperige kruiden; een middelvolle wijn met zachte tannines.",
       "Serveertemperatuur": "16 tot 18 °C",
       "Mevushal": "Ja"
@@ -969,7 +954,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Donkere bessen en kersen, met kruidige tonen van drop en laurier.",
       "Mevushal": "Ja"
     },
@@ -1031,7 +1015,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël, heuvels van Judea",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Pruimen, blauwe bessen en mediterrane kruiden; zachte tannines.",
       "Mevushal": "Ja"
     },
@@ -1088,7 +1071,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël, Galil",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Pruimachtige aroma’s en stevige tannines.",
       "Mevushal": "Ja"
     },
@@ -1145,7 +1127,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël, Galil",
       "Alcohol": "12,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Kruidige bessenaroma’s, eikenhout en een volle, ronde smaak.",
       "Serveertemperatuur": "16 tot 18 °C",
       "Mevushal": "Ja"
@@ -1207,7 +1188,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël, Negev",
       "Alcohol": "13%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Frisse, aardbeiachtige aroma’s en een middelvolle smaak met een frisse afdronk.",
       "Serveertemperatuur": "16 tot 18 °C",
       "Mevushal": "Ja"
@@ -1269,7 +1249,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Classic",
       "Herkomst": "Israël",
       "Alcohol": "12,5%",
-      "Inhoud": "187 ml",
       "Mevushal": "Ja"
     },
     "reviewNotes": "Nieuwe fysieke foto 52c2471b-71c6-4139-a7f8-63fe7edd45b6.jpg bevestigt barcode 7290000023915, 12,5%, Badatz Edah HaChareidis Jeruzalem en de Hebreeuwse vermelding wijn mevushal. Kosher voor Pesach zichtbaar. Ook twee andere keurmerken zichtbaar; niet verder benoemd zonder zekere identificatie. Geen omcirkeld K-P zichtbaar op deze foto. Inhoud 187 ml bevestigd door gebruiker en bestaande exacte barcode-match. Sulfieten uit bestaande online variantinformatie.",
@@ -1331,7 +1310,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Segal",
       "Herkomst": "Israël",
       "Alcohol": "13%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Frisse, fruitige rode wijn.",
       "Mevushal": "Nee"
     },
@@ -1403,7 +1381,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Ben Ami",
       "Herkomst": "Israël, Galil",
       "Alcohol": "12,5%",
-      "Inhoud": "750 ml",
       "Mevushal": "Ja"
     },
     "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
@@ -1463,7 +1440,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Ben Ami",
       "Herkomst": "Israël, Galil",
       "Alcohol": "13%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Fruitig en bloemig, met stevigheid door de Cabernet Sauvignon.",
       "Serveertemperatuur": "16 tot 18 °C",
       "Mevushal": "Ja"
@@ -1521,7 +1497,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Zmora",
       "Herkomst": "Israël",
       "Alcohol": "11,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Jonge, zachte rode wijn met bessen, kersen en bloemige aroma’s.",
       "Mevushal": "Ja"
     },
@@ -1593,7 +1568,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Reserve",
       "Herkomst": "Israël, Galilea",
       "Alcohol": "13%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Donker fruit en milde kruidigheid. Twaalf maanden gerijpt in Franse eikenhouten vaten.",
       "Mevushal": "Nee"
     },
@@ -1642,7 +1616,11 @@ window.KPI_PRODUCTS = [
       ]
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "kosherLines": [
+      "Op het etiket: heter mechira",
+      "Opperrabbinaat van Israël (KLP)"
+    ]
   },
   {
     "id": 19,
@@ -1665,7 +1643,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Reserve",
       "Herkomst": "Israël, Galilea",
       "Alcohol": "13,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Rode bessen, kersen en milde kruidigheid, met een zachte smaak.",
       "Mevushal": "Nee"
     },
@@ -1742,7 +1719,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "Platinum",
       "Herkomst": "Israël, Boven Galilea",
       "Alcohol": "13,5%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Donker fruit en kruidige houttonen. Achttien maanden gerijpt in Franse eikenhouten vaten.",
       "Mevushal": "Ja"
     },
@@ -1799,7 +1775,6 @@ window.KPI_PRODUCTS = [
       "Lijn / serie": "7th Day Sacramental / Kinor",
       "Herkomst": "Israël, Judea",
       "Alcohol": "12%",
-      "Inhoud": "750 ml",
       "Smaakomschrijving": "Zoete, volle rode wijn met een ronde smaak en kruidige tonen.",
       "Serveren": "Licht gekoeld, bijvoorbeeld als aperitief.",
       "Gebruik": "Voor Kiddush en Havdalah.",
@@ -1889,7 +1864,6 @@ window.KPI_PRODUCTS = [
       "Product": "100% druivensap",
       "Herkomst": "Israël",
       "Alcohol": "Alcoholvrij",
-      "Inhoud": "1 liter",
       "Serveren": "10 tot 12 °C",
       "Bewaren": "Koel bewaren (10 tot 16 °C). Na openen in de koelkast (4 °C) en binnen vier dagen gebruiken.",
       "Mevushal": "Ja"

@@ -12,7 +12,6 @@ window.KPI_PRODUCTS = [
     "image": "images/honing-bloemen-origineel-20261008.png",
     "imageIllustration": false,
     "productInfo": {
-      "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning",
       "Let op": "Onze bloemenhoning is puur en natuurlijk. Daardoor kan de kleur (licht) afwijken van wat je ziet op de afbeelding. Dat kan komen door het weer en door kristallisatie. Is de honing gekristalliseerd? Verwarm de dichte pot in een pan warm water (tot 40 graden) en laat 15 tot 20 minuten staan."
     },
@@ -41,7 +40,6 @@ window.KPI_PRODUCTS = [
     "image": "images/honing-linde-origineel-20261008.png",
     "imageIllustration": false,
     "productInfo": {
-      "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -69,7 +67,6 @@ window.KPI_PRODUCTS = [
     "image": "images/honing-lavendel-origineel-20261008.png",
     "imageIllustration": false,
     "productInfo": {
-      "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -97,7 +94,6 @@ window.KPI_PRODUCTS = [
     "image": "images/honing-tijm-origineel-20261008.png",
     "imageIllustration": false,
     "productInfo": {
-      "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -125,7 +121,6 @@ window.KPI_PRODUCTS = [
     "image": "images/honing-acacia-origineel-20261008.png",
     "imageIllustration": false,
     "productInfo": {
-      "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -153,7 +148,6 @@ window.KPI_PRODUCTS = [
     "image": "images/honing-kastanje-origineel-20261008.png",
     "imageIllustration": false,
     "productInfo": {
-      "Inhoud": "250 g",
       "Bijzonderheden": "Imkerhoning"
     },
     "reviewNotes": "Samenstelling voor alle zes honingsoorten door gebruiker bevestigd op 2026-10-08: 100% honing. EU-herkomst en kinderwaarschuwing overgenomen van aangeleverde originele honingetiketten. 250 g op voorkant bevestigd. Hechsher uit eerdere opgave behouden; geen allergenen door gebruiker bevestigd op 2026-10-08. Productafbeelding bewerkt op basis van originele bloemenhoningfoto cce71f07-ab1e-4565-88ad-6e9a64d41ce1.jpg; naam per soort aangepast in Nederlands, Frans en Engels. Eigen barcode bevestigd op nieuwe etiketfoto, 9 oktober 2026.",
@@ -185,9 +179,7 @@ window.KPI_PRODUCTS = [
       0.71,
       0.995
     ],
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
+    "productInfo": {},
     "mayContain": "Cashewnoten.",
     "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
     "sources": [
@@ -222,9 +214,7 @@ window.KPI_PRODUCTS = [
       0.84,
       0.99
     ],
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Volledige ingrediënten en allergenenwaarschuwing rechtstreeks van fysieke etiketfoto codex-clipboard-1b7d8460-6b40-497b-861d-447aa41cc4c6.png. Cashewnoten uitsluitend als kan bevatten vermeld, niet als ingrediënt. Sorbaat zonder nadere specificatie overgenomen. Eerdere gedeeltelijke transcriptie hiermee vervangen. Barcode bevestigd op IMG_4272; productfoto door gebruiker aangeleverd. Geen voedingswaardeblok op verzoek gebruiker.",
     "mayContain": "Cashewnoten.",
     "labelSources": [
@@ -253,9 +243,7 @@ window.KPI_PRODUCTS = [
       0.80144,
       0.97129
     ],
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
+    "productInfo": {},
     "mayContain": "Cashewnoten.",
     "imageEdited": true,
     "reviewNotes": "Rechtstreeks afgelezen van fysieke fotos IMG_4273, IMG_4274 en IMG_4275 teruggevonden in eerder gesprek. Bewerkte voorfoto; ingrediënten en sporenwaarschuwing uitsluitend vanaf fysiek etiket.",
@@ -287,9 +275,7 @@ window.KPI_PRODUCTS = [
       0.95455
     ],
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "190 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Naam, inhoud, ingrediënten en cashewsporen rechtstreeks van IMG_4276–4278; barcode 7290112870254. Eerdere samenvatting pikante paprika was onjuist. Geen voedingswaardeblok op verzoek gebruiker. Voorfoto met ingebouwde imagegen rechtgezet en vrijstaand gemaakt; gegevens uitsluitend fysiek etiket.",
     "labelSources": [
       "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/19.jpg",
@@ -321,7 +307,6 @@ window.KPI_PRODUCTS = [
       0.95215
     ],
     "productInfo": {
-      "Inhoud": "180 g",
       "Omschrijving": "Za’atarsmeersel met olijfolie, voor op brood of als dip."
     },
     "sources": [
@@ -364,7 +349,6 @@ window.KPI_PRODUCTS = [
       0.95658
     ],
     "productInfo": {
-      "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker."
     },
     "reviewNotes": "Ingrediënten volgens leveranciersinformatie voor de 284 g-variant. Geen declaratieplichtige allergenen vermeld in deze ingrediëntenlijst; allergenenveld daarop ingevuld op 9 oktober 2026. Geen sporenwaarschuwing bekend uit de beschikbare informatie; afwezigheid van sporen niet bevestigd. Barcode 0811962010255 door gebruiker bevestigd op 9 oktober 2026.",
@@ -398,7 +382,6 @@ window.KPI_PRODUCTS = [
       0.94416
     ],
     "productInfo": {
-      "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker.",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
@@ -444,7 +427,6 @@ window.KPI_PRODUCTS = [
       0.97081
     ],
     "productInfo": {
-      "Inhoud": "284 g",
       "Omschrijving": "Fruitpasta zonder toegevoegde suiker.",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
@@ -490,7 +472,6 @@ window.KPI_PRODUCTS = [
       0.94498
     ],
     "productInfo": {
-      "Inhoud": "340 g",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
     "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
@@ -526,7 +507,6 @@ window.KPI_PRODUCTS = [
       0.94737
     ],
     "productInfo": {
-      "Inhoud": "340 g",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
     "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
@@ -561,7 +541,6 @@ window.KPI_PRODUCTS = [
       0.90431
     ],
     "productInfo": {
-      "Inhoud": "340 g",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
     "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
@@ -597,7 +576,6 @@ window.KPI_PRODUCTS = [
       0.97368
     ],
     "productInfo": {
-      "Inhoud": "340 g",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
     "reviewNotes": "Ingrediënten, gewicht, waarschuwing, bewaaradvies en OU-keurmerk bevestigd op aangeleverde fysieke etiketfoto’s, 9 oktober 2026. KLP uitsluitend overgenomen waar OU-P zichtbaar is.",
@@ -633,7 +611,6 @@ window.KPI_PRODUCTS = [
       0.925
     ],
     "productInfo": {
-      "Inhoud": "340 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
       "Bewaren": "Droog en koel bewaren. Vermijd direct zonlicht. Na opening gekoeld bewaren."
     },
@@ -674,9 +651,7 @@ window.KPI_PRODUCTS = [
     "image": "images/hatov-original-sharp.png",
     "imageEdited": true,
     "kosherStatus": "Parve",
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sources": [
       {
         "label": "Productpagina",
@@ -696,7 +671,11 @@ window.KPI_PRODUCTS = [
     ],
     "barcodeNeedsCheck": false,
     "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/39.jpg",
-    "barcodeChecked": "2026-10-09"
+    "barcodeChecked": "2026-10-09",
+    "kosherLines": [
+      "OU",
+      "Rabbijn Weissmandl (Parve)"
+    ]
   },
   {
     "id": 38,
@@ -713,7 +692,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Zuivel)",
     "image": "images/spread-milky.jpg",
     "productInfo": {
-      "Inhoud": "350 g",
       "Omschrijving": "Hazelnootpasta met melk."
     },
     "sources": [
@@ -730,6 +708,10 @@ window.KPI_PRODUCTS = [
       0.09333333333333334,
       0.785,
       0.8933333333333333
+    ],
+    "kosherLines": [
+      "Rabbijn E.L. Schneebalg",
+      "STAR-K (Zuivel)"
     ]
   },
   {
@@ -746,7 +728,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/delinut-original.jpg",
     "productInfo": {
-      "Inhoud": "350 g",
       "Omschrijving": "Hazelnootpasta met cacao."
     },
     "sources": [
@@ -762,6 +743,10 @@ window.KPI_PRODUCTS = [
       0.06666666666666667,
       0.8316666666666667,
       0.9533333333333334
+    ],
+    "kosherLines": [
+      "Rabbijn E.L. Schneebalg",
+      "STAR-K (Parve)"
     ]
   },
   {
@@ -778,7 +763,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/spread-duo.jpg",
     "productInfo": {
-      "Inhoud": "350 g",
       "Omschrijving": "Chocoladepasta en witte hazelnootpasta."
     },
     "sources": [
@@ -794,6 +778,10 @@ window.KPI_PRODUCTS = [
       0.01,
       0.8633333333333333,
       0.9933333333333333
+    ],
+    "kosherLines": [
+      "Rabbijn E.L. Schneebalg",
+      "STAR-K (Parve)"
     ]
   },
   {
@@ -825,6 +813,11 @@ window.KPI_PRODUCTS = [
       0.013333333333333334,
       0.7866666666666666,
       0.99
+    ],
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "Rabbijn E.L. Schneebalg",
+      "STAR-K (Parve)"
     ]
   },
   {
@@ -841,7 +834,6 @@ window.KPI_PRODUCTS = [
     "kosher": "CRC Hisachdus Harabonim / Rabbijn E.L. Schneebalg / STAR-K (Parve)",
     "image": "images/spread-crunchy.jpg",
     "productInfo": {
-      "Inhoud": "340 g",
       "Omschrijving": "Pindakaas met stukjes pinda."
     },
     "sources": [
@@ -857,6 +849,11 @@ window.KPI_PRODUCTS = [
       0.013333333333333334,
       0.7866666666666666,
       0.9933333333333333
+    ],
+    "kosherLines": [
+      "CRC Hisachdus Harabonim",
+      "Rabbijn E.L. Schneebalg",
+      "STAR-K (Parve)"
     ]
   },
   {
@@ -880,9 +877,7 @@ window.KPI_PRODUCTS = [
       0.81818,
       0.94737
     ],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Gebruiker bevestigt Beit Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Hechser en KLP zonder kitniyot bevestigd op aanvullende foto 41.jpg, 9 oktober 2026. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
     "imageEdited": true,
     "mayContain": "Paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten.",
@@ -914,9 +909,7 @@ window.KPI_PRODUCTS = [
       0.77273,
       0.9067
     ],
-    "productInfo": {
-      "Inhoud": "240 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Naam, gewicht en barcode uit gebruikersopgave. Fysieke ingrediënten/allergenen niet beschikbaar in deze batch; niet verzonnen. Ingrediënten overgenomen van Israelwinkel-productpagina voor 240 g; percentages 53% en 64% weggelaten omdat de bron de samenstelling van dadelpasta niet duidelijk afbakent. Geen aanvullende ingrediënten verondersteld. IPC noemt sulfiet en sporen van soja, sesam, walnoot, hazelnoot. Foto op gebruikersverzoek verscherpt met imagegen; afbeelding niet gebruiken als etiketbron. Hechser en KLP bevestigd op aanvullende foto 43.jpg, 9 oktober 2026.",
     "imageSource": "https://isreal-winkel.ams3.digitaloceanspaces.com/67020%20nwe%20charoset%20najaar%202026%20klein%20formaat-01M2QA36QVKZS08MAACNHPDJEF.png",
     "sources": [
@@ -948,7 +941,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67170.jpg",
     "productInfo": {
-      "Inhoud": "30 g",
       "Kenmerken": "Glutenvrij",
       "Bewaren": "Droog en koel bewaren.",
       "Gebruik": "Voor taarten, omeletten, kaas, gebak en brood."
@@ -978,7 +970,11 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherChecked": "2026-10-09",
-    "kosherSource": "source-labels/20261009-kruiden-02.jpg"
+    "kosherSource": "source-labels/20261009-kruiden-02.jpg",
+    "kosherLines": [
+      "OU",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 2,
@@ -994,7 +990,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67171.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Glutenvrij",
       "Bewaren": "Droog en koel bewaren.",
       "Gebruik": "Voor brood, salades, hummus en kaas."
@@ -1024,7 +1019,12 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherChecked": "2026-10-09",
-    "kosherSource": "source-labels/20261009-kruiden-04.jpg"
+    "kosherSource": "source-labels/20261009-kruiden-04.jpg",
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 3,
@@ -1038,7 +1038,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67184.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Bewaren": "Droog en koel bewaren.",
       "Gebruik": "Voor gehaktballen, couscous, vlees en rijst. Aanbevolen: 1–2 eetlepels voor 1 kg gehakt."
@@ -1068,7 +1067,12 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherChecked": "2026-10-09",
-    "kosherSource": "source-labels/20261009-kruiden-06.jpg"
+    "kosherSource": "source-labels/20261009-kruiden-06.jpg",
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 4,
@@ -1083,7 +1087,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67155.jpg",
     "productInfo": {
-      "Inhoud": "70 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Bewaren": "Droog en koel bewaren.",
       "Gebruik": "Voor vis, vlees, groenten, salades en tafelzuur."
@@ -1114,7 +1117,12 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-08.jpg",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "OU",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 5,
@@ -1129,7 +1137,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "OU; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67156.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Bewaren": "Droog en koel bewaren.",
       "Gebruik": "Voor oosterse gerechten, vlees en salades."
@@ -1160,7 +1167,12 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-10.jpg",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "OU",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 21,
@@ -1174,7 +1186,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67157.jpg",
     "productInfo": {
-      "Inhoud": "80 g",
       "Gebruik": "Voor gehakt, kubbeh, cholent en oosterse gerechten.",
       "Bewaren": "Droog en koel bewaren.",
       "Kenmerken": "Natuurlijke ingrediënten. Glutenvrij."
@@ -1204,7 +1215,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-02.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-02.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 6,
@@ -1218,7 +1234,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67158.png",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
       "Gebruik": "Gebruik 20 g kruidenmix per 1 kg vlees.",
       "Bewaren": "Droog en koel bewaren."
@@ -1248,7 +1263,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-04.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-04.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 7,
@@ -1262,7 +1282,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67181.png",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Gebruik": "Voor salades, soepen, vlees en sauzen.",
       "Bewaren": "Droog en koel bewaren."
@@ -1292,7 +1311,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-06.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-06.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 8,
@@ -1307,7 +1331,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67167.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Gebruik": "Voor soepen en Jemenitische gerechten.",
       "Bewaren": "Droog en koel bewaren."
@@ -1338,7 +1361,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "source-labels/20261009-kruiden-b-08.jpg",
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 9,
@@ -1352,7 +1381,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "image": "images/67160.jpg",
     "productInfo": {
-      "Inhoud": "70 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Gebruik": "Voor pittige gerechten, marinades en pizza.",
       "Bewaren": "Droog en koel bewaren."
@@ -1383,7 +1411,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "source-labels/20261009-kruiden-b-10.jpg",
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "OU-P",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 10,
@@ -1397,7 +1431,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis / OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (KLP) (Parve)",
     "image": "images/67161.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Natuurlijk. Glutenvrij",
       "Gebruik": "Voor rijst, vis, soepen en vlees.",
       "Bewaren": "Droog en koel bewaren."
@@ -1428,7 +1461,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "source-labels/20261009-kruiden-b-12.jpg",
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "OU-P",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 11,
@@ -1442,7 +1481,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67172.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
       "Gebruik": "Gebruik 20 g kruidenmix per 1 kg vlees.",
       "Bewaren": "Droog en koel bewaren."
@@ -1469,7 +1507,12 @@ window.KPI_PRODUCTS = [
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
     "kosherChecked": "2026-10-09",
-    "kosherSource": "source-labels/20261009-kruiden-b-14.jpg"
+    "kosherSource": "source-labels/20261009-kruiden-b-14.jpg",
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 12,
@@ -1484,7 +1527,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "OU / Badatz Edah HaChareidis; Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67174.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
       "Gebruik": "Voor grill en barbecue. Strooi de kruiden vóór het grillen over het vlees.",
       "Bewaren": "Droog en koel bewaren."
@@ -1515,7 +1557,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "source-labels/20261009-kruiden-b-16.jpg",
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 13,
@@ -1529,7 +1577,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67186.jpg",
     "productInfo": {
-      "Inhoud": "90 g",
       "Gebruik": "Verdeel 1 eetlepel kruidenmix met olie over 1 kg vlees en wrijf in. Meng desgewenst eerst de kruiden met olie. Ook geschikt om aan saus toe te voegen."
     },
     "sources": [
@@ -1558,7 +1605,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-22.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-22.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 14,
@@ -1572,7 +1624,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67188.jpg",
     "productInfo": {
-      "Inhoud": "90 g",
       "Gebruik": "Voor kip en spiesen; om te bakken, braden, barbecueën of marineren. Verdeel 1 eetlepel kruidenmix met olie over 1 kg kip en wrijf in. Meng desgewenst eerst de kruiden met olie."
     },
     "sources": [
@@ -1601,7 +1652,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-25.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-25.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 15,
@@ -1615,7 +1671,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67187.jpg",
     "productInfo": {
-      "Inhoud": "90 g",
       "Gebruik": "Voor ovenvis, gebakken vis of vismarinades. Verdeel 1 eetlepel kruidenmix met olie over 1 kg vis en wrijf in. Meng desgewenst eerst de kruiden met olie. Voor ovenvis wordt aanbevolen de vis in aluminiumfolie te wikkelen."
     },
     "sources": [
@@ -1644,7 +1699,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-28.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-28.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 16,
@@ -1658,7 +1718,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67185.jpg",
     "productInfo": {
-      "Inhoud": "90 g",
       "Gebruik": "Direct bereiden: voeg 2 theelepels kokend water toe aan 1 theelepel kruidenmix, meng door de dip en roer opnieuw. Vooraf bereiden: voeg 1 theelepel toe aan 250 g dip, meng goed en wacht 10 minuten voor het serveren."
     },
     "sources": [
@@ -1687,7 +1746,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-31.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-31.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 17,
@@ -1701,7 +1765,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67176.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
       "Gebruik": "Voeg aan 500 g gesneden aardappelen 2 eetlepels olijfolie en 1 volle eetlepel kruidenmix toe.",
       "Bewaren": "Droog en koel bewaren."
@@ -1731,7 +1794,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-b-33.jpg",
     "barcodeSource": "source-labels/20261009-kruiden-b-33.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 18,
@@ -1745,7 +1813,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU",
     "image": "images/67165.jpg",
     "productInfo": {
-      "Inhoud": "100 g",
       "Kenmerken": "Natuurlijke ingrediënten. Glutenvrij"
     },
     "sources": [
@@ -1776,7 +1843,6 @@ window.KPI_PRODUCTS = [
     "kosherOriginalLabel": "Badatz Edah HaChareidis; OU-P / Badatz Beit Yosef / Rabbinaat Petach Tikva (Parve) · KLP (alleen voor wie kitniyot eet)",
     "image": "images/67182.jpg",
     "productInfo": {
-      "Inhoud": "120 g",
       "Kenmerken": "Glutenvrij. Zonder toegevoegd mononatriumglutamaat (MSG).",
       "Gebruik": "Voor aardappelen, kip, vis en antipasti.",
       "Bewaren": "Droog en koel bewaren."
@@ -1807,7 +1873,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "source-labels/20261009-kruiden-b-35.jpg",
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "kosherLines": [
+      "Badatz Edah HaChareidis",
+      "OU-P",
+      "Badatz Beit Yosef",
+      "Rabbinaat Petach Tikva (KLP) (Parve)"
+    ]
   },
   {
     "id": 20,
@@ -1821,7 +1893,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Badatz Edah HaChareidis / Rabbinaat Petach Tikva (Parve)",
     "image": "images/67175.jpg",
     "productInfo": {
-      "Inhoud": "120 g",
       "Gebruik": "Voor kipschnitzels, kipfilet en spiesen; om te bakken, braden, barbecueën of marineren. Verdeel 1 eetlepel kruidenmix met olie over 1 kg kip en wrijf in."
     },
     "sources": [
@@ -1850,7 +1921,12 @@ window.KPI_PRODUCTS = [
     "kosherSource": "chatbijlage: 77274701-2812-49ee-9654-47f4730fec77.jpg",
     "barcodeSource": "chatbijlage: 77274701-2812-49ee-9654-47f4730fec77.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "kosherLines": [
+      "OU",
+      "Badatz Edah HaChareidis",
+      "Rabbinaat Petach Tikva (Parve)"
+    ]
   },
   {
     "id": 22,
@@ -1864,9 +1940,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-amba.png",
     "imageIllustration": true,
-    "productInfo": {
-      "Inhoud": "380 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Ingrediënten en sporenwaarschuwing gecontroleerd op de fysieke etiketfoto f249792d-2edb-43b3-a638-bf08ec8496a1.jpg, aangeleverd door gebruiker. Gewicht 380 g en barcode 8715645279019 uit eerdere gebruikersopgave.  Gebruik is een culinaire suggestie. Gegenereerde productillustratie; geen verpakkingsfoto.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
@@ -1884,9 +1958,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-sumak-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "155 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -1916,9 +1988,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-paprika-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "135 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Bestaande samenstelling 100% zoete paprika behouden; geen afzonderlijke ingrediëntenregel zichtbaar op de nieuwe foto’s.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -1947,9 +2017,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-shoarma-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "185 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden. Eerdere verwisseling met de ingrediënten van curry masala gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
@@ -1979,9 +2047,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-ui-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "125 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2011,9 +2077,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-ras-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "165 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Gewicht 165 g uit eerdere gebruikersopgave behouden; nieuwe gewichtsaanduiding deels door reflectie bedekt.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
@@ -2043,9 +2107,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-pulbiber-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "135 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2077,9 +2139,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-curry-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "145 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Eerdere verwisseling met de ingrediënten van shoarma gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
@@ -2109,9 +2169,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-chili-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "135 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2141,9 +2199,7 @@ window.KPI_PRODUCTS = [
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-koriander-photo-20261008.png",
     "imageIllustration": false,
-    "productInfo": {
-      "Inhoud": "115 g"
-    },
+    "productInfo": {},
     "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2173,7 +2229,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU",
     "image": "images/dates-king-straight.png",
     "productInfo": {
-      "Inhoud": "1 kg",
       "Bewaren": "Koel en droog"
     },
     "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Samenstelling en afwezigheid van allergenen door gebruiker bevestigd op 9 oktober 2026. Bestaande waarschuwing Bevat pitten behouden.",
@@ -2213,7 +2268,6 @@ window.KPI_PRODUCTS = [
     "kosher": "OU",
     "image": "images/dates-palma-straight.png",
     "productInfo": {
-      "Inhoud": "500 g",
       "Bewaren": "Koel en droog"
     },
     "reviewNotes": "Bestaande productgegevens en pittenwaarschuwing behouden. OU uitsluitend op uitdrukkelijke opgave van de gebruiker; niet als gecontroleerd verpakkingskeurmerk aangemerkt. Naam en 500 g bevestigd op voorkantfoto. Samenstelling en afwezigheid van allergenen door gebruiker bevestigd op 9 oktober 2026. Bestaande waarschuwing Bevat pitten behouden.",
@@ -2257,7 +2311,6 @@ window.KPI_PRODUCTS = [
     "image": "images/dates-spread-large.png",
     "kosherStatus": "Pareve",
     "productInfo": {
-      "Inhoud": "450 g",
       "Bewaren": "Koel en droog bewaren. Na opening in de koelkast bewaren.",
       "Gebruik": "Voor broodbeleg, cakes, taarten en koekjesvulling.",
       "Kenmerken": "Zonder kleurstoffen."
@@ -2306,7 +2359,6 @@ window.KPI_PRODUCTS = [
       0.93
     ],
     "productInfo": {
-      "Inhoud": "450 g",
       "Omschrijving": "Zonder toegevoegde suiker.",
       "Kenmerken": "Zonder toegevoegde suiker. Vegan."
     },
@@ -2341,7 +2393,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Pesach 5786) (KLP)",
     "image": "images/silan-natural.jpg",
     "productInfo": {
-      "Inhoud": "900 g",
       "Samenstelling": "100% dadels, zonder toegevoegde suiker",
       "Kenmerken": "Geen toegevoegde suiker, geen kleurstoffen, geen conserveermiddelen"
     },
@@ -2387,7 +2438,6 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis (Pesach 5786) (KLP)",
     "image": "images/silan-syrup.jpg",
     "productInfo": {
-      "Inhoud": "900 g",
       "Samenstelling": "60% dadels, met toegevoegde suiker",
       "Bewaren": "Op kamertemperatuur bewaren op een schaduwrijke plaats.",
       "Kenmerken": "Zonder kleurstoffen en conserveermiddelen."

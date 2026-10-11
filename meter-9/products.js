@@ -15,9 +15,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/01.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/775eabd4-fab4-49cf-801f-39c583e60c9d.jpg",
       "source-labels/c1048f87-e6b6-4ad0-b86e-46aa8e840962.jpg",
@@ -42,9 +40,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/02.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/5e0ebb14-4a04-4853-a189-a637054a4ecc.jpg",
       "source-labels/913c1f95-2e1d-475e-a5e8-163e0c09f80e.jpg",
@@ -69,9 +65,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/03.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "350 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/a2166859-8eec-4a4f-ac2e-5afe87633fad.jpg",
       "source-labels/75ffdf9b-2ecf-420a-aa1a-2a2e7d013fd9.jpg",
@@ -95,9 +89,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/04.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/0510a6bd-5d95-4253-bfac-57bfaa3c63f1.jpg",
       "source-labels/51ff612a-3de7-45c5-895d-37d133afd46e.jpg",
@@ -121,9 +113,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/05.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/4d311ff8-189c-4a3d-8ea9-73f1b275f191.jpg",
       "source-labels/160b819a-7263-4727-9665-1fbe8e4d663a.jpg",
@@ -150,9 +140,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/06.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/1d2220dd-24b7-4639-ba14-cf3e908553a9.jpg",
       "source-labels/ea5b46a8-9620-4f83-8e2c-4bb7b92117a6.jpg",
@@ -180,9 +168,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/07.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/c057991a-1ff0-438c-94e6-dfa34f82fdb2.jpg",
       "source-labels/5798a9f9-c5d0-4187-857d-c804e254972c.jpg",
@@ -206,9 +192,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/08.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "252 g (8 stuks)"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/44e03376-442f-42f0-a7e1-53c280aabc69.jpg",
       "source-labels/2f6b921c-8198-4c91-b897-054fbfefacd1.jpg"
@@ -230,9 +214,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/09.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/98e95812-bd30-4d70-9bc9-7319e001dd99.jpg",
       "source-labels/3a712dce-659b-4d5c-b870-a051ca897116.jpg"
@@ -255,9 +237,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/10.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/cdff732b-3ad0-4e57-8fee-8f21d1c51b56.jpg"
     ]
@@ -278,9 +258,7 @@ window.KPI_PRODUCTS = [
     "category": "Cake en gebak",
     "image": "images/11.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "400 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/f5a96ea2-0226-461c-8a83-88adfc169aee.jpg",
       "source-labels/a431f479-8d8d-41fd-9cfe-46262a14a62a.jpg"
@@ -304,9 +282,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/12.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/87fc4ef2-9cf3-4640-ab88-98df9db63fd7.jpg",
       "source-labels/5ac1d14d-d612-4d18-8151-40dd96a902a8.jpg",
@@ -328,9 +304,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/13.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/e6dc6a61-503e-4573-a5ed-df5465b1b8d5.jpg",
       "source-labels/e37163b8-6760-4ee1-9d72-ef75f632d42a.jpg",
@@ -354,9 +328,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/14.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "340 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/cf2e3e01-bec5-45c3-8359-2844a7830a6b.jpg",
       "source-labels/dab0d51a-a4d3-4410-8596-780b7a62b43b.jpg"
@@ -380,7 +352,6 @@ window.KPI_PRODUCTS = [
     "image": "images/15.png",
     "imageEdited": true,
     "productInfo": {
-      "Inhoud": "400 g",
       "Verpakking": "4 × 8 koekjes"
     },
     "sourcePhotos": [
@@ -406,9 +377,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/16.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/65158ac5-f578-4fd9-b4ce-d4f317f5c17b.jpg",
       "source-labels/f669a155-e5f1-4661-bb76-8fec49620267.jpg",
@@ -431,9 +400,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/17.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/29c2a209-673c-45c0-bdde-5dbe4c8e39d3.jpg",
       "source-labels/bd6b8a97-2c92-4f10-90ee-39db4a86f5e1.jpg",
@@ -459,9 +426,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/18.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/4fac9e8c-8eb3-483b-9d5c-485dc55a295c.jpg",
       "source-labels/96d74f9d-0cce-48a8-b961-f21c3d6e006b.jpg"
@@ -484,9 +449,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/19.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/734b3cd2-2ed2-4ad4-b2db-1e4d0760648b.jpg",
       "source-labels/370e7aaf-6a7d-45de-b32d-6c3b1a5b46ca.jpg"
@@ -511,9 +474,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/21.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "125 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/0a7bd64a-66fa-49f8-a4ff-45481e620d41.jpg",
       "source-labels/8ca1b42b-068e-4e58-859b-851f5ec0125e.jpg",
@@ -541,9 +502,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/20.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "125 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/592a7623-ec1a-4960-b2f7-ceac8e22f250.jpg",
       "source-labels/36988955-2fc3-4973-a80d-41ae09797fdb.jpg",
@@ -566,9 +525,7 @@ window.KPI_PRODUCTS = [
     "category": "Koekjes en wafels",
     "image": "images/22.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/5a771abc-9e35-45ae-9ac4-daba8ca97ac5.jpg",
       "source-labels/417360bf-de69-4528-8d5c-86ef97442a7c.jpg",
@@ -591,9 +548,7 @@ window.KPI_PRODUCTS = [
     "category": "Repen",
     "image": "images/23.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "35 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/cb70e543-121f-4269-ba03-5d52eca79d7f.jpg",
       "source-labels/b1cd1a3d-73eb-43da-9413-f21e050c990e.jpg"
@@ -616,9 +571,7 @@ window.KPI_PRODUCTS = [
     "category": "Repen",
     "image": "images/24.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "35 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/088170c5-299c-4cfc-ba8e-1060285dec38.jpg",
       "source-labels/fe122daf-b9aa-486f-979a-ad1b54249659.jpg"
@@ -641,9 +594,7 @@ window.KPI_PRODUCTS = [
     "category": "Repen",
     "image": "images/25.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/1320337d-71f7-4e3b-a206-0a25321d98a4.jpg",
       "source-labels/c43cf13e-aece-46e6-8dc2-faf50925301e.jpg"
@@ -666,9 +617,7 @@ window.KPI_PRODUCTS = [
     "category": "Repen",
     "image": "images/26.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "35 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/6bf56c4d-d299-45f3-9eb8-02ae2a69986e.jpg",
       "source-labels/c84236ef-694f-4ced-a92a-ba79c0564a5c.jpg",
@@ -692,9 +641,7 @@ window.KPI_PRODUCTS = [
     "category": "Repen",
     "image": "images/27.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/1eeb80b6-c959-481b-b64d-4bd03c5058ba.jpg",
       "source-labels/235bfd3d-eb60-4c5f-abe4-a00084ce8765.jpg",
@@ -721,9 +668,7 @@ window.KPI_PRODUCTS = [
     "category": "Repen",
     "image": "images/28.png",
     "imageEdited": true,
-    "productInfo": {
-      "Inhoud": "35 g"
-    },
+    "productInfo": {},
     "sourcePhotos": [
       "source-labels/f9e2b276-ec75-4a50-82e0-3695fa93dda1.jpg",
       "source-labels/9204208c-42f0-43d9-9f67-02098c088df9.jpg"

@@ -21,9 +21,7 @@ window.KPI_PRODUCTS = [
       "1.jpg",
       "2.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "150 g (5 × 30 g)"
-    },
+    "productInfo": {},
     "warning": "Verstikkingsgevaar voor kinderen jonger dan 5 jaar.",
     "searchName": "Granola repen noten & cranberry",
     "sourceUrl": "https://carmit.com/en/product/5-pack-rafaels-nuts-cranberries-snack-bars/",
@@ -70,9 +68,7 @@ window.KPI_PRODUCTS = [
       "5.jpg",
       "6.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "150 g (5 × 30 g)"
-    },
+    "productInfo": {},
     "warning": "Verstikkingsgevaar voor kinderen jonger dan 5 jaar.",
     "searchName": "Granola repen pecan pie",
     "sourceUrl": "https://carmit.com/en/product/5-pack-rafaels-pecan-pie-snack-bars/",
@@ -120,9 +116,7 @@ window.KPI_PRODUCTS = [
       "3.jpg",
       "4.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "150 g (5 × 30 g)"
-    },
+    "productInfo": {},
     "warning": "Verstikkingsgevaar voor kinderen jonger dan 5 jaar.",
     "searchName": "Granola repen kokos & cashew",
     "sourceUrl": "https://carmit.com/en/product/5-pack-rafaels-coconut-cashews-snack-bars/",
@@ -169,9 +163,7 @@ window.KPI_PRODUCTS = [
       "7.jpg",
       "8.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "150 g (5 × 30 g)"
-    },
+    "productInfo": {},
     "warning": "Verstikkingsgevaar voor kinderen jonger dan 5 jaar.",
     "searchName": "Granola repen tahin & amandelen",
     "sourceUrl": "https://carmit.com/en/product/5-pack-rafaels-almonds-tahini-snack-bars/",
@@ -219,9 +211,7 @@ window.KPI_PRODUCTS = [
       "10.jpg",
       "11.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "searchName": "Crunchy granola chocolade & hazelnoten",
     "sourceUrl": "https://carmit.com/en/product/rafaels-granola-crunch-chcocolate-hazelnuts/",
     "imagePresentation": {
@@ -268,9 +258,7 @@ window.KPI_PRODUCTS = [
       "13.jpg",
       "14.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "searchName": "Crunchy granola banaan & pecan",
     "sourceUrl": "https://carmit.com/en/product/rafaels-granola-crunch-banana-pecan/",
     "imagePresentation": {
@@ -317,9 +305,7 @@ window.KPI_PRODUCTS = [
       "16.jpg",
       "17.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "searchName": "Crunchy granola cranberry & cashew",
     "sourceUrl": "https://carmit.com/en/product/rafaels-granola-crunch-cashews-cranberries/",
     "imagePresentation": {
@@ -363,9 +349,7 @@ window.KPI_PRODUCTS = [
       "18.jpg",
       "19.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "170 g"
-    },
+    "productInfo": {},
     "warning": "Eet geen rauw beslag.",
     "searchName": "Crêpes pannenkoekenmix",
     "sourceUrl": "https://elisha.be/en/baking-mix-cr%C3%AApes-shaker",
@@ -408,9 +392,7 @@ window.KPI_PRODUCTS = [
       "21.jpg",
       "22.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "240 g (2 × 120 g)"
-    },
+    "productInfo": {},
     "allergenNote": "Soja wordt alleen in de Nederlandse fabrieksvermelding genoemd.",
     "searchName": "Crème pâtissière banketbakkersroommix",
     "sourceUrl": "https://elisha.be/en/Groceries/baking-mix-pastry-cream",
@@ -455,9 +437,7 @@ window.KPI_PRODUCTS = [
       "24.jpg",
       "25.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "155 g"
-    },
+    "productInfo": {},
     "warning": "Eet geen rauw beslag.",
     "allergenNote": "Soja wordt alleen in de Nederlandse fabrieksvermelding genoemd.",
     "searchName": "Muffinmix",
@@ -503,9 +483,7 @@ window.KPI_PRODUCTS = [
       "27.jpg",
       "28.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "105 g"
-    },
+    "productInfo": {},
     "searchName": "Crème brûlée mix",
     "sourceUrl": "https://elisha.be/en/Groceries/baking-mix-cr%C3%A8me-br%C3%BBl%C3%A9e",
     "imagePresentation": {
@@ -547,9 +525,7 @@ window.KPI_PRODUCTS = [
       "30.jpg",
       "31.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "searchName": "Instantpudding vanille",
     "sourceUrl": "https://snackfood.delivery/product/osem-instant-pudding-vanilla-flavor-80-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -591,9 +567,7 @@ window.KPI_PRODUCTS = [
       "33.jpg",
       "34.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "80 g"
-    },
+    "productInfo": {},
     "searchName": "Instantpudding Franse vanille",
     "sourceUrl": "https://snackfood.delivery/product/osem-instant-pudding-french-vanilla-flavor-80-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -635,9 +609,7 @@ window.KPI_PRODUCTS = [
       "36.jpg",
       "37.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "95 g"
-    },
+    "productInfo": {},
     "searchName": "Instantpudding chocolade",
     "sourceUrl": "https://www.osem-nestleusa.com/osem-soups-mixes/chocolate-pudding-33-oz",
     "imagePresentation": {
@@ -683,7 +655,6 @@ window.KPI_PRODUCTS = [
       "40.jpg"
     ],
     "productInfo": {
-      "Inhoud": "90 g",
       "Kenmerken": "Natuurlijke kleurstoffen."
     },
     "searchName": "Jelly aardbei",
@@ -733,9 +704,7 @@ window.KPI_PRODUCTS = [
       "42.jpg",
       "43.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "84 g"
-    },
+    "productInfo": {},
     "searchName": "Instantpudding dulce de leche",
     "sourceUrl": "https://snackfood.delivery/product/osem-instant-pudding-milk-cream-flavor-84-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -780,9 +749,7 @@ window.KPI_PRODUCTS = [
       "45.jpg",
       "46.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "37 g"
-    },
+    "productInfo": {},
     "warning": "Kan dadelpitten of stukjes notendop bevatten.",
     "searchName": "Dadelreep cashew & cranberry",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63161",
@@ -828,9 +795,7 @@ window.KPI_PRODUCTS = [
       "48.jpg",
       "49.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "37 g"
-    },
+    "productInfo": {},
     "warning": "Kan dadelpitten of stukjes notendop bevatten.",
     "searchName": "Dadelreep walnoot",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63162",
@@ -875,9 +840,7 @@ window.KPI_PRODUCTS = [
       "50.jpg",
       "51.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "37 g"
-    },
+    "productInfo": {},
     "searchName": "Dadelreep banaan & walnoot",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63165",
     "imagePresentation": {
@@ -920,9 +883,7 @@ window.KPI_PRODUCTS = [
       "53.jpg",
       "54.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "37 g"
-    },
+    "productInfo": {},
     "warning": "Kan dadelpitten of stukjes notendop bevatten.",
     "searchName": "Dadelreep kokos & hazelnoot",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63164",
@@ -967,9 +928,7 @@ window.KPI_PRODUCTS = [
       "56.jpg",
       "57.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "37 g"
-    },
+    "productInfo": {},
     "warning": "Kan dadelpitten of stukjes notendop bevatten.",
     "searchName": "Dadelreep pinda",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnack-reep?sku=63163",
@@ -1016,9 +975,7 @@ window.KPI_PRODUCTS = [
       "59.jpg",
       "60.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "55 g"
-    },
+    "productInfo": {},
     "warning": "Kan stukjes notendop bevatten. Jonge kinderen alleen onder toezicht van een volwassene laten eten.",
     "searchName": "Bites dadel, amandel & kokos met ananassmaak",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63151",
@@ -1066,9 +1023,7 @@ window.KPI_PRODUCTS = [
       "62.jpg",
       "63.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "55 g"
-    },
+    "productInfo": {},
     "warning": "Kan stukjes notendop bevatten. Jonge kinderen alleen onder toezicht van een volwassene laten eten.",
     "searchName": "Bites dadel, pecan & hazelnoot met bessensmaak",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63152",
@@ -1117,7 +1072,6 @@ window.KPI_PRODUCTS = [
       "66.jpg"
     ],
     "productInfo": {
-      "Inhoud": "55 g",
       "Bewaren": "Koel en droog bewaren.",
       "Kenmerken": "Vegan. Glutenvrij. Non-GMO Project Verified."
     },
@@ -1176,9 +1130,7 @@ window.KPI_PRODUCTS = [
       "68.jpg",
       "69.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "55 g"
-    },
+    "productInfo": {},
     "warning": "Kan stukjes notendop bevatten. Jonge kinderen alleen onder toezicht van een volwassene laten eten.",
     "searchName": "Bites dadel, walnoot & banaan",
     "sourceUrl": "https://www.israelwinkel.nl/producten/dadelsnacks-barbary-bites?sku=63153",
@@ -1223,9 +1175,7 @@ window.KPI_PRODUCTS = [
       "70.jpg",
       "71.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "warning": "Overmatig gebruik kan een laxerend effect hebben.",
     "searchName": "Blanc witte chocolade zonder toegevoegde suiker",
     "sourceUrl": "https://israelifooddirect.com/product/blanc-white-sugar-free-100g/",
@@ -1271,9 +1221,7 @@ window.KPI_PRODUCTS = [
       "72.jpg",
       "73.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Rosemarie Harmony witte chocolade met praliné",
     "sourceUrl": "https://israelifooddirect.com/product/rosemarie-harmony-100g/",
     "imagePresentation": {
@@ -1320,9 +1268,7 @@ window.KPI_PRODUCTS = [
       "75.jpg",
       "76.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Rosemarie Cappuccino",
     "sourceUrl": "https://israelifooddirect.com/product/rosemarie-cappuccino-mocha-100g/",
     "imagePresentation": {
@@ -1368,9 +1314,7 @@ window.KPI_PRODUCTS = [
       "77.jpg",
       "78.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Rosemarie Split nougat-praliné",
     "sourceUrl": "https://israelifooddirect.com/product/rosemarie-split-100g/",
     "imagePresentation": {
@@ -1415,9 +1359,7 @@ window.KPI_PRODUCTS = [
       "80.jpg",
       "81.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "allergenNote": "Ingrediënten en allergenen overgenomen van het oorspronkelijke etiket.",
     "searchName": "Ice Coffee witte chocolade met koffie",
     "sourceUrl": "https://snackfood.delivery/product/schmerlings-swiss-ice-coffee-chocolate-bar-100-grams-from-israel-kosher-certified/",
@@ -1458,9 +1400,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU-P (zonder lecithine) (KLP) (Parve)",
     "image": "images/product-orange-noir-user.png",
     "sourcePhotos": [],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "allergenNote": "Geproduceerd in een fabriek waar ook melk en soja worden verwerkt.",
     "labelSource": "Door gebruiker aangeleverde achterzijde: f78ae15d-799b-4967-ab89-9f0afc74fb5b.jpg",
     "searchName": "Orange Noir pure chocolade met sinaasappel & amandelen",
@@ -1505,9 +1445,7 @@ window.KPI_PRODUCTS = [
       "82.jpg",
       "83.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "White Almond witte chocolade met amandelen",
     "sourceUrl": "https://israelifooddirect.com/product/white-almond-white-chocolate-almonds-100g/",
     "imagePresentation": {
@@ -1550,9 +1488,7 @@ window.KPI_PRODUCTS = [
       "84.jpg",
       "85.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Choco Blanc witte chocolade",
     "sourceUrl": "https://israelifooddirect.com/product/chocolate-blanc-white-chocolate-no-nuts-100g/",
     "imagePresentation": {
@@ -1595,9 +1531,7 @@ window.KPI_PRODUCTS = [
       "86.jpg",
       "87.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Swiss Milk melkchocolade",
     "sourceUrl": "https://snackfood.delivery/product/schmerlings-swiss-milk-chocolate-bar-100-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -1638,9 +1572,7 @@ window.KPI_PRODUCTS = [
       "88.jpg",
       "89.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Pure chocolade 72% cacao",
     "sourceUrl": "https://israelifooddirect.com/product/72-cocoa-parve-100g/",
     "imagePresentation": {
@@ -1682,9 +1614,7 @@ window.KPI_PRODUCTS = [
       "90.jpg",
       "91.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Extra pure chocolade 85% cacao",
     "sourceUrl": "https://kosherfood.it/products/cioccolato-kosher-extra-fondente-85-shmerling-100-gr",
     "imagePresentation": {
@@ -1732,9 +1662,7 @@ window.KPI_PRODUCTS = [
       "93.jpg",
       "94.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "allergenNote": "Amandelen, hazelnoten en soja worden op het etiket als aanwezige allergenen vermeld.",
     "searchName": "Blondie witte karamelchocolade met roomvulling",
     "sourceUrl": "https://snackfood.delivery/product/elite-blondi-chocolate-bar-with-cream-100-grams-from-israel-kosher-certified/",
@@ -1782,9 +1710,7 @@ window.KPI_PRODUCTS = [
       "96.jpg",
       "97.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Blondie witte karamelchocolade met hazelnootcrème",
     "sourceUrl": "https://snackfood.delivery/product/elite-blondi-chocolate-bar-with-hazelnut-100-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -1830,9 +1756,7 @@ window.KPI_PRODUCTS = [
       "98.jpg",
       "99.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Melkchocolade met nougatcrème",
     "sourceUrl": "https://snackfood.delivery/product/elite-milk-chocolate-bar-with-nougat-cream-100-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -1880,7 +1804,6 @@ window.KPI_PRODUCTS = [
       "101.jpg"
     ],
     "productInfo": {
-      "Inhoud": "100 g",
       "Samenstelling": "Melkchocolade met melkcrèmevulling (40%). Minimaal 30% cacaobestanddelen in de melkchocolade."
     },
     "allergenNote": "Ingrediënten en allergenen bevestigd op het oorspronkelijke Hebreeuwse etiket. Dit heeft voorrang boven de afwijkende Nederlandse sticker.",
@@ -1938,9 +1861,7 @@ window.KPI_PRODUCTS = [
       "102.jpg",
       "103.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "100 g"
-    },
+    "productInfo": {},
     "searchName": "Witte chocolade met glutenvrije cacaokoekjes",
     "imagePresentation": {
       "corners": [
@@ -1986,9 +1907,7 @@ window.KPI_PRODUCTS = [
       "104.jpg",
       "105.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "45 g"
-    },
+    "productInfo": {},
     "searchName": "Pesek Zman Classic",
     "imagePresentation": {
       "corners": [
@@ -2036,9 +1955,7 @@ window.KPI_PRODUCTS = [
       "108.jpg",
       "109.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "52 g"
-    },
+    "productInfo": {},
     "searchName": "Pesek Zman Big Bite wafel & hazelnootcrème",
     "imagePresentation": {
       "corners": [
@@ -2083,9 +2000,7 @@ window.KPI_PRODUCTS = [
       "111.jpg",
       "112.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "40 g"
-    },
+    "productInfo": {},
     "allergenNote": "Hazelnootpasta staat in de ingrediënten; hazelnoten worden daarom ook als aanwezig beschouwd.",
     "searchName": "Taami chocolade, karamel & gepofte rijst",
     "sourceUrl": "https://snackfood.delivery/product/elite-taami-chocolate-bar-40-grams-from-israel-kosher-certified/",
@@ -2130,9 +2045,7 @@ window.KPI_PRODUCTS = [
       "114.jpg",
       "115.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "25 g"
-    },
+    "productInfo": {},
     "searchName": "Chocolate Log melkchocoladereep",
     "sourceUrl": "https://snackfood.delivery/product/elite-mekupelet-chocolate-bar-25-grams-from-israel-kosher-certified/",
     "imagePresentation": {
@@ -2182,7 +2095,6 @@ window.KPI_PRODUCTS = [
       "117.jpg"
     ],
     "productInfo": {
-      "Inhoud": "100 g",
       "Samenstelling": "Melkchocolade (54%), biscuit (13%) en notencrème (33%). Minimaal 30% cacaobestanddelen in de melkchocolade."
     },
     "ingredientsIncomplete": false,
@@ -2237,9 +2149,7 @@ window.KPI_PRODUCTS = [
       "119.jpg",
       "120.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "searchName": "Graanbolletjes met melkchocolade",
     "sourceUrl": "https://elisha.be/en/WOW/chocolate-coated-balls",
     "imagePresentation": {
@@ -2283,9 +2193,7 @@ window.KPI_PRODUCTS = [
       "121.jpg",
       "122.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "searchName": "Cornflakes met melkchocolade",
     "sourceUrl": "https://elisha.be/en/WOW/chocolate-coated-cornflakes",
     "imagePresentation": {
@@ -2331,9 +2239,7 @@ window.KPI_PRODUCTS = [
       "123.jpg",
       "124.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "searchName": "Koekjes met melkchocolade",
     "sourceUrl": "https://elisha.be/en/WOW/chocolate-coated-cookies",
     "imagePresentation": {
@@ -2378,9 +2284,7 @@ window.KPI_PRODUCTS = [
       "125.jpg",
       "126.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "searchName": "Graanbolletjes met melk- en witte chocolade",
     "sourceUrl": "https://elisha.be/en/WOW/chocolate-coated-mix-balls",
     "imagePresentation": {
@@ -2429,9 +2333,7 @@ window.KPI_PRODUCTS = [
       "128.jpg",
       "129.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "50 g"
-    },
+    "productInfo": {},
     "searchName": "Wafelrolletjes met notencrème en melkchocolade",
     "sourceUrl": "https://elisha.be/en/chocolate-coated-wafer-rolls",
     "imagePresentation": {
@@ -2476,9 +2378,7 @@ window.KPI_PRODUCTS = [
       "149.jpg",
       "150.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "searchName": "Chocolate Squares munt",
     "sourceUrl": "https://elisha.be/en/chocolates/chocolate-squares",
     "imagePresentation": {
@@ -2508,7 +2408,11 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
     "kosherSource": "source-labels/20261009-aanvulling-51.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "Kedassia (Londen)",
+      "CRC Kashrus (Parve)"
+    ]
   },
   {
     "id": 61,
@@ -2530,9 +2434,7 @@ window.KPI_PRODUCTS = [
       "152.jpg",
       "153.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "searchName": "Chocolate Squares sinaasappel & munt",
     "sourceUrl": "https://elisha.be/en/chocolates/chocolate-squares2",
     "imagePresentation": {
@@ -2562,7 +2464,11 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
     "kosherSource": "source-labels/20261009-aanvulling-53.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "Kedassia (Londen)",
+      "CRC Kashrus (Parve)"
+    ]
   },
   {
     "id": 62,
@@ -2583,9 +2489,7 @@ window.KPI_PRODUCTS = [
       "156.jpg",
       "157.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "200 g"
-    },
+    "productInfo": {},
     "searchName": "Chocolate Squares framboos",
     "sourceUrl": "https://elisha.be/en/chocolates/chocolate-squares-raspberry",
     "imagePresentation": {
@@ -2615,7 +2519,11 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
     "kosherSource": "source-labels/20261009-aanvulling-55.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "kosherLines": [
+      "Kedassia (Londen)",
+      "CRC Kashrus (Parve)"
+    ]
   },
   {
     "id": 51,
@@ -2633,9 +2541,7 @@ window.KPI_PRODUCTS = [
       "130.jpg",
       "131.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
+    "productInfo": {},
     "searchName": "Cacaopoeder",
     "sourceUrl": "https://elisha.be/en/chocolates/elisha-cocoa-powder",
     "imagePresentation": {
@@ -2678,9 +2584,7 @@ window.KPI_PRODUCTS = [
       "132.jpg",
       "133.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "searchName": "Swiss Baking Chocolate pure bakchocolade",
     "sourceUrl": "https://elisha.be/en/chocolates/Baking-Chocolate",
     "imagePresentation": {
@@ -2722,9 +2626,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "134.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "40 g"
-    },
+    "productInfo": {},
     "ingredientsIncomplete": false,
     "searchName": "Marsepein 50/50 met chocolade",
     "sourceUrl": "https://elisha.be/en/Marzipan-Chocolate",
@@ -2780,9 +2682,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "135.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "40 g"
-    },
+    "productInfo": {},
     "searchName": "Marsepein 50/50 naturel",
     "sourceUrl": "https://elisha.be/en/Elisha/Marzipan-White",
     "imagePresentation": {
@@ -2827,9 +2727,7 @@ window.KPI_PRODUCTS = [
       "137.jpg",
       "138.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "1 L"
-    },
+    "productInfo": {},
     "searchName": "The Good Life plantaardige kloproom",
     "sourceUrl": "https://elisha.be/en/shneiders/whipping-cream?page=9",
     "imagePresentation": {
@@ -2872,9 +2770,7 @@ window.KPI_PRODUCTS = [
       "139.jpg",
       "140.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "250 g"
-    },
+    "productInfo": {},
     "searchName": "The Good Life plantaardige spuitroom",
     "sourceUrl": "https://elisha.be/en/shneiders/whipping-cream-spray?page=10",
     "imagePresentation": {
@@ -2918,9 +2814,7 @@ window.KPI_PRODUCTS = [
       "142.jpg",
       "143.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "500 g"
-    },
+    "productInfo": {},
     "searchName": "Mascarpone UHT",
     "imagePresentation": {
       "corners": [
@@ -2962,9 +2856,7 @@ window.KPI_PRODUCTS = [
       "144.jpg",
       "145.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "searchName": "Chocoladefondue puur 56% cacao",
     "imagePresentation": {
       "corners": [
@@ -3008,9 +2900,7 @@ window.KPI_PRODUCTS = [
       "146.jpg",
       "147.jpg"
     ],
-    "productInfo": {
-      "Inhoud": "300 g"
-    },
+    "productInfo": {},
     "searchName": "Chocoladefondue melk",
     "imagePresentation": {
       "corners": [

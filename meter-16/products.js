@@ -1571,7 +1571,7 @@ window.KPI_PRODUCTS = [
     "id": 32,
     "brand": "Ice Li",
     "name": "Fruitijsjes om in te vriezen",
-    "variant": "8 × 100 ml",
+    "variant": "8 × 100 ml (totaal 800 ml)",
     "volumeSource": "Gebruiker bevestigt 8 × 100 ml op 9 oktober 2026.",
     "category": "IJsjes",
     "ean": "7290010609734",
@@ -1602,7 +1602,6 @@ window.KPI_PRODUCTS = [
       "Rabbinaat Haifa"
     ],
     "productInfo": {
-      "Inhoud": "8 × 100 ml (totaal 800 ml)",
       "Bewaaradvies": "Koel en droog bewaren. Voor consumptie invriezen; bevroren of gekoeld serveren.",
       "Samenstelling": "Bevat geen fruit.",
       "Smaken": "Citroen, ananas, framboos en druif."
