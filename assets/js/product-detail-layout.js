@@ -8,7 +8,7 @@
       if (section.querySelector('h3')?.textContent !== 'Hechser') continue;
       const line = section.querySelector('p');
       if (!line) continue;
-      const lines = (product.kosherLines || line.textContent.split(/\s+[—–-]\s+|\n/)).map(text => text.trim()).filter(Boolean);
+      const lines = (product.kosherLines || line.textContent.split(/\s+[—–-]\s+|\n/)).map(text => text.replace(/\s*\((?:KLP|Pesach[^)]*)\)/gi, '').replace(/\bKP\s*·\s*/g, '').replace(/\bOU-P\b/g, 'OU').trim()).filter(Boolean);
       const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
       const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
       if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
@@ -20,7 +20,7 @@
         line.append(document.createTextNode(text.trim()));
       });
     }
-    const hiddenLabel = label => /herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
+    const hiddenLabel = label => /pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
       if (hiddenLabel(heading?.textContent || '')) { section.remove(); continue; }

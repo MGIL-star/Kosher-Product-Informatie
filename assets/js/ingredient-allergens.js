@@ -7,7 +7,8 @@
 
   window.KPI_emphasizeAllergens = function (value) {
     return String(value).split(/([\p{L}]+(?:[’'][\p{L}]+)?)/u).map(part => {
-      const safe = escapeHtml(part);
+      const formatted = /^(tarwemeel|mosterdzaad)$/i.test(part) ? part.toUpperCase() : part;
+      const safe = escapeHtml(formatted);
       return names.test(part) ? `<strong>${safe}</strong>` : safe;
     }).join('');
   };

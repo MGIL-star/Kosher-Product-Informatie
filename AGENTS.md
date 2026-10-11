@@ -11,3 +11,5 @@
 
 - Toon geen vermeldingen van Bishul en geen negatieve Pesach-vermeldingen zoals “niet geschikt voor Pesach” in de catalogus of QR-productpagina’s.
 - Toon geen apart veld Kasjroet; de hechsjernaam blijft onder Hechsjer staan.
+- Laat alle Pesach-informatie weg uit de productweergave, inclusief KLP. Bewaaradvies en Gebruiksadvies blijven staan.
+- Toon TARWEMEEL en MOSTERDZAAD als volledige woorden in hoofdletters en vetgedrukt.
