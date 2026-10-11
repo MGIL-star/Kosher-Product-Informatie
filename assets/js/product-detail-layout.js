@@ -30,7 +30,7 @@
       names.forEach((name, index) => {
         const allergen = document.createElement('span');
         allergen.className = 'allergen';
-        const text = index === 0 && name ? name[0].toLocaleUpperCase('nl') + name.slice(1) : name;
+        const text = name ? name[0].toLocaleUpperCase('nl') + name.slice(1) : name;
         allergen.textContent = text + (index < names.length - 1 ? ', ' : '');
         list.append(allergen);
       });
