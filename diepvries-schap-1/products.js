@@ -94,7 +94,6 @@ window.KPI_PRODUCTS = [
       "SELDERIJ",
       "SULFIETEN"
     ],
-    "allergenNote": "Leesbaar op het Prime Cut-etiket.",
     "kosher": "Kedassia",
     "note": "",
     "image": "./images/05-runderburgers-recht.png",
