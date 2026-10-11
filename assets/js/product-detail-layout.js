@@ -45,7 +45,7 @@
     }
     const meter = (String(product.meter || window.location.pathname).match(/(?:^|\/)(meter-\d+)(?:[^/]*)(?:\/|$)/) || [])[1];
     const hideDkwAdvice = /^meter-\d+$/.test(meter || '') && meter !== 'meter-2';
-    const hiddenLabel = label => (hideDkwAdvice && /^(kenmerken|bewaren|bewaaradvies|bewaarvoorschriften|gebruik|gebruiksadvies|gebruiksaanwijzing)\s*:?\s*$/i.test(label)) || /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
+    const hiddenLabel = label => (hideDkwAdvice && /^(kenmerken|bewaren|bewaaradvies|bewaarvoorschriften|gebruik|gebruiksadvies|gebruiksaanwijzing)\s*:?\s*$/i.test(label)) || /uitlekgewicht|omschrijving|^(?:netto\s+)?inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
       if (hiddenLabel(heading?.textContent || '')) { section.remove(); continue; }
