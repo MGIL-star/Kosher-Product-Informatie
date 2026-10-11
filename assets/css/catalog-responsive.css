@@ -132,7 +132,6 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
 .dialog-product > section > h3::after {
   content: ":";
   margin-left: 0.12em;
-  display: inline-block;
-  transform: scaleY(1.35);
-  transform-origin: center;
+  position: relative;
+  top: -0.05em;
 }
