@@ -1344,9 +1344,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/vebo-mimolette.webp?v=806075918e5a",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Productlijn": "Shoshana Brand"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.koshercheese.nl/"
     ],
@@ -1384,9 +1382,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/vebo-havarti.webp?v=b715f56f3745",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Productlijn": "Shoshana Brand"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.koshercheese.nl/"
     ],
@@ -1424,9 +1420,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/vebo-light.webp?v=111fcaf5246b",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Productlijn": "Shoshana Brand"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.koshercheese.nl/"
     ],
@@ -1464,9 +1458,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/vebo-edam.webp?v=01bfbf61cb74",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Productlijn": "Shoshana Brand"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.koshercheese.nl/"
     ],
@@ -1504,9 +1496,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/vebo-gouda.webp?v=c59f55d4234a",
     "imageEdited": true,
     "detailsPending": false,
-    "productInfo": {
-      "Productlijn": "Shoshana Brand"
-    },
+    "productInfo": {},
     "sources": [
       "https://www.koshercheese.nl/"
     ],
