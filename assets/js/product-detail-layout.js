@@ -8,7 +8,7 @@
       if (section.querySelector('h3')?.textContent !== 'Hechser') continue;
       const line = section.querySelector('p');
       if (!line) continue;
-      const lines = (product.kosherLines || line.textContent.split(/\s+[—–-]\s+|\n/)).map(text => text.replace(/\s*\((?:KLP|Pesach[^)]*)\)/gi, '').replace(/\bKP\s*·\s*/g, '').replace(/\bOU-P\b/g, 'OU').trim()).filter(Boolean);
+      const lines = (product.kosherLines || [product.kosher || line.textContent]).flatMap(text => text.split(/\s*(?: \/ | · |;|,| en |\s+[—–]\s+|\s+\.\s+)\s*(?=(?:Badatz|OU\b|OU-D|OU-P|CRC\b|STAR-K|OK\b|BIR\b|Rabbijn|Rabbi\b|Rabbinaat|Opperrabbinaat|Machsike|Manchester|Nirbater|Beth Zedek|MKL\b))|\n/i)).map(text => text.replace(/\s*\((?:KLP|Pesach[^)]*)\)/gi, '').replace(/\bKP\s*·\s*/g, '').replace(/\bOU-P\b/g, 'OU').trim()).filter(Boolean);
       const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
       const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
       if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
