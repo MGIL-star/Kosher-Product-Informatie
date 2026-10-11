@@ -2763,10 +2763,9 @@ window.KPI_PRODUCTS = [
     "variant": "200 g",
     "ean": "8711528120300",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
-    "kosher": "Rabbinaat Volendam / MKL",
+    "kosher": "Opperrabbinaat Nederland",
     "kosherLines": [
-      "Rabbinaat Volendam",
-      "MKL",
+      "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
     "image": "./images/vebo-edam-stuk-200g.png",
@@ -2788,7 +2787,8 @@ window.KPI_PRODUCTS = [
       "directory": "tmp/kaas-bron-20261011"
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026."
   },
   {
     "category": "Kaas",
@@ -2798,10 +2798,9 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": "8711528757704",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
-    "kosher": "Rabbinaat Volendam / MKL",
+    "kosher": "Opperrabbinaat Nederland",
     "kosherLines": [
-      "Rabbinaat Volendam",
-      "MKL",
+      "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
     "image": "./images/vebo-gouda-stuk-250g.png",
@@ -2823,7 +2822,8 @@ window.KPI_PRODUCTS = [
       "directory": "tmp/kaas-bron-20261011"
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
-    "imageEdited": true
+    "imageEdited": true,
+    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026."
   },
   {
     "category": "Kaas",
