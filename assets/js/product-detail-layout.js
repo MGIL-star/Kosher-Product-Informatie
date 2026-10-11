@@ -46,7 +46,7 @@
           section.prepend(heading);
           label.remove();
         }
-        heading.textContent = 'Let op:';
+        heading.textContent = 'Let op';
       }
     }
     const ingredientSection = [...root.querySelectorAll('section')].find(section => /^(Ingrediënten|Bekende ingrediënten)$/.test(section.querySelector('h3')?.textContent || ''));
@@ -147,7 +147,7 @@
       const notice = document.createElement('section');
       notice.className = 'factory-allergen-notice';
       const heading = document.createElement('h3');
-      heading.textContent = 'Let op:';
+      heading.textContent = 'Let op';
       notice.append(heading);
       for (const text of factoryNotices) {
         const paragraph = document.createElement('p');
