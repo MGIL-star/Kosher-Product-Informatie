@@ -78,10 +78,14 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
   font-weight: 700;
 }
 
-/* Compact, semibold labels distinguish fields from their 17px values. */
+/* Apply the label/value size contrast only to actual field rows. */
+.dialog-product > section > p.detail-field-row {
+  font-size: 15px;
+}
+
 .dialog-product .detail-field-label {
   font-family: inherit;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 600;
   font-style: inherit;
   line-height: inherit;

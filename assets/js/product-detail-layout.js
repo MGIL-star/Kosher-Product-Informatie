@@ -173,7 +173,10 @@
         .replace('Barcode / EAN', 'Barcode & EAN');
     }
     for (const label of root.querySelectorAll('section > p > strong:first-child')) {
-      if (/:\s*$/.test(label.textContent)) label.classList.add('detail-field-label');
+      if (/:\s*$/.test(label.textContent)) {
+        label.classList.add('detail-field-label');
+        label.parentElement.classList.add('detail-field-row');
+      }
     }
 
   };
