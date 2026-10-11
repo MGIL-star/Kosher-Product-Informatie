@@ -34,3 +34,5 @@
 - Productnamen: gebruik vanaf meter 7 t/m 17, alle diepvriesmeters en alle koelingen dezelfde hoofdletterstijl als meter 6 (bijvoorbeeld Paneermeel Goud en Paneermeel met Knoflook en Sesam), in catalogus en QR-productpagina’s. Verbindingswoorden zoals met, en en voor blijven klein.
 
 - Toon sporenmeldingen met het kopje LET OP: in plaats van Kan bevatten, in catalogus en alle QR-productpagina’s. Behoud de volledige aangeleverde melding.
+
+- Onder LET OP: moet een sporenmelding een volledige zin zijn, bijvoorbeeld `Kan ei en mosterd bevatten.` of `Kan andere noten en pinda’s bevatten.` Laat geen losse allergenenopsomming onder dit kopje staan. Behoud bestaande volledige zinnen over sporen of verwerking in dezelfde fabriek.

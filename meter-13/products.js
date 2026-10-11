@@ -12,7 +12,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)",
       "Soja"
     ],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "OU · Rabbinaat Yokneam (Parve)",
     "image": "images/product-1-web.png",
     "sourcePhotos": [
@@ -156,7 +156,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)",
       "Soja"
     ],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "OU · Rabbinaat Yokneam (Parve)",
     "image": "images/product-9-web.png",
     "sourcePhotos": [
@@ -203,7 +203,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/product-12-supplied.png",
     "sourcePhotos": [
@@ -253,7 +253,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Gerst (gluten)"
     ],
-    "mayContain": "Soja, sesam, mosterd, hazelnoten, pinda’s en amandelen.",
+    "mayContain": "Kan soja, sesam, mosterd, hazelnoten, pinda’s en amandelen bevatten.",
     "kosher": "Badatz Edah Hachareidis",
     "image": "images/product-15-cleaned.png",
     "sourcePhotos": [
@@ -297,7 +297,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Sesam"
     ],
-    "mayContain": "Soja, mosterd, hazelnoten, pinda’s en amandelen.",
+    "mayContain": "Kan soja, mosterd, hazelnoten, pinda’s en amandelen bevatten.",
     "kosher": "Badatz Edah Hachareidis · Rabbinaat Safed (Parve)",
     "image": "images/product-18-cleaned.png",
     "sourcePhotos": [
@@ -345,7 +345,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Gerst (gluten)"
     ],
-    "mayContain": "Pinda’s, soja, amandelen, hazelnoten, mosterd en sesam.",
+    "mayContain": "Kan pinda’s, soja, amandelen, hazelnoten, mosterd en sesam bevatten.",
     "kosher": "OU / Rabbijn Shmuel Eliezer Stern (Parve)",
     "image": "images/product-21-supplied.png",
     "sourcePhotos": [
@@ -494,7 +494,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "OU · Badatz Edah Hachareidis · Rabbinaat Yokneam (Parve)",
     "image": "images/product-30-web.png",
     "sourcePhotos": [
@@ -541,7 +541,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Amandelen, hazelnoten, pinda’s, sesam, soja, gerst en mosterd.",
+    "mayContain": "Kan amandelen, hazelnoten, pinda’s, sesam, soja, gerst en mosterd bevatten.",
     "kosher": "OU · Badatz Edah Hachareidis (Parve)",
     "image": "images/product-33-supplied.png",
     "sourcePhotos": [
@@ -589,7 +589,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Gerst (gluten)"
     ],
-    "mayContain": "Pinda’s, soja, amandelen, hazelnoten, mosterd en sesam.",
+    "mayContain": "Kan pinda’s, soja, amandelen, hazelnoten, mosterd en sesam bevatten.",
     "kosher": "OU / Rabbijn Shmuel Eliezer Stern / Badatz Edah HaChareidis (Parve)",
     "image": "images/product-36-supplied.png",
     "sourcePhotos": [
@@ -645,7 +645,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Sesam, gerst en soja.",
+    "mayContain": "Kan sesam, gerst en soja bevatten.",
     "kosher": "Badatz Edah Hachareidis · Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-39-straight.png",
     "sourcePhotos": [
@@ -693,7 +693,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Sesam"
     ],
-    "mayContain": "Gerst en soja.",
+    "mayContain": "Kan gerst en soja bevatten.",
     "kosher": "Badatz Edah Hachareidis · Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-42-straight.png",
     "sourcePhotos": [
@@ -738,7 +738,7 @@ window.KPI_PRODUCTS = [
     "ean": "194961002453",
     "ingredients": "Aardappelen (EU), zonnebloemolie, olijfolie, zout.",
     "allergens": [],
-    "mayContain": "Mosterd en melk.",
+    "mayContain": "Kan mosterd en melk bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-58-web.jpg",
     "sourcePhotos": [
@@ -778,7 +778,7 @@ window.KPI_PRODUCTS = [
     "ean": "194961002477",
     "ingredients": "Aardappelen (EU), zonnebloemolie, olijfolie, mediterraans smaakaroma [suiker, specerijen (ui, knoflook, paprika, peterselie), aroma’s, glucosestrooppoeder, zout, tomatenpoeder, zuurteregelaars (citroenzuur, appelzuur), zoetstof (aspartaam)].",
     "allergens": [],
-    "mayContain": "Mosterd en melk.",
+    "mayContain": "Kan mosterd en melk bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-55-web.jpg",
     "sourcePhotos": [
@@ -943,7 +943,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000533689",
     "ingredients": "Aardappelbereiding (74%; aardappelgranules, aardappelvlokken, aardappelzetmeel, zout), zonnebloemolie, paprikakruiden [uienpoeder, specerijen (1,7%; paprika), suiker, dextrose, zout, gistextract, aroma, knoflookpoeder, kleurstof (paprika-extract)], antioxidant (rozemarijnextract).",
     "allergens": [],
-    "mayContain": "Gluten en soja.",
+    "mayContain": "Kan gluten en soja bevatten.",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/product-61-supplied.png",
     "sourcePhotos": [
@@ -983,7 +983,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000533672",
     "ingredients": "Aardappelbereiding (84%; aardappelgranules, aardappelvlokken, aardappelzetmeel, zout), zonnebloemolie, zout (1%).",
     "allergens": [],
-    "mayContain": "Gluten en soja.",
+    "mayContain": "Kan gluten en soja bevatten.",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/product-64-supplied-sharp.png",
     "sourcePhotos": [
@@ -1023,7 +1023,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000534488",
     "ingredients": "Volkoren rode rijst (70%), kikkererwten (20%), plantaardige oliën (9%; zonnebloemolie en maïsolie), zout.",
     "allergens": [],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/product-67-web.jpg",
     "sourcePhotos": [
@@ -1063,7 +1063,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000534204",
     "ingredients": "Maïs, peulvruchten (30%; rode linzen, groene erwten, gele erwten, zwarte bonen), plantaardige oliën (9%; zonnebloemolie en maïsolie), zout.",
     "allergens": [],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/product-70-web.jpg",
     "sourcePhotos": [
@@ -1102,7 +1102,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000534303",
     "ingredients": "Maïs (90%), plantaardige oliën (9%; zonnebloemolie en maïsolie), zout.",
     "allergens": [],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/product-72-web.jpg",
     "sourcePhotos": [
@@ -1141,7 +1141,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000534389",
     "ingredients": "Rode-linzenmeel (70%), zwarte rijst (20%), plantaardige oliën (9%; zonnebloemolie en maïsolie), zout.",
     "allergens": [],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "Machsike Hadass Antwerpen (Parve)",
     "image": "images/product-74-web.jpg",
     "sourcePhotos": [
@@ -1225,7 +1225,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)",
       "Soja"
     ],
-    "mayContain": "Pinda’s, amandelen, hazelnoten, sesam en mosterd.",
+    "mayContain": "Kan pinda’s, amandelen, hazelnoten, sesam en mosterd bevatten.",
     "kosher": "OU · Rabbinaat Safed (Parve)",
     "image": "images/product-79-supplied.png",
     "sourcePhotos": [
@@ -1272,7 +1272,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Gerst (gluten)"
     ],
-    "mayContain": "Haver, pinda’s, soja, amandelen, hazelnoten, mosterd en sesam.",
+    "mayContain": "Kan haver, pinda’s, soja, amandelen, hazelnoten, mosterd en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis",
     "image": "images/product-82-supplied.png",
     "sourcePhotos": [
@@ -1316,7 +1316,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)",
       "Sesam"
     ],
-    "mayContain": "Soja, mosterd, hazelnoten, pinda’s en amandelen.",
+    "mayContain": "Kan soja, mosterd, hazelnoten, pinda’s en amandelen bevatten.",
     "kosher": "Badatz Edah Hachareidis",
     "image": "images/product-85-supplied.png",
     "sourcePhotos": [
@@ -1359,7 +1359,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Gerst (gluten)"
     ],
-    "mayContain": "Sesam, soja, mosterd, hazelnoten, pinda’s en amandelen.",
+    "mayContain": "Kan sesam, soja, mosterd, hazelnoten, pinda’s en amandelen bevatten.",
     "kosher": "Rabbinaat Safed",
     "image": "images/product-88-supplied.png",
     "sourcePhotos": [
@@ -1402,7 +1402,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Gerst (gluten)"
     ],
-    "mayContain": "Soja, sesam, mosterd, hazelnoten, pinda’s en amandelen.",
+    "mayContain": "Kan soja, sesam, mosterd, hazelnoten, pinda’s en amandelen bevatten.",
     "kosher": "Badatz Edah Hachareidis",
     "image": "images/product-91-supplied.png",
     "sourcePhotos": [
@@ -1442,7 +1442,7 @@ window.KPI_PRODUCTS = [
     "ean": "5412514931087",
     "ingredients": "Maïsbloem (69%), zonnebloemolie, maltodextrine, zout, ui, dextrose, suiker, gistextract, chili (0,1%), paprika, natuurlijke aroma’s, zuurteregelaars (citroenzuur, calciumlactaat).",
     "allergens": [],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Rabbijn Pinchas Avraham Meyers (Parve)",
     "image": "images/product-94-cleaned.png",
     "sourcePhotos": [
@@ -1483,7 +1483,7 @@ window.KPI_PRODUCTS = [
     "ean": "5412514931063",
     "ingredients": "Maïsbloem (67%), zonnebloemolie, suiker, zout, tomatenpoeder (1,2%), aroma’s, maltodextrine, kruiden, voedingszuur (citroenzuur), kleurstof (paprika-extract), zetmeel.",
     "allergens": [],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Rabbijn Pinchas Avraham Meyers (Parve)",
     "image": "images/product-97-cleaned.png",
     "sourcePhotos": [
@@ -1960,7 +1960,7 @@ window.KPI_PRODUCTS = [
     "ean": "5425000534945",
     "ingredients": "Volkoren maïsmeel (90%), suiker, zout.",
     "allergens": [],
-    "mayContain": "Pinda’s en andere noten.",
+    "mayContain": "Kan pinda’s en andere noten bevatten.",
     "kosher": "Badatz Edah Hachareidis (Parve)",
     "image": "images/product-102-web.png",
     "sourcePhotos": [

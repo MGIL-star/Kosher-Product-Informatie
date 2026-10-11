@@ -19,7 +19,7 @@ window.KPI_PRODUCTS = [
       "2.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Sesam, hazelnoten en walnoten.",
+    "mayContain": "Kan sesam, hazelnoten en walnoten bevatten.",
     "sourceUrl": "https://golanlagan.co.il/Catalog.asp?PRodID=2239406&Page=NewShowProd.asp",
     "imagePresentation": {
       "corners": [
@@ -64,7 +64,7 @@ window.KPI_PRODUCTS = [
       "f49e3345-219f-47fa-b6e2-394ec672bad3.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Sesam, hazelnoten en walnoten.",
+    "mayContain": "Kan sesam, hazelnoten en walnoten bevatten.",
     "sourceUrl": "https://benedikts.com/products/ospbr",
     "imagePresentation": {
       "corners": [
@@ -103,7 +103,7 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Sulfieten"
     ],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "OU, Rabbinaat Nof HaGalil (Parve)",
     "image": "images/hadar-tirosh-half-omhulde-biscuitjes-175g.png",
     "sourcePhotos": [
@@ -163,7 +163,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://hadar-afifit.com/?page_id=49",
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
       "10.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Sesam, gerst en haver.",
+    "mayContain": "Kan sesam, gerst en haver bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -254,7 +254,7 @@ window.KPI_PRODUCTS = [
       "13.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -300,7 +300,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-chocolate/",
-    "mayContain": "Sesam en andere glutenbevattende granen.",
+    "mayContain": "Kan sesam en andere glutenbevattende granen bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -345,7 +345,7 @@ window.KPI_PRODUCTS = [
       "19.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Sesam en andere glutenbevattende granen.",
+    "mayContain": "Kan sesam en andere glutenbevattende granen bevatten.",
     "sourceUrl": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-plain/",
     "imagePresentation": {
       "corners": [
@@ -391,7 +391,7 @@ window.KPI_PRODUCTS = [
       "22.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Sesam en andere glutenbevattende granen.",
+    "mayContain": "Kan sesam en andere glutenbevattende granen bevatten.",
     "sourceUrl": "https://drumstickproducts.co.uk/product/hadar-tea-biscuits-vanilla/",
     "imagePresentation": {
       "corners": [
@@ -435,7 +435,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/crunch-cookies",
-    "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
+    "mayContain": "Kan melk, soja, eieren, hazelnoten en amandelen bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -478,7 +478,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/goldring-cookies",
-    "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
+    "mayContain": "Kan melk, soja, eieren, hazelnoten en amandelen bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -521,7 +521,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/vanilla-spritz",
-    "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
+    "mayContain": "Kan melk, soja, eieren, hazelnoten en amandelen bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -564,7 +564,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/choco-choco-spritz",
-    "mayContain": "Melk, soja, eieren, hazelnoten en amandelen.",
+    "mayContain": "Kan melk, soja, eieren, hazelnoten en amandelen bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -606,7 +606,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/chocolate-goldrings-cookies",
-    "mayContain": "Hazelnoten, amandelen, soja, eieren en melk.",
+    "mayContain": "Kan hazelnoten, amandelen, soja, eieren en melk bevatten.",
     "ingredientsSourceUrl": "https://www.coop.ch/de/lebensmittel/suesses-snacks/guetzli-suessgebaeck/guetzli-mit-schokolade/ueberzogen-mit-schokolade/gross-chocolate-goldrings-cookies/p/6585605",
     "imagePresentation": {
       "corners": [
@@ -651,7 +651,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://elisha.be/en/Biscuits/Double-Chocolate-Chips-Cookies",
-    "mayContain": "Sesam, noten, melk en soja.",
+    "mayContain": "Kan sesam, noten, melk en soja bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -699,7 +699,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Gourmet-Chocolate-Chips-Cookies",
     "productInfo": {},
-    "mayContain": "Noten, soja, sesam, pinda’s en melk.",
+    "mayContain": "Kan noten, soja, sesam, pinda’s en melk bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-cookies/11-cookies-with-chocolate-chips.html",
     "imagePresentation": {
       "corners": [
@@ -750,7 +750,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Hazelnuts-Chocolate-Chips-Cookies",
     "productInfo": {},
-    "mayContain": "Andere noten, sesam en pinda’s.",
+    "mayContain": "Kan andere noten, sesam en pinda’s bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-cookies/7-cookies-nougatine-dark-chocolate.html",
     "imagePresentation": {
       "corners": [
@@ -793,7 +793,7 @@ window.KPI_PRODUCTS = [
       "Haver (gluten)",
       "Soja"
     ],
-    "mayContain": "Andere glutenbevattende granen, noten en ei.",
+    "mayContain": "Kan andere glutenbevattende granen, noten en ei bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/shneiders-chunky-edited.png",
     "sourcePhotos": [
@@ -849,7 +849,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/ougalettes",
     "productInfo": {},
-    "mayContain": "Noten, soja, sesam en pinda’s.",
+    "mayContain": "Kan noten, soja, sesam en pinda’s bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/8-ougalette.html",
     "imagePresentation": {
       "corners": [
@@ -898,7 +898,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/palmines-raspberry-amp-choco-chips",
     "productInfo": {},
-    "mayContain": "Eieren, noten, sulfieten, pinda’s, lupine, sesam en melk.",
+    "mayContain": "Kan eieren, noten, sulfieten, pinda’s, lupine, sesam en melk bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/255-palmines-framboises-pepites-de-chocolat-.html",
     "imagePresentation": {
       "corners": [
@@ -947,7 +947,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Privileges-Palmier",
     "productInfo": {},
-    "mayContain": "Noten.",
+    "mayContain": "Kan noten bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/199-le-palmier.html",
     "imagePresentation": {
       "corners": [
@@ -996,7 +996,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/palmines-nature",
     "productInfo": {},
-    "mayContain": "Eieren, noten, sulfieten, pinda’s, lupine, sesam en melk.",
+    "mayContain": "Kan eieren, noten, sulfieten, pinda’s, lupine, sesam en melk bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-classiques/254-palmines-nature.html",
     "imagePresentation": {
       "corners": [
@@ -1045,7 +1045,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/t-choc2",
     "productInfo": {},
-    "mayContain": "Sesam, melk, eieren en noten.",
+    "mayContain": "Kan sesam, melk, eieren en noten bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-biscuits-chocolates/33-t-choc-with-dark-chocolate.html",
     "imagePresentation": {
       "corners": [
@@ -1094,7 +1094,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/t-choc",
     "productInfo": {},
-    "mayContain": "Sesam, eieren, soja en noten.",
+    "mayContain": "Kan sesam, eieren, soja en noten bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-biscuits-chocolates/32-t-choc-with-milk-chocolate.html",
     "imagePresentation": {
       "corners": [
@@ -1148,7 +1148,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/Start-up2",
     "productInfo": {},
-    "mayContain": "Sesam, pinda’s en andere noten.",
+    "mayContain": "Kan sesam, pinda’s en andere noten bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-petits-dejeuners/16-start-up-with-dark-chocolate.html",
     "imagePresentation": {
       "corners": [
@@ -1203,7 +1203,7 @@ window.KPI_PRODUCTS = [
     ],
     "sourceUrl": "https://elisha.be/en/Biscuits/start-up-honey-amp-hazelnut",
     "productInfo": {},
-    "mayContain": "Sesam, pinda’s en andere noten.",
+    "mayContain": "Kan sesam, pinda’s en andere noten bevatten.",
     "ingredientsSourceUrl": "https://shneiders.fr/fr/les-petits-dejeuners/17-start-up-chocolate-hazelnuts.html",
     "imagePresentation": {
       "corners": [
@@ -1252,7 +1252,7 @@ window.KPI_PRODUCTS = [
       "112f3103-3c47-40c1-b569-72dda123187a.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Eieren, sesam, soja en noten. De oorspronkelijke verpakking vermeldt ook pinda’s.",
+    "mayContain": "Kan eieren, sesam, soja en noten bevatten. De oorspronkelijke verpakking vermeldt ook pinda’s.",
     "sourceUrl": "https://benedikts.com/products/bcc",
     "imagePresentation": {
       "corners": [
@@ -1298,7 +1298,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-smiley-cookies/",
-    "mayContain": "Eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1343,7 +1343,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bchf",
-    "mayContain": "Eieren, sesam, noten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1386,7 +1386,7 @@ window.KPI_PRODUCTS = [
       "e7fdb6be-b075-45bc-ba79-ac251b73b234.jpg"
     ],
     "productInfo": {},
-    "mayContain": "Eieren, sesam, soja, noten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-circle-cookies/",
     "imagePresentation": {
       "corners": [
@@ -1432,7 +1432,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-coated-rings-%c2%96-coated-crunchy-cookies/",
-    "mayContain": "Eieren, sesam, noten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1477,7 +1477,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bccc",
-    "mayContain": "Eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, amandelen, hazelnoten, kokosnoot, walnoten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1522,7 +1522,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-choco-bites-%c2%96-mini-cocoa-cookies/",
-    "mayContain": "Eieren, sesam, noten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [
@@ -1568,7 +1568,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "sourceUrl": "https://drumstickproducts.co.uk/product/berman-cookies-pretzel-cream-filling/",
-    "mayContain": "Eieren, sesam, noten en pinda’s.",
+    "mayContain": "Kan eieren, sesam, noten en pinda’s bevatten.",
     "imagePresentation": {
       "corners": [
         [

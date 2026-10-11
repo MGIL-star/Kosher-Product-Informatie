@@ -10,7 +10,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja en sesam.",
+    "mayContain": "Kan soja en sesam bevatten.",
     "ingredientsSource": "https://www.osem-nestle.co.il/brands/אסם/עזרי-בישול/פירורית-זהב",
     "kosher": "Badatz Edah HaChareidis",
     "kosherChecked": "2026-09-27",
@@ -40,7 +40,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja, selderij en sesam.",
+    "mayContain": "Kan soja, selderij en sesam bevatten.",
     "kosher": "Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "id": 1,
     "category": "Paneermeel",
@@ -77,7 +77,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja, sesam, amandelen, pecannoten, walnoten, spelt (gluten), rogge (gluten), haver (gluten) en gerst (gluten).",
+    "mayContain": "Kan soja, sesam, amandelen, pecannoten, walnoten, spelt (gluten), rogge (gluten), haver (gluten) en gerst (gluten) bevatten.",
     "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (Parve)",
     "id": 2,
     "category": "Paneermeel",
@@ -233,7 +233,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Sesam"
     ],
-    "mayContain": "Soja, amandelen, pecannoten en walnoten.",
+    "mayContain": "Kan soja, amandelen, pecannoten en walnoten bevatten.",
     "kosher": "Badatz Edah HaChareidis / Rabbinaat Kiryat Ata (Parve)",
     "productInfo": {
       "Uitvoering": "Golden Garlic & Sesame"
@@ -276,7 +276,7 @@ window.KPI_PRODUCTS = [
     "ean": "077544002883",
     "ingredients": "Maltodextrine, maïszetmeel, zout, suiker, gistextract, palmolie, uienpoeder, bietenvezels, gedroogde peterselie, natuurlijke aroma’s, rozemarijnextract (ter bescherming van de smaak).",
     "allergens": [],
-    "mayContain": "Soja, sesam en tarwe (gluten).",
+    "mayContain": "Kan soja, sesam en tarwe (gluten) bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "barcodeNeedsCheck": false,
     "productInfo": {
@@ -326,7 +326,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Selderij"
     ],
-    "mayContain": "Soja, sesam en tarwe (gluten).",
+    "mayContain": "Kan soja, sesam en tarwe (gluten) bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "id": 8,
     "category": "Soep en bouillon",
@@ -407,7 +407,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Selderij"
     ],
-    "mayContain": "Sesam en soja.",
+    "mayContain": "Kan sesam en soja bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "id": 10,
     "category": "Soep en bouillon",
@@ -554,7 +554,7 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gerookte paprika, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), bietenpoeder (natuurlijke kleurstof), cacaopoeder, natuurlijke aroma’s.",
     "allergens": [],
-    "mayContain": "Sporen van sesam.",
+    "mayContain": "Kan sporen van sesam bevatten.",
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-42-online.png",
@@ -594,7 +594,7 @@ window.KPI_PRODUCTS = [
     "ean": "860014358975",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), natuurlijke aroma’s.",
     "allergens": [],
-    "mayContain": "Sporen van sesam.",
+    "mayContain": "Kan sporen van sesam bevatten.",
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-14.png",
@@ -634,7 +634,7 @@ window.KPI_PRODUCTS = [
     "ean": "860014358982",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gerookte paprika, zwarte peper), methylcellulose, inactieve droge gist, zout, voedingsvezels (erwtenvezels), bietenpoeder (natuurlijke kleurstof), cacaopoeder, natuurlijke aroma’s.",
     "allergens": [],
-    "mayContain": "Sporen van sesam.",
+    "mayContain": "Kan sporen van sesam bevatten.",
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-15.png",
@@ -673,7 +673,7 @@ window.KPI_PRODUCTS = [
     "ean": "860014358968",
     "ingredients": "Getextureerd erwteneiwit, erwteneiwitisolaat, specerijen (gedroogde knoflook, gedroogde ui, gemalen zwarte peper), aardappelzetmeel, methylcellulose, droge gist, voedingsvezels (erwtenvezels), zout, natuurlijke aroma’s.",
     "allergens": [],
-    "mayContain": "Sporen van sesam.",
+    "mayContain": "Kan sporen van sesam bevatten.",
     "kosher": "OU (Orthodox Union)",
     "category": "Vegan mixen",
     "image": "images/product-16.png",
@@ -716,7 +716,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja en sesam.",
+    "mayContain": "Kan soja en sesam bevatten.",
     "kosher": "Opperrabbinaat Sderot (Parve)",
     "category": "Croutons",
     "image": "images/product-17.jpg",
@@ -749,7 +749,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Eieren, mosterd, lupine en soja.",
+    "mayContain": "Kan eieren, mosterd, lupine en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "category": "Pasta en couscous",
     "image": "images/product-18.jpg",
@@ -788,7 +788,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Eieren, mosterd, lupine en soja.",
+    "mayContain": "Kan eieren, mosterd, lupine en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem",
     "category": "Pasta en couscous",
     "image": "images/product-19.jpg",
@@ -827,7 +827,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU / Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-20.jpg",
@@ -864,7 +864,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-21.webp",
@@ -900,7 +900,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU / Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-22.webp",
@@ -937,7 +937,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Behidur HaKashrut Rabbinaat Netanya (Parve)",
     "category": "Pasta en couscous",
     "image": "images/product-23.jpg",
@@ -972,7 +972,7 @@ window.KPI_PRODUCTS = [
     "ean": "5906827001303",
     "ingredients": "100% geroosterde boekweit.",
     "allergens": [],
-    "mayContain": "Gluten.",
+    "mayContain": "Kan gluten bevatten.",
     "kosher": "KLBD (London Beth Din)",
     "category": "Granen",
     "image": "images/product-24-straight.png",
@@ -1005,7 +1005,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Croutons",
     "image": "images/product-25-full.png",
@@ -1038,7 +1038,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "category": "Croutons",
     "image": "images/product-26-edited.png",
@@ -1074,7 +1074,7 @@ window.KPI_PRODUCTS = [
     "ean": "077544152403",
     "ingredients": "Gedroogde aardappelen (74%), palmolie, zout, suiker, smaakversterker (E621), gistextract, gedroogde knoflook, emulgator (mono- en diglyceriden van vetzuren), gedroogde ui, zuurteregelaar (dinatriumdifosfaat), zwarte peper, citroenzuur, antioxidant (rozemarijnextract).",
     "allergens": [],
-    "mayContain": "Selderij.",
+    "mayContain": "Kan selderij bevatten.",
     "kosher": "OU-P / Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)",
     "category": "Maaltijdmixen",
     "image": "images/product-27-full.png",
@@ -1112,7 +1112,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Selderij.",
+    "mayContain": "Kan selderij bevatten.",
     "kosher": "OU-P / Opperrabbinaat Sderot . Ook Badatz Edah HaChareidis op de verpakking (KLP) (Parve)",
     "category": "Maaltijdmixen",
     "image": "images/product-28-full.png",
@@ -1151,7 +1151,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Selderij"
     ],
-    "mayContain": "Soja, sesam, lupine en mosterd.",
+    "mayContain": "Kan soja, sesam, lupine en mosterd bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "category": "Soep en bouillon",
     "image": "images/product-29-online.jpg",
@@ -1189,7 +1189,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja, selderij en sesam.",
+    "mayContain": "Kan soja, selderij en sesam bevatten.",
     "kosher": "Badatz Edah HaChareidis / Opperrabbinaat Sderot (Parve)",
     "category": "Maaltijdmixen",
     "image": "images/product-30-full.png",
@@ -1308,7 +1308,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Selderij"
     ],
-    "mayContain": "Sesam en soja.",
+    "mayContain": "Kan sesam en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem / Opperrabbinaat Sderot (Parve)",
     "category": "Sauzen",
     "image": "images/product-33-online.jpg",
@@ -1354,7 +1354,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Soja, selderij en sesam.",
+    "mayContain": "Kan soja, selderij en sesam bevatten.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem / Opperrabbinaat Sderot (Parve)",
     "category": "Sauzen",
     "image": "images/product-34-online.jpg",
@@ -1402,7 +1402,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Selderij"
     ],
-    "mayContain": "Soja en sesam.",
+    "mayContain": "Kan soja en sesam bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "category": "Maaltijdbekers",
     "image": "images/product-35-straight.png",
@@ -1438,7 +1438,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000065335",
     "ingredients": "Gedroogde aardappelen (54%) (emulgator E471, zuurteregelaar E450, antioxidant citroenzuur), maltodextrine, gedroogde groenten (11%) (ui (7%), wortel (3,5%), peterselie (0,2%)), plantaardige oliën, zout, gemodificeerd zetmeel (E1450), specerijen (knoflook, witte peper), citroenzuur, kleurstof (kurkuma-extract), antioxidant (rozemarijnextract).",
     "allergens": [],
-    "mayContain": "Tarwe (gluten), soja, selderij en sesam.",
+    "mayContain": "Kan tarwe (gluten), soja, selderij en sesam bevatten.",
     "kosher": "Opperrabbinaat Sderot (Parve)",
     "category": "Maaltijdbekers",
     "image": "images/product-36-straight.png",
@@ -1477,7 +1477,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Sesam en selderij.",
+    "mayContain": "Kan sesam en selderij bevatten.",
     "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve)",
     "category": "Maaltijdbekers",
     "image": "images/product-37-straight.png",
@@ -1529,7 +1529,7 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Selderij"
     ],
-    "mayContain": "Sesam.",
+    "mayContain": "Kan sesam bevatten.",
     "kosher": "Rabbi M. Weissmandl, Nitra–Monsey (Parve)",
     "category": "Maaltijdbekers",
     "image": "images/product-38-straight.png",

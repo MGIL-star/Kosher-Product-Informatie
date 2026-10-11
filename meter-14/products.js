@@ -11,7 +11,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Pinda’s"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU Badatz Edah HaChareidis Chief Rabbinate Kiryat Gat (Parve)",
     "image": "images/bamba-100g-approved-v2.png",
     "sourcePhotos": [
@@ -40,7 +40,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Pinda’s"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU Badatz Edah HaChareidis Chief Rabbinate Kiryat Gat (Parve)",
     "image": "images/bamba-25g-edited-v2.png",
     "sourcePhotos": [
@@ -73,7 +73,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Soja"
     ],
-    "mayContain": "Tarwe en sesam.",
+    "mayContain": "Kan tarwe en sesam bevatten.",
     "kosher": "OU Badatz Edah HaChareidis Chief Rabbinate Sderot (Parve)",
     "image": "images/bamba-hazelnoot-60g-approved-v2.png",
     "sourcePhotos": [
@@ -103,7 +103,7 @@ window.KPI_PRODUCTS = [
       "Pinda’s",
       "Soja"
     ],
-    "mayContain": "Sesam en noten.",
+    "mayContain": "Kan sesam en noten bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/bamba-bissli-mix-web-snapshot.png",
     "sourcePhotos": [
@@ -131,7 +131,7 @@ window.KPI_PRODUCTS = [
     "ean": "077544006423",
     "ingredients": "Maïsmeel, zonnebloemolie, suiker, zout.",
     "allergens": [],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/apropo-gezouten-approved.png",
     "sourcePhotos": [
@@ -212,7 +212,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Pinda’s, tarwe en sesam.",
+    "mayContain": "Kan pinda’s, tarwe en sesam bevatten.",
     "warning": "Koel en droog bewaren. De glucosestroop is geproduceerd uit genetisch gemodificeerde maïs; de sojalecithine uit genetisch gemodificeerde soja.",
     "kosher": "Chief Rabbinate Kiryat Gat (Parve)",
     "image": "images/osem-popco.jpg",
@@ -240,7 +240,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000561240",
     "ingredients": "Pompoenpitten (95%), zout (5%), tapiocazetmeel.",
     "allergens": [],
-    "mayContain": "Tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja.",
+    "mayContain": "Kan tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/20.jpg",
     "sourcePhotos": [
@@ -267,7 +267,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000561202",
     "ingredients": "Zonnebloempitten (91%), zout (7,8%), zetmeel (tapioca/aardappel).",
     "allergens": [],
-    "mayContain": "Tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja.",
+    "mayContain": "Kan tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/19.jpg",
     "sourcePhotos": [
@@ -294,7 +294,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290000561363",
     "ingredients": "Watermeloenpitten (94%), zout, natriumbicarbonaat (zuiveringszout), bakpoeder.",
     "allergens": [],
-    "mayContain": "Tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja.",
+    "mayContain": "Kan tarwe, andere noten, kokosnoot, pinda’s, amandelen, sesam, sulfiet en soja bevatten.",
     "kosher": "Badatz Beit Yosef Rabbinate Yavne",
     "image": "images/21.jpg",
     "sourcePhotos": [
@@ -325,7 +325,7 @@ window.KPI_PRODUCTS = [
       "Tarwe",
       "Soja"
     ],
-    "mayContain": "Andere noten, kokosnoot, amandelen, sesam en sulfiet.",
+    "mayContain": "Kan andere noten, kokosnoot, amandelen, sesam en sulfiet bevatten.",
     "kosher": "Badatz Edah HaChareidis Rabbinate Yavne",
     "image": "images/coated-nuts-temporary.png",
     "sourcePhotos": [
@@ -359,7 +359,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Soja"
     ],
-    "mayContain": "Rogge, haver, gerst, andere noten, kokosnoot, amandelen en sulfiet.",
+    "mayContain": "Kan rogge, haver, gerst, andere noten, kokosnoot, amandelen en sulfiet bevatten.",
     "kosher": "Badatz Edah HaChareidis Rabbinate Yavne",
     "image": "images/kabukiem-sesam-clean.png",
     "sourcePhotos": [
@@ -390,7 +390,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Pecannoten"
     ],
-    "mayContain": "Tarwe, haver, andere noten, amandelen, kokosnoot, pinda’s, sesam, sulfiet en soja.",
+    "mayContain": "Kan tarwe, haver, andere noten, amandelen, kokosnoot, pinda’s, sesam, sulfiet en soja bevatten.",
     "kosher": "Badatz Edah HaChareidis Rabbinate Yavne",
     "image": "images/pecan-single-temporary.png",
     "sourcePhotos": [
@@ -571,7 +571,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU Badatz Edah HaChareidis (Parve)",
     "image": "images/official-7-snapshot.png",
     "sourcePhotos": [
@@ -685,7 +685,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/bissli-falafel-family-edited.png",
     "sourcePhotos": [
@@ -714,7 +714,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Pinda’s.",
+    "mayContain": "Kan pinda’s bevatten.",
     "kosher": "Chief Rabbinate Kiryat Gat",
     "image": "images/bamba-strawberry-family-edited.png",
     "sourcePhotos": [

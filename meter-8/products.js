@@ -180,7 +180,7 @@ window.KPI_PRODUCTS = [
       0.995
     ],
     "productInfo": {},
-    "mayContain": "Cashewnoten.",
+    "mayContain": "Kan cashewnoten bevatten.",
     "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
     "sources": [
       {
@@ -216,7 +216,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "reviewNotes": "Volledige ingrediënten en allergenenwaarschuwing rechtstreeks van fysieke etiketfoto codex-clipboard-1b7d8460-6b40-497b-861d-447aa41cc4c6.png. Cashewnoten uitsluitend als kan bevatten vermeld, niet als ingrediënt. Sorbaat zonder nadere specificatie overgenomen. Eerdere gedeeltelijke transcriptie hiermee vervangen. Barcode bevestigd op IMG_4272; productfoto door gebruiker aangeleverd. Geen voedingswaardeblok op verzoek gebruiker.",
-    "mayContain": "Cashewnoten.",
+    "mayContain": "Kan cashewnoten bevatten.",
     "labelSources": [
       "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/15.jpg",
       "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/16.jpg"
@@ -244,7 +244,7 @@ window.KPI_PRODUCTS = [
       0.97129
     ],
     "productInfo": {},
-    "mayContain": "Cashewnoten.",
+    "mayContain": "Kan cashewnoten bevatten.",
     "imageEdited": true,
     "reviewNotes": "Rechtstreeks afgelezen van fysieke fotos IMG_4273, IMG_4274 en IMG_4275 teruggevonden in eerder gesprek. Bewerkte voorfoto; ingrediënten en sporenwaarschuwing uitsluitend vanaf fysiek etiket.",
     "labelSources": [
@@ -265,7 +265,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290112870254",
     "ingredients": "Gerehydrateerde gedroogde tomaten (45%) (gedroogde tomaten, water, zout), plantaardige oliën (koolzaadolie en olijfolie), suiker, tomatenpoeder, specerijen (oregano, gemalen zwarte peper en rozemarijn), zuurteregelaar (citroenzuur), conserveermiddel (E202).",
     "allergens": [],
-    "mayContain": "Cashewnoten.",
+    "mayContain": "Kan cashewnoten bevatten.",
     "kosher": "Badatz Machzikei Hadas. Rabbijn Shlomo Weiss",
     "image": "images/bnei-tomatenpasta.png",
     "imageBounds": [
@@ -880,7 +880,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "reviewNotes": "Gebruiker bevestigt Beit Yitzhak Natural Products Harosset 250 g, barcode 7290004067458. Juiste referentiefoto codex-clipboard-75597907-a5d0-4534-aa72-91507d4087fc.png op gebruikersverzoek met imagegen verscherpt en vrijstaand gemaakt. Geen ingrediënten of keurmerken uit reconstructie afleiden. Volledige ingrediënten, walnoten en amandelen, sporenwaarschuwing en stukjes pitten rechtstreeks overgenomen van fysieke etiketfoto codex-clipboard-49594631-2569-4cf6-a23d-08642c751f82.png. Hechser en KLP zonder kitniyot bevestigd op aanvullende foto 41.jpg, 9 oktober 2026. Geen sulfieten afgeleid uit aanwezigheid van wijn.",
     "imageEdited": true,
-    "mayContain": "Paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten.",
+    "mayContain": "Kan paranoten, cashewnoten, kastanjes, hazelnoten, macadamianoten, pecannoten, pijnboompitten en pistachenoten bevatten.",
     "warning": "Kan stukjes pitten bevatten.",
     "labelSources": [
       "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/40.jpg",

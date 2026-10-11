@@ -14,7 +14,7 @@ window.KPI_PRODUCTS = [
       "Pinda’s",
       "Sesam"
     ],
-    "mayContain": "Pecannoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, tarwe, soja en mosterd.",
+    "mayContain": "Kan pecannoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, tarwe, soja en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-1-web.jpg",
     "sourcePhotos": [
@@ -61,7 +61,7 @@ window.KPI_PRODUCTS = [
       "Cashewnoten",
       "Sesam"
     ],
-    "mayContain": "Hazelnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja, tarwe en mosterd.",
+    "mayContain": "Kan hazelnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja, tarwe en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-5-web.jpg",
     "sourcePhotos": [
@@ -109,7 +109,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Sulfieten"
     ],
-    "mayContain": "Pecannoten, hazelnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd.",
+    "mayContain": "Kan pecannoten, hazelnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-3-web.jpg",
     "sourcePhotos": [
@@ -156,7 +156,7 @@ window.KPI_PRODUCTS = [
       "Amandelen",
       "Sesam"
     ],
-    "mayContain": "Pecannoten, hazelnoten, cashewnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, pinda’s, soja en mosterd.",
+    "mayContain": "Kan pecannoten, hazelnoten, cashewnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, pinda’s, soja en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-7-web.jpg",
     "sourcePhotos": [
@@ -203,7 +203,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Sulfieten"
     ],
-    "mayContain": "Tarwe, pecannoten, cashewnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd.",
+    "mayContain": "Kan tarwe, pecannoten, cashewnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-9-web.jpg",
     "sourcePhotos": [
@@ -250,7 +250,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Sulfieten"
     ],
-    "mayContain": "Tarwe, hazelnoten, cashewnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd.",
+    "mayContain": "Kan tarwe, hazelnoten, cashewnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-12-web.jpg",
     "sourcePhotos": [
@@ -297,7 +297,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Sulfieten"
     ],
-    "mayContain": "Tarwe, pecannoten, hazelnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd.",
+    "mayContain": "Kan tarwe, pecannoten, hazelnoten, walnoten, paranoten, macadamianoten, pistachenoten, pijnboompitten, amandelen, pinda’s, soja en mosterd bevatten.",
     "kosher": "Rabbinaat Nof HaGalil (Parve)",
     "image": "images/product-15-web.jpg",
     "sourcePhotos": [
@@ -342,7 +342,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Ei"
     ],
-    "mayContain": "Andere glutenbevattende granen, melk en noten.",
+    "mayContain": "Kan andere glutenbevattende granen, melk en noten bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-18-web.jpg",
     "sourcePhotos": [
@@ -384,7 +384,7 @@ window.KPI_PRODUCTS = [
     "ean": "194961004525",
     "ingredients": "Suiker, zetmeel (maïs, aardappel), aroma’s, verdikkingsmiddel (xanthaangom), kleurstof (carotenen).",
     "allergens": [],
-    "mayContain": "Glutenbevattende granen, melk, ei, noten en soja.",
+    "mayContain": "Kan glutenbevattende granen, melk, ei, noten en soja bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-20-web.jpg",
     "sourcePhotos": [
@@ -429,7 +429,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Andere glutenbevattende granen, melk, ei, noten en soja.",
+    "mayContain": "Kan andere glutenbevattende granen, melk, ei, noten en soja bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-23-web.jpg",
     "sourcePhotos": [
@@ -475,7 +475,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Ei"
     ],
-    "mayContain": "Glutenbevattende granen, melk, noten en soja.",
+    "mayContain": "Kan glutenbevattende granen, melk, noten en soja bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-26-web.jpg",
     "sourcePhotos": [
@@ -517,7 +517,7 @@ window.KPI_PRODUCTS = [
     "ean": "077544361003",
     "ingredients": "Suiker, maltodextrine, maïszetmeel, zuurteregelaars (E450, E327, E263, E339), aroma’s, kleurstof (carotenen).",
     "allergens": [],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem (Parve)",
     "image": "images/product-29-web.jpg",
     "sourcePhotos": [
@@ -559,7 +559,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290104501661",
     "ingredients": "Maltodextrine, suiker, gemodificeerd zetmeel (E1422), zuurteregelaars (E450, E327, E263, E339), aroma’s, kleurstof (wortelextract), plantaardige vetten.",
     "allergens": [],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem (Parve)",
     "image": "images/product-32-web.jpg",
     "sourcePhotos": [
@@ -646,7 +646,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Sulfieten"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "image": "images/product-38-web.jpg",
     "sourcePhotos": [
@@ -696,7 +696,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290100681015",
     "ingredients": "Maltodextrine, suiker, zetmeel, zuurteregelaars (E450, E327, E263, E339), karamelsuiker, aroma’s, plantaardige vetten.",
     "allergens": [],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem (Parve)",
     "image": "images/product-41-web.jpg",
     "sourcePhotos": [
@@ -741,7 +741,7 @@ window.KPI_PRODUCTS = [
       "Cashewnoten",
       "Sesam"
     ],
-    "mayContain": "Hazelnoten, amandelen, walnoten en pinda’s.",
+    "mayContain": "Kan hazelnoten, amandelen, walnoten en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-44-web.webp",
     "sourcePhotos": [
@@ -787,7 +787,7 @@ window.KPI_PRODUCTS = [
       "Walnoten",
       "Sesam"
     ],
-    "mayContain": "Hazelnoten, amandelen, cashewnoten en pinda’s.",
+    "mayContain": "Kan hazelnoten, amandelen, cashewnoten en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-47-web.webp",
     "sourcePhotos": [
@@ -833,7 +833,7 @@ window.KPI_PRODUCTS = [
       "Walnoten",
       "Sesam"
     ],
-    "mayContain": "Noten en pinda’s.",
+    "mayContain": "Kan noten en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-50-web.webp",
     "sourcePhotos": [
@@ -876,7 +876,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Hazelnoten"
     ],
-    "mayContain": "Amandelen, walnoten, cashewnoten, pinda’s en sesam.",
+    "mayContain": "Kan amandelen, walnoten, cashewnoten, pinda’s en sesam bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-53-web.webp",
     "sourcePhotos": [
@@ -920,7 +920,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Pinda’s"
     ],
-    "mayContain": "Hazelnoten, amandelen, walnoten, cashewnoten en sesam.",
+    "mayContain": "Kan hazelnoten, amandelen, walnoten, cashewnoten en sesam bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-55-web.webp",
     "sourcePhotos": [
@@ -967,7 +967,7 @@ window.KPI_PRODUCTS = [
       "Cashewnoten",
       "Amandelen"
     ],
-    "mayContain": "Andere noten, sesam en pinda’s.",
+    "mayContain": "Kan andere noten, sesam en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-58-web.webp",
     "sourcePhotos": [
@@ -1015,7 +1015,7 @@ window.KPI_PRODUCTS = [
       "Pecannoten",
       "Amandelen"
     ],
-    "mayContain": "Andere noten, sesam en pinda’s.",
+    "mayContain": "Kan andere noten, sesam en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-61-web.webp",
     "sourcePhotos": [
@@ -1063,7 +1063,7 @@ window.KPI_PRODUCTS = [
       "Sesam",
       "Amandelen"
     ],
-    "mayContain": "Andere noten en pinda’s.",
+    "mayContain": "Kan andere noten en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-64-web.webp",
     "sourcePhotos": [
@@ -1122,7 +1122,7 @@ window.KPI_PRODUCTS = [
       "Walnoten",
       "Sesam"
     ],
-    "mayContain": "Andere noten en pinda’s.",
+    "mayContain": "Kan andere noten en pinda’s bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/product-67-web.webp",
     "sourcePhotos": [
@@ -1168,7 +1168,7 @@ window.KPI_PRODUCTS = [
       "Melk",
       "Soja"
     ],
-    "mayContain": "Hazelnoten en amandelen.",
+    "mayContain": "Kan hazelnoten en amandelen bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-70-web.png",
     "sourcePhotos": [
@@ -1214,7 +1214,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Amandelen"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-72-edited.png",
     "sourcePhotos": [
@@ -1260,7 +1260,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Amandelen"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-74-final.png",
     "sourcePhotos": [
@@ -1307,7 +1307,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Amandelen"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-77-final.png",
     "sourcePhotos": [
@@ -1351,7 +1351,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Melk"
     ],
-    "mayContain": "Hazelnoten, amandelen en soja.",
+    "mayContain": "Kan hazelnoten, amandelen en soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-79-web.jpg",
     "sourcePhotos": [
@@ -1396,7 +1396,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Amandelen"
     ],
-    "mayContain": "Hazelnoten.",
+    "mayContain": "Kan hazelnoten bevatten.",
     "kosher": "OU-P (zonder lecithine) (KLP) (Parve)",
     "image": "images/product-orange-noir-user.png",
     "sourcePhotos": [],
@@ -1438,7 +1438,7 @@ window.KPI_PRODUCTS = [
       "Melk",
       "Amandelen"
     ],
-    "mayContain": "Hazelnoten en soja.",
+    "mayContain": "Kan hazelnoten en soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-82-web.png",
     "sourcePhotos": [
@@ -1481,7 +1481,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Melk"
     ],
-    "mayContain": "Hazelnoten, amandelen en soja.",
+    "mayContain": "Kan hazelnoten, amandelen en soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-84-web.png",
     "sourcePhotos": [
@@ -1524,7 +1524,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Melk"
     ],
-    "mayContain": "Hazelnoten, amandelen en soja.",
+    "mayContain": "Kan hazelnoten, amandelen en soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-86-web.jpg",
     "sourcePhotos": [
@@ -1565,7 +1565,7 @@ window.KPI_PRODUCTS = [
     "ean": "097643044546",
     "ingredients": "Cacaomassa, suiker, cacaoboter, cacaopoeder, vanille-extract.",
     "allergens": [],
-    "mayContain": "Hazelnoten, amandelen, melk en soja.",
+    "mayContain": "Kan hazelnoten, amandelen, melk en soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-88-edited.png",
     "sourcePhotos": [
@@ -1607,7 +1607,7 @@ window.KPI_PRODUCTS = [
     "ean": "097643044553",
     "ingredients": "Cacaomassa, suiker, cacaopoeder, cacaoboter, vanille-extract.",
     "allergens": [],
-    "mayContain": "Hazelnoten, amandelen, melk en soja.",
+    "mayContain": "Kan hazelnoten, amandelen, melk en soja bevatten.",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/product-90-edited.png",
     "sourcePhotos": [
@@ -1654,7 +1654,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Soja"
     ],
-    "mayContain": "Tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam.",
+    "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-92-web.jpg",
     "sourcePhotos": [
@@ -1702,7 +1702,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Soja"
     ],
-    "mayContain": "Tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam.",
+    "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-95-web.jpg",
     "sourcePhotos": [
@@ -1749,7 +1749,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Soja"
     ],
-    "mayContain": "Tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam.",
+    "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-98-edited.png",
     "sourcePhotos": [
@@ -1796,7 +1796,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Soja"
     ],
-    "mayContain": "Tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam.",
+    "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-100-edited.png",
     "sourcePhotos": [
@@ -1854,7 +1854,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Melk"
     ],
-    "mayContain": "Pinda’s, amandelen, hazelnoten, cashewnoten, walnoten, pistachenoten, pecannoten, ei, soja en sesam.",
+    "mayContain": "Kan pinda’s, amandelen, hazelnoten, cashewnoten, walnoten, pistachenoten, pecannoten, ei, soja en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-102-edited.png",
     "sourcePhotos": [
@@ -1900,7 +1900,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Pinda’s, andere noten, ei en sesam.",
+    "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-104-user.png",
     "sourcePhotos": [
@@ -1946,7 +1946,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Pinda’s, andere noten, ei en sesam.",
+    "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-106-user.png",
     "sourcePhotos": [
@@ -1992,7 +1992,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Hazelnoten"
     ],
-    "mayContain": "Pinda’s, amandelen, hazelnoten, pecannoten, ei, soja, gerst (gluten) en sesam.",
+    "mayContain": "Kan pinda’s, amandelen, hazelnoten, pecannoten, ei, soja, gerst (gluten) en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-110-web.jpg",
     "sourcePhotos": [
@@ -2037,7 +2037,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Melk"
     ],
-    "mayContain": "Pinda’s, noten, ei, soja en sesam.",
+    "mayContain": "Kan pinda’s, noten, ei, soja en sesam bevatten.",
     "kosher": "Badatz Edah Hachareidis of Jerusalem",
     "image": "images/product-113-web.jpg",
     "sourcePhotos": [
@@ -2087,7 +2087,7 @@ window.KPI_PRODUCTS = [
       "Ei",
       "Soja"
     ],
-    "mayContain": "Gerst, haver en rogge (gluten), pinda’s en sesam.",
+    "mayContain": "Kan gerst, haver en rogge (gluten), pinda’s en sesam bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-116-web.jpg",
     "sourcePhotos": [
@@ -2141,7 +2141,7 @@ window.KPI_PRODUCTS = [
       "Melk",
       "Soja"
     ],
-    "mayContain": "Tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
+    "mayContain": "Kan tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-118-web.png",
     "sourcePhotos": [
@@ -2186,7 +2186,7 @@ window.KPI_PRODUCTS = [
       "Melk",
       "Soja"
     ],
-    "mayContain": "Tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
+    "mayContain": "Kan tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-121-edited.png",
     "sourcePhotos": [
@@ -2232,7 +2232,7 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Tarwe (gluten)"
     ],
-    "mayContain": "Ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
+    "mayContain": "Kan ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-123-edited.png",
     "sourcePhotos": [
@@ -2277,7 +2277,7 @@ window.KPI_PRODUCTS = [
       "Melk",
       "Soja"
     ],
-    "mayContain": "Tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
+    "mayContain": "Kan tarwe (gluten), ei, sesam, pinda’s, amandelen, hazelnoten, cashewnoten, pecannoten, pistachenoten, walnoten en kokos bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-125-edited.png",
     "sourcePhotos": [
@@ -2325,7 +2325,7 @@ window.KPI_PRODUCTS = [
       "Hazelnoten",
       "Amandelen"
     ],
-    "mayContain": "Ei, sesam, pinda’s, cashewnoten, pecannoten, pistachenoten, walnoten en kokos.",
+    "mayContain": "Kan ei, sesam, pinda’s, cashewnoten, pecannoten, pistachenoten, walnoten en kokos bevatten.",
     "kosher": "Badatz Edah HaChareidis",
     "image": "images/product-127-edited.png",
     "sourcePhotos": [
@@ -2370,7 +2370,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Melk, glutenbevattende granen, noten en pinda’s.",
+    "mayContain": "Kan melk, glutenbevattende granen, noten en pinda’s bevatten.",
     "kosher": "Kedassia (Londen) / CRC Kashrus (Parve)",
     "image": "images/product-148-web.jpg",
     "sourcePhotos": [
@@ -2426,7 +2426,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Melk, glutenbevattende granen, noten en pinda’s.",
+    "mayContain": "Kan melk, glutenbevattende granen, noten en pinda’s bevatten.",
     "kosher": "Kedassia (Londen) / CRC Kashrus (Parve)",
     "image": "images/product-151-web.jpg",
     "sourcePhotos": [
@@ -2481,7 +2481,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Melk, glutenbevattende granen, pinda’s en noten.",
+    "mayContain": "Kan melk, glutenbevattende granen, pinda’s en noten bevatten.",
     "kosher": "Kedassia (Londen) / CRC Kashrus (Parve)",
     "image": "images/product-154-web.jpg",
     "sourcePhotos": [
@@ -2577,7 +2577,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Hazelnoten"
     ],
-    "mayContain": "Melk, soja, tarwe (gluten) en andere noten.",
+    "mayContain": "Kan melk, soja, tarwe (gluten) en andere noten bevatten.",
     "kosher": "OU-P",
     "image": "images/product-132-web.jpg",
     "sourcePhotos": [
@@ -2849,7 +2849,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Noten en melk.",
+    "mayContain": "Kan noten en melk bevatten.",
     "kosher": "STAR-K (Parve)",
     "image": "images/product-144-final.png",
     "sourcePhotos": [
@@ -2893,7 +2893,7 @@ window.KPI_PRODUCTS = [
       "Melk",
       "Soja"
     ],
-    "mayContain": "Noten.",
+    "mayContain": "Kan noten bevatten.",
     "kosher": "STAR-K",
     "image": "images/product-146-edited.png",
     "sourcePhotos": [

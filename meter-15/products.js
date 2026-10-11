@@ -10,7 +10,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Pinda’s"
     ],
-    "mayContain": "Soja.",
+    "mayContain": "Kan soja bevatten.",
     "warning": "Jonge kinderen alleen zittend en onder toezicht laten eten.",
     "kosher": "Badatz Edah HaChareidis Chief Rabbinate (Parve)",
     "image": "images/bamba-200g.jpg",
@@ -34,7 +34,7 @@ window.KPI_PRODUCTS = [
       "Pinda’s",
       "Soja"
     ],
-    "mayContain": "Tarwe, sesam en hazelnoten.",
+    "mayContain": "Kan tarwe, sesam en hazelnoten bevatten.",
     "warning": "Jonge kinderen alleen zittend en onder toezicht laten eten.",
     "kosher": "OU Badatz Edah HaChareidis (Parve)",
     "image": "images/bamba-marshmallow.jpg",
@@ -68,7 +68,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Ei"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) - Afiyat Yisrael (Parve)",
     "image": "images/liel-chocoladebroodjes-elisha.jpg",
     "sourcePhotos": [
@@ -97,7 +97,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Ei"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
     "image": "images/liel-croissants-elisha.jpg",
     "sourcePhotos": [
@@ -126,7 +126,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Ei"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
     "image": "images/liel-broodjes-elisha.jpg",
     "sourcePhotos": [
@@ -155,7 +155,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Ei"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) - Afiyat Yisrael (Parve)",
     "image": "images/liel-chocoladebrioche-elisha.jpg",
     "sourcePhotos": [
@@ -184,7 +184,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Ei"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
     "image": "images/liel-brioche-elisha.jpg",
     "sourcePhotos": [
@@ -212,7 +212,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Tarwe (gluten)"
     ],
-    "mayContain": "Melk, ei en sesam.",
+    "mayContain": "Kan melk, ei en sesam bevatten.",
     "kosher": "Rabbi M. Weissmandl Badatz Beit Yosef - Afiyat Yisrael (Parve)",
     "image": "images/liel-sandwichbrood.jpg",
     "sourcePhotos": [
@@ -241,7 +241,7 @@ window.KPI_PRODUCTS = [
     "ean": "5941868200087",
     "ingredients": "Maïszetmeel (90%), palmolie, zout (0,6%).",
     "allergens": [],
-    "mayContain": "Glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten.",
+    "mayContain": "Kan glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/gusto-85g-selected.png",
     "sourcePhotos": [
@@ -272,7 +272,7 @@ window.KPI_PRODUCTS = [
     "ean": "5941868203248",
     "ingredients": "Maïszetmeel (90%), palmolie, zout (0,6%).",
     "allergens": [],
-    "mayContain": "Glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten.",
+    "mayContain": "Kan glutenbevattende granen (tarwe, spelt), melk en melkderivaten (inclusief lactose), selderij, soja, pinda’s, noten (hazelnoten), zwaveldioxide en sulfieten bevatten.",
     "kosher": "OU (Parve)",
     "image": "images/gusto-45g-foodplus.png",
     "sourcePhotos": [

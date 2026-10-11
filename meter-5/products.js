@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
     "ean": "8715645279019",
     "ingredients": "Water, fenegriek, zout, citroenzuur, chilipeper, xanthaangom, natriumbenzoaat, kaliumsorbaat.",
     "allergens": [],
-    "mayContain": "Sesam, selderij, mosterd en gluten.",
+    "mayContain": "Kan sesam, selderij, mosterd en gluten bevatten.",
     "category": "Sauzen",
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-amba-clean.png",
@@ -391,7 +391,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "mayContain": "Ei en mosterd.",
+    "mayContain": "Kan ei en mosterd bevatten.",
     "sources": [
       "https://www.osem-nestle.co.il/brands/רוטב-טריאקי",
       "https://www.osem-nestle.co.il/sites/site.prod.osem-nestle.co.il/files/2025-01/מוצרים ללא גלוטן עדכון דצמבר 2024.doc.pdf",
@@ -427,7 +427,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "mayContain": "Ei en mosterd.",
+    "mayContain": "Kan ei en mosterd bevatten.",
     "sources": [
       "https://cheapersal.co.il/product/7290115207682"
     ],
@@ -466,7 +466,7 @@ window.KPI_PRODUCTS = [
       0.632,
       1
     ],
-    "mayContain": "Ei en soja.",
+    "mayContain": "Kan ei en soja bevatten.",
     "ingredientSource": "Etiketfoto gebruiker 3ee22808-0c86-4b3a-b8fc-f69441569e55.jpg, 18 september 2026",
     "kosherSource": "Etiketfoto gebruiker: 96292645-5bb6-47fd-98d3-57e0943d575b.jpg",
     "kosherChecked": "2026-10-09",
@@ -545,7 +545,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "mayContain": "Andere noten en pinda’s.",
+    "mayContain": "Kan andere noten en pinda’s bevatten.",
     "reviewNotes": [
       "Volledige ingrediënten en allergenen overgenomen van het aangeleverde etiket."
     ],
@@ -599,7 +599,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://shneiders.fr/import_images/PLI_02_02B_16_Certification-01.png",
     "kosherChecked": "2026-09-18",
-    "mayContain": "Andere noten en pinda’s.",
+    "mayContain": "Kan andere noten en pinda’s bevatten.",
     "ingredientSource": "Gebruikersfoto etiket: codex-clipboard-cb6517a3-b4bb-4563-8b81-81faa74f50db.jpg",
     "kosherLines": [
       "STAR-K",
@@ -625,7 +625,7 @@ window.KPI_PRODUCTS = [
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
-    "mayContain": "Andere noten en pinda’s.",
+    "mayContain": "Kan andere noten en pinda’s bevatten.",
     "kosherStatus": "Parve",
     "reviewNotes": [
       "Volledige ingrediënten en allergenen overgenomen van het aangeleverde etiket. Gebruiker bevestigt dat dit etiket voor beide Genovese-formaten geldt."
@@ -1608,7 +1608,7 @@ window.KPI_PRODUCTS = [
       0.7433,
       0.9817
     ],
-    "mayContain": "Glutenbevattende granen, soja, melk (inclusief lactose) en selderij.",
+    "mayContain": "Kan glutenbevattende granen, soja, melk (inclusief lactose) en selderij bevatten.",
     "ingredientSource": "Gebruikersfoto etiket: 90dcee60-9a08-4b72-b4ae-7c7ac03a08ec.jpg"
   },
   {

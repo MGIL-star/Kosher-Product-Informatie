@@ -35,7 +35,7 @@ window.KPI_PRODUCTS = [
       "Ei",
       "Sulfieten"
     ],
-    "mayContain": "Pinda’s, sesam, visgelatine (vis), haver, rogge, kokosnoot, amandelen, pijnboompitten, cashewnoten, pistachenoten, pecannoten, hazelnoten, walnoten, paranoten en macadamianoten.",
+    "mayContain": "Kan pinda’s, sesam, visgelatine (vis), haver, rogge, kokosnoot, amandelen, pijnboompitten, cashewnoten, pistachenoten, pecannoten, hazelnoten, walnoten, paranoten en macadamianoten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Cake en gebak",
     "image": "images/02.png",
@@ -60,7 +60,7 @@ window.KPI_PRODUCTS = [
       "Ei",
       "Sulfieten"
     ],
-    "mayContain": "Pinda’s, sesam, visgelatine (vis), haver, rogge, kokosnoot, amandelen, pijnboompitten, cashewnoten, pistachenoten, pecannoten, hazelnoten, walnoten, paranoten en macadamianoten.",
+    "mayContain": "Kan pinda’s, sesam, visgelatine (vis), haver, rogge, kokosnoot, amandelen, pijnboompitten, cashewnoten, pistachenoten, pecannoten, hazelnoten, walnoten, paranoten en macadamianoten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Cake en gebak",
     "image": "images/03.png",
@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Rogge, gerst, haver, sesam, hazelnoten en ei.",
+    "mayContain": "Kan rogge, gerst, haver, sesam, hazelnoten en ei bevatten.",
     "kosher": "OU (Parve)",
     "category": "Cake en gebak",
     "image": "images/09.png",
@@ -232,7 +232,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Rogge, gerst, haver, sesam en ei.",
+    "mayContain": "Kan rogge, gerst, haver, sesam en ei bevatten.",
     "kosher": "OU (Parve)",
     "category": "Cake en gebak",
     "image": "images/10.png",
@@ -253,7 +253,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Rogge, gerst, haver, sesam, hazelnoten en ei.",
+    "mayContain": "Kan rogge, gerst, haver, sesam, hazelnoten en ei bevatten.",
     "kosher": "OU (Parve)",
     "category": "Cake en gebak",
     "image": "images/11.png",
@@ -277,7 +277,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Noten.",
+    "mayContain": "Kan noten bevatten.",
     "kosher": "Badatz Edah HaChareidis (Parve)",
     "category": "Koekjes en wafels",
     "image": "images/12.png",
@@ -372,7 +372,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Sesam en noten.",
+    "mayContain": "Kan sesam en noten bevatten.",
     "kosher": "OU (Parve)",
     "category": "Koekjes en wafels",
     "image": "images/16.png",
@@ -395,7 +395,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Sesam en noten.",
+    "mayContain": "Kan sesam en noten bevatten.",
     "kosher": "OU (Parve)",
     "category": "Koekjes en wafels",
     "image": "images/17.png",
@@ -421,7 +421,7 @@ window.KPI_PRODUCTS = [
       "Gerst (gluten)",
       "Pinda’s"
     ],
-    "mayContain": "Melk, amandelen, mosterd, sesam en rogge.",
+    "mayContain": "Kan melk, amandelen, mosterd, sesam en rogge bevatten.",
     "kosher": "Badatz Igud Rabbonim (BIR) (Parve)",
     "category": "Koekjes en wafels",
     "image": "images/18.png",
@@ -444,7 +444,7 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Hazelnoten"
     ],
-    "mayContain": "Gerst, pinda’s, melk, amandelen, mosterd, sesam, haver en rogge.",
+    "mayContain": "Kan gerst, pinda’s, melk, amandelen, mosterd, sesam, haver en rogge bevatten.",
     "kosher": "Badatz Igud Rabbonim (BIR) (Parve)",
     "category": "Koekjes en wafels",
     "image": "images/19.png",
@@ -469,7 +469,7 @@ window.KPI_PRODUCTS = [
       "Soja",
       "Gerst (gluten)"
     ],
-    "mayContain": "Pinda’s, amandelen, mosterd en sesam.",
+    "mayContain": "Kan pinda’s, amandelen, mosterd en sesam bevatten.",
     "kosher": "OU-D",
     "category": "Koekjes en wafels",
     "image": "images/21.png",
@@ -497,7 +497,7 @@ window.KPI_PRODUCTS = [
       "Pinda’s",
       "Amandelen"
     ],
-    "mayContain": "Mosterd en sesam.",
+    "mayContain": "Kan mosterd en sesam bevatten.",
     "kosher": "OU-D",
     "category": "Koekjes en wafels",
     "image": "images/20.png",
@@ -520,7 +520,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Spelt, haver, gerst, ei, sesam, hazelnoten, cashewnoten, kokosnoot, amandelen en walnoten.",
+    "mayContain": "Kan spelt, haver, gerst, ei, sesam, hazelnoten, cashewnoten, kokosnoot, amandelen en walnoten bevatten.",
     "kosher": "Kedassia Londen (Parve)",
     "category": "Koekjes en wafels",
     "image": "images/22.png",
@@ -543,7 +543,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Amandelen"
     ],
-    "mayContain": "Andere noten, pinda’s, sesam, soja en melk.",
+    "mayContain": "Kan andere noten, pinda’s, sesam, soja en melk bevatten.",
     "kosher": "K",
     "category": "Repen",
     "image": "images/23.png",
@@ -566,7 +566,7 @@ window.KPI_PRODUCTS = [
       "Pistachenoten",
       "Amandelen"
     ],
-    "mayContain": "Andere noten, pinda’s, sesam, soja en melk.",
+    "mayContain": "Kan andere noten, pinda’s, sesam, soja en melk bevatten.",
     "kosher": "K",
     "category": "Repen",
     "image": "images/24.png",
@@ -589,7 +589,7 @@ window.KPI_PRODUCTS = [
       "Pinda’s",
       "Melk"
     ],
-    "mayContain": "Andere noten, sesam en soja.",
+    "mayContain": "Kan andere noten, sesam en soja bevatten.",
     "kosher": "K-D",
     "category": "Repen",
     "image": "images/25.png",
@@ -612,7 +612,7 @@ window.KPI_PRODUCTS = [
       "Amandelen",
       "Sesam"
     ],
-    "mayContain": "Andere noten, pinda’s, soja en melk.",
+    "mayContain": "Kan andere noten, pinda’s, soja en melk bevatten.",
     "kosher": "K",
     "category": "Repen",
     "image": "images/26.png",
@@ -636,7 +636,7 @@ window.KPI_PRODUCTS = [
       "Amandelen",
       "Melk"
     ],
-    "mayContain": "Andere noten, pinda’s, sesam en soja.",
+    "mayContain": "Kan andere noten, pinda’s, sesam en soja bevatten.",
     "kosher": "K-D",
     "category": "Repen",
     "image": "images/27.png",
@@ -663,7 +663,7 @@ window.KPI_PRODUCTS = [
       "Amandelen",
       "Pecannoten"
     ],
-    "mayContain": "Andere noten, pinda’s, sesam, soja en melk.",
+    "mayContain": "Kan andere noten, pinda’s, sesam, soja en melk bevatten.",
     "kosher": "K",
     "category": "Repen",
     "image": "images/28.png",

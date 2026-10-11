@@ -7,7 +7,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290112336644",
     "ingredients": "Zoetstoffen (isomalt, sucralose), zuurteregelaar (citroenzuur), aroma’s.",
     "allergens": [],
-    "mayContain": "Melk en soja.",
+    "mayContain": "Kan melk en soja bevatten.",
     "kosher": "Badatz Igud Rabbonim (BIR) (Parve)",
     "category": "Snoepjes",
     "image": "images/01-web.jpg",
@@ -33,7 +33,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "Badatz Igud Rabbonim (BIR) (Parve)",
     "category": "Snoepjes",
     "image": "images/02-web.jpg",
@@ -58,7 +58,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290112337474",
     "ingredients": "Zoetstoffen (isomalt, sucralose), zuurteregelaar (citroenzuur), aroma’s, kleurstof (anthocyanen uit zwartewortelextract).",
     "allergens": [],
-    "mayContain": "Melk en soja.",
+    "mayContain": "Kan melk en soja bevatten.",
     "kosher": "Igud Harabanim & OU (Parve)",
     "category": "Snoepjes",
     "image": "images/03-web.jpg",
@@ -83,7 +83,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "Badatz Igud Rabbonim (BIR) (Parve)",
     "category": "Snoepjes",
     "image": "images/04-web.jpg",
@@ -109,7 +109,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Soja"
     ],
-    "mayContain": "Melk.",
+    "mayContain": "Kan melk bevatten.",
     "kosher": "Badatz Igud Rabbonim (BIR) (Parve)",
     "category": "Snoepjes",
     "image": "images/05-web.jpg",
@@ -444,7 +444,7 @@ window.KPI_PRODUCTS = [
     "ean": "194961000961",
     "ingredients": "Suiker, glucosestroop, kokosolie, verdikkingsmiddel (arabische gom), voedingszuur (citroenzuur), aroma’s, zout.",
     "allergens": [],
-    "mayContain": "Melk en hazelnoten.",
+    "mayContain": "Kan melk en hazelnoten bevatten.",
     "kosher": "Rabbi E.L Schneebalg en STAR-K (Parve)",
     "category": "Toffees",
     "image": "images/10-web.jpg",
@@ -483,7 +483,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Pinda’s, andere noten, ei en sesam.",
+    "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
     "kosher": "OU-D (Chalav Yisrael) rabbinaat Nof HaGalil",
     "category": "Chocolade",
     "image": "images/11-web.png",
@@ -518,7 +518,7 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)",
       "Soja"
     ],
-    "mayContain": "Pinda’s, andere noten, ei en sesam.",
+    "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
     "kosher": "OU-D (Chalav Yisrael) rabbinaat Nof HaGalil",
     "category": "Chocolade",
     "image": "images/12-pesek-zman-edited.png",
@@ -547,7 +547,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Melk"
     ],
-    "mayContain": "Pinda’s, amandelen, hazelnoten, pecannoten, ei, soja en sesam.",
+    "mayContain": "Kan pinda’s, amandelen, hazelnoten, pecannoten, ei, soja en sesam bevatten.",
     "kosher": "OU-D (Chalav Yisrael) rabbinaat Nof HaGalil",
     "category": "Chocolade",
     "image": "images/09-web.jpg",
@@ -576,7 +576,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Vis"
     ],
-    "mayContain": "Melk en soja.",
+    "mayContain": "Kan melk en soja bevatten.",
     "kosher": "Rabbi E.L Schneebalg en STAR-K (Parve)",
     "category": "Marshmallows",
     "image": "images/19-web.jpg",
@@ -610,7 +610,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Vis"
     ],
-    "mayContain": "Melk en soja.",
+    "mayContain": "Kan melk en soja bevatten.",
     "kosher": "Rabbi E.L Schneebalg en STAR-K (Parve)",
     "category": "Marshmallows",
     "image": "images/20-web.jpg",
@@ -644,7 +644,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "Vis"
     ],
-    "mayContain": "Melk en soja.",
+    "mayContain": "Kan melk en soja bevatten.",
     "kosher": "Rabbi E.L Schneebalg en STAR-K (Parve)",
     "category": "Marshmallows",
     "image": "images/21-web.jpg",
