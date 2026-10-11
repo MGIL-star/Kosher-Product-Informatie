@@ -78,14 +78,14 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
   font-weight: 700;
 }
 
-/* Field labels match body typography, with green color and bold emphasis. */
+/* Compact, semibold labels distinguish fields from their 17px values. */
 .dialog-product .detail-field-label {
   font-family: inherit;
-  font-size: inherit;
-  font-weight: 700;
+  font-size: 15px;
+  font-weight: 600;
   font-style: inherit;
   line-height: inherit;
-  letter-spacing: inherit;
+  letter-spacing: normal;
   color: var(--green-700, #276c58);
   text-transform: none;
 }
