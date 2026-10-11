@@ -113,6 +113,9 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
 /* Allergen lists use red text without a badge background or border. */
 .dialog-product .allergen-list {
   display: block;
+  font-family: inherit;
+  font-size: 17px;
+  line-height: 1.6;
 }
 .dialog-product .allergen {
   display: inline;
