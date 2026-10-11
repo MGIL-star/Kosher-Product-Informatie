@@ -72,11 +72,11 @@ const noSeparateAllergens = 'Op de aangeleverde foto is geen afzonderlijke spore
 add(13, 'Shneider’s', 'Candy Planet gesuikerde colaflesjes', '120 g', '194961003283',
   'Glucosestroop, suiker, gemodificeerd zetmeel, voedingszuren (citroenzuur, appelzuur), zuurteregelaars (natriummalaten, natriumcitraten), geleermiddel (carrageen), kleurstof (karamel), natuurlijk aroma, tarwezetmeel.', ['Tarwe (gluten)'], '', shneiderKosher,
   ['929ebe5d-e88b-49ab-9894-40f81617cb5a','2c7c4f2f-37a4-4aeb-abf5-6175bd7593d2'],
-  {category: 'Snoepjes', allergenNote: 'Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten.'});
+  {category: 'Snoepjes'});
 add(14, 'Shneider’s', 'Candy Planet bananen', '120 g', '194961003313',
   'Glucosestroop, suiker, geleermiddel (pectine), voedingszuur (citroenzuur), gehydrolyseerd plantaardig eiwit, natuurlijk aroma, zuurteregelaar (natriumcitraten), kleurstof (curcumine), tarwezetmeel.', ['Tarwe (gluten)'], '', shneiderKosher,
   ['470f35e2-9b81-4ba3-9b46-e9c98cabcf0c','065c21db-3d28-45a0-af99-a2039871a9c4'],
-  {category: 'Snoepjes', allergenNote: 'Tarwe en gluten zijn beide vermeld onder allergenen. Bevat tarwezetmeel. Het Franse etiket vermeldt minder dan 20 ppm gluten; het Hebreeuwse etiket vermeldt dat het product gluten bevat.'});
+  {category: 'Snoepjes'});
 add(15, 'Shneider’s', 'Candy Planet dubbele kersen', '120 g', '194961003245',
   'Glucosestroop, suiker, visgelatine, water, bevochtigingsmiddel (sorbitol, E420), voedingszuren (citroenzuur, E330; melkzuur, E270), zuurteregelaar (natriumlactaat, E325), aroma’s, glansmiddelen (bijenwas, E901; carnaubawas, E903), kleurstoffen (E102, E129, E133).', ['Vis'], '', marshKosher,
   ['a0950406-b9b2-4a61-b94a-a331eb1851d8','d78e850e-7f47-438a-913d-91b74c3a305c'],
@@ -88,7 +88,7 @@ add(16, 'Shneider’s', 'Candy Planet gladde colaflesjes', '120 g', '19496100323
 add(17, 'Shneider’s', 'Candy Planet krokodillen', '120 g', '194961003337',
   'Glucosestroop, suiker, gemodificeerd tarwezetmeel, gehydrolyseerd erwteneiwit, carnaubawas, zonnebloemolie, aroma’s, kleurstoffen (paprikaoleohars, curcumine).', ['Tarwe (gluten)'], '', shneiderKosher,
   ['19df55c1-c60a-405b-a83f-238e2e642ffc','f091bb73-2e31-4afe-95e0-cee942da5b58'],
-  {category: 'Snoepjes', allergenNote: 'Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten.'});
+  {category: 'Snoepjes'});
 add(18, 'Shneider’s', 'Candy Planet gummibeertjes', '120 g', '194961004006',
   'Glucosestroop, suiker, visgelatine, water, bevochtigingsmiddel (sorbitol, E420), voedingszuren (citroenzuur, E330; melkzuur, E270), zuurteregelaar (natriumlactaat, E325), aroma’s, glansmiddelen (bijenwas, E901; carnaubawas, E903), kleurstoffen (E102, E129, E133).', ['Vis'], '', marshKosher,
   ['f0da02e7-3654-41ea-b1b6-8e1066e71539','7c40c2f4-eceb-4e0b-8228-4b44f9069914'],

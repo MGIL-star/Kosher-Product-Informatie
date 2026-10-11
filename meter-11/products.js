@@ -271,7 +271,6 @@ window.KPI_PRODUCTS = [
       "2c7c4f2f-37a4-4aeb-abf5-6175bd7593d2"
     ],
     "warning": "",
-    "allergenNote": "Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten.",
     "kosherLines": [
       "Rabbi E.L Schneebalg",
       "STAR-K (Parve)"
@@ -303,7 +302,6 @@ window.KPI_PRODUCTS = [
       "065c21db-3d28-45a0-af99-a2039871a9c4"
     ],
     "warning": "",
-    "allergenNote": "Tarwe en gluten zijn beide vermeld onder allergenen. Bevat tarwezetmeel. Het Franse etiket vermeldt minder dan 20 ppm gluten; het Hebreeuwse etiket vermeldt dat het product gluten bevat.",
     "kosherLines": [
       "Rabbi E.L Schneebalg",
       "STAR-K (Parve)"
@@ -397,7 +395,6 @@ window.KPI_PRODUCTS = [
       "f091bb73-2e31-4afe-95e0-cee942da5b58"
     ],
     "warning": "",
-    "allergenNote": "Bevat tarwezetmeel. Het etiket vermeldt daarnaast minder dan 20 ppm gluten.",
     "kosherLines": [
       "Rabbi E.L Schneebalg",
       "STAR-K (Parve)"
