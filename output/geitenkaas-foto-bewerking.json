@@ -1,0 +1,5 @@
+{
+  "tool": "built-in image_gen",
+  "image": "koeling-schap-2/images/mini-geit-naturel-gelijk.png",
+  "prompt": "Precise product photo retouch. Image 1 Soignon Mini Buchette Nature is edit target. Image 2 garlic herbs is reference for placement ONLY. Remove the small protruding black tab at bottom center of the Nature tray. Keep the tray, closed packaging, text, label, goat and all graphics exactly intact. Align the Nature pack to the exact same outer bounding size and baseline as image 2: same width, top and bottom within the square white canvas. Preserve Nature appearance and front view. Do not copy any green label or wording. White background. No other changes."
+}

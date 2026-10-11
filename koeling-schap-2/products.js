@@ -2391,7 +2391,7 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Triangle K",
-    "image": "./images/mini-geit-naturel.webp?v=c07b85634376",
+    "image": "./images/mini-geit-naturel-gelijk.png",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {
