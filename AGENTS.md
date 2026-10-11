@@ -18,11 +18,12 @@
 - Toon geen vermeldingen van Bishul en geen negatieve Pesach-vermeldingen zoals “niet geschikt voor Pesach” in de catalogus of QR-productpagina’s.
 - Toon geen apart veld Kasjroet; de hechsjernaam blijft onder Hechsjer staan.
 - Laat alle Pesach-informatie weg uit de productweergave, inclusief KLP. Bij DKW-meters vervallen Kenmerken, Bewaren/Bewaaradvies en Gebruik/Gebruiksadvies, behalve op wijnmeter 2; bij koelingen en diepvries blijven de adviezen staan.
-- Toon TARWEMEEL en MOSTERDZAAD als volledige woorden in hoofdletters en vetgedrukt.
-- Ingrediëntenstijl overal gelijk: gewone ingrediënten in kleine letters (eerste woord met beginhoofdletter), volledige allergeenwoorden in hoofdletters én vet. Behoud E-nummers en afkortingen.
+- Toon volledige allergeenwoorden, waaronder tarwemeel en mosterdzaad, vetgedrukt in gewone schrijfwijze, zonder volledige hoofdletters.
+- Ingrediëntenstijl overal gelijk: ingrediënten in kleine letters (eerste woord met beginhoofdletter), allergeenwoorden alleen vetgedrukt. Behoud E-nummers en afkortingen.
 - Productinformatie blijft zichtbaar; Bereiding, Netto inhoud en Visgehalte worden niet getoond. Het gewicht onder het merk blijft staan.
 - Meldingen over allergenen die in hetzelfde bedrijf/dezelfde fabriek worden verwerkt of gebruikt staan onder LET OP. Andere Let op-meldingen (zoals pitten en visgraten) staan onder WAARSCHUWING, op dezelfde positie als de olijvenwaarschuwingen. Behoud de volledige melding en voorkom dubbele weergave.
-- Allergenen hebben hetzelfde lettertype en dezelfde grootte als de omliggende ingrediënten, alleen vetgedrukt en in hoofdletters. De aparte allergenenlijst heeft rode tekst zonder gekleurde achtergrond of rand. Ingrediënten gebruiken ronde haakjes en komma’s in plaats van vierkante haakjes en puntkomma’s.
+- Allergenen hebben hetzelfde lettertype en dezelfde grootte als de omliggende ingrediënten, alleen vetgedrukt, zonder volledige hoofdletters. De aparte allergenenlijst heeft rode tekst zonder gekleurde achtergrond of rand. Ingrediënten gebruiken ronde haakjes en komma’s in plaats van vierkante haakjes en puntkomma’s.
+- Veldnamen zoals Type, Wijnstijl, Druiven, Serie en Alcohol, en de kop LET OP hebben normale letterafstand, zonder extra ruimte tussen letters.
 - Houd de koelingen logisch geordend per merk en productfamilie. Zuivel begint met grote yoghurts, kleine yoghurts, overige Shefa, Amstelvelder en VEBO/Shoshana; groepeer desserts per merk. Gebruik dezelfde volgorde in catalogus en QR-pagina’s.
 - Vleeskost begint met alle Tasty Food-bakjes: rode shug, groene shug, daarna de overige bakjes. Daarna Eden Gourmet-salades: hummus bij elkaar, aubergine bij elkaar, koolsalades bij elkaar, overige soorten en guacamole als laatste. Vervolgens tarama, harissa, rode en witte chrijn, surimi, alle Prime Cut en de overige vleeswaren.
 - Mamora, guacamole, tarama met kabeljauwkuit, harissa en beide Hoffmans-chrijnsoorten staan direct achter elkaar, in die volgorde. Dit blok staat direct na de oosterse kikkererwtensalade; daarna surimi en vervolgens alle falafelvarianten.

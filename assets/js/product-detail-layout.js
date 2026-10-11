@@ -18,6 +18,10 @@
   window.KPI_normalizeProductLayout = function (container, product = {}) {
     const root = container.querySelector('.dialog-product');
     if (!root) return;
+    for (const allergen of root.querySelectorAll('.allergen')) {
+      const text = allergen.textContent.toLocaleLowerCase('nl');
+      allergen.textContent = text ? text[0].toLocaleUpperCase('nl') + text.slice(1) : text;
+    }
     const ingredientSection = [...root.querySelectorAll('section')].find(section => /^(Ingrediënten|Bekende ingrediënten)$/.test(section.querySelector('h3')?.textContent || ''));
     if (ingredientSection) {
       for (const note of [product.ingredientNote, product.ingredientsNote].filter(Boolean)) {

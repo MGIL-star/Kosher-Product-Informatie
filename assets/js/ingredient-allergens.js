@@ -14,8 +14,8 @@
       const allergen = names.test(part) || compounds.test(part);
       // Keep additive and vitamin codes readable; normalize prose consistently.
       const code = /^(?:E\d+[a-z]*|B\d+|CMC|BHA|BHT|EDTA|TBHQ|MSG)$/i.test(part);
-      let formatted = allergen || code ? part.toUpperCase() : part.toLocaleLowerCase('nl');
-      if (firstWord && !allergen && !code) formatted = formatted[0].toLocaleUpperCase('nl') + formatted.slice(1);
+      let formatted = code ? part.toUpperCase() : part.toLocaleLowerCase('nl');
+      if (firstWord && !code) formatted = formatted[0].toLocaleUpperCase('nl') + formatted.slice(1);
       firstWord = false;
       const safe = escapeHtml(formatted);
       return allergen ? `<strong>${safe}</strong>` : safe;
