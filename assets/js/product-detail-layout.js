@@ -4,6 +4,15 @@
   window.KPI_normalizeProductLayout = function (container, product = {}) {
     const root = container.querySelector('.dialog-product');
     if (!root) return;
+    const ingredientSection = [...root.querySelectorAll('section')].find(section => /^(Ingrediënten|Bekende ingrediënten)$/.test(section.querySelector('h3')?.textContent || ''));
+    if (ingredientSection) {
+      for (const note of [product.ingredientNote, product.ingredientsNote].filter(Boolean)) {
+        if (ingredientSection.textContent.includes(note)) continue;
+        const paragraph = document.createElement('p');
+        paragraph.textContent = note;
+        ingredientSection.append(paragraph);
+      }
+    }
     for (const section of root.querySelectorAll('section')) {
       if (section.querySelector('h3')?.textContent !== 'Hechser') continue;
       const line = section.querySelector('p');
