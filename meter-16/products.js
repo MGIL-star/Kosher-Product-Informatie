@@ -195,7 +195,6 @@ window.KPI_PRODUCTS = [
       ]
     },
     "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking.",
       "Productie": "Volgens de verpakking geproduceerd in een notenvrije fabriek."
     },
     "kosherLines": [
@@ -248,7 +247,6 @@ window.KPI_PRODUCTS = [
       ]
     },
     "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking.",
       "Productie": "Volgens de verpakking geproduceerd in een notenvrije fabriek."
     },
     "kosherLines": [
@@ -354,9 +352,7 @@ window.KPI_PRODUCTS = [
         "0cfabfe6-d011-4856-9323-ab65985cec63.jpg"
       ]
     },
-    "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
@@ -667,9 +663,7 @@ window.KPI_PRODUCTS = [
         "bda94ba8-c27f-438f-87fb-9895eb577697.jpg"
       ]
     },
-    "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
-    },
+    "productInfo": {},
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
@@ -901,8 +895,7 @@ window.KPI_PRODUCTS = [
     ],
     "englishName": "Strawberry Flavored Syrup",
     "productInfo": {
-      "Bewaaradvies": "Na openen gekoeld bewaren.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Na openen gekoeld bewaren."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -953,8 +946,7 @@ window.KPI_PRODUCTS = [
     "imageRetouched": true,
     "productInfo": {
       "Bewaaradvies": "Direct na openen gekoeld bewaren.",
-      "Gebruiksadvies": "Goed schudden voor gebruik.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1019,9 +1011,7 @@ window.KPI_PRODUCTS = [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
     ],
-    "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 21,
@@ -1230,9 +1220,7 @@ window.KPI_PRODUCTS = [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
     ],
-    "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 25,
@@ -1331,9 +1319,7 @@ window.KPI_PRODUCTS = [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
     ],
-    "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 27,
@@ -1429,9 +1415,7 @@ window.KPI_PRODUCTS = [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
     ],
-    "productInfo": {
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
-    }
+    "productInfo": {}
   },
   {
     "id": 29,
@@ -1463,8 +1447,7 @@ window.KPI_PRODUCTS = [
     "englishName": "Tomato Basil Marinara Pasta Sauce",
     "productInfo": {
       "Bewaaradvies": "Direct na openen gekoeld bewaren.",
-      "Gebruiksadvies": "Goed schudden voor gebruik.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1514,8 +1497,7 @@ window.KPI_PRODUCTS = [
     "englishName": "Classic Marinara Pasta Sauce",
     "productInfo": {
       "Bewaaradvies": "Direct na openen gekoeld bewaren.",
-      "Gebruiksadvies": "Goed schudden voor gebruik.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1565,8 +1547,7 @@ window.KPI_PRODUCTS = [
     "englishName": "Original Pizza Sauce",
     "productInfo": {
       "Bewaaradvies": "Direct na openen gekoeld bewaren.",
-      "Gebruiksadvies": "Goed schudden voor gebruik.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Gebruiksadvies": "Goed schudden voor gebruik."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -1624,7 +1605,6 @@ window.KPI_PRODUCTS = [
       "Inhoud": "8 × 100 ml (totaal 800 ml)",
       "Bewaaradvies": "Koel en droog bewaren. Voor consumptie invriezen; bevroren of gekoeld serveren.",
       "Samenstelling": "Bevat geen fruit.",
-      "Pesach": "Geschikt voor Pesach zonder kitniyot volgens het keurmerk.",
       "Smaken": "Citroen, ananas, framboos en druif."
     },
     "ingredientsComplete": true,

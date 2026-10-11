@@ -591,8 +591,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Jonge Goudse kaas met een zachte, romige smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -634,8 +633,7 @@ window.KPI_PRODUCTS = [
       "Omschrijving": "Goudse kaas in plakken met minder vet.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Vetgehalte": "35% minder vet dan de gewone variant.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -676,8 +674,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Milde Edammer kaas met een licht nootachtige smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -719,8 +716,7 @@ window.KPI_PRODUCTS = [
       "Omschrijving": "Edammer kaas in plakken met minder vet.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
       "Vetgehalte": "28% minder vet dan de gewone variant.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -761,8 +757,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Zachte witte kaas met een milde, boterachtige smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -803,8 +798,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Kaas met bieslook en een frisse, volle smaak.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -845,8 +839,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Halfzachte kaas met een romige smaak en een pittig accent.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -887,8 +880,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Milde, zachte kaas gemaakt van geitenmelk.",
       "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Zuivel": "Chalav Yisroel",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Zuivel": "Chalav Yisroel"
     },
     "sources": [
       "https://www.amstelvelder.com/copy-of-product-range",
@@ -1356,8 +1348,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Emmentaler in een stuk, om te snijden of te raspen.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
@@ -1399,8 +1390,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Geraspte emmentaler voor warme gerechten.",
-      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren volgens de aanwijzingen op de verpakking."
     },
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
@@ -1957,8 +1947,7 @@ window.KPI_PRODUCTS = [
     "detailsPending": false,
     "productInfo": {
       "Omschrijving": "Grana Padano in een stuk.",
-      "Bewaaradvies": "Gekoeld bewaren tussen +4 °C en +8 °C.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren tussen +4 °C en +8 °C."
     },
     "sources": [],
     "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg",
@@ -2302,7 +2291,7 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
-    "ean": "",
+    "ean": "8711528159010",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
@@ -2314,8 +2303,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Mimolette kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2336,7 +2324,8 @@ window.KPI_PRODUCTS = [
       "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
   },
   {
     "id": 69,
@@ -2344,7 +2333,7 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
-    "ean": "",
+    "ean": "8711528505350",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
@@ -2356,8 +2345,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Havarti kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2378,7 +2366,8 @@ window.KPI_PRODUCTS = [
       "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
   },
   {
     "id": 70,
@@ -2386,7 +2375,7 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
-    "ean": "",
+    "ean": "8711528599717",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
@@ -2398,8 +2387,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Light kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2420,7 +2408,8 @@ window.KPI_PRODUCTS = [
       "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
   },
   {
     "id": 71,
@@ -2428,7 +2417,7 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
-    "ean": "",
+    "ean": "8711528199139",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
@@ -2440,8 +2429,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Edam kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2462,7 +2450,8 @@ window.KPI_PRODUCTS = [
       "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
   },
   {
     "id": 72,
@@ -2470,7 +2459,7 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO",
     "category": "Kaas",
     "variant": "160 g",
-    "ean": "",
+    "ean": "8711528299112",
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
     "allergens": [
       "MELK"
@@ -2482,8 +2471,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Omschrijving": "Gouda kaas in plakken.",
       "Productlijn": "Shoshana Brand",
-      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking.",
-      "Pesach": "Geschikt voor Pesach volgens het keurmerk."
+      "Bewaaradvies": "Gekoeld bewaren volgens de verpakking."
     },
     "sources": [
       "https://www.koshercheese.nl/"
@@ -2504,7 +2492,8 @@ window.KPI_PRODUCTS = [
       "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken."
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
   },
   {
     "id": 73,
@@ -2769,8 +2758,7 @@ window.KPI_PRODUCTS = [
     ],
     "image": "./images/vebo-edam-stuk-200g.png",
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C."
     },
     "allergens": [
       "MELK"
@@ -2805,8 +2793,7 @@ window.KPI_PRODUCTS = [
     ],
     "image": "./images/vebo-gouda-stuk-250g.png",
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C."
     },
     "allergens": [
       "MELK"
@@ -2842,8 +2829,7 @@ window.KPI_PRODUCTS = [
     ],
     "image": "./images/eden-halloumi-200g.png",
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Binnen 5 dagen na openen consumeren.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +6 °C. Binnen 5 dagen na openen consumeren."
     },
     "allergens": [
       "MELK"
@@ -2877,8 +2863,7 @@ window.KPI_PRODUCTS = [
     ],
     "image": "./images/amstelvelder-gerookte-gouda-125g.png",
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren tussen +2 °C en +7 °C. Na openen beperkt houdbaar."
     },
     "allergens": [
       "MELK"
@@ -3033,8 +3018,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/vebo-gouda-geraspt-400g.png",
     "imageEdited": true,
     "productInfo": {
-      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar.",
-      "Pesach": "Geschikt voor Pesach volgens de verpakking."
+      "Bewaaradvies": "Gekoeld bewaren bij maximaal +7 °C. Na openen beperkt houdbaar."
     },
     "ingredientsComplete": true,
     "detailsPending": false,
