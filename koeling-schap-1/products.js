@@ -198,7 +198,7 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "",
     "ean": "0796967649771",
-    "ingredients": "Aubergine, canola-olie, suiker, azijn, knoflook, zout.",
+    "ingredients": "Aubergine, canola olie, suiker, azijn, knoflook, zout.",
     "allergens": [],
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "kosherStatus": "Parve",
