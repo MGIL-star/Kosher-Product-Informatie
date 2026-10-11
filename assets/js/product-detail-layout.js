@@ -18,9 +18,22 @@
   window.KPI_normalizeProductLayout = function (container, product = {}) {
     const root = container.querySelector('.dialog-product');
     if (!root) return;
-    for (const allergen of root.querySelectorAll('.allergen')) {
-      const text = allergen.textContent.toLocaleLowerCase('nl');
-      allergen.textContent = text ? text[0].toLocaleUpperCase('nl') + text.slice(1) : text;
+    for (const list of root.querySelectorAll('.allergen-list')) {
+      const items = [...list.querySelectorAll('.allergen')];
+      if (!items.length) continue;
+      let names = items.map(el => el.textContent.trim().replace(/,\s*$/, '').toLocaleLowerCase('nl'));
+      const grains = names.filter(name => /^(gerst|tarwe|rogge|haver|spelt)(?: \(gluten\))?$/.test(name));
+      if (names.includes('gluten') && grains.length === 1) {
+        names = names.filter(name => name !== 'gluten').map(name => name === grains[0] && !name.endsWith('(gluten)') ? name + ' (gluten)' : name);
+      }
+      list.replaceChildren();
+      names.forEach((name, index) => {
+        const allergen = document.createElement('span');
+        allergen.className = 'allergen';
+        const text = index === 0 && name ? name[0].toLocaleUpperCase('nl') + name.slice(1) : name;
+        allergen.textContent = text + (index < names.length - 1 ? ', ' : '');
+        list.append(allergen);
+      });
     }
     const ingredientSection = [...root.querySelectorAll('section')].find(section => /^(Ingrediënten|Bekende ingrediënten)$/.test(section.querySelector('h3')?.textContent || ''));
     if (ingredientSection) {
