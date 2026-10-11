@@ -44,8 +44,8 @@
       });
     }
     const meter = (String(product.meter || window.location.pathname).match(/(?:^|\/)(meter-\d+)(?:[^/]*)(?:\/|$)/) || [])[1];
-    const hideCharacteristics = /^meter-\d+$/.test(meter || '') && meter !== 'meter-2';
-    const hiddenLabel = label => (hideCharacteristics && /^kenmerken\s*:?\s*$/i.test(label)) || /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
+    const hideDkwAdvice = /^meter-\d+$/.test(meter || '') && meter !== 'meter-2';
+    const hiddenLabel = label => (hideDkwAdvice && /^(kenmerken|bewaren|bewaaradvies|bewaarvoorschriften|gebruik|gebruiksadvies|gebruiksaanwijzing)\s*:?\s*$/i.test(label)) || /uitlekgewicht|omschrijving|^inhoud\s*:?(\s*)$|bereiding|preparation|pesach|passover|kasjroet|herkomst|fabrikant|producent|manufacturer|country.of.origin|^(land|regio|productie)\s*:?(\s*)$/i.test(label);
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
       if (hiddenLabel(heading?.textContent || '')) { section.remove(); continue; }
@@ -57,7 +57,7 @@
     }
     // Keep supplied customer-facing details visible even on older meter renderers.
     const supplied = Object.fromEntries(Object.entries(product.productInfo || {}).filter(([label]) => !hiddenLabel(label)));
-    if (product.storage && !Object.keys(supplied).some(k => /bewar|bewaar/i.test(k))) supplied.Bewaaradvies = product.storage;
+    if (product.storage && !hiddenLabel('Bewaaradvies') && !Object.keys(supplied).some(k => /bewar|bewaar/i.test(k))) supplied.Bewaaradvies = product.storage;
     if (product.packagingClaims?.length) supplied['Volgens de verpakking'] = product.packagingClaims.join('. ');
     const missing = Object.entries(supplied).filter(([, value]) => value && !root.textContent.includes(String(value)));
     if (missing.length) {
