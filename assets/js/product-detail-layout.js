@@ -199,6 +199,7 @@
         .replace(/^Bekende ingrediënten$/, 'Ingrediënten')
         .replace('Productinformatie / wijnstijl', 'Productinformatie & wijnstijl')
         .replace('Barcode / EAN', 'Barcode & EAN');
+      if (/^Ingrediënten(?: \(INCI\))?$/.test(heading.textContent)) heading.classList.add('ingredient-heading');
     }
     for (const label of root.querySelectorAll('section > p > strong:first-child')) {
       if (/:\s*$/.test(label.textContent)) {

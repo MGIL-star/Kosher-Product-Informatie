@@ -135,3 +135,8 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
   position: relative;
   top: -0.05em;
 }
+
+/* The diaeresis in Ingrediënten raises the word optically; lift its colon to match. */
+.dialog-product > section > h3.ingredient-heading::after {
+  top: -0.1em;
+}
