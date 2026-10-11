@@ -9,7 +9,6 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
     "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
     "reviewNeeded": [],
     "barcodeSource": "Fysieke verpakkingsfoto",
     "ingredientsSource": "Detailfoto van de fysieke verpakking",
@@ -48,7 +47,6 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "allergenNote": "Kan selderij, mosterd, melk en noten bevatten",
     "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren en vóór de vermelde uiterste consumptiedatum.",
     "reviewNeeded": [],
     "barcodeSource": "Fysieke verpakkingsfoto",
     "ingredientsSource": "Detailfoto van de fysieke verpakking",
@@ -139,7 +137,6 @@ window.KPI_PRODUCTS = [
     "ean": "3770021861573",
     "kosher": "Rav Eliezer Wolff Amsterdam (Glatt Kosher Mehadrin)",
     "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen. Na opening binnen 48 uur consumeren",
     "image": "./images/chicof-nuggets-selected.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -186,7 +183,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan sesam en ei bevatten. Soja staat in de allergenenverklaring op het etiket",
     "ean": "7290000426730",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "image": "./images/05-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -225,7 +221,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan ei en amandelen bevatten. Soja staat in de allergenenverklaring op het etiket",
     "ean": "7290000426709",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "image": "./images/04-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -262,7 +257,6 @@ window.KPI_PRODUCTS = [
     ],
     "ean": "5014155750036",
     "kosher": "KLBD (London Beth Din)",
-    "note": "Ingevroren bewaren bij −18 °C",
     "image": "./images/03-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -299,7 +293,6 @@ window.KPI_PRODUCTS = [
     "ean": "5410376830258",
     "kosher": "KF (Federation of Synagogues, Londen) · Rabbijn Pinchas Avraham Meyers (Vaad HaKashrut Den Haag)",
     "kosherNote": "",
-    "note": "Ingevroren bewaren bij −18 °C. Na ontdooien niet opnieuw invriezen",
     "image": "./images/02-web.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -348,7 +341,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan noten, sesam, ei, pinda’s, selderij en gluten bevatten",
     "ean": "5060922743244",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
     "image": "./images/hatov-06-straight.png",
     "reviewNeeded": [],
@@ -388,7 +380,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan selderij, sesam en ei bevatten",
     "ean": "5060922743220",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
     "image": "./images/hatov-07-straight.png",
     "reviewNeeded": [],
@@ -427,7 +418,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan selderij, sesam en ei bevatten",
     "ean": "5060922743459",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 25 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
     "image": "./images/hatov-08-straight.png",
     "reviewNeeded": [],
@@ -466,7 +456,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan noten, sesam en ei bevatten",
     "ean": "5060922743442",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
     "image": "./images/hatov-09-straight.png",
     "reviewNeeded": [],
@@ -507,7 +496,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan sesam en selderij bevatten",
     "ean": "7290111566318",
     "kosher": "Badatz She’erit Yisrael · Badatz Machzikei Hadass (Belz) · Rabbinaat Mateh Asher",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/10-web.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -562,7 +550,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan selderij, sesam en ei bevatten",
     "ean": "5060922740847",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
     "image": "./images/hatov-11-straight.png",
     "reviewNeeded": [],
@@ -601,7 +588,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan selderij, sesam en ei bevatten",
     "ean": "5060922743206",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren bij −18 °C (Parve). Na ontdooien niet opnieuw invriezen",
     "preparation": "Niet ontdooien voor bereiding. Bak ongeveer 20 minuten in een voorverwarmde oven op 180 °C en keer halverwege om",
     "image": "./images/hatov-12-straight.png",
     "reviewNeeded": [],
@@ -642,7 +628,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan sesamzaad, soja en selderij bevatten",
     "ean": "7290115202083",
     "kosher": "Badatz Machzikei Hadass (Belz)",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/13-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
@@ -686,7 +671,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan sesamzaad, selderij en mosterd bevatten",
     "ean": "7290112969347",
     "kosher": "Badatz Machzikei Hadass (Belz)",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/14-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
@@ -732,7 +716,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan mosterd, sesam en selderij bevatten",
     "ean": "7290014874268",
     "kosher": "Badatz Machzikei Hadass (Belz) · Rabbinaat Mateh Asher",
-    "note": "Ingevroren bewaren bij −18 °C",
     "image": "./images/15-importeur.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -780,7 +763,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan ei, sesam, selderij en mosterd bevatten",
     "ean": "7290112969361",
     "kosher": "Badatz Machzikei Hadass (Belz) · Opperrabbinaat Kiryat Gat",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/16-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
@@ -830,7 +812,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan ei, sesamzaad, selderij en mosterd bevatten. Gemaakt volgens een veganistisch recept, maar vervaardigd in een fabriek waar eieren worden gebruikt. Niet geschikt voor mensen met een ei-allergie",
     "ean": "7290013998163",
     "kosher": "Badatz Machzikei Hadass (Belz)",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/19-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
@@ -872,7 +853,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan sesamzaad, ei, soja, selderij en mosterd bevatten. Gemaakt volgens een veganistisch recept, maar vervaardigd in een fabriek waar eieren worden gebruikt. Niet geschikt voor mensen met een ei-allergie",
     "ean": "7290112969309",
     "kosher": "Badatz Machzikei Hadass (Belz)",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/18-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
@@ -917,7 +897,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Kan ei, sesamzaad, selderij en mosterd bevatten. Gemaakt volgens een veganistisch recept, maar vervaardigd in een fabriek waar eieren worden gebruikt. Niet geschikt voor mensen met een ei-allergie",
     "ean": "7290112969156",
     "kosher": "Badatz Machzikei Hadass (Belz)",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/17-importeur.jpg",
     "reviewNeeded": [],
     "labelSource": {
@@ -958,7 +937,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Bevat soja-eiwit en sojalecithine. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
     "ean": "7290004575069",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem) · Rabbinaat van Netanya",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/20-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -1009,7 +987,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Bevat soja-eiwit en sojalecithine. Bevat aardbei. Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten. Geproduceerd op een productielijn die na zuivelproductie Kosher is gemaakt voor parveproductie",
     "ean": "7290004575069",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem) · Rabbinaat van Netanya",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/21-gekozen-voorbeeld.png",
     "reviewNeeded": [],
     "labelSource": {
@@ -1061,7 +1038,6 @@ window.KPI_PRODUCTS = [
     "allergenNote": "Bevat visgelatine. Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten",
     "ean": "7290106571037",
     "kosher": "Badatz Edah HaChareidis (Jeruzalem)",
-    "note": "Ingevroren bewaren (Parve)",
     "image": "./images/22-recht.png",
     "reviewNeeded": [],
     "labelSource": {

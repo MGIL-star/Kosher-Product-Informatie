@@ -42,3 +42,5 @@
 - Alle sectiekopjes krijgen een dubbele punt met een kleine ruimte ervoor, ook LET OP. Dit geldt voor catalogus en QR-productpagina’s.
 
 - Toon nergens het achteretiketblok, de tekst Ingrediënten op de verpakking of de link Etiket vergroten in catalogus en QR-productpagina’s. Bewaar originele bronfoto’s intern. Lichaamsboter Vanille (meter 17, ID 12) en Gezichtszeep PH 5.5 (ID 13) zijn op gebruikersverzoek verwijderd; hergebruik hun ID’s niet.
+
+- Verwijder op gebruikersverzoek bewaarvermeldingen bij diepvriesproducten, inclusief Ingevroren bewaren (Parve), bewaartemperatuur en niet opnieuw invriezen na ontdooien. Pas dit toe in catalogus en QR-productpagina’s.
