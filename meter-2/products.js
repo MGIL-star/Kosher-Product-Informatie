@@ -74,7 +74,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -285,7 +285,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -343,7 +343,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
@@ -405,7 +405,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rosé",
     "variant": "750 ml · 11%",
-    "ingredients": "Sulfieten en sorbinezuur.",
+    "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
       "SULFIETEN"
     ],
