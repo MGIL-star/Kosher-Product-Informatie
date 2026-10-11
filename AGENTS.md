@@ -32,3 +32,5 @@
 - Shefa-foto's: laat alle 500g-foto's ongewijzigd. Alleen het deksel van elke 125g-variant krijgt dezelfde opdruk als de bijbehorende 500g-pot; behoud de kleine gesloten verpakking, het gewicht 125 g en de effen zijkant zonder koe.
 
 - Productnamen: gebruik vanaf meter 7 t/m 17, alle diepvriesmeters en alle koelingen dezelfde hoofdletterstijl als meter 6 (bijvoorbeeld Paneermeel Goud en Paneermeel met Knoflook en Sesam), in catalogus en QR-productpagina’s. Verbindingswoorden zoals met, en en voor blijven klein.
+
+- Toon sporenmeldingen met het kopje LET OP: in plaats van Kan bevatten, in catalogus en alle QR-productpagina’s. Behoud de volledige aangeleverde melding.

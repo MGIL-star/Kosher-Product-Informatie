@@ -35,6 +35,20 @@
         list.append(allergen);
       });
     }
+    // Present supplied trace-allergen warnings under the shared Let op heading.
+    for (const section of root.querySelectorAll('section')) {
+      let heading = section.querySelector('h3');
+      const label = section.querySelector('p > strong:first-child');
+      if (/^kan bevatten\s*:?\s*$/i.test(heading?.textContent || '') || /^kan bevatten\s*:?\s*$/i.test(label?.textContent || '')) {
+        section.classList.add('trace-allergen-notice');
+        if (!heading) {
+          heading = document.createElement('h3');
+          section.prepend(heading);
+          label.remove();
+        }
+        heading.textContent = 'Let op:';
+      }
+    }
     const ingredientSection = [...root.querySelectorAll('section')].find(section => /^(Ingrediënten|Bekende ingrediënten)$/.test(section.querySelector('h3')?.textContent || ''));
     if (ingredientSection) {
       for (const note of [product.ingredientNote, product.ingredientsNote].filter(Boolean)) {
@@ -112,6 +126,7 @@
     };
     for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
       const heading = section.querySelector('h3');
+      if (section.classList.contains('trace-allergen-notice') || section.classList.contains('factory-allergen-notice')) continue;
       const wholeNotice = /^let op\s*:?\s*$/i.test(heading?.textContent || '');
       for (const paragraph of [...section.children].filter(el => el.tagName === 'P')) {
         const label = paragraph.querySelector('strong');
@@ -132,7 +147,7 @@
       const notice = document.createElement('section');
       notice.className = 'factory-allergen-notice';
       const heading = document.createElement('h3');
-      heading.textContent = 'Let op';
+      heading.textContent = 'Let op:';
       notice.append(heading);
       for (const text of factoryNotices) {
         const paragraph = document.createElement('p');
@@ -146,7 +161,7 @@
       if (/^(Ingrediënten|Bekende ingrediënten|Samenstelling)/.test(title)) return 1;
       if (title === 'Allergenen') return 2;
       if (title === 'Kan bevatten') return 3;
-      if (title === 'Let op') return 3.5;
+      if (/^Let op:?$/.test(title)) return 3.5;
       if (title === 'Waarschuwing') return 4;
       if (title === 'Hechser') return 98;
       if (/^Barcode [\/&] EAN$/.test(title)) return 99;
