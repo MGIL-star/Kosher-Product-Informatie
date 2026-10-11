@@ -1195,7 +1195,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Visgehalte": "Minimaal 50% vis per bal.",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
-      "Let op": "Kan visgraten bevatten.",
       "Kenmerken": "Zonder toegevoegde suiker. Met zoetstof."
     },
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
@@ -1216,7 +1215,8 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://sovafoods.co.uk/catalog/dag12",
     "kosherChecked": "2026-09-18",
-    "ingredientSource": "Gebruikersfoto: 639b8c3f-f3e1-4035-9ed1-7d9bcf505c12.jpg"
+    "ingredientSource": "Gebruikersfoto: 639b8c3f-f3e1-4035-9ed1-7d9bcf505c12.jpg",
+    "warning": "Kan visgraten bevatten."
   },
   {
     "id": 45,
@@ -1235,7 +1235,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
-      "Let op": "Kan visgraten bevatten.",
       "Visgehalte": "Minimaal 42% vis per bal.",
       "Uitlekgewicht": "350 g",
       "Netto inhoud": "560 g"
@@ -1262,7 +1261,8 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto: d36679ce-e738-47c8-8d90-3a084ef15907.jpg",
     "labelSources": [
       "14d4e0ea-ebca-416a-93b5-a2a8f2651d9e.jpg"
-    ]
+    ],
+    "warning": "Kan visgraten bevatten."
   },
   {
     "id": 46,
@@ -1281,7 +1281,6 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Visgehalte": "Minimaal 42% vis per bal.",
       "Bewaren": "Donker, koel en droog bewaren. Na opening gekoeld en gescheiden van de bouillon bewaren; binnen 4 dagen consumeren.",
-      "Let op": "Kan visgraten bevatten.",
       "Kenmerken": "Glutenvrij. Zonder toegevoegde conserveermiddelen en kleurstoffen",
       "Uitlekgewicht": "350 g",
       "Netto inhoud": "560 g"
@@ -1307,7 +1306,8 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: f43924a7-c22f-4eb4-b352-2ec8191bd4f8.jpg",
     "labelSources": [
       "84091c23-7606-47e4-bc57-5e470298585e.jpg"
-    ]
+    ],
+    "warning": "Kan visgraten bevatten."
   },
   {
     "id": 38,
