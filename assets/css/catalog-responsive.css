@@ -84,5 +84,5 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
   font-family: inherit;
   font-size: 14px;
   letter-spacing: .07em;
-  text-transform: uppercase;
+  text-transform: none;
 }
