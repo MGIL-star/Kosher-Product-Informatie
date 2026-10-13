@@ -128,6 +128,20 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": true
   },
   {
+    "id": 17,
+    "name": "Kippenlever",
+    "brand": "Kosher Poultry",
+    "category": "Kip",
+    "variant": "",
+    "ingredients": "100% kip",
+    "allergens": [],
+    "allergenNote": "",
+    "kosher": "Badatz Amsterdam · Rav Wolf",
+    "note": "",
+    "image": "./images/17-kippenlever.jpg",
+    "allergensConfirmedAbsent": true
+  },
+  {
     "id": 9,
     "name": "Kippenvleugels",
     "brand": "Kosher Poultry",
