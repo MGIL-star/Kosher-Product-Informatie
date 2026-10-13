@@ -1887,6 +1887,141 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
+    "id": 64,
+    "brand": "Elite",
+    "category": "Chocoladesnacks",
+    "variant": "108 g",
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "productInfo": {},
+    "imageEdited": true,
+    "name": "Fingers met Wafel en Hazelnootcrème",
+    "ean": "7290119373024",
+    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, cacaomassa, hazelnootpasta, tarwebloem (gluten), gedeeltelijk geharde plantaardige oliën, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
+    "image": "images/fingers-groen-strak-voorbeeld.jpg",
+    "searchName": "Elite Pesek Zman Fingers hazelnootcrème",
+    "sourcePhotos": [
+      "source-labels/20261013-fingers/groen-voorzijde.jpg",
+      "source-labels/20261013-fingers/groen-ingrediënten.jpg",
+      "source-labels/20261013-fingers/groen-barcode.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-fingers/groen-ingrediënten.jpg",
+      "source-labels/20261013-fingers/groen-barcode.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261013-fingers/groen-ingrediënten.jpg",
+    "ingredientsChecked": "2026-10-13",
+    "barcodeSource": "source-labels/20261013-fingers/groen-barcode.jpg",
+    "barcodeChecked": "2026-10-13"
+  },
+  {
+    "id": 65,
+    "brand": "Elite",
+    "category": "Chocoladesnacks",
+    "variant": "108 g",
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "productInfo": {},
+    "imageEdited": true,
+    "name": "Fingers met Wafel en Melkcrème",
+    "ean": "7290119373017",
+    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, cacaomassa, tarwebloem (gluten), plantaardige oliën en vetten, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, hazelnoten, pecannoten, pinda’s, ei en sesam bevatten.",
+    "image": "images/fingers-melkcreme-strak-voorbeeld.jpg",
+    "searchName": "Elite Pesek Zman Fingers melkcrème",
+    "sourcePhotos": [
+      "source-labels/20261013-fingers/melkcrème-voorzijde.jpg",
+      "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
+      "source-labels/20261013-fingers/melkcrème-barcode.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
+      "source-labels/20261013-fingers/melkcrème-barcode.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
+    "ingredientsChecked": "2026-10-13",
+    "barcodeSource": "source-labels/20261013-fingers/melkcrème-barcode.jpg",
+    "barcodeChecked": "2026-10-13"
+  },
+  {
+    "id": 66,
+    "brand": "Elite",
+    "category": "Chocoladesnacks",
+    "variant": "108 g",
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "productInfo": {},
+    "imageEdited": true,
+    "name": "Fingers Witte Chocolade met Wafel en Hazelnootcrème",
+    "ean": "7290119373031",
+    "ingredients": "Witte chocolade (28%) (suiker, cacaoboter, melkpoeder, lactose, melkvet, emulgator (raapzaadlecithine), vanilline), melkchocolade, suiker, cacaoboter, cacaomassa, hazelnootpasta, tarwebloem (gluten), plantaardige oliën en vetten, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
+    "image": "images/fingers-wit-strak-voorbeeld.jpg",
+    "searchName": "Elite Pesek Zman Fingers witte chocolade hazelnootcrème",
+    "sourcePhotos": [
+      "source-labels/20261013-fingers/wit-voorzijde.jpg",
+      "source-labels/20261013-fingers/wit-ingrediënten.jpg",
+      "source-labels/20261013-fingers/wit-barcode.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-fingers/wit-ingrediënten.jpg",
+      "source-labels/20261013-fingers/wit-barcode.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261013-fingers/wit-ingrediënten.jpg",
+    "ingredientsChecked": "2026-10-13",
+    "barcodeSource": "source-labels/20261013-fingers/wit-barcode.jpg",
+    "barcodeChecked": "2026-10-13"
+  },
+  {
+    "id": 67,
+    "brand": "Elite",
+    "category": "Chocoladesnacks",
+    "variant": "108 g",
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "productInfo": {},
+    "imageEdited": true,
+    "name": "Fingers met Cacaowafel en Vanillecrème",
+    "ean": "7290119373048",
+    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, cacaomassa, melkvet, cacaowafel (17%) (tarwebloem (gluten), plantaardige oliën en vetten, cacaopoeder, zout, rijsmiddelen), vanillecrème (15%), hazelnootpasta, inuline, emulgatoren (raapzaadlecithine, E476), aroma’s, zout, rijsmiddelen (E500ii, E503ii), enzym (proteïnase).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
+    "image": "images/fingers-paars-strak-voorbeeld.jpg",
+    "searchName": "Elite Pesek Zman Fingers cacaowafel vanillecrème",
+    "sourcePhotos": [
+      "source-labels/20261013-fingers/paars-voorzijde.jpg",
+      "source-labels/20261013-fingers/paars-ingrediënten.jpg",
+      "source-labels/20261013-fingers/paars-barcode.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-fingers/paars-ingrediënten.jpg",
+      "source-labels/20261013-fingers/paars-barcode.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261013-fingers/paars-ingrediënten.jpg",
+    "ingredientsChecked": "2026-10-13",
+    "barcodeSource": "source-labels/20261013-fingers/paars-barcode.jpg",
+    "barcodeChecked": "2026-10-13"
+  },
+  {
     "id": 41,
     "brand": "Elite",
     "name": "Wafelreep met Melkchocolade en Hazelnootcrème",
@@ -2128,141 +2263,6 @@ window.KPI_PRODUCTS = [
     "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
     "ingredientsSource": "source-labels/20261009-aanvulling-49.jpg",
     "ingredientsChecked": "2026-10-09"
-  },
-  {
-    "id": 64,
-    "brand": "Elite",
-    "category": "Chocoladesnacks",
-    "variant": "108 g",
-    "kosher": "Badatz Edah HaChareidis Jerusalem",
-    "productInfo": {},
-    "imageEdited": true,
-    "name": "FINGERS met Wafel en Hazelnootcrème",
-    "ean": "7290119373024",
-    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, cacaomassa, hazelnootpasta, tarwebloem (gluten), gedeeltelijk geharde plantaardige oliën, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
-    "allergens": [
-      "Tarwe (gluten)",
-      "Melk",
-      "Hazelnoten",
-      "Soja"
-    ],
-    "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
-    "image": "images/fingers-groen-strak-voorbeeld.jpg",
-    "searchName": "Elite Pesek Zman Fingers hazelnootcrème",
-    "sourcePhotos": [
-      "source-labels/20261013-fingers/groen-voorzijde.jpg",
-      "source-labels/20261013-fingers/groen-ingrediënten.jpg",
-      "source-labels/20261013-fingers/groen-barcode.jpg"
-    ],
-    "labelSources": [
-      "source-labels/20261013-fingers/groen-ingrediënten.jpg",
-      "source-labels/20261013-fingers/groen-barcode.jpg"
-    ],
-    "ingredientsSource": "source-labels/20261013-fingers/groen-ingrediënten.jpg",
-    "ingredientsChecked": "2026-10-13",
-    "barcodeSource": "source-labels/20261013-fingers/groen-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
-  },
-  {
-    "id": 65,
-    "brand": "Elite",
-    "category": "Chocoladesnacks",
-    "variant": "108 g",
-    "kosher": "Badatz Edah HaChareidis Jerusalem",
-    "productInfo": {},
-    "imageEdited": true,
-    "name": "FINGERS met Wafel en Melkcrème",
-    "ean": "7290119373017",
-    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, cacaomassa, tarwebloem (gluten), plantaardige oliën en vetten, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
-    "allergens": [
-      "Tarwe (gluten)",
-      "Melk",
-      "Soja"
-    ],
-    "mayContain": "Kan amandelen, hazelnoten, pecannoten, pinda’s, ei en sesam bevatten.",
-    "image": "images/fingers-melkcreme-strak-voorbeeld.jpg",
-    "searchName": "Elite Pesek Zman Fingers melkcrème",
-    "sourcePhotos": [
-      "source-labels/20261013-fingers/melkcrème-voorzijde.jpg",
-      "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
-      "source-labels/20261013-fingers/melkcrème-barcode.jpg"
-    ],
-    "labelSources": [
-      "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
-      "source-labels/20261013-fingers/melkcrème-barcode.jpg"
-    ],
-    "ingredientsSource": "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
-    "ingredientsChecked": "2026-10-13",
-    "barcodeSource": "source-labels/20261013-fingers/melkcrème-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
-  },
-  {
-    "id": 66,
-    "brand": "Elite",
-    "category": "Chocoladesnacks",
-    "variant": "108 g",
-    "kosher": "Badatz Edah HaChareidis Jerusalem",
-    "productInfo": {},
-    "imageEdited": true,
-    "name": "FINGERS Witte Chocolade met Wafel en Hazelnootcrème",
-    "ean": "7290119373031",
-    "ingredients": "Witte chocolade (28%) (suiker, cacaoboter, melkpoeder, lactose, melkvet, emulgator (raapzaadlecithine), vanilline), melkchocolade, suiker, cacaoboter, cacaomassa, hazelnootpasta, tarwebloem (gluten), plantaardige oliën en vetten, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
-    "allergens": [
-      "Tarwe (gluten)",
-      "Melk",
-      "Hazelnoten",
-      "Soja"
-    ],
-    "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
-    "image": "images/fingers-wit-strak-voorbeeld.jpg",
-    "searchName": "Elite Pesek Zman Fingers witte chocolade hazelnootcrème",
-    "sourcePhotos": [
-      "source-labels/20261013-fingers/wit-voorzijde.jpg",
-      "source-labels/20261013-fingers/wit-ingrediënten.jpg",
-      "source-labels/20261013-fingers/wit-barcode.jpg"
-    ],
-    "labelSources": [
-      "source-labels/20261013-fingers/wit-ingrediënten.jpg",
-      "source-labels/20261013-fingers/wit-barcode.jpg"
-    ],
-    "ingredientsSource": "source-labels/20261013-fingers/wit-ingrediënten.jpg",
-    "ingredientsChecked": "2026-10-13",
-    "barcodeSource": "source-labels/20261013-fingers/wit-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
-  },
-  {
-    "id": 67,
-    "brand": "Elite",
-    "category": "Chocoladesnacks",
-    "variant": "108 g",
-    "kosher": "Badatz Edah HaChareidis Jerusalem",
-    "productInfo": {},
-    "imageEdited": true,
-    "name": "FINGERS met Cacaowafel en Vanillecrème",
-    "ean": "7290119373048",
-    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, cacaomassa, melkvet, cacaowafel (17%) (tarwebloem (gluten), plantaardige oliën en vetten, cacaopoeder, zout, rijsmiddelen), vanillecrème (15%), hazelnootpasta, inuline, emulgatoren (raapzaadlecithine, E476), aroma’s, zout, rijsmiddelen (E500ii, E503ii), enzym (proteïnase).",
-    "allergens": [
-      "Tarwe (gluten)",
-      "Melk",
-      "Hazelnoten",
-      "Soja"
-    ],
-    "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
-    "image": "images/fingers-paars-strak-voorbeeld.jpg",
-    "searchName": "Elite Pesek Zman Fingers cacaowafel vanillecrème",
-    "sourcePhotos": [
-      "source-labels/20261013-fingers/paars-voorzijde.jpg",
-      "source-labels/20261013-fingers/paars-ingrediënten.jpg",
-      "source-labels/20261013-fingers/paars-barcode.jpg"
-    ],
-    "labelSources": [
-      "source-labels/20261013-fingers/paars-ingrediënten.jpg",
-      "source-labels/20261013-fingers/paars-barcode.jpg"
-    ],
-    "ingredientsSource": "source-labels/20261013-fingers/paars-ingrediënten.jpg",
-    "ingredientsChecked": "2026-10-13",
-    "barcodeSource": "source-labels/20261013-fingers/paars-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
   },
   {
     "id": 46,
