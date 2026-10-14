@@ -1,7 +1,7 @@
 # Productcatalogus: vaste gebruikersafspraken
 
 - Meter 17 volgt van links naar rechts de volgorde van de door de gebruiker gestuurde producten, beginnend bij de wc-blokjes. Gebruik dezelfde productvolgorde in de catalogus en het QR-productoverzicht; wijzig bestaande product-ID's en QR-adressen niet.
-- De QR-productpagina's hebben onderling een uniforme opmaak en staan los van de catalogus. Houd voor elk product de afbeelding, ingrediënten, allergenen, barcode en overige productgegevens gelijk in de catalogus en op de productpagina achter de QR-code; werk beide weergaven bij wanneer productinformatie of foto's wijzigen.
+- De QR-productpagina's en het QR-overzicht per vak zijn leidend en worden als eerste bijgewerkt en gecontroleerd. Werk daarna de catalogus bij zodat afbeelding, ingrediënten, allergenen, barcode en overige productgegevens gelijk zijn in beide weergaven. Houd de QR-productpagina's onderling uniform en wijzig bestaande product-ID's of QR-adressen niet.
 - De gebruiker heeft op 11 oktober 2026 expliciet toestemming gegeven om alle voorbereide wijzigingen te publiceren, inclusief de daaropvolgende correctie van de rode reflecties op de patchouli-vanillepot.
 - Behoud voorlopig bestaande producten zonder nieuwe foto. Verwijder die pas wanneer de gebruiker aangeeft dat alle foto's zijn gestuurd.
 
