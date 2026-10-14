@@ -697,46 +697,44 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
-    "brand": "Haddar",
-    "name": "Topping zonder Zuivel",
-    "englishName": "",
-    "variant": "453 g",
+    "brand": "Rich's",
+    "name": "Basis voor slagroom met aardbeiensmaak",
+    "englishName": "Strawberry Whipping Cream Base",
+    "variant": "425 ml",
     "category": "Desserts",
-    "ingredients": "water, fructoserijke maïssiroop, geharde plantaardige olie (palm, palmpit, kokos en/of katoenzaad), minder dan 2% van johannesbroodpitmeel, suiker, polysorbaat 60, polyglycerolesters van vetzuren, zout, natriumalginaat, sojalecithine, natriumcitraat, natuurlijke en kunstmatige aroma’s, natuurlijk aroma, kleurstoffen uit kurkuma- en annatto-extracten",
+    "ingredients": "water, fructoserijke maïssiroop, geharde kokosolie, geharde palmolie, suiker, zout, stabilisatoren (E464, E401), emulgatoren (E435, E475, E322), aroma’s, zuurteregelaar (E331), kleurstoffen (E100, E160).",
     "allergens": [
-      "SOJA"
+      "Soja"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Bevat soja",
-    "kosher": "OU (Orthodox Union), CRC Hisachdus Harabonim en Nirbater",
-    "ean": "077028141046",
-    "image": "./images/17-topping-recht.png",
+    "allergenNote": "",
+    "kosher": "Badatz Edah HaChareidis Jerusalem (Parve)",
+    "ean": "7290004011291",
+    "image": "./images/17-richs-strawberry-base.jpg",
     "warning": "",
-    "note": "Zonder melk of melkvet volgens de verpakking (Parve)",
+    "note": "Plantaardige basis voor het bereiden van aardbeienslagroom.",
     "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 35.jpg",
+    "quantitySource": "Actuele verpakking; barcode 7290004011291, 425 ml",
     "ingredientsComplete": true,
-    "barcodeSource": "Kayco fabrikantpagina voor Haddar topping 453 g https://www.kayco.com/product/haddar-16-oz-topping/",
+    "barcodeSource": "https://foodfact.net/products/44852/bsys-lhkhnt-ktspt-tsmhy-ryts-425-ml/",
     "labelSource": {
-      "front": "35.jpg",
-      "back": "36.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
+      "front": "source-labels/20261014-richs-replacement/richs-front.jpg",
+      "back": "source-labels/20261014-richs-replacement/richs-back.jpg",
+      "ingredients": "source-labels/20261014-richs-replacement/richs-ingredients.jpg",
+      "priority": "Actuele verpakking van gebruiker"
     },
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
     "kosherStatus": "Parve",
     "imageSource": {
-      "type": "webshop",
-      "page": "https://www.instacart.ca/products/20063528-haddar-frozen-non-dairy-topping-16-oz",
-      "url": "https://www.instacart.com/image-server/1864x1864/www.instacart.com/assets/domains/product-image/file/large_26784af7-a472-4769-a842-6808a33b9403.jpg",
-      "note": "Originele internetpackshot van de gele Parve-verpakking, 453 g; geen AI."
+      "type": "user-photo",
+      "note": "Originele foto van gebruiker, rechtgezet; bronfoto ongewijzigd."
     },
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Kayco vermeldt OU, CRC en Hisachdus, Nirbater, OU bij dit product. https://www.kayco.com/product/haddar-16-oz-topping/",
+    "ingredientReviewDate": "2026-10-14",
+    "kosherSource": "De actuele verpakking toont Parve en het hechsjer op het etiket.",
     "kosherLines": [
-      "OU (Orthodox Union)",
-      "CRC Hisachdus Harabonim",
-      "Nirbater"
-    ]
+      "Badatz Edah HaChareidis Jerusalem (Parve)"
+    ],
+    "ingredientSourceNote": "Ingrediënten en soja overgenomen uit productgegevens bij barcode 7290004011291; de verpakking toont eveneens soja als allergeen."
   },
   {
     "id": 16,

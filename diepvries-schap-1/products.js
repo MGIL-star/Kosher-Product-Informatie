@@ -1,24 +1,30 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
-    "name": "Vissticks",
+    "name": "Gepaneerde Vissticks",
     "brand": "A&B Famous",
     "category": "Vis",
     "variant": "400 g",
-    "ingredients": "vis (heek merluccius capensis/paradoxus), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen natriumbicarbonaat en natriumfosfaat, emulgator monoglyceriden en diglyceriden en xanthaangom), maïsbloem, geel maïsmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. kort voorgebakken in zonnebloemolie.",
+    "ingredients": "vis (heek (Merluccius capensis/paradoxus)), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen (natriumbicarbonaat, natriumfosfaat), emulgator (mono- en diglyceriden, xanthaangom)), maïsbloem, geel maïsmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. kort voorgebakken in zonnebloemolie.",
     "allergens": [
-      "VIS",
-      "TARWE"
+      "Vis",
+      "Tarwe"
     ],
     "allergenNote": "",
-    "kosher": "OU en CRC (Central Rabbinical Congress)",
+    "kosher": "OU (Parve) en CRC (Parve)",
     "note": "",
-    "image": "./images/01-vissticks.jpg",
+    "image": "./images/01-vissticks-20261014.jpg",
     "ean": "732973000083",
     "kosherLines": [
-      "OU",
-      "CRC (Central Rabbinical Congress)"
-    ]
+      "OU (Parve)",
+      "CRC (Parve)"
+    ],
+    "labelSource": {
+      "front": "source-labels/20261014-fish-replacements/fish-sticks-front.jpg",
+      "ingredients": "Door gebruiker aangeleverde ingrediëntenlijst",
+      "priority": "Actuele verpakking en gegevens van gebruiker"
+    },
+    "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de gebruiker."
   },
   {
     "id": 2,
@@ -63,24 +69,32 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
-    "name": "Gepaneerde Tilapiafilets",
+    "name": "Gepaneerde Botfilet",
     "brand": "A&B Famous",
     "category": "Vis",
-    "variant": "454 g",
-    "ingredients": "vis (tilapia), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen natriumbicarbonaat en natriumfosfaat, emulgator monoglyceriden en diglyceriden en xanthaangom), maïsbloem, maïszetmeel, aardappelzetmeel, zout, guargom, knoflookpoeder, specerijen. voorgebakken in koolzaadolie.",
+    "variant": "397 g (14 oz)",
+    "ingredients": "vis (bot (flounder)), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen (natriumbicarbonaat, natriumfosfaat), emulgator (mono- en diglyceriden, xanthaangom)), geel maïsmeel (maïszetmeel, rijstmeel, aardappelzetmeel, zout, guargom, specerijen). kort voorgebakken in koolzaadolie.",
     "allergens": [
-      "VIS",
-      "TARWE"
+      "Vis",
+      "Tarwe"
     ],
     "allergenNote": "",
-    "kosher": "OU en CRC (Central Rabbinical Congress)",
-    "note": "",
-    "image": "./images/04-gepaneerde-tilapiafilets.jpg",
-    "ean": "732973000816",
+    "kosher": "OU (Parve) en CRC (Parve)",
+    "note": "Wild gevangen. Zonder MSG, fosfaten en conserveermiddelen volgens de verpakking.",
+    "image": "./images/04-gepaneerde-botfilet-20261014.jpg",
+    "ean": "732973000939",
     "kosherLines": [
-      "OU",
-      "CRC (Central Rabbinical Congress)"
-    ]
+      "OU (Parve)",
+      "CRC (Parve)"
+    ],
+    "reviewStatus": "label-verified",
+    "labelSource": {
+      "front": "source-labels/20261014-fish-replacements/breaded-flounder-front.jpg",
+      "back": "source-labels/20261014-fish-replacements/breaded-flounder-back.jpg",
+      "kosher": "source-labels/20261014-fish-replacements/breaded-flounder-kosher.jpg",
+      "priority": "Actuele verpakking van gebruiker"
+    },
+    "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de verpakking."
   },
   {
     "id": 5,
