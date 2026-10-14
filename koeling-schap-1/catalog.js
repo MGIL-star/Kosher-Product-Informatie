@@ -72,7 +72,7 @@
   function openProduct(product) {
     const allergens = product.allergens.length
       ? product.allergens.map(item => `<span class="allergen">${escapeHtml(item)}</span>`).join('')
-      : (product.allergensConfirmedAbsent ? '<span class="allergen-free">Geen allergenen vermeld</span>' : '<span>Nog te controleren</span>');
+      : '<span class="allergen-free">Geen allergenen vermeld</span>';
     const kosherLines = Array.isArray(product.kosherLines) && product.kosherLines.length
       ? product.kosherLines
       : (product.kosher ? [product.kosher] : []);

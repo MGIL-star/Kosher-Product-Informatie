@@ -1756,7 +1756,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 76,
-    "name": "Gezouten Rundvlees à l'Ancienne",
+    "name": "Gezouten Rundvlees op Traditionele Wijze",
     "brand": "Eden Gourmet",
     "category": "Vleeswaren",
     "variant": "110 g",

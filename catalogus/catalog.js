@@ -18,8 +18,8 @@
     'Diepvries: Bagels · Pizza · Deegwaren', 'Diepvries: Snacks · Vegetarisch · IJs'
   ];
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
-  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261014-productfamilies-v2'});
-  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261014-productfamilies-v2'});
+  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261014-allergenen-nederlands'});
+  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261014-allergenen-nederlands'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
@@ -56,7 +56,7 @@
     const p=products.find(p=>p.key===key);if(!p)return;
     const allergens=p.allergens?.length
       ? p.allergens.map(a=>/^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(a.trim()) ? '<span class="allergen-free">Geen allergenen vermeld</span>' : '<span class="allergen">'+esc(a)+'</span>').join('')
-      : '<span>'+ (Array.isArray(p.allergens)&&!p.detailsPending&&p.allergensConfirmedAbsent!==false ? 'Geen allergenen vermeld' : 'Nog te controleren')+'</span>';
+      : '<span>'+ (Array.isArray(p.allergens) ? 'Geen allergenen vermeld' : 'Nog te controleren')+'</span>';
     const info=Object.entries(p.productInfo||{}).map(([label,value])=>'<p><strong>'+esc(label)+':</strong> '+esc(value)+'</p>').join('')
       +(p.preparation?'<p><strong>Bereiding:</strong> '+esc(p.preparation)+'</p>':'')
       +(p.note?'<p>'+esc(p.note)+'</p>':'');

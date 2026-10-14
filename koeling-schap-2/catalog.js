@@ -73,7 +73,7 @@
   function openProduct(product) {
     const allergens = product.allergens.length
       ? product.allergens.map(item => `<span class="allergen">${escapeHtml(item)}</span>`).join('')
-      : (product.allergensConfirmedAbsent ? '<span class="allergen-free">Geen allergenen vermeld</span>' : '<span>Nog te controleren</span>');
+      : '<span class="allergen-free">Geen allergenen vermeld</span>';
     dialogContent.innerHTML = `<div class="dialog-product">
       ${productImage(product, true)}
       <p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>
