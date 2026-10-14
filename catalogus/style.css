@@ -86,6 +86,14 @@ html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}
 @media(max-width:359px){.card-copy h3{font-size:13px}.product-grid{gap:10px}}
 @media(min-width:540px) and (max-width:639px){.product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 
+/* De twee smalle Elite Blondie-verpakkingen krijgen meer hoogte in de kaart. */
+.photo:has(img[src$="product-92-web.jpg"]),
+.photo:has(img[src$="product-95-web.jpg"]) { height: 260px; }
+@media(max-width:700px) {
+  .photo:has(img[src$="product-92-web.jpg"]),
+  .photo:has(img[src$="product-95-web.jpg"]) { height: 200px; }
+}
+
 @media(min-width:640px) and (max-width:919px){.product-grid{grid-template-columns:repeat(3,minmax(0,1fr))}.card-copy h3{text-wrap:balance;hyphens:none;word-break:normal}}
 
 /* A quieter catalogue greeting, with balanced lines on phones. */

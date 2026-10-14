@@ -143,3 +143,15 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
 .dialog-product > section > h3.ingredient-heading::after {
   top: -0.1em;
 }
+
+/* Give the two narrow Elite Blondie wrappers more room in the product cards. */
+#product-grid .product-visual:has(img[src$="product-92-web.jpg"]),
+#product-grid .product-visual:has(img[src$="product-95-web.jpg"]) {
+  height: 180px;
+}
+@media (max-width: 639px) {
+  #product-grid .product-visual:has(img[src$="product-92-web.jpg"]),
+  #product-grid .product-visual:has(img[src$="product-95-web.jpg"]) {
+    height: 140px;
+  }
+}

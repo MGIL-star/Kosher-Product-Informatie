@@ -977,9 +977,9 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "8720791238650",
-    "ingredients": "Gepasteuriseerde MELK en zuursel, zout, microbieel stremsel, conserveermiddel (E251).",
+    "ingredients": "Gepasteuriseerde melk en zuursel, zout, microbieel stremsel, conserveermiddel (E251).",
     "allergens": [
-      "MELK"
+      "Melk"
     ],
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-kaasplakken-snapshot.png",
@@ -1013,10 +1013,6 @@ window.KPI_PRODUCTS = [
       "type": "Aangeleverde foto van de gesloten verpakking",
       "photo": "source-labels/20261014-shefa-kaasplakken/front-original.jpg",
       "edit": "Ingebouwde perspectiefcorrectie in de productweergave"
-    },
-    "imagePresentation": {
-      "corners": [[0.94, 0.08], [0.96, 0.96], [0.06, 0.94], [0.05, 0.12]],
-      "aspectRatio": 0.72
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto van 14 oktober 2026.",
     "barcodeSource": "Aangeleverde etiketfoto; EAN-13 8720791238650 komt overeen met Shefa Gouda-plakken 200 g."

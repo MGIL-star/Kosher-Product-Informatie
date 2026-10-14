@@ -1905,6 +1905,27 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan amandelen, pecannoten, pinda’s, ei en sesam bevatten.",
     "image": "images/fingers-groen-strak-voorbeeld.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.031,
+          0.117
+        ],
+        [
+          0.972,
+          0.076
+        ],
+        [
+          0.952,
+          0.712
+        ],
+        [
+          0.028,
+          0.738
+        ]
+      ],
+      "aspectRatio": 2.28
+    },
     "searchName": "Elite Pesek Zman Fingers hazelnootcrème",
     "sourcePhotos": [
       "source-labels/20261013-fingers/groen-voorzijde.jpg",
@@ -1938,6 +1959,27 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan amandelen, hazelnoten, pecannoten, pinda’s, ei en sesam bevatten.",
     "image": "images/fingers-melkcreme-strak-voorbeeld.jpg",
+    "imagePresentation": {
+      "corners": [
+        [
+          0.043,
+          0.128
+        ],
+        [
+          0.973,
+          0.082
+        ],
+        [
+          0.964,
+          0.72
+        ],
+        [
+          0.024,
+          0.731
+        ]
+      ],
+      "aspectRatio": 2.25
+    },
     "searchName": "Elite Pesek Zman Fingers melkcrème",
     "sourcePhotos": [
       "source-labels/20261013-fingers/melkcrème-voorzijde.jpg",
@@ -2327,7 +2369,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 70,
     "brand": "Elite",
-    "name": "Melk- en Witte Chocolade met Koffiemousse",
+    "name": "Melk en Witte Chocolade met Koffiemousse",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "7290119382224",
@@ -2365,7 +2407,9 @@ window.KPI_PRODUCTS = [
     "variant": "100 g",
     "ean": "7290000170053",
     "ingredients": "Suiker, melkpoeder, cacaoboter, cacaomassa, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline.",
-    "allergens": ["Melk"],
+    "allergens": [
+      "Melk"
+    ],
     "mayContain": "Kan pinda’s, amandelen, hazelnoten, pecannoten, ei, soja en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
     "image": "images/elite-milk-snapshot.png",
@@ -2385,7 +2429,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 72,
     "brand": "Elite",
-    "name": "Melkchocolade met Biscuit en Crème",
+    "name": "Black & White Biscuit Crunch",
     "category": "Chocoladerepen",
     "variant": "100 g",
     "ean": "0815871012256",
@@ -2398,19 +2442,70 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
-    "image": "images/elite-biscuit-cream-snapshot.png",
+    "image": "images/elite-black-white-biscuit-snapshot.png",
     "sourcePhotos": [
-      "source-labels/20261013-chocolade-aanvulling/02b049e3-c41b-4cae-a2e4-607201b8ea85.jpg",
-      "source-labels/20261013-chocolade-aanvulling/c9972598-a2e0-451b-bb20-fb8ba16d68d7.jpg",
-      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-front.jpg",
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-back.jpg",
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-ingredients.jpg",
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-kosher.jpg"
     ],
     "labelSources": [
-      "source-labels/20261013-chocolade-aanvulling/c9972598-a2e0-451b-bb20-fb8ba16d68d7.jpg",
-      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-back.jpg",
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-ingredients.jpg",
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-kosher.jpg"
     ],
     "productInfo": {},
-    "searchName": "Elite Biscuit Crunch",
-    "sourceUrl": "https://www.instacart.ca/products/17605184-elite-crunch-milk-chocolate-covered-biscuit-with-milk-flavored-cream-3-5-oz"
+    "searchName": "Elite Black & White Biscuit Crunch",
+    "imageEdited": true,
+    "imageSource": {
+      "type": "Snapshotsessie van de actuele fysieke verpakking",
+      "photos": [
+        "source-labels/20261014-missing-chocolate-products/black-white-crunch-front.jpg",
+        "source-labels/20261014-missing-chocolate-products/black-white-crunch-back.jpg",
+        "source-labels/20261014-missing-chocolate-products/black-white-crunch-ingredients.jpg",
+        "source-labels/20261014-missing-chocolate-products/black-white-crunch-kosher.jpg"
+      ],
+      "edit": "Rechtopstaande packshot op witte achtergrond"
+    }
+  },
+  {
+    "id": 73,
+    "brand": "Elite",
+    "name": "Pesek Zman Witte Chocoladereep met Wafel en Hazelnootcrème",
+    "category": "Chocoladerepen",
+    "variant": "45 g",
+    "ean": "7290119382538",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Amandelen",
+      "Hazelnoten",
+      "Pecannoten",
+      "Ei",
+      "Soja"
+    ],
+    "mayContain": "Kan rogge en gerst (gluten), pinda’s en sesam bevatten.",
+    "kosher": "Badatz Edah Hachareidis of Jerusalem (Chalav Yisrael)",
+    "image": "images/pesek-zman-white-snapshot.png",
+    "sourcePhotos": [
+      "source-labels/20261014-missing-chocolate-products/pesek-zman-white-front.jpg",
+      "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Pesek Zman wit met wafel en hazelnootcrème",
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/snacks-and-sweets/sweet-treats/%D7%9C%D7%91%D7%9F/p/698504",
+    "imageEdited": true,
+    "imageSource": {
+      "type": "Snapshotsessie van de actuele fysieke verpakking",
+      "photos": [
+        "source-labels/20261014-missing-chocolate-products/pesek-zman-white-front.jpg",
+        "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg"
+      ],
+      "edit": "Rechtopstaande packshot op witte achtergrond"
+    }
   },
   {
     "id": 46,
@@ -2551,7 +2646,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 49,
     "brand": "WOW",
-    "name": "Graanbolletjes met Melk- en Witte Chocolade",
+    "name": "Graanbolletjes met Melk en Witte Chocolade",
     "category": "Chocoladesnacks",
     "variant": "50 g",
     "ean": "7290019779322",
@@ -2568,7 +2663,7 @@ window.KPI_PRODUCTS = [
       "126.jpg"
     ],
     "productInfo": {},
-    "searchName": "Graanbolletjes met melk- en witte chocolade",
+    "searchName": "Graanbolletjes met melk en witte chocolade",
     "sourceUrl": "https://elisha.be/en/WOW/chocolate-coated-mix-balls",
     "imagePresentation": {
       "corners": [

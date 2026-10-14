@@ -34,8 +34,8 @@ window.KPI_PRODUCTS = [
     "variant": "400 g",
     "ingredients": "vis (tilapia), paneermeel (tarwebloem, tapiocabloem, zout, dextrose, plantaardige olie, rijsmiddelen natriumbicarbonaat en natriumfosfaat, emulgator monoglyceriden en diglyceriden en xanthaangom), geel maïsmeel, maïszetmeel, aardappelzetmeel, zout, cellulose, knoflookpoeder, specerijen. kort voorgebakken in koolzaadolie.",
     "allergens": [
-      "VIS",
-      "TARWE"
+      "Vis",
+      "Tarwe"
     ],
     "allergenNote": "",
     "kosher": "OU en CRC (Central Rabbinical Congress)",
@@ -55,16 +55,16 @@ window.KPI_PRODUCTS = [
     "variant": "400 g",
     "ingredients": "tilapia (vis).",
     "allergens": [
-      "VIS"
+      "Vis"
     ],
     "allergenNote": "",
-    "kosher": "OU en CRC (Central Rabbinical Congress) (KLP)",
+    "kosher": "OU en CRC (Central Rabbinical Congress)",
     "note": "",
     "image": "./images/03-tilapiafilets.jpg",
     "ean": "732973000120",
     "kosherLines": [
       "OU",
-      "CRC (Central Rabbinical Congress) (KLP)"
+      "CRC (Central Rabbinical Congress)"
     ]
   },
   {

@@ -78,7 +78,7 @@ Na de nieuwe controle passen alle 542 labels op 57 × 32 mm: marge 1 mm, inhoud 
 - meter-12 / 43: Chocoladereep met karamel en gepofte rijst
 - meter-12 / 46: Graanbolletjes met melkchocolade
 - meter-12 / 48: Koekjes met melkchocolade
-- meter-12 / 49: Graanbolletjes met melk- en witte chocolade
+- meter-12 / 49: Graanbolletjes met melk en witte chocolade
 - meter-12 / 50: Wafelrolletjes met notencrème en melkchocolade
 - meter-12 / 55: Plantaardige kloproom
 - meter-13 / 79: Cracker Crisps met zure-room- en uiensmaak
