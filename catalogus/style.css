@@ -101,3 +101,12 @@ html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}
 @media(max-width:639px){.catalog-intro h1{font-size:clamp(23px,calc(5vw + 4px),28px);line-height:1.2;text-wrap:balance}}
 
 .catalog-intro h1{margin:12px 0 0}.catalog-intro>p:last-child{margin-top:12px}
+
+/* Match the visible size of Black & White to the white chocolate bar. */
+.photo:has(img[src$="elite-black-white-biscuit-snapshot.png"]) img { transform:scale(1.25); transform-origin:center; }
+/* Give the slim Koffiemousse wrapper a taller photo area so it reads larger. */
+.photo:has(img[src$="elite-coffee-mousse-snapshot.png"]) { height:260px; }
+.photo:has(img[src$="elite-coffee-mousse-snapshot.png"]) img { transform:scale(1.25); transform-origin:center; }
+@media(max-width:700px) {
+  .photo:has(img[src$="elite-coffee-mousse-snapshot.png"]) { height:200px; }
+}

@@ -149,9 +149,28 @@ img[src*="mini-geit-naturel-gelijk.png"]{transform:scaleY(1.08);transform-origin
 #product-grid .product-visual:has(img[src$="product-95-web.jpg"]) {
   height: 180px;
 }
+
+/* Black & White has more white margin in its square packshot than the white bar. */
+#product-grid .product-visual:has(img[src$="elite-black-white-biscuit-snapshot.png"]) img,
+.dialog-product .product-visual-large:has(img[src$="elite-black-white-biscuit-snapshot.png"]) img {
+  transform: scale(1.25);
+  transform-origin: center;
+}
+
+/* Give the slim coffee-mousse wrapper the same taller photo area as the Blondie bars. */
+#product-grid .product-visual:has(img[src$="elite-coffee-mousse-snapshot.png"]) {
+  height: 260px;
+}
+#product-grid .product-visual:has(img[src$="elite-coffee-mousse-snapshot.png"]) img {
+  transform: scale(1.25);
+  transform-origin: center;
+}
 @media (max-width: 639px) {
   #product-grid .product-visual:has(img[src$="product-92-web.jpg"]),
   #product-grid .product-visual:has(img[src$="product-95-web.jpg"]) {
     height: 140px;
+  }
+  #product-grid .product-visual:has(img[src$="elite-coffee-mousse-snapshot.png"]) {
+    height: 200px;
   }
 }
