@@ -18,7 +18,7 @@
     'Diepvries: Bagels · Pizza · Deegwaren', 'Diepvries: Snacks · Vegetarisch · IJs'
   ];
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
-  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261014-salades-stijl'});
+  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261014-eden-vleeswaren'});
   sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
@@ -61,7 +61,8 @@
       +(p.preparation?'<p><strong>Bereiding:</strong> '+esc(p.preparation)+'</p>':'')
       +(p.note?'<p>'+esc(p.note)+'</p>':'');
     const parve=(p.kosherStatus==='Parve'||/\(Parve\)/i.test(p.note||''))&&!/parve/i.test(p.kosher||'');
-    const kosher=String(p.kosher||'').concat(p.kosher&&parve?' (Parve)':'').replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim();
+    const kosherLines=Array.isArray(p.kosherLines)&&p.kosherLines.length?p.kosherLines:(p.kosher?[String(p.kosher).concat(parve?' (Parve)':'')]:[]);
+    const kosher=kosherLines.map(line=>String(line).replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim()).filter(Boolean).map(esc).join('<br>');
     $('#product-detail').innerHTML='<div class="dialog-product">'
       +'<div class="product-visual product-visual-large">'+image(p,'detail-image')+'</div>'
       +'<p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>'
@@ -72,7 +73,7 @@
       +(p.catalogType==='nonfood'&&p.composition?'<section class="product-composition"><h3>'+esc(p.composition.heading||'Ingrediënten (INCI)')+'</h3>'+(p.composition.text?'<p>'+esc(p.composition.text)+'</p>':'')+(p.composition.note?'<p class="composition-note">'+esc(p.composition.note)+'</p>':'')+'</section>':'')
       +(p.catalogType!=='nonfood'?'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>':'')
       +section('Kan bevatten',p.mayContain)+section('Waarschuwing',p.warning)
-      +(kosher?'<section class="hechsher"><h3>Hechser</h3><p class="notranslate" translate="no">'+esc(kosher)+'</p></section>':'')
+      +(kosher?'<section class="hechsher"><h3>Hechser</h3><p class="notranslate" translate="no">'+kosher+'</p></section>':'')
       +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p></section></div>';
     window.KPI_normalizeProductLayout($('#product-detail'), p);
     $('#product-dialog').showModal();

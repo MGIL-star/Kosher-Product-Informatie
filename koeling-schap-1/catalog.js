@@ -73,6 +73,14 @@
     const allergens = product.allergens.length
       ? product.allergens.map(item => `<span class="allergen">${escapeHtml(item)}</span>`).join('')
       : (product.allergensConfirmedAbsent ? '<span class="allergen-free">Geen allergenen vermeld</span>' : '<span>Nog te controleren</span>');
+    const kosherLines = Array.isArray(product.kosherLines) && product.kosherLines.length
+      ? product.kosherLines
+      : (product.kosher ? [product.kosher] : []);
+    const kosherMarkup = kosherLines.map(line => {
+      const needsParve = line === product.kosher && (product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(line);
+      const value = line + (needsParve ? ' (Parve)' : '');
+      return escapeHtml(hechsherText(value));
+    }).filter(Boolean).join('<br>');
     dialogContent.innerHTML = `<div class="dialog-product">
       ${productImage(product, true)}
       <p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>
@@ -81,7 +89,7 @@
       <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientNote ? `<p class="verification-copy">${escapeHtml(product.ingredientNote)}</p>` : ""}</section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>` : ''}
+      ${kosherMarkup ? `<section class="hechsher"><h3>Hechser</h3><p>${kosherMarkup}</p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);

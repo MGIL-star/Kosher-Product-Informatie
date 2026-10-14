@@ -703,6 +703,43 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "brand": "Glidini",
+    "category": "Dessert",
+    "variant": "100 g",
+    "allergens": [
+      "Melk",
+      "Ei"
+    ],
+    "kosher": "Rabbi M. Weissmandl",
+    "kosherLines": [
+      "Rabbi M. Weissmandl",
+      "Rav of Nitra, Monsey",
+      "Chalav Yisrael"
+    ],
+    "imageEdited": true,
+    "productInfo": {},
+    "id": 87,
+    "name": "Tiramisu",
+    "ean": "8052870001061",
+    "image": "./images/glidini-tiramisu-100g.png",
+    "ingredients": "Gerehydrateerd magere melkpoeder, plantaardige oliën en vetten (kokos en zonnebloem), glucosestroop, suiker, halfafgewerkte mascarpone (wei, room, zout, zuurteregelaar (citroenzuur)), cacao, eieren, eiwit, maltodextrinen, rijstmeel, maïszetmeel, vanillealcohol, emulgatoren (mono- en diglyceriden van vetzuren), oploskoffie, verdikkingsmiddelen (carrageen, xanthaangom), conserveermiddel (kaliumsorbaat), stabilisator (glycerine), aroma’s, rijsmiddelen (natriumpyrofosfaat, natriumbicarbonaat), aardappelzetmeel, erwtenvezels.",
+    "allergenNote": "Kan sporen bevatten van noten (walnoten, hazelnoten, pinda’s, amandelen en pistachenoten).",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "barcodeSource": "Afgelezen op de aangeleverde verpakking: 8052870001061.",
+    "kosherSource": "Zuivelkeurmerk zichtbaar op de aangeleverde verpakking; overeenkomstig de andere Glidini-desserts.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-2/source-labels/20261014-glidini-tiramisu",
+      "photos": [
+        "codex-clipboard-fb8a4466-c542-478b-8318-5d3ee5be6ee6.jpg",
+        "codex-clipboard-abf982b7-13e5-4d10-84e3-21863b96f560.jpg",
+        "codex-clipboard-f665dcd6-920a-409c-b6d4-f25969df28d4.jpg"
+      ]
+    }
+  },
+  {
     "id": 13,
     "name": "Roomkaas Naturel",
     "brand": "Shefa",
@@ -1737,6 +1774,49 @@ window.KPI_PRODUCTS = [
     "notice": "De korst is niet eetbaar."
   },
   {
+    "id": 90,
+    "name": "Montescusa Manchego-schapenkaas",
+    "brand": "Ravet",
+    "category": "Kaas",
+    "variant": "150 g",
+    "ean": "3700701300306",
+    "ingredients": "Gepasteuriseerde manchegoschapenmelk, zout, melkzuurfermenten, stabilisator (calciumchloride), stremsel, conserveermiddel (lysozym (ei)).",
+    "allergens": [
+      "Melk",
+      "Ei"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Rabbanut Harashit LeYisrael (Chalav Yisrael)",
+    "kosherLines": [
+      "Rabbanut Harashit LeYisrael (Chalav Yisrael)"
+    ],
+    "kosherSource": "Hechsher en Chalav Yisrael-aanduiding op het etiket; productvermelding bevestigt toezicht van de Israëlische opperrabbijn en Chalav Yisrael.",
+    "image": "./images/ravet-montescusa-manchego-150g.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde ingrediëntenfoto.",
+    "barcodeSource": "Afgelezen op de aangeleverde verpakking: 3700701300306.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-31e90bc3-1bc7-40eb-849a-03108cdc137e.jpg",
+      "edit": "Datum- en lotsticker verwijderd; gesloten verpakking op witte achtergrond."
+    },
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-2/source-labels/20261014-ravet-montescusa",
+      "photos": [
+        "codex-clipboard-31e90bc3-1bc7-40eb-849a-03108cdc137e.jpg",
+        "codex-clipboard-7302b65b-7708-4647-a8de-e97f966c5f9d.jpg",
+        "codex-clipboard-88a034a2-750b-43c1-827f-1bea8c656450.jpg"
+      ]
+    },
+    "sources": [
+      "https://koshermarket.eu/products/manchego-cheese-aop-ravet-montesusa-3-months-aged-150g"
+    ]
+  },
+  {
     "id": 55,
     "name": "Geraspte Grana Padano",
     "brand": "Agriform",
@@ -1898,21 +1978,66 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3250550020707",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gepasteuriseerde melk, zout, fermenten (waaronder melk), enzymatisch stremsel, kleurstof voor de korst (bètacaroteen).",
     "allergens": [
-      "MELK"
+      "Melk"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Nog te controleren",
     "image": "./images/fleur-sources.webp?v=e894c4513f3b",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
       "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
     ],
-    "sourcePhoto": "223_Fleur-des-Sources-300x274.png"
+    "sourcePhoto": "223_Fleur-des-Sources-300x274.png",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, achteretiket op de aangeleverde foto.",
+    "barcodeSource": "Afgelezen op de aangeleverde verpakking: 3250550020707.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-2/source-labels/20261014-ermitage-fleur-des-sources",
+      "photos": [
+        "codex-clipboard-caa212ad-ae94-448d-98bc-afb5af2cff62.jpg",
+        "codex-clipboard-1796d62d-bce6-41a5-b3b7-ce4530d2ab6e.jpg",
+        "codex-clipboard-e55a527c-816a-434b-a9f6-1b689b1a0e16.jpg"
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "Le Marcaire",
+    "brand": "Ermitage",
+    "category": "Kaas",
+    "variant": "200 g",
+    "ean": "3250550023135",
+    "ingredients": "Gepasteuriseerde melk, zout, fermenten (waaronder melk), enzymatisch stremsel, kleurstof voor de korst (norbixine uit annatto).",
+    "allergens": [
+      "Melk"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Nog te controleren",
+    "image": "./images/ermitage-le-marcaire-200g.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde achteretiketfoto.",
+    "barcodeSource": "Afgelezen op de aangeleverde verpakking: 3250550023135.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-2/source-labels/20261014-le-marcaire",
+      "photos": [
+        "codex-clipboard-741401c3-8855-4c46-baf0-18efe2b157fa.jpg",
+        "codex-clipboard-45a000e0-688e-449a-a696-ec9dd6e85fe9.jpg"
+      ]
+    },
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-741401c3-8855-4c46-baf0-18efe2b157fa.jpg",
+      "edit": "Gesloten verpakking op witte achtergrond, studio-opmaak."
+    }
   },
   {
     "id": 28,
@@ -2660,6 +2785,49 @@ window.KPI_PRODUCTS = [
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
     },
     "quantitySource": "Voorzijde vermeldt 16 oz (1 lb), 453 g."
+  },
+  {
+    "id": 89,
+    "name": "Margarine voor Bakken en Koken",
+    "brand": "Poliva",
+    "category": "Boter en margarine",
+    "variant": "200 g",
+    "ean": "7290018428658",
+    "ingredients": "Plantaardige oliën en vetten, water, zout, emulgatoren (E471, E435), sojalecithine, zuurteregelaar (citroenzuur), conserveermiddel (sorbinezuur), aroma’s.",
+    "allergens": [
+      "Soja"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Badatz HaEda HaCharedit Jerusalem (Parve)",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Badatz HaEda HaCharedit Jerusalem (Parve)"
+    ],
+    "kosherSource": "Badatz Eida Hacharedit en Parve-aanduiding op de fysieke verpakking; de fabrikant vermeldt Badatz Eida Hacharedit voor deze margarine.",
+    "image": "./images/poliva-margarine-200g.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, ingrediënten- en allergenenfoto.",
+    "barcodeSource": "Afgelezen op de aangeleverde verpakking: 7290018428658.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-2/source-labels/20261014-poliva-margarine",
+      "photos": [
+        "codex-clipboard-0294f27e-5539-417d-a630-d7da3865269c.jpg",
+        "codex-clipboard-5d78908c-a599-4b41-8a86-b0527818fc0c.jpg",
+        "codex-clipboard-fefcda23-71a5-47af-903a-dc2c52482b49.jpg"
+      ]
+    },
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-0294f27e-5539-417d-a630-d7da3865269c.jpg",
+      "edit": "Gesloten verpakking op witte achtergrond, studio-opmaak."
+    },
+    "sources": [
+      "https://www.poliva.co.il/product/%D7%9E%D7%A8%D7%92%D7%A8%D7%99%D7%A0%D7%94-200-%D7%92%D7%A8%D7%9D-%D7%9C%D7%91%D7%99%D7%A9%D7%95%D7%9C-%D7%95%D7%90%D7%A4%D7%99%D7%99%D7%94/"
+    ]
   },
   {
     "id": 60,
