@@ -982,7 +982,7 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "kosher": "Machsike Hadas Antwerpen",
-    "image": "./source-labels/20261014-shefa-kaasplakken/front-original.jpg",
+    "image": "./images/shefa-kaasplakken-snapshot.png",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {},
@@ -1754,91 +1754,6 @@ window.KPI_PRODUCTS = [
       "directory": "tmp/kaas-bron-20261011"
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
-  },
-  {
-    "id": 52,
-    "name": "Manchego-schapenkaas",
-    "brand": "La Cueva del Abuelo",
-    "category": "Kaas",
-    "variant": "150 g",
-    "ean": "8436025982762",
-    "ingredients": "Gepasteuriseerde schapenmelk (MELK), melkzuurculturen (K), calciumchloride, kosjere lysozyme (OU), stremsel Hannilaz (K), zout.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "Het etiket noemt ook lysozyme; de herkomst daarvan is niet vermeld.",
-    "kosher": "Rav Y. Schlesinger Genève",
-    "image": "./images/manchego-150g.png",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [],
-    "sourcePhoto": "66413e4a-566d-4b6b-b7a9-861bdb690355.jpg",
-    "ingredientsComplete": true,
-    "kosherLines": [
-      "Rav Y. Schlesinger Genève",
-      "Chalav Yisrael"
-    ],
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
-        "ac540a8c-9195-4538-8ea1-43fa7cae880e.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "ingredientsSource": "Fysieke etiketten: c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg, ac540a8c-9195-4538-8ea1-43fa7cae880e.jpg",
-    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "c7537841-3c4d-40f1-8b0d-ddb4705923e0.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
-    },
-    "notice": "De korst is niet eetbaar."
-  },
-  {
-    "id": 90,
-    "name": "Montescusa Manchego-schapenkaas",
-    "brand": "Ravet",
-    "category": "Kaas",
-    "variant": "150 g",
-    "ean": "3700701300306",
-    "ingredients": "Gepasteuriseerde manchegoschapenmelk, zout, melkzuurfermenten, stabilisator (calciumchloride), stremsel, conserveermiddel (lysozym (ei)).",
-    "allergens": [
-      "Melk",
-      "Ei"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Rabbanut Harashit LeYisrael (Chalav Yisrael)",
-    "kosherLines": [
-      "Rabbanut Harashit LeYisrael (Chalav Yisrael)"
-    ],
-    "kosherSource": "Hechsher en Chalav Yisrael-aanduiding op het etiket; productvermelding bevestigt toezicht van de Israëlische opperrabbijn en Chalav Yisrael.",
-    "image": "./images/ravet-montescusa-manchego-150g.png",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde ingrediëntenfoto.",
-    "barcodeSource": "Afgelezen op de aangeleverde verpakking: 3700701300306.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "codex-clipboard-31e90bc3-1bc7-40eb-849a-03108cdc137e.jpg",
-      "edit": "Datum- en lotsticker verwijderd; gesloten verpakking op witte achtergrond."
-    },
-    "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-2/source-labels/20261014-ravet-montescusa",
-      "photos": [
-        "codex-clipboard-31e90bc3-1bc7-40eb-849a-03108cdc137e.jpg",
-        "codex-clipboard-7302b65b-7708-4647-a8de-e97f966c5f9d.jpg",
-        "codex-clipboard-88a034a2-750b-43c1-827f-1bea8c656450.jpg"
-      ]
-    },
-    "sources": [
-      "https://koshermarket.eu/products/manchego-cheese-aop-ravet-montesusa-3-months-aged-150g"
-    ]
   },
   {
     "id": 56,

@@ -710,7 +710,7 @@ window.KPI_PRODUCTS = [
     "allergenNote": "",
     "kosher": "Badatz Edah HaChareidis Jerusalem (Parve)",
     "ean": "7290004011291",
-    "image": "./images/17-richs-strawberry-base.jpg",
+    "image": "./images/17-richs-strawberry-snapshot.png",
     "warning": "",
     "note": "Plantaardige basis voor het bereiden van aardbeienslagroom.",
     "reviewStatus": "label-verified",

@@ -81,7 +81,7 @@ window.KPI_PRODUCTS = [
     "allergenNote": "",
     "kosher": "OU (Parve) en CRC (Parve)",
     "note": "Wild gevangen. Zonder MSG, fosfaten en conserveermiddelen volgens de verpakking.",
-    "image": "./images/04-gepaneerde-botfilet-20261014.jpg",
+    "image": "./images/04-gepaneerde-botfilet-snapshot.png",
     "ean": "732973000939",
     "kosherLines": [
       "OU (Parve)",

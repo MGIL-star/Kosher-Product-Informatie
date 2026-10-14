@@ -2280,7 +2280,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
-    "image": "source-labels/20261013-chocolade-aanvulling/ab1487a5-9b33-4088-a9ad-232709894877.jpg",
+    "image": "images/elite-strawberry-snapshot.png",
     "sourcePhotos": [
       "source-labels/20261013-chocolade-aanvulling/ab1487a5-9b33-4088-a9ad-232709894877.jpg",
       "source-labels/20261013-chocolade-aanvulling/f200c0a2-ef36-40f2-8aac-5ad83145cdd4.jpg",
@@ -2292,11 +2292,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "searchName": "Elite Moolada melkchocolade aardbeiencrème",
-    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/417496",
-    "imagePresentation": {
-      "corners": [[0.04, 0.39], [0.97, 0.18], [0.95, 0.68], [0.09, 0.81]],
-      "aspectRatio": 2.2
-    }
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/417496"
   },
   {
     "id": 69,
@@ -2314,7 +2310,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
-    "image": "source-labels/20261013-chocolade-aanvulling/ad6d30d4-9952-4cb6-8f9d-cb36a945921c.jpg",
+    "image": "images/elite-white-strawberry-snapshot.png",
     "sourcePhotos": [
       "source-labels/20261013-chocolade-aanvulling/ad6d30d4-9952-4cb6-8f9d-cb36a945921c.jpg",
       "source-labels/20261013-chocolade-aanvulling/1ae683c0-8da4-4c3d-9952-54a903782f69.jpg",
@@ -2326,11 +2322,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "searchName": "Elite Moolada Levanah aardbeiencrème",
-    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%9C%D7%91%D7%A0%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%9C%D7%91%D7%9F-%D7%95%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/680355",
-    "imagePresentation": {
-      "corners": [[0.17, 0.25], [0.92, 0.31], [0.91, 0.61], [0.15, 0.57]],
-      "aspectRatio": 2.7
-    }
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%9C%D7%91%D7%A0%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%9C%D7%91%D7%9F-%D7%95%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/680355"
   },
   {
     "id": 70,
@@ -2349,7 +2341,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan pinda’s, ei en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
-    "image": "source-labels/20261013-chocolade-aanvulling/8d7a40c7-bc20-4741-ac1e-e44472165aa2.jpg",
+    "image": "images/elite-coffee-mousse-snapshot.png",
     "sourcePhotos": [
       "source-labels/20261013-chocolade-aanvulling/8d7a40c7-bc20-4741-ac1e-e44472165aa2.jpg",
       "source-labels/20261013-chocolade-aanvulling/c45ac8c3-47b9-4d79-8f20-87e676d1b4f7.jpg",
@@ -2363,11 +2355,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "searchName": "Elite Parah Mousse koffie",
-    "sourceUrl": "https://www.eati.co.il/coffee-chocolate/",
-    "imagePresentation": {
-      "corners": [[0.20, 0.12], [0.91, 0.15], [0.86, 0.91], [0.15, 0.88]],
-      "aspectRatio": 2.1
-    }
+    "sourceUrl": "https://www.eati.co.il/coffee-chocolate/"
   },
   {
     "id": 71,
@@ -2380,7 +2368,7 @@ window.KPI_PRODUCTS = [
     "allergens": ["Melk"],
     "mayContain": "Kan pinda’s, amandelen, hazelnoten, pecannoten, ei, soja en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
-    "image": "source-labels/20261013-chocolade-aanvulling/93593a19-b604-46f6-abb4-cc646c81a037.jpg",
+    "image": "images/elite-milk-snapshot.png",
     "sourcePhotos": [
       "source-labels/20261013-chocolade-aanvulling/93593a19-b604-46f6-abb4-cc646c81a037.jpg",
       "source-labels/20261013-chocolade-aanvulling/77b7b214-7f13-469a-9a2c-2bcb36e37a32.jpg",
@@ -2392,11 +2380,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "searchName": "Elite Shokolad Parah melkchocolade 100 g",
-    "sourceUrl": "https://www.foodsdictionary.co.il/Products/19/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93%20%D7%97%D7%9C%D7%91",
-    "imagePresentation": {
-      "corners": [[0.16, 0.13], [0.89, 0.10], [0.94, 0.89], [0.13, 0.93]],
-      "aspectRatio": 2.1
-    }
+    "sourceUrl": "https://www.foodsdictionary.co.il/Products/19/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93%20%D7%97%D7%9C%D7%91"
   },
   {
     "id": 72,
@@ -2414,7 +2398,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
     "kosher": "OU Dairy Chalav Yisrael",
-    "image": "source-labels/20261013-chocolade-aanvulling/02b049e3-c41b-4cae-a2e4-607201b8ea85.jpg",
+    "image": "images/elite-biscuit-cream-snapshot.png",
     "sourcePhotos": [
       "source-labels/20261013-chocolade-aanvulling/02b049e3-c41b-4cae-a2e4-607201b8ea85.jpg",
       "source-labels/20261013-chocolade-aanvulling/c9972598-a2e0-451b-bb20-fb8ba16d68d7.jpg",
@@ -2426,11 +2410,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "searchName": "Elite Biscuit Crunch",
-    "sourceUrl": "https://www.instacart.ca/products/17605184-elite-crunch-milk-chocolate-covered-biscuit-with-milk-flavored-cream-3-5-oz",
-    "imagePresentation": {
-      "corners": [[0.04, 0.34], [0.94, 0.18], [0.93, 0.79], [0.10, 0.92]],
-      "aspectRatio": 2.3
-    }
+    "sourceUrl": "https://www.instacart.ca/products/17605184-elite-crunch-milk-chocolate-covered-biscuit-with-milk-flavored-cream-3-5-oz"
   },
   {
     "id": 46,
