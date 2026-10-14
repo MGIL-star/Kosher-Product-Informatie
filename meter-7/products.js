@@ -1027,6 +1027,29 @@ window.KPI_PRODUCTS = [
     "kosherVerification": "label"
   },
   {
+    "id": 43,
+    "brand": "Osem",
+    "name": "Pittige Croutonsticks Pot",
+    "variant": "340 g",
+    "ean": "077544006973",
+    "ingredients": "Tarwebloem, zonnebloemolie, zout, kurkuma-extract, rode chilipeperextract.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "Kan soja bevatten.",
+    "kosher": "Badatz Edah HaChareidis (Parve)",
+    "category": "Croutons",
+    "image": "images/osem-spicy-croutons-340g.png",
+    "imageNeedsCheck": false,
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261014-osem-spicy-croutons/front-original.jpg",
+      "source-labels/20261014-osem-spicy-croutons/back-original.jpg",
+      "source-labels/20261014-osem-spicy-croutons/barcode-original.jpg"
+    ],
+    "kosherSource": "Badatz Edah HaChareidis (Parve), overgenomen van Mini Croutons Pot op verzoek van de gebruiker."
+  },
+  {
     "id": 26,
     "brand": "Osem",
     "name": "Mini Croutons Zak",

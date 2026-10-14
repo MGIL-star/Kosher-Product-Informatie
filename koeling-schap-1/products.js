@@ -788,7 +788,7 @@ window.KPI_PRODUCTS = [
       "Mosterd"
     ],
     "allergensConfirmedAbsent": false,
-    "kosher": "K (volgens etiket)",
+    "kosher": "K",
     "image": "./images/eden-113-250g.png",
     "imageEdited": true,
     "productInfo": {},
@@ -875,7 +875,7 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "allergensConfirmedAbsent": true,
     "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
-    "kosher": "EK (volgens etiket)",
+    "kosher": "EK",
     "kosherSource": "Ovaal EK-keurmerk op cb7164c9-e290-4ea6-9684-81668a7d7873.jpg; naam van certificerende instantie niet uit het etiket vastgesteld.",
     "image": "./images/eden-kikkererwtensalade-front.png",
     "imageEdited": true,
@@ -925,8 +925,8 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "3760059040088",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (80%), plantaardige olie, tarwebloem, spinazie, peterselie, ui, knoflook, specerijen, conserveermiddelen (E220, E210), citroenzuur (E330), zout, kruiden.",
+    "allergens": ["Tarwe (gluten)"],
     "allergensConfirmedAbsent": false,
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-121.png",
@@ -941,7 +941,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {}
+    "productInfo": {},
+    "ingredientsSource": "Ingrediënten gekoppeld aan de exacte verpakking met EAN 3760059040224; allergenenlijst bevat tarwe door tarwebloem.",
+    "sourceUrl": "https://nutrifoodindex.com/product/falafel-3760059040224"
   },
   {
     "id": 54,
@@ -1684,8 +1686,8 @@ window.KPI_PRODUCTS = [
     "ingredientsComplete": true,
     "allergens": [],
     "allergensConfirmedAbsent": true,
-    "kosher": "Keurmerk aanwezig; naam van de instantie nog te controleren",
-    "kosherSource": "Keurmerken op foto 543474e4-3915-48d6-92a8-9267e1636813.jpg; volledige namen niet betrouwbaar leesbaar.",
+    "kosher": "London Board for Shechita",
+    "kosherSource": "Door de gebruiker bevestigd als hechsjer voor Gerookte Kalkoenfilet Flinterdun, 14 oktober 2026.",
     "image": "./images/eden-kalkoenfilet-110g.png",
     "imageEdited": true,
     "ingredientsSource": "Fysiek etiket 04a1314d-0b4e-497f-8cee-ed46d3eb76f7.jpg.",

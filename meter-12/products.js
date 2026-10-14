@@ -2265,6 +2265,174 @@ window.KPI_PRODUCTS = [
     "ingredientsChecked": "2026-10-09"
   },
   {
+    "id": 68,
+    "brand": "Elite",
+    "name": "Melkchocolade met Aardbeiencrème",
+    "category": "Chocoladetabletten",
+    "variant": "100 g",
+    "ean": "7290008750677",
+    "ingredients": "Suiker, melkpoeder, cacaoboter, cacaomassa, invertsuiker, glucosestroop, melkvet, water, appelpulp (suiker, appelpulp, glucosestroop, conserveermiddelen (E221, E202)), emulgatoren (E476, raapzaadlecithine), aroma’s, zuurteregelaar (citroenzuur), kleurstof (anthocyaninen uit zwartewortelconcentraat).",
+    "allergens": [
+      "Melk",
+      "Amandelen",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
+    "kosher": "OU Dairy Chalav Yisrael",
+    "image": "source-labels/20261013-chocolade-aanvulling/ab1487a5-9b33-4088-a9ad-232709894877.jpg",
+    "sourcePhotos": [
+      "source-labels/20261013-chocolade-aanvulling/ab1487a5-9b33-4088-a9ad-232709894877.jpg",
+      "source-labels/20261013-chocolade-aanvulling/f200c0a2-ef36-40f2-8aac-5ad83145cdd4.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-chocolade-aanvulling/f200c0a2-ef36-40f2-8aac-5ad83145cdd4.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Moolada melkchocolade aardbeiencrème",
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/417496",
+    "imagePresentation": {
+      "corners": [[0.04, 0.39], [0.97, 0.18], [0.95, 0.68], [0.09, 0.81]],
+      "aspectRatio": 2.2
+    }
+  },
+  {
+    "id": 69,
+    "brand": "Elite",
+    "name": "Witte en Melkchocolade met Aardbeiencrème",
+    "category": "Chocoladetabletten",
+    "variant": "100 g",
+    "ean": "7290106722415",
+    "ingredients": "Suiker, cacaoboter, melkpoeder, invertsuiker, cacaomassa, glucosestroop, melkvet, appelpulp (suiker, appelpulp, glucosestroop, conserveermiddelen (E221, E202)), water, emulgatoren (raapzaadlecithine, E476), aroma’s, zuurteregelaar (citroenzuur), kleurstof (anthocyaninen uit zwartewortelconcentraat).",
+    "allergens": [
+      "Melk",
+      "Amandelen",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan tarwe en gerst (gluten), pinda’s, pecannoten, ei en sesam bevatten.",
+    "kosher": "OU Dairy Chalav Yisrael",
+    "image": "source-labels/20261013-chocolade-aanvulling/ad6d30d4-9952-4cb6-8f9d-cb36a945921c.jpg",
+    "sourcePhotos": [
+      "source-labels/20261013-chocolade-aanvulling/ad6d30d4-9952-4cb6-8f9d-cb36a945921c.jpg",
+      "source-labels/20261013-chocolade-aanvulling/1ae683c0-8da4-4c3d-9952-54a903782f69.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-chocolade-aanvulling/1ae683c0-8da4-4c3d-9952-54a903782f69.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Moolada Levanah aardbeiencrème",
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%9C%D7%91%D7%A0%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%9C%D7%91%D7%9F-%D7%95%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/680355",
+    "imagePresentation": {
+      "corners": [[0.17, 0.25], [0.92, 0.31], [0.91, 0.61], [0.15, 0.57]],
+      "aspectRatio": 2.7
+    }
+  },
+  {
+    "id": 70,
+    "brand": "Elite",
+    "name": "Melk- en Witte Chocolade met Koffiemousse",
+    "category": "Chocoladetabletten",
+    "variant": "100 g",
+    "ean": "7290119382224",
+    "ingredients": "Suiker, melkbestanddelen in poedervorm, cacaoboter, plantaardige oliën en vetten, melkvet, cacaomassa, sojameel, hazelnootpasta, oploskoffie (0,4%), emulgatoren (raapzaadlecithine, E476), aroma’s.",
+    "allergens": [
+      "Melk",
+      "Tarwe (gluten)",
+      "Amandelen",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan pinda’s, ei en sesam bevatten.",
+    "kosher": "OU Dairy Chalav Yisrael",
+    "image": "source-labels/20261013-chocolade-aanvulling/8d7a40c7-bc20-4741-ac1e-e44472165aa2.jpg",
+    "sourcePhotos": [
+      "source-labels/20261013-chocolade-aanvulling/8d7a40c7-bc20-4741-ac1e-e44472165aa2.jpg",
+      "source-labels/20261013-chocolade-aanvulling/c45ac8c3-47b9-4d79-8f20-87e676d1b4f7.jpg",
+      "source-labels/20261013-chocolade-aanvulling/3355a370-1f98-4d7c-8045-27154cac7f4c.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-chocolade-aanvulling/c45ac8c3-47b9-4d79-8f20-87e676d1b4f7.jpg",
+      "source-labels/20261013-chocolade-aanvulling/3355a370-1f98-4d7c-8045-27154cac7f4c.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Parah Mousse koffie",
+    "sourceUrl": "https://www.eati.co.il/coffee-chocolate/",
+    "imagePresentation": {
+      "corners": [[0.20, 0.12], [0.91, 0.15], [0.86, 0.91], [0.15, 0.88]],
+      "aspectRatio": 2.1
+    }
+  },
+  {
+    "id": 71,
+    "brand": "Elite",
+    "name": "Melkchocolade",
+    "category": "Chocoladetabletten",
+    "variant": "100 g",
+    "ean": "7290000170053",
+    "ingredients": "Suiker, melkpoeder, cacaoboter, cacaomassa, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline.",
+    "allergens": ["Melk"],
+    "mayContain": "Kan pinda’s, amandelen, hazelnoten, pecannoten, ei, soja en sesam bevatten.",
+    "kosher": "OU Dairy Chalav Yisrael",
+    "image": "source-labels/20261013-chocolade-aanvulling/93593a19-b604-46f6-abb4-cc646c81a037.jpg",
+    "sourcePhotos": [
+      "source-labels/20261013-chocolade-aanvulling/93593a19-b604-46f6-abb4-cc646c81a037.jpg",
+      "source-labels/20261013-chocolade-aanvulling/77b7b214-7f13-469a-9a2c-2bcb36e37a32.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-chocolade-aanvulling/77b7b214-7f13-469a-9a2c-2bcb36e37a32.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Shokolad Parah melkchocolade 100 g",
+    "sourceUrl": "https://www.foodsdictionary.co.il/Products/19/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93%20%D7%97%D7%9C%D7%91",
+    "imagePresentation": {
+      "corners": [[0.16, 0.13], [0.89, 0.10], [0.94, 0.89], [0.13, 0.93]],
+      "aspectRatio": 2.1
+    }
+  },
+  {
+    "id": 72,
+    "brand": "Elite",
+    "name": "Melkchocolade met Biscuit en Crème",
+    "category": "Chocoladerepen",
+    "variant": "100 g",
+    "ean": "0815871012256",
+    "ingredients": "Suiker, palmolie en palmpitolie, biscuit (tarwebloem (gluten), suiker, palmolie, maïszetmeel, rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat, natriumzuurpyrofosfaat), zout, sojalecithine, aroma, conserveermiddel (natriummetabisulfiet), rozemarijnextract), cacaoboter, magere melk, wei-eiwitconcentraat, cacaomassa, melkvet, inuline, sojameel, gealkaliseerd cacaopoeder, raapzaadlecithine, PGPR, aroma’s, zout.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan pinda’s, andere noten, ei en sesam bevatten.",
+    "kosher": "OU Dairy Chalav Yisrael",
+    "image": "source-labels/20261013-chocolade-aanvulling/02b049e3-c41b-4cae-a2e4-607201b8ea85.jpg",
+    "sourcePhotos": [
+      "source-labels/20261013-chocolade-aanvulling/02b049e3-c41b-4cae-a2e4-607201b8ea85.jpg",
+      "source-labels/20261013-chocolade-aanvulling/c9972598-a2e0-451b-bb20-fb8ba16d68d7.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261013-chocolade-aanvulling/c9972598-a2e0-451b-bb20-fb8ba16d68d7.jpg",
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Biscuit Crunch",
+    "sourceUrl": "https://www.instacart.ca/products/17605184-elite-crunch-milk-chocolate-covered-biscuit-with-milk-flavored-cream-3-5-oz",
+    "imagePresentation": {
+      "corners": [[0.04, 0.34], [0.94, 0.18], [0.93, 0.79], [0.10, 0.92]],
+      "aspectRatio": 2.3
+    }
+  },
+  {
     "id": 46,
     "brand": "WOW",
     "name": "Graanbolletjes met Melkchocolade",

@@ -1688,6 +1688,27 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
   },
   {
+    "id": 54,
+    "brand": "Nescafé",
+    "name": "Red Mug Oploskoffie",
+    "variant": "200 g",
+    "ean": "7290000061764",
+    "ingredients": "Koffie (100%).",
+    "allergens": [],
+    "warning": "",
+    "kosher": "Badatz Edah HaChareidis Jerusalem (Parve)",
+    "category": "Koffie & Chocolit",
+    "image": "images/nescafe-red-mug-200g.png",
+    "imageNeedsCheck": false,
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261014-nescafe-red-mug/front-original.jpg",
+      "source-labels/20261014-nescafe-red-mug/back-original.jpg",
+      "source-labels/20261014-nescafe-red-mug/barcode-original.jpg"
+    ],
+    "kosherSource": "Nestlé Professional-vermelding bevestigd aan de aangeleverde 200 g Nescafé Red Mug-verpakking."
+  },
+  {
     "id": 23,
     "brand": "Elite",
     "name": "Chocolit Cacaodrankpoeder voor Pesach",

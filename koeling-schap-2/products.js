@@ -6,20 +6,22 @@ window.KPI_PRODUCTS = [
     "category": "Yoghurt",
     "variant": "500 g",
     "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Volle MELK, yoghurtzuursel.",
     "allergens": [
       "MELK"
     ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-naturel-500.webp?v=4e836f1846ad",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
-      "https://shefaco.be/youghurt/Natural",
+      "https://shefaco.be/Natural",
+      "https://panzers.co.uk/product/shefa-yoghurt-natural/",
       "https://shefaco.be/about/kashrus"
     ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Shefaco noemt verse volle melk en melkzuur/probioticaculturen; Panzer’s vermeldt volle melk en yoghurtculturen voor Shefa naturel 125 g."
   },
   {
     "id": 8,
@@ -134,12 +136,11 @@ window.KPI_PRODUCTS = [
       "Yoghurt"
     ],
     "variant": "500 g",
-    "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ean": "8711723922259",
+    "ingredients": "",
     "allergens": [
       "MELK"
     ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-vanille-500.webp?v=785bf48499e8",
     "imageEdited": true,
@@ -148,7 +149,12 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
-    ]
+    ],
+    "labelSources": [
+      "source-labels/20261014-shefa-pudding/vanille-500g-front-barcode-original.jpg"
+    ],
+    "barcodeSource": "Aangeleverde foto van de Shefa Vanilla Pudding 500 g-verpakking.",
+    "barcodeChecked": "2026-10-14"
   },
   {
     "id": 12,
@@ -194,20 +200,22 @@ window.KPI_PRODUCTS = [
     "category": "Yoghurt",
     "variant": "125 g",
     "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Volle MELK, yoghurtzuursel.",
     "allergens": [
       "MELK"
     ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-naturel-125-deksel.png",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
-      "https://shefaco.be/youghurt/Natural",
+      "https://shefaco.be/Natural",
+      "https://panzers.co.uk/product/shefa-yoghurt-natural/",
       "https://shefaco.be/about/kashrus"
     ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Shefaco noemt verse volle melk en melkzuur/probioticaculturen; Panzer’s vermeldt volle melk en yoghurtculturen voor Shefa naturel 125 g."
   },
   {
     "id": 2,
@@ -288,20 +296,22 @@ window.KPI_PRODUCTS = [
     "category": "Yoghurt",
     "variant": "125 g",
     "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Volle MELK, yoghurtzuursel, suiker (10%), concentraat (wortel, pompoen en appel), aroma.",
     "allergens": [
       "MELK"
     ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-tropical-125-deksel.png",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
+      "https://shefaco.be/Tropical125gr",
       "https://shefaco.be/all/Tropical",
       "https://shefaco.be/about/kashrus"
     ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Zelfde Shefa Tropical-recept als de 500 g-variant; de fabrikant bevestigt 125 g als dezelfde productvariant."
   },
   {
     "id": 5,
@@ -313,11 +323,10 @@ window.KPI_PRODUCTS = [
     ],
     "variant": "125 g",
     "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [
       "MELK"
     ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-vanille-125-deksel.png",
     "imageEdited": true,
@@ -338,20 +347,21 @@ window.KPI_PRODUCTS = [
     ],
     "variant": "125 g",
     "ean": "",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Volle MELK, suiker, gemodificeerd maïszetmeel, cacaopoeder.",
     "allergens": [
       "MELK"
     ],
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-chocolade-125-deksel.png",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
-    ]
+    ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Zelfde Shefa Chocolate Vla/Pudding-recept als de 500 g-variant; fabrikant vermeldt beide formaten als dezelfde productvariant."
   },
   {
     "id": 25,
@@ -488,7 +498,6 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Betito",
     "image": "./images/petits-nova.webp?v=e4a92a3b4252",
     "imageEdited": true,
@@ -506,14 +515,13 @@ window.KPI_PRODUCTS = [
     "category": "Desserts",
     "variant": "4 × 125 g",
     "ean": "3456770521127",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [
       "MELK",
       "SOJA",
       "SULFIETEN"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De leveranciersfiche voor deze EAN vermeldt melk, soja en sulfieten. Controleer de actuele kosjere verpakking; de gepubliceerde ingrediëntenlijsten verschillen.",
     "kosher": "Rav Betito",
     "image": "./images/creme-chocolade.webp?v=cb838f8fc7ca",
     "imageEdited": true,
@@ -536,7 +544,6 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Betito",
     "image": "./images/creme-vanille.webp?v=f697620664f2",
     "imageEdited": true,
@@ -554,19 +561,19 @@ window.KPI_PRODUCTS = [
     "category": "Desserts",
     "variant": "4 × 90 g",
     "ean": "3456770521660",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gedeeltelijk afgeroomde melk, suiker, aromatische karamel 5% (suiker, water, glucose-fructosestroop, gemodificeerd zetmeel, verdikkingsmiddelen (xanthaangom, pectinen), zuurteregelaar (E524)), lactose en melkmineralen, zetmeel, aroma, geleermiddel (carrageen (algenextract)), melkmineralen, kleurstof (carotenoïden), melkeiwitten.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Betito",
     "image": "./images/flan-karamel.webp?v=80d3634dc67b",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
     "sources": [
-      "https://www.solucious.be/27382"
+      "https://www.solucious.be/27382",
+      "https://www.solucious.be/tech-fiche/27382/pdf?_locale=nl"
     ],
     "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
   },
@@ -582,7 +589,6 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Betito",
     "image": "./images/liegeois.webp?v=be9e6d32312d",
     "imageEdited": true,
@@ -976,7 +982,7 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "kosher": "Machsike Hadas Antwerpen",
-    "image": "./images/shefa-gouda.webp?v=167b8875e788",
+    "image": "./source-labels/20261014-shefa-kaasplakken/front-original.jpg",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {},
@@ -995,7 +1001,25 @@ window.KPI_PRODUCTS = [
         "d9e286e9-fa89-488b-8bfe-6079a3bf305c.jpg",
         "f5b75294-c51c-40ac-ab82-f15d33f7e01f.jpg"
       ]
-    }
+    },
+    "sourcePhotos": [
+      "source-labels/20261014-shefa-kaasplakken/front-original.jpg",
+      "source-labels/20261014-shefa-kaasplakken/back-original.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261014-shefa-kaasplakken/back-original.jpg"
+    ],
+    "imageSource": {
+      "type": "Aangeleverde foto van de gesloten verpakking",
+      "photo": "source-labels/20261014-shefa-kaasplakken/front-original.jpg",
+      "edit": "Ingebouwde perspectiefcorrectie in de productweergave"
+    },
+    "imagePresentation": {
+      "corners": [[0.94, 0.08], [0.96, 0.96], [0.06, 0.94], [0.05, 0.12]],
+      "aspectRatio": 0.72
+    },
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto van 14 oktober 2026.",
+    "barcodeSource": "Aangeleverde etiketfoto; EAN-13 8720791238650 komt overeen met Shefa Gouda-plakken 200 g."
   },
   {
     "id": 68,
@@ -1858,18 +1882,21 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "100 g",
     "ean": "8003518100219",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Melk, zout, stremsel, conserveermiddel (lysozym (uit ei)).",
     "allergens": [
-      "MELK"
+      "MELK",
+      "EI"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Y. Schlesinger Genève",
     "image": "./images/grana-geraspt.webp?v=c6d1a185b1e3",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://www.greens.com.mt/productdetails?loc=MH&pid=8003518100219",
+      "https://www.auchan.pt/pt/produtos-frescos/queijaria/queijo-ralado-e-para-culinaria/queijo-grana-padano-agriform-dop-ralado-100g/1106570.html"
+    ],
     "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
   },
   {
@@ -1879,18 +1906,20 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "175 g",
     "ean": "3176580025478",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Y. Schlesinger Genève",
     "image": "./images/brie-ducs.webp?v=d3080cf052e1",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://foodfactor.net/produits/3176580025478/brir%2Bdes%2Bducs.php",
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+    ],
     "sourcePhoto": "224_Pointe-de-Brie-Brie-des-Ducs-300x209.png"
   },
   {
@@ -1898,21 +1927,23 @@ window.KPI_PRODUCTS = [
     "name": "Brie",
     "brand": "Le Maubert",
     "category": "Kaas",
-    "variant": "",
+    "variant": "500 g",
     "ean": "3250550015529",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gepasteuriseerde melk, zout, fermenten (inclusief melk), microbieel stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Nog te controleren",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Exact Le Maubert EAN en 500 g-variant bevestigd door Inter Agro; ingrediënten van de 500 g-variant vermeld bij Auchan.",
     "image": "./images/le-maubert.webp?v=aea4492c818d",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf",
+      "https://www.auchan.fr/le-maubert-petit-brie/pr-C1186851"
     ],
     "sourcePhoto": "221_Le-Maubert-300x228.png"
   },
@@ -1961,19 +1992,19 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "235 g",
     "ean": "3250552210229",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Melk, zout, fermenten, stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Schlesinger Straatsburg",
     "image": "./images/camembert-saintois.webp?v=6f94d5c97e75",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
     "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+      "https://nutrifoodindex.com/product/camembert-saintois",
+      "https://inter-agro.fr/produit/camembert-saintois"
     ],
     "sourcePhoto": "211_Camembert-Saintois-300x256.png"
   },
@@ -1984,19 +2015,19 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "240 g",
     "ean": "3523230053655",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gepasteuriseerde melk, room, zout, zuursel, stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Nog te controleren",
     "image": "./images/camembert-grand.webp?v=b9f06e29cd12",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
     "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+      "https://inter-agro.fr/produit/camembert-grand-fermage-240g",
+      "https://www.grand-fermage.fr/en/camembert-240g/"
     ],
     "sourcePhoto": "218_Camembert-Grand-Fermage-300x305.png"
   },
@@ -2079,19 +2110,19 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "230 g",
     "ean": "3250550015482",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gepasteuriseerde melk, zout, fermenten, stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Nog te controleren",
     "image": "./images/carre-est.webp?v=9613139f8062",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
     "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+      "https://nutrifoodindex.com/product/carre-de-l-est",
+      "https://inter-agro.fr/produit/carre-dest-hermitage"
     ],
     "sourcePhoto": "222_Carre-de-lEst-300x305.png"
   },
@@ -2169,21 +2200,24 @@ window.KPI_PRODUCTS = [
     "brand": "Fromage des Ducs",
     "category": "Kaas",
     "variant": "220 g",
-    "ean": "3153126838000",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ean": "3153126838006",
+    "ingredients": "Gepasteuriseerde koemelk, zuursel, rijpingsculturen, microbieel stremsel, zout.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Y. Schlesinger Genève",
     "image": "./images/fromage-ducs.webp?v=0a0f728557e6",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
     "sources": [
-      "https://inter-agro.fr/produit/fromage-camb-des-ducs-220g"
+      "https://inter-agro.fr/produit/fromage-camb-des-ducs-220g",
+      "https://www.dekaaskoning.nl/documenten/02-Producten%20Internationale%20kaas/Fromage%20des%20Ducs%20220g.pdf"
     ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Productspecificatie voor Fromage des Ducs 220 g; EAN gecontroleerd op geldige checksum.",
+    "barcodeSource": "Productspecificatie vermeldt 3153126838006; het bestaande EAN eindigde op een ongeldig controlecijfer.",
     "sourcePhoto": "217_Fromage-des-Ducs-300x300.png"
   },
   {
@@ -2193,18 +2227,20 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3523230039970",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gepasteuriseerde geitenmelk, zout, melkzuurculturen, microbieel stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Triangle K",
     "image": "./images/smeerbare-geit.webp?v=b992e722478e",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://sortiment.makro.cz/cs/chevre-a-tartiner-150g/112557p/",
+      "https://www.xn--ernr-xoa.no/matvarer/soignon-merci-chef-frisk-chvre-150g"
+    ],
     "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg"
   },
   {
@@ -2287,19 +2323,24 @@ window.KPI_PRODUCTS = [
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "125 g",
-    "ean": "3523230040068",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ean": "3523230038799",
+    "ingredients": "Gepasteuriseerde geitenmelk, zout, conserveermiddel (E202), fermenten (inclusief lactose), stremsel.",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Triangle K",
     "image": "./images/mini-geit-naturel-gelijk.png",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://www.elcorteingles.pt/supermercado/0105218382006999-soignon-rolo-mini-longo-natural-unidade-125-g/",
+      "https://www.f-r-m.co.jp/eurial/"
+    ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Exact EAN 3523230038799 en 125 g-variant; vermeld op El Corte Inglés.",
+    "barcodeSource": "Eurial/Soignon-catalogus bevestigt dat EAN 3523230038799 bij de naturel Mini Bûchette 125 g hoort.",
     "sourcePhoto": "b1aa8ff2-4ccb-4b52-bce7-0e13732b5be7.jpg"
   },
   {
@@ -2308,19 +2349,22 @@ window.KPI_PRODUCTS = [
     "brand": "Soignon",
     "category": "Kaas",
     "variant": "125 g",
-    "ean": "3523230040099",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ean": "3523230038836",
+    "ingredients": "",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Triangle K",
     "image": "./images/mini-geit-kruiden.webp?v=b35e0dcfb794",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://www.f-r-m.co.jp/eurial/",
+      "https://www.calimp.com.br/wp-content/uploads/2020/01/CATALOGO-SITE.pdf"
+    ],
+    "barcodeSource": "Eurial/Soignon-variantoverzicht koppelt EAN 3523230038836 aan de Mini Bûchette Ail et Fines Herbes van 125 g; het huidige catalogus-EAN bleek bij een smeerkaas van 140 g te horen.",
     "sourcePhoto": "2acefa03-7d64-4653-8056-719047998a05.jpg"
   },
   {
@@ -2330,18 +2374,21 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "140 g",
     "ean": "3523230053365",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Geitenkaas (41%), gereconstitueerde magere melk, boter, melkeiwitten, smeltzouten (E339, E340, E450, E452), zout, conserveermiddel (E202), zuurteregelaar (E330).",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Triangle K",
     "image": "./images/piramide-naturel.webp?v=9ee1c16fe21d",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://express.auchan.ua/sir-soignon-kozinij-piramidka-140-g-3523230053365-1754663/"
+    ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Ingrediëntenlijst van de exact overeenkomende Soignon-piramide 140 g en EAN 3523230053365.",
     "sourcePhoto": "ea539a4f-4732-48e2-8c1e-78cb8e9fd145.jpg"
   },
   {
@@ -2499,18 +2546,19 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3760016940444",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Gepasteuriseerde schapenmelk, zout, stremsel, melkzuurfermenten, voedingszuur (E575).",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Rav Y. Schlesinger Genève",
     "image": "./images/brebiac.webp?v=2555c15e97d3",
     "imageEdited": true,
     "detailsPending": true,
     "productInfo": {},
-    "sources": [],
+    "sources": [
+      "https://www.coursesu.com/p/fromage-de-brebis-pasteurise-pour-salade-brebiac-27mg-cubes-de-150g/2417685.html"
+    ],
     "sourcePhoto": "26f324e3-34bd-48e4-983e-fd226e92e830.jpg"
   },
   {
@@ -2562,19 +2610,22 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "125 g",
     "ean": "3760059040842",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "Mozzarella (gepasteuriseerde koemelk, zout, zuurteregelaar (citroenzuur), microbieel stremsel), pekel (water, zout, zuurteregelaar (citroenzuur)).",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Nog te controleren",
     "image": "./images/mozzarella.webp?v=425cf8172651",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {},
-    "sources": [],
-    "sourcePhoto": "e89e50ce-e8bf-442c-b900-bdfb3d838ae8.jpg"
+    "sources": [
+      "https://www.ubereats.com/fr/product/b/232c7cb9-643a-529a-861b-3059cf3591a7"
+    ],
+    "sourcePhoto": "e89e50ce-e8bf-442c-b900-bdfb3d838ae8.jpg",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Productinformatie van Eden Gourmet Billes de mozzarella 125 g."
   },
   {
     "id": 54,
@@ -2583,12 +2634,11 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "",
     "ean": "3760059040859",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Nog te controleren",
     "image": "./images/mozzarella-mini.webp?v=8f0d1cd03a80",
     "imageEdited": true,
@@ -2836,10 +2886,9 @@ window.KPI_PRODUCTS = [
     "category": "Pasta",
     "variant": "250 g",
     "ean": "8017856033238",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/ravioli-tomaat.webp?v=e827809ad881",
     "imageEdited": true,
@@ -2857,10 +2906,9 @@ window.KPI_PRODUCTS = [
     "category": "Pasta",
     "variant": "250 g",
     "ean": "8017856033221",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/ravioli-spinazie.webp?v=7d9e3c4f3e59",
     "imageEdited": true,
@@ -2878,10 +2926,9 @@ window.KPI_PRODUCTS = [
     "category": "Pasta",
     "variant": "250 g",
     "ean": "8017856034709",
-    "ingredients": "Nog te controleren op de verpakking.",
+    "ingredients": "",
     "allergens": [],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/ravioli-truffel.webp?v=948fb3cbc0a5",
     "imageEdited": true,
