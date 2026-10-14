@@ -471,10 +471,10 @@ window.KPI_PRODUCTS = [
     ],
     "allergensConfirmedAbsent": false,
     "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
-    "image": "./images/eden-hummus-carmel.jpg",
-    "imageEdited": false,
+    "image": "./images/eden-hummus-carmel.png",
+    "imageEdited": true,
     "imageSource": {
-      "type": "Originele foto van de gesloten verpakking",
+      "type": "Catalogusmock-up in Eden-stijl; originele bronfoto behouden",
       "photo": "codex-clipboard-2d8220e3-7e14-4ceb-93bd-e84053310bf3.jpg"
     },
     "productInfo": {}
@@ -832,10 +832,10 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "allergensConfirmedAbsent": true,
     "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
-    "image": "./images/eden-geroosterde-paprikarepen.jpg",
-    "imageEdited": false,
+    "image": "./images/eden-geroosterde-paprikarepen.png",
+    "imageEdited": true,
     "imageSource": {
-      "type": "Originele foto van de gesloten verpakking",
+      "type": "Catalogusmock-up in Eden-stijl; originele bronfoto behouden",
       "photo": "codex-clipboard-d23ab602-11de-4a8f-a367-c5bd25f2c9b3.jpg"
     },
     "productInfo": {}
@@ -854,10 +854,10 @@ window.KPI_PRODUCTS = [
     ],
     "allergensConfirmedAbsent": false,
     "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
-    "image": "./images/eden-turkse-salade.jpg",
-    "imageEdited": false,
+    "image": "./images/eden-turkse-salade.png",
+    "imageEdited": true,
     "imageSource": {
-      "type": "Originele foto van de gesloten verpakking",
+      "type": "Catalogusmock-up in Eden-stijl; originele bronfoto behouden",
       "photo": "codex-clipboard-101f3dc7-8956-47a6-a5b9-cbd60a3c5336.jpg"
     },
     "productInfo": {}
