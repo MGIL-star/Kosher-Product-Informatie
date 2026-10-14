@@ -372,9 +372,12 @@ window.KPI_PRODUCTS = [
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ean": "3760059041450",
+    "ingredients": "Kikkererwten (59%), water, sesampasta (10%), maïszetmeel, sojaolie, knoflook, zout, suiker, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-100.png",
@@ -389,7 +392,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 45,
@@ -397,9 +402,12 @@ window.KPI_PRODUCTS = [
     "brand": "Eden Gourmet",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ean": "3760059040743",
+    "ingredients": "Kikkererwten (61%), water, sesampasta (9%), sojaolie, maïszetmeel, knoflook, zout, zuurteregelaar citroenzuur (E330), suiker, conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-130.png",
@@ -414,7 +422,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 46,
@@ -423,8 +433,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "3760059040026",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (60%), water, sesampasta (10%), sojaolie, maïszetmeel, knoflook, zout, zuurteregelaar citroenzuur (E330), suiker, conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-136.png",
@@ -439,6 +452,31 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
+  },
+  {
+    "id": 66,
+    "name": "Hummus Carmel",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040194",
+    "ingredients": "Kikkererwten (50%), water, sesampasta (9%), maïszetmeel, chilipoeder (3%), sojaolie, knoflook, zout, zuurteregelaar citroenzuur (E330), suiker, komijn, conserveermiddel E202, stabilisator E412.",
+    "ingredientsComplete": true,
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "image": "./images/eden-hummus-carmel.jpg",
+    "imageEdited": false,
+    "imageSource": {
+      "type": "Originele foto van de gesloten verpakking",
+      "photo": "codex-clipboard-2d8220e3-7e14-4ceb-93bd-e84053310bf3.jpg"
+    },
     "productInfo": {}
   },
   {
@@ -448,8 +486,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "500 g",
     "ean": "3760059040613",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (57%), water, sesampasta (10%), sojaolie, maïszetmeel, knoflook, za’atar (hysop) (1,6%), zout, suiker, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-151.png",
@@ -464,7 +505,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 48,
@@ -473,8 +516,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "500 g",
     "ean": "3760059040637",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (57%), water, sesampasta (10%), sojaolie, maïszetmeel, knoflook, za’atar (1,8%), zout, suiker, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-153.png",
@@ -489,7 +535,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 49,
@@ -498,8 +546,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "400 g",
     "ean": "0746132001545",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (49%), water, sesampasta (8%), chilipoeder (3,5%), maïszetmeel, sojaolie, knoflook, zout, zuurteregelaar citroenzuur (E330), suiker, komijn, conserveermiddel E202, stabilisator E412.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-154.png",
@@ -514,7 +565,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 50,
@@ -523,8 +576,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "400 g",
     "ean": "0746132001576",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (59%), water, sesampasta (10%), maïszetmeel, sojaolie, knoflook, zout, suiker, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-155.png",
@@ -539,7 +595,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 51,
@@ -548,8 +606,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "400 g",
     "ean": "0746132001552",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (59%), water, sesampasta (10%), maïszetmeel, sojaolie, pijnboompitten (2,5%), knoflook, zout, suiker, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "allergens": [
+      "Sesam",
+      "Soja"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-156.png",
@@ -564,7 +625,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "ingredientsComplete": true
   },
   {
     "id": 33,
@@ -573,8 +636,10 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "3760059041443",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Sesampasta (57,9%), water, zout, knoflook, zuurteregelaar citroenzuur, conserveermiddelen E202 en E211.",
+    "allergens": [
+      "Sesam"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-102.png",
@@ -589,7 +654,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van selderij, pinda en mosterd.",
+    "ingredientsComplete": true
   },
   {
     "id": 34,
@@ -621,9 +688,9 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "250 g",
     "ean": "7290002358176",
-    "ingredients": "Aubergine (49%), water, SOJAolie, knoflook, maïszetmeel, zout, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
+    "ingredients": "Aubergine (49%), water, sojaolie, knoflook, maïszetmeel, zout, zuurteregelaar citroenzuur (E330), conserveermiddel E202.",
     "allergens": [
-      "SOJA"
+      "Soja"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef (Parve)",
@@ -643,9 +710,9 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "250 g",
     "ean": "7290002358398",
-    "ingredients": "Aubergine (40%), rode paprika, water, SOJAolie, tomaat, zout, knoflook, stabilisator E412, zuurteregelaar citroenzuur (E330), conserveermiddel E202, chilipoeder (0,1%), maïszetmeel, komijn, zoetstof E954.",
+    "ingredients": "Aubergine (40%), rode paprika, water, sojaolie, tomaat, zout, knoflook, stabilisator E412, zuurteregelaar citroenzuur (E330), conserveermiddel E202, chilipoeder (0,1%), maïszetmeel, komijn, zoetstof E954.",
     "allergens": [
-      "SOJA"
+      "Soja"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
@@ -665,10 +732,10 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "250 g",
     "ean": "7290002358619",
-    "ingredients": "Aubergine (63%), ui (28%), water, suiker, zout, zwarte peper, SOJAolie (0%), maïszetmeel (0%), EIPOEDER (0%), azijn, conserveermiddel E202, stabilisator E412.",
+    "ingredients": "Aubergine (63%), ui (28%), water, suiker, zout, zwarte peper, sojaolie (0%), maïszetmeel (0%), eipoeder (0%), azijn, conserveermiddel E202, stabilisator E412.",
     "allergens": [
-      "SOJA",
-      "EI"
+      "Soja",
+      "Ei"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Beit Yosef (Parve)",
@@ -689,9 +756,9 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "3760059041436",
-    "ingredients": "Nog te controleren",
+    "ingredients": "Rode kool (61,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (37,2%), suiker, zout, azijnzuur, witte peper, conserveermiddel E202.",
     "allergens": [],
-    "allergensConfirmedAbsent": false,
+    "allergensConfirmedAbsent": true,
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-104.png",
     "imageEdited": true,
@@ -705,7 +772,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van selderij, gluten en sesam.",
+    "ingredientsComplete": true
   },
   {
     "id": 39,
@@ -714,9 +783,9 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "250 g",
     "ean": "7290002358275",
-    "ingredients": "Witte kool (38,8%), geraspte wortel (17,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (42,4%), zout, suiker, azijnzuur, witte peper, MOSTERDZAAD, E202.",
+    "ingredients": "Witte kool (38,8%), geraspte wortel (17,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (42,4%), zout, suiker, azijnzuur, witte peper, mosterdzaad, E202.",
     "allergens": [
-      "MOSTERD"
+      "Mosterd"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "K (volgens etiket)",
@@ -736,9 +805,9 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "250 g",
     "ean": "7290002358589",
-    "ingredients": "Wortel (55%), water, rode paprika, SOJAolie, tomaat, zout, knoflook, azijn, komijn, karwijzaad, conserveermiddel E202, chilipoeder (0,1%), stabilisator E412, zuurteregelaar citroenzuur (E330), maïszetmeel, zoetstof E954.",
+    "ingredients": "Wortel (55%), water, rode paprika, sojaolie, tomaat, zout, knoflook, azijn, komijn, karwijzaad, conserveermiddel E202, chilipoeder (0,1%), stabilisator E412, zuurteregelaar citroenzuur (E330), maïszetmeel, zoetstof E954.",
     "allergens": [
-      "SOJA"
+      "Soja"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
@@ -750,6 +819,48 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "Vergeleken met 432decc0-1b8e-475c-84ef-e360428c53dd.jpg; EAN-13-controlecijfer geldig.",
     "kosherSource": "Keurmerk van de eigen verpakking op 432decc0-1b8e-475c-84ef-e360428c53dd.jpg.",
     "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis."
+  },
+  {
+    "id": 67,
+    "name": "Geroosterde Paprikarepen",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059041764",
+    "ingredients": "Gegrilde rode paprika (86,5%), zonnebloemolie (4,7%), citroensap, peterselie, zout, knoflook, conserveermiddelen E202 en E211.",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
+    "image": "./images/eden-geroosterde-paprikarepen.jpg",
+    "imageEdited": false,
+    "imageSource": {
+      "type": "Originele foto van de gesloten verpakking",
+      "photo": "codex-clipboard-d23ab602-11de-4a8f-a367-c5bd25f2c9b3.jpg"
+    },
+    "productInfo": {}
+  },
+  {
+    "id": 68,
+    "name": "Turkse Salade",
+    "brand": "Eden Gourmet",
+    "category": "Salades & dips",
+    "variant": "200 g",
+    "ean": "3760059040217",
+    "ingredients": "Rode paprika (30%), ui (24%), tomaat, ketchup, water, sojaolie, peper (2,6%), suiker, zout, knoflook, peterselie, zuurteregelaar citroenzuur (E330), conserveermiddel E202, stabilisator E412, zoetstof E954.",
+    "ingredientsComplete": true,
+    "allergens": [
+      "Soja"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "image": "./images/eden-turkse-salade.jpg",
+    "imageEdited": false,
+    "imageSource": {
+      "type": "Originele foto van de gesloten verpakking",
+      "photo": "codex-clipboard-101f3dc7-8956-47a6-a5b9-cbd60a3c5336.jpg"
+    },
+    "productInfo": {}
   },
   {
     "id": 61,
@@ -784,8 +895,11 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "3760059040958",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Geroosterde rode paprika (50%), couscous (11%) (tarwegriesmeel), granaatappelsap (8%), walnoten (7%), koolzaadolie (7%), suiker, citroensap, verdikkingsmiddel E415, knoflook, hete rode peper, zout, zuurteregelaar citroenzuur (E330), komijn, peper, conserveermiddel E202.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Walnoot"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-119.png",
@@ -800,7 +914,9 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {}
+    "productInfo": {},
+    "allergenNote": "Kan sporen bevatten van pinda.",
+    "ingredientsComplete": true
   },
   {
     "id": 43,
@@ -834,8 +950,11 @@ window.KPI_PRODUCTS = [
     "category": "Vis",
     "variant": "165 g",
     "ean": "3760227151110",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Koolzaadolie (59%), gerookte kabeljauwkuit (25%), water, paneermeel (tarwebloem, water, zout, gist), zout, geconcentreerd citroensap, conserveermiddel E211, bietenpoeder.",
+    "allergens": [
+      "Vis",
+      "Tarwe (gluten)"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Chatam Sofer Bnei Brak",
     "image": "./images/kyam-1810-165g.png",
@@ -849,7 +968,8 @@ window.KPI_PRODUCTS = [
       "scale": 0.6,
       "sourceWidth": 1179
     },
-    "productInfo": {}
+    "productInfo": {},
+    "ingredientsComplete": true
   },
   {
     "id": 41,
