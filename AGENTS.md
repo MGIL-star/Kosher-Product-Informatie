@@ -1,13 +1,13 @@
 # Productcatalogus: vaste gebruikersafspraken
 
 - Meter 17 volgt van links naar rechts de volgorde van de door de gebruiker gestuurde producten, beginnend bij de wc-blokjes. Gebruik dezelfde productvolgorde in de catalogus en het QR-productoverzicht; wijzig bestaande product-ID's en QR-adressen niet.
-- De QR-productpagina's hebben onderling een uniforme opmaak en staan los van de catalogus. De productgegevens blijven gelijk in beide weergaven.
+- De QR-productpagina's hebben onderling een uniforme opmaak en staan los van de catalogus. Houd voor elk product de afbeelding, ingrediënten, allergenen, barcode en overige productgegevens gelijk in de catalogus en op de productpagina achter de QR-code; werk beide weergaven bij wanneer productinformatie of foto's wijzigen.
 - De gebruiker heeft op 11 oktober 2026 expliciet toestemming gegeven om alle voorbereide wijzigingen te publiceren, inclusief de daaropvolgende correctie van de rode reflecties op de patchouli-vanillepot.
 - Behoud voorlopig bestaande producten zonder nieuwe foto. Verwijder die pas wanneer de gebruiker aangeeft dat alle foto's zijn gestuurd.
 
 - Neem productgegevens nauwkeurig over van de juiste fysieke verpakking. Koppel voor- en achterkant op productvariant, gewicht en barcode.
 - Voeg geen zelfbedachte opmerkingen toe over ontbrekende sporenwaarschuwingen of onvolledige ingrediëntenlijsten.
-- Gebruik dezelfde gegevens in de catalogus en op de productpagina’s achter de QR-codes.
+- Gebruik dezelfde gegevens en productafbeeldingen in de catalogus en op de productpagina’s achter de QR-codes.
 - Schrijf hechsjers volgens de nieuwe gebruikersafspraak met één spatie tussen naam, bekende plaats en status, zonder scheidingsstreepjes, bijvoorbeeld `Badatz Chatam Sofer Bnei Brak (Parve)`. Voeg geen onbekende plaats of status toe. Gebruik dit formaat in catalogus en QR-productpagina’s.
 - Toon meerdere hechsjers elk op een eigen regel, van de langste naar de kortste tekstregel, in zowel catalogus als QR-productpagina’s.
 - Scheid verschillende allergenen met komma’s, bijvoorbeeld `Gerst (gluten), Melk, Soja`. Elk allergeen in de aparte opsomming krijgt een beginhoofdletter, ook na een komma. Houd een graan en de bijbehorende glutenaanduiding samen; voeg geen niet-aangeleverde allergenen toe.
