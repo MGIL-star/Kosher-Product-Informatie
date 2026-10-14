@@ -998,6 +998,196 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 68,
+    "name": "Mimolette in Plakken",
+    "brand": "VEBO",
+    "category": "Kaas",
+    "variant": "160 g",
+    "ean": "8711528159010",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Opperrabbinaat Nederland",
+    "image": "./images/vebo-mimolette.webp?v=806075918e5a",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [
+      "https://www.koshercheese.nl/"
+    ],
+    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "f72e2ebc-caaf-479b-8a10-5b21faec43b4.jpg",
+        "7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg"
+      ]
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
+  },
+  {
+    "id": 69,
+    "name": "Havarti in Plakken",
+    "brand": "VEBO",
+    "category": "Kaas",
+    "variant": "160 g",
+    "ean": "8711528505350",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Opperrabbinaat Nederland",
+    "image": "./images/vebo-havarti.webp?v=b715f56f3745",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [
+      "https://www.koshercheese.nl/"
+    ],
+    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "e17cba3d-efb6-465a-9f4a-1d3c26700b3a.jpg",
+        "6665229e-433d-471f-a064-70f2b9a36349.jpg"
+      ]
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
+  },
+  {
+    "id": 70,
+    "name": "Light Kaas in Plakken",
+    "brand": "VEBO",
+    "category": "Kaas",
+    "variant": "160 g",
+    "ean": "8711528599717",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Opperrabbinaat Nederland",
+    "image": "./images/vebo-light.webp?v=111fcaf5246b",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [
+      "https://www.koshercheese.nl/"
+    ],
+    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "acb5a930-4b46-4798-8fb3-dda89dbcf496.jpg",
+        "cbc448b7-f34c-44f0-a8f9-8c7eeb38dcb9.jpg"
+      ]
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
+  },
+  {
+    "id": 71,
+    "name": "Edammer Kaas in Plakken",
+    "brand": "VEBO",
+    "category": "Kaas",
+    "variant": "160 g",
+    "ean": "8711528199139",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Opperrabbinaat Nederland",
+    "image": "./images/vebo-edam.webp?v=01bfbf61cb74",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [
+      "https://www.koshercheese.nl/"
+    ],
+    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "3f30995c-f10b-439c-9197-ee99ec44fc6a.jpg",
+        "dd529237-432f-41c7-beb0-d2f037151b60.jpg"
+      ]
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
+  },
+  {
+    "id": 72,
+    "name": "Goudse Kaas in Plakken",
+    "brand": "VEBO",
+    "category": "Kaas",
+    "variant": "160 g",
+    "ean": "8711528299112",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Opperrabbinaat Nederland",
+    "image": "./images/vebo-gouda.webp?v=c59f55d4234a",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [
+      "https://www.koshercheese.nl/"
+    ],
+    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "4bdd2ac1-6867-4995-a031-b8f4bca005d7.jpg",
+        "fd7170d4-78f8-4746-9181-19d5e282099c.jpg"
+      ]
+    },
+    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
+    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
+  },
+  {
     "id": 16,
     "name": "Geraspte Goudse Kaas",
     "brand": "Shefa",
@@ -1367,196 +1557,6 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
-    "id": 68,
-    "name": "Mimolette in Plakken",
-    "brand": "VEBO",
-    "category": "Kaas",
-    "variant": "160 g",
-    "ean": "8711528159010",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Opperrabbinaat Nederland",
-    "image": "./images/vebo-mimolette.webp?v=806075918e5a",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [
-      "https://www.koshercheese.nl/"
-    ],
-    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "f72e2ebc-caaf-479b-8a10-5b21faec43b4.jpg",
-        "7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg"
-      ]
-    },
-    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
-    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
-  },
-  {
-    "id": 69,
-    "name": "Havarti in Plakken",
-    "brand": "VEBO",
-    "category": "Kaas",
-    "variant": "160 g",
-    "ean": "8711528505350",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Opperrabbinaat Nederland",
-    "image": "./images/vebo-havarti.webp?v=b715f56f3745",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [
-      "https://www.koshercheese.nl/"
-    ],
-    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "e17cba3d-efb6-465a-9f4a-1d3c26700b3a.jpg",
-        "6665229e-433d-471f-a064-70f2b9a36349.jpg"
-      ]
-    },
-    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
-    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
-  },
-  {
-    "id": 70,
-    "name": "Light Kaas in Plakken",
-    "brand": "VEBO",
-    "category": "Kaas",
-    "variant": "160 g",
-    "ean": "8711528599717",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Opperrabbinaat Nederland",
-    "image": "./images/vebo-light.webp?v=111fcaf5246b",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [
-      "https://www.koshercheese.nl/"
-    ],
-    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "acb5a930-4b46-4798-8fb3-dda89dbcf496.jpg",
-        "cbc448b7-f34c-44f0-a8f9-8c7eeb38dcb9.jpg"
-      ]
-    },
-    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
-    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
-  },
-  {
-    "id": 71,
-    "name": "Edammer Kaas in Plakken",
-    "brand": "VEBO",
-    "category": "Kaas",
-    "variant": "160 g",
-    "ean": "8711528199139",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Opperrabbinaat Nederland",
-    "image": "./images/vebo-edam.webp?v=01bfbf61cb74",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [
-      "https://www.koshercheese.nl/"
-    ],
-    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "3f30995c-f10b-439c-9197-ee99ec44fc6a.jpg",
-        "dd529237-432f-41c7-beb0-d2f037151b60.jpg"
-      ]
-    },
-    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
-    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
-  },
-  {
-    "id": 72,
-    "name": "Goudse Kaas in Plakken",
-    "brand": "VEBO",
-    "category": "Kaas",
-    "variant": "160 g",
-    "ean": "8711528299112",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Opperrabbinaat Nederland",
-    "image": "./images/vebo-gouda.webp?v=c59f55d4234a",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [
-      "https://www.koshercheese.nl/"
-    ],
-    "sourcePhoto": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/8b92e57a-3a2b-4976-b0f5-49314a32752b.jpg",
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "4bdd2ac1-6867-4995-a031-b8f4bca005d7.jpg",
-        "fd7170d4-78f8-4746-9181-19d5e282099c.jpg"
-      ]
-    },
-    "quantitySource": "Door gebruiker bevestigd: alle VEBO/Shoshana-plakken 160 g, 11 oktober 2026.",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "kosherSource": "Oranje zegel op foto 7f2e9591-2057-4f0b-8943-af26cf3e46cc.jpg; gebruiker wijst dit aan als hechsjer voor de VEBO/Shoshana-plakken.",
-    "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
-  },
-  {
     "category": "Kaas",
     "id": 79,
     "name": "Edammer Kaas aan Stuk",
@@ -1817,27 +1817,6 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
-    "id": 55,
-    "name": "Geraspte Grana Padano",
-    "brand": "Agriform",
-    "category": "Kaas",
-    "variant": "100 g",
-    "ean": "8003518100219",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Y. Schlesinger Genève",
-    "image": "./images/grana-geraspt.webp?v=c6d1a185b1e3",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {},
-    "sources": [],
-    "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
-  },
-  {
     "id": 56,
     "name": "Grana Padano",
     "brand": "Agriform",
@@ -1871,6 +1850,71 @@ window.KPI_PRODUCTS = [
       "directory": "tmp/kaas-bron-20261011"
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
+  },
+  {
+    "id": 55,
+    "name": "Geraspte Grana Padano",
+    "brand": "Agriform",
+    "category": "Kaas",
+    "variant": "100 g",
+    "ean": "8003518100219",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Y. Schlesinger Genève",
+    "image": "./images/grana-geraspt.webp?v=c6d1a185b1e3",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {},
+    "sources": [],
+    "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Briepunt",
+    "brand": "Brie des Ducs",
+    "category": "Kaas",
+    "variant": "175 g",
+    "ean": "3176580025478",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Y. Schlesinger Genève",
+    "image": "./images/brie-ducs.webp?v=d3080cf052e1",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {},
+    "sources": [],
+    "sourcePhoto": "224_Pointe-de-Brie-Brie-des-Ducs-300x209.png"
+  },
+  {
+    "id": 34,
+    "name": "Brie",
+    "brand": "Le Maubert",
+    "category": "Kaas",
+    "variant": "",
+    "ean": "3250550015529",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Nog te controleren",
+    "image": "./images/le-maubert.webp?v=aea4492c818d",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {},
+    "sources": [
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+    ],
+    "sourcePhoto": "221_Le-Maubert-300x228.png"
   },
   {
     "id": 29,
@@ -1909,6 +1953,86 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke etiketten: 6c52a293-7016-4ad6-9546-19dca6fd415d.jpg, ed95a001-d798-4696-81e9-8e7274a55dd4.jpg",
     "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking; controlecijfer geldig.",
     "kosherSource": "Volgens de aangeleverde fysieke verpakking."
+  },
+  {
+    "id": 28,
+    "name": "Camembert",
+    "brand": "Saintois",
+    "category": "Kaas",
+    "variant": "235 g",
+    "ean": "3250552210229",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Rav Schlesinger Straatsburg",
+    "image": "./images/camembert-saintois.webp?v=6f94d5c97e75",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {},
+    "sources": [
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+    ],
+    "sourcePhoto": "211_Camembert-Saintois-300x256.png"
+  },
+  {
+    "id": 32,
+    "name": "Camembert",
+    "brand": "Grand Fermage",
+    "category": "Kaas",
+    "variant": "240 g",
+    "ean": "3523230053655",
+    "ingredients": "Nog te controleren op de verpakking.",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
+    "kosher": "Nog te controleren",
+    "image": "./images/camembert-grand.webp?v=b9f06e29cd12",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {},
+    "sources": [
+      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
+    ],
+    "sourcePhoto": "218_Camembert-Grand-Fermage-300x305.png"
+  },
+  {
+    "id": 33,
+    "name": "Camembert in Porties",
+    "brand": "Grand Fermage",
+    "category": "Kaas",
+    "variant": "240 g",
+    "ean": "3523230054058",
+    "ingredients": "Gepasteuriseerde koemelk (MELK).",
+    "allergens": [
+      "MELK"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Triangle K",
+    "image": "./images/camembert-porties.webp?v=32856d8f840b",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [],
+    "sourcePhoto": "219-CAMB.-PORTION-X-8-Grd-Fermage--300x257.png",
+    "ingredientsComplete": false,
+    "kosherLines": [
+      "Triangle K",
+      "Chalav Yisrael"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "5442b227-8c76-4d77-81c4-6057fd695575.jpg"
+      ],
+      "directory": "tmp/melkkost-bron-20261010"
+    },
+    "kosherSource": "Volgens de aangeleverde fysieke verpakking.",
+    "ingredientsSource": "Beschikbare verpakkingsvermelding overgenomen op uitdrukkelijk verzoek van de gebruiker."
   },
   {
     "id": 30,
@@ -2040,86 +2164,6 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 28,
-    "name": "Camembert",
-    "brand": "Saintois",
-    "category": "Kaas",
-    "variant": "235 g",
-    "ean": "3250552210229",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Schlesinger Straatsburg",
-    "image": "./images/camembert-saintois.webp?v=6f94d5c97e75",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {},
-    "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
-    ],
-    "sourcePhoto": "211_Camembert-Saintois-300x256.png"
-  },
-  {
-    "id": 32,
-    "name": "Camembert",
-    "brand": "Grand Fermage",
-    "category": "Kaas",
-    "variant": "240 g",
-    "ean": "3523230053655",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Nog te controleren",
-    "image": "./images/camembert-grand.webp?v=b9f06e29cd12",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {},
-    "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
-    ],
-    "sourcePhoto": "218_Camembert-Grand-Fermage-300x305.png"
-  },
-  {
-    "id": 33,
-    "name": "Camembert in Porties",
-    "brand": "Grand Fermage",
-    "category": "Kaas",
-    "variant": "240 g",
-    "ean": "3523230054058",
-    "ingredients": "Gepasteuriseerde koemelk (MELK).",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "kosher": "Triangle K",
-    "image": "./images/camembert-porties.webp?v=32856d8f840b",
-    "imageEdited": true,
-    "detailsPending": false,
-    "productInfo": {},
-    "sources": [],
-    "sourcePhoto": "219-CAMB.-PORTION-X-8-Grd-Fermage--300x257.png",
-    "ingredientsComplete": false,
-    "kosherLines": [
-      "Triangle K",
-      "Chalav Yisrael"
-    ],
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "5442b227-8c76-4d77-81c4-6057fd695575.jpg"
-      ],
-      "directory": "tmp/melkkost-bron-20261010"
-    },
-    "kosherSource": "Volgens de aangeleverde fysieke verpakking.",
-    "ingredientsSource": "Beschikbare verpakkingsvermelding overgenomen op uitdrukkelijk verzoek van de gebruiker."
-  },
-  {
     "id": 31,
     "name": "Zachte Kaas",
     "brand": "Fromage des Ducs",
@@ -2141,50 +2185,6 @@ window.KPI_PRODUCTS = [
       "https://inter-agro.fr/produit/fromage-camb-des-ducs-220g"
     ],
     "sourcePhoto": "217_Fromage-des-Ducs-300x300.png"
-  },
-  {
-    "id": 37,
-    "name": "Briepunt",
-    "brand": "Brie des Ducs",
-    "category": "Kaas",
-    "variant": "175 g",
-    "ean": "3176580025478",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Rav Y. Schlesinger Genève",
-    "image": "./images/brie-ducs.webp?v=d3080cf052e1",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {},
-    "sources": [],
-    "sourcePhoto": "224_Pointe-de-Brie-Brie-des-Ducs-300x209.png"
-  },
-  {
-    "id": 34,
-    "name": "Brie",
-    "brand": "Le Maubert",
-    "category": "Kaas",
-    "variant": "",
-    "ean": "3250550015529",
-    "ingredients": "Nog te controleren op de verpakking.",
-    "allergens": [
-      "MELK"
-    ],
-    "allergensConfirmedAbsent": false,
-    "allergenNote": "De volledige allergeneninformatie en eventuele sporen moeten nog op het etiket worden gecontroleerd.",
-    "kosher": "Nog te controleren",
-    "image": "./images/le-maubert.webp?v=aea4492c818d",
-    "imageEdited": true,
-    "detailsPending": true,
-    "productInfo": {},
-    "sources": [
-      "https://inter-agro.fr/wp-content/uploads/2023/02/Catalog-Design-V3_compressed.pdf"
-    ],
-    "sourcePhoto": "221_Le-Maubert-300x228.png"
   },
   {
     "id": 46,

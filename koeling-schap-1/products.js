@@ -1646,6 +1646,141 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 69,
+    "name": "Gebraden Kalkoenfilet",
+    "englishName": "Poitrine de dinde rôtie au four",
+    "brand": "Eden Gourmet",
+    "category": "Vleeswaren",
+    "variant": "110 g",
+    "ean": "3760059041979",
+    "ingredients": "Kalkoen (85%), water, aardappelzetmeel, zout, stabilisatoren (carrageen (E407), kaliumsorbaat (E202), kaliumchloride (E508)), suiker, griesmeel, uienpoeder, stabilisatoren (natriumdifosfaat (E450), natriumtrifosfaat (E451)), gemalen witte peper, extracten van specerijen en kruiden, conserveermiddel (natriumnitriet (E250)).",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "London Board for Shechita",
+    "kosherLines": ["London Board for Shechita"],
+    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
+    "image": "./images/eden-kalkoenfilet-geroosterd-110g.png",
+    "imageEdited": true,
+    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
+    "productInfo": {"Herkomst": "Kalkoen uit het Verenigd Koninkrijk."},
+    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059041979.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
+      "photos": ["codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "codex-clipboard-db9ed3b4-7aa4-4ef8-bcb7-52bdde444ecb.jpg", "codex-clipboard-0dc01a81-d46d-4689-8d20-195afddc99cc.jpg"]
+    },
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+  },
+  {
+    "id": 65,
+    "name": "Gerookte Kalkoenfilet Flinterdun",
+    "englishName": "Chiffonnade de poitrine de dinde",
+    "brand": "Eden Gourmet",
+    "category": "Vleeswaren",
+    "variant": "110 g",
+    "ean": "3760059041986",
+    "ingredients": "Kalkoen (85%), water, aardappelzetmeel, zout, stabilisator carrageen (E407), kaliumsorbaat (E202), kaliumchloride (E508), uiensap, stabilisatoren E450 en E451, gemalen witte peper, specerijenextracten, dextrose, kruiden, conserveermiddel natriumnitriet (E250).",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "kosher": "Keurmerk aanwezig; naam van de instantie nog te controleren",
+    "kosherSource": "Keurmerken op foto 543474e4-3915-48d6-92a8-9267e1636813.jpg; volledige namen niet betrouwbaar leesbaar.",
+    "image": "./images/eden-kalkoenfilet-110g.png",
+    "imageEdited": true,
+    "ingredientsSource": "Fysiek etiket 04a1314d-0b4e-497f-8cee-ed46d3eb76f7.jpg.",
+    "productInfo": {
+      "Herkomst": "Kalkoen uit het Verenigd Koninkrijk.",
+      "Verpakking": "Verpakt onder beschermende atmosfeer.",
+      "Bereiding": "Gerookt op beukenhout."
+    },
+    "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "2917860a-64cf-41cc-b1df-fae53992fb07.jpg",
+      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
+    }
+  },
+  {
+    "id": 70,
+    "name": "Kalkoenfilet met Fijne Peper",
+    "englishName": "Blanc de dinde au poivre fin",
+    "brand": "Eden Gourmet",
+    "category": "Vleeswaren",
+    "variant": "110 g",
+    "ean": "3760059041962",
+    "ingredients": "Kalkoen (85%), water, aardappelzetmeel, zout, stabilisatoren (carrageen (E407), kaliumsorbaat (E202), kaliumchloride (E508)), suiker, griesmeel, uienpoeder, stabilisatoren (natriumdifosfaat (E450), natriumtrifosfaat (E451)), gemalen witte peper, extracten van specerijen en kruiden, conserveermiddel (natriumnitriet (E250)).",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "London Board for Shechita",
+    "kosherLines": ["London Board for Shechita"],
+    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
+    "image": "./images/eden-kalkoenfilet-peper-110g.png",
+    "imageEdited": true,
+    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
+    "productInfo": {"Herkomst": "Kalkoen uit het Verenigd Koninkrijk."},
+    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059041962.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
+      "photos": ["codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "codex-clipboard-ba020ac6-8708-4297-bd58-ad56f8a90719.jpg", "codex-clipboard-a5dc54ba-e65c-4f05-af9a-1ddf13b3b1c1.jpg"]
+    },
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+  },
+  {
+    "id": 75,
+    "name": "New York's Pastrami van Rundvlees",
+    "brand": "Eden Gourmet",
+    "category": "Vleeswaren",
+    "variant": "110 g",
+    "ean": "3760059042013",
+    "ingredients": "Rundvlees (100 g rauw rundvlees per 100 g eindproduct), water, dextrose, zout, glucosestroop, natuurlijke aroma’s, specerijen (waaronder knoflook), antioxidant (natriumerythorbaat (E301)), conserveermiddel (natriumnitriet (E250)).",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "London Board for Shechita",
+    "kosherLines": ["London Board for Shechita"],
+    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
+    "image": "./images/eden-new-yorks-pastrami-110g.png",
+    "imageEdited": true,
+    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
+    "productInfo": {"Herkomst": "Rundvlees uit het Verenigd Koninkrijk."},
+    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059042013.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
+      "photos": ["codex-clipboard-2f469a8f-552f-47a9-bd47-7dc87d5243e1.jpg", "codex-clipboard-12f2ced1-415a-4c6e-ad8a-a9a4cb87d264.jpg", "codex-clipboard-75b19669-0a48-400b-a8c9-3c0aed8bcb33.jpg"]
+    },
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-2f469a8f-552f-47a9-bd47-7dc87d5243e1.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+  },
+  {
+    "id": 76,
+    "name": "Gezouten Rundvlees à l'Ancienne",
+    "brand": "Eden Gourmet",
+    "category": "Vleeswaren",
+    "variant": "110 g",
+    "ean": "3760059042006",
+    "ingredients": "Rundvlees (95%), zout, emulgator (carrageen (E407)), kaliumchloride (E508), stabilisatoren (natriumdi-, tri- en polyfosfaten (E450, E451, E452)), conserveermiddel (natriumnitriet (E250)).",
+    "ingredientsComplete": true,
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "London Board for Shechita",
+    "kosherLines": ["London Board for Shechita"],
+    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
+    "image": "./images/eden-boeuf-sale-ancienne-110g.png",
+    "imageEdited": true,
+    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
+    "productInfo": {"Herkomst": "Rundvlees uit het Verenigd Koninkrijk."},
+    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059042006.",
+    "supplementalLabelSource": {
+      "date": "2026-10-14",
+      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
+      "photos": ["codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "codex-clipboard-5c87e7ef-1920-47fe-99eb-7e3c54f7e0b8.jpg", "codex-clipboard-13d8116a-7faa-44e9-85f8-2b54439806eb.jpg"]
+    },
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+  },
+  {
     "brand": "Gulliver",
     "ingredientsComplete": true,
     "allergensConfirmedAbsent": false,
@@ -1683,184 +1818,6 @@ window.KPI_PRODUCTS = [
     "notice": "Omhulsel niet eetbaar; verwijderen voor consumptie."
   },
   {
-    "brand": "Gulliver",
-    "ingredientsComplete": true,
-    "allergensConfirmedAbsent": false,
-    "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
-    "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
-    "imageEdited": true,
-    "productInfo": {},
-    "id": 62,
-    "name": "Gerookte Cabanossi Kipworstjes",
-    "englishName": "Smoked Cabanosi Chicken Sausage",
-    "category": "Worstjes",
-    "variant": "190 g",
-    "ean": "3760059041900",
-    "ingredients": "Kippenvlees (70%, herkomst EU), rundvet (15%, herkomst EU), water, SOJA-eiwitten, aardappelzetmeel, zout, smaakversterker E621, emulgatoren E450, E451 en E452, dextrose, zuurteregelaar E575, knoflook, antioxidant E316, etherische oliën en oleoharsen van specerijen (SELDERIJ), aroma’s (rundvlees, vlees, rook), conserveermiddel E250.",
-    "allergens": [
-      "SOJA",
-      "SELDERIJ"
-    ],
-    "allergenNote": "Kan sporen bevatten van gluten, mosterd en ei.",
-    "image": "./images/gulliver-cabanossi-190g.png",
-    "ingredientsSource": "Fysiek etiket cf041231-5f09-4540-804f-43710adebe38.jpg.",
-    "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "30655099-7a3b-4dea-b81a-e418de8f10f2.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
-    },
-    "kosherLines": [
-      "Rav Eliezer Wolff",
-      "Av Beth Din Amsterdam",
-      "Glatt Kosher Lamehadrine",
-      "Shechita Lubavitch"
-    ]
-  },
-  {
-    "brand": "Gulliver",
-    "ingredientsComplete": true,
-    "allergensConfirmedAbsent": false,
-    "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
-    "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
-    "imageEdited": true,
-    "productInfo": {},
-    "id": 63,
-    "name": "Gerookte Bavarian Kipworstjes",
-    "englishName": "Smoked Bavarian Chicken Sausage",
-    "category": "Worstjes",
-    "variant": "190 g",
-    "ean": "3760059041917",
-    "ingredients": "Kippenvlees (70%, herkomst EU), rundvet (15%, herkomst EU), water, SOJA-eiwitten, aardappelzetmeel, zout, smaakversterker E621, emulgatoren E450, E451 en E452, dextrose, zuurteregelaar E575, knoflook, antioxidant E316, etherische oliën en oleoharsen van specerijen (SELDERIJ), aroma’s (rundvlees, vlees, rook), conserveermiddel E250.",
-    "allergens": [
-      "SOJA",
-      "SELDERIJ"
-    ],
-    "allergenNote": "Kan sporen bevatten van gluten, mosterd en ei.",
-    "image": "./images/gulliver-bavarian-190g.png",
-    "ingredientsSource": "Fysiek etiket de055885-67ea-4eaf-92aa-e425979fe269.jpg.",
-    "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "0b1a4ff9-3159-419b-ace1-4d51aaf761cc.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
-    },
-    "kosherLines": [
-      "Rav Eliezer Wolff",
-      "Av Beth Din Amsterdam",
-      "Glatt Kosher Lamehadrine",
-      "Shechita Lubavitch"
-    ]
-  },
-  {
-    "ingredients": "Rundvlees (herkomst EU), zout, suikers, specerijen, conserveermiddel E252.",
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "imageEdited": true,
-    "id": 57,
-    "name": "Droge Worst",
-    "brand": "Mets et Traditions",
-    "category": "Hele worst",
-    "variant": "250 g",
-    "ean": "3252880813011",
-    "kosher": "Grand Rabbinat de Strasbourg",
-    "image": "./images/mets-droge-runderworst-250g.png",
-    "productInfo": {},
-    "ingredientsComplete": true,
-    "ingredientsSource": "Fysiek etiket bc588742-74c2-47c2-9caa-aa957859e066.jpg.",
-    "barcodeSource": "Afgelezen op hetzelfde fysieke etiket; EAN-13-controlecijfer geldig.",
-    "kosherSource": "Bestaande vermelding uit de leverancierscatalogus behouden; gebruiker bevestigt dat deze foto’s de bestaande droge worst aanvullen.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "159f5de3-597f-41f3-93c5-fb11961c5527.jpg",
-      "edit": "Ingebouwde imagegen: nieuwe verpakking rechtgezet op witte achtergrond; door gebruiker gevraagd ter vervanging van de oude verpakking."
-    },
-    "notice": "De huid niet consumeren. Verpakt onder beschermende atmosfeer."
-  },
-  {
-    "id": 65,
-    "name": "Gerookte Kalkoenfilet Flinterdun",
-    "englishName": "Chiffonnade de poitrine de dinde",
-    "brand": "Eden Gourmet",
-    "category": "Vleeswaren",
-    "variant": "110 g",
-    "ean": "3760059041986",
-    "ingredients": "Kalkoen (85%), water, aardappelzetmeel, zout, stabilisator carrageen (E407), kaliumsorbaat (E202), kaliumchloride (E508), uiensap, stabilisatoren E450 en E451, gemalen witte peper, specerijenextracten, dextrose, kruiden, conserveermiddel natriumnitriet (E250).",
-    "ingredientsComplete": true,
-    "allergens": [],
-    "allergensConfirmedAbsent": true,
-    "kosher": "Keurmerk aanwezig; naam van de instantie nog te controleren",
-    "kosherSource": "Keurmerken op foto 543474e4-3915-48d6-92a8-9267e1636813.jpg; volledige namen niet betrouwbaar leesbaar.",
-    "image": "./images/eden-kalkoenfilet-110g.png",
-    "imageEdited": true,
-    "ingredientsSource": "Fysiek etiket 04a1314d-0b4e-497f-8cee-ed46d3eb76f7.jpg.",
-    "productInfo": {
-      "Herkomst": "Kalkoen uit het Verenigd Koninkrijk.",
-      "Verpakking": "Verpakt onder beschermende atmosfeer.",
-      "Bereiding": "Gerookt op beukenhout."
-    },
-    "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
-    "imageSource": {
-      "type": "Bewerkte fysieke verpakkingsfoto",
-      "photo": "2917860a-64cf-41cc-b1df-fae53992fb07.jpg",
-      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
-    }
-  },
-  {
-    "id": 69,
-    "name": "Gebraden Kalkoenfilet",
-    "englishName": "Poitrine de dinde rôtie au four",
-    "brand": "Eden Gourmet",
-    "category": "Vleeswaren",
-    "variant": "110 g",
-    "ean": "3760059041979",
-    "ingredients": "Kalkoen (85%), water, aardappelzetmeel, zout, stabilisatoren (carrageen (E407), kaliumsorbaat (E202), kaliumchloride (E508)), suiker, griesmeel, uienpoeder, stabilisatoren (natriumdifosfaat (E450), natriumtrifosfaat (E451)), gemalen witte peper, extracten van specerijen en kruiden, conserveermiddel (natriumnitriet (E250)).",
-    "ingredientsComplete": true,
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "London Board for Shechita",
-    "kosherLines": ["London Board for Shechita"],
-    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
-    "image": "./images/eden-kalkoenfilet-geroosterd-110g.png",
-    "imageEdited": true,
-    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
-    "productInfo": {"Herkomst": "Kalkoen uit het Verenigd Koninkrijk."},
-    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059041979.",
-    "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
-      "photos": ["codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "codex-clipboard-db9ed3b4-7aa4-4ef8-bcb7-52bdde444ecb.jpg", "codex-clipboard-0dc01a81-d46d-4689-8d20-195afddc99cc.jpg"]
-    },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
-  },
-  {
-    "id": 70,
-    "name": "Kalkoenfilet met Fijne Peper",
-    "englishName": "Blanc de dinde au poivre fin",
-    "brand": "Eden Gourmet",
-    "category": "Vleeswaren",
-    "variant": "110 g",
-    "ean": "3760059041962",
-    "ingredients": "Kalkoen (85%), water, aardappelzetmeel, zout, stabilisatoren (carrageen (E407), kaliumsorbaat (E202), kaliumchloride (E508)), suiker, griesmeel, uienpoeder, stabilisatoren (natriumdifosfaat (E450), natriumtrifosfaat (E451)), gemalen witte peper, extracten van specerijen en kruiden, conserveermiddel (natriumnitriet (E250)).",
-    "ingredientsComplete": true,
-    "allergens": [],
-    "allergensConfirmedAbsent": false,
-    "kosher": "London Board for Shechita",
-    "kosherLines": ["London Board for Shechita"],
-    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
-    "image": "./images/eden-kalkoenfilet-peper-110g.png",
-    "imageEdited": true,
-    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
-    "productInfo": {"Herkomst": "Kalkoen uit het Verenigd Koninkrijk."},
-    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059041962.",
-    "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
-      "photos": ["codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "codex-clipboard-ba020ac6-8708-4297-bd58-ad56f8a90719.jpg", "codex-clipboard-a5dc54ba-e65c-4f05-af9a-1ddf13b3b1c1.jpg"]
-    },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
-  },
-  {
     "id": 71,
     "name": "Salami Napoli",
     "brand": "Mamas Original",
@@ -1886,6 +1843,31 @@ window.KPI_PRODUCTS = [
       "photos": ["codex-clipboard-67f39d25-7d20-4e76-8800-ec942c59c794.jpg", "codex-clipboard-09675fc9-06ad-4ec4-8719-b4a5f55b2b78.jpg"]
     },
     "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-67f39d25-7d20-4e76-8800-ec942c59c794.jpg", "edit": "Gesloten verpakking op witte achtergrond."}
+  },
+  {
+    "ingredients": "Rundvlees (herkomst EU), zout, suikers, specerijen, conserveermiddel E252.",
+    "allergens": [],
+    "allergensConfirmedAbsent": true,
+    "imageEdited": true,
+    "id": 57,
+    "name": "Droge Worst",
+    "brand": "Mets et Traditions",
+    "category": "Hele worst",
+    "variant": "250 g",
+    "ean": "3252880813011",
+    "kosher": "Grand Rabbinat de Strasbourg",
+    "image": "./images/mets-droge-runderworst-250g.png",
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket bc588742-74c2-47c2-9caa-aa957859e066.jpg.",
+    "barcodeSource": "Afgelezen op hetzelfde fysieke etiket; EAN-13-controlecijfer geldig.",
+    "kosherSource": "Bestaande vermelding uit de leverancierscatalogus behouden; gebruiker bevestigt dat deze foto’s de bestaande droge worst aanvullen.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "159f5de3-597f-41f3-93c5-fb11961c5527.jpg",
+      "edit": "Ingebouwde imagegen: nieuwe verpakking rechtgezet op witte achtergrond; door gebruiker gevraagd ter vervanging van de oude verpakking."
+    },
+    "notice": "De huid niet consumeren. Verpakt onder beschermende atmosfeer."
   },
   {
     "id": 72,
@@ -1967,55 +1949,73 @@ window.KPI_PRODUCTS = [
     "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
   },
   {
-    "id": 75,
-    "name": "New York's Pastrami van Rundvlees",
-    "brand": "Eden Gourmet",
-    "category": "Vleeswaren",
-    "variant": "110 g",
-    "ean": "3760059042013",
-    "ingredients": "Rundvlees (100 g rauw rundvlees per 100 g eindproduct), water, dextrose, zout, glucosestroop, natuurlijke aroma’s, specerijen (waaronder knoflook), antioxidant (natriumerythorbaat (E301)), conserveermiddel (natriumnitriet (E250)).",
+    "brand": "Gulliver",
     "ingredientsComplete": true,
-    "allergens": [],
     "allergensConfirmedAbsent": false,
-    "kosher": "London Board for Shechita",
-    "kosherLines": ["London Board for Shechita"],
-    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
-    "image": "./images/eden-new-yorks-pastrami-110g.png",
+    "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
+    "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
     "imageEdited": true,
-    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
-    "productInfo": {"Herkomst": "Rundvlees uit het Verenigd Koninkrijk."},
-    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059042013.",
-    "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
-      "photos": ["codex-clipboard-2f469a8f-552f-47a9-bd47-7dc87d5243e1.jpg", "codex-clipboard-12f2ced1-415a-4c6e-ad8a-a9a4cb87d264.jpg", "codex-clipboard-75b19669-0a48-400b-a8c9-3c0aed8bcb33.jpg"]
+    "productInfo": {},
+    "id": 62,
+    "name": "Gerookte Cabanossi Kipworstjes",
+    "englishName": "Smoked Cabanosi Chicken Sausage",
+    "category": "Worstjes",
+    "variant": "190 g",
+    "ean": "3760059041900",
+    "ingredients": "Kippenvlees (70%, herkomst EU), rundvet (15%, herkomst EU), water, SOJA-eiwitten, aardappelzetmeel, zout, smaakversterker E621, emulgatoren E450, E451 en E452, dextrose, zuurteregelaar E575, knoflook, antioxidant E316, etherische oliën en oleoharsen van specerijen (SELDERIJ), aroma’s (rundvlees, vlees, rook), conserveermiddel E250.",
+    "allergens": [
+      "SOJA",
+      "SELDERIJ"
+    ],
+    "allergenNote": "Kan sporen bevatten van gluten, mosterd en ei.",
+    "image": "./images/gulliver-cabanossi-190g.png",
+    "ingredientsSource": "Fysiek etiket cf041231-5f09-4540-804f-43710adebe38.jpg.",
+    "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "30655099-7a3b-4dea-b81a-e418de8f10f2.jpg",
+      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-2f469a8f-552f-47a9-bd47-7dc87d5243e1.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "kosherLines": [
+      "Rav Eliezer Wolff",
+      "Av Beth Din Amsterdam",
+      "Glatt Kosher Lamehadrine",
+      "Shechita Lubavitch"
+    ]
   },
   {
-    "id": 76,
-    "name": "Gezouten Rundvlees à l'Ancienne",
-    "brand": "Eden Gourmet",
-    "category": "Vleeswaren",
-    "variant": "110 g",
-    "ean": "3760059042006",
-    "ingredients": "Rundvlees (95%), zout, emulgator (carrageen (E407)), kaliumchloride (E508), stabilisatoren (natriumdi-, tri- en polyfosfaten (E450, E451, E452)), conserveermiddel (natriumnitriet (E250)).",
+    "brand": "Gulliver",
     "ingredientsComplete": true,
-    "allergens": [],
     "allergensConfirmedAbsent": false,
-    "kosher": "London Board for Shechita",
-    "kosherLines": ["London Board for Shechita"],
-    "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
-    "image": "./images/eden-boeuf-sale-ancienne-110g.png",
+    "kosher": "Rav Eliezer Wolff Av Beth Din Amsterdam Glatt Kosher Lamehadrine Shechita Lubavitch",
+    "kosherSource": "Letterlijk vermeld op het fysieke achteretiket.",
     "imageEdited": true,
-    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
-    "productInfo": {"Herkomst": "Rundvlees uit het Verenigd Koninkrijk."},
-    "barcodeSource": "Afgelezen op fysieke verpakking: 3760059042006.",
-    "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
-      "photos": ["codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "codex-clipboard-5c87e7ef-1920-47fe-99eb-7e3c54f7e0b8.jpg", "codex-clipboard-13d8116a-7faa-44e9-85f8-2b54439806eb.jpg"]
+    "productInfo": {},
+    "id": 63,
+    "name": "Gerookte Bavarian Kipworstjes",
+    "englishName": "Smoked Bavarian Chicken Sausage",
+    "category": "Worstjes",
+    "variant": "190 g",
+    "ean": "3760059041917",
+    "ingredients": "Kippenvlees (70%, herkomst EU), rundvet (15%, herkomst EU), water, SOJA-eiwitten, aardappelzetmeel, zout, smaakversterker E621, emulgatoren E450, E451 en E452, dextrose, zuurteregelaar E575, knoflook, antioxidant E316, etherische oliën en oleoharsen van specerijen (SELDERIJ), aroma’s (rundvlees, vlees, rook), conserveermiddel E250.",
+    "allergens": [
+      "SOJA",
+      "SELDERIJ"
+    ],
+    "allergenNote": "Kan sporen bevatten van gluten, mosterd en ei.",
+    "image": "./images/gulliver-bavarian-190g.png",
+    "ingredientsSource": "Fysiek etiket de055885-67ea-4eaf-92aa-e425979fe269.jpg.",
+    "barcodeSource": "Afgelezen op fysiek etiket; EAN-13-controlecijfer geldig.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "0b1a4ff9-3159-419b-ace1-4d51aaf761cc.jpg",
+      "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "kosherLines": [
+      "Rav Eliezer Wolff",
+      "Av Beth Din Amsterdam",
+      "Glatt Kosher Lamehadrine",
+      "Shechita Lubavitch"
+    ]
   }
 ];
