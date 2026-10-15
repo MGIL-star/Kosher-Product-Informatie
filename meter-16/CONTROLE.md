@@ -1,6 +1,6 @@
 # DKW Meter 16 — broncontrole
 
-Controle: 1 oktober 2026. 65 aangeleverde foto’s, 32 afzonderlijke producten.
+Controle: 15 oktober 2026. 65 aangeleverde bronfoto’s, 35 afzonderlijke producten.
 
 32 producten hebben een online packshot. Merk en productvariant zijn visueel vergeleken met de aangeleverde foto’s. De gebruiker staat afwijkend gewicht en ouder verpakkingsontwerp toe. De winkel-/handfoto’s worden niet getoond. Productgegevens blijven gebaseerd op de aangeleverde etiketten.
 
@@ -42,16 +42,19 @@ Onvolledige ingrediëntenlijsten en onbekende allergenen blijven gemarkeerd. Hon
 | 30 | Lieber’s Classic Marinara Pasta Sauce 680 g | 043427225014 | https://benedikts.com/products/limps | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
 | 31 | Lieber’s Original Pizza Sauce 680 g | 043427225069 | https://koshercentral.com/Southern-Florida/category/515/sauce/7672/lieber-s-original-pizza-sauce-26-oz | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
 | 32 | Ice Li Fruitijsjes om in te vriezen 8 stuks | Onbekend | https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
+| 33 | Shneider’s Mr. Hipster Classic Tortillas 200 g | 194961002859 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
+| 34 | Shneider’s Mr. Hipster Spicy Jalapeño Tortillas 175 g | 194961003696 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
+| 35 | Shneider’s Mr. Hipster Round Tortillas 200 g | 194961003702 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
 
 ## Fotoretouche 2026-10-01
 
-Producten 1, 2, 3, 4, 6, 7 en 14 hebben een strakkere, rechte packshot op basis van de bestaande productfoto. Bewerking met de ingebouwde imagegen-tool; geen nieuwe productinformatie aan ontleend. Bronfoto bewaard in imageOriginal. Zie PHOTO-EDITS.md voor prompts. Alle 32 afbeeldingen visueel beoordeeld.
+Producten 1, 2, 3, 4, 6, 7 en 14 hebben een strakkere, rechte packshot op basis van de bestaande productfoto. Bewerking met de ingebouwde imagegen-tool; geen nieuwe productinformatie aan ontleend. Bronfoto bewaard in imageOriginal. Zie PHOTO-EDITS.md voor prompts. Alle 35 afbeeldingen visueel beoordeeld.
 
 Pretzels 10 en 11: gele originele zakken nog niet vervangen; passende online foto nog te vinden. De gevonden gele B-Kosher-foto bevat de verkeerde pretzelvorm en is afgekeurd.
 
 ## Fotostandaard gebruiker — vervolg 1 oktober 2026
 
-De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerking goedgekeurd. In totaal zijn nu 14 productfoto’s digitaal afgewerkt, inclusief Kettle BBQ, Cherry Pull-N-Peel, Teriyaki, Soy Sauce en Cholent Mix. De watermerken bij deze drie betreffende producten zijn verwijderd. De oorspronkelijke online bronnen zijn bewaard. Alle 32 kaarten gebruiken dezelfde gedeelde fotokaderhoogte (180 px desktop, 120 px mobiel) als de overige meters.
+De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerking goedgekeurd. In totaal zijn nu 14 productfoto’s digitaal afgewerkt, inclusief Kettle BBQ, Cherry Pull-N-Peel, Teriyaki, Soy Sauce en Cholent Mix. De watermerken bij deze drie betreffende producten zijn verwijderd. De oorspronkelijke online bronnen zijn bewaard. Alle 35 kaarten gebruiken dezelfde gedeelde fotokaderhoogte (180 px desktop, 120 px mobiel) als de overige meters.
 
 Nog niet opgelost: gele Braided Pretzels en verticale Ball Lollypops. Voor deze twee is toestemming gevraagd om de aangeleverde winkelbeelden als referentie voor een nieuwe strakke productafbeelding te gebruiken, omdat passende online afbeeldingen nog ontbreken.
 
