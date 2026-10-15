@@ -2508,6 +2508,34 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 74,
+    "brand": "Elite",
+    "name": "Biscuit Crunch",
+    "category": "Chocoladerepen",
+    "variant": "100 g",
+    "ean": "0815871012256",
+    "ingredients": "Melkchocolade (suiker, magere melkpoeder, cacaoboter, cacaomassa, melkvet, koolzaadlecithine, PGPR, aroma (vanilline)), tarwebiscuit (tarwebloem, suiker, maïszetmeel, plantaardige olie (palm), invertsuiker, tarwe (gluten), rijsmiddelen (ammoniumbicarbonaat, natriumbicarbonaat, dinatriumdifosfaat), zout, sojalecithine, aroma, conserveermiddel (natriummetabisulfiet)), plantaardige vetten (palm en palmpitolie), suiker, vloeibaar melkvet, koolzaadlecithine, zout, aroma’s, hazelnootpasta.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Melk",
+      "Hazelnoten",
+      "Soja"
+    ],
+    "mayContain": "Kan andere noten, ei en sesam bevatten.",
+    "kosher": "OU Dairy Chalav Yisrael",
+    "image": "images/elite-biscuit-crunch-square.jpg",
+    "sourcePhotos": [
+      "source-labels/20261015-biscuit-crunch-front.jpg",
+      "source-labels/20261015-biscuit-crunch-back-label-crop.png"
+    ],
+    "labelSources": [
+      "source-labels/20261015-biscuit-crunch-back-label-crop.png"
+    ],
+    "productInfo": {},
+    "searchName": "Elite Biscuit Crunch",
+    "reviewNotes": "De verpakking toont UPC-A 815871012256, dezelfde cijferreeks als product 72; voor de EAN-weergave is een voorloopnul toegevoegd. De achteretiketbron is een uitsnede van de aangeleverde foto."
+  },
+  {
     "id": 46,
     "brand": "WOW",
     "name": "Graanbolletjes met Melkchocolade",
