@@ -5,7 +5,7 @@
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const normalize = s => String(s ?? '').toLocaleLowerCase('nl').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',frozen:'Diepvries'};
-  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js':i===3?'assets/js/products-meter-4.js':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===15?'meter-16/products.js?v=20261015-hipster-nederlandse-omschrijving':`meter-${i+1}/products.js`}));
+  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js':i===3?'assets/js/products-meter-4.js':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===15?'meter-16/products.js?v=20261015-meter16-coconut-water':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js`});
   const sectionTitles = [
     'Water · Vruchtensappen', 'Wijn · Druivensap', 'Olie · Azijn · Dranken',
@@ -24,7 +24,7 @@
   const translatedSearch = new Map();
   let cart={};
   try {const saved=JSON.parse(localStorage.getItem('kosher-catalog-cart') || '{}');for(const [k,v] of Object.entries(saved))if(Number.isInteger(v)&&v>0)cart[k]=Math.min(v,999);}catch{}
-  const classify = (p,n) => n>17?'frozen':n===17?'home':n<=2?'drinks':n===6?'tea':[9,10,11,12].includes(n)?'treats':[13,14,16].includes(n)?'snacks':n===15?(p.category==='Brood & brioche'?'bread':'snacks'):'pantry';
+  const classify = (p,n) => n>17?'frozen':n===17?'home':n<=2||n===16&&p.category==='Dranken'?'drinks':n===6?'tea':[9,10,11,12].includes(n)?'treats':[13,14,16].includes(n)?'snacks':n===15?(p.category==='Brood & brioche'?'bread':'snacks'):'pantry';
   async function sharedScript(path){await new Promise((resolve,reject)=>{const script=document.createElement('script');script.src=path;script.onload=resolve;script.onerror=reject;document.head.append(script);});}
   function image(p,cls=''){return p.image?`<img class="${cls}" src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" decoding="async">`:'';}
   function save(){try{localStorage.setItem('kosher-catalog-cart',JSON.stringify(cart));}catch{}updateCount();}

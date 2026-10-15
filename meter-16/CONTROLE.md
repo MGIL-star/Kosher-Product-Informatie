@@ -1,8 +1,8 @@
 # DKW Meter 16 — broncontrole
 
-Controle: 15 oktober 2026. 65 aangeleverde bronfoto’s, 35 afzonderlijke producten.
+Controle: 15 oktober 2026. 36 afzonderlijke producten.
 
-32 producten hebben een online packshot. Merk en productvariant zijn visueel vergeleken met de aangeleverde foto’s. De gebruiker staat afwijkend gewicht en ouder verpakkingsontwerp toe. De winkel-/handfoto’s worden niet getoond. Productgegevens blijven gebaseerd op de aangeleverde etiketten.
+32 producten hebben een online packshot. De overige vier packshots zijn gebaseerd op de door de gebruiker aangeleverde productfoto’s. Merk en productvariant zijn visueel vergeleken met de aangeleverde foto’s. De gebruiker staat afwijkend gewicht en ouder verpakkingsontwerp toe. De winkel-/handfoto’s worden niet getoond. Productgegevens blijven gebaseerd op de aangeleverde etiketten.
 
 De packshots van Kettle Original, Kettle BBQ en Cotton Candy zijn door de gebruiker aangeleverd. De foto’s van Pull-N-Peel, Teriyaki en Soy Sauce bevatten het oorspronkelijke B-Kosher-watermerk. Popta toont een losse zak van 15 g in plaats van de family pack.
 
@@ -45,16 +45,17 @@ Onvolledige ingrediëntenlijsten en onbekende allergenen blijven gemarkeerd. Hon
 | 33 | Shneider’s Mr. Hipster Klassieke Tortillachips 200 g | 194961002859 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten, barcode en gewicht overgenomen van de aangeleverde fysieke verpakking. |
 | 34 | Shneider’s Mr. Hipster Pittige Jalapeño Tortillachips 175 g | 194961003696 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten, barcode en gewicht overgenomen van de aangeleverde fysieke verpakking. |
 | 35 | Shneider’s Mr. Hipster Ronde Tortillachips 200 g | 194961003702 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
+| 36 | Thai Coco Kokoswater 1 l | 8850227021140 | Door gebruiker aangeleverde verpakking en etiketfoto’s | Packshot vrijstaand gemaakt; originele bronfoto’s bewaard. Ingrediënten, barcode en OU (Parve) overgenomen van de fysieke verpakking. |
 
 ## Fotoretouche 2026-10-01
 
-Producten 1, 2, 3, 4, 6, 7 en 14 hebben een strakkere, rechte packshot op basis van de bestaande productfoto. Bewerking met de ingebouwde imagegen-tool; geen nieuwe productinformatie aan ontleend. Bronfoto bewaard in imageOriginal. Zie PHOTO-EDITS.md voor prompts. Alle 35 afbeeldingen visueel beoordeeld.
+Producten 1, 2, 3, 4, 6, 7 en 14 hebben een strakkere, rechte packshot op basis van de bestaande productfoto. De kokoswaterpackshot is vrijstaand gemaakt op basis van de echte verpakking; de bronfoto’s zijn bewaard. Bewerking met de ingebouwde imagegen-tool; geen nieuwe productinformatie aan ontleend. Zie PHOTO-EDITS.md voor prompts. Alle 36 afbeeldingen visueel beoordeeld.
 
 Pretzels 10 en 11: gele originele zakken nog niet vervangen; passende online foto nog te vinden. De gevonden gele B-Kosher-foto bevat de verkeerde pretzelvorm en is afgekeurd.
 
 ## Fotostandaard gebruiker — vervolg 1 oktober 2026
 
-De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerking goedgekeurd. In totaal zijn nu 14 productfoto’s digitaal afgewerkt, inclusief Kettle BBQ, Cherry Pull-N-Peel, Teriyaki, Soy Sauce en Cholent Mix. De watermerken bij deze drie betreffende producten zijn verwijderd. De oorspronkelijke online bronnen zijn bewaard. Alle 35 kaarten gebruiken dezelfde gedeelde fotokaderhoogte (180 px desktop, 120 px mobiel) als de overige meters.
+De gebruiker heeft Kettle Original, Sourdough en Cherry Nibs als gewenste afwerking goedgekeurd. In totaal zijn nu 15 productfoto’s digitaal afgewerkt, inclusief de kokoswaterpackshot, Kettle BBQ, Cherry Pull-N-Peel, Teriyaki, Soy Sauce en Cholent Mix. De watermerken bij deze drie betreffende producten zijn verwijderd. De oorspronkelijke online bronnen zijn bewaard. Alle 36 kaarten gebruiken dezelfde gedeelde fotokaderhoogte (180 px desktop, 120 px mobiel) als de overige meters.
 
 Nog niet opgelost: gele Braided Pretzels en verticale Ball Lollypops. Voor deze twee is toestemming gevraagd om de aangeleverde winkelbeelden als referentie voor een nieuwe strakke productafbeelding te gebruiken, omdat passende online afbeeldingen nog ontbreken.
 

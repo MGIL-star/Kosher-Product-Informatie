@@ -462,6 +462,39 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 36,
+    "brand": "Thai Coco",
+    "name": "Kokoswater",
+    "variant": "1 l",
+    "category": "Dranken",
+    "ean": "8850227021140",
+    "ingredients": "Kokoswater (100%).",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosher": "OU (Parve)",
+    "sources": [],
+    "image": "images/thai-coco-coconut-water.png",
+    "imageOriginal": "images/imageOriginal/thai-coco-front.jpg",
+    "imageRetouched": true,
+    "englishName": "100% Coconut Water",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-15",
+      "photos": [
+        "images/imageOriginal/thai-coco-back.jpg",
+        "images/imageOriginal/thai-coco-kosher-mark.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "OU (Parve)"
+    ],
+    "productInfo": {}
+  },
+  {
     "id": 33,
     "brand": "Shneider’s",
     "name": "Mr. Hipster Klassieke Tortillachips",
