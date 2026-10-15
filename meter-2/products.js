@@ -76,7 +76,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 11,5%",
     "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290018165010",
@@ -134,7 +134,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12,5%",
     "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000025001",
@@ -191,7 +191,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 11,5%",
     "ingredients": "Sauvignon Blanc & sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023823",
@@ -287,7 +287,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12%",
     "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023816",
@@ -345,7 +345,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12,5%",
     "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290012576614",
@@ -407,7 +407,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 11%",
     "ingredients": "Sulfieten, sorbinezuur.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023830",
@@ -465,7 +465,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 11,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752027516",
@@ -522,7 +522,7 @@ window.KPI_PRODUCTS = [
   {
     "brand": "Barkan",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "isWine": true,
     "year": null,
@@ -585,9 +585,9 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof, sulfieten.",
+    "ingredients": "Druiven, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290019220725",
@@ -664,7 +664,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752006115",
@@ -720,9 +720,9 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof, sulfieten.",
+    "ingredients": "Druiven, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752008164",
@@ -783,7 +783,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 11,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "7290000521015",
@@ -844,7 +844,7 @@ window.KPI_PRODUCTS = [
   {
     "brand": "Barkan",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "isWine": true,
     "year": null,
@@ -899,7 +899,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752008867",
@@ -957,7 +957,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Hechsher niet bekend (KLP)",
     "ean": "087752013663",
@@ -1020,7 +1020,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752029305",
@@ -1078,7 +1078,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752016909",
@@ -1134,9 +1134,9 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, wijn, conserveermiddel: sulfieten (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.",
+    "ingredients": "Druiven, conserveermiddel: zwaveldioxide (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752006108",
@@ -1198,7 +1198,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752011102",
@@ -1260,7 +1260,7 @@ window.KPI_PRODUCTS = [
     "variant": "187 ml · 12,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000023915",
@@ -1324,7 +1324,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000521008",
@@ -1396,7 +1396,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752008157",
@@ -1457,7 +1457,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752008171",
@@ -1515,7 +1515,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 11,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "087752013236",
@@ -1588,7 +1588,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Op het etiket: heter mechira, Opperrabbinaat van Israël (KLP)",
     "ean": "7290000024202",
@@ -1665,7 +1665,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "7290000024264",
@@ -1743,7 +1743,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 13,5%",
     "ingredients": "Sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "087752030622",
@@ -1801,7 +1801,7 @@ window.KPI_PRODUCTS = [
     "variant": "750 ml · 12%",
     "ingredients": "Gefermenteerde druiven, geconcentreerde druivenmost, suiker en conserveermiddel (sulfieten).",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "ean": "9310489001773",
@@ -1893,7 +1893,7 @@ window.KPI_PRODUCTS = [
     "variant": "1 liter · Alcoholvrij",
     "ingredients": "Druivensap (100%), sulfieten.",
     "allergens": [
-      "SULFIETEN"
+      "Sulfieten"
     ],
     "kosher": "Badatz Edah HaChareidis, Jeruzalem (KLP)",
     "ean": "7290000024523",

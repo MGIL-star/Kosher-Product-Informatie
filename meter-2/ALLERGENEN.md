@@ -93,7 +93,7 @@ Foto’s: 13.jpg, 14.jpg.
 
 ## 8. Barkan Gold Edition Chardonnay
 
-**Ingrediënteninformatie:** Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof. Bevat sulfieten.
+**Ingrediënteninformatie:** Druiven, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof.
 
 **Allergenen:** SULFIETEN.
 
@@ -118,7 +118,7 @@ Foto’s: 17.jpg, 18.jpg.
 
 ## 10. Ben Ami Chardonnay Galil
 
-**Ingrediënteninformatie:** Druiven, wijn, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof. Bevat sulfieten.
+**Ingrediënteninformatie:** Druiven, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof.
 
 **Allergenen:** SULFIETEN.
 
@@ -195,7 +195,7 @@ Foto’s: 27.jpg, 28.jpg.
 
 ## 16. Barkan Classic Cabernet Sauvignon
 
-**Ingrediënteninformatie:** Druiven, wijn, conserveermiddel: zwaveldioxide (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.
+**Ingrediënteninformatie:** Druiven, conserveermiddel: zwaveldioxide (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.
 
 **Allergenen:** SULFIETEN.
 
