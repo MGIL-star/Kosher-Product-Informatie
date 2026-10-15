@@ -2471,10 +2471,11 @@ window.KPI_PRODUCTS = [
   {
     "id": 73,
     "brand": "Elite",
-    "name": "Pesek Zman Witte Chocoladereep met Wafel en Hazelnootcrème",
+    "name": "Crunch Witte Chocolade met Biscuit en Hazelnootcrème",
     "category": "Chocoladerepen",
-    "variant": "45 g",
-    "ean": "7290119382538",
+    "variant": "100 g",
+    "ean": "7290105364784",
+    "ingredients": "Witte chocolade (melk), melkchocolade, biscuit (tarwe (gluten), soja), suiker, hazelnootpasta (10%), plantaardige oliën en vetten, sojameel, cacaomassa, emulgator (raapzaadlecithine).",
     "allergens": [
       "Tarwe (gluten)",
       "Melk",
