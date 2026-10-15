@@ -137,7 +137,7 @@ window.KPI_PRODUCTS = [
     ],
     "variant": "500 g",
     "ean": "8711723922259",
-    "ingredients": "",
+    "ingredients": "Volle melk, suiker, gemodificeerd maïszetmeel, vanilline, kleurstof (bètacaroteen).",
     "allergens": [
       "MELK"
     ],
@@ -149,6 +149,12 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
+    ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Ingrediënten overgenomen van de twee door de gebruiker aangeleverde foto’s; dezelfde receptuur geldt voor de verpakkingen van 125 g en 500 g.",
+    "ingredientSourcePhotos": [
+      "source-labels/20261015-incoming/codex-clipboard-b572d46e-c6e2-464c-a285-2b36da2088c7.jpg",
+      "source-labels/20261015-incoming/codex-clipboard-247c333c-4505-41c3-bac8-0857ee090611.jpg"
     ],
     "labelSources": [
       "source-labels/20261014-shefa-pudding/vanille-500g-front-barcode-original.jpg"
@@ -323,7 +329,7 @@ window.KPI_PRODUCTS = [
     ],
     "variant": "125 g",
     "ean": "",
-    "ingredients": "",
+    "ingredients": "Volle melk, suiker, gemodificeerd maïszetmeel, vanilline, kleurstof (bètacaroteen).",
     "allergens": [
       "MELK"
     ],
@@ -335,6 +341,12 @@ window.KPI_PRODUCTS = [
     "sources": [
       "https://shefaco.be/desserts",
       "https://shefaco.be/about/kashrus"
+    ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Ingrediënten overgenomen van de twee door de gebruiker aangeleverde foto’s; dezelfde receptuur geldt voor de verpakkingen van 125 g en 500 g.",
+    "ingredientSourcePhotos": [
+      "source-labels/20261015-incoming/codex-clipboard-b572d46e-c6e2-464c-a285-2b36da2088c7.jpg",
+      "source-labels/20261015-incoming/codex-clipboard-247c333c-4505-41c3-bac8-0857ee090611.jpg"
     ]
   },
   {
@@ -977,7 +989,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "8720791238650",
-    "ingredients": "Gepasteuriseerde melk en zuursel, zout, microbieel stremsel, conserveermiddel (E251).",
+    "ingredients": "Melk en culturen, zout.",
     "allergens": [
       "Melk"
     ],
@@ -992,30 +1004,30 @@ window.KPI_PRODUCTS = [
       "Chalav Yisrael"
     ],
     "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
     "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
+      "date": "2026-10-15",
+      "directory": "source-labels/20261015-incoming",
       "photos": [
-        "0f894f7a-99e7-45a1-b309-cf0732e410f2.jpg",
-        "d9e286e9-fa89-488b-8bfe-6079a3bf305c.jpg",
-        "f5b75294-c51c-40ac-ab82-f15d33f7e01f.jpg"
+        "codex-clipboard-63a36053-6e05-4bd5-b179-0addc235c3c6.jpg",
+        "codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg"
       ]
     },
     "sourcePhotos": [
       "source-labels/20261014-shefa-kaasplakken/front-original.jpg",
-      "source-labels/20261014-shefa-kaasplakken/back-original.jpg"
+      "source-labels/20261014-shefa-kaasplakken/back-original.jpg",
+      "source-labels/20261015-incoming/codex-clipboard-63a36053-6e05-4bd5-b179-0addc235c3c6.jpg",
+      "source-labels/20261015-incoming/codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg"
     ],
     "labelSources": [
-      "source-labels/20261014-shefa-kaasplakken/back-original.jpg"
+      "source-labels/20261015-incoming/codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg"
     ],
     "imageSource": {
       "type": "Aangeleverde foto van de gesloten verpakking",
       "photo": "source-labels/20261014-shefa-kaasplakken/front-original.jpg",
       "edit": "Ingebouwde perspectiefcorrectie in de productweergave"
     },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto van 14 oktober 2026.",
-    "barcodeSource": "Aangeleverde etiketfoto; EAN-13 8720791238650 komt overeen met Shefa Gouda-plakken 200 g."
+    "ingredientsSource": "Ingrediënten overgenomen van de aangeleverde achteretiketfoto van Shefa Holland’s Gouda-plakken 200 g, 15 oktober 2026.",
+    "barcodeSource": "EAN-13 8720791238650, eerder geverifieerd voor Shefa Holland’s Gouda-plakken 200 g; de cijfers op de nieuwe achteretiketfoto zijn niet voldoende leesbaar om een nieuw nummer vast te stellen."
   },
   {
     "id": 68,

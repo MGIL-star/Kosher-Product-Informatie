@@ -1009,7 +1009,9 @@ window.KPI_PRODUCTS = [
     "ingredients": "Mierikswortel, rode biet, azijn, suiker.",
     "allergens": [],
     "allergensConfirmedAbsent": true,
-    "kosher": "Nog te controleren",
+    "kosher": "Machzikei Hadass Antwerpen",
+    "kosherLines": ["Machzikei Hadass Antwerpen"],
+    "kosherSource": "Door gebruiker bevestigd op 15 oktober 2026.",
     "image": "./images/hoffmans-rood.png",
     "imageEdited": true,
     "productInfo": {},
@@ -1034,7 +1036,9 @@ window.KPI_PRODUCTS = [
     "ingredients": "Mierikswortel, citroen, azijn, suiker.",
     "allergens": [],
     "allergensConfirmedAbsent": true,
-    "kosher": "Nog te controleren",
+    "kosher": "Machzikei Hadass Antwerpen",
+    "kosherLines": ["Machzikei Hadass Antwerpen"],
+    "kosherSource": "Door gebruiker bevestigd op 15 oktober 2026.",
     "image": "./images/hoffmans-wit.png",
     "imageEdited": true,
     "productInfo": {},
@@ -1050,8 +1054,8 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Vis (38%), water, aardappelzetmeel, maïszetmeel, koolzaadolie, suiker, zout, aroma, gerehydrateerd eiwit (ei), kleurstof (paprika-extract).",
+    "allergens": ["Vis", "Ei"],
     "allergensConfirmedAbsent": false,
     "imageEdited": true,
     "id": 58,
@@ -1071,7 +1075,10 @@ window.KPI_PRODUCTS = [
       "sourceWidth": 1179
     },
     "image": "./images/surimi-180.png",
-    "productInfo": {}
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket op aangeleverde foto; productvariant 12 stuks, 200 g.",
+    "sourcePhotos": ["source-labels/20261015-incoming/codex-clipboard-9e7599bb-1e25-49fb-9137-9fdc71b3671c.jpg", "source-labels/20261015-incoming/codex-clipboard-b2441957-b782-484d-b101-a711a4973814.jpg"]
   },
   {
     "id": 44,
@@ -1080,8 +1087,8 @@ window.KPI_PRODUCTS = [
     "category": "Falafel",
     "variant": "200 g",
     "ean": "3760059040224",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (80%), tarwezetmeel (5,6%), spinazie (4%), koolzaadolie (4%), peterselie, ui, knoflook, zout, komijn, koriander, peper, conserveermiddel (E200), zuurteregelaar (citroenzuur, E330).",
+    "allergens": ["Tarwe (gluten)"],
     "allergensConfirmedAbsent": false,
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-falafel-naturel-heel.png",
@@ -1095,8 +1102,11 @@ window.KPI_PRODUCTS = [
       "scale": 2,
       "sourceWidth": 1179
     },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {}
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket op aangeleverde foto, 15 oktober 2026.",
+    "allergenNote": "Kan noten en pinda’s bevatten.",
+    "sourcePhotos": ["source-labels/20261015-incoming/codex-clipboard-7df1c79b-b919-481b-86c0-c44e125ada56.jpg"]
   },
   {
     "id": 52,
@@ -1105,8 +1115,8 @@ window.KPI_PRODUCTS = [
     "category": "Falafel",
     "variant": "200 g",
     "ean": "3760059040927",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (67%), jalapeñopepers (8%), koolzaadolie (8%), tarwezetmeel, harissa (rode paprika, koriander, zout, komijn), spinazie, ui, courgette, peterselie, knoflook, conserveermiddel (E200), zout, koriander, peper, zuurteregelaar (citroenzuur, E330).",
+    "allergens": ["Tarwe (gluten)"],
     "allergensConfirmedAbsent": false,
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-1231.png",
@@ -1120,8 +1130,11 @@ window.KPI_PRODUCTS = [
       "scale": 2,
       "sourceWidth": 1179
     },
-    "kosherNote": "Volgens het keurmerk in de aangeleverde leverancierscatalogus. Het afgebeelde logo vermeldt ook “kosjer voor Pesach”; controleer hiervoor de actuele verpakking.",
-    "productInfo": {}
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysiek etiket op aangeleverde foto, 15 oktober 2026.",
+    "allergenNote": "Kan noten en pinda’s bevatten.",
+    "sourcePhotos": ["source-labels/20261015-incoming/codex-clipboard-a6bca25e-6542-4acf-b5d6-9407896e0d14.jpg"]
   },
   {
     "id": 53,

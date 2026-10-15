@@ -89,7 +89,7 @@
       <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientNote ? `<p class="verification-copy">${escapeHtml(product.ingredientNote)}</p>` : ""}</section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${kosherMarkup ? `<section class="hechsher"><h3>Hechser</h3><p>${kosherMarkup}</p></section>` : ''}
+      ${kosherMarkup ? `<section class="hechsher"><h3>Hechsjer</h3><p>${kosherMarkup}</p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);

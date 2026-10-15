@@ -73,7 +73,7 @@
       +(p.catalogType==='nonfood'&&p.composition?'<section class="product-composition"><h3>'+esc(p.composition.heading||'Ingrediënten (INCI)')+'</h3>'+(p.composition.text?'<p>'+esc(p.composition.text)+'</p>':'')+(p.composition.note?'<p class="composition-note">'+esc(p.composition.note)+'</p>':'')+'</section>':'')
       +(p.catalogType!=='nonfood'?'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>':'')
       +section('Kan bevatten',p.mayContain)+section('Waarschuwing',p.warning)
-      +(kosher?'<section class="hechsher"><h3>Hechser</h3><p class="notranslate" translate="no">'+kosher+'</p></section>':'')
+      +(kosher?'<section class="hechsher"><h3>Hechsjer</h3><p class="notranslate" translate="no">'+kosher+'</p></section>':'')
       +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p></section></div>';
     window.KPI_normalizeProductLayout($('#product-detail'), p);
     $('#product-dialog').showModal();
