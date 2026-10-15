@@ -74,7 +74,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sulfieten, sorbinezuur.",
+    "ingredients": "Druiven, suiker, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -94,7 +94,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Nederlandse importsticker zegt droog; Hebreeuws producentenetiket zegt halfdroog. Producentenetiket gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "Nederlandse importsticker zegt droog; Hebreeuws producentenetiket zegt halfdroog. Producentenetiket gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       2,
       3
@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Sulfieten, sorbinezuur.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -151,7 +151,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       4,
       5
@@ -189,7 +189,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sauvignon Blanc & sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -209,7 +209,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Eerdere registratie (historisch): Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd.",
+    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Eerdere registratie (historisch): Controle 17 september 2026: bestaande exacte variant, barcode, inhoud en afbeelding behouden. Geen volledige fysieke flesregistratie. Online mevushal-vermeldingen zijn niet aan de actuele fles/jaargang gekoppeld; daarom geen definitieve certificering overgenomen. 11% en droog bevestigd bij Israëlwinkel voor referentiejaargang 2024; 100% Sauvignon Blanc bij officiële producent. Andere uitvoeringen hebben andere alcoholpercentages. Kosher voor Pesach en specifieke hechsher van actuele fles niet bevestigd. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       6
     ],
@@ -343,7 +343,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Sulfieten, sorbinezuur.",
+    "ingredients": "Druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -363,7 +363,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Spelling Premieur van de fles aangehouden; in opdracht Premier genoemd. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "Spelling Premieur van de fles aangehouden; in opdracht Premier genoemd. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       9,
       10
@@ -405,7 +405,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rosé",
     "variant": "750 ml · 11%",
-    "ingredients": "Sulfieten, sorbinezuur.",
+    "ingredients": "Druiven, suiker, wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -425,7 +425,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Nederlandse importsticker zegt droog; Hebreeuws producentenetiket zegt halfdroog. IPC 2022 / 10% wijkt af; fysiek 2025 / 11% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "Nederlandse importsticker zegt droog; Hebreeuws producentenetiket zegt halfdroog. IPC 2022 / 10% wijkt af; fysiek 2025 / 11% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       11,
       12
@@ -463,7 +463,7 @@ window.KPI_PRODUCTS = [
     "brand": "Zmora",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, suiker, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -474,7 +474,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Halfzoet volgens productinformatie",
-      "Druiven": "Emerald Riesling & Colombard",
+      "Druiven": "Semillon & Colombard",
       "Serie": "Zmora",
       "Herkomst": "Israël, Dan",
       "Alcohol": "11,5%",
@@ -483,7 +483,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Gebruiker bevestigt fysieke fles: mevushal, kosher voor Pesach en sulfieten. Fysieke registratie 2024, 750 ml, 11,5%, barcode 087752027516 en hechsher behouden. Door gebruiker aangewezen Kosher Wine World-pagina heeft 2020 in URL, maar vermeldt 2023, halfzoet, Emerald Riesling/Colombard en barcode 00087752027516 (dezelfde UPC met voorloopnullen). Wijnstijl en smaakomschrijving aangevuld op variantniveau met zichtbare kwalificatie volgens productinformatie. De afwijkende 12,2%, OU en Galilea van de webshop niet overgenomen. Exacte zoetheid van actuele fles nog niet fysiek bevestigd.",
+    "reviewNotes": "Gebruiker bevestigt fysieke fles: mevushal, kosher voor Pesach en sulfieten. Fysieke registratie 2024, 750 ml, 11,5%, barcode 087752027516 en hechsher behouden. Door gebruiker aangewezen Kosher Wine World-pagina heeft 2020 in URL, maar vermeldt 2023, halfzoet, Emerald Riesling/Colombard en barcode 00087752027516 (dezelfde UPC met voorloopnullen). Wijnstijl en smaakomschrijving aangevuld op variantniveau met zichtbare kwalificatie volgens productinformatie. De afwijkende 12,2%, OU en Galilea van de webshop niet overgenomen. Exacte zoetheid van actuele fles nog niet fysiek bevestigd. QR-screenshot van gebruiker: ingrediënten en druivenras gecontroleerd; op de QR-pagina staat Semillon & Colombard.",
     "sourcePhotos": [
       13,
       14
@@ -527,7 +527,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "year": null,
     "volume": "750 ml",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, stikstof.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 30,
@@ -551,7 +551,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "codex-clipboard-35e54f57-1369-4422-8aeb-a9af9ea70bd0.png"
     ],
-    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "imageFrame": {
       "x": 0.324,
       "y": 0.014,
@@ -590,7 +590,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -610,7 +610,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Eerdere registratie (historisch): Flesgegevens opnieuw bevestigd door gebruiker op 17 september 2026: 2025, 750 ml, 12,5%, droog, Israël, sulfieten, barcode 7290019220725. Bestaande ingrediënten uit digitaal flesetiket behouden. Omcirkeld K-P niet bevestigd op deze fles en verwijderd. Mevushalstatus blijft onbekend; nieuwe foto ontbreekt.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Eerdere registratie (historisch): Flesgegevens opnieuw bevestigd door gebruiker op 17 september 2026: 2025, 750 ml, 12,5%, droog, Israël, sulfieten, barcode 7290019220725. Bestaande ingrediënten uit digitaal flesetiket behouden. Omcirkeld K-P niet bevestigd op deze fles en verwijderd. Mevushalstatus blijft onbekend; nieuwe foto ontbreekt. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       15,
       16
@@ -667,7 +667,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -687,7 +687,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "IPC noemt 2021 / 12,5%; fysiek 2024 / 12% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "IPC noemt 2021 / 12,5%; fysiek 2024 / 12% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       17,
       18
@@ -725,7 +725,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Druiven, zuurteregelaar: wijnsteenzuur (E334), stabilisator: carboxymethylcellulose (E466). Verpakkingsgas: stikstof.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -744,7 +744,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Niet bekend"
     },
-    "reviewNotes": " Ingrediënten en sulfieten rechtstreeks gecontroleerd via het QR-etiket op deze fles; naam en jaargang komen overeen. Ingrediënten in het Nederlands vertaald.",
+    "reviewNotes": " Ingrediënten en sulfieten rechtstreeks gecontroleerd via het QR-etiket op deze fles; naam en jaargang komen overeen. Ingrediënten in het Nederlands vertaald. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       19,
       20
@@ -786,7 +786,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Witte wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), citroenzuur (E330), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -806,7 +806,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "IPC noemt 2022 / 12%; fysiek 2025 / 11,5% gevolgd. QR op fles verwijst naar digitaal etiket uit 2024, terwijl fysieke fles 2025 is. Sulfieten komen overeen; overige QR-ingrediënten niet zonder jaarbevestiging overgenomen. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang.",
+    "reviewNotes": "IPC noemt 2022 / 12%; fysiek 2025 / 11,5% gevolgd. QR op fles verwijst naar digitaal etiket uit 2024, terwijl fysieke fles 2025 is. Sulfieten komen overeen; overige QR-ingrediënten niet zonder jaarbevestiging overgenomen. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       21,
       22
@@ -854,7 +854,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "year": null,
     "volume": "750 ml",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, suiker, wijnsteenzuur (E334), stikstof.",
     "kosher": "Badatz Edah HaChareidis Jeruzalem (KLP)",
     "imageFrontOnly": true,
     "id": 29,
@@ -879,7 +879,7 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "codex-clipboard-be09ec82-5612-491c-8c82-a525bfb744ef.png"
     ],
-    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen.",
+    "reviewNotes": "Gegevens overgenomen van aangeleverde product- en etiketafbeelding. Alleen voorzijde visueel uitgesneden; origineel ongewijzigd. Sulfieten vermeld op achteretiket; geen andere ingrediënten afgeleid. Hechsherbenaming op verzoek gebruiker gelijkgetrokken met de andere Barkan-wijnen. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sources": [
       {
         "label": "Israëlwinkel — productvermelding",
@@ -902,7 +902,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -922,7 +922,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "IPC noemt 2023 / 12%; fysiek 2024 / 13% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "IPC noemt 2023 / 12%; fysiek 2024 / 13% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       23,
       24
@@ -1023,7 +1023,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1043,7 +1043,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       25,
       26
@@ -1139,7 +1139,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, conserveermiddel: zwaveldioxide (E220), zuurteregelaar: wijnsteenzuur (E334). Verpakkingsgas: stikstof.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1159,7 +1159,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "IPC noemt 2022 / 13%; fysiek 2024 / 12,5% gevolgd. Ingrediënten en sulfieten rechtstreeks gecontroleerd via het QR-etiket op deze fles; naam en jaargang komen overeen. Ingrediënten in het Nederlands vertaald. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "IPC noemt 2022 / 13%; fysiek 2024 / 12,5% gevolgd. Ingrediënten en sulfieten rechtstreeks gecontroleerd via het QR-etiket op deze fles; naam en jaargang komen overeen. Ingrediënten in het Nederlands vertaald. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       29,
       30
@@ -1327,7 +1327,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1346,7 +1346,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: Badatz Edah HaChareidis Jeruzalem leesbaar; eerdere hechshervermelding vervangen voor deze fles. Eerdere registratie (historisch): IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt.",
+    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: Badatz Edah HaChareidis Jeruzalem leesbaar; eerdere hechshervermelding vervangen voor deze fles. Eerdere registratie (historisch): IPC noemt 2025; fysiek 2022 gevolgd. IPC noemt onderling verschillende druivenblends; deze niet overgenomen. Linkerzijde producentenetiket deels afgedekt. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       45,
       46
@@ -1399,7 +1399,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Rode wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1418,7 +1418,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
+    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden.  Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       43,
       44
@@ -1460,7 +1460,7 @@ window.KPI_PRODUCTS = [
     "brand": "Ben Ami",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1480,7 +1480,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "",
+    "reviewNotes": " Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       41,
       42
@@ -1518,7 +1518,7 @@ window.KPI_PRODUCTS = [
     "brand": "Zmora",
     "category": "Rode wijn",
     "variant": "750 ml · 11,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, kaliumsorbaat (E202), zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1538,7 +1538,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Jaargang bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Mevushal niet leesbaar op foto; daarom niet ingevuld.",
+    "reviewNotes": "Jaargang bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Eerdere registratie (historisch): Mevushal niet leesbaar op foto; daarom niet ingevuld. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       39,
       40
@@ -1804,7 +1804,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Gefermenteerde druiven, geconcentreerde druivenmost, suiker en conserveermiddel (sulfieten).",
+    "ingredients": "Druiven, suiker, kaliumsorbaat (E202), zwaveldioxide (E220), wijnsteenzuur (E334).",
     "allergens": [
       "Sulfieten"
     ],
@@ -1825,7 +1825,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Schroefdop",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Ook omcirkeld K-P zichtbaar; barcode 9310489001773 komt overeen. Eerdere registratie (historisch): Op uitdrukkelijk verzoek gebruiker is Wijnbox de bron voor Kinor: 12%, zoete rode Carignan uit Judea, mevushal, kosher voor Pesach, schroefdop, licht gekoeld serveren en geschikt voor Kiddush/Havdalah. Wijnbox noemt geen specifieke hechsher of ingrediëntenlijst; bestaande ingrediënten/allergenenbron behouden. Barcode 9310489001773 en 750 ml uit eerdere registratie behouden. Eerdere bron met 11% wordt niet meer gevolgd voor deze vermelding. Geen fysieke bevestiging van actuele jaargang; bronkeuze door gebruiker, niet als flescontrole geregistreerd.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין מבושל betekent mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Ook omcirkeld K-P zichtbaar; barcode 9310489001773 komt overeen. Eerdere registratie (historisch): Op uitdrukkelijk verzoek gebruiker is Wijnbox de bron voor Kinor: 12%, zoete rode Carignan uit Judea, mevushal, kosher voor Pesach, schroefdop, licht gekoeld serveren en geschikt voor Kiddush/Havdalah. Wijnbox noemt geen specifieke hechsher of ingrediëntenlijst; bestaande ingrediënten/allergenenbron behouden. Barcode 9310489001773 en 750 ml uit eerdere registratie behouden. Eerdere bron met 11% wordt niet meer gevolgd voor deze vermelding. Geen fysieke bevestiging van actuele jaargang; bronkeuze door gebruiker, niet als flescontrole geregistreerd. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       49
     ],
@@ -1896,7 +1896,7 @@ window.KPI_PRODUCTS = [
     "brand": "Segal",
     "category": "Druivensap",
     "variant": "1 liter · Alcoholvrij",
-    "ingredients": "Druivensap (100%), sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), druivenmost.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1913,7 +1913,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Schroefdop",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Sulfieten staan op Nederlandse fysieke sticker; daarom opgenomen ondanks IPC-omschrijving zonder toevoegingen. Alcoholvrij sap, niet als wijn gecategoriseerd. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang.",
+    "reviewNotes": "Sulfieten staan op Nederlandse fysieke sticker; daarom opgenomen ondanks IPC-omschrijving zonder toevoegingen. Alcoholvrij sap, niet als wijn gecategoriseerd. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       50,
       51
@@ -1950,4 +1950,3 @@ window.KPI_PRODUCTS = [
     "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   }
 ];
-
