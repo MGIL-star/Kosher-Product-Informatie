@@ -464,7 +464,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 33,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster Classic Tortillas",
+    "name": "Mr. Hipster Klassieke Tortillachips",
     "variant": "200 g",
     "category": "Snacks",
     "ean": "194961002859",
@@ -489,7 +489,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 34,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster Spicy Jalapeño Tortillas",
+    "name": "Mr. Hipster Pittige Jalapeño Tortillachips",
     "variant": "175 g",
     "category": "Snacks",
     "ean": "194961003696",
@@ -514,7 +514,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 35,
     "brand": "Shneider’s",
-    "name": "Mr. Hipster Round Tortillas",
+    "name": "Mr. Hipster Ronde Tortillachips",
     "variant": "200 g",
     "category": "Snacks",
     "ean": "194961003702",

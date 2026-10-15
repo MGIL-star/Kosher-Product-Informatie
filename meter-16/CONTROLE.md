@@ -42,9 +42,9 @@ Onvolledige ingrediëntenlijsten en onbekende allergenen blijven gemarkeerd. Hon
 | 30 | Lieber’s Classic Marinara Pasta Sauce 680 g | 043427225014 | https://benedikts.com/products/limps | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
 | 31 | Lieber’s Original Pizza Sauce 680 g | 043427225069 | https://koshercentral.com/Southern-Florida/category/515/sauce/7672/lieber-s-original-pizza-sauce-26-oz | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
 | 32 | Ice Li Fruitijsjes om in te vriezen 8 stuks | Onbekend | https://deli.yango.com/he-il/good/ice-li-fruit-flavored-frozenable-drinks-800-gram | Online packshot van hetzelfde merk en dezelfde productvariant. Gewicht of verpakkingsontwerp kan afwijken; productgegevens volgen de aangeleverde verpakking. |
-| 33 | Shneider’s Mr. Hipster Classic Tortillas 200 g | 194961002859 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
-| 34 | Shneider’s Mr. Hipster Spicy Jalapeño Tortillas 175 g | 194961003696 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
-| 35 | Shneider’s Mr. Hipster Round Tortillas 200 g | 194961003702 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
+| 33 | Shneider’s Mr. Hipster Klassieke Tortillachips 200 g | 194961002859 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten, barcode en gewicht overgenomen van de aangeleverde fysieke verpakking. |
+| 34 | Shneider’s Mr. Hipster Pittige Jalapeño Tortillachips 175 g | 194961003696 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten, barcode en gewicht overgenomen van de aangeleverde fysieke verpakking. |
+| 35 | Shneider’s Mr. Hipster Ronde Tortillachips 200 g | 194961003702 | Door gebruiker aangeleverde packshot en etiketfoto’s | Ingrediënten en barcode overgenomen van de aangeleverde fysieke verpakking. |
 
 ## Fotoretouche 2026-10-01
 
