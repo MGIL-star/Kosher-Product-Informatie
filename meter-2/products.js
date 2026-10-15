@@ -540,6 +540,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Type": "Witte wijn",
       "Wijnstijl": "Zoet, licht mousserend",
+      "Druiven": "Muscat",
       "Herkomst": "Israël",
       "Alcohol": "5,5%",
       "Bewaren": "Koel en donker bewaren, bij voorkeur bij 8 tot 12 °C.",
@@ -574,6 +575,10 @@ window.KPI_PRODUCTS = [
       {
         "label": "Fysiek etiket — gebruiker, 8 oktober 2026",
         "url": "source-labels/20261008/5.jpg"
+      },
+      {
+        "label": "Barkan Gold Moscato — exacte barcode 7290019220596, druivensoort Muscat",
+        "url": "https://www.banamashkaot.co.il/product/%D7%99%D7%99%D7%9F-%D7%91%D7%A8%D7%A7%D7%9F-%D7%A8%D7%96%D7%A8%D7%91-%D7%92%D7%95%D7%9C%D7%93-%D7%9E%D7%95%D7%A1%D7%A7%D7%98%D7%95/"
       }
     ],
     "kosherForPassover": true,
@@ -1945,3 +1950,4 @@ window.KPI_PRODUCTS = [
     "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
   }
 ];
+
