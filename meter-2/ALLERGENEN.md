@@ -32,7 +32,7 @@ Foto’s: 2.jpg, 3.jpg.
 
 ## 3. Barkan Classic Emerald Riesling Colombard
 
-**Ingrediënteninformatie:** Op het etiket vermeld: zwaveldioxide en sorbinezuur.
+**Ingrediënteninformatie:** Druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466) en stikstof, volgens de door de gebruiker gedeelde QR-pagina.
 
 **Allergenen:** SULFIETEN.
 
@@ -208,7 +208,7 @@ Foto’s: 29.jpg, 30.jpg.
 
 ## 17. Barkan Classic Pinot Noir
 
-**Ingrediënteninformatie:** Het etiket vermeldt: bevat sulfieten.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof, volgens de door de gebruiker gedeelde QR-pagina. Dit geldt voor de gewone Pinot Noir, niet voor een Mini Pinot Noir.
 
 **Allergenen:** SULFIETEN.
 
@@ -307,7 +307,7 @@ Foto’s: 45.jpg, 46.jpg.
 
 ## 25. Barkan Classic Cabernet Sauvignon mini
 
-**Ingrediënteninformatie:** De online productinformatie vermeldt dat deze wijn sulfieten bevat.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof, volgens de door de gebruiker gedeelde QR-pagina.
 
 **Allergenen:** SULFIETEN.
 

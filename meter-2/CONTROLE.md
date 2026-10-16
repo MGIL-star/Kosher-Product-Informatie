@@ -99,7 +99,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-classic
 Snapshot: [originele afbeelding](https://isreal-winkel.ams3.digitaloceanspaces.com/09307%20BC%20Emerald%20Riesling-Colombard%202026-01KKE85H49JE56MPVQ8ZP0JQXM.jpg).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).
 Allergenen: SULFIETEN.
-Controle:  Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Ingrediënten volgens de QR-pagina die de gebruiker heeft gedeeld: druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466) en stikstof. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 4. Barkan Classic Emerald Riesling
 
@@ -211,7 +211,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-classic
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4279607920.png).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushalstatus nog te controleren).
 Allergenen: SULFIETEN.
-Controle: IPC noemt 2023 / 12,5%; fysiek 2024 / 13% gevolgd. Mevushal niet zichtbaar in deze opname; niet afgeleid van serie. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Astor Wines noemt de jaargang 2024 mevushal; flesbevestiging blijft nodig omdat de vermelding op deze foto buiten beeld valt.
+Controle: Ingrediënten volgens de QR-pagina die de gebruiker heeft gedeeld: druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. Deze informatie geldt voor de gewone Pinot Noir, niet voor een Mini Pinot Noir. IPC noemt 2023 / 12,5%; fysiek 2024 / 13% gevolgd. Mevushal niet zichtbaar in deze opname; niet afgeleid van serie. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Astor Wines noemt de jaargang 2024 mevushal; flesbevestiging blijft nodig omdat de vermelding op deze foto buiten beeld valt.
 
 ### 18. Barkan Platinum Cabernet Sauvignon
 
@@ -275,7 +275,7 @@ Bron: [CPM Diffusion — exacte barcode / 187 ml](https://www.cpm-diffusion.com/
 Snapshot: [originele afbeelding](https://www.cpm-diffusion.com/wp-content/uploads/2022/07/BARKAN-CABERNET-SAUVIGNON-CLASSIQUE-187-ML-660x660.png).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).
 Allergenen: SULFIETEN.
-Controle: 187 ml bevestigd door CPM Diffusion aan de hand van exact EAN 7290000023915. Alcohol en allergenendeclaratie buiten beeld op fysieke foto. CPM-foto toont oudere jaargang 2020; geen gegevens van die jaargang overgenomen. Aanvullende controle: sulfieten vermeld bij deze productvariant in LeKosher — Classic Cabernet Sauvignon 187 ml, oudere jaargang. Dit is geen bevestiging van de volledige declaratie van de gefotografeerde jaargang; daarom expliciete toelichting in de modal. Alcohol, barcode en overige ingrediënten niet van die bron overgenomen. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Ingrediënten volgens de QR-pagina die de gebruiker heeft gedeeld: druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. 187 ml bevestigd door CPM Diffusion aan de hand van exact EAN 7290000023915. Alcohol en allergenendeclaratie buiten beeld op fysieke foto. CPM-foto toont oudere jaargang 2020; geen gegevens van die jaargang overgenomen. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 26. Barkan Classic Sauvignon Blanc
 

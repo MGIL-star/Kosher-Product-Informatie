@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12,5%",
-    "ingredients": "Druiven, wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
+    "ingredients": "Druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -151,7 +151,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. Ingrediënten overgenomen van QR-screenshot van gebruiker; allergenen volgens opgave gebruiker: sulfieten.",
+    "reviewNotes": "Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar. De gebruiker heeft via de QR-pagina de ingrediënten bevestigd: druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466) en stikstof. Allergenen volgens opgave gebruiker: sulfieten.",
     "sourcePhotos": [
       4,
       5
@@ -1201,7 +1201,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1221,7 +1221,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. ",
+    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Bestaande inhoud, alcohol en barcode behouden. Ingrediënten overgenomen van de door de gebruiker gedeelde QR-pagina; deze informatie geldt voor de gewone Pinot Noir en niet voor een Mini Pinot Noir.",
     "sourcePhotos": [
       31,
       32
@@ -1263,7 +1263,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "187 ml · 12,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1282,7 +1282,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Schroefdop",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Nieuwe fysieke foto 52c2471b-71c6-4139-a7f8-63fe7edd45b6.jpg bevestigt barcode 7290000023915, 12,5%, Badatz Edah HaChareidis Jeruzalem en de Hebreeuwse vermelding wijn mevushal. Kosher voor Pesach zichtbaar. Ook twee andere keurmerken zichtbaar; niet verder benoemd zonder zekere identificatie. Geen omcirkeld K-P zichtbaar op deze foto. Inhoud 187 ml bevestigd door gebruiker en bestaande exacte barcode-match. Sulfieten uit bestaande online variantinformatie.",
+    "reviewNotes": "Nieuwe fysieke foto 52c2471b-71c6-4139-a7f8-63fe7edd45b6.jpg bevestigt barcode 7290000023915, 12,5%, Badatz Edah HaChareidis Jeruzalem en de Hebreeuwse vermelding wijn mevushal. Kosher voor Pesach zichtbaar. Ook twee andere keurmerken zichtbaar; niet verder benoemd zonder zekere identificatie. Geen omcirkeld K-P zichtbaar op deze foto. Inhoud 187 ml bevestigd door gebruiker en bestaande exacte barcode-match. Ingrediënten overgenomen van de door de gebruiker gedeelde QR-pagina; allergenen: sulfieten.",
     "sourcePhotos": [
       47,
       48

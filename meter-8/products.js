@@ -2300,6 +2300,75 @@ window.KPI_PRODUCTS = [
     "allergenSource": "Gebruiker bevestigt op 9 oktober 2026 geen allergenen voor King Solomon Medjoul Dadels 1 kg en La Palma Medjoul Dadels 500 g."
   },
   {
+    "id": 65,
+    "name": "Natuurlijke Medjoul Dadels",
+    "brand": "La Palma",
+    "category": "Dadelproducten",
+    "variant": "1 kg",
+    "ean": "8719326034003",
+    "ingredients": "100% Medjoul dadels.",
+    "allergens": [],
+    "warning": "Bevat pitten.",
+    "image": "images/la-palma-natural-medjool-1kg-orange.webp",
+    "imageOriginal": "images/la-palma-natural-medjool-1kg-orange.webp",
+    "reviewNotes": "De gebruiker heeft dit oranje La Palma-pak op 16 oktober 2026 aangeleverd. De online productvermelding koppelt deze oranje verpakking aan 1 kg en EAN 8719326034003. Ingrediënten, afwezigheid van allergenen en pittenwaarschuwing overgenomen zoals gevraagd voor de andere natuurlijke Medjoul-dadels. De beschikbare online bevestiging van de OU voor het eerder ingevoerde La Palma-product is niet automatisch op deze verpakking toegepast.",
+    "imageSource": "Gebruikersfoto, 16 oktober 2026.",
+    "sources": [
+      {
+        "label": "Elatukku — La Palma Natural Medjoul Large Dates Orange, 1 kg, EAN",
+        "url": "https://www.elatukku.fi/teolliset-elintarvikkeet/la-palma-natural-medjoul-large-dates-orange-taateli-1kg/p/19175/"
+      },
+      {
+        "label": "Memon Supermarket — La Palma Medjoul Dates, 1 kg, barcode",
+        "url": "https://www.memonsupermarket.ca/products/le-palma-medjoul-dates-1kg"
+      }
+    ],
+    "warningSource": "Zelfde pittenwaarschuwing als de andere hele Medjoul-dadels, op verzoek van gebruiker.",
+    "allergensConfirmedAbsent": true,
+    "allergenSource": "Zelfde allergeneninformatie als de andere Medjoul-dadels, op verzoek van gebruiker.",
+    "ingredientsSource": "Zelfde ingrediënteninformatie als de andere Medjoul-dadels, op verzoek van gebruiker.",
+    "ingredientsChecked": "2026-10-16",
+    "ingredientsPartial": false,
+    "barcodeSource": "Online productvermeldingen van de exacte oranje La Palma 1 kg-verpakking.",
+    "barcodeChecked": "2026-10-16",
+    "barcodeNeedsCheck": false
+  },
+  {
+    "id": 66,
+    "name": "Natuurlijke Medjoul Dadels",
+    "brand": "Myjool",
+    "category": "Dadelproducten",
+    "variant": "200 g",
+    "ean": "7290002488576",
+    "ingredients": "100% Medjoul dadels.",
+    "allergens": [],
+    "warning": "Bevat pitten.",
+    "image": "images/myjool-medjool-200g-upright.png",
+    "imageOriginal": "images/imageOriginal/myjool-medjool-200g-original.webp",
+    "imageEdited": true,
+    "reviewNotes": "De gebruiker heeft deze Myjool-verpakking van 200 g op 16 oktober 2026 aangeleverd. Ingrediënten, afwezigheid van allergenen en pittenwaarschuwing overgenomen zoals gevraagd voor de andere natuurlijke Medjoul-dadels. De gebruiker heeft toegestaan EAN 7290002488576 te gebruiken. De online bron koppelt deze EAN aan MyJool Organic Medjoul 200 g; de foto toont geen biologische aanduiding.",
+    "imageSource": "Gebruikersfoto, 16 oktober 2026; rechtop gezet met behoud van het verpakkingsontwerp.",
+    "sources": [
+      {
+        "label": "MyJool — officiële productlijn en Sunny Orange-verpakking, 200 g",
+        "url": "https://myjool.com/products/"
+      },
+      {
+        "label": "Hadiklaim — officiële merkpagina en pakketformaten",
+        "url": "https://www.hadiklaim.com/about-us/our-brands"
+      }
+    ],
+    "barcodeSource": "https://goodnessme.ca/products/myjool-organic-medjoul-200-g; barcode gebruikt op verzoek van de gebruiker, 16 oktober 2026.",
+    "barcodeChecked": "2026-10-16",
+    "barcodeNeedsCheck": false,
+    "allergensConfirmedAbsent": true,
+    "allergenSource": "Zelfde allergeneninformatie als de andere Medjoul-dadels, op verzoek van gebruiker.",
+    "ingredientsSource": "Zelfde ingrediënteninformatie als de andere Medjoul-dadels, op verzoek van gebruiker.",
+    "ingredientsChecked": "2026-10-16",
+    "ingredientsPartial": false,
+    "warningSource": "Zelfde pittenwaarschuwing als de andere hele Medjoul-dadels, op verzoek van gebruiker."
+  },
+  {
     "id": 34,
     "name": "Dadelpasta",
     "brand": "Hadiklaim / Tzur Farm",
