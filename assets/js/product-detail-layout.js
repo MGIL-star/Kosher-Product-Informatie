@@ -59,7 +59,7 @@
       }
     }
     for (const section of root.querySelectorAll('section')) {
-      if (section.querySelector('h3')?.textContent !== 'Hechsjer') continue;
+      if (section.querySelector('h3')?.textContent !== 'Hechser') continue;
       const line = section.querySelector('p');
       if (!line) continue;
       const lines = (product.kosherLines || [product.kosher || line.textContent]).flatMap(text => text.split(/\s*(?: \/ | · |;|,| en |\s+[—–]\s+|\s+\.\s+)\s*(?=(?:Badatz|OU\b|OU-D|OU-P|CRC\b|STAR-K|OK\b|BIR\b|Rabbijn|Rabbi\b|Rabbinaat|Opperrabbinaat|Machsike|Manchester|Nirbater|Beth Zedek|MKL\b))|\n/i)).map(text => text.replace(/\s*\((?:KLP|Pesach[^)]*)\)/gi, '').replace(/\bKP\s*·\s*/g, '').replace(/\bOU-P\b/g, 'OU').trim()).filter(Boolean);
@@ -163,7 +163,7 @@
       if (title === 'Kan bevatten') return 3;
       if (/^Let op:?$/.test(title)) return 3.5;
       if (title === 'Waarschuwing') return 4;
-      if (title === 'Hechsjer') return 98;
+      if (title === 'Hechser') return 98;
       if (/^Barcode [\/&] EAN$/.test(title)) return 99;
       return 6;
     };

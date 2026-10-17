@@ -31,7 +31,7 @@
     const m = product.kosherMark;
     if (!m) return '';
     const scale = Number(m.scale) || 1;
-    return `<a href="${escapeHtml(m.image)}" target="_blank" rel="noopener" aria-label="Bekijk keurmerk in de originele leverancierscatalogus"><span style="display:block;position:relative;overflow:hidden;width:${m.width * scale}px;height:${m.height * scale}px"><img src="${escapeHtml(m.image)}" alt="Hechsjer uit leverancierscatalogus" style="position:absolute;max-width:none;width:${m.sourceWidth * scale}px;height:auto;left:${-m.x * scale}px;top:${-m.y * scale}px"></span></a>`;
+    return `<a href="${escapeHtml(m.image)}" target="_blank" rel="noopener" aria-label="Bekijk keurmerk in de originele leverancierscatalogus"><span style="display:block;position:relative;overflow:hidden;width:${m.width * scale}px;height:${m.height * scale}px"><img src="${escapeHtml(m.image)}" alt="Hechser uit leverancierscatalogus" style="position:absolute;max-width:none;width:${m.sourceWidth * scale}px;height:auto;left:${-m.x * scale}px;top:${-m.y * scale}px"></span></a>`;
   }
 
   function productImage(product, large = false) {
@@ -82,7 +82,7 @@
       <section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p>${product.ingredientNote ? `<p class="verification-copy">${escapeHtml(product.ingredientNote)}</p>` : ""}</section>
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechsjer</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>` : ''}
+      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);
