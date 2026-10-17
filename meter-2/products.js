@@ -84,7 +84,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "productInfo": {
       "Type": "Witte wijn",
-      "Wijnstijl": "Halfdroog volgens producentenetiket",
+      "Wijnstijl": "Halfdroog",
       "Druiven": "Gewürztraminer",
       "Serie": "Gold Edition",
       "Herkomst": "Israël, Beka, uitlopers van de heuvels van Judea",
@@ -285,7 +285,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Witte wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Sulfieten, sorbinezuur.",
+    "ingredients": "Druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -305,7 +305,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Extra afzonderlijke variant uit fotoserie. Voorzijde en producent noemen Emerald Riesling / 100%; Nederlandse sticker noemt ten onrechte ook Colombard. IPC noemt 2021 / 11,5%; fysiek 2024 / 12% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "Extra afzonderlijke variant uit fotoserie. Voorzijde en producent noemen Emerald Riesling / 100%; Nederlandse sticker noemt ten onrechte ook Colombard. IPC noemt 2021 / 11,5%; fysiek 2024 / 12% gevolgd. Ingrediëntenlijst op 17 oktober 2026 op verzoek van de gebruiker overgenomen van Classic Emerald Riesling & Colombard. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
       7,
       8
@@ -415,7 +415,7 @@ window.KPI_PRODUCTS = [
     "isWine": true,
     "productInfo": {
       "Type": "Rosé",
-      "Wijnstijl": "Halfdroog volgens producentenetiket",
+      "Wijnstijl": "Halfdroog",
       "Druiven": "Cabernet Sauvignon & Shiraz",
       "Serie": "Classic",
       "Herkomst": "Israël",
@@ -960,7 +960,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -980,7 +980,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Afzonderlijke variant, 2023, 750 ml, 12%, 50% Merlot en 50% Argaman, barcode 087752013663 volgens aangeleverde transcriptie. Geen nieuwe foto bijgevoegd om de certificerende instantie onafhankelijk te controleren.",
+    "reviewNotes": "Aanvulling gebruiker 17 september 2026: fysieke fles vermeldt mevushal, kosher voor Pesach en sulfieten. Afzonderlijke variant, 2023, 750 ml, 12%, 50% Merlot en 50% Argaman, barcode 087752013663 volgens aangeleverde transcriptie. Ingrediëntenlijst op 17 oktober 2026 op verzoek van de gebruiker overgenomen van Classic Pinot Noir. Geen nieuwe foto bijgevoegd om de certificerende instantie onafhankelijk te controleren.",
     "sourcePhotos": [],
     "sources": [
       {
@@ -1081,7 +1081,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 12%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1101,7 +1101,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": " Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "Ingrediëntenlijst op 17 oktober 2026 op verzoek van de gebruiker overgenomen van Classic Pinot Noir. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
       27,
       28
@@ -1591,7 +1591,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1611,7 +1611,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Eerdere registratie (historisch): Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
+    "reviewNotes": "Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Eerdere registratie (historisch): Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Controle 17 september 2026: opgegeven 750 ml, 13%, droog en Galilea komen overeen. Ingrediëntenlijst op 17 oktober 2026 op verzoek van de gebruiker overgenomen van Classic Pinot Noir. Bestaande flesbarcode 7290000024202 behouden; geen nieuwe foto voor hercontrole meegeleverd.",
     "sourcePhotos": [
       37,
       38
@@ -1668,7 +1668,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1688,7 +1688,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Nee"
     },
-    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Eerdere registratie (historisch): Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
+    "reviewNotes": "Jaargang en alcoholpercentage bijgewerkt volgens de nieuwe flesfoto’s. Controle 8 oktober 2026 op nieuwe fysieke etiketfoto’s: יין לא מבושל betekent niet mevushal. Badatz Edah HaChareidis Jeruzalem leesbaar. Eerdere registratie (historisch): Aanvulling gebruiker 17 september 2026 bevestigt Reserve Merlot, 750 ml, 13%, droge rode wijn, Galilea en sulfieten. Ingrediëntenlijst op 17 oktober 2026 op verzoek van de gebruiker overgenomen van Classic Pinot Noir. Bestaande barcode behouden. Certificerende instantie en mevushalstatus niet betrouwbaar leesbaar op beschikbare foto; geen keurmerk van andere Reserve-wijn overgenomen.",
     "sourcePhotos": [
       35,
       36
@@ -1746,7 +1746,7 @@ window.KPI_PRODUCTS = [
     "brand": "Barkan",
     "category": "Rode wijn",
     "variant": "750 ml · 13,5%",
-    "ingredients": "Sulfieten.",
+    "ingredients": "Druiven, zwaveldioxide (E220), wijnsteenzuur (E334), stikstof.",
     "allergens": [
       "Sulfieten"
     ],
@@ -1766,7 +1766,7 @@ window.KPI_PRODUCTS = [
       "Sluiting": "Kurk",
       "Mevushal": "Ja"
     },
-    "reviewNotes": "IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
+    "reviewNotes": "IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Ingrediëntenlijst op 17 oktober 2026 op verzoek van de gebruiker overgenomen van Classic Pinot Noir. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.",
     "sourcePhotos": [
       33,
       34

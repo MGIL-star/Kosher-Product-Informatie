@@ -107,7 +107,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-classic
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4536313126.jpg).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (niet mevushal).
 Allergenen: SULFIETEN.
-Controle: Extra afzonderlijke variant uit fotoserie. Voorzijde en producent noemen Emerald Riesling / 100%; Nederlandse sticker noemt ten onrechte ook Colombard. IPC noemt 2021 / 11,5%; fysiek 2024 / 12% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Extra afzonderlijke variant uit fotoserie. Voorzijde en producent noemen Emerald Riesling / 100%; Nederlandse sticker noemt ten onrechte ook Colombard. IPC noemt 2021 / 11,5%; fysiek 2024 / 12% gevolgd. Ingrediëntenlijst op 17 oktober 2026 op verzoek van gebruiker overgenomen van Classic Emerald Riesling & Colombard. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 5. Barkan Premieur Emerald Riesling Colombard
 
@@ -179,7 +179,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-classic
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4279605954.png).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushalstatus nog te controleren).
 Allergenen: SULFIETEN.
-Controle: Expliciet genoemd in opdracht, maar geen bijbehorende fysieke flesfoto aangetroffen. Jaar, alcohol en omschrijving uit IPC; inhoud, barcode, hechsher en aansluiting op winkelvoorraad nog te controleren. Allergenen aanvullend op productniveau gecontroleerd, zie toelichting. Aanvullende controle: sulfieten vermeld bij deze productvariant in Galaxus — Merlot Argaman, oudere jaargang. Dit is geen bevestiging van de volledige declaratie van de gefotografeerde jaargang; daarom expliciete toelichting in de modal. Alcohol, barcode en overige ingrediënten niet van die bron overgenomen. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in ingrediënten, alcohol of kosherstatus afgeleid van een andere jaargang. FoodsDictionary vermeldt in 2010 Merlot, Argaman en zwaveldioxide. Oude mengverhouding niet overgenomen. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Expliciet genoemd in opdracht, maar geen bijbehorende fysieke flesfoto aangetroffen. Jaar, alcohol en omschrijving uit IPC; inhoud, barcode, hechsher en aansluiting op winkelvoorraad nog te controleren. Allergenen aanvullend op productniveau gecontroleerd, zie toelichting. Aanvullende controle: sulfieten vermeld bij deze productvariant in Galaxus — Merlot Argaman, oudere jaargang. Dit is geen bevestiging van de volledige declaratie van de gefotografeerde jaargang; daarom expliciete toelichting in de modal. Ingrediëntenlijst op 17 oktober 2026 op verzoek van gebruiker overgenomen van Classic Pinot Noir, niet van de historische bron. Aanvullende Israëlische bron gecontroleerd; geen onbevestigde wijzigingen in alcohol of kosherstatus afgeleid van een andere jaargang. FoodsDictionary vermeldt in 2010 Merlot, Argaman en zwaveldioxide. Oude mengverhouding niet overgenomen. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 14. Barkan Classic Argaman
 
@@ -187,7 +187,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-classic
 Snapshot: [originele afbeelding](https://isreal-winkel.ams3.digitaloceanspaces.com/09310%20Barkan%20Classic%20Argaman%20apr%2025-01KKP1MDZS2FQXBKKAGXGPCCKX.jpg).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).
 Allergenen: SULFIETEN.
-Controle:  Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 15. Barkan Classic Malbec
 
@@ -195,7 +195,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-classic
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/4536313131.jpg).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).
 Allergenen: SULFIETEN.
-Controle:  Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Ingrediëntenlijst op 17 oktober 2026 op verzoek van gebruiker overgenomen van Classic Pinot Noir. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 16. Barkan Classic Cabernet Sauvignon
 
@@ -219,7 +219,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-platinu
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/3850427837.jpg).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushal).
 Allergenen: SULFIETEN.
-Controle: IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: IPC noemt 2021 / 14%; fysiek 2023 / 13,5% gevolgd. Ingrediëntenlijst op 17 oktober 2026 op verzoek van gebruiker overgenomen van Classic Pinot Noir. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 19. Barkan Reserve Merlot
 
@@ -227,7 +227,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-reserve
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607635777.jpg).
 Hechsher: Badatz Edah HaChareidis Jeruzalem. Omcirkeld K-P-keurmerk (mevushalstatus nog te controleren).
 Allergenen: SULFIETEN.
-Controle: Achteretiket gedeeltelijk buiten beeld / beschadigd: alcohol, volledige allergenendeclaratie en certificering niet betrouwbaar leesbaar. IPC noemt 13%, maar fysieke waarde niet bevestigd. Inhoud 750 ml van IPC-productafbeelding; nog met fles controleren. Aanvullende controle: sulfieten vermeld bij deze productvariant in IsraelWein — Reserve Merlot. Dit is geen bevestiging van de volledige declaratie van de gefotografeerde jaargang; daarom expliciete toelichting in de modal. Alcohol, barcode en overige ingrediënten niet van die bron overgenomen. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
+Controle: Achteretiket gedeeltelijk buiten beeld / beschadigd: alcohol, volledige allergenendeclaratie en certificering niet betrouwbaar leesbaar. IPC noemt 13%, maar fysieke waarde niet bevestigd. Inhoud 750 ml van IPC-productafbeelding; nog met fles controleren. Aanvullende controle: sulfieten vermeld bij deze productvariant in IsraelWein — Reserve Merlot. Dit is geen bevestiging van de volledige declaratie van de gefotografeerde jaargang; daarom expliciete toelichting in de modal. Ingrediëntenlijst op 17 oktober 2026 op verzoek van gebruiker overgenomen van Classic Pinot Noir, niet van de historische bron. Uniforme hechshertekst volgens opgave gebruiker. Mevushalstatus uitsluitend per variant beoordeeld; ontbrekende bevestiging blijft zichtbaar.
 
 ### 20. Barkan Reserve Cabernet Sauvignon
 
@@ -235,7 +235,7 @@ Bron: [IPC / Israëlwinkel](https://www.israelwinkel.nl/producten/barkan-reserve
 Snapshot: [originele afbeelding](https://d2j6dbq0eux0bg.cloudfront.net/images/33520419/1607641228.jpg).
 Hechsher: Op het etiket: heter mechira, Opperrabbinaat van Israël (mevushalstatus nog te controleren).
 Allergenen: SULFIETEN.
-Controle: Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd.
+Controle: Etiket vermeldt heter mechira / sjmita. Geen Edah-certificering afgeleid van andere Barkan-producten. IPC noemt 13,5%; fysieke 13% gevolgd. Ingrediëntenlijst op 17 oktober 2026 op verzoek van gebruiker overgenomen van Classic Pinot Noir.
 
 ### 21. Zmora Cabernet Sauvignon
 

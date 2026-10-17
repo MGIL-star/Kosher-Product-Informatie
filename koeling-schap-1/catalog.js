@@ -31,7 +31,7 @@
     const m = product.kosherMark;
     if (!m) return '';
     const scale = Number(m.scale) || 1;
-    return `<a href="${escapeHtml(m.image)}" target="_blank" rel="noopener" aria-label="Bekijk keurmerk in de originele leverancierscatalogus"><span style="display:block;position:relative;overflow:hidden;width:${m.width * scale}px;height:${m.height * scale}px"><img src="${escapeHtml(m.image)}" alt="Hechser uit leverancierscatalogus" style="position:absolute;max-width:none;width:${m.sourceWidth * scale}px;height:auto;left:${-m.x * scale}px;top:${-m.y * scale}px"></span></a>`;
+    return `<a href="${escapeHtml(m.image)}" target="_blank" rel="noopener" aria-label="Bekijk keurmerk in de originele leverancierscatalogus"><span style="display:block;position:relative;overflow:hidden;width:${m.width * scale}px;height:${m.height * scale}px"><img src="${escapeHtml(m.image)}" alt="Hechsjer uit leverancierscatalogus" style="position:absolute;max-width:none;width:${m.sourceWidth * scale}px;height:auto;left:${-m.x * scale}px;top:${-m.y * scale}px"></span></a>`;
   }
 
   function productImage(product, large = false) {
@@ -93,7 +93,7 @@
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);
-    dialog.showModal();
+    if (!dialog.open) dialog.showModal();
   }
 
   document.querySelector('.filters').addEventListener('click', event => {

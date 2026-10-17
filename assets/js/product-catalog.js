@@ -87,14 +87,14 @@
       ${!nonFood && product.allergens !== null ? `<section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p>${escapeHtml(product.allergenNote)}</p>` : ''}</section>` : ''}
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p>${product.kosherNote ? `<p class="kosher-note">${escapeHtml(product.kosherNote)}</p>` : ''}</section>` : ''}
+      ${product.kosher ? `<section class="hechsher"><h3>Hechsjer</h3><p>${escapeHtml(hechsherText(product.kosher))}</p>${product.kosherNote ? `<p class="kosher-note">${escapeHtml(product.kosherNote)}</p>` : ''}</section>` : ''}
       ${nonFood && product.identificationNote ? `<section class="identification-note"><h3>Identificatie</h3><p>${escapeHtml(product.identificationNote)}</p></section>` : ''}
       ${nonFood && showReferences && product.supplier ? `<section><h3>Bij Israelwinkel</h3><p><a href="${escapeHtml(product.supplier.url)}" target="_blank" rel="noopener noreferrer">Bekijk ${escapeHtml(product.name)}${product.supplier.variant ? ` — ${escapeHtml(product.supplier.variant)}` : ''}</a></p>${product.supplier.sku ? `<p>Artikelnummer: ${escapeHtml(product.supplier.sku)}</p>` : ''}</section>` : ''}
       ${nonFood && showReferences && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);
-    dialog.showModal();
+    if (!dialog.open) dialog.showModal();
   }
 
   document.querySelector('.filters').addEventListener('click', event => {

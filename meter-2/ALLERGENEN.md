@@ -44,7 +44,7 @@ Foto’s: 4.jpg, 5.jpg.
 
 ## 4. Barkan Classic Emerald Riesling
 
-**Ingrediënteninformatie:** Op het etiket vermeld: zwaveldioxide en sorbinezuur.
+**Ingrediënteninformatie:** Druiven, kaliumsorbaat (E202), wijnsteenzuur (E334), carboxymethylcellulose (E466) en stikstof. Op verzoek van de gebruiker op 17 oktober 2026 overgenomen van Classic Emerald Riesling & Colombard.
 
 **Allergenen:** SULFIETEN.
 
@@ -157,7 +157,7 @@ Foto’s: 23.jpg, 24.jpg.
 
 ## 13. Barkan Classic Merlot Argaman
 
-**Ingrediënteninformatie:** De online productinformatie vermeldt dat deze wijn sulfieten bevat.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. Op verzoek van de gebruiker op 17 oktober 2026 overgenomen van Classic Pinot Noir.
 
 **Allergenen:** SULFIETEN.
 
@@ -183,7 +183,7 @@ Foto’s: 25.jpg, 26.jpg.
 
 ## 15. Barkan Classic Malbec
 
-**Ingrediënteninformatie:** Het etiket vermeldt: bevat sulfieten.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. Op verzoek van de gebruiker op 17 oktober 2026 overgenomen van Classic Pinot Noir.
 
 **Allergenen:** SULFIETEN.
 
@@ -221,7 +221,7 @@ Foto’s: 31.jpg, 32.jpg.
 
 ## 18. Barkan Platinum Cabernet Sauvignon
 
-**Ingrediënteninformatie:** Het etiket vermeldt: bevat sulfieten.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. Op verzoek van de gebruiker op 17 oktober 2026 overgenomen van Classic Pinot Noir.
 
 **Allergenen:** SULFIETEN.
 
@@ -233,7 +233,7 @@ Foto’s: 33.jpg, 34.jpg.
 
 ## 19. Barkan Reserve Merlot
 
-**Ingrediënteninformatie:** De online productinformatie vermeldt dat deze wijn sulfieten bevat.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. Op verzoek van de gebruiker op 17 oktober 2026 overgenomen van Classic Pinot Noir.
 
 **Allergenen:** SULFIETEN.
 
@@ -246,7 +246,7 @@ Foto’s: 35.jpg, 36.jpg.
 
 ## 20. Barkan Reserve Cabernet Sauvignon
 
-**Ingrediënteninformatie:** Het etiket vermeldt: bevat sulfieten.
+**Ingrediënteninformatie:** Druiven, zwaveldioxide (E220), wijnsteenzuur (E334) en stikstof. Op verzoek van de gebruiker op 17 oktober 2026 overgenomen van Classic Pinot Noir.
 
 **Allergenen:** SULFIETEN.
 

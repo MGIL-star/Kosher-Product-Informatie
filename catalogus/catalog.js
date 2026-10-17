@@ -76,7 +76,7 @@
       +(kosher?'<section class="hechsher"><h3>Hechsjer</h3><p class="notranslate" translate="no">'+kosher+'</p></section>':'')
       +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p></section></div>';
     window.KPI_normalizeProductLayout($('#product-detail'), p);
-    $('#product-dialog').showModal();
+    const productDialog = $('#product-dialog'); if (!productDialog.open) productDialog.showModal();
     window.CatalogTranslation?.refresh();
   }
   function cartRows(){return Object.entries(cart).map(([key,qty])=>({p:products.find(p=>p.key===key),qty,key})).filter(row=>row.p);}
