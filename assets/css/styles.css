@@ -31,3 +31,4 @@
 .product-dialog-nav-button:disabled{opacity:.32;cursor:default}
 .product-dialog-nav-button:not(:disabled):hover{background:#fff;color:var(--green-950,#0c2f28)}
 .product-dialog-nav-button:focus-visible{outline:1px solid var(--green-700,#276c58);outline-offset:2px}
+@media(max-width:359px){.product-dialog .product-visual-large img{padding-inline:50px}}
