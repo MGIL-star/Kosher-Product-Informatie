@@ -21,7 +21,9 @@
 
   function placeNavigation() {
     const photo = host.querySelector('.dialog-product .product-visual-large');
-    if (photo && nav.parentElement !== photo) photo.append(nav);
+    if (!photo) return;
+    if (nav.parentElement !== photo) photo.append(nav);
+    photo.classList.add('product-navigation-photo-anchor');
   }
 
   function update() {
