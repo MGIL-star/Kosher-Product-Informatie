@@ -3,6 +3,8 @@
   'use strict';
   const names = {nl:'Nederlands',fr:'Français',en:'English',iw:'עברית'};
   const nav = document.querySelector('.catalog-languages');
+  const languageScript = document.currentScript;
+  const languageAsset = path => new URL(path, languageScript?.src || location.href).href;
   const status = document.createElement('span');
   status.className = 'translation-status'; status.setAttribute('role','status');
   nav.after(status);
@@ -31,10 +33,16 @@
   const titleObserver = new MutationObserver(() => {
     if (translated) cleanProductTitles(active);
   });
-  ['products','product-detail','cart-items'].forEach(id => {
+  ['products','product-detail','cart-items','product-grid','dialog-content'].forEach(id => {
     const target = document.getElementById(id);
     if (target) titleObserver.observe(target,{subtree:true,childList:true,characterData:true});
   });
+  document.addEventListener('click', event => {
+    if (event.target.closest('#product-grid [data-product-id], .filters [data-filter]')) {
+      setTimeout(() => window.CatalogTranslation?.refresh(), 0);
+    }
+  });
+  document.querySelector('#search')?.addEventListener('input', () => window.CatalogTranslation?.refresh());
   window.CatalogTranslation = {
     beforeUpdate() {
       clearTimeout(refreshTimer);
@@ -83,7 +91,7 @@
     button.type = 'button'; button.className = 'glink notranslate'; button.dataset.lang = code;
     button.title = name; button.lang = code === 'iw' ? 'he' : code; button.setAttribute('aria-label',name);
     const img = document.createElement('img');
-    img.src = code === 'nl' ? 'netherlands-flag.svg' : code === 'iw' ? 'israel-flag.svg?v=2' : 'https://cdn.gtranslate.net/flags/svg/' + code + '.svg';
+    img.src = code === 'nl' ? languageAsset('netherlands-flag.svg') : code === 'iw' ? languageAsset('israel-flag.svg?v=2') : 'https://cdn.gtranslate.net/flags/svg/' + code + '.svg';
     img.alt = ''; img.width = 32; img.height = 24;
     const label = document.createElement('span'); label.textContent = name;
     const frame = document.createElement('span'); frame.className = 'flag-icon'; frame.append(img);
