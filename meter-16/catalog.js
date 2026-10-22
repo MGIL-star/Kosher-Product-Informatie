@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const products = window.KPI_PRODUCTS || [];
+  const products = (window.KPI_PRODUCTS || []).filter(product => !product.temporarilyHidden);
   const grid = document.querySelector('#product-grid');
   const search = document.querySelector('#search');
   const count = document.querySelector('#result-count');

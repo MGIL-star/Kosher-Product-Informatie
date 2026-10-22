@@ -814,6 +814,39 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: 705b4027-90ff-4177-ad47-d5aebc03e54c.jpg"
   },
   {
+    "id": 51,
+    "brand": "Shim’on Ariche",
+    "name": "Harissa Forte",
+    "variant": "210 g",
+    "ean": "3662444007471",
+    "ingredients": "Hete pepers, verse knoflook, water, zout, natuurlijk verdikkingsmiddel.",
+    "allergens": null,
+    "category": "Hartige Smaakmakers",
+    "kosher": "Rabbinat Lubavitch de France (Parve)",
+    "image": "images/shimon-ariche-harissa-forte-packshot.png",
+    "imageEdited": true,
+    "sourcePhotos": [
+      "source-photos/shimon-ariche-harissa-forte-front.jpg",
+      "source-photos/shimon-ariche-harissa-forte-ingredients.jpg",
+      "source-photos/shimon-ariche-harissa-forte-barcode-kosher.jpg"
+    ],
+    "ingredientsSource": "Etiketfoto gebruiker, aangeleverd op 2026-10-22.",
+    "barcodeSource": "Etiketfoto gebruiker, barcode 3662444007471; controlecijfer geldig.",
+    "kosherSource": "Etiketfoto gebruiker, Rabbinat Lubavitch de France en Parve zichtbaar op de verpakking.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbinat Lubavitch de France (Parve)"
+    ],
+    "sourceUrl": "https://e-kosher.gr/en/home/2177-harissa-forte-210gr-shimon-ariche.html",
+    "reviewNotes": "Ingrediënten, barcode, hechsher en Parve-status afgelezen van de door gebruiker aangeleverde etiketfoto. Het gewicht 210 g wordt ook door de productvermelding bevestigd.",
+    "imageBounds": [
+      0.152,
+      0.112,
+      0.841,
+      0.94
+    ]
+  },
+  {
     "id": 29,
     "brand": "Kineret Agro",
     "name": "Harissa Bedouine",

@@ -1234,6 +1234,81 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 35,
+    "name": "Gevulde Peperkoek met Abrikozenvulling in Pure Chocolade",
+    "brand": "Kopernik",
+    "category": "Koekjes",
+    "variant": "145 g",
+    "ean": "5900056008263",
+    "ingredients": "Pure chocolade 23% (suiker, cacaomassa, cacaoboter, emulgator (sojalecithine), aroma), tarwemeel, vulling 21% (appelmoes, suiker, geconcentreerde abrikozenmoes 0,2%, geleermiddel (pectinen), zuurteregelaar (citroenzuur), conserveermiddel (kaliumsorbaat), aroma, kleurstof (curcumine)), suiker, roggemeel, aardappelzetmeel, kleurstof (karamel), rijsmiddel (ammoniumcarbonaten), specerijen, zout, zuurteregelaar (citroenzuur).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Rogge (gluten)",
+      "Soja"
+    ],
+    "kosher": "Orthodox Union (Dairy)",
+    "image": "images/kopernik-pierniki-apricot-dark-chocolate-packshot.png",
+    "sourcePhotos": [
+      "source-photos/cookies-20261022/photo-01-front.jpg"
+    ],
+    "sourceUrl": "https://sklepkopernika.pl/product/37/pierniki-nadziewane-w-deserowej-czekoladzie.html",
+    "productInfo": {},
+    "mayContain": "Kan ei, melk, pinda’s en noten bevatten.",
+    "kosherLines": [
+      "Orthodox Union (Dairy)"
+    ],
+    "ingredientsSourceUrl": "https://sklepkopernika.pl/product/37/pierniki-nadziewane-w-deserowej-czekoladzie.html",
+    "barcodeSourceUrl": "https://sklepkopernika.pl/product/37/pierniki-nadziewane-w-deserowej-czekoladzie.html",
+    "kosherSource": "Fysieke verpakking (OU Dairy-symbool)",
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "directory": "source-photos/cookies-20261022",
+      "photos": [
+        "photo-01-front.jpg",
+        "photo-01-barcode.jpg",
+        "photo-01-ingredients.jpg"
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "name": "Gevulde Peperkoek met Zwartebessenvulling in Witte Chocolade",
+    "brand": "Kopernik",
+    "category": "Koekjes",
+    "variant": "150 g",
+    "ean": "5900056008287",
+    "ingredients": "Witte chocolade 30% (suiker, cacaoboter, volle melkpoeder, weipoeder, emulgator (sojalecithine), aroma), tarwemeel, vulling 19% (appelmoes, suiker, geconcentreerd zwartebessensap 0,2%, geleermiddel (pectinen), zuurteregelaar (citroenzuur), conserveermiddel (kaliumsorbaat), aroma, geconcentreerd appelbessensap), suiker, roggemeel, aardappelzetmeel, kleurstof (karamel), rijsmiddel (ammoniumcarbonaten), specerijen, zout, zuurteregelaar (citroenzuur).",
+    "allergens": [
+      "Melk",
+      "Tarwe (gluten)",
+      "Rogge (gluten)",
+      "Soja"
+    ],
+    "kosher": "Orthodox Union (Dairy)",
+    "image": "images/kopernik-pierniki-blackcurrant-white-chocolate-packshot.png",
+    "sourcePhotos": [
+      "source-photos/cookies-20261022/photo-02-front.jpg"
+    ],
+    "sourceUrl": "https://sklepkopernika.pl/product/1/pierniki-nadziewane-w-bialej-czekoladzie-czarna-porzeczka.html",
+    "productInfo": {},
+    "mayContain": "Kan ei, pinda’s, noten en sesam bevatten.",
+    "kosherLines": [
+      "Orthodox Union (Dairy)"
+    ],
+    "ingredientsSourceUrl": "https://sklepkopernika.pl/product/1/pierniki-nadziewane-w-bialej-czekoladzie-czarna-porzeczka.html",
+    "barcodeSourceUrl": "https://sklepkopernika.pl/product/1/pierniki-nadziewane-w-bialej-czekoladzie-czarna-porzeczka.html",
+    "kosherSource": "Fysieke verpakking (OU Dairy-symbool)",
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "directory": "source-photos/cookies-20261022",
+      "photos": [
+        "photo-02-front.jpg",
+        "photo-02-barcode.jpg",
+        "photo-02-ingredients.jpg"
+      ]
+    }
+  },
+  {
     "id": 25,
     "name": "Koffiekoekjes met Chocolade en Vanille",
     "brand": "BERMAN",

@@ -1,6 +1,7 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
+    "temporarilyHidden": true,
     "brand": "Lieber’s",
     "name": "Aardappelchips Naturel",
     "variant": "340 g",
@@ -52,6 +53,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
+    "temporarilyHidden": true,
     "brand": "Lieber’s",
     "name": "Aardappelchips met Honingsmaak",
     "variant": "227 g",
@@ -101,6 +103,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
+    "temporarilyHidden": true,
     "brand": "Lieber’s",
     "name": "Maïschips Naturel",
     "variant": "312 g",
@@ -152,6 +155,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
+    "temporarilyHidden": true,
     "brand": "Lieber’s",
     "name": "Ketelgebakken Chips Naturel",
     "variant": "141 g",
@@ -204,6 +208,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
+    "temporarilyHidden": true,
     "brand": "Lieber’s",
     "name": "Ketelgebakken Chips met Barbecuesmaak",
     "variant": "141 g",
@@ -256,6 +261,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
+    "temporarilyHidden": true,
     "brand": "Lieber's",
     "name": "Barbecueringen Gezinsverpakking",
     "variant": "10 × 15 g · 150 g",
@@ -305,6 +311,99 @@ window.KPI_PRODUCTS = [
       "Badatz Edah HaChareidis (Parve)",
       "Jeruzalem"
     ]
+  },
+  {
+    "id": 37,
+    "brand": "Shneider’s",
+    "name": "Mr. Hipster Gezouten Naturel Chips Multipack",
+    "variant": "5 × 30 g (150 g)",
+    "category": "Snacks",
+    "ean": "194961002866",
+    "ingredients": "Aardappelen (76%), zonnebloemolie met hoog oliezuurgehalte, gejodeerd zout (1%).",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosher": "CRC Hisachdus Harabonim (Parve)",
+    "sources": [],
+    "image": "images/mr-hipster-salted-5pack-packshot.png",
+    "imageOriginal": "images/elisha-mr-hipster-salted-5pack-source.jpg",
+    "imageRetouched": true,
+    "imageSource": "https://elisha.be/image/cache/catalog/Pics%202023/EPS_10-600x600.jpg",
+    "imageSourcePage": "https://elisha.be/en/mr-hipster-5-pack-sea-salted-classic-chips",
+    "reviewNote": "Packshot rechtgezet op basis van de officiële productfoto; de verpakking en productgegevens zijn gecontroleerd aan de hand van de fysieke verpakking en Elisha.",
+    "englishName": "Mr. Hipster 5 pack Salted Classic Chips",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "CRC Hisachdus Harabonim (Parve)",
+      "Rabbi E. L. Schneebalg",
+      "STAR-K"
+    ],
+    "productInfo": {}
+  },
+  {
+    "id": 38,
+    "brand": "Shneider’s",
+    "name": "Mr. Hipster Gezouten Ribbelchips Multipack",
+    "variant": "6 × 25 g (150 g)",
+    "category": "Snacks",
+    "ean": "194961002873",
+    "ingredients": "Aardappelen (63%), zonnebloemolie, zout (1%).",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosher": "CRC Hisachdus Harabonim (Parve)",
+    "sources": [],
+    "image": "images/mr-hipster-wavy-6pack-packshot.png",
+    "imageOriginal": "images/elisha-mr-hipster-wavy-6pack-source.jpg",
+    "imageRetouched": true,
+    "imageSource": "https://elisha.be/image/cache/catalog/Pics%202023/EPS_11-600x600.jpg",
+    "imageSourcePage": "https://elisha.be/en/mr-hipster-6-pack-salted-classic-chips",
+    "reviewNote": "Packshot rechtgezet op basis van de officiële productfoto; de verpakking en productgegevens zijn gecontroleerd aan de hand van de fysieke verpakking en Elisha.",
+    "englishName": "Mr. Hipster 6 pack Salted Wavy Chips",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "CRC Hisachdus Harabonim (Parve)",
+      "Rabbi E. L. Schneebalg",
+      "STAR-K"
+    ],
+    "productInfo": {}
+  },
+  {
+    "id": 39,
+    "brand": "Shneider’s",
+    "name": "Mr. Hipster Gezouten Popcorn Multipack",
+    "variant": "5 × 20 g (100 g)",
+    "category": "Snacks",
+    "ean": "194961002880",
+    "ingredients": "Maïs (72%), zonnebloemolie met hoog oliezuurgehalte, zout (1%).",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosher": "CRC Hisachdus Harabonim (Parve)",
+    "sources": [],
+    "image": "images/mr-hipster-popcorn-5pack-packshot.png",
+    "imageOriginal": "images/elisha-mr-hipster-popcorn-5pack-source.jpg",
+    "imageRetouched": true,
+    "imageSource": "https://elisha.be/image/cache/catalog/Pics%202023/EPS_12-600x600.jpg",
+    "imageSourcePage": "https://elisha.be/en/mr-hipster-5-pack-salted-popcorn?search=popcorn",
+    "reviewNote": "Packshot rechtgezet op basis van de officiële productfoto; productnaam, verpakking, barcode, gewicht en keurmerken zijn gecontroleerd aan de hand van Elisha.",
+    "englishName": "Mr. Hipster 5 pack Salted Popcorn",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "CRC Hisachdus Harabonim (Parve)",
+      "Rabbi E. L. Schneebalg",
+      "STAR-K"
+    ],
+    "productInfo": {}
   },
   {
     "id": 7,
@@ -462,39 +561,6 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
-    "id": 36,
-    "brand": "Thai Coco",
-    "name": "Kokoswater",
-    "variant": "1 l",
-    "category": "Dranken",
-    "ean": "8850227021140",
-    "ingredients": "Kokoswater (100%).",
-    "allergens": [],
-    "mayContain": "",
-    "warning": "",
-    "kosher": "OU (Parve)",
-    "sources": [],
-    "image": "images/thai-coco-coconut-water.png",
-    "imageOriginal": "images/imageOriginal/thai-coco-front.jpg",
-    "imageRetouched": true,
-    "englishName": "100% Coconut Water",
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-15",
-      "photos": [
-        "images/imageOriginal/thai-coco-back.jpg",
-        "images/imageOriginal/thai-coco-kosher-mark.jpg"
-      ]
-    },
-    "kosherStatus": "Parve",
-    "kosherLines": [
-      "OU (Parve)"
-    ],
-    "productInfo": {}
-  },
-  {
     "id": 33,
     "brand": "Shneider’s",
     "name": "Mr. Hipster Klassieke Tortillachips",
@@ -572,7 +638,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 10,
     "brand": "Lieber’s",
-    "name": "Pretzelstokjes",
+    "name": "Dikke Pretzelstengels",
     "variant": "340 g",
     "category": "Snacks",
     "ean": "043427182010",
@@ -580,40 +646,32 @@ window.KPI_PRODUCTS = [
       20,
       21
     ],
-    "ingredients": "Ongebleekt verrijkt TARWEmeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat [B1], riboflavine [B2], foliumzuur), mout, zout, SOJAolie, soda.",
+    "ingredients": "Ongebleekt verrijkt tarwemeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat (B1), riboflavine (B2), foliumzuur), mout, zout, sojaolie, soda.",
     "allergens": [
-      "TARWE (GLUTEN)",
-      "SOJA"
+      "Tarwe (gluten)",
+      "Soja"
     ],
-    "mayContain": "Geproduceerd in een fabriek die ook sesamzaad, chocolade, pindakaas, kaas, specerijen, pinda’s, andere sojaproducten, noten en tarwemeel verwerkt.",
+    "mayContain": "Geproduceerd in een fabriek die ook sesam, chocolade, honing, pinda’s, kaas, specerijen, sojaolie, andere sojaproducten, noten en tarwe verwerkt. Lees de ingrediëntenlijst zorgvuldig.",
     "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "./images/sourdough-strak.png",
-    "imageSource": "https://market50.b-cdn.net/farmtofamily/products/Pretzel-Bytes-765840152.jpg",
-    "reviewNote": "Packshot rechtgezet en strak geretoucheerd; op 1 oktober 2026 door gebruiker als gewenste fotokwaliteit goedgekeurd. Productgegevens blijven gebaseerd op het etiket.",
-    "imageSourcePage": "https://www.123fresh.co.il/lieber-39-s-pretzel-bytes1",
-    "imageBounds": [
-      0.183,
-      0.021,
-      0.819,
-      0.978
-    ],
-    "imageOriginal": "images/sourdough-yellow-source.jpg",
+    "image": "./images/pretzels-sticks-packshot.png",
+    "imageOriginal": "source-photos/pretzels-20261022/photo-04.jpg",
     "imageRetouched": true,
-    "englishName": "Pretzel Sticks",
+    "reviewNote": "Packshot rechtgezet en vrijstaand gemaakt op wit op basis van de aangeleverde voorzijde; gegevens gecontroleerd aan de bijbehorende achterzijde en barcodefoto.",
+    "imageSourcePage": "",
+    "englishName": "Pretzel Rods",
     "ingredientsComplete": true,
     "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
     "kosherStatus": "Parve",
     "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/meter16-bron-20261011",
+      "date": "2026-10-22",
+      "directory": "source-photos/pretzels-20261022",
       "photos": [
-        "43109573-1e41-4350-ad07-836790840bf7.jpg",
-        "f1fa41c8-0b88-4411-a9ef-3999a5b1e1f5.jpg",
-        "80635b5e-96f3-47f5-b83a-3fd2f9fa51b8.jpg",
-        "ead0b127-3068-4a36-9ed5-8c9912ba20da.jpg"
+        "photo-04.jpg",
+        "photo-05.jpg",
+        "photo-06.jpg"
       ]
     },
     "productInfo": {},
@@ -634,40 +692,32 @@ window.KPI_PRODUCTS = [
       23,
       24
     ],
-    "ingredients": "Ongebleekt verrijkt TARWEmeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat [B1], riboflavine [B2], foliumzuur), zout, SOJAolie, mout en gist.",
+    "ingredients": "Ongebleekt verrijkt tarwemeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat (B1), riboflavine (B2), foliumzuur), mout, zout, sojaolie, soda.",
     "allergens": [
-      "TARWE (GLUTEN)",
-      "SOJA"
+      "Tarwe (gluten)",
+      "Soja"
     ],
-    "mayContain": "Geproduceerd in een fabriek die ook sesamzaad, chocolade, pindakaas, kaas, specerijen, pinda’s, andere sojaproducten, noten en tarwemeel verwerkt.",
+    "mayContain": "Geproduceerd in een fabriek die ook sesam, chocolade, honing, pinda’s, kaas, specerijen, sojaolie, andere sojaproducten, noten en tarwe verwerkt. Lees de ingrediëntenlijst zorgvuldig.",
     "warning": "",
     "kosher": "Rabbi M. Weissmandl (Parve)",
     "sources": [],
-    "image": "./images/braided-yellow-strak.png",
-    "imageSource": "https://market50.b-cdn.net/farmtofamily/products/Pretzel-Bytes-765840152.jpg",
-    "reviewNote": "Gele verpakking digitaal samengesteld uit het online gele verpakkingssjabloon en referentiefoto 22 van de werkelijke Braided-variant. Gevlochten pretzels, geel/rood ontwerp en 340 g; geen Sourdough-opdruk. Vervangt de afwijkende paarse zak.",
-    "imageSourcePage": "https://www.123fresh.co.il/lieber-39-s-pretzel-bytes1",
-    "imageBounds": [
-      0.183,
-      0.021,
-      0.819,
-      0.978
-    ],
-    "imageOriginal": "images/sourdough-yellow-source.jpg",
+    "image": "./images/pretzels-braided-packshot.png",
+    "imageOriginal": "source-photos/pretzels-20261022/photo-13.jpg",
     "imageRetouched": true,
+    "reviewNote": "Packshot rechtgezet en vrijstaand gemaakt op wit op basis van de aangeleverde voorzijde; gegevens gecontroleerd aan de bijbehorende achterzijde en barcodefoto.",
+    "imageSourcePage": "",
     "englishName": "Braided Pretzels",
     "ingredientsComplete": true,
     "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 11 oktober 2026.",
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
     "kosherStatus": "Parve",
     "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/meter16-bron-20261011",
+      "date": "2026-10-22",
+      "directory": "source-photos/pretzels-20261022",
       "photos": [
-        "5a64f0ff-bcec-4bfa-98b7-273b1661cb57.jpg",
-        "1e496a85-1cab-499b-b095-14f2deb649f5.jpg",
-        "cd859e22-6b9a-4ffe-b690-3c37ec0ac167.jpg",
-        "cf9da0ed-febe-406d-96cc-f7817d11437e.jpg"
+        "photo-13.jpg",
+        "photo-14.jpg",
+        "photo-15.jpg"
       ]
     },
     "productInfo": {},
@@ -675,6 +725,166 @@ window.KPI_PRODUCTS = [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
     ]
+  },
+  {
+    "id": 40,
+    "brand": "Lieber’s",
+    "name": "Mini Pretzels",
+    "variant": "340 g",
+    "category": "Snacks",
+    "ean": "043427182010",
+    "ingredients": "Ongebleekt verrijkt tarwemeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat (B1), riboflavine (B2), foliumzuur), mout, zout, sojaolie, soda.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Geproduceerd in een fabriek die ook sesam, chocolade, honing, pinda’s, kaas, specerijen, sojaolie, andere sojaproducten, noten en tarwe verwerkt. Lees de ingrediëntenlijst zorgvuldig.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/pretzels-mini-packshot.png",
+    "imageOriginal": "source-photos/pretzels-20261022/photo-01.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtgezet en vrijstaand gemaakt op wit op basis van de aangeleverde voorzijde; gegevens gecontroleerd aan de bijbehorende achterzijde en barcodefoto.",
+    "englishName": "Mini Pretzels",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "photos": [
+        "source-photos/pretzels-20261022/photo-01.jpg",
+        "source-photos/pretzels-20261022/photo-02.jpg",
+        "source-photos/pretzels-20261022/photo-03.jpg"
+      ]
+    },
+    "productInfo": {}
+  },
+  {
+    "id": 41,
+    "brand": "Lieber’s",
+    "name": "Dunne Pretzels",
+    "variant": "340 g",
+    "category": "Snacks",
+    "ean": "043427182010",
+    "ingredients": "Ongebleekt verrijkt tarwemeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat (B1), riboflavine (B2), foliumzuur), mout, zout, sojaolie, soda.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Geproduceerd in een fabriek die ook sesam, chocolade, honing, pinda’s, kaas, specerijen, sojaolie, andere sojaproducten, noten en tarwe verwerkt. Lees de ingrediëntenlijst zorgvuldig.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/pretzels-thin-packshot.png",
+    "imageOriginal": "source-photos/pretzels-20261022/photo-07.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtgezet en vrijstaand gemaakt op wit op basis van de aangeleverde voorzijde; gegevens gecontroleerd aan de bijbehorende achterzijde en barcodefoto.",
+    "englishName": "Pretzel Stix",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "photos": [
+        "source-photos/pretzels-20261022/photo-07.jpg",
+        "source-photos/pretzels-20261022/photo-08.jpg",
+        "source-photos/pretzels-20261022/photo-09.jpg"
+      ]
+    },
+    "productInfo": {}
+  },
+  {
+    "id": 42,
+    "brand": "Lieber’s",
+    "name": "Wafelpretzels",
+    "variant": "340 g",
+    "category": "Snacks",
+    "ean": "043427182010",
+    "ingredients": "Ongebleekt verrijkt tarwemeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat (B1), riboflavine (B2), foliumzuur), mout, zout, sojaolie, soda.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Geproduceerd in een fabriek die ook sesam, chocolade, honing, pinda’s, kaas, specerijen, sojaolie, andere sojaproducten, noten en tarwe verwerkt. Lees de ingrediëntenlijst zorgvuldig.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/pretzels-waffle-packshot.png",
+    "imageOriginal": "source-photos/pretzels-20261022/photo-10.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "https://miamikosherfood.com/products/liebers-pretzels-waffles-12-oz",
+    "reviewNote": "Packshot rechtgezet en vrijstaand gemaakt op wit op basis van de aangeleverde voorzijde; productvorm komt overeen met de vermelding Waffle Pretzels voor deze barcode.",
+    "englishName": "Waffle Pretzels",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "photos": [
+        "source-photos/pretzels-20261022/photo-10.jpg",
+        "source-photos/pretzels-20261022/photo-11.jpg",
+        "source-photos/pretzels-20261022/photo-12.jpg"
+      ]
+    },
+    "productInfo": {}
+  },
+  {
+    "id": 43,
+    "brand": "Lieber’s",
+    "name": "Zuurdesempretzels",
+    "variant": "340 g",
+    "category": "Snacks",
+    "ean": "043427182034",
+    "ingredients": "Ongebleekt verrijkt tarwemeel (meel, niacine, gereduceerd ijzer, thiaminemononitraat (B1), riboflavine (B2), foliumzuur), mout, zout, sojaolie, soda.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Geproduceerd in een fabriek die ook sesam, chocolade, honing, pinda’s, kaas, specerijen, sojaolie, andere sojaproducten, noten en tarwe verwerkt. Lees de ingrediëntenlijst zorgvuldig.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/pretzels-sourdough-packshot.png",
+    "imageOriginal": "source-photos/pretzels-20261022/photo-16.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtgezet en vrijstaand gemaakt op wit op basis van de aangeleverde voorzijde; gegevens gecontroleerd aan de bijbehorende achterzijde en barcodefoto.",
+    "englishName": "Sourdough Pretzels",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "photos": [
+        "source-photos/pretzels-20261022/photo-16.jpg",
+        "source-photos/pretzels-20261022/photo-17.jpg",
+        "source-photos/pretzels-20261022/photo-18.jpg"
+      ]
+    },
+    "productInfo": {}
   },
   {
     "id": 12,
@@ -872,6 +1082,176 @@ window.KPI_PRODUCTS = [
         "caf4e37e-12d7-4862-bc5b-92074c3542d6.jpg",
         "35a0382c-731b-4fb4-97dd-deda890f3317.jpg",
         "8899db11-7b4b-4189-8d43-678c559d0ac0.jpg"
+      ]
+    },
+    "productInfo": {},
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
+  },
+  {
+    "id": 44,
+    "brand": "Lieber’s",
+    "name": "Whistles",
+    "variant": "85 g",
+    "category": "Snoep",
+    "ean": "043427400374",
+    "sourcePhotos": [
+      44,
+      45
+    ],
+    "ingredients": "Dextrose, citroenzuur, calciumstearaat, natuurlijke en kunstmatige aroma’s, kleurstoffen (E129, E102, E132, E110).",
+    "allergens": [],
+    "mayContain": "Kan sporen bevatten van pinda’s, noten en sesam.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/liebers-whistles-packshot.png",
+    "imageOriginal": "source-photos/sweets-20261022/photo-01.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtop gemaakt op wit op basis van de aangeleverde voorzijde; etiketgegevens gecontroleerd aan de bijbehorende achterkant.",
+    "englishName": "Whistles",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "directory": "source-photos/sweets-20261022",
+      "photos": [
+        "photo-01.jpg",
+        "photo-02.jpg"
+      ]
+    },
+    "productInfo": {},
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
+  },
+  {
+    "id": 45,
+    "brand": "Lieber’s",
+    "name": "Winkie Pops",
+    "variant": "85 g",
+    "category": "Snoep",
+    "ean": "043427400060",
+    "sourcePhotos": [
+      46,
+      47
+    ],
+    "ingredients": "Dextrose met maltodextrine, citroenzuur, calciumstearaat, natuurlijke en kunstmatige aroma’s, kleurstoffen (E129, E102, E132, E110).",
+    "allergens": [],
+    "mayContain": "Kan sporen bevatten van pinda’s, noten en sesam.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/liebers-winkie-pops-packshot.png",
+    "imageOriginal": "source-photos/sweets-20261022/photo-03.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtop gemaakt op wit op basis van de aangeleverde voorzijde; etiketgegevens gecontroleerd aan de bijbehorende achterkant.",
+    "englishName": "Winkie Pops",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "directory": "source-photos/sweets-20261022",
+      "photos": [
+        "photo-03.jpg",
+        "photo-04.jpg"
+      ]
+    },
+    "productInfo": {},
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
+  },
+  {
+    "id": 46,
+    "brand": "Lieber’s",
+    "name": "Whistle Pops",
+    "variant": "28 g",
+    "category": "Snoep",
+    "ean": "043427400046",
+    "sourcePhotos": [
+      48,
+      49
+    ],
+    "ingredients": "Suiker, antiklontermiddel (stearinezuur), magnesiumstearaat, gemodificeerd zetmeel, kunstmatig aroma, citroenzuur, kunstmatige aroma’s, kleurstoffen (E129, E102, E110, E133).",
+    "allergens": [],
+    "mayContain": "Kan sporen bevatten van pinda’s, noten en sesam.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/liebers-whistle-pops-packshot.png",
+    "imageOriginal": "source-photos/sweets-20261022/photo-05.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtop gemaakt op wit op basis van de aangeleverde voorzijde; etiketgegevens gecontroleerd aan de bijbehorende achterkant.",
+    "englishName": "Whistle Pops",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "directory": "source-photos/sweets-20261022",
+      "photos": [
+        "photo-05.jpg",
+        "photo-06.jpg"
+      ]
+    },
+    "productInfo": {},
+    "kosherLines": [
+      "Rabbi M. Weissmandl (Parve)",
+      "Rav of Nitra, Monsey"
+    ]
+  },
+  {
+    "id": 47,
+    "brand": "Lieber’s",
+    "name": "Aardbeientwists",
+    "variant": "113 g",
+    "category": "Snoep",
+    "ean": "043427400183",
+    "sourcePhotos": [
+      50,
+      51,
+      52
+    ],
+    "ingredients": "Glucosestroop, verrijkt tarwemeel (bloem, niacine, ijzersulfaat, thiaminemononitraat, riboflavine, foliumzuur), suiker, maïszetmeel, palmolie, zout, kunstmatig aroma, mono- en diglyceriden, citroenzuur, kaliumsorbaat (conserveermiddel), kleurstof (E129), zwaveldioxide (om versheid te behouden), minerale olie, sojalecithine, glycerine.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja",
+      "Sulfieten"
+    ],
+    "mayContain": "Kan sporen bevatten van pinda’s, noten en sesam.",
+    "warning": "",
+    "kosher": "Rabbi M. Weissmandl (Parve)",
+    "sources": [],
+    "image": "./images/liebers-strawberry-twists-packshot.png",
+    "imageOriginal": "source-photos/sweets-20261022/photo-07.jpg",
+    "imageRetouched": true,
+    "imageSourcePage": "",
+    "reviewNote": "Packshot rechtop gemaakt op wit op basis van de aangeleverde voorzijde; etiketgegevens gecontroleerd aan de bijbehorende achterkant en barcode.",
+    "englishName": "Strawberry Twist",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s van 22 oktober 2026.",
+    "kosherStatus": "Parve",
+    "supplementalLabelSource": {
+      "date": "2026-10-22",
+      "directory": "source-photos/sweets-20261022",
+      "photos": [
+        "photo-07.jpg",
+        "photo-08.jpg",
+        "photo-09.jpg"
       ]
     },
     "productInfo": {},
@@ -1322,6 +1702,39 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
+    ],
+    "productInfo": {}
+  },
+  {
+    "id": 36,
+    "brand": "Thai Coco",
+    "name": "Kokoswater",
+    "variant": "1L",
+    "category": "Dranken",
+    "ean": "8850227021140",
+    "ingredients": "Kokoswater (100%).",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosher": "OU (Parve)",
+    "sources": [],
+    "image": "images/thai-coco-coconut-water.png",
+    "imageOriginal": "images/imageOriginal/thai-coco-front.jpg",
+    "imageRetouched": true,
+    "englishName": "100% Coconut Water",
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-15",
+      "photos": [
+        "images/imageOriginal/thai-coco-back.jpg",
+        "images/imageOriginal/thai-coco-kosher-mark.jpg"
+      ]
+    },
+    "kosherStatus": "Parve",
+    "kosherLines": [
+      "OU (Parve)"
     ],
     "productInfo": {}
   },

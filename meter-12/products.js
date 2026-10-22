@@ -957,7 +957,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Bar Bary",
-    "name": "Dadelhapjes met Amandel, Kokos en Ananassmaak",
+    "name": "Dadelhapjes met Amandel Kokos en Ananassmaak",
     "category": "Dadelbites",
     "variant": "55 g",
     "ean": "890867000653",
@@ -1004,7 +1004,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 23,
     "brand": "Bar Bary",
-    "name": "Dadelhapjes met Pecannoten, Hazelnoten en Bessensmaak",
+    "name": "Dadelhapjes met Pecannoten Hazelnoten en Bessensmaak",
     "shortName": "Dadelhapjes Pecan, Hazelnoot & Bessen",
     "category": "Dadelbites",
     "variant": "55 g",
@@ -1297,7 +1297,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 29,
     "brand": "Schmerling’s",
-    "name": "Chocolade met Nougat-pralinévulling",
+    "name": "Chocolade met Nougat Pralinévulling",
     "category": "Chocoladetabletten",
     "variant": "100 g",
     "ean": "097643084047",
@@ -2249,6 +2249,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 45,
+    "temporarilyHidden": true,
     "brand": "Elite",
     "name": "Melkchocolade met Biscuit en Hazelnootcrème",
     "category": "Chocoladetabletten",
@@ -2824,7 +2825,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 61,
     "brand": "Gross & Co",
-    "name": "Pure Chocoladevierkantjes met Sinaasappel- en Muntvulling",
+    "name": "Pure Chocoladevierkantjes met Sinaasappel en Muntvulling",
     "shortName": "Pure Chocolade Sinaasappel & Munt",
     "category": "Chocoladesnacks",
     "variant": "200 g",
@@ -3182,24 +3183,12 @@ window.KPI_PRODUCTS = [
     "sourceUrl": "https://elisha.be/en/shneiders/whipping-cream-spray?page=10",
     "imagePresentation": {
       "corners": [
-        [
-          0.375,
-          0.25833333333333336
-        ],
-        [
-          0.6266666666666667,
-          0.25833333333333336
-        ],
-        [
-          0.6266666666666667,
-          0.9683333333333334
-        ],
-        [
-          0.375,
-          0.9683333333333334
-        ]
+        [0.382, 0.038],
+        [0.618, 0.038],
+        [0.618, 0.958],
+        [0.382, 0.958]
       ],
-      "aspectRatio": 0.3544600938967136
+      "aspectRatio": 0.257
     }
   },
   {

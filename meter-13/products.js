@@ -244,7 +244,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 15,
     "brand": "Beigel & Beigel",
-    "name": "XL-pretzels met Zout",
+    "name": "XL Pretzels met Zout",
     "category": "Zoute snacks",
     "variant": "400 g",
     "ean": "7290000461700",
@@ -288,7 +288,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "brand": "Beigel & Beigel",
-    "name": "XL-pretzels met Sesam",
+    "name": "XL Pretzels met Sesam",
     "category": "Zoute snacks",
     "variant": "400 g",
     "ean": "7290000461724",
@@ -895,7 +895,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 45,
     "brand": "Elisha",
-    "name": "Zoete-aardappelchips",
+    "name": "Zoete Aardappelchips",
     "category": "Chips",
     "variant": "75 g",
     "ean": "5425000531784",
@@ -1214,7 +1214,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 79,
     "brand": "Beigel & Beigel",
-    "name": "Cracker Crisps met Zure-room- en Uiensmaak",
+    "name": "Cracker Crisps met Zure Room en Uiensmaak",
     "category": "Crackers",
     "variant": "300 g",
     "ean": "008982000513",
@@ -1902,6 +1902,37 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09"
   },
   {
+    "id": 119,
+    "brand": "Golden Chocolates",
+    "name": "Mini Chocoladestukjes",
+    "category": "Bakdecoratie",
+    "variant": "220 g",
+    "ean": "5425000533634",
+    "ingredients": "Cacaomassa, suiker, cacaoboter, emulgator (sojalecithine (E 322)), aroma (natuurlijke vanille).",
+    "allergens": [
+      "Soja"
+    ],
+    "mayContain": "",
+    "kosher": "Machsike Hadas Antwerpen (Parve)",
+    "image": "images/golden-chocolates-mini-chocolate-chips-packshot.png",
+    "sourcePhotos": [
+      "source-photos/golden-chocolates-mini-chocolate-chips-top.jpg",
+      "source-photos/golden-chocolates-mini-chocolate-chips-side.jpg",
+      "source-photos/golden-chocolates-mini-chocolate-chips-ingredients.jpg"
+    ],
+    "imageSource": "https://drumstickproducts.co.uk/product/elisha-golden-chocolates-mini-choc-chips/",
+    "labelSources": [
+      "Chatbijlage 22 oktober 2026: codex-clipboard-92f1eef8-79ba-4591-a36b-4df58966e53f.jpg"
+    ],
+    "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
+    "ingredientsPartial": false,
+    "ingredientsChecked": "2026-10-22",
+    "barcodeSource": "Etiketfoto, aangeleverd op 2026-10-22; EAN online gecontroleerd bij Elisha.",
+    "barcodeChecked": "2026-10-22",
+    "kosherSource": "Etiket en productgegevens van Drumstick Products.",
+    "kosherChecked": "2026-10-22"
+  },
+  {
     "id": 100,
     "brand": "Elisha",
     "name": "Knapperige Suikerhoorntjes",
@@ -1994,7 +2025,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 105,
     "brand": "Poco Loco",
-    "name": "Tortilla’s Original, Maat M",
+    "name": "Tortilla’s Original Maat M",
     "category": "Tortilla’s en wraps",
     "variant": "320 g (8 stuks)",
     "ean": "5412514555559",
@@ -2049,7 +2080,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 107,
     "brand": "Poco Loco",
-    "name": "Wraps Original, Maat L",
+    "name": "Wraps Original Maat L",
     "category": "Tortilla’s en wraps",
     "variant": "370 g (6 stuks)",
     "ean": "5412514350000",

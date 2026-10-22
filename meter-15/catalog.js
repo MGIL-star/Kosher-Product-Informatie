@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const products = window.KPI_PRODUCTS || [];
+  const products = (window.KPI_PRODUCTS || []).filter(product => !product.temporarilyHidden);
   const grid = document.querySelector('#product-grid');
   const search = document.querySelector('#search');
   const count = document.querySelector('#result-count');
@@ -78,7 +78,7 @@
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div></section>
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher))}</p></section>` : ''}
+      ${(Array.isArray(product.kosherLines) && product.kosherLines.length) || product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${(Array.isArray(product.kosherLines) && product.kosherLines.length ? product.kosherLines : [product.kosher]).map(line => escapeHtml(hechsherText(line))).join('<br>')}</p></section>` : ''}
       <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || 'Niet bekend')}</p></section>
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);

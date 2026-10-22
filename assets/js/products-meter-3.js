@@ -1,4 +1,4 @@
-// Exact 17 unieke artikelen; voor- en achterkant zijn geen afzonderlijke producten.
+// Exact 18 unieke artikelen; voor- en achterkant zijn geen afzonderlijke producten.
 // Alleen bevestigde gegevens. Onbekende allergenen zijn nooit een lege lijst.
 // Bronnen en openstaande etiketcontroles: meter-3/bronnen.json en meter-3/OVERZICHT.md.
 window.KPI_PRODUCTS = [
@@ -258,6 +258,36 @@ window.KPI_PRODUCTS = [
     ],
     "ean": "5904941750312",
     "image": "../assets/images/meter-3/controle-14-blu-mojito.webp"
+  },
+  {
+    "id": 20,
+    "brand": "BLU",
+    "name": "Energiedrank met Limoen Citroen en Muntsmaak",
+    "variant": "250 ml",
+    "category": "Dranken",
+    "ingredients": "Water, suiker, citroenzuur (E330), koolzuur, taurine (0,4%), zuurteregelaar (natriumcitraat, E331), cafeïne (0,03%), vitaminen (niacine, pantotheenzuur, B6, B12), natuurlijke aroma’s, kleurstoffen (E102, E133).",
+    "allergens": [
+      "Geen allergenen vermeld"
+    ],
+    "ean": "7350033980163",
+    "barcodeSource": "Barcode op de door de gebruiker aangeleverde verpakking; online gecontroleerd via https://energydrinkcans.uk/cans/blu-mojito/.",
+    "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
+    "kosher": "BIR (Badatz Igud Harabbonim)",
+    "kosherStatus": "Parve",
+    "kosherSource": "https://www.school-market.co.il/פחית-בלו-מוחיטו--124-i907",
+    "kosherLines": [
+      "BIR (Badatz Igud Harabbonim) (Parve)"
+    ],
+    "image": "../assets/images/meter-3/blue-mojito-new-packshot.png",
+    "imagePresentation": {
+      "corners": [
+        [0.265, 0.071],
+        [0.735, 0.071],
+        [0.735, 0.94],
+        [0.265, 0.94]
+      ],
+      "aspectRatio": 0.356
+    }
   },
   {
     "id": 15,

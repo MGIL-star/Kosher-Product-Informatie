@@ -734,6 +734,31 @@
       }
     },
     {
+      "id": 20,
+      "product": "BLU Mojito Energy Drink",
+      "displayNameNl": "BLU Energiedrank met limoen-, citroen- en muntsmaak",
+      "ean": "7350033980163",
+      "eanStatus": "EAN afgelezen van gebruikersfoto en online gecontroleerd; checkdigit geldig",
+      "eanSource": "https://energydrinkcans.uk/cans/blu-mojito/",
+      "volume": "250 ml",
+      "ingredients": "Water, suiker, citroenzuur (E330), koolzuur, taurine (0,4%), zuurteregelaar (natriumcitraat, E331), cafeïne (0,03%), vitaminen (niacine, pantotheenzuur, B6, B12), natuurlijke aroma’s, kleurstoffen (E102, E133).",
+      "allergens": [
+        "Geen allergenen vermeld"
+      ],
+      "ingredientsSource": "Etiketfoto gebruiker, aangeleverd op 2026-10-22.",
+      "image": "../assets/images/meter-3/blue-mojito-new-packshot.png",
+      "imageStatus": "Door gebruiker goedgekeurde packshot, lokaal voorbereid",
+      "barcodeDecision": {
+        "status": "Gecontroleerd",
+        "barcode": "7350033980163",
+        "checkdigitValid": true
+      },
+      "kosher": "BIR (Badatz Igud Harabbonim)",
+      "kosherStatus": "Parve",
+      "kosherSource": "https://www.school-market.co.il/פחית-בלו-מוחיטו--124-i907",
+      "kosherLabelNote": "Parve staat op de aangeleverde verpakking. BIR (Badatz Igud Harabbonim) is vermeld bij de bestaande productbron voor BLU Mojito."
+    },
+    {
       "id": 15,
       "product": "BLU Original Energy Drink",
       "imageSource": "https://bluenergydrink.com/",

@@ -14,6 +14,7 @@
 /* Bronbestanden zonder ingebouwde witruimte krijgen dezelfde zichtbare productschaal als de overige packshots. */
 .product-visual img[src$="kvuzat-yavne-eggplants-in-brine.jpg"]{padding:28px}
 .product-visual-large img[src$="kvuzat-yavne-eggplants-in-brine.jpg"]{padding:38px}
+.product-visual:has(img[src*="0081587101768"]) img,.product-visual-large:has(img[src*="0081587101768"]) img{transform:scale(.84)}
 /* De bronfoto van de zuurkool bevat onderaan een gefotografeerde reflectie; verberg die binnen het uniforme witte fotovak. */
 .product-visual img[src$="motola-sauerkraut.jpg"]{clip-path:inset(0 0 19% 0)}
 .product-visual:has(img[src$="motola-sauerkraut.jpg"]){background:#fff}

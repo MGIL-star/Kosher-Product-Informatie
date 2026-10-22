@@ -1,6 +1,87 @@
 window.KPI_PRODUCTS = [
   {
+    "id": 11,
+    "brand": "Doritos",
+    "name": "Dippas Maïschips Naturel",
+    "variant": "185 g",
+    "category": "Snacks",
+    "ean": "815871017992",
+    "ingredients": "Maïs (81%), zonnebloemolie, zout.",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Parve)",
+      "OU (Parve)"
+    ],
+    "image": "https://minimarketuri.com/Cat_490247_1807.jpg",
+    "sourcePhotos": [
+      "source-photos/doritos-dippas-naturel-front.jpg",
+      "source-photos/doritos-dippas-naturel-weight.jpg",
+      "source-photos/doritos-dippas-naturel-ingredients.jpg",
+      "source-photos/doritos-dippas-naturel-certification.jpg",
+      "source-photos/doritos-dippas-naturel-barcode.jpg"
+    ],
+    "imageSourcePage": "https://minimarketuri.com/Catalog.asp?PRodID=2232957&Page=NewShowProd.asp",
+    "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
+    "ingredientsComplete": true
+  },
+  {
+    "id": 13,
+    "brand": "Doritos",
+    "name": "Tortillachips met Barbecuesmaak",
+    "variant": "185 g",
+    "category": "Snacks",
+    "ean": "815871017688",
+    "ingredients": "Maïs, zonnebloemolie, specerijen, suiker, mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat, citroenzuur, aroma’s, paprika-oleohars (kleurstof).",
+    "allergens": [],
+    "mayContain": "Kan soja bevatten.",
+    "warning": "",
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Parve)",
+      "OU (Parve)"
+    ],
+    "image": "https://www.kroger.com/product/images/large/front/0081587101768",
+    "sourcePhotos": [
+      "source-photos/doritos-bbq-front.jpg",
+      "source-photos/doritos-bbq-weight.jpg",
+      "source-photos/doritos-bbq-certification.jpg",
+      "source-photos/doritos-bbq-barcode.jpg"
+    ],
+    "imageSourcePage": "https://www.kroger.com/p/doritos-large-bbq-tortilla-chips/0081587101768",
+    "ingredientsSource": "Online etiketgegevens van de verpakking met UPC 815871017688 (Kroger).",
+    "ingredientsComplete": true
+  },
+  {
+    "id": 12,
+    "brand": "Doritos",
+    "name": "Pittig Zure Tortillachips",
+    "variant": "185 g",
+    "category": "Snacks",
+    "ean": "815871017671",
+    "ingredients": "Maïs (70%), zonnebloemolie, maltodextrine, gehydrolyseerd maïseiwit, specerijen, kaliumchloride, zuurteregelaars (appelzuur, natriumdiacetaat), kleurstoffen (paprika-extract, curcumine), smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), zoetstof (sucralose), aroma’s.",
+    "allergens": [],
+    "mayContain": "",
+    "warning": "",
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Parve)",
+      "OU (Parve)"
+    ],
+    "image": "https://www.kroger.com/product/images/large/front/0081587101767",
+    "sourcePhotos": [
+      "source-photos/doritos-spicy-sour-front.jpg",
+      "source-photos/doritos-spicy-sour-weight.jpg",
+      "source-photos/doritos-spicy-sour-ingredients.jpg",
+      "source-photos/doritos-spicy-sour-certification.jpg",
+      "source-photos/doritos-spicy-sour-barcode.jpg"
+    ],
+    "imageSourcePage": "https://www.kroger.com/p/doritos-spicy-sour-flavored-tortilla-chips/0081587101767",
+    "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
+    "ingredientsComplete": true
+  },
+  {
     "id": 1,
+    "temporarilyHidden": true,
     "brand": "Osem",
     "name": "Bamba Pindasnacks",
     "variant": "200 g",

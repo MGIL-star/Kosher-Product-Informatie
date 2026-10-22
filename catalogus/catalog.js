@@ -5,7 +5,7 @@
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const normalize = s => String(s ?? '').toLocaleLowerCase('nl').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',frozen:'Diepvries'};
-  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js':i===3?'assets/js/products-meter-4.js':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===15?'meter-16/products.js?v=20261015-meter16-coconut-water':`meter-${i+1}/products.js`}));
+  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261022-mojito-name-fix':i===3?'assets/js/products-meter-4.js':i===4?'meter-5/products.js?v=20261022-harissa-barcode-hechsher':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===14?'meter-15/products.js?v=20261022-doritos-size-match':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js`});
   const sectionTitles = [
     'Water · Vruchtensappen', 'Wijn · Druivensap', 'Olie · Azijn · Dranken',
@@ -54,9 +54,12 @@
   function section(title,text){return text?`<section><h3>${title}</h3><p>${esc(text)}</p></section>`:'';}
   function openProduct(key) {window.CatalogTranslation?.beforeUpdate();
     const p=products.find(p=>p.key===key);if(!p)return;
-    const allergens=p.allergens?.length
-      ? p.allergens.map(a=>/^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(a.trim()) ? '<span class="allergen-free">Geen allergenen vermeld</span>' : '<span class="allergen">'+esc(a)+'</span>').join('')
-      : '<span>'+ (Array.isArray(p.allergens) ? 'Geen allergenen vermeld' : 'Nog te controleren')+'</span>';
+    const declaredAllergens=Array.isArray(p.allergens)
+      ? p.allergens.filter(a=>! /^(geen allergenen vermeld|geen declaratieplichtige allergenen vermeld)$/i.test(String(a).trim()))
+      : [];
+    const allergens=declaredAllergens.length
+      ? declaredAllergens.map(a=>'<span class="allergen">'+esc(a)+'</span>').join('')
+      : '<span class="allergen-free">Geen allergenen vermeld</span>';
     const info=Object.entries(p.productInfo||{}).map(([label,value])=>'<p><strong>'+esc(label)+':</strong> '+esc(value)+'</p>').join('')
       +(p.preparation?'<p><strong>Bereiding:</strong> '+esc(p.preparation)+'</p>':'')
       +(p.note?'<p>'+esc(p.note)+'</p>':'');
@@ -88,7 +91,7 @@
   $('#cart-open').onclick=openCart;$('#cart-bottom').onclick=openCart;$('#search').oninput=render;$('#sort').onchange=render;
   for(const d of document.querySelectorAll('dialog'))d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}});
   updateCount();
-  async function load(){for(const source of sources){try{await new Promise((resolve,reject)=>{window.KPI_PRODUCTS=undefined;const script=document.createElement('script');script.src=new URL(source.data+'?catalog='+Date.now(),root);script.onload=resolve;script.onerror=reject;document.head.append(script);});const list=window.KPI_PRODUCTS;if(!Array.isArray(list))throw Error('Invalid data');for(const original of list){if(original.detailsPending && source.folder!=='koeling-schap-2')continue;products.push({...original,key:`${source.folder}:${original.id}`,meter:source.folder,meterTitle:source.title,group:classify(original,source.n),image:original.image?new URL(original.image,new URL(source.folder+'/',root)).href:''});}}catch{failures.push(source.folder);}}
+  async function load(){for(const source of sources){try{await new Promise((resolve,reject)=>{window.KPI_PRODUCTS=undefined;const script=document.createElement('script');script.src=new URL(source.data+'?catalog='+Date.now(),root);script.onload=resolve;script.onerror=reject;document.head.append(script);});const list=window.KPI_PRODUCTS;if(!Array.isArray(list))throw Error('Invalid data');for(const original of list){if(original.temporarilyHidden)continue;if(original.detailsPending && source.folder!=='koeling-schap-2')continue;products.push({...original,key:`${source.folder}:${original.id}`,meter:source.folder,meterTitle:source.title,group:classify(original,source.n),image:original.image?new URL(original.image,new URL(source.folder+'/',root)).href:''});}}catch{failures.push(source.folder);}}
     if(failures.length){$('#load-error').hidden=false;$('#load-error').textContent='Een deel van het assortiment kon niet worden geladen. Vernieuw de pagina om het opnieuw te proberen.';}
     window.CATALOG_GROUPS=sources.map(source=>({title:source.title,products:products.filter(p=>p.meter===source.folder)}));
     await sharedScript(new URL('assets/js/apply-photo-layout.js',root).href);

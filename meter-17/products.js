@@ -913,7 +913,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "catalogType": "nonfood",
-    "name": "Hand- en Nagelcrème met Lavendel",
+    "name": "Hand en Nagelcrème met Lavendel",
     "brand": "HB",
     "category": "Huidverzorging",
     "shelf": 3,
@@ -978,7 +978,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "catalogType": "nonfood",
-    "name": "Hand- en Nagelcrème met Avocado en Aloë Vera",
+    "name": "Hand en Nagelcrème met Avocado en Aloë Vera",
     "brand": "HB",
     "category": "Huidverzorging",
     "shelf": 3,
