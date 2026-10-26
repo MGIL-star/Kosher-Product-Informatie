@@ -1748,7 +1748,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3060921349111",
-    "ingredients": "Emmentaler (98%) (koemelk (MELK, herkomst Frankrijk), zout, melkfermenten (MELK), microbieel stremsel), aardappelzetmeel.",
+    "ingredients": "Emmentaler (98%) (koemelk (herkomst Frankrijk), zout, melkfermenten, microbieel stremsel), aardappelzetmeel.",
     "allergens": [
       "MELK"
     ],
