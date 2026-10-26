@@ -165,6 +165,7 @@
       if (title === 'Waarschuwing') return 4;
       if (title === 'Hechser') return 98;
       if (/^Barcode [\/&] EAN$/.test(title)) return 99;
+      if (/^Voedingswaarden/.test(title)) return 100;
       return 6;
     };
     const sections = [...root.children].filter(el => el.tagName === 'SECTION');

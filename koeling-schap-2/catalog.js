@@ -83,7 +83,8 @@
       <section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p class="verification-copy">${escapeHtml(product.allergenNote)}</p>` : ''}</section>
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
       ${product.kosher ? `<section class="hechsher"><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>` : ''}
-      <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p>${product.nutrition ? `<div class="nutrition"><h3>Voedingswaarden ${escapeHtml(product.nutritionUnit || 'per 100 g')}</h3><table class="nutrition-table"><tbody>${Object.entries(product.nutrition).map(([label, value]) => `<tr><th scope="row">${escapeHtml(label)}</th><td>${escapeHtml(value)}</td></tr>`).join('')}</tbody></table></div>` : ''}</section>
+      <section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean || "Niet bekend")}</p></section>
+      ${product.nutrition ? `<section class="nutrition"><h3>Voedingswaarden ${escapeHtml(product.nutritionUnit || 'per 100 g')}</h3><table class="nutrition-table"><tbody>${Object.entries(product.nutrition).map(([label, value]) => `<tr><th scope="row">${escapeHtml(label)}</th><td>${escapeHtml(value)}</td></tr>`).join('')}</tbody></table></section>` : ''}
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);
     if (!dialog.open) dialog.showModal();

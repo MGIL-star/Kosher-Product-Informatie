@@ -91,7 +91,8 @@
       ${nonFood && product.identificationNote ? `<section class="identification-note"><h3>Identificatie</h3><p>${escapeHtml(product.identificationNote)}</p></section>` : ''}
       ${nonFood && showReferences && product.supplier ? `<section><h3>Bij Israelwinkel</h3><p><a href="${escapeHtml(product.supplier.url)}" target="_blank" rel="noopener noreferrer">Bekijk ${escapeHtml(product.name)}${product.supplier.variant ? ` — ${escapeHtml(product.supplier.variant)}` : ''}</a></p>${product.supplier.sku ? `<p>Artikelnummer: ${escapeHtml(product.supplier.sku)}</p>` : ''}</section>` : ''}
       ${nonFood && showReferences && product.sources?.length ? `<section><h3>Bronnen</h3>${product.sources.filter(source => /^https:\/\//.test(source.url)).map(source => `<p><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.label)}</a></p>`).join('')}</section>` : ''}
-      ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p>${product.nutrition ? `<div class="nutrition"><h3>Voedingswaarden ${escapeHtml(product.nutritionUnit || 'per 100 g')}</h3><table class="nutrition-table"><tbody>${Object.entries(product.nutrition).map(([label, value]) => `<tr><th scope="row">${escapeHtml(label)}</th><td>${escapeHtml(value)}</td></tr>`).join('')}</tbody></table></div>` : ''}</section>` : ''}
+      ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
+      ${product.nutrition ? `<section class="nutrition"><h3>Voedingswaarden ${escapeHtml(product.nutritionUnit || 'per 100 g')}</h3><table class="nutrition-table"><tbody>${Object.entries(product.nutrition).map(([label, value]) => `<tr><th scope="row">${escapeHtml(label)}</th><td>${escapeHtml(value)}</td></tr>`).join('')}</tbody></table></section>` : ''}
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);
     if (!dialog.open) dialog.showModal();
