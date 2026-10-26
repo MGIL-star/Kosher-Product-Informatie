@@ -1030,6 +1030,45 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "EAN-13 8720791238650, eerder geverifieerd voor Shefa Holland’s Gouda-plakken 200 g; de cijfers op de nieuwe achteretiketfoto zijn niet voldoende leesbaar om een nieuw nummer vast te stellen."
   },
   {
+    "id": 16,
+    "name": "Geraspte Goudse Kaas",
+    "brand": "Shefa",
+    "category": "Kaas",
+    "variant": "400 g",
+    "ean": "8720791238872",
+    "ingredients": "Gepasteuriseerde MELK en zuursel, zout, biologisch maïszetmeel, microbieel stremsel, conserveermiddel (E251).",
+    "allergens": [
+      "MELK"
+    ],
+    "kosher": "Badatz Edah HaChareidis / CRC / Machsike Hadas Antwerpen",
+    "image": "./images/shefa-geraspte-gouda-400.webp?v=c7e084b60f53",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {},
+    "sources": [
+      "Door gebruiker aangeleverde productfoto",
+      "https://shefaco.be/about/kashrus"
+    ],
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem",
+      "CRC",
+      "Machsike Hadas Antwerpen",
+      "Chalav Yisrael"
+    ],
+    "ingredientsComplete": true,
+    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "directory": "tmp/melkkost-laatste49",
+      "photos": [
+        "c71657ff-03e8-49f6-8c10-a0dd2299ba6b.jpg",
+        "21342971-29b7-4fc4-b206-314d9cddb1e7.jpg",
+        "0cbd93ae-82c2-46ed-b5dc-12f940599b58.jpg",
+        "533f0647-99ff-49cb-9aac-d930e1709d6f.jpg"
+      ]
+    }
+  },
+  {
     "id": 68,
     "name": "Mimolette in Plakken",
     "brand": "VEBO",
@@ -1220,41 +1259,116 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "Afgelezen op de eerder aangeleverde fysieke etiketfoto; EAN-13-controlecijfer gecontroleerd, 11 oktober 2026."
   },
   {
-    "id": 16,
-    "name": "Geraspte Goudse Kaas",
-    "brand": "Shefa",
     "category": "Kaas",
-    "variant": "400 g",
-    "ean": "8720791238872",
-    "ingredients": "Gepasteuriseerde MELK en zuursel, zout, biologisch maïszetmeel, microbieel stremsel, conserveermiddel (E251).",
+    "id": 79,
+    "name": "Edammer Kaas aan Stuk",
+    "brand": "VEBO Shoshana",
+    "variant": "200 g",
+    "ean": "8711528120300",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
+    "kosher": "Opperrabbinaat Nederland",
+    "kosherLines": [
+      "Opperrabbinaat Nederland",
+      "Chalav Yisrael"
+    ],
+    "image": "./images/vebo-edam-stuk-200g.png",
+    "productInfo": {},
     "allergens": [
       "MELK"
     ],
-    "kosher": "Badatz Edah HaChareidis / CRC / Machsike Hadas Antwerpen",
-    "image": "./images/shefa-geraspte-gouda-400.webp?v=c7e084b60f53",
-    "imageEdited": true,
+    "ingredientsComplete": true,
     "detailsPending": false,
-    "productInfo": {},
-    "sources": [
-      "Door gebruiker aangeleverde productfoto",
-      "https://shefaco.be/about/kashrus"
-    ],
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "eb7fa921-f2ec-4ae2-8948-ea319155985d.jpg",
+        "8b2ce8ba-0a9e-4035-b7d8-1b9b0c429038.jpg"
+      ],
+      "directory": "tmp/kaas-bron-20261011"
+    },
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "imageEdited": true,
+    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026.",
+    "quantitySource": "Gebruiker bevestigt beide vacuümverpakte soorten, Edam en Gouda, als 200 g op 11 oktober 2026."
+  },
+  {
+    "category": "Kaas",
+    "id": 80,
+    "name": "Jonge Goudse Kaas aan Stuk",
+    "brand": "VEBO Shoshana",
+    "variant": "200 g",
+    "ean": "8711528757704",
+    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
+    "kosher": "Opperrabbinaat Nederland",
     "kosherLines": [
-      "Badatz Edah HaChareidis Jeruzalem",
-      "CRC",
-      "Machsike Hadas Antwerpen",
+      "Opperrabbinaat Nederland",
       "Chalav Yisrael"
     ],
+    "image": "./images/vebo-gouda-stuk-250g.png",
+    "productInfo": {},
+    "allergens": [
+      "MELK"
+    ],
     "ingredientsComplete": true,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
+    "detailsPending": false,
+    "supplementalLabelSource": {
+      "date": "2026-10-11",
+      "photos": [
+        "7e9c0b8b-3209-41db-a63d-7a02f399686d.jpg",
+        "a4d6a6bf-cd65-46f8-a30b-d5f60e89c11b.jpg"
+      ],
+      "directory": "tmp/kaas-bron-20261011"
+    },
+    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
+    "imageEdited": true,
+    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026.",
+    "quantitySource": "Gebruiker bevestigt beide vacuümverpakte soorten, Edam en Gouda, als 200 g op 11 oktober 2026."
+  },
+  {
+    "id": 86,
+    "name": "Geraspte Goudse Kaas 48+",
+    "brand": "VEBO",
+    "category": "Kaas",
+    "variant": "400 g",
+    "ean": "8711528749617",
+    "ingredients": "Gepasteuriseerde koe MELK, aardappelzetmeel, zout, zuursel, stremsel, kleurstof E160b(ii).",
+    "allergens": [
+      "Melk"
+    ],
+    "nutrition": {
+      "Energie": "1505 kJ / 358 kcal",
+      "Vetten": "29,3 g",
+      "waarvan verzadigde vetzuren": "21,1 g",
+      "Koolhydraten": "1,2 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "23,6 g",
+      "Zout": "1,77 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "kosher": "Rabbinaat Volendam / MKL",
+    "kosherLines": [
+      "Rabbinaat Volendam",
+      "MKL",
+      "Chalav Yisrael"
+    ],
+    "image": "./images/vebo-shoshana-geraspte-gouda-48-400g-packshot-20261026.png",
+    "imageEdited": true,
+    "productInfo": {},
+    "ingredientsComplete": true,
+    "detailsPending": false,
+    "ingredientsSource": "Fysieke verpakking, door gebruiker aangeleverde foto’s van 26 oktober 2026.",
+    "nutritionSource": "Voedingswaardetabel op fysieke verpakking, foto van 26 oktober 2026.",
+    "sourcePhotos": [
+      "source-labels/20261026-vebo-shoshana-geraspte-gouda/back-original.png",
+      "source-labels/20261026-vebo-shoshana-geraspte-gouda/back-detail-original.png"
+    ],
     "supplementalLabelSource": {
       "date": "2026-10-11",
       "directory": "tmp/melkkost-laatste49",
       "photos": [
-        "c71657ff-03e8-49f6-8c10-a0dd2299ba6b.jpg",
-        "21342971-29b7-4fc4-b206-314d9cddb1e7.jpg",
-        "0cbd93ae-82c2-46ed-b5dc-12f940599b58.jpg",
-        "533f0647-99ff-49cb-9aac-d930e1709d6f.jpg"
+        "c37993d0-04bc-46b7-b151-fc5ad20e7365.jpg",
+        "4b576310-2e78-44db-a91b-bbc6116c14da.jpg",
+        "96cf28b8-d9f0-4835-8d79-cc9a2fa3e54a.jpg"
       ]
     }
   },
@@ -1587,105 +1701,6 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
     "imageEdited": true
-  },
-  {
-    "category": "Kaas",
-    "id": 79,
-    "name": "Edammer Kaas aan Stuk",
-    "brand": "VEBO Shoshana",
-    "variant": "200 g",
-    "ean": "8711528120300",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
-    "kosher": "Opperrabbinaat Nederland",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "image": "./images/vebo-edam-stuk-200g.png",
-    "productInfo": {},
-    "allergens": [
-      "MELK"
-    ],
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "eb7fa921-f2ec-4ae2-8948-ea319155985d.jpg",
-        "8b2ce8ba-0a9e-4035-b7d8-1b9b0c429038.jpg"
-      ],
-      "directory": "tmp/kaas-bron-20261011"
-    },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
-    "imageEdited": true,
-    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026.",
-    "quantitySource": "Gebruiker bevestigt beide vacuümverpakte soorten, Edam en Gouda, als 200 g op 11 oktober 2026."
-  },
-  {
-    "category": "Kaas",
-    "id": 80,
-    "name": "Jonge Goudse Kaas aan Stuk",
-    "brand": "VEBO Shoshana",
-    "variant": "200 g",
-    "ean": "8711528757704",
-    "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
-    "kosher": "Opperrabbinaat Nederland",
-    "kosherLines": [
-      "Opperrabbinaat Nederland",
-      "Chalav Yisrael"
-    ],
-    "image": "./images/vebo-gouda-stuk-250g.png",
-    "productInfo": {},
-    "allergens": [
-      "MELK"
-    ],
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "photos": [
-        "7e9c0b8b-3209-41db-a63d-7a02f399686d.jpg",
-        "a4d6a6bf-cd65-46f8-a30b-d5f60e89c11b.jpg"
-      ],
-      "directory": "tmp/kaas-bron-20261011"
-    },
-    "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s.",
-    "imageEdited": true,
-    "kosherSource": "Door gebruiker bevestigd: hetzelfde hechsjer als de VEBO/Shoshana-plakken, 11 oktober 2026.",
-    "quantitySource": "Gebruiker bevestigt beide vacuümverpakte soorten, Edam en Gouda, als 200 g op 11 oktober 2026."
-  },
-  {
-    "id": 86,
-    "name": "Geraspte Goudse Kaas 48+",
-    "brand": "VEBO",
-    "category": "Kaas",
-    "variant": "400 g",
-    "ean": "8711528749617",
-    "ingredients": "Gepasteuriseerde koemelk (MELK), aardappelzetmeel, zout, zuursel, stremsel, kleurstof (E160b(ii)).",
-    "allergens": [
-      "MELK"
-    ],
-    "kosher": "Rabbinaat Volendam / MKL",
-    "kosherLines": [
-      "Rabbinaat Volendam",
-      "MKL",
-      "Chalav Yisrael"
-    ],
-    "image": "./images/vebo-gouda-geraspt-400g.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "ingredientsComplete": true,
-    "detailsPending": false,
-    "ingredientsSource": "Fysieke verpakking, aangeleverde etiketfoto’s.",
-    "supplementalLabelSource": {
-      "date": "2026-10-11",
-      "directory": "tmp/melkkost-laatste49",
-      "photos": [
-        "c37993d0-04bc-46b7-b151-fc5ad20e7365.jpg",
-        "4b576310-2e78-44db-a91b-bbc6116c14da.jpg",
-        "96cf28b8-d9f0-4835-8d79-cc9a2fa3e54a.jpg"
-      ]
-    }
   },
   {
     "id": 38,

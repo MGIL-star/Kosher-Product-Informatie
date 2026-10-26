@@ -19,7 +19,7 @@
   ];
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
   sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261014-allergenen-nederlands'});
-  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261014-allergenen-nederlands'});
+  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261026-geraspte-gouda'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
@@ -77,7 +77,7 @@
       +(p.catalogType!=='nonfood'?'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>':'')
       +section('Kan bevatten',p.mayContain)+section('Waarschuwing',p.warning)
       +(kosher?'<section class="hechsher"><h3>Hechser</h3><p class="notranslate" translate="no">'+kosher+'</p></section>':'')
-      +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p></section></div>';
+      +'<section class="ean"><h3>Barcode / EAN</h3><p>'+esc(p.ean||'Niet bekend')+'</p>'+(p.nutrition?'<div class="nutrition"><h3>Voedingswaarden '+esc(p.nutritionUnit||'per 100 g')+'</h3><table class="nutrition-table"><tbody>'+Object.entries(p.nutrition).map(([label,value])=>'<tr><th scope="row">'+esc(label)+'</th><td>'+esc(value)+'</td></tr>').join('')+'</tbody></table></div>':'')+'</section></div>';
     window.KPI_normalizeProductLayout($('#product-detail'), p);
     const productDialog = $('#product-dialog'); if (!productDialog.open) productDialog.showModal();
     window.CatalogTranslation?.refresh();
