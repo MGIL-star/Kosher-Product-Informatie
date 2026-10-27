@@ -2522,6 +2522,48 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 85,
+    "catalogType": "nonfood",
+    "name": "Shampoo en Conditioner 1 en 2 voor Droog en Beschadigd Haar",
+    "brand": "Pinuk",
+    "category": "Haar en douche",
+    "shelf": 5,
+    "variant": "700 ml",
+    "image": "images/clean/pinuk-two-in-one-packshot-20261027.png",
+    "imageEdited": true,
+    "allergens": null,
+    "productInfo": {
+      "Beschrijving": "Shampoo en conditioner in één voor droog en beschadigd haar.",
+      "Gebruiksadvies": "Aanbrengen op nat haar, zacht inmasseren en goed uitspoelen."
+    },
+    "sources": [],
+    "ean": "7290112492470",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Sodium Hydroxide, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Phenoxyethanol, Lysine HCl, Caprylic/Capric Triglyceride, BHT, Iodopropynyl Butylcarbamate, Shea Butter (Butyrospermum Parkii), PPG-9, Benzyl Alcohol, Benzyl Salicylate, Coumarin, Hexyl Cinnamal, Limonene."
+    },
+    "warning": "Alleen voor uitwendig gebruik. Vermijd contact met de ogen. Buiten bereik van kinderen houden.",
+    "labelVerification": {
+      "date": "2026-10-27",
+      "photos": [
+        "source-labels/20261027/pinuk-1-plus-2-front.jpg",
+        "source-labels/20261027/pinuk-1-plus-2-back.jpg"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "productInfo",
+        "composition",
+        "ean"
+      ],
+      "compositionComplete": true
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, foto gebruiker — 27 oktober 2026",
+      "url": "source-labels/20261027/pinuk-1-plus-2-back.jpg"
+    }
+  },
+  {
     "id": 46,
     "catalogType": "nonfood",
     "name": "Shampoo voor Normaal Haar",
@@ -2617,6 +2659,90 @@ window.KPI_PRODUCTS = [
     "barcodeSource": {
       "label": "Fysieke verpakking, etiketfoto gebruiker — 11 oktober 2026",
       "url": "source-labels/20261011/78ba5fee-814f-4514-9756-39e50fa8d3de.jpg"
+    }
+  },
+  {
+    "id": 83,
+    "catalogType": "nonfood",
+    "name": "Shampoo Hawaii met Exotisch Fruit en Calendula",
+    "brand": "Pinuk",
+    "category": "Haar en douche",
+    "shelf": 5,
+    "variant": "650 ml",
+    "image": "images/clean/pinuk-hawaii-shampoo-packshot-20261027.png",
+    "imageEdited": true,
+    "allergens": null,
+    "productInfo": {
+      "Beschrijving": "Shampoo met extracten van exotisch fruit en calendula.",
+      "Gebruiksadvies": "Aanbrengen op nat haar, zacht inmasseren en goed uitspoelen."
+    },
+    "sources": [],
+    "ean": "7290117860144",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua (Water, Eau), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Benzoate, Climbazole, Parfum (Fragrance), Citric Acid, Niacinamide, Polyquaternium-7, Panthenol, Mangifera Indica (Mango) Juice, Actinidia Chinensis (Kiwi) Fruit Juice, Calendula Officinalis Flower Extract, Hexyl Cinnamal, Linalool, Citronellol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Benzophenone-4, CI 73360 (Red 30)."
+    },
+    "warning": "Alleen voor uitwendig gebruik. Vermijd contact met de ogen. Buiten bereik van kinderen houden.",
+    "labelVerification": {
+      "date": "2026-10-27",
+      "photos": [
+        "source-labels/20261027/pinuk-hawaii-front.jpg",
+        "source-labels/20261027/pinuk-hawaii-back.jpg"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "productInfo",
+        "composition",
+        "ean"
+      ],
+      "compositionComplete": true
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, foto gebruiker — 27 oktober 2026",
+      "url": "source-labels/20261027/pinuk-hawaii-back.jpg"
+    }
+  },
+  {
+    "id": 84,
+    "catalogType": "nonfood",
+    "name": "Shampoo met Marokkaanse Olie",
+    "brand": "Pinuk",
+    "category": "Haar en douche",
+    "shelf": 5,
+    "variant": "700 ml",
+    "image": "images/clean/pinuk-argan-shampoo-packshot-20261027.png",
+    "imageEdited": true,
+    "allergens": null,
+    "productInfo": {
+      "Beschrijving": "Shampoo met Marokkaanse olie (arganolie).",
+      "Gebruiksadvies": "Aanbrengen op nat haar, zacht inmasseren en goed uitspoelen."
+    },
+    "sources": [],
+    "ean": "7290112492487",
+    "composition": {
+      "heading": "Ingrediënten (INCI)",
+      "text": "Aqua, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Dimethiconol, Parfum, Sodium Chloride, Glycol Distearate, Sodium Benzoate, Carbomer, Citric Acid, Guar Hydroxypropyltrimonium Chloride, Sodium Hydroxide, Cocamide MEA, Glycerin, TEA-Dodecylbenzenesulfonate, TEA-Sulfate, Tetrasodium EDTA, Phenoxyethanol, Argania Spinosa Kernel Oil, Iodopropynyl Butylcarbamate, PPG-9, Alpha-Isomethyl Ionone, Benzyl Alcohol, Benzyl Salicylate, Citronellol, Coumarin, Geraniol, Limonene, Linalool."
+    },
+    "warning": "Alleen voor uitwendig gebruik. Vermijd contact met de ogen. Buiten bereik van kinderen houden.",
+    "labelVerification": {
+      "date": "2026-10-27",
+      "photos": [
+        "source-labels/20261027/pinuk-argan-front.jpg",
+        "source-labels/20261027/pinuk-argan-back.jpg"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "productInfo",
+        "composition",
+        "ean"
+      ],
+      "compositionComplete": true
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, foto gebruiker — 27 oktober 2026",
+      "url": "source-labels/20261027/pinuk-argan-back.jpg"
     }
   },
   {
@@ -2913,7 +3039,7 @@ window.KPI_PRODUCTS = [
     "shelf": 5,
     "variant": "700 ml",
     "ean": "7290112492593",
-    "image": "images/clean/pinuk-classic.png",
+    "image": "images/clean/pinuk-classic-shower-packshot-20261027.png",
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Douchecrème Classic met rozemarijnextract.",
@@ -2933,10 +3059,10 @@ window.KPI_PRODUCTS = [
     "warning": "Vermijd contact met de ogen; bij contact grondig met water spoelen. Niet inslikken. Buiten bereik van kinderen houden. Niet gebruiken bij bekende overgevoeligheid voor een van de ingrediënten. Koel bewaren en beschermen tegen direct zonlicht.",
     "sources": [],
     "labelVerification": {
-      "date": "2026-10-11",
+      "date": "2026-10-27",
       "photos": [
-        "source-labels/20261011/e432c845-1d6a-4bc4-9526-3db55a3de136.jpg",
-        "source-labels/20261011/6522a910-87d3-43ba-9929-7caf66db160a.jpg"
+        "source-labels/20261027/pinuk-classic-front.jpg",
+        "source-labels/20261027/pinuk-classic-back.jpg"
       ],
       "fields": [
         "name",
@@ -2950,7 +3076,7 @@ window.KPI_PRODUCTS = [
     },
     "barcodeSource": {
       "label": "Fysieke verpakking, etiketfoto gebruiker — 11 oktober 2026",
-      "url": "source-labels/20261011/6522a910-87d3-43ba-9929-7caf66db160a.jpg"
+      "url": "source-labels/20261027/pinuk-classic-back.jpg"
     }
   },
   {

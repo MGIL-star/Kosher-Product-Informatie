@@ -363,6 +363,58 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 25,
+    "brand": "Angel Bakeries",
+    "name": "Witte Pita van Witdesem",
+    "englishName": "Classic White Sourdough Pita",
+    "variant": "4 stuks",
+    "category": "Pita",
+    "ingredients": "tarwemeel, water, suiker, gist, zout, enzymen",
+    "allergens": [
+      "Tarwe"
+    ],
+    "allergensConfirmedAbsent": false,
+    "allergenNote": "Kan soja en sesam bevatten.",
+    "ean": "7290020216502",
+    "image": "./images/angel-sourdough-pita-packshot-20261027.png",
+    "warning": "",
+    "nutrition": {
+      "Energie": "231 kcal",
+      "Eiwitten": "8,3 g",
+      "Koolhydraten": "43,1 g",
+      "waarvan suikers": "2,8 g",
+      "Vezels": "3,3 g",
+      "Vetten": "2,1 g",
+      "waarvan verzadigde vetten": "0,7 g",
+      "waarvan transvetten": "<0,5 g",
+      "Cholesterol": "<25 mg",
+      "Natrium": "282 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelVerification": {
+      "date": "2026-10-27",
+      "photos": [
+        "source-labels/20261027/angel-pita-front.jpg",
+        "source-labels/20261027/angel-pita-ingredients.jpg",
+        "source-labels/20261027/angel-pita-nutrition.jpg"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ingredients",
+        "allergenNote",
+        "nutrition",
+        "ean"
+      ],
+      "compositionComplete": true
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, foto gebruiker — 27 oktober 2026",
+      "url": "source-labels/20261027/angel-pita-barcode.jpg"
+    },
+    "imageEdited": true
+  },
+  {
     "id": 9,
     "brand": "Ariel Bakery & Patisserie",
     "name": "Bourekas met Kaas",
