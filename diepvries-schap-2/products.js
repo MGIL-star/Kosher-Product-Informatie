@@ -367,7 +367,7 @@ window.KPI_PRODUCTS = [
     "brand": "Angel Bakeries",
     "name": "Witte Pita van Witdesem",
     "englishName": "Classic White Sourdough Pita",
-    "variant": "4 stuks",
+    "variant": "4 × 110 g",
     "category": "Pita",
     "ingredients": "tarwemeel, water, suiker, gist, zout, enzymen",
     "allergens": [
@@ -376,6 +376,7 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "allergenNote": "Kan soja en sesam bevatten.",
     "ean": "7290020216502",
+    "quantitySource": "Specificatie gebruiker: 4 × 110 g",
     "image": "./images/angel-sourdough-pita-packshot-20261027.png",
     "warning": "",
     "nutrition": {
