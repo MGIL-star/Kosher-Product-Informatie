@@ -2662,48 +2662,6 @@ window.KPI_PRODUCTS = [
     }
   },
   {
-    "id": 83,
-    "catalogType": "nonfood",
-    "name": "Shampoo Hawaii met Exotisch Fruit en Calendula",
-    "brand": "Pinuk",
-    "category": "Haar en douche",
-    "shelf": 5,
-    "variant": "650 ml",
-    "image": "images/clean/pinuk-hawaii-shampoo-packshot-20261027.png",
-    "imageEdited": true,
-    "allergens": null,
-    "productInfo": {
-      "Beschrijving": "Shampoo met extracten van exotisch fruit en calendula.",
-      "Gebruiksadvies": "Aanbrengen op nat haar, zacht inmasseren en goed uitspoelen."
-    },
-    "sources": [],
-    "ean": "7290117860144",
-    "composition": {
-      "heading": "Ingrediënten (INCI)",
-      "text": "Aqua (Water, Eau), Sodium Laureth Sulfate, Sodium Chloride, Cocamidopropyl Betaine, Sodium Benzoate, Climbazole, Parfum (Fragrance), Citric Acid, Niacinamide, Polyquaternium-7, Panthenol, Mangifera Indica (Mango) Juice, Actinidia Chinensis (Kiwi) Fruit Juice, Calendula Officinalis Flower Extract, Hexyl Cinnamal, Linalool, Citronellol, Benzyl Salicylate, Alpha-Isomethyl Ionone, Benzophenone-4, CI 73360 (Red 30)."
-    },
-    "warning": "Alleen voor uitwendig gebruik. Vermijd contact met de ogen. Buiten bereik van kinderen houden.",
-    "labelVerification": {
-      "date": "2026-10-27",
-      "photos": [
-        "source-labels/20261027/pinuk-hawaii-front.jpg",
-        "source-labels/20261027/pinuk-hawaii-back.jpg"
-      ],
-      "fields": [
-        "name",
-        "variant",
-        "productInfo",
-        "composition",
-        "ean"
-      ],
-      "compositionComplete": true
-    },
-    "barcodeSource": {
-      "label": "Fysieke verpakking, foto gebruiker — 27 oktober 2026",
-      "url": "source-labels/20261027/pinuk-hawaii-back.jpg"
-    }
-  },
-  {
     "id": 84,
     "catalogType": "nonfood",
     "name": "Shampoo met Marokkaanse Olie",
@@ -3332,7 +3290,8 @@ window.KPI_PRODUCTS = [
     "category": "Haar en douche",
     "shelf": 6,
     "variant": "650 ml",
-    "image": "images/clean/product-58.png",
+    "image": "images/clean/hawaii-antiroosshampoo-packshot-20261027.png",
+    "imageEdited": true,
     "allergens": null,
     "productInfo": {
       "Beschrijving": "Shampoo met exotisch fruit en calendula voor dagelijks gebruik.",
@@ -3353,10 +3312,10 @@ window.KPI_PRODUCTS = [
     },
     "warning": "Gebruik uitsluitend waarvoor het product bedoeld is en volgens de gebruiksaanwijzing. Niet inslikken. Vermijd contact met de ogen. Buiten bereik van kinderen houden. Niet gebruiken bij bekende overgevoeligheid voor een van de ingrediënten.",
     "labelVerification": {
-      "date": "2026-10-11",
+      "date": "2026-10-27",
       "photos": [
-        "source-labels/20261011/fe614eae-ead9-4f6a-b572-1ef0069cd6dd.jpg",
-        "source-labels/20261011/b7cd7c8c-6c14-4d68-a89f-ad19cf0051bf.jpg"
+        "source-labels/20261027/hawaii-shampoo-front.jpg",
+        "source-labels/20261027/hawaii-shampoo-back.jpg"
       ],
       "fields": [
         "name",
@@ -3365,12 +3324,11 @@ window.KPI_PRODUCTS = [
         "composition",
         "ean"
       ],
-      "compositionComplete": true,
-      "secondPass": "2026-10-11: enlarged label photo checked"
+      "compositionComplete": true
     },
     "barcodeSource": {
-      "label": "Fysieke verpakking, etiketfoto gebruiker — 11 oktober 2026",
-      "url": "source-labels/20261011/b7cd7c8c-6c14-4d68-a89f-ad19cf0051bf.jpg"
+      "label": "Fysieke verpakking, foto gebruiker — 27 oktober 2026",
+      "url": "source-labels/20261027/hawaii-shampoo-back.jpg"
     }
   },
   {
