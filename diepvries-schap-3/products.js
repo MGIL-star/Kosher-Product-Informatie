@@ -936,7 +936,7 @@ window.KPI_PRODUCTS = [
       "Rabbinaat Mateh Asher"
     ],
     "nutrition": {
-      "Calorieën": "204 kcal",
+      "Energie": "854 kJ / 204 kcal",
       "Vetten": "9,3 g",
       "waarvan verzadigde vetzuren": "0,9 g",
       "Transvetten": "0,5 g",
@@ -1220,7 +1220,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten.",
     "nutrition": {
-      "Calorieën": "278 kcal",
+      "Energie": "1163 kJ / 278 kcal",
       "Vetten": "18,4 g",
       "waarvan verzadigde vetzuren": "14 g",
       "Transvetten": "0,5 g",
@@ -1284,7 +1284,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten.",
     "nutrition": {
-      "Calorieën": "246 kcal",
+      "Energie": "1029 kJ / 246 kcal",
       "Vetten": "12,5 g",
       "waarvan verzadigde vetzuren": "8,4 g",
       "Transvetten": "0,5 g",
@@ -1345,7 +1345,7 @@ window.KPI_PRODUCTS = [
     "quantitySource": "Fysieke verpakking: 5 stuks van 90 g, totaal 450 g",
     "mayContain": "Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten.",
     "nutrition": {
-      "Calorieën": "127 kcal",
+      "Energie": "531 kJ / 127 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "29,5 g",

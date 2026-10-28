@@ -492,7 +492,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/angel-sourdough-pita-packshot-20261027.png",
     "warning": "",
     "nutrition": {
-      "Energie": "231 kcal",
+      "Energie": "967 kJ / 231 kcal",
       "Eiwitten": "8,3 g",
       "Koolhydraten": "43,1 g",
       "waarvan suikers": "2,8 g",
@@ -862,7 +862,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 29.jpg en 30.jpg",
     "nutrition": {
-      "Calorieën": "370 kcal",
+      "Energie": "1548 kJ / 370 kcal",
       "Vetten": "21,5 g",
       "waarvan verzadigde vetzuren": "10 g",
       "Transvetten": "0,5 g",
@@ -980,7 +980,7 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientSourceNote": "Ingrediënten en soja overgenomen uit productgegevens bij barcode 7290004011291; de verpakking toont eveneens soja als allergeen.",
     "nutrition": {
-      "Calorieën": "288 kcal",
+      "Energie": "1205 kJ / 288 kcal",
       "Vetten": "22,1 g",
       "waarvan verzadigde vetzuren": "20,9 g",
       "Transvetten": "0,5 g",

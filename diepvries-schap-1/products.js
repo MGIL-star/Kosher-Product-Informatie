@@ -201,7 +201,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/07-kippenfilet.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -229,7 +229,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/17-kippenlever.jpg",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -257,7 +257,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/09-kippenvleugels.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -285,7 +285,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/08-kippendrumsticks.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -313,7 +313,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/10-kippendrumettes.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -341,7 +341,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/11-kippenbillen.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -369,7 +369,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/15-kip-karbonade.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -397,7 +397,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/16-kip-gehakt.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -425,7 +425,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/14-kip-schnitzels-gesneden.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -453,7 +453,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/12-kippendijvlees.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
@@ -481,7 +481,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/13-hele-kip.png",
     "allergensConfirmedAbsent": true,
     "nutrition": {
-      "Energie": "694 kJ",
+      "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
       "waarvan verzadigde vetzuren": "3,0 g",
       "Koolhydraten": "0,3 g",
