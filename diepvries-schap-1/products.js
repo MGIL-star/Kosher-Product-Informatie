@@ -24,7 +24,25 @@ window.KPI_PRODUCTS = [
       "ingredients": "Door gebruiker aangeleverde ingrediëntenlijst",
       "priority": "Actuele verpakking en gegevens van gebruiker"
     },
-    "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de gebruiker."
+    "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de gebruiker.",
+    "nutrition": {
+      "Calorieën": "260 kcal",
+      "Vetten": "13 g",
+      "waarvan verzadigde vetzuren": "5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "55 mg",
+      "Natrium": "440 mg",
+      "Koolhydraten": "21 g",
+      "Vezels": "6 g",
+      "waarvan suikers": "1 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "13 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "35 mg",
+      "IJzer": "1,9 mg",
+      "Kalium": "240 mg"
+    },
+    "nutritionUnit": "per portie (113 g)"
   },
   {
     "id": 2,
@@ -45,7 +63,25 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "CRC (Central Rabbinical Congress)"
-    ]
+    ],
+    "nutrition": {
+      "Calorieën": "260 kcal",
+      "Vetten": "13 g",
+      "waarvan verzadigde vetzuren": "5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "55 mg",
+      "Natrium": "440 mg",
+      "Koolhydraten": "21 g",
+      "Vezels": "6 g",
+      "waarvan suikers": "1 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "13 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "35 mg",
+      "IJzer": "1,9 mg",
+      "Kalium": "240 mg"
+    },
+    "nutritionUnit": "per portie (113 g)"
   },
   {
     "id": 3,
@@ -125,7 +161,17 @@ window.KPI_PRODUCTS = [
     "kosher": "Kedassia",
     "note": "",
     "image": "./images/05-runderburgers-recht.png",
-    "ean": "5060199311610"
+    "ean": "5060199311610",
+    "nutrition": {
+      "Energie": "1575 kJ / 378 kcal",
+      "Vetten": "36 g",
+      "waarvan verzadigde vetzuren": "17 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "15 g",
+      "Zout": "1,7 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 6,
