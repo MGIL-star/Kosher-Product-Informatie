@@ -35,7 +35,17 @@ window.KPI_PRODUCTS = [
         "470759f3-a961-4dfe-8c78-19b70394ae6b.jpg"
       ],
       "priority": "Fysieke verpakking van gebruiker"
-    }
+    },
+    "nutrition": {
+      "Energie": "956 kJ / 228 kcal",
+      "Vetten": "7,1 g",
+      "waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "26,5 g",
+      "waarvan suikers": "2,5 g",
+      "Eiwitten": "13,3 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "brand": "Chicof",
@@ -72,7 +82,17 @@ window.KPI_PRODUCTS = [
       ],
       "priority": "Fysieke verpakking van gebruiker"
     },
-    "kosherSource": "Door gebruiker bevestigd op 10 oktober 2026 voor de huidige CHICOF-kiptenders; vervangt de eerdere vermelding van Rav Hendel."
+    "kosherSource": "Door gebruiker bevestigd op 10 oktober 2026 voor de huidige CHICOF-kiptenders; vervangt de eerdere vermelding van Rav Hendel.",
+    "nutrition": {
+      "Energie": "842 kJ / 201 kcal",
+      "Vetten": "4,6 g",
+      "waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "22,1 g",
+      "waarvan suikers": "1,5 g",
+      "Eiwitten": "17,2 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 25,
@@ -116,7 +136,17 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
-    "kosherNameReference": "https://top-k.net/a-propos/"
+    "kosherNameReference": "https://top-k.net/a-propos/",
+    "nutrition": {
+      "Energie": "956 kJ / 228 kcal",
+      "Vetten": "7,1 g",
+      "waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "26,5 g",
+      "waarvan suikers": "1,3 g",
+      "Eiwitten": "13,3 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 1,
@@ -164,7 +194,17 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "kosherSource": "Aanduiding op fysieke verpakkingsfoto cce22ffc-e716-4db8-90b2-95c252c3eecb.jpg; Hebreeuws: הרב אליעזר וולף, אב״ד אמסטרדם, גלאט כשר למהדרין",
-    "kosherNameReference": "https://top-k.net/a-propos/"
+    "kosherNameReference": "https://top-k.net/a-propos/",
+    "nutrition": {
+      "Energie": "956 kJ / 228 kcal",
+      "Vetten": "7,1 g",
+      "waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "26,5 g",
+      "waarvan suikers": "1,3 g",
+      "Eiwitten": "13,3 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 5,
@@ -202,7 +242,17 @@ window.KPI_PRODUCTS = [
       "edit": "Exact overgenomen uit de aangeleverde PNG, zonder verdere beeldbewerking",
       "note": "Gebruiker heeft deze afbeelding expliciet gekozen op 12 september 2026. Ingebakken etiketgegevens kunnen afwijken; geen bron voor ingrediënten, allergenen, gewicht of hechsher."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "1020,9 kJ / 244 kcal",
+      "Vetten": "7,1 g",
+      "waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "36,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "8,03 g",
+      "Zout": "455 mg"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 4,
@@ -240,7 +290,17 @@ window.KPI_PRODUCTS = [
       "edit": "Exact overgenomen uit de aangeleverde PNG, zonder verdere beeldbewerking",
       "note": "Gebruiker heeft deze afbeelding expliciet gekozen op 12 september 2026. Ingebakken etiketgegevens kunnen afwijken; geen bron voor ingrediënten, allergenen, gewicht of hechsher."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "878,64 kJ / 210 kcal",
+      "Vetten": "3,3 g",
+      "waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "32,1 g",
+      "waarvan suikers": "0,7 g",
+      "Eiwitten": "8,8 g",
+      "Natrium": "530 mg"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 3,
@@ -323,7 +383,18 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "KF (Federation of Synagogues, Londen)",
       "Rabbijn Pinchas Avraham Meyers (Vaad HaKashrut Den Haag)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "602 kJ / 143 kcal",
+      "Vetten": "0,4 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "28 g",
+      "waarvan suikers": "0,5 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "3,2 g",
+      "Zout": "0,4 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 6,
@@ -360,7 +431,18 @@ window.KPI_PRODUCTS = [
       "date": "2026-09-15",
       "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "623 kJ / 149 kcal",
+      "Vetten": "8 g",
+      "waarvan verzadigde vetzuren": "1,2 g",
+      "Koolhydraten": "16 g",
+      "waarvan suikers": "1 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0,845 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 7,
@@ -399,7 +481,18 @@ window.KPI_PRODUCTS = [
       "date": "2026-09-15",
       "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "782 kJ / 187 kcal",
+      "Vetten": "9 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "23 g",
+      "waarvan suikers": "0,8 g",
+      "Vezels": "4 g",
+      "Eiwitten": "11 g",
+      "Zout": "0,985 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 8,
@@ -437,7 +530,18 @@ window.KPI_PRODUCTS = [
       "date": "2026-09-15",
       "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "728 kJ / 174 kcal",
+      "Vetten": "5,9 g",
+      "waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "25 g",
+      "waarvan suikers": "5,7 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "2,5 g",
+      "Zout": "0,818 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 9,
@@ -475,7 +579,18 @@ window.KPI_PRODUCTS = [
       "date": "2026-09-15",
       "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "900 kJ / 215 kcal",
+      "Vetten": "12 g",
+      "waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "22 g",
+      "waarvan suikers": "0,8 g",
+      "Vezels": "0,9 g",
+      "Eiwitten": "1 g",
+      "Zout": "0,978 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 10,
@@ -531,7 +646,19 @@ window.KPI_PRODUCTS = [
       "Badatz She’erit Yisrael",
       "Badatz Machzikei Hadass (Belz)",
       "Rabbinaat Mateh Asher"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1007 kJ / 242 kcal",
+      "Vetten": "12 g",
+      "waarvan verzadigde vetzuren": "1,3 g",
+      "Transvetten": "0,5 g",
+      "Cholesterol": "400 mg",
+      "Koolhydraten": "14,6 g",
+      "waarvan suikers": "4,9 g",
+      "Eiwitten": "16,5 g",
+      "Zout": "2,9 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 11,
@@ -569,7 +696,18 @@ window.KPI_PRODUCTS = [
       "date": "2026-09-15",
       "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "728 kJ / 174 kcal",
+      "Vetten": "5,9 g",
+      "waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "25 g",
+      "waarvan suikers": "5,7 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "2,5 g",
+      "Zout": "0,818 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 12,
@@ -608,7 +746,18 @@ window.KPI_PRODUCTS = [
       "date": "2026-09-15",
       "edit": "Zak rechtgezet, witte achtergrond en egale belichting. Door gebruiker goedgekeurd. Productgegevens blijven afkomstig van het originele etiket."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "782 kJ / 187 kcal",
+      "Vetten": "6 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "23 g",
+      "waarvan suikers": "4 g",
+      "Vezels": "1 g",
+      "Eiwitten": "11 g",
+      "Zout": "0,985 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 13,
@@ -651,7 +800,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
+    },
+    "nutrition": {
+      "Energie": "693 kJ / 166 kcal",
+      "Vetten": "15 g",
+      "waarvan verzadigde vetzuren": "9,9 g",
+      "Koolhydraten": "4,2 g",
+      "waarvan suikers": "0,7 g",
+      "Vezels": "1,2 g",
+      "Eiwitten": "13 g",
+      "Zout": "0,66 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 14,
@@ -695,7 +855,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Nieuwe detailfoto’s van de fysieke verpakking"
-    }
+    },
+    "nutrition": {
+      "Energie": "899 kJ / 216 kcal",
+      "Vetten": "13 g",
+      "waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "4,1 g",
+      "waarvan suikers": "1 g",
+      "Vezels": "3,2 g",
+      "Eiwitten": "9 g",
+      "Zout": "1,09 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 15,
@@ -745,7 +916,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Machzikei Hadass (Belz)",
       "Rabbinaat Mateh Asher"
-    ]
+    ],
+    "nutrition": {
+      "Calorieën": "204 kcal",
+      "Vetten": "9,3 g",
+      "waarvan verzadigde vetzuren": "0,9 g",
+      "Transvetten": "0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "400 mg",
+      "Koolhydraten": "5,7 g",
+      "waarvan suikers": "1,3 g",
+      "Vezels": "7,2 g",
+      "Eiwitten": "20,7 g",
+      "Zout": "3,2 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 16,
@@ -793,7 +978,18 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Machzikei Hadass (Belz)",
       "Opperrabbinaat Kiryat Gat"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "897 kJ / 215 kcal",
+      "Vetten": "12 g",
+      "waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "9,9 g",
+      "waarvan suikers": "0,5 g",
+      "Vezels": "6,6 g",
+      "Eiwitten": "15 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 19,
@@ -835,7 +1031,18 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
     },
-    "weightSource": "Door gebruiker bevestigd: 332 g"
+    "weightSource": "Door gebruiker bevestigd: 332 g",
+    "nutrition": {
+      "Energie": "851 kJ / 204 kcal",
+      "Vetten": "8,9 g",
+      "waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "0,5 g",
+      "Vezels": "5,4 g",
+      "Eiwitten": "15 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 18,
@@ -877,7 +1084,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
-    }
+    },
+    "nutrition": {
+      "Energie": "921 kJ / 220 kcal",
+      "Vetten": "12 g",
+      "waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "27 g",
+      "waarvan suikers": "2,7 g",
+      "Vezels": "2,2 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 17,
@@ -920,7 +1138,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/klant/Desktop/Fotos voor Codex",
       "priority": "Fysieke verpakking van gebruiker"
-    }
+    },
+    "nutrition": {
+      "Energie": "579 kJ / 138 kcal",
+      "Vetten": "4,9 g",
+      "waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "4,2 g",
+      "waarvan suikers": "0,5 g",
+      "Vezels": "6,5 g",
+      "Eiwitten": "10 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 20,
@@ -971,7 +1200,20 @@ window.KPI_PRODUCTS = [
       "Badatz Edah HaChareidis (Jeruzalem)",
       "Rabbinaat van Netanya"
     ],
-    "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten."
+    "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten.",
+    "nutrition": {
+      "Calorieën": "278 kcal",
+      "Vetten": "18,4 g",
+      "waarvan verzadigde vetzuren": "14 g",
+      "Transvetten": "0,5 g",
+      "Cholesterol": "14 mg",
+      "Natrium": "117 mg",
+      "Koolhydraten": "25,4 g",
+      "waarvan suikers": "17 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "1,7 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 21,
@@ -1022,7 +1264,20 @@ window.KPI_PRODUCTS = [
       "Badatz Edah HaChareidis (Jeruzalem)",
       "Rabbinaat van Netanya"
     ],
-    "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten."
+    "mayContain": "Kan sporen van melk, gluten uit tarwe, noten, amandelen, pinda’s en sesam bevatten.",
+    "nutrition": {
+      "Calorieën": "246 kcal",
+      "Vetten": "12,5 g",
+      "waarvan verzadigde vetzuren": "8,4 g",
+      "Transvetten": "0,5 g",
+      "Cholesterol": "46 mg",
+      "Natrium": "46 mg",
+      "Koolhydraten": "30,9 g",
+      "waarvan suikers": "25,8 g",
+      "Vezels": "0,2 g",
+      "Eiwitten": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 22,
@@ -1070,6 +1325,16 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "quantitySource": "Fysieke verpakking: 5 stuks van 90 g, totaal 450 g",
-    "mayContain": "Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten."
+    "mayContain": "Kan melkbestanddelen, noten, amandelen, pinda’s, sesam, soja, tarwegluten en ei bevatten.",
+    "nutrition": {
+      "Calorieën": "127 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "29,5 g",
+      "waarvan suikers": "18,2 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g"
   }
 ];

@@ -42,7 +42,21 @@ window.KPI_PRODUCTS = [
       "issued": "2022-11-01",
       "match": "Zelfde UPC en retail-zesverpakking; leesbare ingrediënten komen overeen",
       "reviewDate": "2026-09-10"
-    }
+    },
+    "nutrition": {
+      "Calorieën": "290 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "540 mg",
+      "Koolhydraten": "60 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "9 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "9 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 1,
@@ -90,7 +104,21 @@ window.KPI_PRODUCTS = [
       "issued": "2022-11-01",
       "match": "Zelfde UPC en retail-zesverpakking; leesbare ingrediënten komen overeen",
       "reviewDate": "2026-09-10"
-    }
+    },
+    "nutrition": {
+      "Calorieën": "270 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "560 mg",
+      "Koolhydraten": "58 g",
+      "Vezels": "3 g",
+      "waarvan suikers": "6 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "10 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 2,
@@ -127,7 +155,21 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 3.jpg en 4.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 3.jpg en 4.jpg",
+    "nutrition": {
+      "Calorieën": "290 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "570 mg",
+      "Koolhydraten": "59 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "6 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "10 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 5,
@@ -164,7 +206,21 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 9.jpg en 10.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 9.jpg en 10.jpg",
+    "nutrition": {
+      "Calorieën": "290 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "570 mg",
+      "Koolhydraten": "59 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "6 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "10 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 4,
@@ -202,7 +258,21 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 7.jpg en 8.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 7.jpg en 8.jpg",
+    "nutrition": {
+      "Calorieën": "290 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "560 mg",
+      "Koolhydraten": "59 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "6 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "10 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 6,
@@ -240,7 +310,21 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 11.jpg en 12.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 11.jpg en 12.jpg",
+    "nutrition": {
+      "Calorieën": "270 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "670 mg",
+      "Koolhydraten": "59 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "6 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "10 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 7,
@@ -278,7 +362,21 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 13.jpg en 14.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 13.jpg en 14.jpg",
+    "nutrition": {
+      "Calorieën": "270 kcal",
+      "Vetten": "1 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "530 mg",
+      "Koolhydraten": "59 g",
+      "Vezels": "3 g",
+      "waarvan suikers": "7 g",
+      "waarvan toegevoegde suikers": "5 g",
+      "Eiwitten": "9 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 8,
@@ -315,7 +413,21 @@ window.KPI_PRODUCTS = [
     },
     "ingredientsComplete": true,
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 15.jpg en 16.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 15.jpg en 16.jpg",
+    "nutrition": {
+      "Calorieën": "280 kcal",
+      "Vetten": "1 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "560 mg",
+      "Koolhydraten": "61 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "7 g",
+      "waarvan toegevoegde suikers": "6 g",
+      "Eiwitten": "9 g"
+    },
+    "nutritionUnit": "per bagel (113 g)"
   },
   {
     "id": 24,
@@ -459,7 +571,18 @@ window.KPI_PRODUCTS = [
       "OU-D (Orthodox Union)",
       "Badatz Edah HaChareidis"
     ],
-    "mayContain": "Kan noten, eieren, pinda’s, sesam, selderij en andere glutenbevattende granen bevatten."
+    "mayContain": "Kan noten, eieren, pinda’s, sesam, selderij en andere glutenbevattende granen bevatten.",
+    "nutrition": {
+      "Energie": "1314 kJ / 314 kcal",
+      "Vetten": "19 g",
+      "waarvan verzadigde vetzuren": "8,4 g",
+      "Koolhydraten": "30 g",
+      "waarvan suikers": "1,2 g",
+      "Vezels": "0,7 g",
+      "Eiwitten": "5,7 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 11,
@@ -505,7 +628,18 @@ window.KPI_PRODUCTS = [
       "OU (Orthodox Union)",
       "Badatz Edah HaChareidis"
     ],
-    "mayContain": "Kan noten, eieren, pinda’s, melk, sesam, selderij en andere glutenbevattende granen bevatten."
+    "mayContain": "Kan noten, eieren, pinda’s, melk, sesam, selderij en andere glutenbevattende granen bevatten.",
+    "nutrition": {
+      "Energie": "1193 kJ / 288 kcal",
+      "Vetten": "17 g",
+      "waarvan verzadigde vetzuren": "7,7 g",
+      "Koolhydraten": "30 g",
+      "waarvan suikers": "0,8 g",
+      "Vezels": "0,7 g",
+      "Eiwitten": "3,9 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 10,
@@ -552,7 +686,18 @@ window.KPI_PRODUCTS = [
       "OU (Orthodox Union)",
       "Badatz Edah HaChareidis"
     ],
-    "mayContain": "Kan noten, eieren, pinda’s, melk en andere glutenbevattende granen bevatten."
+    "mayContain": "Kan noten, eieren, pinda’s, melk en andere glutenbevattende granen bevatten.",
+    "nutrition": {
+      "Energie": "1242 kJ / 297 kcal",
+      "Vetten": "18 g",
+      "waarvan verzadigde vetzuren": "7,8 g",
+      "Koolhydraten": "30 g",
+      "waarvan suikers": "0,9 g",
+      "Vezels": "0,9 g",
+      "Eiwitten": "4,2 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 12,
@@ -612,7 +757,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
-    }
+    },
+    "nutrition": {
+      "Energie": "1060 kJ / 253,2 kcal",
+      "Vetten": "12,3 g",
+      "waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "19,5 g",
+      "waarvan suikers": "6 g",
+      "Vezels": "1,6 g",
+      "Eiwitten": "12,89 g",
+      "Zout": "2 g"
+    },
+    "nutritionUnit": "per 100 g vóór het bakken"
   },
   {
     "id": 15,
@@ -654,7 +810,18 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Badatz Edah HaChareidis"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1433 kJ / 342 kcal",
+      "Vetten": "18 g",
+      "waarvan verzadigde vetzuren": "9 g",
+      "Koolhydraten": "40 g",
+      "waarvan suikers": "4,8 g",
+      "Vezels": "0 g",
+      "Eiwitten": "5 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g vóór het bakken"
   },
   {
     "id": 14,
@@ -693,7 +860,20 @@ window.KPI_PRODUCTS = [
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
     "ingredientSourceNote": "Vertaald uit het Hebreeuwse etiket op foto 30.",
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 29.jpg en 30.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 29.jpg en 30.jpg",
+    "nutrition": {
+      "Calorieën": "370 kcal",
+      "Vetten": "21,5 g",
+      "waarvan verzadigde vetzuren": "10 g",
+      "Transvetten": "0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "380 mg",
+      "Koolhydraten": "39 g",
+      "waarvan suikers": "6,2 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "5 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 13,
@@ -746,7 +926,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
-    }
+    },
+    "nutrition": {
+      "Energie": "1598,29 kJ / 382 kcal",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "8,4 g",
+      "Koolhydraten": "42 g",
+      "waarvan suikers": "9,8 g",
+      "Vezels": "1,2 g",
+      "Eiwitten": "4,4 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 17,
@@ -787,7 +978,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis Jerusalem (Parve)"
     ],
-    "ingredientSourceNote": "Ingrediënten en soja overgenomen uit productgegevens bij barcode 7290004011291; de verpakking toont eveneens soja als allergeen."
+    "ingredientSourceNote": "Ingrediënten en soja overgenomen uit productgegevens bij barcode 7290004011291; de verpakking toont eveneens soja als allergeen.",
+    "nutrition": {
+      "Calorieën": "288 kcal",
+      "Vetten": "22,1 g",
+      "waarvan verzadigde vetzuren": "20,9 g",
+      "Transvetten": "0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "60 mg",
+      "Koolhydraten": "22,3 g",
+      "waarvan suikers": "21,7 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "0 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 16,
@@ -829,7 +1033,18 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Badatz Edah HaChareidis"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1489 kJ / 357 kcal",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "37 g",
+      "waarvan suikers": "2,8 g",
+      "Vezels": "0,2 g",
+      "Eiwitten": "5,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 18,
@@ -883,7 +1098,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "CRC (Central Rabbinical Congress)"
-    ]
+    ],
+    "nutrition": {
+      "Calorieën": "80 kcal",
+      "Vetten": "3,5 g",
+      "waarvan verzadigde vetzuren": "1,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "50 mg",
+      "Natrium": "220 mg",
+      "Koolhydraten": "7 g",
+      "Vezels": "<1 g",
+      "waarvan suikers": "3 g",
+      "Eiwitten": "6 g"
+    },
+    "nutritionUnit": "per portie"
   },
   {
     "id": 19,
@@ -927,7 +1155,21 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
-    }
+    },
+    "nutrition": {
+      "Calorieën": "210 kcal",
+      "Vetten": "13 g",
+      "waarvan verzadigde vetzuren": "11 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "95 mg",
+      "Koolhydraten": "23 g",
+      "Vezels": "2 g",
+      "waarvan suikers": "19 g",
+      "waarvan toegevoegde suikers": "17 g",
+      "Eiwitten": "1 g"
+    },
+    "nutritionUnit": "per portie (1/6 taart, 93 g)"
   },
   {
     "id": 20,
@@ -1006,7 +1248,18 @@ window.KPI_PRODUCTS = [
       "url": "https://www.eliko.uk/wp-content/uploads/2018/06/odl002.jpg"
     },
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 45.jpg en 46.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 45.jpg en 46.jpg",
+    "nutrition": {
+      "Energie": "1070 kJ / 254 kcal",
+      "Vetten": "7,9 g",
+      "waarvan verzadigde vetzuren": "3,4 g",
+      "Koolhydraten": "34 g",
+      "waarvan suikers": "3,5 g",
+      "Vezels": "2,7 g",
+      "Eiwitten": "10 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 22,
@@ -1047,7 +1300,18 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 47.jpg en 48.jpg",
     "barcodeCandidate": "3760116200202",
-    "barcodeCandidateSource": "Foodfactor noemt deze geldige code, maar Kodi Foods geeft een afwijkende foutieve code. Nog op verpakking te bevestigen."
+    "barcodeCandidateSource": "Foodfactor noemt deze geldige code, maar Kodi Foods geeft een afwijkende foutieve code. Nog op verpakking te bevestigen.",
+    "nutrition": {
+      "Energie": "957 kJ / 227 kcal",
+      "Vetten": "6,1 g",
+      "waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "31 g",
+      "waarvan suikers": "2,3 g",
+      "Vezels": "2,2 g",
+      "Eiwitten": "10,8 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 23,
@@ -1085,6 +1349,17 @@ window.KPI_PRODUCTS = [
       "url": "https://www.eliko.uk/wp-content/uploads/2018/06/odl001.jpg"
     },
     "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 49.jpg en 50.jpg"
+    "kosherSource": "Eigen verpakkingsfoto’s 49.jpg en 50.jpg",
+    "nutrition": {
+      "Energie": "1070 kJ / 235 kcal",
+      "Vetten": "6,2 g",
+      "waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "35 g",
+      "waarvan suikers": "2,5 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "9,1 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g"
   }
 ];

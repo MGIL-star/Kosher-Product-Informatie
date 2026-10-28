@@ -94,7 +94,21 @@ window.KPI_PRODUCTS = [
       "kosher": "source-labels/20261014-fish-replacements/breaded-flounder-kosher.jpg",
       "priority": "Actuele verpakking van gebruiker"
     },
-    "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de verpakking."
+    "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de verpakking.",
+    "nutrition": {
+      "Calorieën": "180 kcal",
+      "Vetten": "2,5 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "25 mg",
+      "Natrium": "400 mg",
+      "Koolhydraten": "30 g",
+      "Vezels": "3 g",
+      "waarvan suikers": "1 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "12 g"
+    },
+    "nutritionUnit": "per portie (113 g)"
   },
   {
     "id": 5,
