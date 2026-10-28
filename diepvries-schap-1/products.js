@@ -199,7 +199,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/07-kippenfilet.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippenfilet-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 17,
@@ -213,7 +227,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/17-kippenlever.jpg",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippenlever-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 9,
@@ -227,7 +255,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/09-kippenvleugels.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippenvleugels-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 8,
@@ -241,7 +283,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/08-kippendrumsticks.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippendrumsticks-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 10,
@@ -255,7 +311,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/10-kippendrumettes.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippendrumettes-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 11,
@@ -269,7 +339,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/11-kippenbillen.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippenbillen-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 15,
@@ -283,7 +367,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/15-kip-karbonade.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kip-karbonade-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 16,
@@ -297,7 +395,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/16-kip-gehakt.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kip-gehakt-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 14,
@@ -311,7 +423,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "Dit product is rauwe, dun gesneden kipfilet, zonder panering of paneermeel.",
     "image": "./images/14-kip-schnitzels-gesneden.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kip-schnitzels-gesneden-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 12,
@@ -325,7 +451,21 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/12-kippendijvlees.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/kippendijvlees-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   },
   {
     "id": 13,
@@ -339,6 +479,20 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Amsterdam · Rav Wolf",
     "note": "",
     "image": "./images/13-hele-kip.png",
-    "allergensConfirmedAbsent": true
+    "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "694 kJ",
+      "Vetten": "9,5 g",
+      "waarvan verzadigde vetzuren": "3,0 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "19,3 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "labelSource": {
+      "nutrition": "source-labels/20261028-kosher-poultry/hele-kip-nutrition-original.jpg",
+      "priority": "Voedingswaarden overgenomen van de door gebruiker aangeleverde verpakking."
+    }
   }
 ];
