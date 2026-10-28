@@ -21,9 +21,11 @@
 
   function placeNavigation() {
     const photo = host.querySelector('.dialog-product .product-visual-large');
+    const heading = host.querySelector('.dialog-product .dialog-heading');
     if (!photo) return;
-    if (nav.parentElement !== photo) photo.append(nav);
-    photo.classList.add('product-navigation-photo-anchor');
+    const target = window.matchMedia('(max-width: 639px)').matches && heading ? heading : photo;
+    if (nav.parentElement !== target) target.append(nav);
+    if (target === photo) photo.classList.add('product-navigation-photo-anchor');
   }
 
   function update() {
@@ -62,5 +64,6 @@
   dialog.addEventListener('click', event => {
     if (event.target === dialog) dialog.close();
   });
+  window.addEventListener('resize', () => requestAnimationFrame(update), { passive: true });
   new MutationObserver(update).observe(host, { childList: true, subtree: true });
 })();
