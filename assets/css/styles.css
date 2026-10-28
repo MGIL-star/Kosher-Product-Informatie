@@ -33,4 +33,4 @@
 .product-dialog-nav-button:not(:disabled):hover{background:#fff;color:var(--green-950,#0c2f28)}
 .product-dialog-nav-button:focus-visible{outline:1px solid var(--green-700,#276c58);outline-offset:2px}
 @media(max-width:359px){.product-dialog .product-visual-large img{padding-inline:50px}}
-@media(max-width:639px){.product-dialog .dialog-product>.dialog-heading{position:relative;padding-bottom:74px}.product-dialog .dialog-heading>.product-dialog-navigation{position:absolute;right:0;bottom:8px;top:auto;display:flex;gap:16px;transform:none;padding:0;pointer-events:none;direction:ltr}.product-dialog .dialog-heading>.product-dialog-navigation .product-dialog-nav-button{width:42px;height:42px}}
+@media(max-width:639px){.product-dialog .product-dialog-navigation{display:none!important}.product-dialog .product-visual-large{touch-action:pan-y}}

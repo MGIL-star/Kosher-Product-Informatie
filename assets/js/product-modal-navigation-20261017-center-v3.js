@@ -21,11 +21,9 @@
 
   function placeNavigation() {
     const photo = host.querySelector('.dialog-product .product-visual-large');
-    const heading = host.querySelector('.dialog-product .dialog-heading');
     if (!photo) return;
-    const target = window.matchMedia('(max-width: 639px)').matches && heading ? heading : photo;
-    if (nav.parentElement !== target) target.append(nav);
-    if (target === photo) photo.classList.add('product-navigation-photo-anchor');
+    if (nav.parentElement !== photo) photo.append(nav);
+    photo.classList.add('product-navigation-photo-anchor');
   }
 
   function update() {
@@ -45,9 +43,7 @@
     requestAnimationFrame(update);
   }, true);
 
-  nav.addEventListener('click', event => {
-    const direction = event.target.closest('[data-product-nav]')?.dataset.productNav;
-    if (!direction) return;
+  function navigate(direction) {
     const cards = visibleCards();
     const index = cards.findIndex(button => keyOf(button) === activeKey);
     const target = cards[index + (direction === 'next' ? 1 : -1)];
@@ -55,7 +51,29 @@
     activeKey = keyOf(target);
     target.click();
     requestAnimationFrame(update);
+  }
+
+  nav.addEventListener('click', event => {
+    const direction = event.target.closest('[data-product-nav]')?.dataset.productNav;
+    if (direction) navigate(direction);
   });
+
+  let touchStart = null;
+  dialog.addEventListener('touchstart', event => {
+    if (!window.matchMedia('(max-width: 639px)').matches || !event.target.closest('.product-visual-large')) return;
+    const touch = event.changedTouches[0];
+    touchStart = { x: touch.clientX, y: touch.clientY };
+  }, { passive: true });
+  dialog.addEventListener('touchend', event => {
+    if (!touchStart) return;
+    const touch = event.changedTouches[0];
+    const deltaX = touch.clientX - touchStart.x;
+    const deltaY = touch.clientY - touchStart.y;
+    touchStart = null;
+    if (Math.abs(deltaX) < 55 || Math.abs(deltaX) < Math.abs(deltaY) * 1.25) return;
+    navigate(deltaX < 0 ? 'next' : 'previous');
+  }, { passive: true });
+  dialog.addEventListener('touchcancel', () => { touchStart = null; }, { passive: true });
 
   dialog.addEventListener('close', () => {
     activeKey = null;
