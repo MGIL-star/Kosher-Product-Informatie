@@ -337,7 +337,25 @@ window.KPI_PRODUCTS = [
       "edit": "Exact overgenomen uit de aangeleverde PNG, zonder verdere beeldbewerking",
       "note": "Gebruiker heeft deze afbeelding expliciet gekozen op 12 september 2026. Ingebakken etiketgegevens kunnen afwijken; geen bron voor ingrediënten, allergenen, gewicht of hechsher."
     },
-    "allergensConfirmedAbsent": false
+    "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Calorieën": "80 kcal",
+      "Vetten": "3,5 g",
+      "waarvan verzadigde vetzuren": "1,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "50 mg",
+      "Natrium": "220 mg",
+      "Koolhydraten": "7 g",
+      "Vezels": "<1 g",
+      "waarvan suikers": "3 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "6 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "10 mg",
+      "IJzer": "0,5 mg",
+      "Kalium": "90 mg"
+    },
+    "nutritionUnit": "per portie (2 worstjes, 56 g)"
   },
   {
     "id": 2,
