@@ -44,7 +44,7 @@ window.KPI_PRODUCTS = [
       "reviewDate": "2026-09-10"
     },
     "nutrition": {
-      "Calorieën": "290 kcal",
+      "Energie": "1213 kJ / 290 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -106,7 +106,7 @@ window.KPI_PRODUCTS = [
       "reviewDate": "2026-09-10"
     },
     "nutrition": {
-      "Calorieën": "270 kcal",
+      "Energie": "1130 kJ / 270 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -157,7 +157,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 3.jpg en 4.jpg",
     "nutrition": {
-      "Calorieën": "290 kcal",
+      "Energie": "1213 kJ / 290 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -208,7 +208,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 9.jpg en 10.jpg",
     "nutrition": {
-      "Calorieën": "290 kcal",
+      "Energie": "1213 kJ / 290 kcal",
       "Vetten": "0,5 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -260,7 +260,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 7.jpg en 8.jpg",
     "nutrition": {
-      "Calorieën": "290 kcal",
+      "Energie": "1213 kJ / 290 kcal",
       "Vetten": "0,5 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -312,7 +312,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 11.jpg en 12.jpg",
     "nutrition": {
-      "Calorieën": "270 kcal",
+      "Energie": "1130 kJ / 270 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -364,7 +364,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 13.jpg en 14.jpg",
     "nutrition": {
-      "Calorieën": "270 kcal",
+      "Energie": "1130 kJ / 270 kcal",
       "Vetten": "1 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -415,7 +415,7 @@ window.KPI_PRODUCTS = [
     "ingredientReviewDate": "2026-09-10",
     "kosherSource": "Eigen verpakkingsfoto’s 15.jpg en 16.jpg",
     "nutrition": {
-      "Calorieën": "280 kcal",
+      "Energie": "1172 kJ / 280 kcal",
       "Vetten": "1 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -449,6 +449,23 @@ window.KPI_PRODUCTS = [
     "ean": "607984050221",
     "image": "./images/24-pizzabagels-recht.png",
     "warning": "",
+    "nutrition": {
+      "Energie": "544 kJ / 130 kcal",
+      "Vetten": "2 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "5 mg",
+      "Natrium": "200 mg",
+      "Koolhydraten": "22 g",
+      "Vezels": "1 g",
+      "Suikers": "3 g",
+      "waarvan toegevoegde suikers": "<1 g",
+      "Eiwitten": "6 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "80 mg",
+      "IJzer": "0,1 mg"
+    },
+    "nutritionUnit": "per portie (54 g)",
     "note": "Dairy (Chalav Yisrael)",
     "reviewStatus": "label-verified-additional-certification-unreadable",
     "quantitySource": "Voorkantfoto 17.jpg: 12 bagelhelften, 2 × 323 g, totaal 646 g / 22.8 oz",
@@ -1100,7 +1117,7 @@ window.KPI_PRODUCTS = [
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
-      "Calorieën": "80 kcal",
+      "Energie": "335 kJ / 80 kcal",
       "Vetten": "3,5 g",
       "waarvan verzadigde vetzuren": "1,5 g",
       "Transvetten": "0 g",
@@ -1157,7 +1174,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "nutrition": {
-      "Calorieën": "210 kcal",
+      "Energie": "879 kJ / 210 kcal",
       "Vetten": "13 g",
       "waarvan verzadigde vetzuren": "11 g",
       "Transvetten": "0 g",

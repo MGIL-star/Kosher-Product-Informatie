@@ -6,7 +6,7 @@
   const normalize = s => String(s ?? '').toLocaleLowerCase('nl').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',frozen:'Diepvries'};
   const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261022-mojito-name-fix':i===3?'assets/js/products-meter-4.js':i===4?'meter-5/products.js?v=20261022-harissa-barcode-hechsher':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===14?'meter-15/products.js?v=20261022-doritos-size-match':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
-  for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js?v=20261028-energy-kj-kcal`});
+  for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js?v=20261029-freezer-info-energy`});
   const sectionTitles = [
     'Water · Vruchtensappen', 'Wijn · Druivensap', 'Olie · Azijn · Dranken',
     'Groenten · Olijven · Augurken', 'Sauzen · Soepen · Visconserven',
@@ -71,7 +71,7 @@
       +'<p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>'
       +'<div class="dialog-heading"><h2 data-source-title="'+esc(p.name)+'" id="dialog-title">'+esc(p.name)+'</h2><p class="notranslate" translate="no">'+esc(p.brand)+'</p>'+(p.variant?'<span>'+esc(p.variant)+'</span>':'')+'</div>'
       +'<div class="catalog-purchase"><button class="primary" data-add="'+esc(p.key)+'">Toevoegen aan boodschappenlijst</button></div>'
-      +(info?'<section><h3>'+(p.isWine?'Productinformatie / wijnstijl':'Productinformatie')+'</h3>'+info+'</section>':'')
+      +(info?(p.meter.startsWith('diepvries-schap-')?'<section>'+info+'</section>':'<section><h3>'+(p.isWine?'Productinformatie / wijnstijl':'Productinformatie')+'</h3>'+info+'</section>'):'')
       +(p.ingredients?'<section><h3>'+(p.ingredientsPartial?'Bekende ingrediënten':'Ingrediënten')+'</h3><p>'+window.KPI_emphasizeAllergens(p.ingredients)+'</p>'+(p.ingredientNote||p.ingredientsNote?'<p>'+esc(p.ingredientNote||p.ingredientsNote)+'</p>':'')+'</section>':'')
       +(p.catalogType==='nonfood'&&p.composition?'<section class="product-composition"><h3>'+esc(p.composition.heading||'Ingrediënten (INCI)')+'</h3>'+(p.composition.text?'<p>'+esc(p.composition.text)+'</p>':'')+(p.composition.note?'<p class="composition-note">'+esc(p.composition.note)+'</p>':'')+'</section>':'')
       +(p.catalogType!=='nonfood'?'<section><h3>Allergenen</h3><div class="allergen-list">'+allergens+'</div>'+(p.allergenNote?'<p>'+esc(p.allergenNote)+'</p>':'')+'</section>':'')

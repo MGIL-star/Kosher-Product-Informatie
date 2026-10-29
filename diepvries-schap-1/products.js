@@ -26,7 +26,7 @@ window.KPI_PRODUCTS = [
     },
     "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de gebruiker.",
     "nutrition": {
-      "Calorieën": "260 kcal",
+      "Energie": "1088 kJ / 260 kcal",
       "Vetten": "13 g",
       "waarvan verzadigde vetzuren": "5 g",
       "Transvetten": "0 g",
@@ -65,7 +65,7 @@ window.KPI_PRODUCTS = [
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
-      "Calorieën": "260 kcal",
+      "Energie": "1088 kJ / 260 kcal",
       "Vetten": "13 g",
       "waarvan verzadigde vetzuren": "5 g",
       "Transvetten": "0 g",
@@ -132,7 +132,7 @@ window.KPI_PRODUCTS = [
     },
     "ingredientSourceNote": "Ingrediënten en allergenen overgenomen van de verpakking.",
     "nutrition": {
-      "Calorieën": "180 kcal",
+      "Energie": "753 kJ / 180 kcal",
       "Vetten": "2,5 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",

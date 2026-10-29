@@ -339,7 +339,7 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "nutrition": {
-      "Calorieën": "80 kcal",
+      "Energie": "335 kJ / 80 kcal",
       "Vetten": "3,5 g",
       "waarvan verzadigde vetzuren": "1,5 g",
       "Transvetten": "0 g",

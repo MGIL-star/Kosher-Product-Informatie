@@ -11,10 +11,7 @@
   const siteFooter = document.querySelector('[data-site-disclaimer]');
   let activeFilter = 'Alle';
 
-  const siteDisclaimer = `<div class="site-disclaimer">
-    <strong>Productinformatie &amp; afbeeldingen</strong>
-    <p>De getoonde productinformatie is met zorg samengesteld. Ingrediënten, allergenen, verpakking en productsamenstelling kunnen door de fabrikant worden gewijzigd. De getoonde foto’s dienen ter illustratie en kunnen afwijken van de actuele verpakking of het product zoals dit in de winkel verkrijgbaar is. Controleer bij twijfel altijd het etiket op de actuele verpakking.</p>
-  </div>`;
+  const siteDisclaimer = ``;
 
   const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
   const normalize = (value) => value.toLocaleLowerCase('nl-NL').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
@@ -75,7 +72,7 @@
       ${product.ean ? `<section class="ean"><h3>Barcode / EAN</h3><p>${escapeHtml(product.ean)}</p></section>` : ''}
       ${product.nutrition ? `<section class="nutrition"><h3>Voedingswaarden ${escapeHtml(product.nutritionUnit || 'per 100 g')}</h3><table class="nutrition-table"><tbody>${Object.entries(product.nutrition).map(([label, value]) => `<tr><th scope="row">${escapeHtml(label)}</th><td>${escapeHtml(value)}</td></tr>`).join('')}</tbody></table></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}
-      <section><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>${product.note ? `<section><h3>Productinformatie</h3><p>${escapeHtml(product.note)}</p></section>` : ''}
+      <section><h3>Hechser</h3><p>${escapeHtml(hechsherText(product.kosher + ((product.kosherStatus === 'Parve' || /\(Parve\)/i.test(product.note || '')) && !/parve/i.test(product.kosher) ? ' (Parve)' : '')))}</p></section>${product.note ? `<p>${escapeHtml(product.note)}</p>` : ''}
     </div>`;
     window.KPI_normalizeProductLayout(dialogContent, product);
     if (!dialog.open) dialog.showModal();
