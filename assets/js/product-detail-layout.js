@@ -194,6 +194,63 @@
     [...root.children].filter(el => el.tagName === 'SECTION')
       .sort((a, b) => rank(a.querySelector('h3')?.textContent || '') - rank(b.querySelector('h3')?.textContent || ''))
       .forEach(el => root.append(el));
+    // Keep non-wine product details to the exact fields requested. Meter 2
+    // wines retain their existing product details.
+    if (product.isWine !== true) {
+      const noticeTexts = [...new Set([
+        product.mayContain,
+        product.allergenNote,
+        product.warning,
+        product.notice,
+        ...Object.values(product.productInfo || {}),
+        ...[...root.querySelectorAll('section')]
+          .filter(section => /^(?:kan bevatten|let op)\s*:?[\s]*$/i.test(section.querySelector('h3')?.textContent || ''))
+          .flatMap(section => [...section.querySelectorAll('p')].map(paragraph => paragraph.textContent.trim()))
+      ].flatMap(value => Array.isArray(value) ? value : [value])
+        .filter(value => typeof value === 'string' && value.trim())
+        .map(value => value.trim())
+        .filter(value => /\b(?:kan|may)\b[\s\S]*\b(?:bevatten|contain)\b/i.test(value) || /\b(?:verwerkt|gebruikt|vervaardigd|process(?:es|ed)?)\b[\s\S]*\b(?:bedrijf|fabriek|productielijn|facility|plant)\b|\b(?:bedrijf|fabriek|productielijn|facility|plant)\b[\s\S]*\b(?:verwerkt|gebruikt|vervaardigd|process(?:es|ed)?)\b/i.test(value))
+      )];
+      const allowed = section => {
+        const title = section.querySelector('h3')?.textContent.trim() || '';
+        return /^(?:ingrediënten(?:\s*\(INCI\))?|bekende ingrediënten|samenstelling)$/i.test(title)
+          || /^allergenen$/i.test(title)
+          || /^(?:kan bevatten|let op)\s*:?[\s]*$/i.test(title)
+          || /^hechser$/i.test(title)
+          || /^barcode\s*[\/&]\s*ean$/i.test(title)
+          || /^voedingswaarden/i.test(title);
+      };
+      for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
+        if (!allowed(section)) { section.remove(); continue; }
+        const title = section.querySelector('h3')?.textContent.trim() || '';
+        if (/^(?:ingrediënten|bekende ingrediënten|samenstelling)/i.test(title)) {
+          const paragraphs = [...section.querySelectorAll(':scope > p')];
+          paragraphs.slice(1).forEach(paragraph => paragraph.remove());
+        } else if (/^allergenen$/i.test(title)) {
+          section.querySelectorAll(':scope > p').forEach(paragraph => paragraph.remove());
+        } else if (/^barcode/i.test(title)) {
+          const paragraphs = [...section.querySelectorAll(':scope > p')];
+          paragraphs.slice(1).forEach(paragraph => paragraph.remove());
+        }
+      }
+      root.querySelectorAll('section').forEach(section => {
+        if (/^(?:kan bevatten|let op)\s*:?[\s]*$/i.test(section.querySelector('h3')?.textContent || '')) section.remove();
+      });
+      if (noticeTexts.length) {
+        const notice = document.createElement('section');
+        notice.className = 'trace-allergen-notice';
+        const heading = document.createElement('h3');
+        heading.textContent = 'LET OP:';
+        notice.append(heading);
+        noticeTexts.forEach(value => {
+          const paragraph = document.createElement('p');
+          paragraph.textContent = value;
+          notice.append(paragraph);
+        });
+        const allergens = [...root.children].find(section => /^allergenen$/i.test(section.querySelector('h3')?.textContent || ''));
+        root.insertBefore(notice, allergens?.nextSibling || null);
+      }
+    }
     // Shared label styling for both QR pages and the full catalogue.
     for (const heading of root.querySelectorAll('section > h3')) {
       heading.textContent = heading.textContent
