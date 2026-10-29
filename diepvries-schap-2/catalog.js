@@ -47,7 +47,7 @@
     const visible = products.filter(product => {
       const matchesFilter = activeFilter === 'Alle' || product.category === activeFilter;
       const haystack = normalize(`${product.brand} ${product.name} ${product.englishName || ''} ${product.variant} ${product.ingredients}`);
-      return matchesFilter && haystack.includes(query);
+      return matchesFilter && window.KPI_searchMatches(haystack, query);
     });
     grid.innerHTML = visible.map(card).join('');
     count.textContent = `${visible.length} ${visible.length === 1 ? 'product' : 'producten'}`;

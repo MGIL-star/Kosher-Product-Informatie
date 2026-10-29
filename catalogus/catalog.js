@@ -41,7 +41,7 @@
     }
     window.CatalogTranslation?.beforeUpdate();
     const query=normalize($('#search').value);
-    const filtered=products.filter(p=>(active==='all'||p.group===active)&&normalize(`${p.name} ${translatedSearch.get(p.key)||''} ${p.englishName||''} ${p.brand} ${p.variant} ${p.category} ${p.meterTitle}`).includes(query));
+    const filtered=products.filter(p=>(active==='all'||p.group===active)&&window.KPI_searchMatches(`${p.name} ${p.searchName||''} ${Array.isArray(p.aliases)?p.aliases.join(' '):p.aliases||''} ${translatedSearch.get(p.key)||''} ${p.englishName||''} ${p.brand} ${p.variant} ${p.category} ${p.meterTitle}`,query));
     $('#result-title').textContent='Ons assortiment';
     $('#result-count').textContent=`${filtered.length} ${filtered.length===1?'product':'producten'}`;
     $('#products').innerHTML=sources.map(source=>{

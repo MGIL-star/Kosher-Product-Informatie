@@ -14,6 +14,77 @@
     text = text.replace(/(?:\s*-\s*){2,}/g, ' - ').replace(/\s+-\s*$/, '').trim();
     return [text, ...status.map(name => '(' + name + ')')].filter(Boolean).join(' ').replace(/\s+[-–—]\s+/g, ' ').replace(/\s+/g, ' ').trim();
   };
+  // Search understands common transliterations, Dutch/English product terms,
+  // and small spelling mistakes while still requiring every query word.
+  window.KPI_searchMatches = function (searchable, query) {
+    const normalize = value => String(value ?? '').toLocaleLowerCase('nl-NL')
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .replace(/[’']/g, '').replace(/[^a-z0-9]+/g, ' ').trim().replace(/\s+/g, ' ');
+    const text = normalize(searchable);
+    const needle = normalize(query);
+    if (!needle) return true;
+    if (text.includes(needle)) return true;
+
+    const groups = [
+      ['bourekas', 'boerekas', 'burekas', 'borekas', 'boureka', 'boereka', 'bureka', 'boreka', 'burek', 'borek'],
+      ['chocolate chips', 'chocolate chip', 'choc chips', 'choc chip', 'mini chocolate chips', 'chocolate pieces', 'chocolate chunks', 'chocolate drops', 'chocoladestukjes', 'chocolade stukjes', 'chocoladedruppels', 'chocoladedrops', 'choco stukjes'],
+      ['latkes', 'latke', 'latkas', 'potato pancakes', 'aardappel latkes', 'aardappellatkes'],
+      ['nuggets', 'nugget', 'naggets', 'nagget', 'chicken nuggets', 'kip nuggets', 'kipnuggets']
+    ].map(group => group.map(normalize));
+
+    // Expand recognized phrases before token matching, e.g. chocolate chips
+    // can find a product named Mini Chocoladestukjes.
+    let phrases = [needle];
+    for (const group of groups) {
+      const variants = [...new Set(group.flatMap(alias => {
+        const found = [];
+        for (const candidate of phrases) {
+          if (candidate === alias) found.push(...group);
+          else if (candidate.includes(alias)) found.push(...group.map(item => candidate.replace(alias, item)));
+        }
+        return found;
+      }))];
+      phrases = [...new Set([...phrases, ...variants])];
+    }
+    if (phrases.some(phrase => phrase && text.includes(phrase))) return true;
+
+    const words = text.split(' ').filter(Boolean);
+    const queryWords = needle.split(' ').filter(Boolean);
+    const editDistance = (a, b, limit) => {
+      if (Math.abs(a.length - b.length) > limit) return limit + 1;
+      let previousPrevious = null;
+      let previous = Array.from({ length: b.length + 1 }, (_, index) => index);
+      for (let i = 1; i <= a.length; i++) {
+        const current = [i];
+        let rowMin = i;
+        for (let j = 1; j <= b.length; j++) {
+          const cost = a[i - 1] === b[j - 1] ? 0 : 1;
+          current[j] = Math.min(current[j - 1] + 1, previous[j] + 1, previous[j - 1] + cost);
+          if (i > 1 && j > 1 && a[i - 1] === b[j - 2] && a[i - 2] === b[j - 1]) {
+            current[j] = Math.min(current[j], previousPrevious[j - 2] + 1);
+          }
+          rowMin = Math.min(rowMin, current[j]);
+        }
+        if (rowMin > limit) return limit + 1;
+        previousPrevious = previous;
+        previous = current;
+      }
+      return previous[b.length];
+    };
+    const wordMatches = queryWord => {
+      const candidates = new Set([queryWord]);
+      for (const group of groups) {
+        if (group.includes(queryWord)) group.forEach(alias => candidates.add(alias));
+      }
+      return [...candidates].some(candidate => {
+        if (words.some(word => word.includes(candidate) || candidate.includes(word) && word.length >= 3)) return true;
+        if (candidate.length < 4) return false;
+        const limit = candidate.length >= 8 ? 2 : 1;
+        return words.some(word => word.length >= 4 && editDistance(candidate, word, limit) <= limit);
+      });
+    };
+    return queryWords.every(wordMatches);
+  };
   // DKW meter 1 defines the order for every product detail view.
   window.KPI_normalizeProductLayout = function (container, product = {}) {
     const root = container.querySelector('.dialog-product');
