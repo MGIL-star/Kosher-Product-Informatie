@@ -6,6 +6,7 @@
   if (!dialog || !host) return;
 
   let activeKey = null;
+  let navigating = false;
   const cardsSelector = '#product-grid [data-product-id], #products .product-open[data-product]';
   const nav = document.createElement('nav');
   nav.className = 'product-dialog-navigation';
@@ -44,10 +45,43 @@
   }, true);
 
   function navigate(direction) {
+    if (navigating) return;
     const cards = visibleCards();
     const index = cards.findIndex(button => keyOf(button) === activeKey);
     const target = cards[index + (direction === 'next' ? 1 : -1)];
     if (!target) return;
+    const panel = host.querySelector('.dialog-product');
+    const animate = window.matchMedia('(max-width: 639px) and (prefers-reduced-motion: no-preference)').matches
+      && typeof panel?.animate === 'function';
+    if (animate) {
+      navigating = true;
+      const shift = direction === 'next' ? -18 : 18;
+      const leave = panel.animate(
+        [{ transform: 'translateX(0)', opacity: 1 }, { transform: `translateX(${shift}px)`, opacity: 0.25 }],
+        { duration: 105, easing: 'cubic-bezier(.4, 0, 1, 1)', fill: 'forwards' }
+      );
+      leave.onfinish = () => {
+        activeKey = keyOf(target);
+        target.click();
+        requestAnimationFrame(() => {
+          const nextPanel = host.querySelector('.dialog-product');
+          if (!nextPanel || typeof nextPanel.animate !== 'function') {
+            navigating = false;
+            update();
+            return;
+          }
+          const enter = nextPanel.animate(
+            [{ transform: `translateX(${-shift}px)`, opacity: 0.25 }, { transform: 'translateX(0)', opacity: 1 }],
+            { duration: 185, easing: 'cubic-bezier(.22, 1, .36, 1)' }
+          );
+          enter.onfinish = () => { navigating = false; update(); };
+          enter.oncancel = () => { navigating = false; update(); };
+          update();
+        });
+      };
+      leave.oncancel = () => { navigating = false; };
+      return;
+    }
     activeKey = keyOf(target);
     target.click();
     requestAnimationFrame(update);
@@ -60,7 +94,8 @@
 
   let touchStart = null;
   dialog.addEventListener('touchstart', event => {
-    if (!window.matchMedia('(max-width: 639px)').matches || !event.target.closest('.product-visual-large')) return;
+    if (!window.matchMedia('(max-width: 639px)').matches || !event.target.closest('.dialog-product')) return;
+    if (event.target.closest('button, a, input, select, textarea, [contenteditable="true"]')) return;
     const touch = event.changedTouches[0];
     touchStart = { x: touch.clientX, y: touch.clientY };
   }, { passive: true });
