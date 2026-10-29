@@ -28,6 +28,8 @@
     const groups = [
       ['bourekas', 'boerekas', 'burekas', 'borekas', 'boureka', 'boereka', 'bureka', 'boreka', 'burek', 'borek'],
       ['chocolate chips', 'chocolate chip', 'choc chips', 'choc chip', 'mini chocolate chips', 'chocolate pieces', 'chocolate chunks', 'chocolate drops', 'chocoladestukjes', 'chocolade stukjes', 'chocoladedruppels', 'chocoladedrops', 'choco stukjes'],
+      ['ijshoorntjes', 'ijs hoorntjes', 'ice cream cones', 'icecream cones', 'sugar cones', 'suikerhoorntjes', 'suiker hoorntjes', 'knapperige suikerhoorntjes', 'hoorntjes'],
+      ['cornflakes', 'corn flakes', 'corn balls', 'corn ball', 'corn balls classic', 'cornbolletjes', 'maisbolletjes', 'maïsbolletjes'],
       ['latkes', 'latke', 'latkas', 'potato pancakes', 'aardappel latkes', 'aardappellatkes'],
       ['nuggets', 'nugget', 'naggets', 'nagget', 'chicken nuggets', 'kip nuggets', 'kipnuggets']
     ].map(group => group.map(normalize));
