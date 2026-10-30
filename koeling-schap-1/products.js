@@ -37,7 +37,19 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket op foto 2cb127e5-fe7e-4c67-ae36-9b90666397eb.jpg, aangeleverd op 10 oktober 2026",
-    "barcodeSource": "Foto 07f9a430-948f-440c-8c11-095f45c453f5.jpg; EAN-13 uit streepjespatroon gelezen, inclusief geldig controlecijfer 8"
+    "barcodeSource": "Foto 07f9a430-948f-440c-8c11-095f45c453f5.jpg; EAN-13 uit streepjespatroon gelezen, inclusief geldig controlecijfer 8",
+    "nutrition": {
+      "Energie": "1190 kJ / 289 kcal",
+      "Vetten": "30,1 g",
+      "waarvan verzadigde vetzuren": "2,3 g",
+      "Koolhydraten": "3 g",
+      "waarvan suikers": "1 g",
+      "Vezels": "1 g",
+      "Eiwitten": "1 g",
+      "Zout": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Green Schug (code 145), per 100 g."
   },
   {
     "id": 21,
@@ -116,7 +128,18 @@ window.KPI_PRODUCTS = [
         "c477ac4e-fb10-4130-8145-e2844f8ef17d.jpg"
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
+    },
+    "nutrition": {
+      "Energie": "313,3 kJ / 73,9 kcal",
+      "Vetten": "0,6 g",
+      "waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "12,9 g",
+      "waarvan suikers": "3,4 g",
+      "Eiwitten": "2,6 g",
+      "Zout": "0,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Aubergine Salad (code 002), per 100 g."
   },
   {
     "id": 27,
@@ -150,7 +173,18 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "nutrition": {
+      "Energie": "1539,6 kJ / 367,5 kcal",
+      "Vetten": "38,8 g",
+      "waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "2,6 g",
+      "waarvan suikers": "1,5 g",
+      "Eiwitten": "1,3 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Aubergine Dip (code 001), per 100 g."
   },
   {
     "id": 59,
@@ -188,7 +222,19 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "1030 kJ / 250 kcal",
+      "Vetten": "24,8 g",
+      "waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "5 g",
+      "waarvan suikers": "2,8 g",
+      "Vezels": "1,7 g",
+      "Eiwitten": "1 g",
+      "Zout": "0,69 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Babaganoush (code 141), per 100 g."
   },
   {
     "id": 60,
@@ -224,7 +270,18 @@ window.KPI_PRODUCTS = [
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "161,2 kJ / 38,2 kcal",
+      "Vetten": "0,1 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "7,8 g",
+      "waarvan suikers": "6,5 g",
+      "Eiwitten": "0,8 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Sweet & Sour Aubergine (code 028), per 100 g."
   },
   {
     "id": 19,
@@ -254,7 +311,18 @@ window.KPI_PRODUCTS = [
         "24208d85-8f0d-4149-9e40-6148bd25f1eb.jpg"
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
+    },
+    "nutrition": {
+      "Energie": "1012,2 kJ / 240,4 kcal",
+      "Vetten": "25,4 g",
+      "waarvan verzadigde vetzuren": "1,7 g",
+      "Koolhydraten": "2,5 g",
+      "waarvan suikers": "1,7 g",
+      "Eiwitten": "1,3 g",
+      "Zout": "2,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Red Coleslaw (code 065), per 100 g."
   },
   {
     "id": 28,
@@ -271,7 +339,18 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "nutrition": {
+      "Energie": "230,3 kJ / 54,7 kcal",
+      "Vetten": "0,4 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "10,2 g",
+      "waarvan suikers": "6,5 g",
+      "Eiwitten": "1,7 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Matbucha (code 021), per 100 g."
   },
   {
     "id": 18,
@@ -305,7 +384,18 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "nutrition": {
+      "Energie": "2048,9 kJ / 489,1 kcal",
+      "Vetten": "48,9 g",
+      "waarvan verzadigde vetzuren": "3,5 g",
+      "Koolhydraten": "1,9 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "10,9 g",
+      "Zout": "1,0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 oktober 2026), Tuna Deluxe (code 032), per 100 g."
   },
   {
     "id": 29,
@@ -335,7 +425,18 @@ window.KPI_PRODUCTS = [
         "33fef892-8c80-43c0-b0d0-332236193903.jpg"
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
+    },
+    "nutrition": {
+      "Energie": "3110,5 kJ / 742,9 kcal",
+      "Vetten": "76,3 g",
+      "waarvan verzadigde vetzuren": "7,5 g",
+      "Koolhydraten": "4,5 g",
+      "waarvan suikers": "4,5 g",
+      "Eiwitten": "10,5 g",
+      "Zout": "2,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Smooth Salmon Spread (code 017), per 100 g."
   },
   {
     "id": 26,
@@ -364,7 +465,18 @@ window.KPI_PRODUCTS = [
         "646e9273-2f5f-462d-bb70-bd753455e818.jpg"
       ],
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
-    }
+    },
+    "nutrition": {
+      "Energie": "917 kJ / 218,6 kcal",
+      "Vetten": "19,1 g",
+      "waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "2,8 g",
+      "waarvan suikers": "2,4 g",
+      "Eiwitten": "9,3 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Schmaltz Herring (code 176), per 100 g."
   },
   {
     "id": 32,
@@ -1078,7 +1190,18 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "ingredientsComplete": true,
     "ingredientsSource": "Fysiek etiket op aangeleverde foto; productvariant 12 stuks, 200 g.",
-    "sourcePhotos": ["source-labels/20261015-incoming/codex-clipboard-9e7599bb-1e25-49fb-9137-9fdc71b3671c.jpg", "source-labels/20261015-incoming/codex-clipboard-b2441957-b782-484d-b101-a711a4973814.jpg"]
+    "sourcePhotos": ["source-labels/20261015-incoming/codex-clipboard-9e7599bb-1e25-49fb-9137-9fdc71b3671c.jpg", "source-labels/20261015-incoming/codex-clipboard-b2441957-b782-484d-b101-a711a4973814.jpg"],
+    "nutrition": {
+      "Energie": "511 kJ / 122 kcal",
+      "Vetten": "4,8 g",
+      "waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "2,3 g",
+      "Eiwitten": "6,6 g",
+      "Zout": "1,8 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-b3b2c9c1-55da-4c63-8a73-bdf2ace8e412.jpg."
   },
   {
     "id": 44,
@@ -1159,6 +1282,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311535",
+    "nutrition": {"Energie":"435 kJ / 103 kcal","Vetten":"2,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"3,5 g","waarvan suikers":"0,61 g","Eiwitten":"16 g","Zout":"1,9 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311535.",
     "ingredients": "Rundvlees (71%), water, aardappelzetmeel, gemodificeerd zetmeel (E1420), zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s.",
     "allergens": [
       "SELDERIJ",
@@ -1188,6 +1314,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311504",
+    "nutrition": {"Energie":"435 kJ / 103 kcal","Vetten":"2,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"3,5 g","waarvan suikers":"0,61 g","Eiwitten":"16 g","Zout":"1,9 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311504.",
     "ingredients": "Rundvlees (71%), water, aardappelzetmeel, gemodificeerd zetmeel (E1420), zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s.",
     "allergens": [
       "SELDERIJ",
@@ -1217,6 +1346,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311528",
+    "nutrition": {"Energie":"435 kJ / 103 kcal","Vetten":"2,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"3,5 g","waarvan suikers":"0,61 g","Eiwitten":"16 g","Zout":"1,9 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311528.",
     "ingredients": "Rundvlees (71%), water, aardappelzetmeel, gemodificeerd zetmeel (E1420), zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s.",
     "allergens": [
       "SELDERIJ",
@@ -1246,6 +1378,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311634",
+    "nutrition": {"Energie":"529 kJ / 127 kcal","Vetten":"6 g","waarvan verzadigde vetzuren":"2 g","Koolhydraten":"0,7 g","waarvan suikers":"0,1 g","Eiwitten":"18,2 g","Zout":"2,5 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311634.",
     "ingredients": "Kalkoen (43%), rundvlees (37%), water, aardappelzetmeel, zout, specerijen (SELDERIJ, SULFIETEN), suikers (maltodextrine, dextrose, sucrose), stabilisatoren (E407, E466, E417), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidanten (E301, E316), conserveermiddelen (E250, E252), zuurteregelaars (E262, E327, E331, E500), rookaroma, aroma’s, gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
@@ -1275,6 +1410,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311566",
+    "nutrition": {"Energie":"427 kJ / 101 kcal","Vetten":"1,7 g","waarvan verzadigde vetzuren":"0,5 g","Koolhydraten":"2,1 g","waarvan suikers":"0,2 g","Eiwitten":"18,9 g","Zout":"2,4 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311566.",
     "ingredients": "Kalkoen (70%), water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
@@ -1304,6 +1442,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "150 g",
     "ean": "5060199311559",
+    "nutrition": {"Energie":"459 kJ / 109 kcal","Vetten":"3,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"2,8 g","waarvan suikers":"0,5 g","Eiwitten":"15,3 g","Zout":"2,4 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311559.",
     "ingredients": "Kalkoen (71%), water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s, gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
@@ -1333,6 +1474,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311597",
+    "nutrition": {"Energie":"427 kJ / 102 kcal","Vetten":"1,7 g","waarvan verzadigde vetzuren":"0,5 g","Koolhydraten":"2,1 g","waarvan suikers":"0,2 g","Eiwitten":"18,9 g","Zout":"2,4 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311597.",
     "ingredients": "Kalkoen (70%), water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
@@ -1362,6 +1506,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "250 g",
     "ean": "5060199311924",
+    "nutrition": {"Energie":"607 kJ / 145 kcal","Vetten":"7,8 g","waarvan verzadigde vetzuren":"2,7 g","Koolhydraten":"4,4 g","waarvan suikers":"0,9 g","Eiwitten":"15,9 g","Zout":"2,2 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311924.",
     "ingredients": "Kalkoen, kip, rundvlees, water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose, sucrose), stabilisatoren (E407, E417, E466), emulgatoren (E450, E451, E452), smaakversterker (E621), antioxidanten (E301, E316), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331, E500), gehydrolyseerd plantaardig eiwit (SOJA), cellulose (E460), aroma’s, rookaroma.",
     "allergens": [
       "SELDERIJ",
@@ -1685,7 +1832,19 @@ window.KPI_PRODUCTS = [
       "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
       "photos": ["codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "codex-clipboard-db9ed3b4-7aa4-4ef8-bcb7-52bdde444ecb.jpg", "codex-clipboard-0dc01a81-d46d-4689-8d20-195afddc99cc.jpg"]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-b6aeaf23-ce1d-4475-b53e-62321d4ce3f5.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "nutrition": {
+      "Energie": "400 kJ / 94 kcal",
+      "Vetten": "0,8 g",
+      "waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "1,7 g",
+      "waarvan suikers": "0,4 g",
+      "Vezels": "0 g",
+      "Eiwitten": "20,1 g",
+      "Zout": "2,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-dfa5d000-ee90-4c16-b0df-a78c31580082.jpg."
   },
   {
     "id": 65,
@@ -1714,7 +1873,18 @@ window.KPI_PRODUCTS = [
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "2917860a-64cf-41cc-b1df-fae53992fb07.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking rechtgezet op witte achtergrond. Fysieke etiketten zijn leidend voor de productgegevens."
-    }
+    },
+    "nutrition": {
+      "Energie": "466 kJ / 110 kcal",
+      "Vetten": "1,3 g",
+      "waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "1,6 g",
+      "waarvan suikers": "0,4 g",
+      "Eiwitten": "23,0 g",
+      "Zout": "1,78 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-8f99a538-024d-47a9-a62f-03884958c38e.jpg."
   },
   {
     "id": 70,
@@ -1741,7 +1911,19 @@ window.KPI_PRODUCTS = [
       "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
       "photos": ["codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "codex-clipboard-ba020ac6-8708-4297-bd58-ad56f8a90719.jpg", "codex-clipboard-a5dc54ba-e65c-4f05-af9a-1ddf13b3b1c1.jpg"]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-ea3884da-db3f-4eb4-9108-040c21c47800.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "nutrition": {
+      "Energie": "400 kJ / 94 kcal",
+      "Vetten": "0,8 g",
+      "waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "1,7 g",
+      "waarvan suikers": "0,4 g",
+      "Vezels": "0 g",
+      "Eiwitten": "20,1 g",
+      "Zout": "2,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-561ff095-06b7-4218-b501-bca10c0170d2.jpg."
   },
   {
     "id": 75,
@@ -1793,7 +1975,18 @@ window.KPI_PRODUCTS = [
       "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
       "photos": ["codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "codex-clipboard-5c87e7ef-1920-47fe-99eb-7e3c54f7e0b8.jpg", "codex-clipboard-13d8116a-7faa-44e9-85f8-2b54439806eb.jpg"]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-6e3d699d-28ad-4e72-bb07-0c6a0dcf5376.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "nutrition": {
+      "Energie": "593 kJ / 141 kcal",
+      "Vetten": "5,9 g",
+      "waarvan verzadigde vetzuren": "1,9 g",
+      "Koolhydraten": "0,2 g",
+      "waarvan suikers": "<0,1 g",
+      "Eiwitten": "21,9 g",
+      "Zout": "2,0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-a0bc2d58-3a66-4cc3-a2e9-02714dc9c9c0.jpg."
   },
   {
     "brand": "Gulliver",
@@ -1839,6 +2032,9 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "80 g",
     "ean": "3760059042129",
+    "nutrition": {"Energie":"1199 kJ / 289 kcal","Vetten":"24 g","waarvan verzadigde vetzuren":"13,9 g","Koolhydraten":"<0,6 g","waarvan suikers":"<0,6 g","Eiwitten":"17 g","Zout":"1,9 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 3760059042129.",
     "ingredients": "Rundvlees (70%), rundvet (20%), water, soja-eiwit, magere melkpoeder, aardappelzetmeel, zout, conserveermiddel (natriumnitriet (E250)), dextrose, emulgatoren (E450, E451), zuurteregelaar (E575), smaakversterker (E621), specerijen, antioxidant (E316), aroma (brandewijn (cognac)).",
     "ingredientsComplete": true,
     "allergens": ["Soja", "Melk"],
@@ -1908,7 +2104,18 @@ window.KPI_PRODUCTS = [
       "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
       "photos": ["codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "codex-clipboard-290e88f0-c419-4725-a8e9-ed238c19f29d.jpg", "codex-clipboard-85d7c90a-642e-4e77-9a20-9673e67380fb.jpg"]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "nutrition": {
+      "Energie": "544 kJ / 130 kcal",
+      "Vetten": "4,0 g",
+      "waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "<0,1 g",
+      "Eiwitten": "23,2 g",
+      "Zout": "2,0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-f0a902cf-ce57-4cd2-81ad-f53210dacc74.jpg."
   },
   {
     "id": 73,
@@ -1961,7 +2168,18 @@ window.KPI_PRODUCTS = [
       "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
       "photos": ["codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg", "codex-clipboard-c75e194a-cb5b-4663-add0-13249814b702.jpg", "codex-clipboard-d86df5c2-4264-4d78-81d7-aea0e356e5d7.jpg"]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."}
+    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "nutrition": {
+      "Energie": "937 kJ / 226 kcal",
+      "Vetten": "19 g",
+      "waarvan verzadigde vetzuren": "8,5 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "<0,1 g",
+      "Eiwitten": "13,5 g",
+      "Zout": "1,8 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-5b61217d-3631-40ae-a8b1-1841c025c66e.jpg."
   },
   {
     "brand": "Gulliver",
@@ -1996,7 +2214,18 @@ window.KPI_PRODUCTS = [
       "Av Beth Din Amsterdam",
       "Glatt Kosher Lamehadrine",
       "Shechita Lubavitch"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1595 kJ / 385 kcal",
+      "Vetten": "34 g",
+      "waarvan verzadigde vetzuren": "12 g",
+      "Koolhydraten": "3,8 g",
+      "waarvan suikers": "0,9 g",
+      "Eiwitten": "16 g",
+      "Zout": "2,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-0a1971b1-9160-40db-b324-26feb0ebba20.jpg."
   },
   {
     "brand": "Gulliver",
@@ -2031,6 +2260,17 @@ window.KPI_PRODUCTS = [
       "Av Beth Din Amsterdam",
       "Glatt Kosher Lamehadrine",
       "Shechita Lubavitch"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1595 kJ / 385 kcal",
+      "Vetten": "34 g",
+      "waarvan verzadigde vetzuren": "12 g",
+      "Koolhydraten": "3,8 g",
+      "waarvan suikers": "0,9 g",
+      "Eiwitten": "16 g",
+      "Zout": "2,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-2f6d3dc0-867b-4c7e-89ef-4c8fdcd0ad7b.jpg."
   }
 ];

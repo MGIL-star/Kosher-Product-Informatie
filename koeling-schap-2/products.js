@@ -596,6 +596,9 @@ window.KPI_PRODUCTS = [
     "category": "Desserts",
     "variant": "4 × 100 g",
     "ean": "3456776721040",
+    "nutrition": { "Energie": "553 kJ / 132 kcal", "Vetten": "5,1 g", "waarvan verzadigde vetzuren": "3,3 g", "Koolhydraten": "18,3 g", "waarvan suikers": "16,4 g", "Vezels": "0,9 g", "Eiwitten": "2,7 g", "Zout": "0,11 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde etiket van Chocoladedessert met Room (Liégeois).",
     "ingredients": "Magere MELK, room (MELK; 14,5%), suiker, chocolade (2,8%; cacaopoeder, suiker), gemodificeerd zetmeel, LACTOSE en MELKMINERALEN, verdikkingsmiddelen: E407 en E415; MELKEIWITTEN, emulgator: E472b, aroma.",
     "allergens": [
       "MELK"
@@ -668,6 +671,9 @@ window.KPI_PRODUCTS = [
     "id": 84,
     "name": "Cheesecake",
     "ean": "8052870001085",
+    "nutrition": {"Energie":"1344 kJ / 321 kcal","Vetten":"20 g","waarvan verzadigde vetzuren":"13 g","Koolhydraten":"32 g","waarvan suikers":"23 g","Vezels":"4,1 g","Eiwitten":"4 g","Zout":"0,6 g"},
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Glidini Cheesecake-verpakking met EAN 8052870001085.",
     "image": "./images/glidini-cheesecake-100g.png",
     "ingredients": "Gerehydrateerd magere MELKpoeder, plantaardige oliën en vetten (kokos en zonnebloem), ricotta (10%) (gepasteuriseerde verse MELK, zuurteregelaar: citroenzuur, zout), glucosestroop, suiker, EIwit, maïsmaltodextrine, rijstmeel, pure chocolade (suiker, cacaomassa, dextrose, cacaoboter, emulgator: SOJAlecithine) (3,1%), maïszetmeel, vanillealcohol, verdikkingsmiddelen (xanthaangom, carrageen), EIEREN, emulgatoren (mono- en diglyceriden van vetzuren), cacao, zout, conserveermiddel (kaliumsorbaat), aroma’s, stabilisator (glycerine).",
     "allergenNote": "Kan sporen bevatten van walnoten, hazelnoten, pijnboompitten, amandelen en pistachenoten.",
@@ -765,6 +771,10 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "8711162013402",
     "ingredients": "Verse roomkaas (gepasteuriseerde MELK, ROOM, zout, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel), zout, conserveermiddel (E200).",
+    "nutrition": { "Energie": "1160 kJ / 281 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "17 g", "Koolhydraten": "2,6 g", "waarvan suikers": "2,6 g", "Eiwitten": "7 g", "Zout": "1,1 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Shefa roomkaas naturel-verpakking.",
+    "labelSources": ["source-labels/20261029-shefa-roomkaas/shefa-roomkaas-naturel-voedingswaarde.jpg"],
     "allergens": [
       "MELK"
     ],
@@ -801,6 +811,10 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "8711162013419",
     "ingredients": "98,4% verse roomkaas (gepasteuriseerde MELK, ROOM, zout, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel), 0,6% knoflookpoeder, 0,3% gedroogde bieslook, zout, witte peper, 0,1% gedroogde ui, conserveermiddel (E200), 0,02% dille.",
+    "nutrition": { "Energie": "1159 kJ / 280 kcal", "Vetten": "25 g", "waarvan verzadigde vetzuren": "17 g", "Koolhydraten": "2,6 g", "waarvan suikers": "2,6 g", "Eiwitten": "6,2 g", "Zout": "1,4 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Shefa roomkaas met kruiden-verpakking.",
+    "labelSources": ["source-labels/20261029-shefa-roomkaas/shefa-roomkaas-kruiden-voedingswaarde.jpg"],
     "allergens": [
       "MELK"
     ],
@@ -837,6 +851,10 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "8711162013440",
     "ingredients": "85,8% verse roomkaas (gepasteuriseerde MELK, ROOM, zout, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel), groene olijven (13,2% groene olijven, zout, voedingszuur (E270)), zout, conserveermiddel (E200), witte peper, knoflookpoeder.",
+    "nutrition": { "Energie": "1158 kJ / 280 kcal", "Vetten": "25,5 g", "waarvan verzadigde vetzuren": "15,1 g", "Koolhydraten": "2,5 g", "waarvan suikers": "2,4 g", "Eiwitten": "6,2 g", "Zout": "1,4 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Shefa roomkaas met olijven-verpakking.",
+    "labelSources": ["source-labels/20261029-shefa-roomkaas/shefa-roomkaas-olijven-voedingswaarde.jpg"],
     "allergens": [
       "MELK"
     ],
@@ -874,6 +892,10 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "5425000535577",
     "ingredients": "MELK, ROOM (MELK), startercultuur, zout.",
+    "nutrition": { "Energie": "1227 kJ / 293 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "21 g", "Koolhydraten": "3,1 g", "waarvan suikers": "3,1 g", "Eiwitten": "8,6 g", "Zout": "0,4 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Samson roomkaas naturel-verpakking (EAN 5425000535577).",
+    "labelSources": ["source-labels/20261029-samson-roomkaas/samson-roomkaas-naturel-voedingswaarde.jpg", "source-labels/20261029-samson-roomkaas/samson-roomkaas-naturel-zijaanzicht.jpg"],
     "allergens": [
       "MELK"
     ],
@@ -912,6 +934,10 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "5425000535584",
     "ingredients": "Roomkaas met bieslook: MELK, ROOM (MELK), startercultuur, zout.",
+    "nutrition": { "Energie": "1228 kJ / 293 kcal", "Vetten": "26,9 g", "waarvan verzadigde vetzuren": "20,9 g", "Koolhydraten": "3,2 g", "waarvan suikers": "3,1 g", "Eiwitten": "8,6 g", "Zout": "0,4 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Samson roomkaas met bieslook-verpakking (EAN 5425000535584).",
+    "labelSources": ["source-labels/20261029-samson-roomkaas/samson-roomkaas-bieslook-voedingswaarde.jpg", "source-labels/20261029-samson-roomkaas/samson-roomkaas-bieslook-voorkant.jpg"],
     "allergens": [
       "MELK"
     ],
@@ -988,7 +1014,7 @@ window.KPI_PRODUCTS = [
     "brand": "Shefa",
     "category": "Kaas",
     "variant": "200 g",
-    "ean": "8720791238650",
+    "ean": "8720791238636",
     "ingredients": "Melk en culturen, zout.",
     "allergens": [
       "Melk"
@@ -998,6 +1024,17 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {},
+    "nutrition": {
+      "Energie": "1593 kJ / 384 kcal",
+      "Vetten": "31,2 g",
+      "waarvan verzadigde vetzuren": "20,9 g",
+      "Koolhydraten": "0,0 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "25,8 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het gekoppelde etiket van Shefa Premium Sliced Cheese (EAN 8720791238636).",
     "sources": [],
     "kosherLines": [
       "Machsike Hadas Antwerpen",
@@ -1005,21 +1042,24 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientsComplete": true,
     "supplementalLabelSource": {
-      "date": "2026-10-15",
-      "directory": "source-labels/20261015-incoming",
+      "date": "2026-10-29",
+      "directory": "source-labels/20261029-shefa-kaasplakken",
       "photos": [
-        "codex-clipboard-63a36053-6e05-4bd5-b179-0addc235c3c6.jpg",
-        "codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg"
+        "shefa-kaasplakken-back.jpg",
+        "shefa-kaasplakken-packshot.png"
       ]
     },
     "sourcePhotos": [
       "source-labels/20261014-shefa-kaasplakken/front-original.jpg",
       "source-labels/20261014-shefa-kaasplakken/back-original.jpg",
       "source-labels/20261015-incoming/codex-clipboard-63a36053-6e05-4bd5-b179-0addc235c3c6.jpg",
-      "source-labels/20261015-incoming/codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg"
+      "source-labels/20261015-incoming/codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg",
+      "source-labels/20261029-shefa-kaasplakken/shefa-kaasplakken-back.jpg",
+      "source-labels/20261029-shefa-kaasplakken/shefa-kaasplakken-packshot.png"
     ],
     "labelSources": [
-      "source-labels/20261015-incoming/codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg"
+      "source-labels/20261015-incoming/codex-clipboard-dab61ac1-51c9-40b9-8627-c574b1d54c96.jpg",
+      "source-labels/20261029-shefa-kaasplakken/shefa-kaasplakken-back.jpg"
     ],
     "imageSource": {
       "type": "Aangeleverde foto van de gesloten verpakking",
@@ -1027,7 +1067,7 @@ window.KPI_PRODUCTS = [
       "edit": "Ingebouwde perspectiefcorrectie in de productweergave"
     },
     "ingredientsSource": "Ingrediënten overgenomen van de aangeleverde achteretiketfoto van Shefa Holland’s Gouda-plakken 200 g, 15 oktober 2026.",
-    "barcodeSource": "EAN-13 8720791238650, eerder geverifieerd voor Shefa Holland’s Gouda-plakken 200 g; de cijfers op de nieuwe achteretiketfoto zijn niet voldoende leesbaar om een nieuw nummer vast te stellen."
+    "barcodeSource": "Nieuw EAN-13 8720791238636 afgelezen van de gekoppelde achteretiketfoto en door gebruiker bevestigd op 29 oktober 2026."
   },
   {
     "id": 16,
@@ -1040,6 +1080,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "1596 kJ / 380 kcal",
+      "Vetten": "30,7 g",
+      "waarvan verzadigde vetzuren": "20,6 g",
+      "Koolhydraten": "1,4 g",
+      "waarvan suikers": "0,4 g",
+      "Eiwitten": "26,5 g",
+      "Zout": "1,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8720791238872).",
     "kosher": "Badatz Edah HaChareidis / CRC / Machsike Hadas Antwerpen",
     "image": "./images/shefa-geraspte-gouda-400.webp?v=c7e084b60f53",
     "imageEdited": true,
@@ -1079,6 +1130,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "1371 kJ / 329 kcal",
+      "Vetten": "23,6 g",
+      "waarvan verzadigde vetzuren": "12,0 g",
+      "Koolhydraten": "0,0 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "26,9 g",
+      "Zout": "2,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8711528159010).",
     "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-mimolette.webp?v=806075918e5a",
     "imageEdited": true,
@@ -1117,6 +1179,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "1460 kJ / 348 kcal",
+      "Vetten": "28,9 g",
+      "waarvan verzadigde vetzuren": "20,9 g",
+      "Koolhydraten": "0,0 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "25,4 g",
+      "Zout": "2,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8711528505350).",
     "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-havarti.webp?v=b715f56f3745",
     "imageEdited": true,
@@ -1155,6 +1228,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "1103 kJ / 263 kcal",
+      "Vetten": "12,1 g",
+      "waarvan verzadigde vetzuren": "8,3 g",
+      "Koolhydraten": "0,0 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "28,3 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8711528599717).",
     "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-light.webp?v=111fcaf5246b",
     "imageEdited": true,
@@ -1193,6 +1277,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "1335 kJ / 320 kcal",
+      "Vetten": "24,1 g",
+      "waarvan verzadigde vetzuren": "17,3 g",
+      "Koolhydraten": "0,0 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "26,2 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8711528199139).",
     "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-edam.webp?v=01bfbf61cb74",
     "imageEdited": true,
@@ -1231,6 +1326,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "1506 kJ / 359 kcal",
+      "Vetten": "29,7 g",
+      "waarvan verzadigde vetzuren": "21,4 g",
+      "Koolhydraten": "0,0 g",
+      "waarvan suikers": "0,0 g",
+      "Eiwitten": "24,0 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8711528299112).",
     "kosher": "Opperrabbinaat Nederland",
     "image": "./images/vebo-gouda.webp?v=c59f55d4234a",
     "imageEdited": true,
@@ -1265,6 +1371,10 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO Shoshana",
     "variant": "200 g",
     "ean": "8711528120300",
+    "nutrition": { "Energie": "1495 kJ / 356 kcal", "Vetten": "28,2 g", "waarvan verzadigde vetzuren": "20,3 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "26,5 g", "Zout": "2,1 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde VEBO Shoshana Edam-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/vebo-edammer-200g-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
     "kosher": "Opperrabbinaat Nederland",
     "kosherLines": [
@@ -1296,8 +1406,12 @@ window.KPI_PRODUCTS = [
     "id": 80,
     "name": "Jonge Goudse Kaas aan Stuk",
     "brand": "VEBO Shoshana",
-    "variant": "200 g",
     "ean": "8711528757704",
+    "variant": "250 g",
+    "nutrition": { "Energie": "1338 kJ / 321 kcal", "Vetten": "30,6 g", "waarvan verzadigde vetzuren": "22,0 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "23,0 g", "Zout": "2,1 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde VEBO Shoshana Goudse-kaasetiket.",
+    "labelSources": ["source-labels/20261029-revisie/vebo-goudse-kaas-250g-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
     "kosher": "Opperrabbinaat Nederland",
     "kosherLines": [
@@ -1383,6 +1497,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1575 kJ / 380 kcal", "Vetten": "32,1 g", "waarvan verzadigde vetzuren": "21,6 g", "Koolhydraten": "0,6 g", "waarvan suikers": "0,6 g", "Eiwitten": "22,9 g", "Zout": "1,8 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267025).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-classic.webp?v=fa76a4684f73",
     "imageEdited": false,
@@ -1420,6 +1537,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1249 kJ / 298 kcal", "Vetten": "21,0 g", "waarvan verzadigde vetzuren": "12,0 g", "Koolhydraten": "5,1 g", "waarvan suikers": "0,6 g", "Eiwitten": "27,8 g", "Zout": "2,0 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267124).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-gouda-light.webp?v=51a468a93dd8",
     "imageEdited": false,
@@ -1458,6 +1578,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1345 kJ / 324 kcal", "Vetten": "24,3 g", "waarvan verzadigde vetzuren": "14,6 g", "Koolhydraten": "0,6 g", "waarvan suikers": "0,6 g", "Eiwitten": "23,5 g", "Zout": "2,6 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267056).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-edam.webp?v=55ace937b7cc",
     "imageEdited": false,
@@ -1495,6 +1618,10 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1143 kJ / 273 kcal", "Vetten": "17,6 g", "waarvan verzadigde vetzuren": "12,7 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "29,0 g", "Zout": "1,9 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267131).",
+    "labelSources": ["source-labels/20261029-revisie/amstelvelder-edammer-light-voedingswaarde-ean-8719689267131.jpg"],
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-edam-light.webp?v=5879f7b22f51",
     "imageEdited": false,
@@ -1533,6 +1660,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1500 kJ / 361 kcal", "Vetten": "27,6 g", "waarvan verzadigde vetzuren": "18,1 g", "Koolhydraten": "0,3 g", "waarvan suikers": "0,3 g", "Eiwitten": "25,6 g", "Zout": "1,8 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267070).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-muenster.webp?v=1e931263c4cf",
     "imageEdited": false,
@@ -1570,6 +1700,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1575 kJ / 380 kcal", "Vetten": "32,1 g", "waarvan verzadigde vetzuren": "21,6 g", "Koolhydraten": "0,6 g", "waarvan suikers": "0,6 g", "Eiwitten": "22,9 g", "Zout": "1,8 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267001).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-bieslook.webp?v=c6b671a1e799",
     "imageEdited": false,
@@ -1607,6 +1740,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1575 kJ / 380 kcal", "Vetten": "32,1 g", "waarvan verzadigde vetzuren": "21,6 g", "Koolhydraten": "0,6 g", "waarvan suikers": "0,6 g", "Eiwitten": "22,9 g", "Zout": "1,8 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267063).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-pepper-jack.webp?v=eae9944cda28",
     "imageEdited": false,
@@ -1644,6 +1780,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1586 kJ / 366 kcal", "Vetten": "30,6 g", "waarvan verzadigde vetzuren": "18,7 g", "Koolhydraten": "0,0 g", "waarvan suikers": "0,0 g", "Eiwitten": "23,6 g", "Zout": "2,3 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267032).",
     "kosher": "Vaad Hakashrus Belz USA",
     "image": "./images/amstelvelder-geit.webp?v=826319e8a34a",
     "imageEdited": false,
@@ -1687,6 +1826,9 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": { "Energie": "1580 kJ / 380 kcal", "Vetten": "30,4 g", "waarvan verzadigde vetzuren": "21,9 g", "Koolhydraten": "0,6 g", "waarvan suikers": "0,6 g", "Eiwitten": "22,5 g", "Zout": "2,6 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde fysieke verpakking (EAN 8719689267452).",
     "ingredientsComplete": true,
     "detailsPending": false,
     "supplementalLabelSource": {
@@ -1748,6 +1890,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3060921349111",
+    "nutrition": { "Energie": "1612 kJ / 388 kcal", "Vetten": "30 g", "waarvan verzadigde vetzuren": "21 g", "Koolhydraten": "2,5 g", "waarvan suikers": "0,5 g", "Eiwitten": "27 g", "Zout": "0,68 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Vert Bosquet geraspte Emmentaler-verpakking.",
+    "labelSources": ["source-labels/20261029-revisie/vert-bosquet-geraspte-emmentaler-voedingswaarde.jpg"],
     "ingredients": "Emmentaler (98%) (koemelk (herkomst Frankrijk), zout, melkfermenten, microbieel stremsel), aardappelzetmeel.",
     "allergens": [
       "MELK"
@@ -1785,6 +1931,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "8003518101469",
+    "nutrition": { "Energie": "1654 kJ / 398 kcal", "Vetten": "29 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "33 g", "Zout": "1,5 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op de aangeleverde Agriform Grana Padano-verpakking.",
+    "labelSources": ["source-labels/20261029-revisie/agriform-grana-padano-voedingswaarde.jpg"],
     "ingredients": "MELK, zout, stremsel, conserveermiddel: lysozyme uit EI.",
     "allergens": [
       "MELK",
@@ -1976,6 +2126,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "240 g",
     "ean": "3523230054058",
+    "nutrition": { "Energie": "1058 kJ / 255 kcal", "Vetten": "21 g", "waarvan verzadigde vetzuren": "14 g", "Koolhydraten": "< 0,5 g", "waarvan suikers": "< 0,5 g", "Eiwitten": "16 g", "Zout": "1,4 g", "Calcium": "270 mg" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Grand Fermage Camembert in Porties-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/grand-fermage-camembert-porties-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde koemelk (MELK).",
     "allergens": [
       "MELK"
@@ -2071,6 +2225,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3250550020707",
+    "nutrition": { "Energie": "1544 kJ / 373 kcal", "Vetten": "33 g", "waarvan verzadigde vetzuren": "23 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "18 g", "Zout": "1,2 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Ermitage Fleur des Sources-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/ermitage-fleur-des-sources-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde melk, zout, fermenten (waaronder melk), enzymatisch stremsel, kleurstof voor de korst (bètacaroteen).",
     "allergens": [
       "Melk"
@@ -2105,6 +2263,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3250550023135",
+    "nutrition": { "Energie": "1356 kJ / 327 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "19 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "20 g", "Zout": "1,4 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Ermitage Le Marcaire-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/ermitage-le-marcaire-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde melk, zout, fermenten (waaronder melk), enzymatisch stremsel, kleurstof voor de korst (norbixine uit annatto).",
     "allergens": [
       "Melk"
@@ -2336,6 +2498,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3523230065467",
+    "nutrition": { "Energie": "816 kJ / 197 kcal", "Vetten": "17 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "10 g", "Zout": "1,2 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Soignon geitenkaaspiramide met knoflook en kruiden-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/soignon-piramide-kruiden-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde geitenmelk (MELK), water, gepasteuriseerde geitenroom (MELK), fijne kruiden (1,8%), zout, knoflook (0,65%), culturen (MELK), stremsel.",
     "allergens": [
       "MELK"
@@ -2367,6 +2533,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3760016940376",
+    "nutrition": { "Energie": "1305 kJ / 315 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "2 g", "waarvan suikers": "0,5 g", "Eiwitten": "16 g", "Zout": "2,2 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Gabriel Coulet Salad’Aperos schapenkaas-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-saladaperos-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde schapenmelk (MELK) (herkomst Frankrijk), zout, stremsel, melkzuurculturen (MELK), voedingszuur E575.",
     "allergens": [
       "MELK"
@@ -2408,6 +2578,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3760016942431",
+    "nutrition": { "Energie": "1305 kJ / 315 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "2 g", "waarvan suikers": "0,5 g", "Eiwitten": "16 g", "Zout": "3,0 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Gabriel Coulet Salad’Aperos cubes-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-saladaperos-cubes-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde schapenmelk (MELK) (herkomst Frankrijk), zout, stremsel, melkzuurculturen (MELK), voedingszuur E575.",
     "allergens": [
       "MELK"
@@ -2447,6 +2621,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "100 g",
     "ean": "3151380003024",
+    "nutrition": { "Energie": "1507 kJ / 364 kcal", "Vetten": "32 g", "waarvan verzadigde vetzuren": "24 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "19 g", "Zout": "3,5 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Gabriel Coulet Roquefort-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-roquefort-voedingswaarde.jpg"],
     "ingredients": "Rauwe schapenmelk (MELK), zout, stremsel, melkzuurculturen, Penicillium roqueforti.",
     "allergens": [
       "MELK"
@@ -2548,6 +2726,10 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "125 g",
     "ean": "3760059040842",
+    "nutrition": { "Energie": "960 kJ / 231 kcal", "Vetten": "17 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "0,5 g", "waarvan suikers": "0,5 g", "Eiwitten": "19 g", "Zout": "1,2 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Eden Gourmet Mozzarella-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/eden-gourmet-mozzarella-voedingswaarde.jpg"],
     "ingredients": "Mozzarella (gepasteuriseerde koemelk, zout, zuurteregelaar (citroenzuur), microbieel stremsel), pekel (water, zout, zuurteregelaar (citroenzuur)).",
     "allergens": [
       "MELK"
@@ -2592,6 +2774,10 @@ window.KPI_PRODUCTS = [
     "brand": "Eden Gourmet",
     "variant": "200 g",
     "ean": "5298001270255",
+    "nutrition": { "Energie": "1384 kJ / 333 kcal", "Vetten": "25,1 g", "waarvan verzadigde vetzuren": "15,1 g", "Koolhydraten": "2,4 g", "waarvan suikers": "2,4 g", "Eiwitten": "24,5 g", "Zout": "2,5 g" },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde Halloumi-etiket.",
+    "labelSources": ["source-labels/20261029-revisie/eden-gourmet-halloumi-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde koemelk, geitenmelk en schapenmelk (MELK), zout, microbieel stremsel, munt.",
     "kosher": "Cyprus Kosher",
     "kosherLines": [
@@ -2626,6 +2812,17 @@ window.KPI_PRODUCTS = [
     "variant": "250 g",
     "ean": "3274932102751",
     "ingredients": "Gepasteuriseerde ROOM (MELK, herkomst Frankrijk), melkzuurculturen (MELK).",
+    "nutrition": {
+      "Energie": "3043 kJ / 740 kcal",
+      "Vetten": "82 g",
+      "waarvan verzadigde vetzuren": "61 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Voedingswaardetabel op het aangeleverde etiket van Le Gall ongezouten roomboter.",
     "allergens": [
       "MELK"
     ],
@@ -2654,7 +2851,8 @@ window.KPI_PRODUCTS = [
       "Straatsburg"
     ],
     "kosherSource": "Hebreeuws keurmerk op Le Gall-roomboter: onder toezicht van Rav Schlesinger, Av Beth Din Straatsburg.",
-    "ingredientsNote": "Vetgehalte: 82%."
+    "ingredientsNote": "Vetgehalte: 82%.",
+    "labelSources": ["source-labels/20261029-boter-margarine/le-gall-roomboter-label.jpg"]
   },
   {
     "id": 58,
@@ -2751,6 +2949,21 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "OU en rond keurmerk: Under the supervision of Rabbi Binyomin Gruber, Monsey, N.Y.; Kosher Parve.",
     "image": "./images/migdal-margarine-454g.png",
+    "nutrition": {
+      "Calorieën": "100",
+      "Totaal vet": "11 g",
+      "waarvan verzadigd vet": "3 g",
+      "Transvet": "0 g",
+      "Meervoudig onverzadigd vet": "4 g",
+      "Enkelvoudig onverzadigd vet": "3 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0 g",
+      "Vitamine A": "140 mcg"
+    },
+    "nutritionUnit": "per portie (1 eetlepel, 14 g)",
+    "nutritionSource": "Nutrition Facts op het aangeleverde Migdal-etiket.",
     "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -2772,7 +2985,8 @@ window.KPI_PRODUCTS = [
       "photo": "5ef54b8c-73dd-4e53-8581-5191ed28af77.jpg",
       "edit": "Ingebouwde imagegen: gesloten verpakking op witte achtergrond."
     },
-    "quantitySource": "Voorzijde vermeldt 16 oz (1 lb), 453 g."
+    "quantitySource": "Voorzijde vermeldt 16 oz (1 lb), 453 g.",
+    "labelSources": ["source-labels/20261029-boter-margarine/migdal-margarine-label.jpg"]
   },
   {
     "id": 89,
@@ -2793,6 +3007,14 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "Badatz Eida Hacharedit en Parve-aanduiding op de fysieke verpakking; de fabrikant vermeldt Badatz Eida Hacharedit voor deze margarine.",
     "image": "./images/poliva-margarine-200g.png",
+    "nutrition": {
+      "Energie": "741 kcal",
+      "Vetten": "82,3 g",
+      "waarvan verzadigde vetzuren": "37 g",
+      "Transvetzuren": "< 0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Leesbare voedingswaarden op het aangeleverde Hebreeuwse Poliva-etiket; overige tabelwaarden zijn op deze foto niet scherp leesbaar.",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {},
@@ -2815,7 +3037,8 @@ window.KPI_PRODUCTS = [
     },
     "sources": [
       "https://www.poliva.co.il/product/%D7%9E%D7%A8%D7%92%D7%A8%D7%99%D7%A0%D7%94-200-%D7%92%D7%A8%D7%9D-%D7%9C%D7%91%D7%99%D7%A9%D7%95%D7%9C-%D7%95%D7%90%D7%A4%D7%99%D7%99%D7%94/"
-    ]
+    ],
+    "labelSources": ["source-labels/20261029-boter-margarine/poliva-margarine-label.jpg"]
   },
   {
     "id": 60,

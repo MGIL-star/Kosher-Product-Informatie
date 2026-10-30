@@ -4,7 +4,7 @@
   const $ = s => document.querySelector(s);
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const normalize = s => String(s ?? '').toLocaleLowerCase('nl').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-  const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',frozen:'Diepvries'};
+  const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',refrigerated:'Koeling',frozen:'Diepvries'};
   const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261022-mojito-name-fix':i===3?'assets/js/products-meter-4.js':i===4?'meter-5/products.js?v=20261022-harissa-barcode-hechsher':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===14?'meter-15/products.js?v=20261022-doritos-size-match':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js?v=20261029-freezer-info-energy`});
   const sectionTitles = [
@@ -18,13 +18,13 @@
     'Diepvries: Bagels · Pizza · Deegwaren', 'Diepvries: Snacks · Vegetarisch · IJs'
   ];
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
-  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261014-allergenen-nederlands'});
-  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261026-emmentaler-ingredients'});
+  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261029-nutrition-batch-3'});
+  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261030-chocoladeroomdessert-nutrition'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
   try {const saved=JSON.parse(localStorage.getItem('kosher-catalog-cart') || '{}');for(const [k,v] of Object.entries(saved))if(Number.isInteger(v)&&v>0)cart[k]=Math.min(v,999);}catch{}
-  const classify = (p,n) => n>17?'frozen':n===17?'home':n<=2||n===16&&p.category==='Dranken'?'drinks':n===6?'tea':[9,10,11,12].includes(n)?'treats':[13,14,16].includes(n)?'snacks':n===15?(p.category==='Brood & brioche'?'bread':'snacks'):'pantry';
+  const classify = (p,n,folder) => folder?.startsWith('koeling-')?'refrigerated':n>17?'frozen':n===17?'home':n<=2||n===16&&p.category==='Dranken'?'drinks':n===6?'tea':[9,10,11,12].includes(n)?'treats':[13,14,16].includes(n)?'snacks':n===15?(p.category==='Brood & brioche'?'bread':'snacks'):'pantry';
   async function sharedScript(path){await new Promise((resolve,reject)=>{const script=document.createElement('script');script.src=path;script.onload=resolve;script.onerror=reject;document.head.append(script);});}
   function image(p,cls=''){return p.image?`<img class="${cls}" src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy" decoding="async">`:'';}
   function save(){try{localStorage.setItem('kosher-catalog-cart',JSON.stringify(cart));}catch{}updateCount();}
@@ -92,7 +92,7 @@
   $('#cart-open').onclick=openCart;$('#cart-bottom').onclick=openCart;$('#search').oninput=render;$('#sort').onchange=render;
   for(const d of document.querySelectorAll('dialog'))d.addEventListener('click',e=>{if(e.target===d){const r=d.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)d.close();}});
   updateCount();
-  async function load(){for(const source of sources){try{await new Promise((resolve,reject)=>{window.KPI_PRODUCTS=undefined;const script=document.createElement('script');script.src=new URL(source.data+'?catalog='+Date.now(),root);script.onload=resolve;script.onerror=reject;document.head.append(script);});const list=window.KPI_PRODUCTS;if(!Array.isArray(list))throw Error('Invalid data');for(const original of list){if(original.temporarilyHidden)continue;if(original.detailsPending && source.folder!=='koeling-schap-2')continue;products.push({...original,key:`${source.folder}:${original.id}`,meter:source.folder,meterTitle:source.title,group:classify(original,source.n),image:original.image?new URL(original.image,new URL(source.folder+'/',root)).href:''});}}catch{failures.push(source.folder);}}
+  async function load(){for(const source of sources){try{await new Promise((resolve,reject)=>{window.KPI_PRODUCTS=undefined;const script=document.createElement('script');script.src=new URL(source.data+'?catalog='+Date.now(),root);script.onload=resolve;script.onerror=reject;document.head.append(script);});const list=window.KPI_PRODUCTS;if(!Array.isArray(list))throw Error('Invalid data');for(const original of list){if(original.temporarilyHidden)continue;if(original.detailsPending && source.folder!=='koeling-schap-2')continue;products.push({...original,key:`${source.folder}:${original.id}`,meter:source.folder,meterTitle:source.title,group:classify(original,source.n,source.folder),image:original.image?new URL(original.image,new URL(source.folder+'/',root)).href:''});}}catch{failures.push(source.folder);}}
     if(failures.length){$('#load-error').hidden=false;$('#load-error').textContent='Een deel van het assortiment kon niet worden geladen. Vernieuw de pagina om het opnieuw te proberen.';}
     window.CATALOG_GROUPS=sources.map(source=>({title:source.title,products:products.filter(p=>p.meter===source.folder)}));
     await sharedScript(new URL('assets/js/apply-photo-layout.js',root).href);
