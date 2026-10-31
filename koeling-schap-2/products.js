@@ -419,6 +419,17 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-04e945c3-8830-4715-aec4-a8f747784465.jpg.",
+    "nutrition": {
+      "Energie": "515 kJ / 122 kcal",
+      "Vetten": "3,4 g",
+      "waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "19 g",
+      "waarvan suikers": "17 g",
+      "Eiwitten": "3,2 g",
+      "Zout": "0,11 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 26,
     "name": "Chocoladepudding",
     "brand": "Sterilgarda",
@@ -459,6 +470,17 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-69cc43f9-f6dc-4782-bd92-e32329aacb94.jpg.",
+    "nutrition": {
+      "Energie": "536 kJ / 127 kcal",
+      "Vetten": "3,0 g",
+      "waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "22 g",
+      "waarvan suikers": "20 g",
+      "Eiwitten": "2,7 g",
+      "Zout": "0,09 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 27,
     "name": "Vanillepudding",
     "brand": "Sterilgarda",
@@ -521,6 +543,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "5972909b-3c22-48b6-a2aa-f3cb66748a5b.jpg"
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-ffe8d676-7a42-4bcc-a11a-907a321a6538.jpg.",
+    "nutrition": {
+      "Energie": "340 kJ / 98 kcal",
+      "Vetten": "1,3 g",
+      "waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "15 g",
+      "waarvan suikers": "11 g",
+      "Eiwitten": "1,9 g",
+      "Zout": "0,14 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 64,
     "name": "Chocoladeroomdessert",
     "brand": "Nova",
@@ -545,6 +578,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "3005f35e-d36b-495b-b02a-19100bd66c70.jpg"
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-7f8ba400-aa0c-494e-a311-6acf377ef694.jpg.",
+    "nutrition": {
+      "Energie": "367 kJ / 87 kcal",
+      "Vetten": "1,6 g",
+      "waarvan verzadigde vetzuren": "1,0 g",
+      "Koolhydraten": "16,0 g",
+      "waarvan suikers": "13,0 g",
+      "Eiwitten": "1,9 g",
+      "Zout": "0,16 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 65,
     "name": "Vanilleroomdessert",
     "brand": "Nova",
@@ -567,6 +611,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "2cec7c5a-fb4c-4458-826e-bbc46e59d98d.jpg"
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-37080de4-2fbe-45c6-9c22-e81e11bb1b42.jpg.",
+    "nutrition": {
+      "Energie": "323 kJ / 76 kcal",
+      "Vetten": "0,4 g",
+      "waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "15,9 g",
+      "waarvan suikers": "13 g",
+      "Eiwitten": "2,5 g",
+      "Zout": "0,10 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 66,
     "name": "Karamelpudding",
     "brand": "Mister Flan",
@@ -598,7 +653,7 @@ window.KPI_PRODUCTS = [
     "ean": "3456776721040",
     "nutrition": { "Energie": "553 kJ / 132 kcal", "Vetten": "5,1 g", "waarvan verzadigde vetzuren": "3,3 g", "Koolhydraten": "18,3 g", "waarvan suikers": "16,4 g", "Vezels": "0,9 g", "Eiwitten": "2,7 g", "Zout": "0,11 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde etiket van Chocoladedessert met Room (Liégeois).",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-13709a6b-72c2-46b6-b7d4-9c4e29996106.jpg.",
     "ingredients": "Magere MELK, room (MELK; 14,5%), suiker, chocolade (2,8%; cacaopoeder, suiker), gemodificeerd zetmeel, LACTOSE en MELKMINERALEN, verdikkingsmiddelen: E407 en E415; MELKEIWITTEN, emulgator: E472b, aroma.",
     "allergens": [
       "MELK"
