@@ -521,6 +521,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "947 kJ / 228 kcal",
+      "Vetten": "14 g",
+      "waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "15 g",
+      "waarvan suikers": "3,5 g",
+      "Eiwitten": "7,6 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-kikkererwten/codex-clipboard-eb559ee7-68fb-48d4-abc6-1eb197a2168c.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-130.png",
     "imageEdited": true,
@@ -551,6 +562,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "769 kJ / 185 kcal",
+      "Vetten": "9,8 g",
+      "waarvan verzadigde vetzuren": "1,5 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "3,3 g",
+      "Eiwitten": "6,1 g",
+      "Zout": "1,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-gourmet/codex-clipboard-590134cd-2ad3-4f6d-81e2-62df3d89b5f5.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-136.png",
     "imageEdited": true,
