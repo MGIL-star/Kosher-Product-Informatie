@@ -999,6 +999,18 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "allergensConfirmedAbsent": true,
     "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
+    "nutrition": {
+      "Energie": "577 kJ / 138 kcal",
+      "Vetten": "8,7 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "8,1 g",
+      "waarvan suikers": "0,8 g",
+      "Vezels": "4,9 g",
+      "Eiwitten": "4,6 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-kikkererwtensalade/codex-clipboard-f8d15b92-42d8-4fbd-966b-299a608caba5.jpg.",
     "kosher": "EK",
     "kosherSource": "Ovaal EK-keurmerk op cb7164c9-e290-4ea6-9684-81668a7d7873.jpg; naam van certificerende instantie niet uit het etiket vastgesteld.",
     "image": "./images/eden-kikkererwtensalade-front.png",
