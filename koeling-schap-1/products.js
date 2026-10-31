@@ -697,6 +697,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "801 kJ / 192 kcal",
+      "Vetten": "11 g",
+      "waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "3,3 g",
+      "Eiwitten": "6,8 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-pittige-hummus/codex-clipboard-2b836594-6513-494f-863a-1d7448e2c05f.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-154.png",
     "imageEdited": true,
@@ -757,6 +768,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "895 kJ / 215 kcal",
+      "Vetten": "12 g",
+      "waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "16 g",
+      "waarvan suikers": "3,6 g",
+      "Eiwitten": "7,9 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-pijnboompitten/codex-clipboard-02aa8f76-593b-4766-9acf-95558a37b16f.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-156.png",
     "imageEdited": true,
@@ -1228,6 +1250,17 @@ window.KPI_PRODUCTS = [
       "Tarwe (gluten)"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "2300 kJ / 558 kcal",
+      "Vetten": "57 g",
+      "waarvan verzadigde vetzuren": "4,2 g",
+      "Koolhydraten": "5,4 g",
+      "waarvan suikers": "<0,5 g",
+      "Eiwitten": "6,7 g",
+      "Zout": "2,0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-tarama/codex-clipboard-02c6ee83-44fd-40db-b95a-21a11ac05937.jpg.",
     "kosher": "Chatam Sofer Bnei Brak",
     "image": "./images/kyam-1810-165g.png",
     "imageEdited": true,
