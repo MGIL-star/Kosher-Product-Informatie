@@ -19,7 +19,7 @@
   ];
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
   sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261031-salami-napoli-nutrition'});
-  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261030-chocoladeroomdessert-nutrition'});
+  sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261031-boter-margarine-nutrition'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

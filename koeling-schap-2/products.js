@@ -2818,11 +2818,11 @@ window.KPI_PRODUCTS = [
       "waarvan verzadigde vetzuren": "61 g",
       "Koolhydraten": "0 g",
       "waarvan suikers": "0 g",
-      "Eiwitten": "0 g",
-      "Zout": "0,5 g"
+      "Eiwitten": "0,5 g",
+      "Zout": "0,05 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde etiket van Le Gall ongezouten roomboter.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-ongezouten-roomboter/codex-clipboard-9ad5237f-ddba-4a3f-aa32-630bc5a23c42.jpg.",
     "allergens": [
       "MELK"
     ],
@@ -2963,7 +2963,7 @@ window.KPI_PRODUCTS = [
       "Vitamine A": "140 mcg"
     },
     "nutritionUnit": "per portie (1 eetlepel, 14 g)",
-    "nutritionSource": "Nutrition Facts op het aangeleverde Migdal-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-migdal-margarine/codex-clipboard-76432141-0f75-44dc-b180-8454f42faa5c.jpg.",
     "productInfo": {},
     "ingredientsComplete": true,
     "detailsPending": false,
@@ -3011,10 +3011,15 @@ window.KPI_PRODUCTS = [
       "Energie": "741 kcal",
       "Vetten": "82,3 g",
       "waarvan verzadigde vetzuren": "37 g",
-      "Transvetzuren": "< 0,5 g"
+      "Transvetzuren": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Leesbare voedingswaarden op het aangeleverde Hebreeuwse Poliva-etiket; overige tabelwaarden zijn op deze foto niet scherp leesbaar.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-poliva-margarine/codex-clipboard-dcdf39f4-9d8b-4d13-8d70-384ec39cec75.jpg.",
     "imageEdited": true,
     "detailsPending": false,
     "productInfo": {},
