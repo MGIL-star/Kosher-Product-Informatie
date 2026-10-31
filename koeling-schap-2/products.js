@@ -10,6 +10,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "250 kJ / 60 kcal",
+      "Vetten": "4 g",
+      "waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "4,4 g",
+      "waarvan suikers": "3,9 g",
+      "Eiwitten": "3,9 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-naturel/codex-clipboard-d2437565-0756-44f6-856b-7a92ab74269b.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-naturel-500.webp?v=4e836f1846ad",
     "imageEdited": true,
@@ -68,6 +79,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "431 kJ / 100 kcal",
+      "Vetten": "3,9 g",
+      "waarvan verzadigde vetzuren": "2,13 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "11,8 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-bosvruchten/codex-clipboard-161ba9df-b473-4070-9c32-157ba13a7809.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-bosvruchten-500.webp?v=2932420c7a3c",
     "imageEdited": true,
@@ -102,6 +124,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "431 kJ / 100 kcal",
+      "Vetten": "3,9 g",
+      "waarvan verzadigde vetzuren": "2,13 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "11,8 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-tropical/codex-clipboard-c848e848-0e9e-4c55-a1e9-4863c89133fe.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-tropical-500.webp?v=4c0ed9a13021",
     "imageEdited": true,
@@ -141,6 +174,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "390 kJ / 95 kcal",
+      "Vetten": "3,5 g",
+      "waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "14,5 g",
+      "waarvan suikers": "14,5 g",
+      "Eiwitten": "3,1 g",
+      "Zout": "0,12 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-vanille/codex-clipboard-c524fe0b-c84d-4461-9d77-2730f5cb23ef.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-vanille-500.webp?v=785bf48499e8",
     "imageEdited": true,
@@ -176,6 +220,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "400 kJ / 95 kcal",
+      "Vetten": "3,4 g",
+      "waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "15 g",
+      "waarvan suikers": "15 g",
+      "Eiwitten": "3,1 g",
+      "Zout": "0,12 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-chocolade/codex-clipboard-ae39ce49-7924-41f8-8095-f847e203ae34.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-chocolade-500.webp?v=88b5b6c19a16",
     "imageEdited": true,
@@ -210,6 +265,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "250 kJ / 60 kcal",
+      "Vetten": "4 g",
+      "waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "4,4 g",
+      "waarvan suikers": "3,9 g",
+      "Eiwitten": "3,9 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-naturel/codex-clipboard-d2437565-0756-44f6-856b-7a92ab74269b.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-naturel-125-deksel.png",
     "imageEdited": true,
@@ -270,6 +336,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "431 kJ / 100 kcal",
+      "Vetten": "3,9 g",
+      "waarvan verzadigde vetzuren": "2,13 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "11,8 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-bosvruchten/codex-clipboard-161ba9df-b473-4070-9c32-157ba13a7809.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-bosvruchten-125-deksel.png",
     "imageEdited": true,
@@ -306,6 +383,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "431 kJ / 100 kcal",
+      "Vetten": "3,9 g",
+      "waarvan verzadigde vetzuren": "2,13 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "11,8 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-tropical/codex-clipboard-c848e848-0e9e-4c55-a1e9-4863c89133fe.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-tropical-125-deksel.png",
     "imageEdited": true,
@@ -333,6 +421,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "390 kJ / 95 kcal",
+      "Vetten": "3,5 g",
+      "waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "14,5 g",
+      "waarvan suikers": "14,5 g",
+      "Eiwitten": "3,1 g",
+      "Zout": "0,12 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-vanille/codex-clipboard-c524fe0b-c84d-4461-9d77-2730f5cb23ef.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-vanille-125-deksel.png",
     "imageEdited": true,
@@ -363,6 +462,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "400 kJ / 95 kcal",
+      "Vetten": "3,4 g",
+      "waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "15 g",
+      "waarvan suikers": "15 g",
+      "Eiwitten": "3,1 g",
+      "Zout": "0,12 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa 125 g-etiket; op gebruikersverzoek dezelfde voedingswaarden per 100 g bij 125 g en 500 g. Bronfoto: source-labels/20261031-shefa-chocolade/codex-clipboard-ae39ce49-7924-41f8-8095-f847e203ae34.jpg.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-chocolade-125-deksel.png",
     "imageEdited": true,
