@@ -1,5 +1,17 @@
 window.KPI_PRODUCTS = [
   {
+    "nutrition": {
+      "Energie": "1380 kJ / 334 kcal",
+      "Vetten": "26,7 g",
+      "waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "14,5 g",
+      "waarvan suikers": "13,5 g",
+      "Vezels": "9,7 g",
+      "Eiwitten": "3,9 g",
+      "Zout": "1,07 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, Nutrition Facts!A10:M10; bronbestand: source-labels/20261031-tasty-foods/Tasty_Foods_Nutrition_Facts_Urgent_1.xlsx.",
     "id": 20,
     "name": "Rode Shug",
     "brand": "Tasty Food",
@@ -52,12 +64,24 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Green Schug (code 145), per 100 g."
   },
   {
+    "nutrition": {
+      "Energie": "971 kJ / 231 kcal",
+      "Vetten": "9,9 g",
+      "waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "22,5 g",
+      "waarvan suikers": "1,5 g",
+      "Eiwitten": "10,5 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, Nutrition Facts!A9:M9; bronbestand: source-labels/20261031-tasty-foods/Tasty_Foods_Nutrition_Facts_Urgent_1.xlsx.",
+    "barcodeSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, cel C9; EAN-13-controlecijfer geldig.",
     "id": 21,
     "name": "Klassieke Hummus",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
+    "ean": "6097418926903",
     "ingredients": "Nog te controleren",
     "allergens": [],
     "allergensConfirmedAbsent": false,
@@ -69,12 +93,24 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
   {
+    "nutrition": {
+      "Energie": "941,5 kJ / 224,5 kcal",
+      "Vetten": "20,3 g",
+      "waarvan verzadigde vetzuren": "3 g",
+      "Koolhydraten": "3 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "8,1 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, Nutrition Facts!A8:M8; bronbestand: source-labels/20261031-tasty-foods/Tasty_Foods_Nutrition_Facts_Urgent_1.xlsx.",
+    "barcodeSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, cel C8; EAN-13-controlecijfer geldig.",
     "id": 22,
     "name": "Tahindip",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
+    "ean": "0796967649856",
     "ingredients": "Nog te controleren",
     "allergens": [],
     "allergensConfirmedAbsent": false,
@@ -86,12 +122,24 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
   },
   {
+    "nutrition": {
+      "Energie": "553 kJ / 133 kcal",
+      "Vetten": "11 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "5,9 g",
+      "waarvan suikers": "4,9 g",
+      "Eiwitten": "2,7 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, Nutrition Facts!A7:M7; bronbestand: source-labels/20261031-tasty-foods/Tasty_Foods_Nutrition_Facts_Urgent_1.xlsx.",
+    "barcodeSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, cel C7; EAN-13-controlecijfer geldig.",
     "id": 23,
     "name": "Auberginepaté",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
+    "ean": "0796967650210",
     "ingredients": "Nog te controleren",
     "allergens": [],
     "allergensConfirmedAbsent": false,
@@ -142,12 +190,24 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Aubergine Salad (code 002), per 100 g."
   },
   {
+    "nutrition": {
+      "Energie": "1557,5 kJ / 371,7 kcal",
+      "Vetten": "39,6 g",
+      "waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "2 g",
+      "waarvan suikers": "0,8 g",
+      "Eiwitten": "1,3 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, Nutrition Facts!A6:M6; bronbestand: source-labels/20261031-tasty-foods/Tasty_Foods_Nutrition_Facts_Urgent_1.xlsx.",
+    "barcodeSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, cel C6; EAN-13-controlecijfer geldig.",
     "id": 27,
     "name": "Gegrilde Auberginedip",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
+    "ean": "0796567649935",
     "ingredients": "Nog te controleren",
     "allergens": [],
     "allergensConfirmedAbsent": false,
@@ -353,12 +413,24 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Matbucha (code 021), per 100 g."
   },
   {
+    "nutrition": {
+      "Energie": "1801 kJ / 437 kcal",
+      "Vetten": "43,4 g",
+      "waarvan verzadigde vetzuren": "3,7 g",
+      "Koolhydraten": "1,1 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "10,4 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, Nutrition Facts!A5:M5; bronbestand: source-labels/20261031-tasty-foods/Tasty_Foods_Nutrition_Facts_Urgent_1.xlsx.",
+    "barcodeSource": "Tasty Foods Nutrition Facts, 30 oktober 2026, cel C5; EAN-13-controlecijfer geldig.",
     "id": 18,
     "name": "Tonijn Eisalade",
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
+    "ean": "0796967649788",
     "ingredients": "Nog te controleren",
     "allergens": [],
     "allergensConfirmedAbsent": false,
