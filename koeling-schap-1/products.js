@@ -944,6 +944,18 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "allergensConfirmedAbsent": true,
     "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
+    "nutrition": {
+      "Energie": "159,04 kJ / 38,15 kcal",
+      "Vetten": "2,19 g",
+      "waarvan verzadigde vetzuren": "1,19 g",
+      "Koolhydraten": "3,88 g",
+      "waarvan suikers": "3,53 g",
+      "Vezels": "0,72 g",
+      "Eiwitten": "0,36 g",
+      "Zout": "0,12 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-paprikarepen/codex-clipboard-9532eb2b-6782-4a7a-a686-563d59550a04.jpg.",
     "image": "./images/eden-geroosterde-paprikarepen.png",
     "imageEdited": true,
     "imageSource": {
@@ -1013,6 +1025,17 @@ window.KPI_PRODUCTS = [
       "Walnoot"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "887 kJ / 212 kcal",
+      "Vetten": "12,6 g",
+      "waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "22,8 g",
+      "waarvan suikers": "13,4 g",
+      "Eiwitten": "3,3 g",
+      "Zout": "0,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-mamora/codex-clipboard-2a8f0db3-a9c8-4880-a63b-9617179904ad.jpg.",
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-119.png",
     "imageEdited": true,
