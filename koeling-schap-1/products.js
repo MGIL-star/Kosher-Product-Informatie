@@ -749,6 +749,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "857 kJ / 206 kcal",
+      "Vetten": "11 g",
+      "waarvan verzadigde vetzuren": "1,7 g",
+      "Koolhydraten": "16 g",
+      "waarvan suikers": "3,6 g",
+      "Eiwitten": "7,8 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-traditioneel/codex-clipboard-8e80e5ac-c959-4564-a614-2bcb7ca80a2f.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-155.png",
     "imageEdited": true,
