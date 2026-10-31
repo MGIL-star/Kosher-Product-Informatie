@@ -1399,6 +1399,17 @@ window.KPI_PRODUCTS = [
     "ingredients": "Kikkererwten (67%), jalapeñopepers (8%), koolzaadolie (8%), tarwezetmeel, harissa (rode paprika, koriander, zout, komijn), spinazie, ui, courgette, peterselie, knoflook, conserveermiddel (E200), zout, koriander, peper, zuurteregelaar (citroenzuur, E330).",
     "allergens": ["Tarwe (gluten)"],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "763 kJ / 182 kcal",
+      "Vetten": "11,3 g",
+      "waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "13,3 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,99 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-pittige-falafel/codex-clipboard-ed9b140d-66a4-4e7b-af9e-1646684faee0.jpg.",
     "kosher": "Opperrabbinaat voor Nederland",
     "image": "./images/eden-1231.png",
     "imageEdited": true,
@@ -1790,6 +1801,17 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "936 kJ / 226 kcal",
+      "Vetten": "14,2 g",
+      "waarvan verzadigde vetzuren": "6 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "0,4 g",
+      "Eiwitten": "13,3 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-rundersalami-heel/codex-clipboard-46e02205-4b66-4776-98c7-55b5d1fefc29.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-verpakking.png",
     "imageEdited": true,
