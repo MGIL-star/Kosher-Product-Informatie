@@ -101,7 +101,25 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "CRC (Central Rabbinical Congress)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "100 kcal",
+      "Vetten": "1,5 g",
+      "waarvan verzadigde vetzuren": "0,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "50 mg",
+      "Natrium": "50 mg",
+      "Koolhydraten": "0 g",
+      "Vezels": "0 g",
+      "waarvan suikers": "0 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "20 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "10 mg",
+      "IJzer": "0,6 mg",
+      "Kalium": "300 mg"
+    },
+    "nutritionUnit": "per 100 g"
   },
   {
     "id": 4,
