@@ -783,6 +783,17 @@ window.KPI_PRODUCTS = [
       "EI"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "956 kJ / 231 kcal",
+      "Vetten": "22 g",
+      "waarvan verzadigde vetzuren": "3,5 g",
+      "Koolhydraten": "7,4 g",
+      "waarvan suikers": "2,8 g",
+      "Eiwitten": "0,6 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-aubergine-mayonaise/codex-clipboard-eff7743e-4d7b-4d04-8e13-6a5000572f2f.jpg.",
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
     "image": "./images/eden-103.png",
     "imageEdited": true,
@@ -805,6 +816,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "376 kJ / 91 kcal",
+      "Vetten": "8,4 g",
+      "waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "3,5 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-gestoofde-aubergine/codex-clipboard-040090e4-745e-4c41-aae7-1efbd71d9122.jpg.",
     "kosher": "Badatz Beit Yosef (Parve)",
     "image": "./images/eden-109-250g.png",
     "imageEdited": true,
@@ -827,6 +849,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "266 kJ / 64 kcal",
+      "Vetten": "4,6 g",
+      "waarvan verzadigde vetzuren": "0,7 g",
+      "Koolhydraten": "3,7 g",
+      "waarvan suikers": "2,1 g",
+      "Eiwitten": "1 g",
+      "Zout": "1,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-pittige-aubergineplakjes/codex-clipboard-19231ff6-4fa7-47d4-a0eb-7d0485a63059.jpg.",
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
     "image": "./images/eden-110.png",
     "imageEdited": true,
@@ -850,6 +883,17 @@ window.KPI_PRODUCTS = [
       "Ei"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "131 kJ / 31 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "6,2 g",
+      "waarvan suikers": "3,3 g",
+      "Eiwitten": "0,8 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-auberginekaviaar/codex-clipboard-2d329ed0-6290-49a1-89b2-4aa49331c1a3.jpg.",
     "kosher": "Badatz Beit Yosef (Parve)",
     "image": "./images/eden-111-250g.png",
     "imageEdited": true,
@@ -871,6 +915,18 @@ window.KPI_PRODUCTS = [
     "ingredients": "Rode kool (61,2%), plantaardige mayonaise (water, zonnebloemolie, aardappelzetmeel, suiker, zout, E412, maltodextrine, bètacaroteen), alcoholazijn (37,2%), suiker, zout, azijnzuur, witte peper, conserveermiddel E202.",
     "allergens": [],
     "allergensConfirmedAbsent": true,
+    "nutrition": {
+      "Energie": "525 kJ / 127 kcal",
+      "Vetten": "10,9 g",
+      "waarvan verzadigde vetzuren": "5,2 g",
+      "Koolhydraten": "5,1 g",
+      "waarvan suikers": "4 g",
+      "Vezels": "2,9 g",
+      "Eiwitten": "0,76 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-rodekool-mayonaise/codex-clipboard-5bca97ca-297c-40fa-bb29-18b502f1aa01.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-104.png",
     "imageEdited": true,
@@ -900,6 +956,18 @@ window.KPI_PRODUCTS = [
       "Mosterd"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "496 kJ / 120 kcal",
+      "Vetten": "10,3 g",
+      "waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "4 g",
+      "waarvan suikers": "4 g",
+      "Vezels": "4,4 g",
+      "Eiwitten": "0,7 g",
+      "Zout": "0,54 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-koolsalade/codex-clipboard-82a5b3f1-2ef6-444f-a695-ea6607928507.jpg.",
     "kosher": "K",
     "image": "./images/eden-113-250g.png",
     "imageEdited": true,
@@ -922,6 +990,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "421 kJ / 101 kcal",
+      "Vetten": "6,4 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "8,5 g",
+      "waarvan suikers": "3,6 g",
+      "Eiwitten": "1 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-wortelsalade/codex-clipboard-8fba4c7d-bf0f-441d-8c8c-ffcff1494601.jpg.",
     "kosher": "Badatz Yoreh Deah Rav Shlomo Mahfoud (Parve)",
     "image": "./images/eden-114-250g.png",
     "imageEdited": true,
@@ -977,6 +1056,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "361 kJ / 86 kcal",
+      "Vetten": "3,4 g",
+      "waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "7,5 g",
+      "Eiwitten": "1,8 g",
+      "Zout": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-turkse-salade/codex-clipboard-7e708188-078c-4d16-86d5-354677d51fb2.jpg.",
     "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
     "image": "./images/eden-turkse-salade.png",
     "imageEdited": true,
