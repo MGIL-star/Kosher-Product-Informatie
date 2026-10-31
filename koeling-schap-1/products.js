@@ -1451,15 +1451,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311535",
-    "nutrition": {"Energie":"435 kJ / 103 kcal","Vetten":"2,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"3,5 g","waarvan suikers":"0,61 g","Eiwitten":"16 g","Zout":"1,9 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311535.",
     "ingredients": "Rundvlees (71%), water, aardappelzetmeel, gemodificeerd zetmeel (E1420), zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "435 kJ / 103 kcal",
+      "Vetten": "2,7 g",
+      "waarvan verzadigde vetzuren": "1,2 g",
+      "Koolhydraten": "3,5 g",
+      "waarvan suikers": "0,61 g",
+      "Eiwitten": "16 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-affd6415-8307-4b55-8d42-4455a17b6e65.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/1-verpakking.png",
     "imageEdited": true,
@@ -1483,15 +1491,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311504",
-    "nutrition": {"Energie":"435 kJ / 103 kcal","Vetten":"2,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"3,5 g","waarvan suikers":"0,61 g","Eiwitten":"16 g","Zout":"1,9 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311504.",
     "ingredients": "Rundvlees (71%), water, aardappelzetmeel, gemodificeerd zetmeel (E1420), zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "435 kJ / 103 kcal",
+      "Vetten": "2,7 g",
+      "waarvan verzadigde vetzuren": "1,2 g",
+      "Koolhydraten": "3,5 g",
+      "waarvan suikers": "0,61 g",
+      "Eiwitten": "16 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-704be6b0-ab2f-4027-bdeb-007cb243f0e5.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/3-verpakking.png",
     "imageEdited": true,
@@ -1515,15 +1531,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311528",
-    "nutrition": {"Energie":"435 kJ / 103 kcal","Vetten":"2,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"3,5 g","waarvan suikers":"0,61 g","Eiwitten":"16 g","Zout":"1,9 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311528.",
     "ingredients": "Rundvlees (71%), water, aardappelzetmeel, gemodificeerd zetmeel (E1420), zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "435 kJ / 103 kcal",
+      "Vetten": "2,7 g",
+      "waarvan verzadigde vetzuren": "1,2 g",
+      "Koolhydraten": "3,5 g",
+      "waarvan suikers": "0,61 g",
+      "Eiwitten": "16 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-cb51bc71-fd05-4110-9dc4-1f60787362f0.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/5-verpakking.png",
     "imageEdited": true,
@@ -1547,15 +1571,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311634",
-    "nutrition": {"Energie":"529 kJ / 127 kcal","Vetten":"6 g","waarvan verzadigde vetzuren":"2 g","Koolhydraten":"0,7 g","waarvan suikers":"0,1 g","Eiwitten":"18,2 g","Zout":"2,5 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311634.",
     "ingredients": "Kalkoen (43%), rundvlees (37%), water, aardappelzetmeel, zout, specerijen (SELDERIJ, SULFIETEN), suikers (maltodextrine, dextrose, sucrose), stabilisatoren (E407, E466, E417), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidanten (E301, E316), conserveermiddelen (E250, E252), zuurteregelaars (E262, E327, E331, E500), rookaroma, aroma’s, gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "529 kJ / 127 kcal",
+      "Vetten": "6 g",
+      "waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "0,7 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "16,2 g",
+      "Zout": "2,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-5d04e8c1-c87a-4a6e-8434-604ddacec3dc.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/7-verpakking.png",
     "imageEdited": true,
@@ -1579,15 +1611,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311566",
-    "nutrition": {"Energie":"427 kJ / 101 kcal","Vetten":"1,7 g","waarvan verzadigde vetzuren":"0,5 g","Koolhydraten":"2,1 g","waarvan suikers":"0,2 g","Eiwitten":"18,9 g","Zout":"2,4 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311566.",
     "ingredients": "Kalkoen (70%), water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "427 kJ / 101 kcal",
+      "Vetten": "1,7 g",
+      "waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "2,1 g",
+      "waarvan suikers": "0,2 g",
+      "Eiwitten": "18,9 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-87ffbc0c-0ea9-411c-ba5e-77c0a723d5b7.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/9-verpakking.png",
     "imageEdited": true,
@@ -1611,15 +1651,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "150 g",
     "ean": "5060199311559",
-    "nutrition": {"Energie":"459 kJ / 109 kcal","Vetten":"3,7 g","waarvan verzadigde vetzuren":"1,2 g","Koolhydraten":"2,8 g","waarvan suikers":"0,5 g","Eiwitten":"15,3 g","Zout":"2,4 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311559.",
     "ingredients": "Kalkoen (71%), water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), aroma’s, gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "459 kJ / 109 kcal",
+      "Vetten": "3,7 g",
+      "waarvan verzadigde vetzuren": "1,2 g",
+      "Koolhydraten": "2,8 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "15,3 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-6c5a7eca-95a3-4270-b334-878e826bba5e.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/11-verpakking.png",
     "imageEdited": true,
@@ -1643,15 +1691,23 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "110 g",
     "ean": "5060199311597",
-    "nutrition": {"Energie":"427 kJ / 102 kcal","Vetten":"1,7 g","waarvan verzadigde vetzuren":"0,5 g","Koolhydraten":"2,1 g","waarvan suikers":"0,2 g","Eiwitten":"18,9 g","Zout":"2,4 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311597.",
     "ingredients": "Kalkoen (70%), water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose), stabilisatoren (E407, E466), emulgatoren (E451, E452, E450), smaakversterker (E621), antioxidant (E301), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331), gemodificeerd zetmeel.",
     "allergens": [
       "SELDERIJ",
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "427 kJ / 102 kcal",
+      "Vetten": "1,7 g",
+      "waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "2,1 g",
+      "waarvan suikers": "0,2 g",
+      "Eiwitten": "18,9 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-12d3d0d2-6e0f-47c9-b9d5-89a8606a7ee5.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/13-verpakking.png",
     "imageEdited": true,
@@ -1675,9 +1731,6 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "250 g",
     "ean": "5060199311924",
-    "nutrition": {"Energie":"607 kJ / 145 kcal","Vetten":"7,8 g","waarvan verzadigde vetzuren":"2,7 g","Koolhydraten":"4,4 g","waarvan suikers":"0,9 g","Eiwitten":"15,9 g","Zout":"2,2 g"},
-    "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde verpakking; EAN 5060199311924.",
     "ingredients": "Kalkoen, kip, rundvlees, water, aardappelzetmeel, zout, specerijen (SELDERIJ), suikers (maltodextrine, dextrose, sucrose), stabilisatoren (E407, E417, E466), emulgatoren (E450, E451, E452), smaakversterker (E621), antioxidanten (E301, E316), conserveermiddelen (E250, E252, SULFIETEN), zuurteregelaars (E262, E327, E331, E500), gehydrolyseerd plantaardig eiwit (SOJA), cellulose (E460), aroma’s, rookaroma.",
     "allergens": [
       "SELDERIJ",
@@ -1685,6 +1738,17 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "607 kJ / 145 kcal",
+      "Vetten": "7,8 g",
+      "waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "4,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "15,9 g",
+      "Zout": "2,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-069e5c1a-bcf5-4845-bccf-7a6af52ddd01.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/15-verpakking.png",
     "imageEdited": true,
@@ -1714,6 +1778,17 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "988 kJ / 239 kcal",
+      "Vetten": "20,3 g",
+      "waarvan verzadigde vetzuren": "8,4 g",
+      "Koolhydraten": "0,6 g",
+      "waarvan suikers": "0,6 g",
+      "Eiwitten": "15,7 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-2b00509a-1c84-420d-865d-597f6a3087f8.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/22-verpakking.png",
     "imageEdited": true,
@@ -1743,6 +1818,17 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "774 kJ / 184 kcal",
+      "Vetten": "12,3 g",
+      "waarvan verzadigde vetzuren": "3,7 g",
+      "Koolhydraten": "4,5 g",
+      "waarvan suikers": "0,9 g",
+      "Eiwitten": "14 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-f65d0a00-a03b-4e0b-b13e-bc164b75074d.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/24-verpakking.png",
     "imageEdited": true,
@@ -1772,6 +1858,17 @@ window.KPI_PRODUCTS = [
       "SULFIETEN"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "933 kJ / 252 kcal",
+      "Vetten": "16,3 g",
+      "waarvan verzadigde vetzuren": "7,1 g",
+      "Koolhydraten": "2,2 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "16,6 g",
+      "Zout": "2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-b3b35a48-74d7-4ceb-b8e3-60f5803c3510.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/26-verpakking.png",
     "imageEdited": true,
@@ -1853,6 +1950,17 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "842 kJ / 208 kcal",
+      "Vetten": "15,6 g",
+      "waarvan verzadigde vetzuren": "4,7 g",
+      "Koolhydraten": "1,4 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "14,1 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-5dc71e99-82df-4ec7-8471-8f7a446dca72.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/28-verpakking.png",
     "imageEdited": true,
@@ -1882,6 +1990,17 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "718 kJ / 172 kcal",
+      "Vetten": "8,8 g",
+      "waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "2,8 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "18,5 g",
+      "Zout": "2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-1b920f66-2b31-4136-9bb1-362be79c7179.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/30-verpakking.png",
     "imageEdited": true,
@@ -1911,6 +2030,17 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "885 kJ / 213 kcal",
+      "Vetten": "13,6 g",
+      "waarvan verzadigde vetzuren": "5,2 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "17,7 g",
+      "Zout": "2,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-986df9fc-68a2-4aa1-82f0-cea4377ba1b2.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/32-verpakking.png",
     "imageEdited": true,
@@ -1940,6 +2070,17 @@ window.KPI_PRODUCTS = [
       "SOJA"
     ],
     "allergenNote": "Geproduceerd in een fabriek waar ook selderij, gluten, mosterd, sesam, soja en sulfieten worden verwerkt.",
+    "nutrition": {
+      "Energie": "962 kJ / 231 kcal",
+      "Vetten": "15,4 g",
+      "waarvan verzadigde vetzuren": "7 g",
+      "Koolhydraten": "3,3 g",
+      "waarvan suikers": "0,8 g",
+      "Eiwitten": "17,7 g",
+      "Zout": "2,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-c8811832-6af2-4a13-9c8b-0bb1b83cd90b.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/34-verpakking.png",
     "imageEdited": true,
@@ -1968,6 +2109,17 @@ window.KPI_PRODUCTS = [
       "SOJA",
       "SULFIETEN"
     ],
+    "nutrition": {
+      "Energie": "885 kJ / 213 kcal",
+      "Vetten": "13,6 g",
+      "waarvan verzadigde vetzuren": "5,2 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,1 g",
+      "Eiwitten": "17,7 g",
+      "Zout": "2,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-prime-cut-16/codex-clipboard-f1e6f837-ee22-4c45-8cb0-fc07a7534aae.jpg.",
     "kosher": "Glatt Kosher Kedassia",
     "image": "./images/17-beef-viennas.png",
     "imageEdited": true,
