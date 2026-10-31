@@ -1371,9 +1371,17 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO Shoshana",
     "variant": "200 g",
     "ean": "8711528120300",
-    "nutrition": { "Energie": "1495 kJ / 356 kcal", "Vetten": "28,2 g", "waarvan verzadigde vetzuren": "20,3 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "26,5 g", "Zout": "2,1 g" },
+    "nutrition": {
+      "Energie": "1495 kJ / 356 kcal",
+      "Vetten": "28,2 g",
+      "waarvan verzadigde vetzuren": "20,3 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "26,5 g",
+      "Zout": "1,6 g"
+    },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde VEBO Shoshana Edam-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-edammer-stuk/codex-clipboard-e97c2f37-cd25-4e7c-b653-8fcc0923a81d.jpg.",
     "labelSources": ["source-labels/20261029-revisie/vebo-edammer-200g-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
     "kosher": "Opperrabbinaat Nederland",
@@ -1408,9 +1416,17 @@ window.KPI_PRODUCTS = [
     "brand": "VEBO Shoshana",
     "ean": "8711528757704",
     "variant": "250 g",
-    "nutrition": { "Energie": "1338 kJ / 321 kcal", "Vetten": "30,6 g", "waarvan verzadigde vetzuren": "22,0 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "23,0 g", "Zout": "2,1 g" },
+    "nutrition": {
+      "Energie": "1383 kJ / 367 kcal",
+      "Vetten": "30,6 g",
+      "waarvan verzadigde vetzuren": "22,0 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "23,0 g",
+      "Zout": "2,1 g"
+    },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde VEBO Shoshana Goudse-kaasetiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-jonge-gouda/codex-clipboard-562d4682-cbea-407a-a8bd-70c216711a26.jpg.",
     "labelSources": ["source-labels/20261029-revisie/vebo-goudse-kaas-250g-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde MELK, zout, zuursel, stremsel, kleurstof E160b(ii).",
     "kosher": "Opperrabbinaat Nederland",
@@ -1845,22 +1861,26 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
+    "ingredientsSource": "Op uitdrukkelijk verzoek van de gebruiker op 31 oktober 2026 voorlopig overgenomen van Manchego minimaal 6 maanden gerijpt, barcode 8436025982762; eigen ingrediëntenetiket Ravet 3 maanden nog te ontvangen.",
+    "notice": "Korst niet eetbaar.",
     "id": 90,
     "name": "Manchego AOP 3 Maanden Gerijpt",
     "brand": "Ravet",
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3700701300306",
-    "ingredients": "",
-    "ingredientsComplete": false,
-    "allergens": [],
+    "ingredients": "Gepasteuriseerde schapenmelk, melkzuurculturen (K), calciumchloride, koosjere lysozym (OU), stremsel (K), zout.",
+    "ingredientsComplete": true,
+    "allergens": [
+      "Melk"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Rav Schlesinger Genève",
     "kosherLines": ["Rav Schlesinger Genève"],
     "kosherSource": "Door gebruiker bevestigd op 31 oktober 2026: dezelfde hechsjer als Rav Schlesinger Genève op het aangeleverde referentie-etiket.",
     "image": "./images/ravet-manchego-aop-150g.png",
     "imageEdited": true,
-    "detailsPending": true,
+    "detailsPending": false,
     "productInfo": {
       "Rijping": "3 maanden",
       "Herkomst": "Spanje"
@@ -1930,6 +1950,47 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
   },
   {
+    "id": 91,
+    "name": "Emmental Savoureux",
+    "brand": "Ermitage",
+    "category": "Kaas",
+    "variant": "250 g",
+    "ean": "3250551202386",
+    "ingredients": "Melk, zout, melkzuurculturen (melk), microbieel stremsel.",
+    "ingredientsComplete": true,
+    "allergens": [
+      "Melk"
+    ],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Rav Schlesinger Straatsburg",
+    "kosherSource": "Rav Schlesinger, Av Beth Din Strasbourg, op het aangeleverde keurmerk.",
+    "image": "./images/ermitage-emmental-savoureux-250g.png",
+    "imageEdited": true,
+    "detailsPending": false,
+    "productInfo": {
+      "Herkomst": "Frankrijk"
+    },
+    "nutrition": {
+      "Energie": "1566 kJ / 377 kcal",
+      "Vetten": "29 g",
+      "waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "1,0 g",
+      "waarvan suikers": "1,0 g",
+      "Eiwitten": "28 g",
+      "Zout": "0,70 g",
+      "Calcium": "1000 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-emmental-savoureux/codex-clipboard-c721cede-69b3-43b5-b0f3-7a7bc22ff3d5.jpg.",
+    "ingredientsSource": "Fysieke verpakking; achterzijde op de aangeleverde foto.",
+    "barcodeSource": "Afgelezen op fysieke verpakking: 3250551202386.",
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-677a17b2-ebe4-4ea6-8de0-81c01d8bffee.jpg",
+      "edit": "Gesloten verpakking rechtop op wit; datum en batchcode verwijderd."
+    }
+  },
+  {
     "id": 39,
     "name": "Geraspte Emmentaler",
     "brand": "Vert Bosquet",
@@ -1938,7 +1999,7 @@ window.KPI_PRODUCTS = [
     "ean": "3060921349111",
     "nutrition": { "Energie": "1612 kJ / 388 kcal", "Vetten": "30 g", "waarvan verzadigde vetzuren": "21 g", "Koolhydraten": "2,5 g", "waarvan suikers": "0,5 g", "Eiwitten": "27 g", "Zout": "0,68 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Vert Bosquet geraspte Emmentaler-verpakking.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-emmental-geraspt/codex-clipboard-a52530eb-a4c7-4d8c-8968-0f276cf6e414.jpg.",
     "labelSources": ["source-labels/20261029-revisie/vert-bosquet-geraspte-emmentaler-voedingswaarde.jpg"],
     "ingredients": "Emmentaler (98%) (koemelk (herkomst Frankrijk), zout, melkfermenten, microbieel stremsel), aardappelzetmeel.",
     "allergens": [
@@ -1979,7 +2040,7 @@ window.KPI_PRODUCTS = [
     "ean": "8003518101469",
     "nutrition": { "Energie": "1654 kJ / 398 kcal", "Vetten": "29 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "33 g", "Zout": "1,5 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Agriform Grana Padano-verpakking.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-grana-padano/codex-clipboard-d87104f3-9f01-4b74-84cd-695c4625f673.jpg.",
     "labelSources": ["source-labels/20261029-revisie/agriform-grana-padano-voedingswaarde.jpg"],
     "ingredients": "MELK, zout, stremsel, conserveermiddel: lysozyme uit EI.",
     "allergens": [
@@ -2057,6 +2118,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "224_Pointe-de-Brie-Brie-des-Ducs-300x209.png"
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-brie-maubert/codex-clipboard-e0466683-1334-42ae-bec3-14c71962fbcb.jpg.",
+    "nutrition": {
+      "Energie": "1554 kJ / 375 kcal",
+      "Vetten": "33 g",
+      "waarvan verzadigde vetzuren": "23 g",
+      "Koolhydraten": "1,0 g",
+      "waarvan suikers": "1,0 g",
+      "Eiwitten": "18 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 34,
     "name": "Brie",
     "brand": "Le Maubert",
@@ -2120,6 +2192,17 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Volgens de aangeleverde fysieke verpakking."
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-camembert-saintois/codex-clipboard-b691aa81-3d4b-41c8-8a60-bdec378b9386.jpg.",
+    "nutrition": {
+      "Energie": "1134 kJ / 273 kcal",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
+      "Eiwitten": "20 g",
+      "Zout": "1,6 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 28,
     "name": "Camembert",
     "brand": "Saintois",
@@ -2204,6 +2287,17 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Beschikbare verpakkingsvermelding overgenomen op uitdrukkelijk verzoek van de gebruiker."
   },
   {
+    "nutrition": {
+      "Energie": "1134 kJ / 273 kcal",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "1,0 g",
+      "waarvan suikers": "1,0 g",
+      "Eiwitten": "20 g",
+      "Zout": "1,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-royal-cremeux/codex-clipboard-26f02c6c-025d-4099-9773-1f54541f0880.jpg.",
     "id": 30,
     "name": "Royal Romige Zachte Kaas",
     "brand": "Ermitage",
@@ -2273,7 +2367,7 @@ window.KPI_PRODUCTS = [
     "ean": "3250550020707",
     "nutrition": { "Energie": "1544 kJ / 373 kcal", "Vetten": "33 g", "waarvan verzadigde vetzuren": "23 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "18 g", "Zout": "1,2 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Ermitage Fleur des Sources-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-fleur-des-sources/codex-clipboard-50037d4d-508d-4ffb-91f2-65e979ccb0d7.jpg.",
     "labelSources": ["source-labels/20261029-revisie/ermitage-fleur-des-sources-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde melk, zout, fermenten (waaronder melk), enzymatisch stremsel, kleurstof voor de korst (bètacaroteen).",
     "allergens": [
@@ -2311,7 +2405,7 @@ window.KPI_PRODUCTS = [
     "ean": "3250550023135",
     "nutrition": { "Energie": "1356 kJ / 327 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "19 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "20 g", "Zout": "1,4 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Ermitage Le Marcaire-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-le-marcaire/codex-clipboard-e84dbf2c-40bf-47e5-9ca7-fa690ce139f1.jpg.",
     "labelSources": ["source-labels/20261029-revisie/ermitage-le-marcaire-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde melk, zout, fermenten (waaronder melk), enzymatisch stremsel, kleurstof voor de korst (norbixine uit annatto).",
     "allergens": [
@@ -2682,7 +2776,7 @@ window.KPI_PRODUCTS = [
     "ean": "3151380003024",
     "nutrition": { "Energie": "1507 kJ / 364 kcal", "Vetten": "32 g", "waarvan verzadigde vetzuren": "24 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "19 g", "Zout": "3,5 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Gabriel Coulet Roquefort-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-roquefort/codex-clipboard-8c5fc291-5390-4f41-ae9f-22c4847cef5b.jpg.",
     "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-roquefort-voedingswaarde.jpg"],
     "ingredients": "Rauwe schapenmelk (MELK), zout, stremsel, melkzuurculturen, Penicillium roqueforti.",
     "allergens": [
@@ -2801,7 +2895,7 @@ window.KPI_PRODUCTS = [
     "ean": "3760059040842",
     "nutrition": { "Energie": "960 kJ / 231 kcal", "Vetten": "17 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "0,5 g", "waarvan suikers": "0,5 g", "Eiwitten": "19 g", "Zout": "1,2 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Eden Gourmet Mozzarella-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-mozzarella/codex-clipboard-63fb56f5-1efb-45b4-aae8-24ea214365c2.jpg.",
     "labelSources": ["source-labels/20261029-revisie/eden-gourmet-mozzarella-voedingswaarde.jpg"],
     "ingredients": "Mozzarella (gepasteuriseerde koemelk, zout, zuurteregelaar (citroenzuur), microbieel stremsel), pekel (water, zout, zuurteregelaar (citroenzuur)).",
     "allergens": [
@@ -2821,6 +2915,17 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Productinformatie van Eden Gourmet Billes de mozzarella 125 g."
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-minimozzarella/codex-clipboard-f4f43671-8d0a-4131-b3c9-46bf5a6b14ce.jpg.",
+    "nutrition": {
+      "Energie": "960 kJ / 231 kcal",
+      "Vetten": "17 g",
+      "waarvan verzadigde vetzuren": "12 g",
+      "Koolhydraten": "0,5 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "19 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 54,
     "name": "Minimozzarella",
     "brand": "Eden Gourmet",
@@ -2849,7 +2954,7 @@ window.KPI_PRODUCTS = [
     "ean": "5298001270255",
     "nutrition": { "Energie": "1384 kJ / 333 kcal", "Vetten": "25,1 g", "waarvan verzadigde vetzuren": "15,1 g", "Koolhydraten": "2,4 g", "waarvan suikers": "2,4 g", "Eiwitten": "24,5 g", "Zout": "2,5 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Halloumi-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-halloumi/codex-clipboard-e462eb31-ee48-4ce3-a28a-025ec9d9135b.jpg.",
     "labelSources": ["source-labels/20261029-revisie/eden-gourmet-halloumi-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde koemelk, geitenmelk en schapenmelk (MELK), zout, microbieel stremsel, munt.",
     "kosher": "Cyprus Kosher",
@@ -3179,6 +3284,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "a2b3387d-2208-40fb-b13a-730612908307.jpg"
   },
   {
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-brickdeeg/codex-clipboard-3fcfcdc4-7552-4450-85f4-2a77a151f60f.jpg.",
+    "nutrition": {
+      "Energie": "1184 kJ / 279 kcal",
+      "Vetten": "1,1 g",
+      "waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "60 g",
+      "waarvan suikers": "2 g",
+      "Eiwitten": "6 g",
+      "Zout": "3,05 g"
+    },
+    "nutritionUnit": "per 100 g",
     "id": 40,
     "name": "Brickdeegvellen",
     "brand": "JR",
