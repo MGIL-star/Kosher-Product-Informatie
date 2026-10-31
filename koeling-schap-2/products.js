@@ -826,9 +826,17 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "8711162013402",
     "ingredients": "Verse roomkaas (gepasteuriseerde MELK, ROOM, zout, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel), zout, conserveermiddel (E200).",
-    "nutrition": { "Energie": "1160 kJ / 281 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "17 g", "Koolhydraten": "2,6 g", "waarvan suikers": "2,6 g", "Eiwitten": "7 g", "Zout": "1,1 g" },
+    "nutrition": {
+      "Energie": "1160 kJ / 281 kcal",
+      "Vetten": "27 g",
+      "waarvan verzadigde vetzuren": "17,7 g",
+      "Koolhydraten": "3,0 g",
+      "waarvan suikers": "3,0 g",
+      "Eiwitten": "7,0 g",
+      "Zout": "0,97 g"
+    },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Shefa roomkaas naturel-verpakking.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-shefa-roomkaas/codex-clipboard-279101b7-61cf-42d4-82b0-68cc111c353c.jpg.",
     "labelSources": ["source-labels/20261029-shefa-roomkaas/shefa-roomkaas-naturel-voedingswaarde.jpg"],
     "allergens": [
       "MELK"
@@ -866,9 +874,17 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "8711162013419",
     "ingredients": "98,4% verse roomkaas (gepasteuriseerde MELK, ROOM, zout, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel), 0,6% knoflookpoeder, 0,3% gedroogde bieslook, zout, witte peper, 0,1% gedroogde ui, conserveermiddel (E200), 0,02% dille.",
-    "nutrition": { "Energie": "1159 kJ / 280 kcal", "Vetten": "25 g", "waarvan verzadigde vetzuren": "17 g", "Koolhydraten": "2,6 g", "waarvan suikers": "2,6 g", "Eiwitten": "6,2 g", "Zout": "1,4 g" },
+    "nutrition": {
+      "Energie": "1161 kJ / 280 kcal",
+      "Vetten": "26 g",
+      "waarvan verzadigde vetzuren": "17,7 g",
+      "Koolhydraten": "3,1 g",
+      "waarvan suikers": "3,1 g",
+      "Eiwitten": "5,3 g",
+      "Zout": "1,11 g"
+    },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Shefa roomkaas met kruiden-verpakking.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-shefa-roomkaas/codex-clipboard-c49b4840-6d2a-46c7-aa3f-f0f7d876ab91.jpg.",
     "labelSources": ["source-labels/20261029-shefa-roomkaas/shefa-roomkaas-kruiden-voedingswaarde.jpg"],
     "allergens": [
       "MELK"
@@ -906,9 +922,17 @@ window.KPI_PRODUCTS = [
     "variant": "150 g",
     "ean": "8711162013440",
     "ingredients": "85,8% verse roomkaas (gepasteuriseerde MELK, ROOM, zout, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel), groene olijven (13,2% groene olijven, zout, voedingszuur (E270)), zout, conserveermiddel (E200), witte peper, knoflookpoeder.",
-    "nutrition": { "Energie": "1158 kJ / 280 kcal", "Vetten": "25,5 g", "waarvan verzadigde vetzuren": "15,1 g", "Koolhydraten": "2,5 g", "waarvan suikers": "2,4 g", "Eiwitten": "6,2 g", "Zout": "1,4 g" },
+    "nutrition": {
+      "Energie": "1082 kJ / 262 kcal",
+      "Vetten": "26 g",
+      "waarvan verzadigde vetzuren": "16,5 g",
+      "Koolhydraten": "2,6 g",
+      "waarvan suikers": "2,6 g",
+      "Eiwitten": "6,2 g",
+      "Zout": "1,4 g"
+    },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Shefa roomkaas met olijven-verpakking.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-shefa-roomkaas/codex-clipboard-24648aaf-150f-421b-a65f-b19f571ac58e.jpg.",
     "labelSources": ["source-labels/20261029-shefa-roomkaas/shefa-roomkaas-olijven-voedingswaarde.jpg"],
     "allergens": [
       "MELK"
