@@ -605,6 +605,17 @@ window.KPI_PRODUCTS = [
     ],
     "allergensConfirmedAbsent": false,
     "allergenNote": "Kan sporen bevatten van pijnboompitten, pinda, ei, tarwe en vis.",
+    "nutrition": {
+      "Energie": "803 kJ / 193 kcal",
+      "Vetten": "11 g",
+      "waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "3,3 g",
+      "Eiwitten": "6,9 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-carmel/codex-clipboard-1ea31452-b42a-49c1-ab14-46b019618024.jpg.",
     "image": "./images/eden-hummus-carmel.png",
     "imageEdited": true,
     "imageSource": {
