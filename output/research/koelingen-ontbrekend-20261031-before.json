@@ -1,0 +1,609 @@
+[
+  {
+    "folder": "koeling-schap-1",
+    "id": 21,
+    "name": "Klassieke Hummus",
+    "brand": "Tasty Food",
+    "ean": "6097418926903",
+    "missing": [
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 22,
+    "name": "Tahindip",
+    "brand": "Tasty Food",
+    "ean": "0796967649856",
+    "missing": [
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 23,
+    "name": "Auberginepaté",
+    "brand": "Tasty Food",
+    "ean": "0796967650210",
+    "missing": [
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 27,
+    "name": "Gegrilde Auberginedip",
+    "brand": "Tasty Food",
+    "ean": "0796567649935",
+    "missing": [
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 30,
+    "name": "Auberginedip",
+    "brand": "Tasty Food",
+    "ean": "",
+    "missing": [
+      "barcode",
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 59,
+    "name": "Babaganoush",
+    "brand": "Tasty Food",
+    "ean": "6097415280282",
+    "missing": [
+      "gewicht"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 60,
+    "name": "Zoetzure Aubergine",
+    "brand": "Tasty Food",
+    "ean": "0796967649771",
+    "missing": [
+      "gewicht"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 28,
+    "name": "Matbucha",
+    "brand": "Tasty Food",
+    "ean": "",
+    "missing": [
+      "barcode",
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 18,
+    "name": "Tonijn Eisalade",
+    "brand": "Tasty Food",
+    "ean": "0796967649788",
+    "missing": [
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 25,
+    "name": "Tonijnsalade met Bosui",
+    "brand": "Tasty Food",
+    "ean": "",
+    "missing": [
+      "barcode",
+      "gewicht",
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 26,
+    "name": "Haring",
+    "brand": "Tasty Food",
+    "ean": "6097428030041",
+    "missing": [
+      "gewicht"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 32,
+    "name": "Hummus Naturel",
+    "brand": "Eden Gourmet",
+    "ean": "3760059041450",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 66,
+    "name": "Hummus Carmel",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040194",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 33,
+    "name": "Thina",
+    "brand": "Eden Gourmet",
+    "ean": "3760059041443",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 67,
+    "name": "Geroosterde Paprikarepen",
+    "brand": "Eden Gourmet",
+    "ean": "3760059041764",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 68,
+    "name": "Turkse Salade",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040217",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 43,
+    "name": "Guacamole",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040088",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 41,
+    "name": "Harissa",
+    "brand": "JR",
+    "ean": "3302040000055",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 55,
+    "name": "Rode Chrijn",
+    "brand": "Hoffmans",
+    "ean": "5000120000008",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 56,
+    "name": "Witte Chrijn",
+    "brand": "Hoffmans",
+    "ean": "5490608000000",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 44,
+    "name": "Falafel",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040224",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 53,
+    "name": "Falafel met Tomaat",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040910",
+    "missing": [
+      "ingrediënten",
+      "hechsjer",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 64,
+    "name": "Kipmortadella",
+    "brand": "Gulliver",
+    "ean": "3760059041948",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 57,
+    "name": "Droge Worst",
+    "brand": "Mets et Traditions",
+    "ean": "3252880813011",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-1",
+    "id": 73,
+    "name": "Licht Gerookte Kalkoenworstjes",
+    "brand": "Eden Gourmet",
+    "ean": "3760059041955",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 7,
+    "name": "Yoghurt Naturel",
+    "brand": "Shefa",
+    "ean": "",
+    "missing": [
+      "barcode"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 8,
+    "name": "Aardbeienyoghurt",
+    "brand": "Shefa",
+    "ean": "8711723922211",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 1,
+    "name": "Yoghurt Naturel",
+    "brand": "Shefa",
+    "ean": "",
+    "missing": [
+      "barcode"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 2,
+    "name": "Aardbeienyoghurt",
+    "brand": "Shefa",
+    "ean": "8711723932142",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 4,
+    "name": "Tropische Vruchtenyoghurt",
+    "brand": "Shefa",
+    "ean": "",
+    "missing": [
+      "barcode"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 5,
+    "name": "Vanillevla",
+    "brand": "Shefa",
+    "ean": "",
+    "missing": [
+      "barcode"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 6,
+    "name": "Chocoladevla",
+    "brand": "Shefa",
+    "ean": "",
+    "missing": [
+      "barcode"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 25,
+    "name": "Panna Cotta Karamel",
+    "brand": "Sterilgarda",
+    "ean": "80094883",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 63,
+    "name": "Vruchtenzuiveldessert",
+    "brand": "Nova",
+    "ean": "3456770001704",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 64,
+    "name": "Chocoladeroomdessert",
+    "brand": "Nova",
+    "ean": "3456770521127",
+    "missing": [
+      "ingrediënten"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 74,
+    "name": "Smeerkaaspuntjes 14% Vet",
+    "brand": "Euro",
+    "ean": "7290108509090",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 38,
+    "name": "Emmentaler",
+    "brand": "Vert Bosquet",
+    "ean": "3060921349838",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 55,
+    "name": "Geraspte Grana Padano",
+    "brand": "Agriform",
+    "ean": "8003518100219",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 37,
+    "name": "Briepunt",
+    "brand": "Brie des Ducs",
+    "ean": "3176580025478",
+    "missing": [
+      "ingrediënten",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 34,
+    "name": "Brie",
+    "brand": "Le Maubert",
+    "ean": "3250550015529",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 29,
+    "name": "Royal Camembert",
+    "brand": "Ermitage",
+    "ean": "3250550015567",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 32,
+    "name": "Camembert",
+    "brand": "Grand Fermage",
+    "ean": "3523230053655",
+    "missing": [
+      "hechsjer",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 35,
+    "name": "Carré de L’Est Zachte Kaas",
+    "brand": "Ermitage",
+    "ean": "3250550015482",
+    "missing": [
+      "hechsjer",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 36,
+    "name": "Fleur Des Sources Romige Zachte Kaas",
+    "brand": "Ermitage",
+    "ean": "3250550020707",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 88,
+    "name": "Le Marcaire",
+    "brand": "Ermitage",
+    "ean": "3250550023135",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 31,
+    "name": "Zachte Kaas",
+    "brand": "Fromage des Ducs",
+    "ean": "3153126838006",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 46,
+    "name": "Smeerbare Geitenkaas",
+    "brand": "Soignon",
+    "ean": "3523230039970",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 77,
+    "name": "Opgeklopte Geitenkaas Naturel 13% Vet",
+    "brand": "Soignon",
+    "ean": "",
+    "missing": [
+      "barcode",
+      "gewicht",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 41,
+    "name": "Gerijpte Geitenkaasrol",
+    "brand": "Soignon",
+    "ean": "3523230038997",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 43,
+    "name": "Minigeitenkaasrol met Knoflook en Kruiden",
+    "brand": "Soignon",
+    "ean": "3523230038836",
+    "missing": [
+      "ingrediënten",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 44,
+    "name": "Geitenkaaspiramide Naturel",
+    "brand": "Soignon",
+    "ean": "3523230053365",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 47,
+    "name": "Kaasblokjes voor Salade",
+    "brand": "Brebiac",
+    "ean": "3760016940444",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 53,
+    "name": "Mozzarella",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040842",
+    "missing": [
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 54,
+    "name": "Minimozzarella",
+    "brand": "Eden Gourmet",
+    "ean": "3760059040859",
+    "missing": [
+      "gewicht",
+      "ingrediënten",
+      "hechsjer"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 58,
+    "name": "Margarine voor Koken",
+    "brand": "Arcy",
+    "ean": "8722100046444",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 59,
+    "name": "Margarine voor Gebak",
+    "brand": "Arcy",
+    "ean": "8722100046468",
+    "missing": [
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 60,
+    "name": "Ravioli Tomaat en Mozzarella",
+    "brand": "Ravioli",
+    "ean": "8017856033238",
+    "missing": [
+      "ingrediënten",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 61,
+    "name": "Ravioli Spinazie en Ricotta",
+    "brand": "Ravioli",
+    "ean": "8017856033221",
+    "missing": [
+      "ingrediënten",
+      "voedingswaarden"
+    ]
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 62,
+    "name": "Ravioli Eekhoorntjesbrood en Zwarte Truffel",
+    "brand": "Ravioli",
+    "ean": "8017856034709",
+    "missing": [
+      "ingrediënten",
+      "voedingswaarden"
+    ]
+  }
+]

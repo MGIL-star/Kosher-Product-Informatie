@@ -486,6 +486,17 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Zelfde Shefa Chocolate Vla/Pudding-recept als de 500 g-variant; fabrikant vermeldt beide formaten als dezelfde productvariant."
   },
   {
+    "nutrition": {
+      "Energie": "793 kJ / 191 kcal",
+      "Vetten": "13 g",
+      "waarvan verzadigde vetzuren": "8,5 g",
+      "Koolhydraten": "16 g",
+      "waarvan suikers": "14 g",
+      "Eiwitten": "3,3 g",
+      "Zout": "0,13 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://www.sterilgarda.it/desserts/dessert/panna-cotta-al-caramello-sterilgarda-2x90g/; Fabrikant, exacte barcode en 2 x 90 g.",
     "id": 25,
     "name": "Panna Cotta Karamel",
     "brand": "Sterilgarda",
@@ -631,6 +642,17 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Hebreeuws importetiket; gebruiker bevestigt hetzelfde hechsjer voor vanille, chocolade en panna cotta."
   },
   {
+    "nutrition": {
+      "Energie": "543 kJ / 130 kcal",
+      "Vetten": "6,3 g",
+      "waarvan verzadigde vetzuren": "4,1 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "12,6 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,08 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://www.solucious.be/27573; Leveranciersgegevens verstrekt door fabrikant, exacte barcode; ingrediënten komen overeen.",
     "id": 63,
     "name": "Vruchtenzuiveldessert",
     "brand": "Nova",
@@ -2319,6 +2341,17 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Fysieke verpakking, aangeleverde foto’s."
   },
   {
+    "nutrition": {
+      "Energie": "398 kcal",
+      "Vetten": "29 g",
+      "waarvan verzadigde vetzuren": "18 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "33 g",
+      "Zout": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://kohlenhydrate.de/produkt/granterre-grana-padano-gerieben; Exacte barcode; vergeleken met Greens Malta. De verzadigde-vetwaarde 0 bij Greens is niet overgenomen.",
     "id": 55,
     "name": "Geraspte Grana Padano",
     "brand": "Agriform",
@@ -2343,6 +2376,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "7b4f96c4-fc00-441f-91e9-83491470d254.jpg"
   },
   {
+    "nutrition": {
+      "Energie": "1460 kJ / 349 kcal",
+      "Vetten": "31 g",
+      "waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "0,5 g",
+      "waarvan suikers": "0,3 g",
+      "Eiwitten": "17 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://www.foodfactor.net/produits/3176580025478/brir%2Bdes%2Bducs.php; Publieke etiketdatabase, exacte barcode en 175 g; ingrediënten niet volledig dus niet overgenomen.",
     "id": 37,
     "name": "Briepunt",
     "brand": "Brie des Ducs",
@@ -2402,6 +2446,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "221_Le-Maubert-300x228.png"
   },
   {
+    "nutrition": {
+      "Energie": "275 kcal",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
+      "Eiwitten": "20 g",
+      "Zout": "1,8 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://nutrifoodindex.com/product/camembert-royal; Publieke etiketdatabase, exacte barcode; ook bevestigd door CalculerSonIMC.",
     "id": 29,
     "name": "Royal Camembert",
     "brand": "Ermitage",
@@ -2474,6 +2529,17 @@ window.KPI_PRODUCTS = [
     "sourcePhoto": "211_Camembert-Saintois-300x256.png"
   },
   {
+    "nutrition": {
+      "Energie": "349 kcal",
+      "Vetten": "31 g",
+      "waarvan verzadigde vetzuren": "22 g",
+      "Koolhydraten": "0,5 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "17 g",
+      "Zout": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://nutrifoodindex.com/product/camembert-grand-fermage; Publieke etiketdatabase; fabrikant Eurial-catalogus 2025 bevestigt barcode en 240 g.",
     "id": 32,
     "name": "Camembert",
     "brand": "Grand Fermage",
@@ -2584,6 +2650,17 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "Beschikbare verpakkingsvermelding overgenomen op uitdrukkelijk verzoek van de gebruiker."
   },
   {
+    "nutrition": {
+      "Energie": "273 kcal",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
+      "Eiwitten": "20 g",
+      "Zout": "1,6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://nutrifoodindex.com/product/carre-de-l-est; Publieke etiketdatabase, exacte barcode en merk Ermitage.",
     "id": 35,
     "name": "Carré de L’Est Zachte Kaas",
     "brand": "Ermitage",
@@ -2683,6 +2760,17 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "nutrition": {
+      "Energie": "1134 kJ / 273 kcal",
+      "Vetten": "21,0 g",
+      "waarvan verzadigde vetzuren": "15,0 g",
+      "Koolhydraten": "1,0 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "20,0 g",
+      "Zout": "1,50 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://www.dekaaskoning.nl/documenten/02-Producten%20Internationale%20kaas/Fromage%20des%20Ducs%20220g.pdf; Productspecificatie Vandersterre, 19-07-2021, exacte barcode en 220 g.",
     "id": 31,
     "name": "Zachte Kaas",
     "brand": "Fromage des Ducs",
@@ -2769,6 +2857,17 @@ window.KPI_PRODUCTS = [
     "ingredientsNote": "Vetgehalte: 13%."
   },
   {
+    "nutrition": {
+      "Energie": "1208 kJ / 291 kcal",
+      "Vetten": "23 g",
+      "waarvan verzadigde vetzuren": "16,1 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
+      "Eiwitten": "20 g",
+      "Zout": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://shop.tila-lachenmaier.de/files/downloads/FLYER_801595.pdf; Productspecificatie Eurial, 18-01-2018, exacte barcode en 180 g; waarden aanvullend vergeleken met Frisco.",
     "id": 41,
     "name": "Gerijpte Geitenkaasrol",
     "brand": "Soignon",
@@ -3135,6 +3234,10 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "kosherLines": [
+      "Rav Moshe Alloun Aix-les-Bains"
+    ],
+    "kosherSource": "Hechsjernaam en plaats letterlijk op eerder door gebruiker aangeleverde fysieke verpakking; geen online certificeringsclaim. Bron: koeling-schap-2/source-labels/20261031-mozzarella/codex-clipboard-63fb56f5-1efb-45b4-aae8-24ea214365c2.jpg",
     "id": 53,
     "name": "Mozzarella",
     "brand": "Eden Gourmet",
@@ -3150,7 +3253,7 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
-    "kosher": "Nog te controleren",
+    "kosher": "Rav Moshe Alloun Aix-les-Bains",
     "image": "./images/mozzarella.webp?v=425cf8172651",
     "imageEdited": true,
     "detailsPending": false,
@@ -3174,15 +3277,17 @@ window.KPI_PRODUCTS = [
       "Zout": "1,2 g"
     },
     "nutritionUnit": "per 100 g",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Eigen aangeleverde foto Minimozzarella; leesbare Engelse en Franse ingrediëntenregel. Geen hechsjer bijgevoegd zonder productbewijs. Bron: koeling-schap-2/source-labels/20261031-minimozzarella/codex-clipboard-f4f43671-8d0a-4131-b3c9-46bf5a6b14ce.jpg",
     "id": 54,
     "name": "Minimozzarella",
     "brand": "Eden Gourmet",
     "category": "Kaas",
     "variant": "",
     "ean": "3760059040859",
-    "ingredients": "",
+    "ingredients": "Mozzarella (gepasteuriseerde koemelk, zout, zuurteregelaar (citroenzuur), microbieel stremsel), pekel (water, zout, zuurteregelaar (citroenzuur)).",
     "allergens": [
-      "MELK"
+      "Melk"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "Nog te controleren",

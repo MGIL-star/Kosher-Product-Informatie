@@ -1382,6 +1382,18 @@ window.KPI_PRODUCTS = [
     "ingredientsComplete": true
   },
   {
+    "nutrition": {
+      "Energie": "453 kJ / 108 kcal",
+      "Vetten": "2 g",
+      "waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "15 g",
+      "waarvan suikers": "5 g",
+      "Eiwitten": "4 g",
+      "Zout": "12 g",
+      "Vezels": "7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "https://www.opadistribution.fr/harissa-jr-150-g-c2x34840144; Distributeur, JR 150 g, exacte barcode.",
     "id": 41,
     "name": "Harissa",
     "brand": "JR",

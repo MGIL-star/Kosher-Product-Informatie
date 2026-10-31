@@ -1,0 +1,135 @@
+[
+  {
+    "folder": "koeling-schap-1",
+    "id": 41,
+    "name": "Harissa",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://www.opadistribution.fr/harissa-jr-150-g-c2x34840144",
+    "basis": "Distributeur, JR 150 g, exacte barcode."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 25,
+    "name": "Panna Cotta Karamel",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://www.sterilgarda.it/desserts/dessert/panna-cotta-al-caramello-sterilgarda-2x90g/",
+    "basis": "Fabrikant, exacte barcode en 2 x 90 g."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 63,
+    "name": "Vruchtenzuiveldessert",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://www.solucious.be/27573",
+    "basis": "Leveranciersgegevens verstrekt door fabrikant, exacte barcode; ingrediënten komen overeen."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 31,
+    "name": "Zachte Kaas",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://www.dekaaskoning.nl/documenten/02-Producten%20Internationale%20kaas/Fromage%20des%20Ducs%20220g.pdf",
+    "basis": "Productspecificatie Vandersterre, 19-07-2021, exacte barcode en 220 g."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 41,
+    "name": "Gerijpte Geitenkaasrol",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://shop.tila-lachenmaier.de/files/downloads/FLYER_801595.pdf",
+    "basis": "Productspecificatie Eurial, 18-01-2018, exacte barcode en 180 g; waarden aanvullend vergeleken met Frisco."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 37,
+    "name": "Briepunt",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://www.foodfactor.net/produits/3176580025478/brir%2Bdes%2Bducs.php",
+    "basis": "Publieke etiketdatabase, exacte barcode en 175 g; ingrediënten niet volledig dus niet overgenomen."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 29,
+    "name": "Royal Camembert",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://nutrifoodindex.com/product/camembert-royal",
+    "basis": "Publieke etiketdatabase, exacte barcode; ook bevestigd door CalculerSonIMC."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 35,
+    "name": "Carré de L’Est Zachte Kaas",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://nutrifoodindex.com/product/carre-de-l-est",
+    "basis": "Publieke etiketdatabase, exacte barcode en merk Ermitage."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 32,
+    "name": "Camembert",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://nutrifoodindex.com/product/camembert-grand-fermage",
+    "basis": "Publieke etiketdatabase; fabrikant Eurial-catalogus 2025 bevestigt barcode en 240 g."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 55,
+    "name": "Geraspte Grana Padano",
+    "fields": [
+      "nutrition",
+      "nutritionUnit"
+    ],
+    "source": "https://kohlenhydrate.de/produkt/granterre-grana-padano-gerieben",
+    "basis": "Exacte barcode; vergeleken met Greens Malta. De verzadigde-vetwaarde 0 bij Greens is niet overgenomen."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 53,
+    "name": "Mozzarella",
+    "fields": [
+      "kosher",
+      "kosherLines"
+    ],
+    "source": "koeling-schap-2/source-labels/20261031-mozzarella/codex-clipboard-63fb56f5-1efb-45b4-aae8-24ea214365c2.jpg",
+    "basis": "Hechsjernaam en plaats letterlijk op eerder door gebruiker aangeleverde fysieke verpakking; geen online certificeringsclaim."
+  },
+  {
+    "folder": "koeling-schap-2",
+    "id": 54,
+    "name": "Minimozzarella",
+    "fields": [
+      "ingredients",
+      "ingredientsComplete",
+      "allergens"
+    ],
+    "source": "koeling-schap-2/source-labels/20261031-minimozzarella/codex-clipboard-f4f43671-8d0a-4131-b3c9-46bf5a6b14ce.jpg",
+    "basis": "Eigen aangeleverde foto Minimozzarella; leesbare Engelse en Franse ingrediëntenregel. Geen hechsjer bijgevoegd zonder productbewijs."
+  }
+]
