@@ -678,6 +678,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "916 kJ / 220 kcal",
+      "Vetten": "13 g",
+      "waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "15 g",
+      "waarvan suikers": "3,4 g",
+      "Eiwitten": "7,7 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-zaatar/codex-clipboard-065df757-4d08-4ebf-9caf-a2e584ba78c2.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-153.png",
     "imageEdited": true,
