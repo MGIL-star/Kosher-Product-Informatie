@@ -894,7 +894,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "MELK, ROOM (MELK), startercultuur, zout.",
     "nutrition": { "Energie": "1227 kJ / 293 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "21 g", "Koolhydraten": "3,1 g", "waarvan suikers": "3,1 g", "Eiwitten": "8,6 g", "Zout": "0,4 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Samson roomkaas naturel-verpakking (EAN 5425000535577).",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-samson-naturel/codex-clipboard-cbe67c44-4610-4cb1-93db-b32948294a62.jpg.",
     "labelSources": ["source-labels/20261029-samson-roomkaas/samson-roomkaas-naturel-voedingswaarde.jpg", "source-labels/20261029-samson-roomkaas/samson-roomkaas-naturel-zijaanzicht.jpg"],
     "allergens": [
       "MELK"
@@ -936,7 +936,7 @@ window.KPI_PRODUCTS = [
     "ingredients": "Roomkaas met bieslook: MELK, ROOM (MELK), startercultuur, zout.",
     "nutrition": { "Energie": "1228 kJ / 293 kcal", "Vetten": "26,9 g", "waarvan verzadigde vetzuren": "20,9 g", "Koolhydraten": "3,2 g", "waarvan suikers": "3,1 g", "Eiwitten": "8,6 g", "Zout": "0,4 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op de aangeleverde Samson roomkaas met bieslook-verpakking (EAN 5425000535584).",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-samson-bieslook/codex-clipboard-98170273-03c6-492d-9e4a-1b43fb54ae52.jpg.",
     "labelSources": ["source-labels/20261029-samson-roomkaas/samson-roomkaas-bieslook-voedingswaarde.jpg", "source-labels/20261029-samson-roomkaas/samson-roomkaas-bieslook-voorkant.jpg"],
     "allergens": [
       "MELK"
@@ -1845,6 +1845,52 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
+    "id": 90,
+    "name": "Manchego AOP 3 Maanden Gerijpt",
+    "brand": "Ravet",
+    "category": "Kaas",
+    "variant": "150 g",
+    "ean": "3700701300306",
+    "ingredients": "",
+    "ingredientsComplete": false,
+    "allergens": [],
+    "allergensConfirmedAbsent": false,
+    "kosher": "Rav Schlesinger Genève",
+    "kosherLines": ["Rav Schlesinger Genève"],
+    "kosherSource": "Door gebruiker bevestigd op 31 oktober 2026: dezelfde hechsjer als Rav Schlesinger Genève op het aangeleverde referentie-etiket.",
+    "image": "./images/ravet-manchego-aop-150g.png",
+    "imageEdited": true,
+    "detailsPending": true,
+    "productInfo": {
+      "Rijping": "3 maanden",
+      "Herkomst": "Spanje"
+    },
+    "nutrition": {
+      "Energie": "1913 kJ / 457 kcal",
+      "Vetten": "39 g",
+      "waarvan verzadigde vetzuren": "29 g",
+      "Koolhydraten": "0,6 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "26 g",
+      "Zout": "1,60 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-ravet-manchego/codex-clipboard-e8320896-52be-466a-a21e-89f20c8add44.jpg.",
+    "barcodeSource": "Afgelezen op de aangeleverde fysieke verpakking: 3700701300306.",
+    "supplementalLabelSource": {
+      "date": "2026-10-31",
+      "directory": "koeling-schap-2/source-labels/20261031-ravet-manchego",
+      "photos": [
+        "codex-clipboard-e8320896-52be-466a-a21e-89f20c8add44.jpg"
+      ]
+    },
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-e8320896-52be-466a-a21e-89f20c8add44.jpg",
+      "edit": "Gesloten verpakking rechtop op witte achtergrond; datumstickers verwijderd."
+    }
+  },
+  {
     "id": 38,
     "name": "Emmentaler",
     "brand": "Vert Bosquet",
@@ -2429,6 +2475,19 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "247 kcal",
+      "Vetten": "19 g",
+      "waarvan verzadigde vetzuren": "12 g",
+      "Transvetzuren": "0,7 g",
+      "Cholesterol": "70 mg",
+      "Natrium": "600 mg",
+      "Koolhydraten": "2 g",
+      "waarvan suikers": "2 g",
+      "Eiwitten": "17 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-minigeitenkaasrol-naturel/codex-clipboard-61f533b8-1d47-40b7-b02d-16d0ff4f1171.jpg.",
     "kosher": "Triangle K",
     "image": "./images/mini-geit-naturel-gelijk.png",
     "imageEdited": true,
@@ -2500,7 +2559,7 @@ window.KPI_PRODUCTS = [
     "ean": "3523230065467",
     "nutrition": { "Energie": "816 kJ / 197 kcal", "Vetten": "17 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "10 g", "Zout": "1,2 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Soignon geitenkaaspiramide met knoflook en kruiden-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-geitenkaaspiramide-kruiden/codex-clipboard-f200e591-d1e9-4ea6-8171-45ba5e98edff.jpg.",
     "labelSources": ["source-labels/20261029-revisie/soignon-piramide-kruiden-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde geitenmelk (MELK), water, gepasteuriseerde geitenroom (MELK), fijne kruiden (1,8%), zout, knoflook (0,65%), culturen (MELK), stremsel.",
     "allergens": [
@@ -2535,7 +2594,7 @@ window.KPI_PRODUCTS = [
     "ean": "3760016940376",
     "nutrition": { "Energie": "1305 kJ / 315 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "2 g", "waarvan suikers": "0,5 g", "Eiwitten": "16 g", "Zout": "2,2 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Gabriel Coulet Salad’Aperos schapenkaas-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-schapenkaas-plak/codex-clipboard-16284e01-f167-43be-85b3-4e59776d1800.jpg.",
     "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-saladaperos-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde schapenmelk (MELK) (herkomst Frankrijk), zout, stremsel, melkzuurculturen (MELK), voedingszuur E575.",
     "allergens": [
@@ -2580,7 +2639,7 @@ window.KPI_PRODUCTS = [
     "ean": "3760016942431",
     "nutrition": { "Energie": "1305 kJ / 315 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "2 g", "waarvan suikers": "0,5 g", "Eiwitten": "16 g", "Zout": "3,0 g" },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Voedingswaardetabel op het aangeleverde Gabriel Coulet Salad’Aperos cubes-etiket.",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-schapenkaasblokjes/codex-clipboard-2d24f587-a0af-40c1-a397-2d1b6550af6c.jpg.",
     "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-saladaperos-cubes-voedingswaarde.jpg"],
     "ingredients": "Gepasteuriseerde schapenmelk (MELK) (herkomst Frankrijk), zout, stremsel, melkzuurculturen (MELK), voedingszuur E575.",
     "allergens": [
@@ -2688,6 +2747,20 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "246 kcal",
+      "Vetten": "22 g",
+      "waarvan verzadigde vetzuren": "11 g",
+      "Transvetzuren": "0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "1200 mg",
+      "Koolhydraten": "2 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "10 g",
+      "Calcium": "490 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-kolios-kaasblokjes/codex-clipboard-eae64b19-d69b-4fe6-8b55-305d364a65b1.jpg.",
     "kosher": "Goedgekeurd door het Opperrabbinaat Israël",
     "kosherLines": [
       "Goedgekeurd door het Opperrabbinaat Israël",
