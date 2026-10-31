@@ -1936,6 +1936,17 @@ window.KPI_PRODUCTS = [
     "ingredientsComplete": true,
     "allergens": [],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "544 kJ / 130 kcal",
+      "Vetten": "4,0 g",
+      "waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "0,3 g",
+      "waarvan suikers": "<0,1 g",
+      "Eiwitten": "23,2 g",
+      "Zout": "2,0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-pastrami/codex-clipboard-4f809c74-bd05-4f6e-b196-55632a0cc622.jpg.",
     "kosher": "London Board for Shechita",
     "kosherLines": ["London Board for Shechita"],
     "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
