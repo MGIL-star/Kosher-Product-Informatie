@@ -637,6 +637,17 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "allergensConfirmedAbsent": false,
+    "nutrition": {
+      "Energie": "801 kJ / 192 kcal",
+      "Vetten": "11 g",
+      "waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "3,3 g",
+      "Eiwitten": "6,8 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-hummus-masbacha/codex-clipboard-f8f932a0-7290-4c61-b3fb-b4394951901c.jpg.",
     "kosher": "Badatz Beit Yosef",
     "image": "./images/eden-151.png",
     "imageEdited": true,
