@@ -82,15 +82,19 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "6097418926903",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Kikkererwten (water, rijsmiddel: E500(ii)), zonnebloemolie, sesamzaad, water, zuurteregelaar: E330, knoflook, zout, conserveermiddel: E202.",
+    "allergens": [
+      "Sesam"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-hummus-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 5, code 016, aangeleverd op 1 november 2026."
   },
   {
     "nutrition": {
@@ -111,15 +115,19 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "0796967649856",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Water, sesamzaad, citroensap (conserveermiddel: E224), knoflook, zout, zuurteregelaar: citroenzuur, conserveermiddel: E202, peterselie.",
+    "allergens": [
+      "Sesam"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-tahin-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 6, code 029, aangeleverd op 1 november 2026."
   },
   {
     "nutrition": {
@@ -140,15 +148,20 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "0796967650210",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Aubergine, ui, zonnebloemolie, gekookte eieren, mayonaise (plantaardige olie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), suiker, zout, conserveermiddel: E202.",
+    "allergens": [
+      "Ei",
+      "Mosterd"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-auberginepate-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 7, code 012, aangeleverd op 1 november 2026."
   },
   {
     "id": 24,
@@ -208,15 +221,20 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "0796567649935",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Aubergine 49%, mayonaise (plantaardige olie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), knoflook, zout.",
+    "allergens": [
+      "Ei",
+      "Mosterd"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-gegrilde-auberginedip-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 8, code 014, aangeleverd op 1 november 2026."
   },
   {
     "id": 30,
@@ -224,16 +242,19 @@ window.KPI_PRODUCTS = [
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ean": "0796967649740",
+    "ingredients": "Aubergine (48%), mayonaise (plantaardige olie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), knoflook, zout.",
+    "allergens": [
+      "Ei",
+      "Mosterd"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-auberginedip-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "nutrition": {
       "Energie": "1539,6 kJ / 367,5 kcal",
       "Vetten": "38,8 g",
@@ -244,7 +265,9 @@ window.KPI_PRODUCTS = [
       "Zout": "0,5 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Aubergine Dip (code 001), per 100 g."
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Aubergine Dip (code 001), per 100 g.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 9, code 001, aangeleverd op 1 november 2026."
   },
   {
     "id": 59,
@@ -390,16 +413,16 @@ window.KPI_PRODUCTS = [
     "brand": "Tasty Food",
     "category": "Salades & dips",
     "variant": "200 g",
-    "ean": "",
-    "ingredients": "Nog te controleren",
+    "ean": "0796967650500",
+    "ingredients": "Tomaten, zonnebloemolie, pepers, paprika, tomatenpasta, knoflookpuree (knoflook, water, azijn, zout, conserveermiddel: E202), suiker, zout, specerijen.",
     "allergens": [],
-    "allergensConfirmedAbsent": false,
+    "allergensConfirmedAbsent": true,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-matbucha-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "nutrition": {
       "Energie": "230,3 kJ / 54,7 kcal",
       "Vetten": "0,4 g",
@@ -410,7 +433,9 @@ window.KPI_PRODUCTS = [
       "Zout": "0,9 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Matbucha (code 021), per 100 g."
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 October 2026), Matbucha (code 021), per 100 g.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 10, code 021, aangeleverd op 1 november 2026."
   },
   {
     "nutrition": {
@@ -431,25 +456,36 @@ window.KPI_PRODUCTS = [
     "category": "Salades & dips",
     "variant": "200 g",
     "ean": "0796967649788",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "ingredients": "Tonijn, plantaardige bouillon, mayonaise (raapzaadolie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren E412, E415, conserveermiddelen E202, E211, zuurteregelaar E575, antioxidant E385), gekookte eieren, water, zout, E330, E331, E211, E260, zout.",
+    "allergens": [
+      "Vis (tonijn)",
+      "Ei",
+      "Mosterd"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-tonijn-ei-closed.png",
     "imageEdited": true,
     "productInfo": {},
     "kosherStatus": "Parve",
-    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn."
+    "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 11, code 033, aangeleverd op 1 november 2026."
   },
   {
     "id": 25,
     "name": "Tonijnsalade met Bosui",
     "brand": "Tasty Food",
     "category": "Salades & dips",
-    "variant": "",
-    "ean": "",
-    "ingredients": "Nog te controleren",
-    "allergens": [],
+    "variant": "200 g",
+    "ean": "0796967650227",
+    "ingredients": "Tonijn 38% (tonijn, sojaolie, water, zout, plantaardige bouillon), mayonaise (raapzaadolie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren E412, E415, conserveermiddelen E202, E211, zuurteregelaar E575, antioxidant E385), ajuinpoeder.",
+    "allergens": [
+      "Vis (tonijn)",
+      "Soja",
+      "Ei",
+      "Mosterd"
+    ],
     "allergensConfirmedAbsent": false,
     "kosher": "Machzike Hadas Antwerpen (Parve)",
     "image": "./images/tasty-tonijn-bosui-closed.png",
@@ -467,7 +503,9 @@ window.KPI_PRODUCTS = [
       "Zout": "1,0 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Tasty Foods Nutrition Facts (29 oktober 2026), Tuna Deluxe (code 032), per 100 g."
+    "nutritionSource": "Tasty Foods Nutrition Facts (29 oktober 2026), Tuna Deluxe (code 032), per 100 g.",
+    "ingredientsComplete": true,
+    "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 12, code 032, aangeleverd op 1 november 2026. Tuna Deluxe is door gebruiker bevestigd als Tonijnsalade met Bosui."
   },
   {
     "id": 29,

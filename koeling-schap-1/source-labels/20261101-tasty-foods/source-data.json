@@ -1,0 +1,90 @@
+[
+  {
+    "row": "5",
+    "A": "Klassieke Hummus",
+    "B": "Classic Hummus",
+    "C": "016",
+    "D": "6097418926903",
+    "E": "200 g",
+    "F": "kikkererwten (water, rijsmiddel: E500(ii)), zonnebloemolie, SESAMZAAD, water, zuurteregelaar: E330, knoflook, zout, conserveermiddel: E202.",
+    "G": "Sesam",
+    "H": ""
+  },
+  {
+    "row": "6",
+    "A": "Tehina",
+    "B": "Tehina",
+    "C": "029",
+    "D": "0796967649856",
+    "E": "200 g",
+    "F": "water, SESAMZAAD, citroensap (conserveermiddel: E224), knoflook, zout, zuurteregelaar: citroenzuur, conserveermiddel: E202, peterselie",
+    "G": "Sesam",
+    "H": ""
+  },
+  {
+    "row": "7",
+    "A": "Auberginepaté",
+    "B": "Eggplant Pate",
+    "C": "012",
+    "D": "0796967650210",
+    "E": "200 g",
+    "F": "aubergine, ui, zonnebloemolie, gekookte EIEREN, mayonaise (plantaardige olie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), suiker, zout, conserveermiddel: E202.",
+    "G": "Ei, mosterd",
+    "H": ""
+  },
+  {
+    "row": "8",
+    "A": "Gegrilde Auberginedip",
+    "B": "Grilled Aubergine Dip",
+    "C": "014",
+    "D": "0796567649935",
+    "E": "200 g",
+    "F": "aubergine 49%, mayonaise (plantaardige olie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), knoflook, zout.",
+    "G": "Ei, mosterd",
+    "H": ""
+  },
+  {
+    "row": "9",
+    "A": "Auberginedip",
+    "B": "Aubergine Dip",
+    "C": "001",
+    "D": "0796967649740",
+    "E": "200 g",
+    "F": "aubergine (48%), mayonaise (plantaardige olie, EIGEEL, water, azijn, zout, MOSTERD, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), knoflook, zout.",
+    "G": "Ei, mosterd",
+    "H": ""
+  },
+  {
+    "row": "10",
+    "A": "Matbucha",
+    "B": "Matbucha",
+    "C": "021",
+    "D": "0796967650500",
+    "E": "200 g",
+    "F": "tomaten, zonnebloemolie, pepers, paprika, tomatenpasta, knoflookpuree (knoflook, water, azijn, zout, conserveermiddel: E202), suiker, zout, specerijen.",
+    "G": "Geen",
+    "H": ""
+  },
+  {
+    "row": "11",
+    "A": "Tonijn Eisalade",
+    "B": "Tuna & Egg",
+    "C": "033",
+    "D": "0796967649788",
+    "E": "200 g",
+    "F": "TONIJN ,plantaadige bouilon, mayonaise (raapzaadolie, EIGEEL, water, azijn, zout,MOSTERD, suiker, specerijenextract, stabilisatorenE412, E415, conserveermiddelen E202, E211, zuurteregelaar E575, antioxidant E385), gekookte EIEREN, water,zout, E330, E331, E211, E260, zout",
+    "G": "Vis (tonijn), ei, mosterd",
+    "H": ""
+  },
+  {
+    "row": "12",
+    "A": "Tonijn Deluxe",
+    "B": "Tuna Deluxe",
+    "C": "032",
+    "D": "0796967650227",
+    "E": "200 g",
+    "F": "TONIJN 38% (TONIJN, SOJAolie,water, zout,plantaardige bouilon), mayonaise(raapzaadolie, EIGEEL, water, azijn, zout,MOSTERD,suiker, specerijenextract, stabilisatoren E412, E415,conserveermiddelen E202, E211, zuurteregelaarE575, antioxidant E385), ajuinpoeder",
+    "G": "Vis (tonijn), soja, ei, mosterd",
+    "H": ""
+  }
+]

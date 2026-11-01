@@ -18,7 +18,7 @@
     'Diepvries: Bagels · Pizza · Deegwaren', 'Diepvries: Snacks · Vegetarisch · IJs'
   ];
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
-  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261031-koelingen-webonderzoek'});
+  sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261101-tasty-food-ingredienten'});
   sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261101-minimozzarella-hechsjer'});
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();

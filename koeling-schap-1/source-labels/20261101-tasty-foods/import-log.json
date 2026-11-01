@@ -1,0 +1,124 @@
+[
+  {
+    "id": 21,
+    "name": "Klassieke Hummus",
+    "ean": "6097418926903",
+    "changes": {
+      "ingredients": "Kikkererwten (water, rijsmiddel: E500(ii)), zonnebloemolie, sesamzaad, water, zuurteregelaar: E330, knoflook, zout, conserveermiddel: E202.",
+      "allergens": [
+        "Sesam"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 5, code 016, aangeleverd op 1 november 2026."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Tahindip",
+    "ean": "0796967649856",
+    "changes": {
+      "ingredients": "Water, sesamzaad, citroensap (conserveermiddel: E224), knoflook, zout, zuurteregelaar: citroenzuur, conserveermiddel: E202, peterselie.",
+      "allergens": [
+        "Sesam"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 6, code 029, aangeleverd op 1 november 2026."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Auberginepaté",
+    "ean": "0796967650210",
+    "changes": {
+      "ingredients": "Aubergine, ui, zonnebloemolie, gekookte eieren, mayonaise (plantaardige olie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), suiker, zout, conserveermiddel: E202.",
+      "allergens": [
+        "Ei",
+        "Mosterd"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 7, code 012, aangeleverd op 1 november 2026."
+    }
+  },
+  {
+    "id": 27,
+    "name": "Gegrilde Auberginedip",
+    "ean": "0796567649935",
+    "changes": {
+      "ingredients": "Aubergine 49%, mayonaise (plantaardige olie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), knoflook, zout.",
+      "allergens": [
+        "Ei",
+        "Mosterd"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 8, code 014, aangeleverd op 1 november 2026."
+    }
+  },
+  {
+    "id": 30,
+    "name": "Auberginedip",
+    "ean": "0796967649740",
+    "changes": {
+      "ingredients": "Aubergine (48%), mayonaise (plantaardige olie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren: E412, E415, conserveermiddelen: E202, E211, zuurteregelaar: E575, antioxidant: E385), knoflook, zout.",
+      "allergens": [
+        "Ei",
+        "Mosterd"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 9, code 001, aangeleverd op 1 november 2026.",
+      "ean": "0796967649740"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Matbucha",
+    "ean": "0796967650500",
+    "changes": {
+      "ingredients": "Tomaten, zonnebloemolie, pepers, paprika, tomatenpasta, knoflookpuree (knoflook, water, azijn, zout, conserveermiddel: E202), suiker, zout, specerijen.",
+      "allergens": [],
+      "allergensConfirmedAbsent": true,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 10, code 021, aangeleverd op 1 november 2026.",
+      "ean": "0796967650500"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Tonijn Eisalade",
+    "ean": "0796967649788",
+    "changes": {
+      "ingredients": "Tonijn, plantaardige bouillon, mayonaise (raapzaadolie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren E412, E415, conserveermiddelen E202, E211, zuurteregelaar E575, antioxidant E385), gekookte eieren, water, zout, E330, E331, E211, E260, zout.",
+      "allergens": [
+        "Vis (tonijn)",
+        "Ei",
+        "Mosterd"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 11, code 033, aangeleverd op 1 november 2026."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Tonijnsalade met Bosui",
+    "ean": "0796967650227",
+    "changes": {
+      "ingredients": "Tonijn 38% (tonijn, sojaolie, water, zout, plantaardige bouillon), mayonaise (raapzaadolie, eigeel, water, azijn, zout, mosterd, suiker, specerijenextract, stabilisatoren E412, E415, conserveermiddelen E202, E211, zuurteregelaar E575, antioxidant E385), ajuinpoeder.",
+      "allergens": [
+        "Vis (tonijn)",
+        "Soja",
+        "Ei",
+        "Mosterd"
+      ],
+      "allergensConfirmedAbsent": false,
+      "ingredientsComplete": true,
+      "ingredientsSource": "Tasty_Foods_Ingredienten_Allergenen_Barcodes.xlsx, rij 12, code 032, aangeleverd op 1 november 2026. Tuna Deluxe is door gebruiker bevestigd als Tonijnsalade met Bosui.",
+      "ean": "0796967650227",
+      "variant": "200 g"
+    }
+  }
+]
