@@ -3290,7 +3290,8 @@ window.KPI_PRODUCTS = [
       "Melk"
     ],
     "allergensConfirmedAbsent": false,
-    "kosher": "Nog te controleren",
+    "kosher": "Rav Moshe Alloun Aix-les-Bains",
+    "kosherSource": "Door gebruiker bevestigd voor Minimozzarella op 1 november 2026.",
     "image": "./images/mozzarella-mini.webp?v=8f0d1cd03a80",
     "imageEdited": true,
     "detailsPending": true,
