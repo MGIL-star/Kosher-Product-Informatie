@@ -1,6 +1,14 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
+    "nutrition": {
+      "Energie": "240 kcal",
+      "Vetten": "3,2 g",
+      "Koolhydraten": "24,5 g",
+      "Eiwitten": "3,8 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Door gebruiker aangeleverde voedingswaarden voor advocaat 14% v/v, 2 november 2026, per 100 g." ,
     "name": "Advocaat Original",
     "brand": "Cooymans",
     "category": "Advocaat",
