@@ -10,6 +10,9 @@
   for (const source of sources) {
     if (['meter-1', 'meter-2', 'diepvries-schap-2', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=' + (source.folder === 'meter-2' ? '20261102-advocaat-voedingswaarden' : '20261102-etiket-voedingswaarden');
   }
+  for (const source of sources) {
+    if (['meter-2', 'meter-6'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261102-pinot-fitness';
+  }
   const sectionTitles = [
     'Water · Vruchtensappen', 'Wijn · Druivensap', 'Olie · Azijn · Dranken',
     'Groenten · Olijven · Augurken', 'Sauzen · Soepen · Visconserven',

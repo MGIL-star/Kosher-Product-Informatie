@@ -8,7 +8,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "3,8 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Door gebruiker aangeleverde voedingswaarden voor advocaat 14% v/v, 2 november 2026, per 100 g." ,
+    "nutritionSource": "Door gebruiker aangeleverde voedingswaarden voor advocaat 14% v/v, 2 november 2026, per 100 g.",
     "name": "Advocaat Original",
     "brand": "Cooymans",
     "category": "Advocaat",
@@ -1532,14 +1532,21 @@ window.KPI_PRODUCTS = [
     },
     "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
     "nutrition": {
-      "Energie": "301 kJ / 71 kcal"
+      "Energie": "301 kJ / 71 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
     },
     "nutritionUnit": "per 100 ml",
-    "nutritionSource": "Uitsluitend de leesbare energiewaarde op het eigen Pinot Noir-etiket, 2 november 2026.",
+    "nutritionSource": "Eigen energiewaarde van Pinot Noir behouden. Op uitdrukkelijk verzoek gebruiker op 2 november 2026 overige waarden overgenomen van aangeleverde Barkan Classic Cabernet Sauvignon-tabel, als vergelijkbare droge rode Barkan Classic-wijn (13%). Geen eigen bevestiging van deze aanvullende macronutriënten.",
     "nutritionLabelSources": [
       "meter-2/source-labels/20261102-nutrition/codex-clipboard-02382faf-4228-409d-9935-bbbac6179962.jpg",
       "meter-2/source-labels/20261102-nutrition/codex-clipboard-0f26c3f7-21ac-48b6-901f-3bb8e57b72cf.jpg"
-    ]
+    ],
+    "nutritionEstimated": true
   },
   {
     "id": 25,

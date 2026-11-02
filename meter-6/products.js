@@ -507,7 +507,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
-    "brand": "Osem",
+    "brand": "Nestlé",
     "name": "Dunne Crackers met Kalamata Olijven en Kruiden",
     "variant": "140 g",
     "ean": "077544004320",
@@ -539,7 +539,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
-    "brand": "Osem",
+    "brand": "Nestlé",
     "name": "Dunne Crackers met Rode Biet",
     "variant": "140 g",
     "ean": "077544004344",
