@@ -1235,7 +1235,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "0 g",
       "Zout": "0 g"
     },
-    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionUnit": "per 100 ml",
     "nutritionEstimated": true,
     "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.israel-spezialitaeten.de/Barkan-Classic-Merlot-Argaman-Rotwein/OS-6167"
   },
@@ -2021,7 +2021,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "0 g",
       "Zout": "0 g"
     },
-    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionUnit": "per 100 ml",
     "nutritionEstimated": true,
     "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.mck.co.il/categories/81224/products?catalogProduct=11324"
   },
@@ -2111,7 +2111,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "0 g",
       "Zout": "0 g"
     },
-    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionUnit": "per 100 ml",
     "nutritionEstimated": true,
     "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.israel-spezialitaeten.de/Barkan-Reserve-Merlot-Rotwein/OS-70022"
   },
@@ -2181,7 +2181,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "0 g",
       "Zout": "0 g"
     },
-    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionUnit": "per 100 ml",
     "nutritionEstimated": true,
     "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.barkan-winery.co.il/en/wines/platinum-series/platinum-cabernet-sauvignon"
   },

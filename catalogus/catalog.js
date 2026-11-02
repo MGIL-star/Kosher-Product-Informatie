@@ -8,7 +8,7 @@
   const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261022-mojito-name-fix':i===3?'assets/js/products-meter-4.js':i===4?'meter-5/products.js?v=20261022-harissa-barcode-hechsher':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===14?'meter-15/products.js?v=20261022-doritos-size-match':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js?v=20261031-tilapiafilets-voedingswaarden`});
   for (const source of sources) {
-    if (['meter-1', 'meter-2', 'diepvries-schap-2', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261102-etiket-voedingswaarden';
+    if (['meter-1', 'meter-2', 'diepvries-schap-2', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=' + (source.folder === 'meter-2' ? '20261102-wijnweergave' : '20261102-etiket-voedingswaarden');
   }
   const sectionTitles = [
     'Water · Vruchtensappen', 'Wijn · Druivensap', 'Olie · Azijn · Dranken',
