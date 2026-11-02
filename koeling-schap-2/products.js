@@ -5,7 +5,7 @@ window.KPI_PRODUCTS = [
     "brand": "Shefa",
     "category": "Yoghurt",
     "variant": "500 g",
-    "ean": "",
+    "ean": "8711723922204",
     "ingredients": "Volle MELK, yoghurtzuursel.",
     "allergens": [
       "MELK"
@@ -32,7 +32,8 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/about/kashrus"
     ],
     "ingredientsComplete": true,
-    "ingredientsSource": "Shefaco noemt verse volle melk en melkzuur/probioticaculturen; Panzer’s vermeldt volle melk en yoghurtculturen voor Shefa naturel 125 g."
+    "ingredientsSource": "Shefaco noemt verse volle melk en melkzuur/probioticaculturen; Panzer’s vermeldt volle melk en yoghurtculturen voor Shefa naturel 125 g.",
+    "barcodeSource": "Fysieke verpakking, aangeleverde foto op 2 november 2026: koeling-schap-2/source-labels/20261102-shefa-barcodes/codex-clipboard-6c54d7a4-d1a5-48b9-a862-6d8652a700d9.jpg"
   },
   {
     "id": 8,
@@ -260,7 +261,7 @@ window.KPI_PRODUCTS = [
     "brand": "Shefa",
     "category": "Yoghurt",
     "variant": "125 g",
-    "ean": "",
+    "ean": "8711723932135",
     "ingredients": "Volle MELK, yoghurtzuursel.",
     "allergens": [
       "MELK"
@@ -287,7 +288,8 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/about/kashrus"
     ],
     "ingredientsComplete": true,
-    "ingredientsSource": "Shefaco noemt verse volle melk en melkzuur/probioticaculturen; Panzer’s vermeldt volle melk en yoghurtculturen voor Shefa naturel 125 g."
+    "ingredientsSource": "Shefaco noemt verse volle melk en melkzuur/probioticaculturen; Panzer’s vermeldt volle melk en yoghurtculturen voor Shefa naturel 125 g.",
+    "barcodeSource": "Fysieke verpakking, aangeleverde foto op 2 november 2026: koeling-schap-2/source-labels/20261102-shefa-barcodes/codex-clipboard-1c2ff3c2-414e-4b9a-bc09-6d6dd25b7db0.jpg"
   },
   {
     "id": 2,
@@ -416,7 +418,7 @@ window.KPI_PRODUCTS = [
       "Yoghurt"
     ],
     "variant": "125 g",
-    "ean": "",
+    "ean": "8711723932173",
     "ingredients": "Volle melk, suiker, gemodificeerd maïszetmeel, vanilline, kleurstof (bètacaroteen).",
     "allergens": [
       "MELK"
@@ -446,7 +448,8 @@ window.KPI_PRODUCTS = [
     "ingredientSourcePhotos": [
       "source-labels/20261015-incoming/codex-clipboard-b572d46e-c6e2-464c-a285-2b36da2088c7.jpg",
       "source-labels/20261015-incoming/codex-clipboard-247c333c-4505-41c3-bac8-0857ee090611.jpg"
-    ]
+    ],
+    "barcodeSource": "Fysieke verpakking, aangeleverde foto op 2 november 2026: koeling-schap-2/source-labels/20261102-shefa-barcodes/codex-clipboard-1559b333-72a5-41d8-a679-c9b72bed07b4.jpg"
   },
   {
     "id": 6,
@@ -457,7 +460,7 @@ window.KPI_PRODUCTS = [
       "Yoghurt"
     ],
     "variant": "125 g",
-    "ean": "",
+    "ean": "8711723932166",
     "ingredients": "Volle MELK, suiker, gemodificeerd maïszetmeel, cacaopoeder.",
     "allergens": [
       "MELK"
@@ -483,7 +486,8 @@ window.KPI_PRODUCTS = [
       "https://shefaco.be/about/kashrus"
     ],
     "ingredientsComplete": true,
-    "ingredientsSource": "Zelfde Shefa Chocolate Vla/Pudding-recept als de 500 g-variant; fabrikant vermeldt beide formaten als dezelfde productvariant."
+    "ingredientsSource": "Zelfde Shefa Chocolate Vla/Pudding-recept als de 500 g-variant; fabrikant vermeldt beide formaten als dezelfde productvariant.",
+    "barcodeSource": "Fysieke verpakking, aangeleverde foto op 2 november 2026: koeling-schap-2/source-labels/20261102-shefa-barcodes/codex-clipboard-e686a0f3-45d8-40f8-ad5f-8b21629ef7b3.jpg"
   },
   {
     "nutrition": {
@@ -2131,7 +2135,7 @@ window.KPI_PRODUCTS = [
     "imageEdited": true
   },
   {
-    "ingredientsSource": "Op uitdrukkelijk verzoek van de gebruiker op 31 oktober 2026 voorlopig overgenomen van Manchego minimaal 6 maanden gerijpt, barcode 8436025982762; eigen ingrediëntenetiket Ravet 3 maanden nog te ontvangen.",
+    "ingredientsSource": "Eigen fysieke Ravet-verpakking met barcode 3700701300306, aangeleverd op 2 november 2026. Vervangt de voorlopig overgenomen ingrediënten van de 6 maanden gerijpte kaas.",
     "notice": "Korst niet eetbaar.",
     "id": 90,
     "name": "Manchego AOP 3 Maanden Gerijpt",
@@ -2139,14 +2143,17 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3700701300306",
-    "ingredients": "Gepasteuriseerde schapenmelk, melkzuurculturen (K), calciumchloride, koosjere lysozym (OU), stremsel (K), zout.",
+    "ingredients": "Gepasteuriseerde manchega-schapenmelk, zout, melkzuurculturen, stabilisator (calciumchloride), stremsel, conserveermiddel (lysozym (bevat ei)).",
     "ingredientsComplete": true,
     "allergens": [
-      "Melk"
+      "Melk",
+      "Ei"
     ],
     "allergensConfirmedAbsent": false,
     "kosher": "Rav Schlesinger Genève",
-    "kosherLines": ["Rav Schlesinger Genève"],
+    "kosherLines": [
+      "Rav Schlesinger Genève"
+    ],
     "kosherSource": "Door gebruiker bevestigd op 31 oktober 2026: dezelfde hechsjer als Rav Schlesinger Genève op het aangeleverde referentie-etiket.",
     "image": "./images/ravet-manchego-aop-150g.png",
     "imageEdited": true,
@@ -2178,7 +2185,12 @@ window.KPI_PRODUCTS = [
       "type": "Bewerkte fysieke verpakkingsfoto",
       "photo": "codex-clipboard-e8320896-52be-466a-a21e-89f20c8add44.jpg",
       "edit": "Gesloten verpakking rechtop op witte achtergrond; datumstickers verwijderd."
-    }
+    },
+    "labelSources": [
+      "koeling-schap-2/source-labels/20261102-ravet-manchego/codex-clipboard-6d92cc6e-7c56-4fdb-a57b-e2e56c31aabc.jpg",
+      "koeling-schap-2/source-labels/20261102-ravet-manchego/codex-clipboard-80747f0f-d1eb-4a1c-955e-a53d641eac69.jpg",
+      "koeling-schap-2/source-labels/20261102-ravet-manchego/codex-clipboard-f12ee819-4817-4cad-b60d-0b65bec532b6.jpg"
+    ]
   },
   {
     "id": 38,

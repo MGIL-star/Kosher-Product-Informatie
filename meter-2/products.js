@@ -124,7 +124,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2262779863394165
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "305 kJ / 73 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,9 g",
+      "waarvan suikers": "1,7 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-f5434ee6-9d8d-4a85-b132-08fa3aa7b838.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-7286fde0-3202-40e3-b924-be5e41d569af.png"
+    ]
   },
   {
     "id": 3,
@@ -181,7 +196,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.22065733476465102
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "309 kJ / 74 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "3,1 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-099517d2-0e0d-477f-a62f-9bb553383d0e.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-92c16e03-9abf-436e-9750-ee51c3099434.png"
+    ]
   },
   {
     "id": 26,
@@ -277,7 +307,22 @@ window.KPI_PRODUCTS = [
       ]
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "276 kJ / 66 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "1,9 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-c9d21fed-ba9e-4e26-90ac-22aa696b1646.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-28238e6f-83c2-404d-8329-bfca7781dcde.png"
+    ]
   },
   {
     "id": 4,
@@ -335,7 +380,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.22675825518023013
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "309 kJ / 74 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,7 g",
+      "waarvan suikers": "1,4 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-4ed1a8e1-5728-4fbe-87df-3bdb507f08f3.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-2eefc8e7-3bda-46ba-b358-94329e0a0e5b.png"
+    ]
   },
   {
     "id": 5,
@@ -397,7 +457,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.23157914643441985
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "322 kJ / 77 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,8 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-f6b630b5-a512-4348-9fe6-079b83060172.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-6a2b4ddd-1e01-4868-ac31-77ca5fe54bdc.png"
+    ]
   },
   {
     "id": 6,
@@ -455,7 +530,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.22708716567447046
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "284 kJ / 68 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "1,2 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-002175d6-5614-449c-821c-62e181cd561d.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-fab83195-b795-4c5b-88a6-530e04efcfd0.png"
+    ]
   },
   {
     "id": 7,
@@ -517,7 +607,22 @@ window.KPI_PRODUCTS = [
       "height": 0.8995,
       "aspectRatio": 0.2290161200667037
     },
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "439 kJ / 105 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "8,5 g",
+      "waarvan suikers": "7,5 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-f0a6bf1c-e980-4b11-9e32-56680edf1f4f.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-940246b4-7abc-4833-afdc-a3d085cdbbf2.png"
+    ]
   },
   {
     "brand": "Barkan",
@@ -582,7 +687,22 @@ window.KPI_PRODUCTS = [
       }
     ],
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "309 kJ / 74 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "10 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-348dd83d-62a7-49f7-83fe-87fccf1d159e.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-d131f762-a324-47d2-9efe-ad76c100addc.png"
+    ]
   },
   {
     "id": 8,
@@ -659,7 +779,22 @@ window.KPI_PRODUCTS = [
       ]
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "309 kJ / 74 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "1,8 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-0af17ccd-f9b6-40be-821f-17dea25ef118.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-ed5811e1-fd05-4b16-8e62-553f699b501c.png"
+    ]
   },
   {
     "id": 9,
@@ -717,7 +852,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2642504193249697
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "301 kJ / 72 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "1,8 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-9b6e5a6a-5acf-47c6-a2d6-a3f54c421806.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-f6647e84-bda3-4790-8082-7c9512e781ab.png"
+    ]
   },
   {
     "id": 10,
@@ -778,7 +928,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2751528627015009
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "301 kJ / 72 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "1,8 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-d7450b22-1128-441a-b217-6f7b519dd4ce.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-4f11635c-5a17-454e-bbf4-224e5a197011.png"
+    ]
   },
   {
     "id": 11,
@@ -844,7 +1009,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.26293145323062805
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "309 kJ / 74 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2 g",
+      "waarvan suikers": "3,5 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026. Bronconflict: suiker 3,5 g, koolhydraten 2 g, letterlijk overgenomen.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-56f92783-831f-4488-9cb2-52b4e8f548b4.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-8dff6342-8286-498b-ac94-cac46a97eaa8.png"
+    ]
   },
   {
     "brand": "Barkan",
@@ -894,7 +1074,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2758233392036209
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "326 kJ / 78 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,3 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-0d8e31a2-fd01-4ee9-a80d-219717b7b68e.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-da62da52-9b74-451f-bf9e-f36b5003e5da.png"
+    ]
   },
   {
     "id": 12,
@@ -952,7 +1147,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2240593294021379
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "330 kJ / 79 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-5138ac19-33d9-48c7-b960-dc350a6c3c5c.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-4351bc39-0e42-412a-9501-025090d80c9e.png"
+    ]
   },
   {
     "id": 13,
@@ -1015,7 +1225,19 @@ window.KPI_PRODUCTS = [
       "height": 0.86802,
       "aspectRatio": 0.2251465702268668
     },
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "330 kJ / 80 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,5 g",
+      "waarvan suikers": "0,6 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionEstimated": true,
+    "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.israel-spezialitaeten.de/Barkan-Classic-Merlot-Argaman-Rotwein/OS-6167"
   },
   {
     "id": 14,
@@ -1073,7 +1295,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.22684072266579294
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "305 kJ / 73 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,2 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-8b0a0f20-2461-4f3a-af08-b290136b32e1.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-9f0090bf-62b5-4304-9fcb-7b3b6f690e58.png"
+    ]
   },
   {
     "id": 15,
@@ -1131,7 +1368,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2240593294021379
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "326 kJ / 78 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,3 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-8ce1a67e-0782-4abf-9f58-78733311da28.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-83010015-60df-491e-ba57-19009ceb403f.png"
+    ]
   },
   {
     "id": 16,
@@ -1193,7 +1445,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.22840741267537834
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "317 kJ / 76 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-4bd72daf-4cac-4977-813f-dc431adb7f64.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-6473eac5-04fd-4e5d-9819-5f74424d42a1.png"
+    ]
   },
   {
     "id": 17,
@@ -1255,7 +1522,16 @@ window.KPI_PRODUCTS = [
       "height": 0.890863,
       "aspectRatio": 0.26353340228565564
     },
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "301 kJ / 71 kcal"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Uitsluitend de leesbare energiewaarde op het eigen Pinot Noir-etiket, 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-02382faf-4228-409d-9935-bbbac6179962.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-0f26c3f7-21ac-48b6-901f-3bb8e57b72cf.jpg"
+    ]
   },
   {
     "id": 25,
@@ -1319,7 +1595,22 @@ window.KPI_PRODUCTS = [
       "height": 0.6484850000000001,
       "aspectRatio": 0.3107473573020193
     },
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "317 kJ / 76 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Op verzoek gebruiker dezelfde voedingswaarden per 100 ml als de grote Classic Cabernet Sauvignon, 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-30d3d837-7a1f-4b40-be59-a9b8088e0a9c.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-8545068f-ba9c-4689-9a57-401d2db501ed.jpg"
+    ]
   },
   {
     "id": 24,
@@ -1391,7 +1682,22 @@ window.KPI_PRODUCTS = [
       ]
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "322 kJ / 77 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-0b88de15-3ad4-4b76-b793-ad9f94473cb6.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-7780dda2-742f-40d9-8d87-101d630bda31.png"
+    ]
   },
   {
     "id": 23,
@@ -1452,7 +1758,22 @@ window.KPI_PRODUCTS = [
       "height": 0.8997499999999999,
       "aspectRatio": 0.22589608224506813
     },
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "317 kJ / 76 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2,4 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-7cb4dc75-dae3-4fa1-880b-fa681ecf93c3.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-a90fa1ae-baf7-463a-9866-5e1cd9023b23.png"
+    ]
   },
   {
     "id": 22,
@@ -1510,7 +1831,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.23367602111697697
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "313 kJ / 75 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "2 g",
+      "waarvan suikers": "0,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-59f70a22-8ef9-4fe7-b16c-1f268c7cd3fd.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-11483a72-b59b-4116-9530-86c879d36bd8.png"
+    ]
   },
   {
     "id": 21,
@@ -1583,7 +1919,22 @@ window.KPI_PRODUCTS = [
       ]
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "435 kJ / 104 kcal",
+      "Vetten": "0,5 g",
+      "waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "8,5 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-a7f79d1c-5b26-4afa-acf3-c434c0065a20.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-2208eaf1-ca57-49d9-ad98-41e5b8450115.png"
+    ]
   },
   {
     "id": 20,
@@ -1660,7 +2011,19 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Op het etiket: heter mechira",
       "Opperrabbinaat van Israël (KLP)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "330 kJ / 80 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,5 g",
+      "waarvan suikers": "0,6 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionEstimated": true,
+    "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.mck.co.il/categories/81224/products?catalogProduct=11324"
   },
   {
     "id": 19,
@@ -1738,7 +2101,19 @@ window.KPI_PRODUCTS = [
       ]
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "330 kJ / 80 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,5 g",
+      "waarvan suikers": "0,6 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionEstimated": true,
+    "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.israel-spezialitaeten.de/Barkan-Reserve-Merlot-Rotwein/OS-70022"
   },
   {
     "id": 18,
@@ -1796,7 +2171,19 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2862141656425502
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "330 kJ / 80 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,5 g",
+      "waarvan suikers": "0,6 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml (schatting)",
+    "nutritionEstimated": true,
+    "nutritionSource": "Op uitdrukkelijk verzoek gebruiker op 2 november 2026 geschatte waarden bij ontbrekende eigen etiketgegevens. Referentietabel Barkan Classic Merlot-Argaman en Reserve Merlot bij Israel-Spezialitaeten (ca. 330 kJ/80 kcal). Reserve Cabernet: verkoper MCK noemt 80 kcal; overige macronutriënten geschat naar deze referentietabel. Platinum: vergelijkbare droge rode Barkan-wijn als referentie, geen eigen tabel bevestigd. Productreferentie: https://www.barkan-winery.co.il/en/wines/platinum-series/platinum-cabernet-sauvignon"
   },
   {
     "id": 27,
@@ -1888,7 +2275,22 @@ window.KPI_PRODUCTS = [
         "kosher"
       ]
     },
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "451,87 kJ / 108 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0,8 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-930aa1fc-197a-49d7-9d3d-d070d8db0399.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-f4eb84cc-a2e8-4320-b33a-83f8a33ba76f.png"
+    ]
   },
   {
     "id": 28,
@@ -1947,6 +2349,21 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2707818641407055
     },
     "kosherForPassover": true,
-    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd."
+    "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
+    "nutrition": {
+      "Energie": "313 kJ / 75 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "1,5 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Aangeleverde flesfoto en gekoppelde QR-screenshot (qr.synclabel.com), 2 november 2026.",
+    "nutritionLabelSources": [
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-cdfe77a3-77ad-4c08-b4bc-32dc9a5dad7d.jpg",
+      "meter-2/source-labels/20261102-nutrition/codex-clipboard-284507a3-5312-4445-8ff8-178cdeaef0f6.png"
+    ]
   }
 ];

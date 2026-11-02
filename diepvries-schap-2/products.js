@@ -1193,7 +1193,7 @@ window.KPI_PRODUCTS = [
     "brand": "Strauss Fantasia",
     "name": "IJstaart met Chocolade en Vanille",
     "englishName": "",
-    "variant": "500 g",
+    "variant": "1 L",
     "category": "Desserts",
     "ingredients": "water, suiker, cemacao (10%), plantaardige oliën, glucosestroop, dextrose, maltodextrine, cacaopoeder, soja-eiwit, vezels (inuline), emulgator (E471), stabilisatoren (E410, E412, met uitzondering van Pesach E407), zout, aroma’s, natuurlijke kleurstof (bètacaroteen)",
     "allergens": [
@@ -1207,7 +1207,7 @@ window.KPI_PRODUCTS = [
     "warning": "",
     "note": "Glutenvrij volgens de verpakking",
     "reviewStatus": "user-confirmed-parve",
-    "quantitySource": "Actuele fysieke verpakking; foto 43.jpg",
+    "quantitySource": "Fysieke verpakking vermeldt inhoud 1 liter en nettogewicht 500 g. Op verzoek gebruiker inhoud weergegeven als 1 L. Bron: diepvries-schap-2/source-labels/20261102-strauss-chocolade-vanille/codex-clipboard-c2e3932a-dbb4-4cae-b7af-ab9f060e2929.jpg",
     "ingredientsComplete": true,
     "barcodeSource": "Afgelezen op actuele verpakkingsfoto 44.jpg",
     "labelSource": {
@@ -1227,7 +1227,22 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Eigen verpakkingsfoto’s 43.jpg en 44.jpg",
     "kosherNote": "",
     "kosherStatusSource": "Gebruiker bevestigt op 10 september 2026 dat Chocolade en Vanille Parve is",
-    "mayContain": "Kan cashewnoten, hazelnoten, pecannoten, walnoten, amandelen, pistachenoten, pinda’s en sporen van melk bevatten."
+    "mayContain": "Kan cashewnoten, hazelnoten, pecannoten, walnoten, amandelen, pistachenoten, pinda’s en sporen van melk bevatten.",
+    "nutrition": {
+      "Energie": "231 kcal",
+      "Vetten": "14 g",
+      "waarvan verzadigde vetzuren": "11,8 g",
+      "Koolhydraten": "24,7 g",
+      "waarvan suikers": "21,1 g",
+      "Eiwitten": "1,6 g",
+      "Natrium": "120 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek etiket, aangeleverd op 2 november 2026: diepvries-schap-2/source-labels/20261102-strauss-chocolade-vanille/codex-clipboard-3a77723d-bfbd-4ded-a295-5b9dfa90f3a2.jpg",
+    "labelSources": [
+      "diepvries-schap-2/source-labels/20261102-strauss-chocolade-vanille/codex-clipboard-c2e3932a-dbb4-4cae-b7af-ab9f060e2929.jpg",
+      "diepvries-schap-2/source-labels/20261102-strauss-chocolade-vanille/codex-clipboard-3a77723d-bfbd-4ded-a295-5b9dfa90f3a2.jpg"
+    ]
   },
   {
     "id": 21,

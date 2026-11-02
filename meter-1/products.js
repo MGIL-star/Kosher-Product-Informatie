@@ -38,7 +38,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.29278523489932884
-    }
+    },
+    "nutrition": {
+      "Energie": "50 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "14 g",
+      "waarvan toegevoegde suikers": "14 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per portie (360 ml)",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-e824d20d-0dbe-4441-b7dc-9082b6e2a99f.jpg"
   },
   {
     "id": 4,
@@ -78,7 +89,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.2876142975893599
-    }
+    },
+    "nutrition": {
+      "Energie": "50 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "14 g",
+      "waarvan toegevoegde suikers": "14 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per portie (360 ml)",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-2cfcc087-046a-4747-8aa3-fb8a1c572ed5.jpg"
   },
   {
     "id": 6,
@@ -118,7 +140,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.29292107404393813
-    }
+    },
+    "nutrition": {
+      "Energie": "50 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "14 g",
+      "waarvan suikers": "14 g",
+      "waarvan toegevoegde suikers": "14 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per portie (360 ml)",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-83438691-72f8-45ae-a997-499e16b235fc.jpg"
   },
   {
     "id": 8,
@@ -158,7 +191,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.36444444444444446
-    }
+    },
+    "nutrition": {
+      "Energie": "203 kJ / 48 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "11 g",
+      "Eiwitten": "0,1 g",
+      "Natrium": "0,0022 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-bac74f64-2b1f-48a1-9f63-3d8d303cc943.jpg"
   },
   {
     "id": 11,
@@ -198,7 +242,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.3501683501683502
-    }
+    },
+    "nutrition": {
+      "Energie": "203 kJ / 48 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "11 g",
+      "waarvan suikers": "11 g",
+      "Eiwitten": "0,1 g",
+      "Natrium": "0,0022 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-bac74f64-2b1f-48a1-9f63-3d8d303cc943.jpg; dezelfde tabel als helder appelsap op verzoek gebruiker."
   },
   {
     "id": 14,
@@ -230,15 +285,26 @@ window.KPI_PRODUCTS = [
         ],
         [
           0.6733333333333333,
-          1.0
+          1
         ],
         [
           0.32666666666666666,
-          1.0
+          1
         ]
       ],
       "aspectRatio": 0.3525423728813559
-    }
+    },
+    "nutrition": {
+      "Energie": "178 kJ / 42 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "10 g",
+      "waarvan suikers": "10 g",
+      "Eiwitten": "0,7 g",
+      "Natrium": "0,0014 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-272e827a-aae5-4693-b450-1be51170a91b.jpg"
   },
   {
     "id": 17,
@@ -279,7 +345,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.29194630872483224
-    }
+    },
+    "nutrition": {
+      "Energie": "67 kcal",
+      "Vetten": "0,1 g",
+      "Koolhydraten": "15,6 g",
+      "Eiwitten": "0,4 g",
+      "Cholesterol": "0 g",
+      "Natrium": "0,025 mg"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-6c7c6743-f487-4825-b4e1-0e3ee0d687b7.jpg"
   },
   {
     "id": 19,
@@ -304,22 +380,32 @@ window.KPI_PRODUCTS = [
       "corners": [
         [
           0.3566666666666667,
-          0.0
+          0
         ],
         [
           0.64,
-          0.0
+          0
         ],
         [
           0.64,
-          1.0
+          1
         ],
         [
           0.3566666666666667,
-          1.0
+          1
         ]
       ],
       "aspectRatio": 0.2833333333333333
-    }
+    },
+    "nutrition": {
+      "Energie": "67 kcal",
+      "Vetten": "0,1 g",
+      "Koolhydraten": "15,6 g",
+      "Eiwitten": "0,4 g",
+      "Cholesterol": "0 g",
+      "Natrium": "0,025 mg"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-46b8bc2c-7b11-47a8-a824-8adf9d0db11d.jpg"
   }
 ];
