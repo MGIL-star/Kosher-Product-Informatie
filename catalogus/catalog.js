@@ -26,6 +26,11 @@
   sources.forEach(source => source.title = sectionTitles[source.n - 1]);
   sources.push({n:21,title:'Vleeswaren · Salades · Dips',folder:'koeling-schap-1',data:'koeling-schap-1/products.js?v=20261101-tasty-food-ingredienten'});
   sources.push({n:22,title:'Kaas · Zuivel · Verse Pasta',folder:'koeling-schap-2',data:'koeling-schap-2/products.js?v=20261102-etiket-voedingswaarden'});
+  for (const source of sources) {
+    if (['meter-1', 'meter-2', 'diepvries-schap-1', 'diepvries-schap-2', 'koeling-schap-2'].includes(source.folder)) {
+      source.data = source.data.split('?')[0] + '?v=20261103-energie';
+    }
+  }
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
