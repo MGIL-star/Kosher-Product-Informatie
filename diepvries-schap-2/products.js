@@ -1229,7 +1229,7 @@ window.KPI_PRODUCTS = [
     "kosherStatusSource": "Gebruiker bevestigt op 10 september 2026 dat Chocolade en Vanille Parve is",
     "mayContain": "Kan cashewnoten, hazelnoten, pecannoten, walnoten, amandelen, pistachenoten, pinda’s en sporen van melk bevatten.",
     "nutrition": {
-      "Energie": "231 kcal",
+      "Energie": "967 kJ / 231 kcal",
       "Vetten": "14 g",
       "waarvan verzadigde vetzuren": "11,8 g",
       "Koolhydraten": "24,7 g",

@@ -2,7 +2,7 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "nutrition": {
-      "Energie": "240 kcal",
+      "Energie": "1004 kJ / 240 kcal",
       "Vetten": "3,2 g",
       "Koolhydraten": "24,5 g",
       "Eiwitten": "3,8 g"

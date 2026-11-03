@@ -919,7 +919,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-glidini-4/codex-clipboard-45e54c41-9c50-4579-b805-5c0b2b846734.jpg.",
     "nutrition": {
-      "Energie": "320 kcal",
+      "Energie": "1339 kJ / 320 kcal",
       "Vetten": "20 g",
       "waarvan verzadigde vetzuren": "13 g",
       "Koolhydraten": "32 g",
@@ -966,7 +966,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-glidini-4/codex-clipboard-9e813dfc-a17d-403f-af61-9ba9d3ec3320.jpg.",
     "nutrition": {
-      "Energie": "270 kcal",
+      "Energie": "1130 kJ / 270 kcal",
       "Vetten": "15 g",
       "waarvan verzadigde vetzuren": "9 g",
       "Koolhydraten": "30 g",
@@ -2354,7 +2354,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "nutrition": {
-      "Energie": "398 kcal",
+      "Energie": "1665 kJ / 398 kcal",
       "Vetten": "29 g",
       "waarvan verzadigde vetzuren": "18 g",
       "Koolhydraten": "0 g",
@@ -2459,7 +2459,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "nutrition": {
-      "Energie": "275 kcal",
+      "Energie": "1151 kJ / 275 kcal",
       "Vetten": "21 g",
       "waarvan verzadigde vetzuren": "15 g",
       "Koolhydraten": "1 g",
@@ -2542,7 +2542,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "nutrition": {
-      "Energie": "349 kcal",
+      "Energie": "1460 kJ / 349 kcal",
       "Vetten": "31 g",
       "waarvan verzadigde vetzuren": "22 g",
       "Koolhydraten": "0,5 g",
@@ -2663,7 +2663,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "nutrition": {
-      "Energie": "273 kcal",
+      "Energie": "1142 kJ / 273 kcal",
       "Vetten": "21 g",
       "waarvan verzadigde vetzuren": "15 g",
       "Koolhydraten": "1 g",
@@ -2929,7 +2929,7 @@ window.KPI_PRODUCTS = [
     ],
     "allergensConfirmedAbsent": false,
     "nutrition": {
-      "Energie": "247 kcal",
+      "Energie": "1033 kJ / 247 kcal",
       "Vetten": "19 g",
       "waarvan verzadigde vetzuren": "12 g",
       "Transvetzuren": "0,7 g",
@@ -3201,7 +3201,7 @@ window.KPI_PRODUCTS = [
       "MELK"
     ],
     "nutrition": {
-      "Energie": "246 kcal",
+      "Energie": "1029 kJ / 246 kcal",
       "Vetten": "22 g",
       "waarvan verzadigde vetzuren": "11 g",
       "Transvetzuren": "0,5 g",
@@ -3552,7 +3552,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Badatz Eida Hacharedit en Parve-aanduiding op de fysieke verpakking; de fabrikant vermeldt Badatz Eida Hacharedit voor deze margarine.",
     "image": "./images/poliva-margarine-200g.png",
     "nutrition": {
-      "Energie": "741 kcal",
+      "Energie": "3100 kJ / 741 kcal",
       "Vetten": "82,3 g",
       "waarvan verzadigde vetzuren": "37 g",
       "Transvetzuren": "< 0,5 g",

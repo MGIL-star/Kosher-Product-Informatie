@@ -103,7 +103,7 @@ window.KPI_PRODUCTS = [
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
-      "Energie": "100 kcal",
+      "Energie": "418 kJ / 100 kcal",
       "Vetten": "1,5 g",
       "waarvan verzadigde vetzuren": "0,5 g",
       "Transvetten": "0 g",

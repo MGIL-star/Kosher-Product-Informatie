@@ -40,7 +40,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.29278523489932884
     },
     "nutrition": {
-      "Energie": "50 kcal",
+      "Energie": "209 kJ / 50 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "14 g",
       "waarvan suikers": "14 g",
@@ -91,7 +91,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2876142975893599
     },
     "nutrition": {
-      "Energie": "50 kcal",
+      "Energie": "209 kJ / 50 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "14 g",
       "waarvan suikers": "14 g",
@@ -142,7 +142,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.29292107404393813
     },
     "nutrition": {
-      "Energie": "50 kcal",
+      "Energie": "209 kJ / 50 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "14 g",
       "waarvan suikers": "14 g",
@@ -347,7 +347,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.29194630872483224
     },
     "nutrition": {
-      "Energie": "67 kcal",
+      "Energie": "280 kJ / 67 kcal",
       "Vetten": "0,1 g",
       "Koolhydraten": "15,6 g",
       "Eiwitten": "0,4 g",
@@ -398,7 +398,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.2833333333333333
     },
     "nutrition": {
-      "Energie": "67 kcal",
+      "Energie": "280 kJ / 67 kcal",
       "Vetten": "0,1 g",
       "Koolhydraten": "15,6 g",
       "Eiwitten": "0,4 g",
