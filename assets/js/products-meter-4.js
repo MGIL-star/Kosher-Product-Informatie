@@ -750,3 +750,16 @@ window.KPI_PRODUCTS.find(p => p.id === 24).nutrition['Waarvan verzadigde vetzure
 
 // Op het 30/36-etiket staat 12 g vezels.
 window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
+
+// Gebruiker bevestigt de getoonde afgeronde nulwaarden van de fysieke etiketten.
+(function () {
+ const labels = {21:{grams:21,sodium:270},22:{grams:48,sodium:620},25:{grams:69,sodium:620}};
+ for (const p of window.KPI_PRODUCTS) {
+  const label = labels[p.id]; if (!label) continue;
+  p.nutrition.Energie = '0 kJ / 0 kcal';
+  p.nutrition.Natrium = String(Math.round(label.sodium / label.grams * 10000) / 100).replace('.', ',') + ' mg';
+  p.nutrition.Zout = String(Math.round(label.sodium / label.grams * 25) / 100).replace('.', ',') + ' g';
+  if(p.nutritionOriginal) {p.nutritionOriginal.unit = 'per '+label.grams+' g';p.nutritionOriginal.values.Natrium=label.sodium+' mg';}
+  delete p.nutritionRoundingSource;
+ }
+}());

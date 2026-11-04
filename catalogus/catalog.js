@@ -31,7 +31,7 @@
       source.data = source.data.split('?')[0] + '?v=20261103-energie';
     }
   }
-  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261104-nutrition-audit';
+  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261104-label-zero';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
