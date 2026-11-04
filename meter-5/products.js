@@ -1778,5 +1778,36 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz",
     "kosherChecked": "2026-09-18",
     "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+  },
+  {
+    "id": 52,
+    "brand": "Manat HaChef",
+    "name": "Zoete Chilisaus",
+    "variant": "700 ml",
+    "category": "Sauzen",
+    "ean": "8857101301008",
+    "ingredients": "Water, suiker, rode chilipeper (20%), knoflook, gemodificeerd tapiocazetmeel (E1442), voedingszuren (E260, E330), keukenzout, stabilisator (E415).",
+    "allergens": [],
+    "mayContain": "",
+    "kosher": "K",
+    "kosherSource": "https://www.willi-food.co.il/wp-content/uploads/2025/03/Passover_products_brochure_2025.pdf",
+    "kosherStatus": "online-source-barcode-match",
+    "image": "images/52-sweet-chilli.png",
+    "imageEdited": true,
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "502 kJ / 120 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "30 g",
+      "Waarvan suikers": "14 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "0 g",
+      "Natrium": "604 mg"
+    },
+    "sourcePhotos": [
+      "source-labels/0b281c61-4021-4152-9f25-a5882b19e296.jpg",
+      "source-labels/5fca67aa-7c74-4f37-9efd-3a2a2b441856.jpg",
+      "source-labels/e260533a-0353-44a5-be3b-46fa3522a445.jpg"
+    ]
   }
 ];

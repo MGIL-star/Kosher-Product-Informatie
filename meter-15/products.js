@@ -81,7 +81,6 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 1,
-    "temporarilyHidden": true,
     "brand": "Osem",
     "name": "Bamba Pindasnacks",
     "variant": "200 g",
@@ -135,7 +134,9 @@ window.KPI_PRODUCTS = [
     "ingredientsPartial": false,
     "productInfo": {
       "Etiketvermelding": "Bevat een genetisch gemodificeerd voedselingrediënt."
-    }
+    },
+    "temporarilyHidden": true,
+    "movedTo": "../meter-14/?product=26"
   },
   {
     "id": 3,

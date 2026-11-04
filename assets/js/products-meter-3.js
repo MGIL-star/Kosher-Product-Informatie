@@ -17,7 +17,16 @@ window.KPI_PRODUCTS = [
       "SULFIET"
     ],
     "ean": "7290014755260",
-    "image": "../assets/images/meter-3/lemon-flavor-juice-white.png"
+    "image": "../assets/images/meter-3/lemon-flavor-juice-white.png",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "50 kJ / 12 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    }
   },
   {
     "id": 2,
@@ -34,7 +43,15 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "5425000533481",
-    "image": "../assets/images/meter-3/elisha-vinegar-1l.jpg"
+    "image": "../assets/images/meter-3/elisha-vinegar-1l.jpg",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "198 kJ / 46 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "<0,5 g",
+      "Eiwitten": "<0,5 g",
+      "Zout": "0,03 g"
+    }
   },
   {
     "id": 18,
@@ -51,7 +68,16 @@ window.KPI_PRODUCTS = [
       "SULFIET"
     ],
     "ean": "7290000272726",
-    "image": "../assets/images/meter-3/osem-azijn-5-procent-1l.jpg"
+    "image": "../assets/images/meter-3/osem-azijn-5-procent-1l.jpg",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "63 kJ / 15 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "20 mg"
+    }
   },
   {
     "id": 1,
@@ -72,7 +98,18 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi E.L. Schneebalg",
       "STAR-K"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "895 kJ / 213 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "40 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,09 g",
+      "Vezels": "<1 g"
+    }
   },
   {
     "id": 3,
@@ -94,7 +131,17 @@ window.KPI_PRODUCTS = [
       "CRC Hisachdus Harabonim",
       "Rabbi E.L. Schneebalg",
       "OK Kosher"
-    ]
+    ],
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "3457 kJ / 826 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    }
   },
   {
     "id": 4,
@@ -116,7 +163,17 @@ window.KPI_PRODUCTS = [
       "CRC Hisachdus Harabonim",
       "Rabbi E.L. Schneebalg",
       "OK Kosher"
-    ]
+    ],
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "3457 kJ / 826 kcal",
+      "Vetten": "91,5 g",
+      "Waarvan verzadigde vetzuren": "15,9 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    }
   },
   {
     "id": 5,
@@ -133,7 +190,17 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "7290020340047",
-    "image": "../assets/images/meter-3/southern-land-avocado-paars-250ml.jpg"
+    "image": "../assets/images/meter-3/southern-land-avocado-paars-250ml.jpg",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "3360 kJ / 800 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    }
   },
   {
     "id": 7,
@@ -150,7 +217,17 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "7290020340054",
-    "image": "../assets/images/meter-3/southern-land-olive-oil-groot-250ml.jpg"
+    "image": "../assets/images/meter-3/southern-land-olive-oil-groot-250ml.jpg",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "3469 kJ / 830 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "14 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 g"
+    }
   },
   {
     "id": 9,
@@ -167,7 +244,16 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "603741001161",
-    "image": "../assets/images/meter-3/controle-9-zeta-export.jpg"
+    "image": "../assets/images/meter-3/controle-9-zeta-export.jpg",
+    "nutritionUnit": "per 15 ml",
+    "nutrition": {
+      "Energie": "502 kJ / 120 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    }
   },
   {
     "id": 10,
@@ -185,7 +271,18 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Chatam Sofer, Bnei Brak (KLP) (Parve)",
     "kosherStatus": "confirmed",
     "kosherForPassover": true,
-    "reviewNotes": "Hechsher rechtstreeks gelezen op fysieke foto 0e7d1620-e48a-45e1-b323-9c20851bfd5a.jpg, ontvangen 9 oktober 2026: Badatz Chatam Sofer, Bnei Brak. Engels etiket bevestigt Parve en KLP. Barcode 890261002253 en inhoud 750 ml komen overeen met de bestaande registratie."
+    "reviewNotes": "Hechsher rechtstreeks gelezen op fysieke foto 0e7d1620-e48a-45e1-b323-9c20851bfd5a.jpg, ontvangen 9 oktober 2026: Badatz Chatam Sofer, Bnei Brak. Engels etiket bevestigt Parve en KLP. Barcode 890261002253 en inhoud 750 ml komen overeen met de bestaande registratie.",
+    "nutritionUnit": "per 15 ml",
+    "nutrition": {
+      "Energie": "502 kJ / 120 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Vezels": "0 g"
+    }
   },
   {
     "id": 11,
@@ -202,7 +299,17 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "5425000533795",
-    "image": "../assets/images/meter-3/elisha-canola-oil-1l.jpg"
+    "image": "../assets/images/meter-3/elisha-canola-oil-1l.jpg",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "3404 kJ / 828 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "6,5 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    }
   },
   {
     "id": 12,
@@ -219,7 +326,17 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "5425000533801",
-    "image": "../assets/images/meter-3/elisha-sunflower-oil-1l.jpg"
+    "image": "../assets/images/meter-3/elisha-sunflower-oil-1l.jpg",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "3404 kJ / 828 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    }
   },
   {
     "id": 13,
@@ -240,7 +357,17 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OK Kosher",
       "BIR (Badatz Igud Harabbonim)"
-    ]
+    ],
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "210 kJ / 49 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "11,8 g",
+      "Waarvan suikers": "11,8 g",
+      "Eiwitten": "0,22 g",
+      "Zout": "0,15 g"
+    }
   },
   {
     "id": 14,
@@ -257,7 +384,16 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "5904941750312",
-    "image": "../assets/images/meter-3/controle-14-blu-mojito.webp"
+    "image": "../assets/images/meter-3/controle-14-blu-mojito.webp",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "188 kJ / 45 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "10,8 g",
+      "Waarvan suikers": "10,8 g",
+      "Eiwitten": "0 g",
+      "Natrium": "50 mg"
+    }
   },
   {
     "id": 20,
@@ -281,12 +417,34 @@ window.KPI_PRODUCTS = [
     "image": "../assets/images/meter-3/blue-mojito-new-packshot.png",
     "imagePresentation": {
       "corners": [
-        [0.265, 0.071],
-        [0.735, 0.071],
-        [0.735, 0.94],
-        [0.265, 0.94]
+        [
+          0.265,
+          0.071
+        ],
+        [
+          0.735,
+          0.071
+        ],
+        [
+          0.735,
+          0.94
+        ],
+        [
+          0.265,
+          0.94
+        ]
       ],
       "aspectRatio": 0.356
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "196 kJ / 47 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "10,8 g",
+      "Waarvan suikers": "10,8 g",
+      "Eiwitten": "0,35 g",
+      "Natrium": "50 mg"
     }
   },
   {
@@ -304,7 +462,17 @@ window.KPI_PRODUCTS = [
       "Geen allergenen vermeld"
     ],
     "ean": "7350033980132",
-    "image": "../assets/images/meter-3/controle-15-blu-classic.webp"
+    "image": "../assets/images/meter-3/controle-15-blu-classic.webp",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "194 kJ / 46 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "10,8 g",
+      "Waarvan suikers": "10,8 g",
+      "Eiwitten": "0,35 g",
+      "Natrium": "64 mg"
+    }
   },
   {
     "id": 16,
@@ -335,7 +503,21 @@ window.KPI_PRODUCTS = [
         "barcodeSource": "Op verzoek van gebruiker dezelfde barcode als de losse fles; geen afzonderlijk geverifieerde omverpakkingscode."
       }
     ],
-    "alcoholLabel": "4,9% vol."
+    "alcoholLabel": "4,9% vol.",
+    "nutritionUnit": "per 100 ml",
+    "nutrition": {
+      "Energie": "176 kJ / 42 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "3,2 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "<0,01 g"
+    },
+    "nutritionSource": "https://www.foodsdictionary.co.il/Products/59/גולדסטאר",
+    "nutritionSourceChecked": "2026-11-04",
+    "nutritionComparisonSource": "https://www.heineken.com/gb/en/our-products/heineken-original/",
+    "nutritionComparisonNote": "Overige voedingswaarden op verzoek gebruiker benaderd met Heineken Original 5%, 42 kcal per 100 ml; geen bevestigde Goldstar-etiketwaarden."
   },
   {
     "id": 17,
@@ -366,6 +548,15 @@ window.KPI_PRODUCTS = [
         "barcodeSource": "Op verzoek van gebruiker dezelfde barcode als de losse fles; geen afzonderlijk geverifieerde omverpakkingscode."
       }
     ],
-    "alcoholLabel": "max. 0,5% vol."
+    "alcoholLabel": "max. 0,5% vol.",
+    "nutritionUnit": "per 330 ml",
+    "nutrition": {
+      "Energie": "377 kJ / 90 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "23 g",
+      "Waarvan suikers": "16 g",
+      "Eiwitten": "<1 g",
+      "Natrium": "15 mg"
+    }
   }
 ];

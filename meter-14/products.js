@@ -91,6 +91,41 @@ window.KPI_PRODUCTS = [
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_WITH_HAZELNUT_CREAM_FILLING_60_GR._8424ab1b-13aa-4a36-aafd-62075b47689f.jpg?v=1777505259"
   },
   {
+    "id": 26,
+    "brand": "Osem",
+    "name": "Bamba met Marshmallowvulling",
+    "variant": "60 g",
+    "category": "Snacks",
+    "ean": "077544006638",
+    "ingredients": "Maïsmeel, pindakaas (gemalen pinda’s), suiker, plantaardige olie (sojaolie en palmolie), maïszetmeel, cellulosegom, sojalecithine, zout, calciumcarbonaat, kunstmatig aroma, kleurstof uit groentesap, rozemarijnextract.",
+    "allergens": [
+      "Pinda’s",
+      "Soja"
+    ],
+    "mayContain": "Kan tarwe, sesam en hazelnoten bevatten.",
+    "warning": "Jonge kinderen alleen zittend en onder toezicht laten eten.",
+    "kosher": "OU Badatz Edah HaChareidis (Parve)",
+    "image": "../meter-15/images/bamba-marshmallow.jpg",
+    "sourcePhotos": [
+      4,
+      5,
+      6
+    ],
+    "imageSource": "https://seasonskosher.com/Queens/category/10576/marshmallow/414748/osem-bamba-marshmallow-filling-21-oz",
+    "reviewNote": "Volledige Engelse ingrediëntenlijst en sporenvermelding bevestigd op de nieuwe foto van 9 oktober 2026. Geen percentages toegevoegd vanuit een ander etiket. Bestaande barcode, gewicht, Hechser en waarschuwing behouden.",
+    "labelSources": [
+      "Chatbijlage 9 oktober 2026: thee/81.jpg",
+      "Chatbijlage 9 oktober 2026: thee/82.jpg"
+    ],
+    "ingredientsSource": "Chatbijlage 9 oktober 2026: thee/82.jpg",
+    "ingredientsChecked": "2026-10-09",
+    "ingredientsPartial": false,
+    "productInfo": {
+      "Etiketvermelding": "Bevat een genetisch gemodificeerd voedselingrediënt."
+    },
+    "previousProductUrl": "../meter-15/?product=2"
+  },
+  {
     "id": 12,
     "brand": "Osem",
     "name": "Bamba & Bissli BBQ Mix",

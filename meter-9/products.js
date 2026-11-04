@@ -199,6 +199,40 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 29,
+    "brand": "Rimon",
+    "name": "Babka Cake",
+    "variant": "400 g",
+    "ean": "7290004033405",
+    "ingredients": "Tarwebloem (gluten), witte suiker, sojaolie, water, cacaopoeder, rijstmeel, palmvet, emulgatoren (E322, E476, E471, E481), maïszetmeel, sojameel, aardappelzetmeel, bevochtigingsmiddelen (E422, E1520), zout, gist, tarwegluten, dadelpasta, zuurteregelaars (E330, E338), conserveermiddelen (E282, E200, E202), calciumcarbonaat (E170), dextrose, aroma’s, antioxidant (E300), enzymen, vulstof (E460).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Kan rogge, gerst, haver, sesam en ei bevatten.",
+    "kosher": "OU (Parve)",
+    "category": "Cake en gebak",
+    "image": "images/29-babka.png",
+    "imageEdited": true,
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1761 kJ / 421 kcal",
+      "Vetten": "21,20 g",
+      "Waarvan verzadigde vetzuren": "6,9 g",
+      "Eiwitten": "4,58 g",
+      "Koolhydraten": "51,70 g",
+      "Waarvan suikers": "26,2 g",
+      "Zout": "761 mg"
+    },
+    "sourcePhotos": [
+      "source-labels/cf6826a6-480f-481e-afef-e1721c667954.jpg",
+      "source-labels/9e6c163b-938b-4d9f-993d-404d427008a9.jpg",
+      "source-labels/e690afec-5bbc-4610-8b7b-7905c8ed6a37.jpg"
+    ],
+    "barcodeSource": "Door gebruiker bevestigd op 4 november 2026."
+  },
+  {
     "id": 9,
     "brand": "Rimon",
     "name": "Kaneelcake",
