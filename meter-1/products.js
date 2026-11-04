@@ -409,3 +409,84 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-46b8bc2c-7b11-47a8-a824-8adf9d0db11d.jpg"
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "1": {
+    "nutrition": {
+      "Energie": "58,06 kJ / 13,89 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "3,89 g",
+      "waarvan suikers": "3,89 g",
+      "waarvan toegevoegde suikers": "3,89 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionOriginal": {
+      "unit": "per portie (360 ml)",
+      "values": {
+        "Energie": "209 kJ / 50 kcal",
+        "Vetten": "0 g",
+        "Koolhydraten": "14 g",
+        "waarvan suikers": "14 g",
+        "waarvan toegevoegde suikers": "14 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg"
+      }
+    }
+  },
+  "4": {
+    "nutrition": {
+      "Energie": "58,06 kJ / 13,89 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "3,89 g",
+      "waarvan suikers": "3,89 g",
+      "waarvan toegevoegde suikers": "3,89 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionOriginal": {
+      "unit": "per portie (360 ml)",
+      "values": {
+        "Energie": "209 kJ / 50 kcal",
+        "Vetten": "0 g",
+        "Koolhydraten": "14 g",
+        "waarvan suikers": "14 g",
+        "waarvan toegevoegde suikers": "14 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg"
+      }
+    }
+  },
+  "6": {
+    "nutrition": {
+      "Energie": "58,06 kJ / 13,89 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "3,89 g",
+      "waarvan suikers": "3,89 g",
+      "waarvan toegevoegde suikers": "3,89 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionOriginal": {
+      "unit": "per portie (360 ml)",
+      "values": {
+        "Energie": "209 kJ / 50 kcal",
+        "Vetten": "0 g",
+        "Koolhydraten": "14 g",
+        "waarvan suikers": "14 g",
+        "waarvan toegevoegde suikers": "14 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg"
+      }
+    }
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());

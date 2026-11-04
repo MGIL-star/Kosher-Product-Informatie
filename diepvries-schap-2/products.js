@@ -1395,3 +1395,338 @@ window.KPI_PRODUCTS = [
     "nutritionUnit": "per 100 g"
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "1": {
+    "nutrition": {
+      "Energie": "1000 kJ / 238,94 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "495,58 mg",
+      "Koolhydraten": "51,33 g",
+      "Vezels": "2,65 g",
+      "waarvan suikers": "5,31 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "8,85 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1130 kJ / 270 kcal",
+        "Vetten": "0 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "560 mg",
+        "Koolhydraten": "58 g",
+        "Vezels": "3 g",
+        "waarvan suikers": "6 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "10 g"
+      }
+    }
+  },
+  "2": {
+    "nutrition": {
+      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "504,42 mg",
+      "Koolhydraten": "52,21 g",
+      "Vezels": "1,77 g",
+      "waarvan suikers": "5,31 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "8,85 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1213 kJ / 290 kcal",
+        "Vetten": "0 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "570 mg",
+        "Koolhydraten": "59 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "6 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "10 g"
+      }
+    }
+  },
+  "3": {
+    "nutrition": {
+      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "477,88 mg",
+      "Koolhydraten": "53,1 g",
+      "Vezels": "1,77 g",
+      "waarvan suikers": "7,96 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "7,96 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1213 kJ / 290 kcal",
+        "Vetten": "0 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "540 mg",
+        "Koolhydraten": "60 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "9 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "9 g"
+      }
+    }
+  },
+  "4": {
+    "nutrition": {
+      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Vetten": "0,44 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "495,58 mg",
+      "Koolhydraten": "52,21 g",
+      "Vezels": "1,77 g",
+      "waarvan suikers": "5,31 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "8,85 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1213 kJ / 290 kcal",
+        "Vetten": "0,5 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "560 mg",
+        "Koolhydraten": "59 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "6 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "10 g"
+      }
+    }
+  },
+  "5": {
+    "nutrition": {
+      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Vetten": "0,44 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "504,42 mg",
+      "Koolhydraten": "52,21 g",
+      "Vezels": "1,77 g",
+      "waarvan suikers": "5,31 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "8,85 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1213 kJ / 290 kcal",
+        "Vetten": "0,5 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "570 mg",
+        "Koolhydraten": "59 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "6 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "10 g"
+      }
+    }
+  },
+  "6": {
+    "nutrition": {
+      "Energie": "1000 kJ / 238,94 kcal",
+      "Vetten": "0 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "592,92 mg",
+      "Koolhydraten": "52,21 g",
+      "Vezels": "1,77 g",
+      "waarvan suikers": "5,31 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "8,85 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1130 kJ / 270 kcal",
+        "Vetten": "0 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "670 mg",
+        "Koolhydraten": "59 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "6 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "10 g"
+      }
+    }
+  },
+  "7": {
+    "nutrition": {
+      "Energie": "1000 kJ / 238,94 kcal",
+      "Vetten": "0,88 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "469,03 mg",
+      "Koolhydraten": "52,21 g",
+      "Vezels": "2,65 g",
+      "waarvan suikers": "6,19 g",
+      "waarvan toegevoegde suikers": "4,42 g",
+      "Eiwitten": "7,96 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1130 kJ / 270 kcal",
+        "Vetten": "1 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "530 mg",
+        "Koolhydraten": "59 g",
+        "Vezels": "3 g",
+        "waarvan suikers": "7 g",
+        "waarvan toegevoegde suikers": "5 g",
+        "Eiwitten": "9 g"
+      }
+    }
+  },
+  "8": {
+    "nutrition": {
+      "Energie": "1037,17 kJ / 247,79 kcal",
+      "Vetten": "0,88 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "495,58 mg",
+      "Koolhydraten": "53,98 g",
+      "Vezels": "1,77 g",
+      "waarvan suikers": "6,19 g",
+      "waarvan toegevoegde suikers": "5,31 g",
+      "Eiwitten": "7,96 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per bagel (113 g)",
+      "values": {
+        "Energie": "1172 kJ / 280 kcal",
+        "Vetten": "1 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "560 mg",
+        "Koolhydraten": "61 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "7 g",
+        "waarvan toegevoegde suikers": "6 g",
+        "Eiwitten": "9 g"
+      }
+    }
+  },
+  "19": {
+    "nutrition": {
+      "Energie": "945,16 kJ / 225,81 kcal",
+      "Vetten": "13,98 g",
+      "waarvan verzadigde vetzuren": "11,83 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "102,15 mg",
+      "Koolhydraten": "24,73 g",
+      "Vezels": "2,15 g",
+      "waarvan suikers": "20,43 g",
+      "waarvan toegevoegde suikers": "18,28 g",
+      "Eiwitten": "1,08 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (1/6 taart, 93 g)",
+      "values": {
+        "Energie": "879 kJ / 210 kcal",
+        "Vetten": "13 g",
+        "waarvan verzadigde vetzuren": "11 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "95 mg",
+        "Koolhydraten": "23 g",
+        "Vezels": "2 g",
+        "waarvan suikers": "19 g",
+        "waarvan toegevoegde suikers": "17 g",
+        "Eiwitten": "1 g"
+      }
+    }
+  },
+  "24": {
+    "nutrition": {
+      "Energie": "1007,41 kJ / 240,74 kcal",
+      "Vetten": "3,7 g",
+      "waarvan verzadigde vetzuren": "1,85 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "9,26 mg",
+      "Natrium": "370,37 mg",
+      "Koolhydraten": "40,74 g",
+      "Vezels": "1,85 g",
+      "Suikers": "5,56 g",
+      "waarvan toegevoegde suikers": "<1,85 g",
+      "Eiwitten": "11,11 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "148,15 mg",
+      "IJzer": "0,19 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (54 g)",
+      "values": {
+        "Energie": "544 kJ / 130 kcal",
+        "Vetten": "2 g",
+        "waarvan verzadigde vetzuren": "1 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "5 mg",
+        "Natrium": "200 mg",
+        "Koolhydraten": "22 g",
+        "Vezels": "1 g",
+        "Suikers": "3 g",
+        "waarvan toegevoegde suikers": "<1 g",
+        "Eiwitten": "6 g",
+        "Vitamine D": "0 mcg",
+        "Calcium": "80 mg",
+        "IJzer": "0,1 mg"
+      }
+    }
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());

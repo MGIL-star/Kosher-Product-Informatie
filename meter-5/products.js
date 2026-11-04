@@ -1811,3 +1811,25 @@ window.KPI_PRODUCTS = [
     ]
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "52": {
+    "nutrition": {
+      "Energie": "502 kJ / 120 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "30 g",
+      "Waarvan suikers": "14 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "0 g",
+      "Natrium": "604 mg",
+      "Zout": "1,51 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());

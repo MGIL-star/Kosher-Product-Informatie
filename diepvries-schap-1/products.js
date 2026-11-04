@@ -514,3 +514,124 @@ window.KPI_PRODUCTS = [
     }
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "1": {
+    "nutrition": {
+      "Energie": "962,83 kJ / 230,09 kcal",
+      "Vetten": "11,5 g",
+      "waarvan verzadigde vetzuren": "4,42 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "48,67 mg",
+      "Natrium": "389,38 mg",
+      "Koolhydraten": "18,58 g",
+      "Vezels": "5,31 g",
+      "waarvan suikers": "0,88 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "11,5 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "30,97 mg",
+      "IJzer": "1,68 mg",
+      "Kalium": "212,39 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (113 g)",
+      "values": {
+        "Energie": "1088 kJ / 260 kcal",
+        "Vetten": "13 g",
+        "waarvan verzadigde vetzuren": "5 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "55 mg",
+        "Natrium": "440 mg",
+        "Koolhydraten": "21 g",
+        "Vezels": "6 g",
+        "waarvan suikers": "1 g",
+        "waarvan toegevoegde suikers": "0 g",
+        "Eiwitten": "13 g",
+        "Vitamine D": "0 mcg",
+        "Calcium": "35 mg",
+        "IJzer": "1,9 mg",
+        "Kalium": "240 mg"
+      }
+    }
+  },
+  "2": {
+    "nutrition": {
+      "Energie": "962,83 kJ / 230,09 kcal",
+      "Vetten": "11,5 g",
+      "waarvan verzadigde vetzuren": "4,42 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "48,67 mg",
+      "Natrium": "389,38 mg",
+      "Koolhydraten": "18,58 g",
+      "Vezels": "5,31 g",
+      "waarvan suikers": "0,88 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "11,5 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "30,97 mg",
+      "IJzer": "1,68 mg",
+      "Kalium": "212,39 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (113 g)",
+      "values": {
+        "Energie": "1088 kJ / 260 kcal",
+        "Vetten": "13 g",
+        "waarvan verzadigde vetzuren": "5 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "55 mg",
+        "Natrium": "440 mg",
+        "Koolhydraten": "21 g",
+        "Vezels": "6 g",
+        "waarvan suikers": "1 g",
+        "waarvan toegevoegde suikers": "0 g",
+        "Eiwitten": "13 g",
+        "Vitamine D": "0 mcg",
+        "Calcium": "35 mg",
+        "IJzer": "1,9 mg",
+        "Kalium": "240 mg"
+      }
+    }
+  },
+  "4": {
+    "nutrition": {
+      "Energie": "666,37 kJ / 159,29 kcal",
+      "Vetten": "2,21 g",
+      "waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "22,12 mg",
+      "Natrium": "353,98 mg",
+      "Koolhydraten": "26,55 g",
+      "Vezels": "2,65 g",
+      "waarvan suikers": "0,88 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "10,62 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (113 g)",
+      "values": {
+        "Energie": "753 kJ / 180 kcal",
+        "Vetten": "2,5 g",
+        "waarvan verzadigde vetzuren": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "25 mg",
+        "Natrium": "400 mg",
+        "Koolhydraten": "30 g",
+        "Vezels": "3 g",
+        "waarvan suikers": "1 g",
+        "waarvan toegevoegde suikers": "0 g",
+        "Eiwitten": "12 g"
+      }
+    }
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());

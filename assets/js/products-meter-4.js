@@ -308,3 +308,445 @@ window.KPI_PRODUCTS = [
     if (updates[product.id]) Object.assign(product, updates[product.id]);
   }
 }());
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "1": {
+    "nutrition": {
+      "Energie": "481 kJ / 115 kcal",
+      "Vetten": "2,3 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "14,5 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "6,2 g",
+      "Natrium": "380 mg",
+      "Vezels": "6,2 g",
+      "Transvetten": "<0,5 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,95 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "2": {
+    "nutrition": {
+      "Energie": "213 kJ / 51 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "6,7 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "3,1 g",
+      "Natrium": "330 mg",
+      "Vezels": "4,7 g",
+      "Zout": "0,83 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "5": {
+    "nutrition": {
+      "Energie": "50 kJ / 12 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2 g",
+      "Waarvan suikers": "1 g",
+      "Zout": "3,9 g"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "6": {
+    "nutrition": {
+      "Energie": "427 kJ / 102 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "19 g",
+      "Waarvan suikers": "11,9 g",
+      "Eiwitten": "5,9 g",
+      "Natrium": "23 mg",
+      "Zout": "0,06 g"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "7": {
+    "nutrition": {
+      "Energie": "297 kJ / 71 kcal",
+      "Vetten": "1,2 g",
+      "Koolhydraten": "11 g",
+      "Waarvan suikers": "7 g",
+      "Eiwitten": "2,5 g",
+      "Natrium": "200 mg",
+      "Vezels": "3 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "8": {
+    "nutrition": {
+      "Energie": "146 kJ / 35 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "6 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "3 g",
+      "Natrium": "410 mg",
+      "Vezels": "1 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Calcium": "40 mg",
+      "IJzer": "0,5 mg",
+      "Kalium": "130 mg",
+      "Zout": "1,03 g"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "9": {
+    "nutrition": {
+      "Energie": "109 kJ / 26 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "4,7 g",
+      "Waarvan suikers": "2,2 g",
+      "Eiwitten": "1,6 g",
+      "Natrium": "400 mg",
+      "Vezels": "0,5 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "10": {
+    "nutrition": {
+      "Energie": "715 kJ / 171 kcal",
+      "Vetten": "17,3 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "3,4 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,3 g",
+      "Natrium": "1280 mg",
+      "Transvetten": "<0,5 g",
+      "Cholesterol": "0,5–7,7 mg",
+      "Zout": "3,2 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "11": {
+    "nutrition": {
+      "Energie": "893,33 kJ / 213,33 kcal",
+      "Vetten": "21,33 g",
+      "Waarvan verzadigde vetzuren": "4,67 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "1800 mg",
+      "Vezels": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Calcium": "133,33 mg",
+      "Zout": "4,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per 15 g",
+      "values": {
+        "Energie": "134 kJ / 32 kcal",
+        "Vetten": "3,2 g",
+        "Waarvan verzadigde vetzuren": "0,7 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "270 mg",
+        "Vezels": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Waarvan toegevoegde suikers": "0 g",
+        "Calcium": "20 mg"
+      }
+    }
+  },
+  "12": {
+    "nutrition": {
+      "Energie": "780 kJ / 186,67 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "1733,33 mg",
+      "Vezels": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Zout": "4,33 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per 15 g",
+      "values": {
+        "Energie": "117 kJ / 28 kcal",
+        "Vetten": "3 g",
+        "Waarvan verzadigde vetzuren": "0,6 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "260 mg",
+        "Vezels": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Waarvan toegevoegde suikers": "0 g"
+      }
+    }
+  },
+  "14": {
+    "nutrition": {
+      "Energie": "628 kJ / 150 kcal",
+      "Vetten": "13,9 g",
+      "Waarvan verzadigde vetzuren": "3 g",
+      "Koolhydraten": "3,4 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,2 g",
+      "Natrium": "1200 mg",
+      "Transvetten": "<0,5 g",
+      "Cholesterol": "0,5–7,7 mg",
+      "Zout": "3 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "15": {
+    "nutrition": {
+      "Energie": "628 kJ / 150 kcal",
+      "Vetten": "13,9 g",
+      "Waarvan verzadigde vetzuren": "3 g",
+      "Koolhydraten": "3,4 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,2 g",
+      "Natrium": "1200 mg",
+      "Transvetten": "<0,5 g",
+      "Cholesterol": "0,5–7,7 mg",
+      "Zout": "3 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "17": {
+    "nutrition": {
+      "Energie": "43,59 kJ / 10,26 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,31 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "1435,9 mg",
+      "Vezels": "2,31 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Zout": "3,59 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per 39 g",
+      "values": {
+        "Energie": "17 kJ / 4 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "0,9 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "560 mg",
+        "Vezels": "0,9 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Waarvan toegevoegde suikers": "0 g"
+      }
+    }
+  },
+  "18": {
+    "nutrition": {
+      "Energie": "35 kJ / 8,4 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1300 mg",
+      "Vezels": "1,2 g",
+      "Zout": "3,25 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "20": {
+    "nutrition": {
+      "Energie": "35 kJ / 8,4 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1300 mg",
+      "Vezels": "1,2 g",
+      "Zout": "3,25 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "21": {
+    "nutrition": {
+      "Energie": "<17 kJ / <3,88 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "302,33 mg",
+      "Vezels": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Zout": "0,76 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per 129 g",
+      "values": {
+        "Energie": "0 kJ / 0 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "390 mg",
+        "Vezels": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Waarvan toegevoegde suikers": "0 g"
+      }
+    },
+    "nutritionRoundingSource": "https://www.fda.gov/files/food/published/Food-Labeling-Guide-%28PDF%29.pdf"
+  },
+  "22": {
+    "nutrition": {
+      "Energie": "<44 kJ / <10,42 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "958,33 mg",
+      "Vezels": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Zout": "2,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per 48 g",
+      "values": {
+        "Energie": "0 kJ / 0 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "460 mg",
+        "Vezels": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Waarvan toegevoegde suikers": "0 g"
+      }
+    },
+    "nutritionRoundingSource": "https://www.fda.gov/files/food/published/Food-Labeling-Guide-%28PDF%29.pdf"
+  },
+  "23": {
+    "nutrition": {
+      "Energie": "58 kJ / 14 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2,5 g",
+      "Waarvan suikers": "0,5 g",
+      "Eiwitten": "1 g",
+      "Zout": "3,2 g"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "24": {
+    "nutrition": {
+      "Energie": "98 kJ / 23 kcal",
+      "Vetten": "0,2 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "3,6 g",
+      "Waarvan suikers": "3,6 g",
+      "Eiwitten": "0,6 g",
+      "Vezels": "0,9 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "25": {
+    "nutrition": {
+      "Energie": "<17 kJ / <3,85 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "476,92 mg",
+      "Vezels": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Zout": "1,19 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per 130 g",
+      "values": {
+        "Energie": "0 kJ / 0 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "620 mg",
+        "Vezels": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Waarvan toegevoegde suikers": "0 g"
+      }
+    },
+    "nutritionRoundingSource": "https://www.fda.gov/files/food/published/Food-Labeling-Guide-%28PDF%29.pdf"
+  },
+  "26": {
+    "nutrition": {
+      "Energie": "389 kJ / 93 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "13,2 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "7,3 g",
+      "Natrium": "370 mg",
+      "Vezels": "4,2 g",
+      "Zout": "0,93 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  },
+  "27": {
+    "nutrition": {
+      "Energie": "828 kJ / 198 kcal",
+      "Vetten": "19,8 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "1,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,1 g",
+      "Natrium": "1300 mg",
+      "Transvetten": "<0,5 g",
+      "Cholesterol": "25–100 mg",
+      "Zout": "3,25 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product"
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());
+
+window.KPI_PRODUCTS.find(p => p.id === 7).nutrition['Suiker (theelepels)'] = '1,75';
+
+// Zoetzure augurken: verzadigde vetzuren opnieuw gelezen van fysiek etiket.
+window.KPI_PRODUCTS.find(p => p.id === 24).nutrition['Waarvan verzadigde vetzuren'] = '0,1 g';
+
+// Op het 30/36-etiket staat 12 g vezels.
+window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';

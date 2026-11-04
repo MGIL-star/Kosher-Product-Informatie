@@ -3702,3 +3702,46 @@ window.KPI_PRODUCTS = [
     "notice": "Bereiden in de koekenpan of oven. Niet rauw eten. De scheidingsvellen niet als bakpapier gebruiken."
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "76": {
+    "nutrition": {
+      "Calorieën": "714,29",
+      "Totaal vet": "78,57 g",
+      "waarvan verzadigd vet": "21,43 g",
+      "Transvet": "0 g",
+      "Meervoudig onverzadigd vet": "28,57 g",
+      "Enkelvoudig onverzadigd vet": "21,43 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0 g",
+      "Vitamine A": "1000 mcg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (1 eetlepel, 14 g)",
+      "values": {
+        "Calorieën": "100",
+        "Totaal vet": "11 g",
+        "waarvan verzadigd vet": "3 g",
+        "Transvet": "0 g",
+        "Meervoudig onverzadigd vet": "4 g",
+        "Enkelvoudig onverzadigd vet": "3 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "0 mg",
+        "Koolhydraten": "0 g",
+        "Eiwitten": "0 g",
+        "Vitamine A": "140 mcg"
+      }
+    }
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());
+
+(function () { const p = window.KPI_PRODUCTS.find(p => p.id === 76); p.nutrition = {Energie: '2989 kJ / 714,29 kcal', ...p.nutrition}; delete p.nutrition['Calorieën']; }());

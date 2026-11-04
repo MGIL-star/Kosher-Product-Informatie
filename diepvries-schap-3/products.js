@@ -1356,3 +1356,52 @@ window.KPI_PRODUCTS = [
     "nutritionUnit": "per 100 g"
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "3": {
+    "nutrition": {
+      "Energie": "598,21 kJ / 142,86 kcal",
+      "Vetten": "6,25 g",
+      "waarvan verzadigde vetzuren": "2,68 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "89,29 mg",
+      "Natrium": "392,86 mg",
+      "Koolhydraten": "12,5 g",
+      "Vezels": "<1,79 g",
+      "waarvan suikers": "5,36 g",
+      "waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "10,71 g",
+      "Vitamine D": "0 mcg",
+      "Calcium": "17,86 mg",
+      "IJzer": "0,89 mg",
+      "Kalium": "160,71 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionOriginal": {
+      "unit": "per portie (2 worstjes, 56 g)",
+      "values": {
+        "Energie": "335 kJ / 80 kcal",
+        "Vetten": "3,5 g",
+        "waarvan verzadigde vetzuren": "1,5 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "50 mg",
+        "Natrium": "220 mg",
+        "Koolhydraten": "7 g",
+        "Vezels": "<1 g",
+        "waarvan suikers": "3 g",
+        "waarvan toegevoegde suikers": "0 g",
+        "Eiwitten": "6 g",
+        "Vitamine D": "0 mcg",
+        "Calcium": "10 mg",
+        "IJzer": "0,5 mg",
+        "Kalium": "90 mg"
+      }
+    }
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());

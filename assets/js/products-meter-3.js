@@ -560,3 +560,341 @@ window.KPI_PRODUCTS = [
     }
   }
 ];
+
+// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
+(function () {
+  const corrections = {
+  "1": {
+    "nutrition": {
+      "Energie": "895 kJ / 213 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "40 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,09 g",
+      "Vezels": "<1 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g"
+  },
+  "2": {
+    "nutrition": {
+      "Energie": "198 kJ / 46 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "<0,5 g",
+      "Eiwitten": "<0,5 g",
+      "Zout": "0,03 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "3": {
+    "nutrition": {
+      "Energie": "3457 kJ / 826 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "4": {
+    "nutrition": {
+      "Energie": "3457 kJ / 826 kcal",
+      "Vetten": "91,5 g",
+      "Waarvan verzadigde vetzuren": "15,9 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "5": {
+    "nutrition": {
+      "Energie": "3360 kJ / 800 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g",
+      "Enkelvoudig onverzadigde vetzuren": "66,7 g",
+      "Meervoudig onverzadigde vetzuren": "13,3 g",
+      "Transvetten": "<0,05 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "7": {
+    "nutrition": {
+      "Energie": "3469 kJ / 830 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "14 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 g",
+      "Transvetten": "<0,05 g",
+      "Cholesterol": "0 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "9": {
+    "nutrition": {
+      "Energie": "3346,67 kJ / 800 kcal",
+      "Vetten": "93,33 g",
+      "Waarvan verzadigde vetzuren": "13,33 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Transvetten": "0 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionOriginal": {
+      "unit": "per 15 ml",
+      "values": {
+        "Energie": "502 kJ / 120 kcal",
+        "Vetten": "14 g",
+        "Waarvan verzadigde vetzuren": "2 g",
+        "Koolhydraten": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg",
+        "Transvetten": "0 g"
+      }
+    }
+  },
+  "10": {
+    "nutrition": {
+      "Energie": "3346,67 kJ / 800 kcal",
+      "Vetten": "93,33 g",
+      "Waarvan verzadigde vetzuren": "13,33 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Vezels": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionOriginal": {
+      "unit": "per 15 ml",
+      "values": {
+        "Energie": "502 kJ / 120 kcal",
+        "Vetten": "14 g",
+        "Waarvan verzadigde vetzuren": "2 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg",
+        "Vezels": "0 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Vitamine D": "0 µg",
+        "Calcium": "0 mg",
+        "IJzer": "0 mg",
+        "Kalium": "0 mg"
+      }
+    }
+  },
+  "11": {
+    "nutrition": {
+      "Energie": "3404 kJ / 828 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "6,5 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g",
+      "Enkelvoudig onverzadigde vetzuren": "60 g",
+      "Meervoudig onverzadigde vetzuren": "25,5 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "12": {
+    "nutrition": {
+      "Energie": "3404 kJ / 828 kcal",
+      "Vetten": "92 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g",
+      "Enkelvoudig onverzadigde vetzuren": "28 g",
+      "Meervoudig onverzadigde vetzuren": "54 g",
+      "Vitamine E": "50 mg"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "13": {
+    "nutrition": {
+      "Energie": "210 kJ / 49 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "11,8 g",
+      "Waarvan suikers": "11,8 g",
+      "Eiwitten": "0,22 g",
+      "Zout": "0,15 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "14": {
+    "nutrition": {
+      "Energie": "188 kJ / 45 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "10,8 g",
+      "Waarvan suikers": "10,8 g",
+      "Eiwitten": "0 g",
+      "Natrium": "50 mg",
+      "Zout": "0,13 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "15": {
+    "nutrition": {
+      "Energie": "194 kJ / 46 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "10,8 g",
+      "Waarvan suikers": "10,8 g",
+      "Eiwitten": "0,35 g",
+      "Natrium": "64 mg",
+      "Zout": "0,16 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "16": {
+    "nutrition": {
+      "Energie": "176 kJ / 42 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "3,2 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "<0,01 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "17": {
+    "nutrition": {
+      "Energie": "114,24 kJ / 27,27 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "6,97 g",
+      "Waarvan suikers": "4,85 g",
+      "Eiwitten": "<0,3 g",
+      "Natrium": "4,55 mg",
+      "Waarvan toegevoegde suikers": "3,94 g",
+      "Zout": "0,01 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionOriginal": {
+      "unit": "per 330 ml",
+      "values": {
+        "Energie": "377 kJ / 90 kcal",
+        "Vetten": "0 g",
+        "Koolhydraten": "23 g",
+        "Waarvan suikers": "16 g",
+        "Eiwitten": "<1 g",
+        "Natrium": "15 mg",
+        "Waarvan toegevoegde suikers": "13 g"
+      }
+    }
+  },
+  "18": {
+    "nutrition": {
+      "Energie": "63 kJ / 15 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "20 mg",
+      "Zout": "0,05 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "19": {
+    "nutrition": {
+      "Energie": "50 kJ / 12 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  },
+  "20": {
+    "nutrition": {
+      "Energie": "196 kJ / 47 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "10,8 g",
+      "Waarvan suikers": "10,8 g",
+      "Eiwitten": "0,35 g",
+      "Natrium": "50 mg",
+      "Zout": "0,13 g"
+    },
+    "nutritionUnit": "per 100 ml"
+  }
+};
+  for (const product of window.KPI_PRODUCTS) {
+    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
+  }
+}());
+
+// Aanvullende zichtbare etiketregels na vergroting.
+(function () {
+ const values = {
+  "2": {
+    "Energie": "105 kJ / 25 kcal"
+  },
+  "11": {
+    "Vitamine E": "53 mg"
+  },
+  "14": {
+    "Niacine": "7 mg",
+    "Pantotheenzuur (B5)": "1,98 mg",
+    "Vitamine B6": "1,4 mg",
+    "Vitamine B12": "0,5 µg"
+  },
+  "15": {
+    "Taurine": "400 mg",
+    "Cafeïne": "32 mg",
+    "Niacine": "7 mg",
+    "Pantotheenzuur (B5)": "2 mg",
+    "Vitamine B2": "0,53 mg",
+    "Vitamine B6": "1,4 mg",
+    "Vitamine B12": "0,5 µg"
+  },
+  "18": {
+    "Azijnzuur": "5 g"
+  },
+  "20": {
+    "Taurine": "400 mg",
+    "Cafeïne": "32 mg",
+    "Niacine": "7 mg",
+    "Pantotheenzuur (B5)": "1,98 mg",
+    "Vitamine B6": "1,4 mg",
+    "Vitamine B12": "0,5 µg"
+  }
+};
+ for (const p of window.KPI_PRODUCTS) if(values[p.id]) Object.assign(p.nutrition,values[p.id]);
+}());
+
+// Energiewaarden bevestigd door gebruiker na etiketvergroting.
+window.KPI_PRODUCTS.find(p => p.id === 2).nutrition.Energie = '108 kJ / 25 kcal';
+window.KPI_PRODUCTS.find(p => p.id === 14).nutrition['Suiker (theelepels)'] = '2,75';
