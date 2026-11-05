@@ -300,7 +300,7 @@ window.KPI_PRODUCTS = [
       "IJzer": "0 mg",
       "Kalium": "0 mg",
       "Toegevoegde suikers": "0 g",
-      "Vitamine D": "0 µg"
+      "Vitamine D": "0 microgram"
     },
     "nutritionUnit": "per 100 g",
     "nutritionChecked": "2026-11-05",

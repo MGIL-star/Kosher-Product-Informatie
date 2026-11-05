@@ -683,7 +683,7 @@ window.KPI_PRODUCTS = [
       "Vezels": "0 g",
       "Transvetten": "0 g",
       "Cholesterol": "0 mg",
-      "Vitamine D": "0 µg",
+      "Vitamine D": "0 microgram",
       "Calcium": "0 mg",
       "IJzer": "0 mg",
       "Kalium": "0 mg",
@@ -703,7 +703,7 @@ window.KPI_PRODUCTS = [
         "Vezels": "0 g",
         "Transvetten": "0 g",
         "Cholesterol": "0 mg",
-        "Vitamine D": "0 µg",
+        "Vitamine D": "0 microgram",
         "Calcium": "0 mg",
         "IJzer": "0 mg",
         "Kalium": "0 mg"
@@ -869,7 +869,7 @@ window.KPI_PRODUCTS = [
     "Niacine": "7 mg",
     "Pantotheenzuur (B5)": "1,98 mg",
     "Vitamine B6": "1,4 mg",
-    "Vitamine B12": "0,5 µg"
+    "Vitamine B12": "0,5 microgram"
   },
   "15": {
     "Taurine": "400 mg",
@@ -878,7 +878,7 @@ window.KPI_PRODUCTS = [
     "Pantotheenzuur (B5)": "2 mg",
     "Vitamine B2": "0,53 mg",
     "Vitamine B6": "1,4 mg",
-    "Vitamine B12": "0,5 µg"
+    "Vitamine B12": "0,5 microgram"
   },
   "18": {
     "Azijnzuur": "5 g"
@@ -889,7 +889,7 @@ window.KPI_PRODUCTS = [
     "Niacine": "7 mg",
     "Pantotheenzuur (B5)": "1,98 mg",
     "Vitamine B6": "1,4 mg",
-    "Vitamine B12": "0,5 µg"
+    "Vitamine B12": "0,5 microgram"
   }
 };
  for (const p of window.KPI_PRODUCTS) if(values[p.id]) Object.assign(p.nutrition,values[p.id]);

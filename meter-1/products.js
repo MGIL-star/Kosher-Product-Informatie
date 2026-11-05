@@ -199,7 +199,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "11 g",
       "waarvan suikers": "11 g",
       "Eiwitten": "0,1 g",
-      "Natrium": "0,0022 g"
+      "Natrium": "2,2 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-bac74f64-2b1f-48a1-9f63-3d8d303cc943.jpg"
@@ -250,7 +250,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "11 g",
       "waarvan suikers": "11 g",
       "Eiwitten": "0,1 g",
-      "Natrium": "0,0022 g"
+      "Natrium": "2,2 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-bac74f64-2b1f-48a1-9f63-3d8d303cc943.jpg; dezelfde tabel als helder appelsap op verzoek gebruiker."
@@ -301,7 +301,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "10 g",
       "waarvan suikers": "10 g",
       "Eiwitten": "0,7 g",
-      "Natrium": "0,0014 g"
+      "Natrium": "1,4 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-272e827a-aae5-4693-b450-1be51170a91b.jpg"

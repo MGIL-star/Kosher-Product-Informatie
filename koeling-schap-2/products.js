@@ -3504,7 +3504,7 @@ window.KPI_PRODUCTS = [
       "Natrium": "0 mg",
       "Koolhydraten": "0 g",
       "Eiwitten": "0 g",
-      "Vitamine A": "140 mcg"
+      "Vitamine A": "140 microgram"
     },
     "nutritionUnit": "per portie (1 eetlepel, 14 g)",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-migdal-margarine/codex-clipboard-76432141-0f75-44dc-b180-8454f42faa5c.jpg.",
@@ -3718,7 +3718,7 @@ window.KPI_PRODUCTS = [
       "Natrium": "0 mg",
       "Koolhydraten": "0 g",
       "Eiwitten": "0 g",
-      "Vitamine A": "1000 mcg"
+      "Vitamine A": "1000 microgram"
     },
     "nutritionUnit": "per 100 g",
     "nutritionOriginal": {

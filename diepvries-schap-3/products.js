@@ -350,7 +350,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "3 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "6 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "10 mg",
       "IJzer": "0,5 mg",
       "Kalium": "90 mg"
@@ -1373,7 +1373,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "5,36 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "10,71 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "17,86 mg",
       "IJzer": "0,89 mg",
       "Kalium": "160,71 mg"

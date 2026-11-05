@@ -37,7 +37,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "1 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "13 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "35 mg",
       "IJzer": "1,9 mg",
       "Kalium": "240 mg"
@@ -76,7 +76,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "1 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "13 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "35 mg",
       "IJzer": "1,9 mg",
       "Kalium": "240 mg"
@@ -114,7 +114,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "20 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "10 mg",
       "IJzer": "0,6 mg",
       "Kalium": "300 mg"
@@ -531,7 +531,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,88 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "11,5 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "30,97 mg",
       "IJzer": "1,68 mg",
       "Kalium": "212,39 mg"
@@ -571,7 +571,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,88 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "11,5 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "30,97 mg",
       "IJzer": "1,68 mg",
       "Kalium": "212,39 mg"
