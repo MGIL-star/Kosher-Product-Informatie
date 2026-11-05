@@ -29,7 +29,27 @@ window.KPI_PRODUCTS = [
       "width": 0.6333333333333333,
       "height": 1,
       "aspectRatio": 0.6333333333333333
-    }
+    },
+    "nutrition": {
+      "Energie": "1531 kJ / 366 kcal",
+      "Vetten": "2,4 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "3,5 g",
+      "Eiwitten": "11 g",
+      "Zout": "0,875 g",
+      "Natrium": "350 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "0,75"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-f1802bea-4244-4b4b-9b63-3676669bcda3.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-1222f05c-971e-4c0b-9453-e6d5f52e2f53.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -66,7 +86,24 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1556 kJ / 372 kcal",
+      "Vetten": "1,8 g",
+      "Koolhydraten": "77 g",
+      "Waarvan suikers": "4,3 g",
+      "Eiwitten": "12 g",
+      "Zout": "0,525 g",
+      "Natrium": "210 mg",
+      "Suikerklontjes": "1"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-a904a556-5456-47ea-8589-afc4088d86ce.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-3c8b57c3-8ed5-4220-b084-2b6d01c20d25.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Davidovich",
@@ -106,7 +143,26 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Rabbinaat Kiryat Ata (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1606 kJ / 384 kcal",
+      "Vetten": "2,9 g",
+      "Waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "79,2 g",
+      "Waarvan suikers": "4,2 g",
+      "Eiwitten": "10,2 g",
+      "Zout": "0,975 g",
+      "Natrium": "390 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "1"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-7631c981-3864-4072-8e12-4c923fd4d110.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Davidovich",
@@ -162,7 +218,27 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Rabbinaat Kiryat Ata (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1594 kJ / 381 kcal",
+      "Vetten": "3,8 g",
+      "Waarvan verzadigde vetzuren": "1,79 g",
+      "Koolhydraten": "67,7 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,4 g",
+      "Eiwitten": "15,35 g",
+      "Zout": "1,5725 g",
+      "Natrium": "629 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "1"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-e13d42ab-c39b-4d6a-baea-6ae10db85aa6.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Davidovich",
@@ -219,7 +295,27 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Rabbinaat Kiryat Ata (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1594 kJ / 381 kcal",
+      "Vetten": "3,8 g",
+      "Waarvan verzadigde vetzuren": "1,79 g",
+      "Koolhydraten": "67,7 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,4 g",
+      "Eiwitten": "15,35 g",
+      "Zout": "1,5725 g",
+      "Natrium": "629 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "1"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-ab8959e7-e5d5-48e4-84eb-d96065e86aca.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Davidovich",
@@ -266,7 +362,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Rabbinaat Kiryat Ata (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1702 kJ / 407 kcal",
+      "Vetten": "8,9 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "69,3 g",
+      "Waarvan suikers": "3 g",
+      "Eiwitten": "12,4 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-8e01ce3e-efc9-43a4-94dd-c28dee2d6bcd.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -358,7 +469,23 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1133 kJ / 268 kcal",
+      "Vetten": "4,3 g",
+      "Waarvan verzadigde vetzuren": "2,3 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "20 g",
+      "Eiwitten": "4,3 g",
+      "Zout": "35,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-27377305-34d1-4f8f-aa25-2e7a9e022f49.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-f1637858-2957-4410-b7df-2199669d343b.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -392,7 +519,72 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7124600638977636
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "nutrition": {
+      "Energie": "1230 kJ / 295 kcal",
+      "Vetten": "5,8824 g",
+      "Waarvan verzadigde vetzuren": "5,8824 g",
+      "Koolhydraten": "58,8235 g",
+      "Waarvan suikers": "17,6471 g",
+      "Vezels": "< 5,8824 g",
+      "Eiwitten": "5,8824 g",
+      "Zout": "17,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Toegevoegde suikers": "17,6471 g",
+      "Calcium": "29,4118 mg",
+      "IJzer": "0 mg",
+      "Kalium": "23,5294 mg",
+      "Natrium": "7000 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 17 g",
+      "kcal": 50,
+      "fat": 1,
+      "saturated": 1,
+      "carbohydrates": 10,
+      "sugars": 3,
+      "fibre": "<1",
+      "protein": 1,
+      "sodiumMg": 1190,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          3,
+          "g"
+        ],
+        "Calcium": [
+          5,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          4,
+          "mg"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-20b46bf2-e8c9-408a-ae74-d2f44fbc5d7b.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -434,7 +626,46 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1255 kJ / 300 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "70 g",
+      "Waarvan suikers": "20 g",
+      "Eiwitten": "0 g",
+      "Zout": "19,25 g",
+      "Transvetten": "0 g",
+      "Toegevoegde suikers": "20 g",
+      "Natrium": "7700 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 10 g",
+      "kcal": 30,
+      "fat": 0,
+      "saturated": 0,
+      "carbohydrates": 7,
+      "sugars": 2,
+      "fibre": null,
+      "protein": 0,
+      "sodiumMg": 770,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Toegevoegde suikers": [
+          2,
+          "g"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-b7e19b13-b389-4ec9-bf6c-56aa9ff11bfa.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -508,7 +739,72 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1569 kJ / 375 kcal",
+      "Vetten": "8,3333 g",
+      "Waarvan verzadigde vetzuren": "4,1667 g",
+      "Koolhydraten": "66,6667 g",
+      "Waarvan suikers": "12,5 g",
+      "Vezels": "0 g",
+      "Eiwitten": "8,3333 g",
+      "Zout": "7,3958 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Toegevoegde suikers": "12,5 g",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "1791,6667 mg",
+      "Natrium": "2958,3333 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 24 g",
+      "kcal": 90,
+      "fat": 2,
+      "saturated": 1,
+      "carbohydrates": 16,
+      "sugars": 3,
+      "fibre": 0,
+      "protein": 2,
+      "sodiumMg": 710,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          3,
+          "g"
+        ],
+        "Calcium": [
+          0,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          430,
+          "mg"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-8e7b9f14-3d9c-4bf0-affc-cfb917848aad.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 13,
@@ -541,7 +837,23 @@ window.KPI_PRODUCTS = [
     },
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "1431 kJ / 338 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "0,5 g",
+      "Vezels": "5 g",
+      "Eiwitten": "8 g",
+      "Zout": "0,03 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-d9e7bf3f-8b9d-4b99-a3be-1887e0c0f715.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 42,
@@ -582,7 +894,72 @@ window.KPI_PRODUCTS = [
       "cb6c193b-63be-4a62-9cd9-d4913ffc2518.jpg"
     ],
     "ingredientsPartial": false,
-    "barcodeSource": "Etiketfoto gebruiker: cb6c193b-63be-4a62-9cd9-d4913ffc2518.jpg"
+    "barcodeSource": "Etiketfoto gebruiker: cb6c193b-63be-4a62-9cd9-d4913ffc2518.jpg",
+    "nutrition": {
+      "Energie": "637 kJ / 153 kcal",
+      "Vetten": "8,9231 g",
+      "Waarvan verzadigde vetzuren": "1,3077 g",
+      "Koolhydraten": "2,8462 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0,5385 g",
+      "Eiwitten": "15,3846 g",
+      "Zout": "0,9327 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Toegevoegde suikers": "0 g",
+      "Calcium": "15,7692 mg",
+      "IJzer": "4,3077 mg",
+      "Kalium": "15,6154 mg",
+      "Natrium": "373,0769 mg"
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 130 g bereid product",
+      "kcal": 198,
+      "fat": 11.6,
+      "saturated": 1.7,
+      "carbohydrates": 3.7,
+      "sugars": 0,
+      "fibre": 0.7,
+      "protein": 20,
+      "sodiumMg": 485,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          0,
+          "g"
+        ],
+        "Calcium": [
+          20.5,
+          "mg"
+        ],
+        "IJzer": [
+          5.6,
+          "mg"
+        ],
+        "Kalium": [
+          20.3,
+          "mg"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-cf2410be-960b-4411-abbd-ad6404580e63.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 14,
@@ -622,7 +999,72 @@ window.KPI_PRODUCTS = [
       "86aaaae7-b6cf-4bb7-ad56-4339a0513e09.jpg"
     ],
     "ingredientsPartial": false,
-    "barcodeSource": "Etiketfoto gebruiker: 86aaaae7-b6cf-4bb7-ad56-4339a0513e09.jpg"
+    "barcodeSource": "Etiketfoto gebruiker: 86aaaae7-b6cf-4bb7-ad56-4339a0513e09.jpg",
+    "nutrition": {
+      "Energie": "502 kJ / 120 kcal",
+      "Vetten": "5,3077 g",
+      "Waarvan verzadigde vetzuren": "0,7692 g",
+      "Koolhydraten": "2,8462 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0,5385 g",
+      "Eiwitten": "15,3846 g",
+      "Zout": "0,95 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Toegevoegde suikers": "0 g",
+      "Calcium": "15,7692 mg",
+      "IJzer": "4,3846 mg",
+      "Kalium": "15,6154 mg",
+      "Natrium": "380 mg"
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 130 g bereid product",
+      "kcal": 156,
+      "fat": 6.9,
+      "saturated": 1,
+      "carbohydrates": 3.7,
+      "sugars": 0,
+      "fibre": 0.7,
+      "protein": 20,
+      "sodiumMg": 494,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          0,
+          "g"
+        ],
+        "Calcium": [
+          20.5,
+          "mg"
+        ],
+        "IJzer": [
+          5.7,
+          "mg"
+        ],
+        "Kalium": [
+          20.3,
+          "mg"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-f9fe88eb-db77-4fbf-b660-a31686144c57.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 15,
@@ -661,7 +1103,72 @@ window.KPI_PRODUCTS = [
       "9a241d9a-9003-4db0-8158-7763d3bfa02b.jpg"
     ],
     "ingredientsPartial": false,
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "nutrition": {
+      "Energie": "640 kJ / 154 kcal",
+      "Vetten": "8,9231 g",
+      "Waarvan verzadigde vetzuren": "1,3077 g",
+      "Koolhydraten": "3,0769 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0,5385 g",
+      "Eiwitten": "15,3846 g",
+      "Zout": "0,95 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Toegevoegde suikers": "0 g",
+      "Calcium": "15,7692 mg",
+      "IJzer": "4,3846 mg",
+      "Kalium": "15,6154 mg",
+      "Natrium": "380 mg"
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 130 g bereid product",
+      "kcal": 199,
+      "fat": 11.6,
+      "saturated": 1.7,
+      "carbohydrates": 4,
+      "sugars": 0,
+      "fibre": 0.7,
+      "protein": 20,
+      "sodiumMg": 494,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          0,
+          "g"
+        ],
+        "Calcium": [
+          20.5,
+          "mg"
+        ],
+        "IJzer": [
+          5.7,
+          "mg"
+        ],
+        "Kalium": [
+          20.3,
+          "mg"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-f5ad474a-bf16-427f-ab66-92e3629312a7.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 16,
@@ -702,7 +1209,72 @@ window.KPI_PRODUCTS = [
     ],
     "barcodeNeedsCheck": false,
     "barcodeSource": "Etiketfoto gebruiker: 53629820-bcc1-4d12-bae7-b8305fdcc21d.jpg",
-    "reviewNotes": "Op 9 oktober 2026 heeft de gebruiker verzocht het onduidelijke woord Inactivation niet op te nemen en dit controlepunt af te sluiten. De overige leesbare ingrediënten blijven behouden; de betekenis van het weggelaten woord is niet vastgesteld."
+    "reviewNotes": "Op 9 oktober 2026 heeft de gebruiker verzocht het onduidelijke woord Inactivation niet op te nemen en dit controlepunt af te sluiten. De overige leesbare ingrediënten blijven behouden; de betekenis van het weggelaten woord is niet vastgesteld.",
+    "nutrition": {
+      "Energie": "505 kJ / 121 kcal",
+      "Vetten": "5,1538 g",
+      "Waarvan verzadigde vetzuren": "0,7692 g",
+      "Koolhydraten": "4,3077 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0,3846 g",
+      "Eiwitten": "14,6154 g",
+      "Zout": "0,9327 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vitamine D": "0 µg",
+      "Toegevoegde suikers": "0 g",
+      "Calcium": "16,7692 mg",
+      "IJzer": "4,3077 mg",
+      "Kalium": "11,5385 mg",
+      "Natrium": "373,0769 mg"
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 130 g bereid product",
+      "kcal": 157,
+      "fat": 6.7,
+      "saturated": 1,
+      "carbohydrates": 5.6,
+      "sugars": 0,
+      "fibre": 0.5,
+      "protein": 19,
+      "sodiumMg": 485,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          0,
+          "g"
+        ],
+        "Calcium": [
+          21.8,
+          "mg"
+        ],
+        "IJzer": [
+          5.6,
+          "mg"
+        ],
+        "Kalium": [
+          15,
+          "mg"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-73291311-5a71-48aa-a005-bbf5095fcdd5.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 17,
@@ -735,7 +1307,26 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6822107081174439
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "nutrition": {
+      "Energie": "2313 kJ / 553 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "3,4 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "2,3 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,9875 g",
+      "Natrium": "395 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "0,5"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-0c81b456-5a5a-49b7-9d25-e92f48818a92.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 18,
@@ -774,7 +1365,24 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/3.jpg",
       "C:/Users/ellag/OneDrive/Desktop/thee/4.jpg"
     ],
-    "kosherSource": "Etiketfoto gebruiker: thee/3.jpg, thee/4.jpg"
+    "kosherSource": "Etiketfoto gebruiker: thee/3.jpg, thee/4.jpg",
+    "nutrition": {
+      "Energie": "1497 kJ / 358 kcal",
+      "Vetten": "1,2 g",
+      "Koolhydraten": "73 g",
+      "Waarvan suikers": "2 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "12 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg",
+      "Suikerklontjes": "0,5"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-8f34ce35-a0c6-47be-a0c0-347480f89b49.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 19,
@@ -813,7 +1421,24 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/1.jpg",
       "C:/Users/ellag/OneDrive/Desktop/thee/2.jpg"
     ],
-    "kosherSource": "Etiketfoto gebruiker: thee/1.jpg, thee/2.jpg"
+    "kosherSource": "Etiketfoto gebruiker: thee/1.jpg, thee/2.jpg",
+    "nutrition": {
+      "Energie": "1497 kJ / 358 kcal",
+      "Vetten": "1,2 g",
+      "Koolhydraten": "73 g",
+      "Waarvan suikers": "2 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "12 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg",
+      "Suikerklontjes": "0,5"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-c42b47f2-a746-44ea-a6a3-1d34e71ec2b8.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 20,
@@ -850,7 +1475,23 @@ window.KPI_PRODUCTS = [
       "OU",
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1525 kJ / 360 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1,8 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "11 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-81b188be-4b86-419e-8f12-8ed7ead287fe.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 21,
@@ -886,7 +1527,23 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1525 kJ / 360 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1,8 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "11 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-c2ea56ef-cae3-4928-8be4-6468958c166b.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 22,
@@ -923,7 +1580,23 @@ window.KPI_PRODUCTS = [
       "OU",
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1525 kJ / 360 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1,8 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "11 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-4c9c2f67-137b-493a-b429-1bb374746049.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 23,
@@ -960,7 +1633,27 @@ window.KPI_PRODUCTS = [
     "kosherSources": [
       "https://www.osem-nestle.co.il/brands/אסם/פתיתים-ותוספות/קוסקוס-אסם-בינוני",
       "https://www.kosharot.com/index2.php?id=281&lang=HEB"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1481 kJ / 354 kcal",
+      "Vetten": "1 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "0,5 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "9,5 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-13d8d373-7006-41d4-a900-ca7857df41e3.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-6a9cc56d-395d-40bf-9e77-bf925ff32c6a.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 24,
@@ -991,7 +1684,23 @@ window.KPI_PRODUCTS = [
     },
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "1535 kJ / 367 kcal",
+      "Vetten": "3 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "0,7 g",
+      "Vezels": "6 g",
+      "Eiwitten": "13 g",
+      "Zout": "0,01 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-5bf4dcf6-e1c2-45ec-96e0-1aa937e9ffea.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 25,
@@ -1024,7 +1733,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.3246753246753247
     },
     "kosherChecked": "2026-09-27",
-    "kosherVerification": "label"
+    "kosherVerification": "label",
+    "nutrition": {
+      "Energie": "2146 kJ / 512 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-4ce2b0fa-a5a2-43d1-aafd-42203a84a187.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 43,
@@ -1047,7 +1771,22 @@ window.KPI_PRODUCTS = [
       "source-labels/20261014-osem-spicy-croutons/back-original.jpg",
       "source-labels/20261014-osem-spicy-croutons/barcode-original.jpg"
     ],
-    "kosherSource": "Badatz Edah HaChareidis (Parve), overgenomen van Mini Croutons Pot op verzoek van de gebruiker."
+    "kosherSource": "Badatz Edah HaChareidis (Parve), overgenomen van Mini Croutons Pot op verzoek van de gebruiker.",
+    "nutrition": {
+      "Energie": "2143 kJ / 511 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "8,8 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-7ab2ed6a-3be6-4b20-bc41-a9c48829b694.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 26,
@@ -1085,7 +1824,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2146 kJ / 512 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-d817710c-714a-45c4-b410-96a163508fea.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 27,
@@ -1122,7 +1876,22 @@ window.KPI_PRODUCTS = [
       "Badatz Edah HaChareidis (Parve)",
       "Opperrabbinaat Sderot",
       "OU-P"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1744 kJ / 415 kcal",
+      "Vetten": "17 g",
+      "Waarvan verzadigde vetzuren": "8,7 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "3 g",
+      "Eiwitten": "7,6 g",
+      "Zout": "3,8 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-919e480a-8d1c-46e7-97cf-79757ac56edf.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 28,
@@ -1161,7 +1930,22 @@ window.KPI_PRODUCTS = [
       "Badatz Edah HaChareidis (Parve)",
       "Opperrabbinaat Sderot",
       "OU-P"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1950 kJ / 465 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "1,4 g",
+      "Eiwitten": "10 g",
+      "Zout": "3,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-9fafedd3-2f4f-4864-a7b1-7af6533e481d.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 29,
@@ -1200,7 +1984,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1327 kJ / 316 kcal",
+      "Vetten": "3 g",
+      "Waarvan verzadigde vetzuren": "1,5 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "8,5 g",
+      "Eiwitten": "8,5 g",
+      "Zout": "18,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-3ce5f383-b234-4bcc-ac3f-50637be82df2.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 30,
@@ -1238,7 +2037,23 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1460 kJ / 349 kcal",
+      "Vetten": "3,1 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "5 g",
+      "Vezels": "17 g",
+      "Eiwitten": "17 g",
+      "Zout": "3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-8e174b5b-04a9-45dd-b7ec-4f2edf0de982.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 31,
@@ -1275,7 +2090,22 @@ window.KPI_PRODUCTS = [
       "OU",
       "Badatz Edah HaChareidis",
       "Rabbinaat Matte Asher (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1502 kJ / 359 kcal",
+      "Vetten": "7 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "3 g",
+      "Eiwitten": "19 g",
+      "Zout": "3,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-1e3c2106-19bd-4278-aafd-677d58e92a34.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 32,
@@ -1318,7 +2148,22 @@ window.KPI_PRODUCTS = [
       "STAR-K",
       "CRC",
       "rabbijn Schneebalg (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2460 kJ / 590 kcal",
+      "Vetten": "44 g",
+      "Waarvan verzadigde vetzuren": "19 g",
+      "Koolhydraten": "40 g",
+      "Waarvan suikers": "20 g",
+      "Eiwitten": "6 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-431c0143-1bca-46a6-9f57-8744bcb49108.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 33,
@@ -1365,7 +2210,26 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis Jeruzalem",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1648 kJ / 394 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "8 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "3,5 g",
+      "Eiwitten": "11 g",
+      "Zout": "9,25 g",
+      "Natrium": "3700 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "0,75"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-1b6a3678-6d1c-4c3b-b1a5-b8af9e9ea5fe.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 34,
@@ -1412,7 +2276,26 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah HaChareidis Jeruzalem",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1652 kJ / 395 kcal",
+      "Vetten": "10,5 g",
+      "Waarvan verzadigde vetzuren": "5,5 g",
+      "Koolhydraten": "67 g",
+      "Waarvan suikers": "5 g",
+      "Eiwitten": "1,25 g",
+      "Zout": "9,8625 g",
+      "Natrium": "3945 mg",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Suikerklontjes": "1,25"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-6f2aaaf7-0b80-4853-a979-e852649f4a2d.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 35,
@@ -1451,7 +2334,24 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "448 kJ / 106 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "0,7 g",
+      "Vezels": "1,4 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,9 g"
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-7379d8a1-14c3-4ef1-8f2a-26a8361e3249.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-0770eef3-7b64-4e87-b3b0-b7658acdfe72.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 36,
@@ -1538,7 +2438,26 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/10.jpg"
     ],
     "kosherSource": "Etiketfoto gebruiker: thee/8.jpg, thee/9.jpg, thee/10.jpg",
-    "imageVerification": "Bestaande bewerkte productfoto op 9 oktober 2026 vergeleken met nieuwe gebruikersfoto: merk, smaak en 68 g komen overeen."
+    "imageVerification": "Bestaande bewerkte productfoto op 9 oktober 2026 vergeleken met nieuwe gebruikersfoto: merk, smaak en 68 g komen overeen.",
+    "nutrition": {
+      "Energie": "1914 kJ / 457 kcal",
+      "Vetten": "18,7 g",
+      "Waarvan verzadigde vetzuren": "8,4 g",
+      "Koolhydraten": "58,1 g",
+      "Waarvan suikers": "2,4 g",
+      "Vezels": "3,2 g",
+      "Eiwitten": "12,8 g",
+      "Zout": "4,4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-e99a9c85-a5a4-4227-8579-6bca5f06ff3a.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-01e290f3-9bae-4138-92ce-bd97c8ec2ad5.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 38,
@@ -1589,7 +2508,26 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/12.jpg"
     ],
     "kosherSource": "Etiketfoto gebruiker: thee/11.jpg, thee/12.jpg",
-    "imageVerification": "Bestaande bewerkte productfoto op 9 oktober 2026 vergeleken met nieuwe gebruikersfoto: merk, smaak en 68 g komen overeen."
+    "imageVerification": "Bestaande bewerkte productfoto op 9 oktober 2026 vergeleken met nieuwe gebruikersfoto: merk, smaak en 68 g komen overeen.",
+    "nutrition": {
+      "Energie": "1846 kJ / 441 kcal",
+      "Vetten": "17,5 g",
+      "Waarvan verzadigde vetzuren": "8,1 g",
+      "Koolhydraten": "57,4 g",
+      "Waarvan suikers": "2,4 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "11,6 g",
+      "Zout": "4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-c58a94f8-90a1-44a5-bc3c-3597422b62ea.jpg",
+      "source-labels/20261105-nutrition/codex-clipboard-5779865f-e125-426f-ab0a-53bfda28b876.jpg"
+    ],
+    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
     "id": 39,

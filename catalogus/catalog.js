@@ -31,7 +31,7 @@
       source.data = source.data.split('?')[0] + '?v=20261103-energie';
     }
   }
-  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261105-energy-rounding';
+  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261105-meter7-nutrition';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
