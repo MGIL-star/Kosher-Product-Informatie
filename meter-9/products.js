@@ -218,10 +218,10 @@ window.KPI_PRODUCTS = [
     "nutritionUnit": "per 100 g",
     "nutrition": {
       "Energie": "1761 kJ / 421 kcal",
-      "Vetten": "21,20 g",
+      "Vetten": "21,2 g",
       "Waarvan verzadigde vetzuren": "6,9 g",
       "Eiwitten": "4,58 g",
-      "Koolhydraten": "51,70 g",
+      "Koolhydraten": "51,7 g",
       "Waarvan suikers": "26,2 g",
       "Zout": "761 mg"
     },

@@ -500,7 +500,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "1,9 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "10,9 g",
-      "Zout": "1,0 g"
+      "Zout": "1 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Tasty Foods Nutrition Facts (29 oktober 2026), Tuna Deluxe (code 032), per 100 g.",
@@ -1400,7 +1400,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "5,4 g",
       "waarvan suikers": "<0,5 g",
       "Eiwitten": "6,7 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-tarama/codex-clipboard-02c6ee83-44fd-40db-b95a-21a11ac05937.jpg.",
@@ -2400,7 +2400,7 @@ window.KPI_PRODUCTS = [
       "waarvan verzadigde vetzuren": "0,4 g",
       "Koolhydraten": "1,6 g",
       "waarvan suikers": "0,4 g",
-      "Eiwitten": "23,0 g",
+      "Eiwitten": "23 g",
       "Zout": "1,78 g"
     },
     "nutritionUnit": "per 100 g",
@@ -2458,12 +2458,12 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "nutrition": {
       "Energie": "544 kJ / 130 kcal",
-      "Vetten": "4,0 g",
+      "Vetten": "4 g",
       "waarvan verzadigde vetzuren": "1,4 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "<0,1 g",
       "Eiwitten": "23,2 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-pastrami/codex-clipboard-4f809c74-bd05-4f6e-b196-55632a0cc622.jpg.",
@@ -2514,7 +2514,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "0,2 g",
       "waarvan suikers": "<0,1 g",
       "Eiwitten": "21,9 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-a0bc2d58-3a66-4cc3-a2e9-02714dc9c9c0.jpg."
@@ -2638,12 +2638,12 @@ window.KPI_PRODUCTS = [
     "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
     "nutrition": {
       "Energie": "544 kJ / 130 kcal",
-      "Vetten": "4,0 g",
+      "Vetten": "4 g",
       "waarvan verzadigde vetzuren": "1,4 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "<0,1 g",
       "Eiwitten": "23,2 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-f0a902cf-ce57-4cd2-81ad-f53210dacc74.jpg."

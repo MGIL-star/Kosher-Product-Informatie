@@ -458,7 +458,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "1 g",
       "Vezels": "0,5 g",
       "Eiwitten": "2 g",
-      "Zout": "0,845 g"
+      "Zout": "0,85 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -508,7 +508,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,8 g",
       "Vezels": "4 g",
       "Eiwitten": "11 g",
-      "Zout": "0,985 g"
+      "Zout": "0,99 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -557,7 +557,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "5,7 g",
       "Vezels": "0,5 g",
       "Eiwitten": "2,5 g",
-      "Zout": "0,818 g"
+      "Zout": "0,82 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -606,7 +606,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,8 g",
       "Vezels": "0,9 g",
       "Eiwitten": "1 g",
-      "Zout": "0,978 g"
+      "Zout": "0,98 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -723,7 +723,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "5,7 g",
       "Vezels": "0,5 g",
       "Eiwitten": "2,5 g",
-      "Zout": "0,818 g"
+      "Zout": "0,82 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -773,7 +773,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "4 g",
       "Vezels": "1 g",
       "Eiwitten": "11 g",
-      "Zout": "0,985 g"
+      "Zout": "0,99 g"
     },
     "nutritionUnit": "per 100 g"
   },

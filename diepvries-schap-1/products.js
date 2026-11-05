@@ -221,7 +221,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -249,7 +249,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -277,7 +277,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -305,7 +305,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -333,7 +333,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -361,7 +361,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -389,7 +389,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -417,7 +417,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -445,7 +445,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -473,7 +473,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -501,7 +501,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",

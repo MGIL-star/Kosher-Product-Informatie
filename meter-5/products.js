@@ -292,7 +292,7 @@ window.KPI_PRODUCTS = [
       "Waarvan suikers": "0 g",
       "Vezels": "3,33 g",
       "Eiwitten": "26,67 g",
-      "Zout": "0,375 g",
+      "Zout": "0,38 g",
       "Transvetten": "0 g",
       "Cholesterol": "0 mg",
       "Natrium": "150 mg",
@@ -696,7 +696,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "12 g",
       "Waarvan suikers": "9,8 g",
       "Eiwitten": "0,5 g",
-      "Zout": "0,985 g",
+      "Zout": "0,99 g",
       "Transvetten": "< 0,5 g",
       "Cholesterol": "0 mg",
       "Natrium": "394 mg",
@@ -884,7 +884,21 @@ window.KPI_PRODUCTS = [
       "STAR-K",
       "Manchester Beth Din",
       "Rabbijn E.L. Schneebalg (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1641 kJ / 398 kcal",
+      "Vetten": "39,7 g",
+      "Waarvan verzadigde vetzuren": "4,4 g",
+      "Koolhydraten": "5,4 g",
+      "Waarvan suikers": "3 g",
+      "Vezels": "2,6 g",
+      "Eiwitten": "3,5 g",
+      "Zout": "2,08 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "https://shneiders.fr/import_images/PLI_02_TABNUT.png",
+    "nutritionBarcodeSource": "https://www.nutritionvalue.org/Genovese_pesto_sauce_with_basil_by_SHNEIDER%27S_591144_nutritional_value.html"
   },
   {
     "id": 24,
@@ -1751,7 +1765,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "4,4 g",
       "Waarvan suikers": "0 g",
       "Eiwitten": "8,5 g",
-      "Zout": "0,915 g",
+      "Zout": "0,92 g",
       "Transvetten": "< 0,5 g",
       "Cholesterol": "51 mg",
       "Natrium": "366 mg"
@@ -1877,7 +1891,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "9,1 g",
       "Waarvan suikers": "2,1 g",
       "Eiwitten": "6,7 g",
-      "Zout": "0,875 g",
+      "Zout": "0,88 g",
       "Transvetten": "< 0,5 g",
       "Cholesterol": "30 mg",
       "Natrium": "350 mg",
@@ -2065,7 +2079,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "754 kJ / 180 kcal",
       "Vetten": "8,82 g",
-      "Waarvan verzadigde vetzuren": "1,058 g",
+      "Waarvan verzadigde vetzuren": "1,06 g",
       "Koolhydraten": "0 g",
       "Waarvan suikers": "0 g",
       "Eiwitten": "23,97 g",

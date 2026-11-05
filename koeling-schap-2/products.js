@@ -598,7 +598,7 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-toetjes/codex-clipboard-69cc43f9-f6dc-4782-bd92-e32329aacb94.jpg.",
     "nutrition": {
       "Energie": "536 kJ / 127 kcal",
-      "Vetten": "3,0 g",
+      "Vetten": "3 g",
       "waarvan verzadigde vetzuren": "2,1 g",
       "Koolhydraten": "22 g",
       "waarvan suikers": "20 g",
@@ -718,9 +718,9 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "367 kJ / 87 kcal",
       "Vetten": "1,6 g",
-      "waarvan verzadigde vetzuren": "1,0 g",
-      "Koolhydraten": "16,0 g",
-      "waarvan suikers": "13,0 g",
+      "waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "16 g",
+      "waarvan suikers": "13 g",
       "Eiwitten": "1,9 g",
       "Zout": "0,16 g"
     },
@@ -755,7 +755,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "15,9 g",
       "waarvan suikers": "13 g",
       "Eiwitten": "2,5 g",
-      "Zout": "0,10 g"
+      "Zout": "0,1 g"
     },
     "nutritionUnit": "per 100 g",
     "id": 66,
@@ -1009,9 +1009,9 @@ window.KPI_PRODUCTS = [
       "Energie": "1160 kJ / 281 kcal",
       "Vetten": "27 g",
       "waarvan verzadigde vetzuren": "17,7 g",
-      "Koolhydraten": "3,0 g",
-      "waarvan suikers": "3,0 g",
-      "Eiwitten": "7,0 g",
+      "Koolhydraten": "3 g",
+      "waarvan suikers": "3 g",
+      "Eiwitten": "7 g",
       "Zout": "0,97 g"
     },
     "nutritionUnit": "per 100 g",
@@ -1286,10 +1286,10 @@ window.KPI_PRODUCTS = [
       "Energie": "1593 kJ / 384 kcal",
       "Vetten": "31,2 g",
       "waarvan verzadigde vetzuren": "20,9 g",
-      "Koolhydraten": "0,0 g",
-      "waarvan suikers": "0,0 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
       "Eiwitten": "25,8 g",
-      "Zout": "1,40 g"
+      "Zout": "1,4 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-kaas-16/codex-clipboard-c4860f6f-017e-41f9-98dd-c19ea985acd0.jpg.",
@@ -1391,9 +1391,9 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "1371 kJ / 328 kcal",
       "Vetten": "23,6 g",
-      "waarvan verzadigde vetzuren": "17,0 g",
-      "Koolhydraten": "0,0 g",
-      "waarvan suikers": "0,0 g",
+      "waarvan verzadigde vetzuren": "17 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
       "Eiwitten": "26,2 g",
       "Zout": "2,9 g"
     },
@@ -1440,9 +1440,9 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "1460 kJ / 348 kcal",
       "Vetten": "27,9 g",
-      "waarvan verzadigde vetzuren": "20,0 g",
-      "Koolhydraten": "0,0 g",
-      "waarvan suikers": "0,0 g",
+      "waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
       "Eiwitten": "25,4 g",
       "Zout": "2,7 g"
     },
@@ -1490,8 +1490,8 @@ window.KPI_PRODUCTS = [
       "Energie": "1103 kJ / 263 kcal",
       "Vetten": "16,8 g",
       "waarvan verzadigde vetzuren": "12,1 g",
-      "Koolhydraten": "0,0 g",
-      "waarvan suikers": "0,0 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
       "Eiwitten": "28,3 g",
       "Zout": "1,9 g"
     },
@@ -1539,8 +1539,8 @@ window.KPI_PRODUCTS = [
       "Energie": "1335 kJ / 318 kcal",
       "Vetten": "24,1 g",
       "waarvan verzadigde vetzuren": "17,3 g",
-      "Koolhydraten": "0,0 g",
-      "waarvan suikers": "0,0 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
       "Eiwitten": "26,2 g",
       "Zout": "2,1 g"
     },
@@ -1588,9 +1588,9 @@ window.KPI_PRODUCTS = [
       "Energie": "1506 kJ / 359 kcal",
       "Vetten": "29,7 g",
       "waarvan verzadigde vetzuren": "21,4 g",
-      "Koolhydraten": "0,0 g",
-      "waarvan suikers": "0,0 g",
-      "Eiwitten": "24,0 g",
+      "Koolhydraten": "0 g",
+      "waarvan suikers": "0 g",
+      "Eiwitten": "24 g",
       "Zout": "1,9 g"
     },
     "nutritionUnit": "per 100 g",
@@ -1677,10 +1677,10 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "1383 kJ / 367 kcal",
       "Vetten": "30,6 g",
-      "waarvan verzadigde vetzuren": "22,0 g",
+      "waarvan verzadigde vetzuren": "22 g",
       "Koolhydraten": "0 g",
       "waarvan suikers": "0 g",
-      "Eiwitten": "23,0 g",
+      "Eiwitten": "23 g",
       "Zout": "2,1 g"
     },
     "nutritionUnit": "per 100 g",
@@ -1728,7 +1728,7 @@ window.KPI_PRODUCTS = [
       "Vetten": "29,3 g",
       "waarvan verzadigde vetzuren": "21,1 g",
       "Koolhydraten": "1,2 g",
-      "waarvan suikers": "0,0 g",
+      "waarvan suikers": "0 g",
       "Eiwitten": "23,6 g",
       "Zout": "1,77 g"
     },
@@ -1811,7 +1811,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
-    "nutrition": { "Energie": "1249 kJ / 298 kcal", "Vetten": "21,0 g", "waarvan verzadigde vetzuren": "12,0 g", "Koolhydraten": "5,1 g", "waarvan suikers": "0,6 g", "Eiwitten": "27,8 g", "Zout": "2,0 g" },
+    "nutrition": { "Energie": "1249 kJ / 298 kcal", "Vetten": "21 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "5,1 g", "waarvan suikers": "0,6 g", "Eiwitten": "27,8 g", "Zout": "2 g" },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-kaas-16/codex-clipboard-d028c474-7858-4a4a-a0dc-d65d6a3b851e.jpg.",
     "kosher": "Vaad Hakashrus Belz USA",
@@ -1892,7 +1892,7 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
-    "nutrition": { "Energie": "1143 kJ / 273 kcal", "Vetten": "17,6 g", "waarvan verzadigde vetzuren": "12,7 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "29,0 g", "Zout": "1,9 g" },
+    "nutrition": { "Energie": "1143 kJ / 273 kcal", "Vetten": "17,6 g", "waarvan verzadigde vetzuren": "12,7 g", "Koolhydraten": "0 g", "waarvan suikers": "0 g", "Eiwitten": "29 g", "Zout": "1,9 g" },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-kaas-16/codex-clipboard-edb6d4f6-d75b-48d4-913e-267f8415b93e.jpg.",
     "labelSources": ["source-labels/20261029-revisie/amstelvelder-edammer-light-voedingswaarde-ean-8719689267131.jpg"],
@@ -2169,7 +2169,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "0,6 g",
       "waarvan suikers": "0,5 g",
       "Eiwitten": "26 g",
-      "Zout": "1,60 g"
+      "Zout": "1,6 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-ravet-manchego/codex-clipboard-e8320896-52be-466a-a21e-89f20c8add44.jpg.",
@@ -2256,10 +2256,10 @@ window.KPI_PRODUCTS = [
       "Energie": "1566 kJ / 377 kcal",
       "Vetten": "29 g",
       "waarvan verzadigde vetzuren": "20 g",
-      "Koolhydraten": "1,0 g",
-      "waarvan suikers": "1,0 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
       "Eiwitten": "28 g",
-      "Zout": "0,70 g",
+      "Zout": "0,7 g",
       "Calcium": "1000 mg"
     },
     "nutritionUnit": "per 100 g",
@@ -2427,8 +2427,8 @@ window.KPI_PRODUCTS = [
       "Energie": "1554 kJ / 375 kcal",
       "Vetten": "33 g",
       "waarvan verzadigde vetzuren": "23 g",
-      "Koolhydraten": "1,0 g",
-      "waarvan suikers": "1,0 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
       "Eiwitten": "18 g",
       "Zout": "1,3 g"
     },
@@ -2617,8 +2617,8 @@ window.KPI_PRODUCTS = [
       "Energie": "1134 kJ / 273 kcal",
       "Vetten": "21 g",
       "waarvan verzadigde vetzuren": "15 g",
-      "Koolhydraten": "1,0 g",
-      "waarvan suikers": "1,0 g",
+      "Koolhydraten": "1 g",
+      "waarvan suikers": "1 g",
       "Eiwitten": "20 g",
       "Zout": "1,6 g"
     },
@@ -2702,7 +2702,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3250550020707",
-    "nutrition": { "Energie": "1544 kJ / 373 kcal", "Vetten": "33 g", "waarvan verzadigde vetzuren": "23 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "18 g", "Zout": "1,2 g" },
+    "nutrition": { "Energie": "1544 kJ / 373 kcal", "Vetten": "33 g", "waarvan verzadigde vetzuren": "23 g", "Koolhydraten": "1 g", "waarvan suikers": "1 g", "Eiwitten": "18 g", "Zout": "1,2 g" },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-fleur-des-sources/codex-clipboard-50037d4d-508d-4ffb-91f2-65e979ccb0d7.jpg.",
     "labelSources": ["source-labels/20261029-revisie/ermitage-fleur-des-sources-voedingswaarde.jpg"],
@@ -2740,7 +2740,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "200 g",
     "ean": "3250550023135",
-    "nutrition": { "Energie": "1356 kJ / 327 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "19 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "20 g", "Zout": "1,4 g" },
+    "nutrition": { "Energie": "1356 kJ / 327 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "19 g", "Koolhydraten": "1 g", "waarvan suikers": "1 g", "Eiwitten": "20 g", "Zout": "1,4 g" },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-le-marcaire/codex-clipboard-e84dbf2c-40bf-47e5-9ca7-fa690ce139f1.jpg.",
     "labelSources": ["source-labels/20261029-revisie/ermitage-le-marcaire-voedingswaarde.jpg"],
@@ -2774,12 +2774,12 @@ window.KPI_PRODUCTS = [
   {
     "nutrition": {
       "Energie": "1134 kJ / 273 kcal",
-      "Vetten": "21,0 g",
-      "waarvan verzadigde vetzuren": "15,0 g",
-      "Koolhydraten": "1,0 g",
+      "Vetten": "21 g",
+      "waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "1 g",
       "waarvan suikers": "0,5 g",
-      "Eiwitten": "20,0 g",
-      "Zout": "1,50 g"
+      "Eiwitten": "20 g",
+      "Zout": "1,5 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "https://www.dekaaskoning.nl/documenten/02-Producten%20Internationale%20kaas/Fromage%20des%20Ducs%20220g.pdf; Productspecificatie Vandersterre, 19-07-2021, exacte barcode en 220 g.",
@@ -3010,7 +3010,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3523230065467",
-    "nutrition": { "Energie": "816 kJ / 197 kcal", "Vetten": "17 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "1,0 g", "waarvan suikers": "1,0 g", "Eiwitten": "10 g", "Zout": "1,2 g" },
+    "nutrition": { "Energie": "816 kJ / 197 kcal", "Vetten": "17 g", "waarvan verzadigde vetzuren": "12 g", "Koolhydraten": "1 g", "waarvan suikers": "1 g", "Eiwitten": "10 g", "Zout": "1,2 g" },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-geitenkaaspiramide-kruiden/codex-clipboard-f200e591-d1e9-4ea6-8171-45ba5e98edff.jpg.",
     "labelSources": ["source-labels/20261029-revisie/soignon-piramide-kruiden-voedingswaarde.jpg"],
@@ -3090,7 +3090,7 @@ window.KPI_PRODUCTS = [
     "category": "Kaas",
     "variant": "150 g",
     "ean": "3760016942431",
-    "nutrition": { "Energie": "1305 kJ / 315 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "2 g", "waarvan suikers": "0,5 g", "Eiwitten": "16 g", "Zout": "3,0 g" },
+    "nutrition": { "Energie": "1305 kJ / 315 kcal", "Vetten": "27 g", "waarvan verzadigde vetzuren": "18 g", "Koolhydraten": "2 g", "waarvan suikers": "0,5 g", "Eiwitten": "16 g", "Zout": "3 g" },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-schapenkaasblokjes/codex-clipboard-2d24f587-a0af-40c1-a397-2d1b6550af6c.jpg.",
     "labelSources": ["source-labels/20261029-revisie/gabriel-coulet-saladaperos-cubes-voedingswaarde.jpg"],

@@ -352,7 +352,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "15,6 g",
       "Eiwitten": "0,4 g",
       "Cholesterol": "0 g",
-      "Natrium": "0,025 mg"
+      "Natrium": "0,03 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-6c7c6743-f487-4825-b4e1-0e3ee0d687b7.jpg"
@@ -403,7 +403,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "15,6 g",
       "Eiwitten": "0,4 g",
       "Cholesterol": "0 g",
-      "Natrium": "0,025 mg"
+      "Natrium": "0,03 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-46b8bc2c-7b11-47a8-a824-8adf9d0db11d.jpg"
