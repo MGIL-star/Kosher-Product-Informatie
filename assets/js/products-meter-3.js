@@ -648,7 +648,7 @@ window.KPI_PRODUCTS = [
   },
   "9": {
     "nutrition": {
-      "Energie": "3346,67 kJ / 800 kcal",
+      "Energie": "3346 kJ / 800 kcal",
       "Vetten": "93,33 g",
       "Waarvan verzadigde vetzuren": "13,33 g",
       "Koolhydraten": "0 g",
@@ -673,7 +673,7 @@ window.KPI_PRODUCTS = [
   },
   "10": {
     "nutrition": {
-      "Energie": "3346,67 kJ / 800 kcal",
+      "Energie": "3346 kJ / 800 kcal",
       "Vetten": "93,33 g",
       "Waarvan verzadigde vetzuren": "13,33 g",
       "Koolhydraten": "0 g",
@@ -790,7 +790,7 @@ window.KPI_PRODUCTS = [
   },
   "17": {
     "nutrition": {
-      "Energie": "114,24 kJ / 27,27 kcal",
+      "Energie": "114 kJ / 28 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "6,97 g",
       "Waarvan suikers": "4,85 g",

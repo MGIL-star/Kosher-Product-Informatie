@@ -244,7 +244,7 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "nutrition": {
-      "Energie": "1020,9 kJ / 244 kcal",
+      "Energie": "1020 kJ / 244 kcal",
       "Vetten": "7,1 g",
       "waarvan verzadigde vetzuren": "1,1 g",
       "Koolhydraten": "36,4 g",
@@ -292,7 +292,7 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "nutrition": {
-      "Energie": "878,64 kJ / 210 kcal",
+      "Energie": "878 kJ / 210 kcal",
       "Vetten": "3,3 g",
       "waarvan verzadigde vetzuren": "0,4 g",
       "Koolhydraten": "32,1 g",
@@ -1362,7 +1362,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "3": {
     "nutrition": {
-      "Energie": "598,21 kJ / 142,86 kcal",
+      "Energie": "598 kJ / 143 kcal",
       "Vetten": "6,25 g",
       "waarvan verzadigde vetzuren": "2,68 g",
       "Transvetten": "0 g",

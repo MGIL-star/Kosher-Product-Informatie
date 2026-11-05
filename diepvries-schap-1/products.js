@@ -520,7 +520,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "1": {
     "nutrition": {
-      "Energie": "962,83 kJ / 230,09 kcal",
+      "Energie": "962 kJ / 231 kcal",
       "Vetten": "11,5 g",
       "waarvan verzadigde vetzuren": "4,42 g",
       "Transvetten": "0 g",
@@ -560,7 +560,7 @@ window.KPI_PRODUCTS = [
   },
   "2": {
     "nutrition": {
-      "Energie": "962,83 kJ / 230,09 kcal",
+      "Energie": "962 kJ / 231 kcal",
       "Vetten": "11,5 g",
       "waarvan verzadigde vetzuren": "4,42 g",
       "Transvetten": "0 g",
@@ -600,7 +600,7 @@ window.KPI_PRODUCTS = [
   },
   "4": {
     "nutrition": {
-      "Energie": "666,37 kJ / 159,29 kcal",
+      "Energie": "666 kJ / 160 kcal",
       "Vetten": "2,21 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",

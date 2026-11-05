@@ -2292,7 +2292,7 @@ window.KPI_PRODUCTS = [
     },
     "klpSource": "Gebruiker bevestigt KLP voor alle wijnen en druivensap op meter 2, 9 oktober 2026; Cooymans Advocaat uitgezonderd.",
     "nutrition": {
-      "Energie": "451,87 kJ / 108 kcal",
+      "Energie": "451 kJ / 108 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0,8 g",

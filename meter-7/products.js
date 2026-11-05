@@ -1669,6 +1669,11 @@ window.KPI_PRODUCTS = [
       "Badatz Edah HaChareidis",
       "Badatz Beit Yosef",
       "Rabbinaat Lod (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "4 kJ / 1 kcal"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026."
   }
 ];

@@ -194,7 +194,7 @@ window.KPI_PRODUCTS = [
   "18": {
     "nutritionUnit": "per 100 g uitgelekt product",
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -206,7 +206,7 @@ window.KPI_PRODUCTS = [
   "20": {
     "nutritionUnit": "per 100 g uitgelekt product",
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -427,7 +427,7 @@ window.KPI_PRODUCTS = [
   },
   "11": {
     "nutrition": {
-      "Energie": "893,33 kJ / 213,33 kcal",
+      "Energie": "893 kJ / 214 kcal",
       "Vetten": "21,33 g",
       "Waarvan verzadigde vetzuren": "4,67 g",
       "Koolhydraten": "0 g",
@@ -462,7 +462,7 @@ window.KPI_PRODUCTS = [
   },
   "12": {
     "nutrition": {
-      "Energie": "780 kJ / 186,67 kcal",
+      "Energie": "780 kJ / 187 kcal",
       "Vetten": "20 g",
       "Waarvan verzadigde vetzuren": "4 g",
       "Koolhydraten": "0 g",
@@ -525,7 +525,7 @@ window.KPI_PRODUCTS = [
   },
   "17": {
     "nutrition": {
-      "Energie": "43,59 kJ / 10,26 kcal",
+      "Energie": "43 kJ / 11 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "2,31 g",
@@ -558,7 +558,7 @@ window.KPI_PRODUCTS = [
   },
   "18": {
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -571,7 +571,7 @@ window.KPI_PRODUCTS = [
   },
   "20": {
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -584,7 +584,7 @@ window.KPI_PRODUCTS = [
   },
   "21": {
     "nutrition": {
-      "Energie": "<17 kJ / <3,88 kcal",
+      "Energie": "<17 kJ / <4 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0 g",
@@ -618,7 +618,7 @@ window.KPI_PRODUCTS = [
   },
   "22": {
     "nutrition": {
-      "Energie": "<44 kJ / <10,42 kcal",
+      "Energie": "<44 kJ / <11 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0 g",
@@ -677,7 +677,7 @@ window.KPI_PRODUCTS = [
   },
   "25": {
     "nutrition": {
-      "Energie": "<17 kJ / <3,85 kcal",
+      "Energie": "<17 kJ / <4 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0 g",

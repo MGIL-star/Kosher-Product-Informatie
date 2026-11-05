@@ -191,7 +191,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt.",
     "nutrition": {
-      "Energie": "1674 kJ / 400,0 kcal",
+      "Energie": "1674 kJ / 400 kcal",
       "Vetten": "6,667 g",
       "Waarvan verzadigde vetzuren": "0,0 g",
       "Koolhydraten": "73,333 g",
@@ -292,7 +292,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt.",
     "nutrition": {
-      "Energie": "1618 kJ / 386,67 kcal",
+      "Energie": "1618 kJ / 387 kcal",
       "Vetten": "6,667 g",
       "Waarvan verzadigde vetzuren": "0,0 g",
       "Koolhydraten": "73,333 g",
@@ -400,7 +400,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
     "mayContain": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room.",
     "nutrition": {
-      "Energie": "2155 kJ / 515,15 kcal",
+      "Energie": "2155 kJ / 516 kcal",
       "Vetten": "24,242 g",
       "Waarvan verzadigde vetzuren": "4,545 g",
       "Koolhydraten": "63,636 g",
@@ -500,7 +500,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
     "mayContain": "Kan soja en noten bevatten.",
     "nutrition": {
-      "Energie": "1943 kJ / 464,29 kcal",
+      "Energie": "1943 kJ / 465 kcal",
       "Vetten": "17,857 g",
       "Waarvan verzadigde vetzuren": "3,571 g",
       "Koolhydraten": "67,857 g",
@@ -601,7 +601,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
     "mayContain": "Kan sesamzaad en noten bevatten.",
     "nutrition": {
-      "Energie": "1793 kJ / 428,57 kcal",
+      "Energie": "1793 kJ / 429 kcal",
       "Vetten": "12,5 g",
       "Waarvan verzadigde vetzuren": "3,571 g",
       "Koolhydraten": "71,429 g",
@@ -900,7 +900,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Laatste gebruikersbevestiging: uitsluitend Badatz Edah HaChareidis (Parve) voor Kalamata-crackers.",
     "mayContain": "Kan sesam, noten en soja bevatten.",
     "nutrition": {
-      "Energie": "1902 kJ / 454,55 kcal",
+      "Energie": "1902 kJ / 455 kcal",
       "Vetten": "18,182 g",
       "Waarvan verzadigde vetzuren": "0,0 g",
       "Koolhydraten": "68,182 g",
@@ -2459,7 +2459,12 @@ window.KPI_PRODUCTS = [
       0.83938,
       0.93483
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve).",
+    "nutrition": {
+      "Energie": "4 kJ / 1 kcal"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026."
   },
   {
     "id": 27,
@@ -2487,7 +2492,13 @@ window.KPI_PRODUCTS = [
       1,
       1
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve).",
+    "nutrition": {
+      "Energie": "1569 kJ / 375 kcal",
+      "Koolhydraten": "50 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026; kJ berekend uit kcal."
   },
   {
     "id": 26,
@@ -2515,7 +2526,13 @@ window.KPI_PRODUCTS = [
       1,
       1
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve).",
+    "nutrition": {
+      "Energie": "1569 kJ / 375 kcal",
+      "Koolhydraten": "50 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026; kJ berekend uit kcal."
   },
   {
     "id": 25,
@@ -2542,7 +2559,12 @@ window.KPI_PRODUCTS = [
       0.755,
       0.9975
     ],
-    "kosherSource": "Laatste gebruikersbevestiging: Oploskoffie Naturel Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Laatste gebruikersbevestiging: Oploskoffie Naturel Badatz Edah HaChareidis (Parve).",
+    "nutrition": {
+      "Energie": "4 kJ / 1 kcal"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026."
   },
   {
     "id": 24,
@@ -2569,7 +2591,12 @@ window.KPI_PRODUCTS = [
       0.824,
       0.978
     ],
-    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: bij alle koffie met deze hechsher uitsluitend Badatz Edah HaChareidis (Parve).",
+    "nutrition": {
+      "Energie": "4 kJ / 1 kcal"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026."
   },
   {
     "id": 54,
@@ -2590,7 +2617,12 @@ window.KPI_PRODUCTS = [
       "source-labels/20261014-nescafe-red-mug/back-original.jpg",
       "source-labels/20261014-nescafe-red-mug/barcode-original.jpg"
     ],
-    "kosherSource": "Nestlé Professional-vermelding bevestigd aan de aangeleverde 200 g Nescafé Red Mug-verpakking."
+    "kosherSource": "Nestlé Professional-vermelding bevestigd aan de aangeleverde 200 g Nescafé Red Mug-verpakking.",
+    "nutrition": {
+      "Energie": "4 kJ / 1 kcal"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionSource": "Door gebruiker aangeleverd, 5 november 2026."
   },
   {
     "id": 23,
@@ -2618,7 +2650,7 @@ window.KPI_PRODUCTS = [
       1
     ],
     "nutrition": {
-      "Energie": "1743 kJ / 416,67 kcal",
+      "Energie": "1743 kJ / 417 kcal",
       "Vetten": "0,0 g",
       "Waarvan verzadigde vetzuren": "0,0 g",
       "Koolhydraten": "91,667 g",

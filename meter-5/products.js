@@ -1202,7 +1202,7 @@ window.KPI_PRODUCTS = [
       0.94
     ],
     "nutrition": {
-      "Energie": "293,5 kJ / 69,5 kcal",
+      "Energie": "293 kJ / 70 kcal",
       "Vetten": "1,5 g",
       "Waarvan verzadigde vetzuren": "0,3 g",
       "Koolhydraten": "5 g",
@@ -1245,7 +1245,7 @@ window.KPI_PRODUCTS = [
     ],
     "kosherForPassover": true,
     "nutrition": {
-      "Energie": "293,5 kJ / 69,5 kcal",
+      "Energie": "293 kJ / 70 kcal",
       "Vetten": "1,5 g",
       "Waarvan verzadigde vetzuren": "0,3 g",
       "Koolhydraten": "5 g",
@@ -1970,7 +1970,7 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientSource": "Gebruikersfoto etiket: db005554-87e9-4a44-9207-e51f1cb3572c.jpg",
     "nutrition": {
-      "Energie": "822 kJ / 196,43 kcal",
+      "Energie": "822 kJ / 197 kcal",
       "Vetten": "10,71 g",
       "Waarvan verzadigde vetzuren": "1,79 g",
       "Koolhydraten": "0 g",
@@ -2402,18 +2402,22 @@ window.KPI_PRODUCTS = [
       "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
     ],
     "nutrition": {
-      "Energie": "3071 kJ / 747 kcal",
-      "Vetten": "82 g",
-      "Waarvan verzadigde vetzuren": "6,7 g",
-      "Koolhydraten": "0 g",
-      "Waarvan suikers": "0 g",
-      "Eiwitten": "1,4 g",
-      "Zout": "0,86 g"
+      "Energie": "3054 kJ / 742 kcal",
+      "Vetten": "80 g",
+      "Waarvan verzadigde vetzuren": "6,5 g",
+      "Koolhydraten": "3,4 g",
+      "Waarvan suikers": "0,3 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "1,7 g",
+      "Zout": "1,1 g",
+      "Enkelvoudig onverzadigde vetzuren": "51,2 g",
+      "Meervoudig onverzadigde vetzuren": "22,3 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionChecked": "2026-11-05",
     "sourcePhotos": [
-      "source-labels/20261105-nutrition/5ac86995-61c5-4e31-913f-3c1f8bd6e20b.jpg"
+      "source-labels/20261105-nutrition/5ac86995-61c5-4e31-913f-3c1f8bd6e20b.jpg",
+      "source-labels/20261105-nutrition/84e1591c-50b9-4e5f-a35d-fc0322d57d37.jpg"
     ]
   },
   {
@@ -2451,21 +2455,19 @@ window.KPI_PRODUCTS = [
       "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
     ],
     "nutrition": {
-      "Energie": "3054 kJ / 742 kcal",
-      "Vetten": "80 g",
-      "Waarvan verzadigde vetzuren": "6,6 g",
-      "Koolhydraten": "3,4 g",
-      "Waarvan suikers": "0,3 g",
-      "Vezels": "0,5 g",
-      "Eiwitten": "1,7 g",
-      "Zout": "1,1 g",
-      "Enkelvoudig onverzadigde vetzuren": "51,2 g",
-      "Meervoudig onverzadigde vetzuren": "22,3 g"
+      "Energie": "3071 kJ / 747 kcal",
+      "Vetten": "82 g",
+      "Waarvan verzadigde vetzuren": "6,7 g",
+      "Koolhydraten": "1 g",
+      "Waarvan suikers": "0,9 g",
+      "Eiwitten": "1,4 g",
+      "Zout": "0,86 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionChecked": "2026-11-05",
     "sourcePhotos": [
-      "source-labels/20261105-nutrition/180f63bc-14d5-4a6d-9f06-c7404edc389d.jpg"
+      "source-labels/20261105-nutrition/180f63bc-14d5-4a6d-9f06-c7404edc389d.jpg",
+      "source-labels/20261105-nutrition/4faca3fe-2695-4ad5-a96a-c392dafd6786.jpg"
     ]
   },
   {

@@ -415,7 +415,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "1": {
     "nutrition": {
-      "Energie": "58,06 kJ / 13,89 kcal",
+      "Energie": "58 kJ / 14 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "3,89 g",
       "waarvan suikers": "3,89 g",
@@ -439,7 +439,7 @@ window.KPI_PRODUCTS = [
   },
   "4": {
     "nutrition": {
-      "Energie": "58,06 kJ / 13,89 kcal",
+      "Energie": "58 kJ / 14 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "3,89 g",
       "waarvan suikers": "3,89 g",
@@ -463,7 +463,7 @@ window.KPI_PRODUCTS = [
   },
   "6": {
     "nutrition": {
-      "Energie": "58,06 kJ / 13,89 kcal",
+      "Energie": "58 kJ / 14 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "3,89 g",
       "waarvan suikers": "3,89 g",

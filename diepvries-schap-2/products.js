@@ -776,7 +776,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "nutrition": {
-      "Energie": "1060 kJ / 253,2 kcal",
+      "Energie": "1060 kJ / 254 kcal",
       "Vetten": "12,3 g",
       "waarvan verzadigde vetzuren": "3,2 g",
       "Koolhydraten": "19,5 g",
@@ -945,7 +945,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "nutrition": {
-      "Energie": "1598,29 kJ / 382 kcal",
+      "Energie": "1598 kJ / 382 kcal",
       "Vetten": "21 g",
       "waarvan verzadigde vetzuren": "8,4 g",
       "Koolhydraten": "42 g",
@@ -1401,7 +1401,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "1": {
     "nutrition": {
-      "Energie": "1000 kJ / 238,94 kcal",
+      "Energie": "1000 kJ / 239 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1433,7 +1433,7 @@ window.KPI_PRODUCTS = [
   },
   "2": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1465,7 +1465,7 @@ window.KPI_PRODUCTS = [
   },
   "3": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1497,7 +1497,7 @@ window.KPI_PRODUCTS = [
   },
   "4": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0,44 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1529,7 +1529,7 @@ window.KPI_PRODUCTS = [
   },
   "5": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0,44 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1561,7 +1561,7 @@ window.KPI_PRODUCTS = [
   },
   "6": {
     "nutrition": {
-      "Energie": "1000 kJ / 238,94 kcal",
+      "Energie": "1000 kJ / 239 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1593,7 +1593,7 @@ window.KPI_PRODUCTS = [
   },
   "7": {
     "nutrition": {
-      "Energie": "1000 kJ / 238,94 kcal",
+      "Energie": "1000 kJ / 239 kcal",
       "Vetten": "0,88 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1625,7 +1625,7 @@ window.KPI_PRODUCTS = [
   },
   "8": {
     "nutrition": {
-      "Energie": "1037,17 kJ / 247,79 kcal",
+      "Energie": "1037 kJ / 248 kcal",
       "Vetten": "0,88 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1657,7 +1657,7 @@ window.KPI_PRODUCTS = [
   },
   "19": {
     "nutrition": {
-      "Energie": "945,16 kJ / 225,81 kcal",
+      "Energie": "945 kJ / 226 kcal",
       "Vetten": "13,98 g",
       "waarvan verzadigde vetzuren": "11,83 g",
       "Transvetten": "0 g",
@@ -1689,7 +1689,7 @@ window.KPI_PRODUCTS = [
   },
   "24": {
     "nutrition": {
-      "Energie": "1007,41 kJ / 240,74 kcal",
+      "Energie": "1007 kJ / 241 kcal",
       "Vetten": "3,7 g",
       "waarvan verzadigde vetzuren": "1,85 g",
       "Transvetten": "0 g",
