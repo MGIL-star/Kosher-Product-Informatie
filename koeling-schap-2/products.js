@@ -3744,4 +3744,4 @@ window.KPI_PRODUCTS = [
   }
 }());
 
-(function () { const p = window.KPI_PRODUCTS.find(p => p.id === 76); p.nutrition = {Energie: '2989 kJ / 714,29 kcal', ...p.nutrition}; delete p.nutrition['Calorieën']; }());
+(function () { const p = window.KPI_PRODUCTS.find(p => p.id === 76); p.nutrition = {Energie: '2989 kJ / 715 kcal', ...p.nutrition}; delete p.nutrition['Calorieën']; }());
