@@ -380,6 +380,42 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
   },
   {
+    "id": 44,
+    "brand": "Osem",
+    "name": "Bouillon en Kruidenmix met Kipsmaak",
+    "variant": "1 kg",
+    "category": "Soep en bouillon",
+    "ean": "0077544527102",
+    "ingredients": "Zout, zetmeel, suiker, maltodextrine, palmolie, smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), gedroogde uien (0,9%), gistextract, gedroogde peterselie (0,2%), zuurteregelaar (citroenzuur), zwarte peper, aroma’s (bevatten selderij), kurkuma-extract, antioxidant (rozemarijnextract).",
+    "allergens": [
+      "Selderij"
+    ],
+    "mayContain": "Kan soja, sesam en tarwe (gluten) bevatten.",
+    "kosher": "OU / Opperrabbinaat Sderot (Parve)",
+    "kosherLines": [
+      "OU",
+      "Opperrabbinaat Sderot (Parve)"
+    ],
+    "kosherSource": "Op gebruikersverzoek dezelfde hechsjer als de overige bouillon.",
+    "image": "images/consomme-kipsmaak-1kg.webp",
+    "imageSource": "Door gebruiker aangeleverde productfoto, 5 november 2026.",
+    "productInfo": {},
+    "nutrition": {
+      "Energie": "1133 kJ / 268 kcal",
+      "Vetten": "4,3 g",
+      "Waarvan verzadigde vetzuren": "2,3 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "20 g",
+      "Eiwitten": "4,3 g",
+      "Zout": "35,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Etiketfoto codex-clipboard-5c44c770-e588-40dd-b4e7-2b54c42ada01.jpg, aangeleverd door gebruiker.",
+    "barcodeSource": "https://checkdat.co.za/product/osem-chicken-style-consomme-instant-soup-seasoning-mix-1kg/",
+    "ingredientsSource": "Aangeleverd achteretiket en ingrediëntencontrole van de 1kg-zak: https://koshermarket.eu/en-eu/products/osem-chicken-style-consomme-instant-soup-seasoning-mix-1-kg"
+  },
+  {
     "brand": "Osem",
     "name": "Bouillon en Kruidenmix",
     "shortName": "Bouillon",
@@ -423,7 +459,46 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Opperrabbinaat Sderot (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1255 kJ / 300 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "70 g",
+      "Waarvan suikers": "20 g",
+      "Eiwitten": "0 g",
+      "Zout": "19,25 g",
+      "Transvetten": "0 g",
+      "Toegevoegde suikers": "20 g",
+      "Natrium": "7700 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 10 g",
+      "kcal": 30,
+      "fat": 0,
+      "saturated": 0,
+      "carbohydrates": 7,
+      "sugars": 2,
+      "fibre": null,
+      "protein": 0,
+      "sodiumMg": 770,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Toegevoegde suikers": [
+          2,
+          "g"
+        ]
+      }
+    },
+    "nutritionSourcePhotos": [
+      "source-labels/20261105-nutrition/codex-clipboard-328162e7-1b0d-4de5-9178-ecd03ea4bb78.jpg"
+    ],
+    "nutritionSource": "Gebruiker bevestigt groene pot als Bouillon en Kruidenmix, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -482,10 +557,9 @@ window.KPI_PRODUCTS = [
     "nutritionUnit": "per 100 g",
     "nutritionChecked": "2026-11-05",
     "nutritionSourcePhotos": [
-      "source-labels/20261105-nutrition/codex-clipboard-27377305-34d1-4f8f-aa25-2e7a9e022f49.jpg",
-      "source-labels/20261105-nutrition/codex-clipboard-f1637858-2957-4410-b7df-2199669d343b.jpg"
+      "source-labels/20261105-nutrition/codex-clipboard-55b12c0a-4641-4502-ad93-cc355adea9ce.jpg"
     ],
-    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
+    "nutritionSource": "Opnieuw aangeleverde en bij naam bevestigde etiketfoto, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -582,9 +656,9 @@ window.KPI_PRODUCTS = [
       }
     },
     "nutritionSourcePhotos": [
-      "source-labels/20261105-nutrition/codex-clipboard-20b46bf2-e8c9-408a-ae74-d2f44fbc5d7b.jpg"
+      "source-labels/20261105-nutrition/codex-clipboard-3f1d0069-8a90-46bf-adfa-38ef6856795c.jpg"
     ],
-    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
+    "nutritionSource": "Opnieuw aangeleverde en bij naam bevestigde etiketfoto, 5 november 2026."
   },
   {
     "brand": "Osem",
@@ -628,44 +702,34 @@ window.KPI_PRODUCTS = [
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {
-      "Energie": "1255 kJ / 300 kcal",
-      "Vetten": "0 g",
+      "Energie": "1195 kJ / 286 kcal",
+      "Vetten": "7,1 g",
       "Waarvan verzadigde vetzuren": "0 g",
-      "Koolhydraten": "70 g",
-      "Waarvan suikers": "20 g",
+      "Koolhydraten": "57,1 g",
+      "Waarvan suikers": "14,3 g",
       "Eiwitten": "0 g",
-      "Zout": "19,25 g",
+      "Zout": "27,5 g",
       "Transvetten": "0 g",
-      "Toegevoegde suikers": "20 g",
-      "Natrium": "7700 mg"
+      "Toegevoegde suikers": "< 14,3 g",
+      "Natrium": "11000 mg"
     },
     "nutritionUnit": "per 100 g",
     "nutritionChecked": "2026-11-05",
+    "nutritionSource": "https://www.osem-nestleusa.com/osem-soups-mixes/beef-soup-seasoning-mix-141-oz",
+    "nutritionLabelUrl": "https://www.osem-nestleusa.com/sites/default/files/2025-01/beef_back.png",
     "nutritionOriginal": {
-      "unit": "per 10 g",
-      "kcal": 30,
-      "fat": 0,
+      "unit": "per 7 g",
+      "kcal": 20,
+      "fat": 0.5,
       "saturated": 0,
-      "carbohydrates": 7,
-      "sugars": 2,
-      "fibre": null,
+      "trans": 0,
+      "carbohydrates": 4,
+      "sugars": 1,
+      "addedSugars": "<1",
       "protein": 0,
-      "sodiumMg": 770,
-      "extra": {
-        "Transvetten": [
-          0,
-          "g"
-        ],
-        "Toegevoegde suikers": [
-          2,
-          "g"
-        ]
-      }
+      "sodiumMg": 770
     },
-    "nutritionSourcePhotos": [
-      "source-labels/20261105-nutrition/codex-clipboard-b7e19b13-b389-4ec9-bf6c-56aa9ff11bfa.jpg"
-    ],
-    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
+    "nutritionVerification": "Officieel achteretiket en ingrediënten voor Beef Flavor 400 g; barcode 077544528406 bevestigd via productregistratie."
   },
   {
     "brand": "Osem",
@@ -802,9 +866,9 @@ window.KPI_PRODUCTS = [
       }
     },
     "nutritionSourcePhotos": [
-      "source-labels/20261105-nutrition/codex-clipboard-8e7b9f14-3d9c-4bf0-affc-cfb917848aad.jpg"
+      "source-labels/20261105-nutrition/codex-clipboard-6bec4e32-de96-4b97-b793-e5421a2dac8b.jpg"
     ],
-    "nutritionSource": "Etiketfoto aangeleverd door gebruiker, 5 november 2026."
+    "nutritionSource": "Opnieuw aangeleverde en bij naam bevestigde etiketfoto, 5 november 2026."
   },
   {
     "id": 13,
@@ -2570,7 +2634,19 @@ window.KPI_PRODUCTS = [
       "C:/Users/ellag/OneDrive/Desktop/thee/14.jpg"
     ],
     "kosherSource": "Chalav Yisrael en KLP bevestigd op aangeleverde melkverpakking; gebruiker noemt op 9 oktober 2026 de toezichthouder Yermian Cohen.",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "202 kJ / 48 kcal",
+      "Vetten": "1,6 g",
+      "Waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "5 g",
+      "Waarvan suikers": "5 g",
+      "Eiwitten": "3,3 g",
+      "Zout": "0,13 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Aangeleverd melketiket; gebruiker bevestigt koppeling aan bestaande melk op 5 november 2026."
   },
   {
     "id": 40,
