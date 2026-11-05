@@ -1,0 +1,715 @@
+{
+  "1": {
+    "nutrition": {
+      "Energie": "1528 kJ / 365 kcal",
+      "Vetten": "1 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "3,7 g",
+      "Eiwitten": "11,4 g",
+      "Zout": "0,025 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/06bf8fe3-644e-438b-a86e-3446125c17b9.jpg"
+    ]
+  },
+  "2": {
+    "nutrition": {
+      "Energie": "1435 kJ / 343 kcal",
+      "Vetten": "2,3 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "76 g",
+      "Waarvan suikers": "2 g",
+      "Vezels": "11 g",
+      "Eiwitten": "16 g",
+      "Zout": "0,02 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/7b523846-01c0-48f1-b32e-e4572b86949f.jpg"
+    ]
+  },
+  "3": {
+    "nutrition": {
+      "Energie": "2236 kJ / 537 kcal",
+      "Vetten": "35,7 g",
+      "Waarvan verzadigde vetzuren": "19,8 g",
+      "Koolhydraten": "44,3 g",
+      "Waarvan suikers": "0,9 g",
+      "Eiwitten": "8,6 g",
+      "Zout": "0,79 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/7dc197b5-3652-4e85-b19d-6aa94f73d1ac.jpg"
+    ]
+  },
+  "4": {
+    "nutrition": {
+      "Energie": "1674 kJ / 400,0 kcal",
+      "Vetten": "6,667 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "73,333 g",
+      "Waarvan suikers": "6,667 g",
+      "Vezels": "3,333 g",
+      "Eiwitten": "13,333 g",
+      "Zout": "1,25 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Toegevoegde suikers": "6,667 g",
+      "Calcium": "253,333 mg",
+      "IJzer": "13,333 mg",
+      "Kalium": "2206,667 mg",
+      "Natrium": "500,0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/514e6cf6-0dba-4dc8-9bf0-cbadf88a6788.jpg"
+    ]
+  },
+  "5": {
+    "nutrition": {
+      "Energie": "1618 kJ / 386,67 kcal",
+      "Vetten": "6,667 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "73,333 g",
+      "Waarvan suikers": "6,667 g",
+      "Vezels": "6,667 g",
+      "Eiwitten": "13,333 g",
+      "Zout": "1,0 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Toegevoegde suikers": "6,667 g",
+      "Calcium": "26,667 mg",
+      "IJzer": "2,0 mg",
+      "Kalium": "3093,333 mg",
+      "Natrium": "400,0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/426126c7-f90b-405d-bebe-5c7b1a06ac0c.jpg"
+    ]
+  },
+  "12": {
+    "nutrition": {
+      "Energie": "2155 kJ / 515,15 kcal",
+      "Vetten": "24,242 g",
+      "Waarvan verzadigde vetzuren": "4,545 g",
+      "Koolhydraten": "63,636 g",
+      "Waarvan suikers": "6,061 g",
+      "Vezels": "3,03 g",
+      "Eiwitten": "9,091 g",
+      "Zout": "0,985 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "6,061 g",
+      "Natrium": "393,939 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/9af481bb-d23c-472d-a410-7d3c6723ddb1.jpg",
+      "source-labels/20261105-nutrition/b093d9e7-f95c-4ea6-98d0-de29645b796a.jpg"
+    ]
+  },
+  "11": {
+    "nutrition": {
+      "Energie": "1943 kJ / 464,29 kcal",
+      "Vetten": "17,857 g",
+      "Waarvan verzadigde vetzuren": "3,571 g",
+      "Koolhydraten": "67,857 g",
+      "Waarvan suikers": "3,571 g",
+      "Vezels": "3,571 g",
+      "Eiwitten": "10,714 g",
+      "Zout": "0,982 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "3,571 g",
+      "Natrium": "392,857 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/dd09fcf6-fe8f-4410-a2a3-44b98ca049bc.jpg"
+    ]
+  },
+  "9": {
+    "nutrition": {
+      "Energie": "1793 kJ / 428,57 kcal",
+      "Vetten": "12,5 g",
+      "Waarvan verzadigde vetzuren": "3,571 g",
+      "Koolhydraten": "71,429 g",
+      "Waarvan suikers": "< 3,571 g",
+      "Vezels": "< 3,571 g",
+      "Eiwitten": "10,714 g",
+      "Zout": "1,964 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "< 3,571 g",
+      "Natrium": "785,714 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/457e879d-13d1-456a-8d56-430f3f22fdf8.jpg"
+    ]
+  },
+  "6": {
+    "nutrition": {
+      "Energie": "2176 kJ / 520 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "3,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "7,5 g",
+      "Vezels": "2,3 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/10a7ccc4-a489-49b1-992d-318276f4ecf0.jpg",
+      "source-labels/20261105-nutrition/4ac10a69-847e-4f71-a56d-2ac48cf78b42.jpg"
+    ]
+  },
+  "13": {
+    "nutrition": {
+      "Energie": "1902 kJ / 454,55 kcal",
+      "Vetten": "18,182 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "68,182 g",
+      "Waarvan suikers": "4,545 g",
+      "Vezels": "4,545 g",
+      "Eiwitten": "13,636 g",
+      "Zout": "1,023 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "0,0 g",
+      "Natrium": "409,091 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/9c442195-c910-4e73-96ff-7daa7f5d302a.jpg"
+    ]
+  },
+  "14": {
+    "nutrition": {
+      "Energie": "1940 kJ / 458 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "1,7 g",
+      "Koolhydraten": "64 g",
+      "Waarvan suikers": "8,8 g",
+      "Vezels": "6,5 g",
+      "Eiwitten": "12 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/4d1bcd66-ff6e-4e2f-8d21-5ff82b1b0fac.jpg"
+    ]
+  },
+  "15": {
+    "nutrition": {
+      "Energie": "1645 kJ / 388 kcal",
+      "Vetten": "3 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "80,7 g",
+      "Waarvan suikers": "0,9 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "7,9 g",
+      "Zout": "0,28 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/e7ced9ba-6a08-4060-9dc8-deb22a802f63.jpg"
+    ]
+  },
+  "16": {
+    "nutrition": {
+      "Energie": "1636 kJ / 385 kcal",
+      "Vetten": "0,7 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "86,2 g",
+      "Waarvan suikers": "0,6 g",
+      "Vezels": "0,4 g",
+      "Eiwitten": "8 g",
+      "Zout": "0,28 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/03907c6a-e0de-4a9e-a2b8-4a47ea559405.jpg"
+    ]
+  },
+  "17": {
+    "nutrition": {
+      "Energie": "1672 kJ / 394 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "89 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "5,6 g",
+      "Zout": "0,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/5adcb7da-1b5b-4205-b622-e6a17c49cb0a.jpg"
+    ]
+  },
+  "18": {
+    "nutrition": {
+      "Energie": "1619 kJ / 382 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "82,6 g",
+      "Waarvan suikers": "0,4 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,28 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/3da095b8-a734-4316-a218-9a6b251f50dd.jpg"
+    ]
+  },
+  "19": {
+    "nutrition": {
+      "Energie": "1441 kJ / 340 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "0,6 g",
+      "Vezels": "3,2 g",
+      "Eiwitten": "5,4 g",
+      "Zout": "0,49 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/3099d1c7-93eb-46e0-8e3c-16f2a55cdec0.jpg"
+    ]
+  },
+  "20": {
+    "nutrition": {
+      "Energie": "1500 kJ / 354 kcal",
+      "Vetten": "2,3 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1 g",
+      "Vezels": "4,9 g",
+      "Eiwitten": "6,9 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/6fb918ef-86d3-47c1-953d-b6b4db675842.jpg"
+    ]
+  },
+  "21": {
+    "nutrition": {
+      "Energie": "2005 kJ / 479 kcal",
+      "Vetten": "22 g",
+      "Waarvan verzadigde vetzuren": "13 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "27 g",
+      "Vezels": "6,1 g",
+      "Eiwitten": "6,2 g",
+      "Zout": "0,01 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/391af593-5863-4ef4-a80f-e5db5b68d76e.jpg",
+      "source-labels/20261105-nutrition/5f53eb67-2956-4134-a3dc-c3c6769e5f83.jpg"
+    ]
+  },
+  "47": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "48": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "46": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "43": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "42": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "45": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "34": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "49": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "50": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "51": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "41": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "44": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "29": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "30": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "31": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "32": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "33": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "52": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "35": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "36": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "37": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "38": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "39": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "40": {
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
+  },
+  "23": {
+    "nutrition": {
+      "Energie": "1743 kJ / 416,67 kcal",
+      "Vetten": "0,0 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "91,667 g",
+      "Waarvan suikers": "83,333 g",
+      "Vezels": "< 8,333 g",
+      "Eiwitten": "< 8,333 g",
+      "Zout": "0,0 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "83,333 g",
+      "Natrium": "0,0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/4fb24e7c-95a6-445a-8c8a-45b386697620.jpg"
+    ]
+  },
+  "22": {
+    "nutrition": {
+      "Energie": "1657 kJ / 396 kcal",
+      "Vetten": "2 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "90 g",
+      "Waarvan suikers": "82 g",
+      "Eiwitten": "4,5 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/4e7b8755-f239-4aef-b908-57ffdd5637b1.jpg"
+    ]
+  }
+}

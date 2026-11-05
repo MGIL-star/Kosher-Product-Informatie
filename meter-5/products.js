@@ -32,7 +32,24 @@ window.KPI_PRODUCTS = [
       0.9254
     ],
     "kosherSource": "https://israelifooddirect.com/product/al-arz-tahini-seasame-seed-paste-500g/",
-    "kosherChecked": "2026-09-18"
+    "kosherChecked": "2026-09-18",
+    "nutrition": {
+      "Energie": "2803 kJ / 670 kcal",
+      "Vetten": "60 g",
+      "Waarvan verzadigde vetzuren": "10,5 g",
+      "Koolhydraten": "4 g",
+      "Waarvan suikers": "1,5 g",
+      "Vezels": "8 g",
+      "Eiwitten": "24,6 g",
+      "Zout": "0,5 g",
+      "Calcium": "120 mg",
+      "IJzer": "7,7 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/6eaaad5a-38c0-4e9d-8ed1-fb19d52af33c.jpg"
+    ]
   },
   {
     "id": 2,
@@ -66,7 +83,24 @@ window.KPI_PRODUCTS = [
       0.9995
     ],
     "kosherSource": "https://allegro.pl/produkt/krem-tahina-al-arz-tahini-premium-al-arz-100-tahina-naturalna-pelnoziarnista-pasta-sezamowa-453-g-1ed68b54-61f2-444d-a23c-b2b40639b27d",
-    "kosherChecked": "2026-09-18"
+    "kosherChecked": "2026-09-18",
+    "nutrition": {
+      "Energie": "2740 kJ / 655 kcal",
+      "Vetten": "57 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "4,5 g",
+      "Waarvan suikers": "1,4 g",
+      "Vezels": "12 g",
+      "Eiwitten": "25 g",
+      "Zout": "0,5 g",
+      "Calcium": "720 mg",
+      "IJzer": "10,1 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/a4794ade-3a07-4c19-a681-086dec9a7498.jpg"
+    ]
   },
   {
     "id": 3,
@@ -94,7 +128,21 @@ window.KPI_PRODUCTS = [
       1
     ],
     "kosherSource": "https://israelifooddirect.com/product/baracke-tahini-100-500g/",
-    "kosherChecked": "2026-09-18"
+    "kosherChecked": "2026-09-18",
+    "nutrition": {
+      "Energie": "2862 kJ / 684 kcal",
+      "Vetten": "60 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "12 g",
+      "Waarvan suikers": "1 g",
+      "Eiwitten": "24 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/24f73681-b9e2-4a07-956d-0831fe8ad7f5.jpg"
+    ]
   },
   {
     "id": 4,
@@ -132,6 +180,23 @@ window.KPI_PRODUCTS = [
       "CRC Hisachdus Harabonim",
       "Rabbi E.L. Schneebalg",
       "STAR-K (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "2891 kJ / 691 kcal",
+      "Vetten": "61,5 g",
+      "Waarvan verzadigde vetzuren": "9,8 g",
+      "Koolhydraten": "10,7 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "1,3 g",
+      "Eiwitten": "23,05 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/68e4d294-2b77-4a74-90c3-3f564fb14431.jpg"
     ]
   },
   {
@@ -163,6 +228,25 @@ window.KPI_PRODUCTS = [
       "CRC Hisachdus Harabonim",
       "Rabbi E.L. Schneebalg",
       "STAR-K (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "2891 kJ / 691 kcal",
+      "Vetten": "61,5 g",
+      "Waarvan verzadigde vetzuren": "9,8 g",
+      "Koolhydraten": "10,7 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "1,3 g",
+      "Eiwitten": "23,05 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/34f9476e-bb33-44be-b5cc-17af5e59407a.jpg",
+      "source-labels/20261105-nutrition/96567adb-0699-4dd0-b3ee-ad0e6d543eac.jpg",
+      "source-labels/20261105-nutrition/730d5423-85b3-4aa0-a9b5-1853cddd4ec2.jpg"
     ]
   },
   {
@@ -199,7 +283,41 @@ window.KPI_PRODUCTS = [
       0.993
     ],
     "kosherSource": "https://www.kayco.com/product/mighty-sesame-organic-squeezable-tahini/",
-    "kosherChecked": "2026-09-18"
+    "kosherChecked": "2026-09-18",
+    "nutrition": {
+      "Energie": "2929 kJ / 700 kcal",
+      "Vetten": "60 g",
+      "Waarvan verzadigde vetzuren": "13,33 g",
+      "Koolhydraten": "13,33 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "3,33 g",
+      "Eiwitten": "26,67 g",
+      "Zout": "0,375 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "150 mg",
+      "Calcium": "133,33 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg",
+      "Toegevoegde suikers": "0 g",
+      "Vitamine D": "0 µg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 30 g",
+      "kcal": 210,
+      "fat": 18,
+      "saturated": 4,
+      "carbohydrates": 4,
+      "fibre": 1,
+      "protein": 8,
+      "sodiumMg": 45,
+      "calciumMg": 40
+    },
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/9bc38444-4c37-47f4-8a49-7cd16eb67349.jpg"
+    ]
   },
   {
     "id": 50,
@@ -226,7 +344,23 @@ window.KPI_PRODUCTS = [
     "imageEdited": true,
     "ingredientsPartial": false,
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutrition": {
+      "Energie": "163 kJ / 39 kcal",
+      "Vetten": "0,9 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "6,5 g",
+      "Waarvan suikers": "1,1 g",
+      "Vezels": "2,8 g",
+      "Eiwitten": "2 g",
+      "Zout": "6 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/bfc55c6c-cb09-482e-851f-8b6b2bacedc9.jpg",
+      "source-labels/20261105-nutrition/9fb41855-5b27-4b8d-b739-136bb2d871b4.jpg"
+    ]
   },
   {
     "id": 7,
@@ -266,6 +400,25 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP)"
+    ],
+    "nutrition": {
+      "Energie": "297 kJ / 71 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "10 g",
+      "Waarvan suikers": "8,7 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Suiker (theelepels)": "2,25"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/165653af-2f24-40d8-ae84-d4c80e09d0f1.jpg",
+      "source-labels/20261105-nutrition/631447a7-1b90-428b-a708-97bf32d4775e.jpg"
     ]
   },
   {
@@ -303,6 +456,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU",
       "Rabbinaat Zichron Yaakov (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "825 kJ / 197 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "48 g",
+      "Waarvan suikers": "44 g",
+      "Vezels": "1,1 g",
+      "Eiwitten": "0,7 g",
+      "Zout": "1,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/96d07184-76d4-4782-8787-2489a5297d73.jpg"
     ]
   },
   {
@@ -336,7 +504,23 @@ window.KPI_PRODUCTS = [
       1
     ],
     "kosherSource": "https://kosherlist.lt/",
-    "kosherChecked": "2026-09-18"
+    "kosherChecked": "2026-09-18",
+    "nutrition": {
+      "Energie": "1047 kJ / 251 kcal",
+      "Vetten": "15 g",
+      "Waarvan verzadigde vetzuren": "1,7 g",
+      "Koolhydraten": "27 g",
+      "Waarvan suikers": "27 g",
+      "Eiwitten": "1,1 g",
+      "Zout": "0,93 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f99282ba-734c-403f-a09d-bdfecd06b57d.jpg",
+      "source-labels/20261105-nutrition/f1db7a3e-7ece-46e9-b099-7432ee06515e.jpg",
+      "source-labels/20261105-nutrition/22454297-0523-45f0-a757-b21ef8e830d3.jpg"
+    ]
   },
   {
     "id": 10,
@@ -373,6 +557,22 @@ window.KPI_PRODUCTS = [
       "b3ce123d-ad8b-4037-bd3d-7d961e0f9c65.jpg",
       "d4434f48-902d-4773-9a37-61ff16213238.jpg",
       "112ff1ed-231c-4521-a9da-06327a247608.jpg"
+    ],
+    "nutrition": {
+      "Energie": "1018 kJ / 243 kcal",
+      "Vetten": "13 g",
+      "Waarvan verzadigde vetzuren": "1,5 g",
+      "Koolhydraten": "30 g",
+      "Waarvan suikers": "28 g",
+      "Eiwitten": "0,9 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/adb4dbaf-be20-4ae8-8767-a7eda50e196e.jpg",
+      "source-labels/20261105-nutrition/86b5a294-d872-4bfe-b9fc-9d1065ce66ac.jpg",
+      "source-labels/20261105-nutrition/8737dfd1-5b40-4a44-8f83-8866164320cb.jpg"
     ]
   },
   {
@@ -439,7 +639,22 @@ window.KPI_PRODUCTS = [
     ],
     "ingredientSource": "Etiketfoto gebruiker c0fe2617-65f5-48eb-96ee-2308883f7645.jpg, 18 september 2026",
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 dezelfde Hechser als Osem Teriyakisaus.",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutrition": {
+      "Energie": "469 kJ / 112 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "23 g",
+      "Waarvan suikers": "18 g",
+      "Eiwitten": "5 g",
+      "Zout": "5,75 g",
+      "Natrium": "2300 mg",
+      "Suiker (theelepels)": "4,5"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/33f1086d-f570-4f38-b6ad-a6d140633dff.jpg"
+    ]
   },
   {
     "id": 13,
@@ -473,7 +688,25 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "96292645-5bb6-47fd-98d3-57e0943d575b.jpg"
     ],
-    "kosherForPassover": false
+    "kosherForPassover": false,
+    "nutrition": {
+      "Energie": "1151 kJ / 275 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "12 g",
+      "Waarvan suikers": "9,8 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,985 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "394 mg",
+      "Suiker (theelepels)": "2,5"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/85a20e66-1f9f-4983-a1fd-d7f93e073813.jpg"
+    ]
   },
   {
     "id": 15,
@@ -500,6 +733,21 @@ window.KPI_PRODUCTS = [
       0.0083,
       0.66,
       0.9917
+    ],
+    "nutrition": {
+      "Energie": "398 kJ / 95 kcal",
+      "Vetten": "6,2 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "6,5 g",
+      "Waarvan suikers": "1,4 g",
+      "Eiwitten": "5,4 g",
+      "Zout": "2,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/44ee74cf-76d0-4ba3-aba3-7184d569cbc9.jpg",
+      "source-labels/20261105-nutrition/2d03929e-9fa4-4338-b01b-fd189b94fc28.jpg"
     ]
   },
   {
@@ -527,6 +775,21 @@ window.KPI_PRODUCTS = [
       0.1867,
       0.7533,
       0.8567
+    ],
+    "nutrition": {
+      "Energie": "456 kJ / 109 kcal",
+      "Vetten": "7,5 g",
+      "Waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "5,1 g",
+      "Waarvan suikers": "1,4 g",
+      "Eiwitten": "5,5 g",
+      "Zout": "3,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/5eceff84-fc9d-4bd3-984c-0ce26bdfde05.jpg",
+      "source-labels/20261105-nutrition/f2994176-6c3e-4325-be2c-0e470c37ed76.jpg"
     ]
   },
   {
@@ -565,6 +828,22 @@ window.KPI_PRODUCTS = [
       "STAR-K",
       "Manchester Beth Din",
       "Rabbijn E.L. Schneebalg (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "1674 kJ / 406 kcal",
+      "Vetten": "39,4 g",
+      "Waarvan verzadigde vetzuren": "4,2 g",
+      "Koolhydraten": "8,3 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "3,3 g",
+      "Zout": "1,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/71b53376-e0e9-4160-b8e4-c3a52a840640.jpg",
+      "source-labels/20261105-nutrition/da50867a-6812-4aeb-b1f2-f1fd752071d4.jpg"
     ]
   },
   {
@@ -646,6 +925,22 @@ window.KPI_PRODUCTS = [
       "STAR-K",
       "Manchester Beth Din",
       "Rabbijn E.L. Schneebalg (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "1641 kJ / 398 kcal",
+      "Vetten": "39,7 g",
+      "Waarvan verzadigde vetzuren": "4,4 g",
+      "Koolhydraten": "5,4 g",
+      "Waarvan suikers": "3 g",
+      "Vezels": "2,6 g",
+      "Eiwitten": "3,5 g",
+      "Zout": "2,08 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/d834960d-233c-43f1-8317-626c711aa308.jpg",
+      "source-labels/20261105-nutrition/7614baeb-3dce-499d-976a-3e3659da3660.jpg"
     ]
   },
   {
@@ -687,7 +982,22 @@ window.KPI_PRODUCTS = [
     "storageSources": [
       "https://www.dolphinfitness.co.uk/en/activus-organic-carrot-soup-9-x-400g/482511"
     ],
-    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen.",
+    "nutrition": {
+      "Energie": "210 kJ / 50 kcal",
+      "Vetten": "2,2 g",
+      "Waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "6 g",
+      "Waarvan suikers": "3,1 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "0,8 g",
+      "Zout": "0,79 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/73cc565e-2db9-4851-b894-94c4b319a5a0.jpg"
+    ]
   },
   {
     "id": 28,
@@ -729,7 +1039,22 @@ window.KPI_PRODUCTS = [
     "storageSources": [
       "https://www.amanvida.eu/en/auga-creamy-champignon-soup-400g-organic-auga-socham"
     ],
-    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen.",
+    "nutrition": {
+      "Energie": "168 kJ / 40 kcal",
+      "Vetten": "1,5 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "4,2 g",
+      "Waarvan suikers": "0,6 g",
+      "Vezels": "1,3 g",
+      "Eiwitten": "1,8 g",
+      "Zout": "0,69 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/6f4056e7-0976-4208-80f7-9932ded8c916.jpg"
+    ]
   },
   {
     "id": 26,
@@ -772,7 +1097,22 @@ window.KPI_PRODUCTS = [
       "https://bioshi.ie/en/products/organic-cream-of-tomato-soup-400-g-activus-100354",
       "https://barbora.lv/produkti/bio-tomatu-kremzupa-activus-400-g"
     ],
-    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen."
+    "bishulSource": "Door gebruiker bevestigd vanaf etiketten: Bishul Yisrael op alle drie overige soepen.",
+    "nutrition": {
+      "Energie": "290 kJ / 70 kcal",
+      "Vetten": "4,3 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "8,1 g",
+      "Waarvan suikers": "3,7 g",
+      "Vezels": "1,3 g",
+      "Eiwitten": "1 g",
+      "Zout": "0,63 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/d74dbdc2-1bc9-473e-b3b1-4dd338afeda5.jpg"
+    ]
   },
   {
     "id": 27,
@@ -811,7 +1151,22 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://kosher.org.uk/assets/uploads/2025/11/2025-November-Update.pdf",
     "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
-    "ingredientSource": "Gebruikersfoto etiket: 705b4027-90ff-4177-ad47-d5aebc03e54c.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: 705b4027-90ff-4177-ad47-d5aebc03e54c.jpg",
+    "nutrition": {
+      "Energie": "194 kJ / 46 kcal",
+      "Vetten": "2,2 g",
+      "Waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "5,1 g",
+      "Waarvan suikers": "2,4 g",
+      "Vezels": "1,3 g",
+      "Eiwitten": "0,9 g",
+      "Zout": "0,67 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/3e19bae0-3e32-452d-82d2-b856e7110ea5.jpg"
+    ]
   },
   {
     "id": 51,
@@ -828,7 +1183,8 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       "source-photos/shimon-ariche-harissa-forte-front.jpg",
       "source-photos/shimon-ariche-harissa-forte-ingredients.jpg",
-      "source-photos/shimon-ariche-harissa-forte-barcode-kosher.jpg"
+      "source-photos/shimon-ariche-harissa-forte-barcode-kosher.jpg",
+      "source-labels/20261105-nutrition/03680fbe-e47e-4a49-a907-ce56e5902703.jpg"
     ],
     "ingredientsSource": "Etiketfoto gebruiker, aangeleverd op 2026-10-22.",
     "barcodeSource": "Etiketfoto gebruiker, barcode 3662444007471; controlecijfer geldig.",
@@ -844,7 +1200,18 @@ window.KPI_PRODUCTS = [
       0.112,
       0.841,
       0.94
-    ]
+    ],
+    "nutrition": {
+      "Energie": "293,5 kJ / 69,5 kcal",
+      "Vetten": "1,5 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "5 g",
+      "Waarvan suikers": "2,2 g",
+      "Eiwitten": "2,6 g",
+      "Zout": "7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05"
   },
   {
     "id": 29,
@@ -876,7 +1243,21 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "ccf2df70-ea10-4f8a-a2ad-ea3b79805e04.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "293,5 kJ / 69,5 kcal",
+      "Vetten": "1,5 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "5 g",
+      "Waarvan suikers": "2,2 g",
+      "Eiwitten": "2,6 g",
+      "Zout": "7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/03680fbe-e47e-4a49-a907-ce56e5902703.jpg"
+    ]
   },
   {
     "id": 30,
@@ -951,20 +1332,34 @@ window.KPI_PRODUCTS = [
       "8eecc423-8dba-4206-a40e-fa079c8263f6.jpg",
       "a54451ef-c2c3-4b4b-b75c-7619e26920ca.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "71 kJ / 17 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "3,9 g",
+      "Waarvan suikers": "1 g",
+      "Eiwitten": "0 g",
+      "Zout": "7,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/c8401ca3-dc52-4d2d-b3e5-a55d1e3f81b6.jpg"
+    ]
   },
   {
     "id": 32,
     "brand": "Kineret Agro",
     "name": "Knoflookblokjes",
     "variant": "200 g",
-    "ean": "3760413390101",
+    "ean": "3760413390125",
     "ingredients": "Knoflook (90%), zonnebloemolie (10%).",
     "allergens": [],
     "category": "Hartige Smaakmakers",
     "kosher": "Opperrabbinaat van Tunesië (KLP)",
     "kosherOriginalLabel": "Opperrabbinaat van Tunesië · KLP (alleen voor wie kitniyot eet) · Bishul Beit Yosef",
-    "image": "images/32.png",
+    "image": "images/32-diced-garlic.png",
     "productInfo": {},
     "sourceDocument": "DKW_Meter_5_Codex_Implementatiebrief.pdf",
     "ingredientsPartial": false,
@@ -988,6 +1383,22 @@ window.KPI_PRODUCTS = [
     "kosherForPassover": true,
     "reviewNotes": [
       "Gebruiker bevestigt knoflookblokjes en verzoekt de beschikbare productinformatie te gebruiken, 9 oktober 2026."
+    ],
+    "nutrition": {
+      "Energie": "1214 kJ / 293 kcal",
+      "Vetten": "2 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "8,6 g",
+      "Waarvan suikers": "5,5 g",
+      "Eiwitten": "2,2 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "imageEdited": true,
+    "imageEditPrompt": "Keep closed jar, lid, label, text and composition unchanged; change visible garlic paste into distinct small diced garlic cubes.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/1ca5d47d-2c36-4150-9f0f-f754c5fce5f2.jpg"
     ]
   },
   {
@@ -1026,7 +1437,21 @@ window.KPI_PRODUCTS = [
       "e5753a3c-7aa3-440e-a584-2abc0ef1cc0b.jpg",
       "91f9c0ff-77b5-4b41-b260-545a3126b9e4.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "754 kJ / 180 kcal",
+      "Vetten": "8,1 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "26 g",
+      "Zout": "14,3 g"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/e82ef462-cf73-42b4-a63b-55a656418ff9.jpg"
+    ]
   },
   {
     "id": 34,
@@ -1058,7 +1483,22 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "e36b7a43-c4fa-4e4f-b495-609e913ea28b.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "435 kJ / 104 kcal",
+      "Vetten": "1,2 g",
+      "Waarvan verzadigde vetzuren": "0,1 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "23 g",
+      "Zout": "0,52 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSourceEnergy": "Etiket drukt 435 kcal / 104 kJ; eenheden verwisseld overgenomen als 435 kJ / 104 kcal.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/6f073e1e-244c-4093-917b-2077ca7ca0b3.jpg"
+    ]
   },
   {
     "id": 37,
@@ -1093,7 +1533,21 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "356257ad-a099-495a-bfb1-5053bbd40331.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "1478 kJ / 353 kcal",
+      "Vetten": "28 g",
+      "Waarvan verzadigde vetzuren": "5,3 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "24 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/9ac3148c-629b-4c3f-b092-33e6bc60c5d2.jpg"
+    ]
   },
   {
     "id": 35,
@@ -1127,6 +1581,24 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": [
       "Naast de hechsjer staat een KP-symbool; de betekenis en eventuele Pesach-beperkingen zijn nog niet bevestigd."
+    ],
+    "nutrition": {
+      "Energie": "1456 kJ / 352 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "5 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "16 g",
+      "Zout": "1,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/6284c158-bbd5-48b6-b2b5-811756655ed4.jpg",
+      "source-labels/20261105-nutrition/5aa19180-296e-4bd7-b7b3-8122d63229b3.jpg",
+      "source-labels/20261105-nutrition/d60ef851-2b90-4f91-a932-e23371dd87b4.jpg",
+      "source-labels/20261105-nutrition/19874d81-542b-4da4-9ac0-edef6eb27794.jpg",
+      "source-labels/20261105-nutrition/12dcb63c-00d5-4338-8d85-330460ff32be.jpg"
     ]
   },
   {
@@ -1165,7 +1637,22 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "f17fee26-999a-4109-bc0c-88ac6442dd51.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "867 kJ / 207 kcal",
+      "Vetten": "11,9 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "24,7 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/937814eb-2a3d-4cc7-8cb8-c6305dbc7a38.jpg",
+      "source-labels/20261105-nutrition/a723cc46-e276-4e62-948c-308ae3242c88.jpg"
+    ]
   },
   {
     "id": 49,
@@ -1201,7 +1688,22 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "cad83ee3-79e0-4c87-92c0-a104be388415.jpg"
     ],
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "867 kJ / 207 kcal",
+      "Vetten": "11,9 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "24,7 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/0cd9441e-9588-4336-bf3c-529395cc408f.jpg",
+      "source-labels/20261105-nutrition/f9ab60e2-d3c4-46e7-8bee-6fa734848d33.jpg"
+    ]
   },
   {
     "id": 44,
@@ -1241,7 +1743,24 @@ window.KPI_PRODUCTS = [
     "kosherSource": "https://sovafoods.co.uk/catalog/dag12",
     "kosherChecked": "2026-09-18",
     "ingredientSource": "Gebruikersfoto: 639b8c3f-f3e1-4035-9ed1-7d9bcf505c12.jpg",
-    "warning": "Kan visgraten bevatten."
+    "warning": "Kan visgraten bevatten.",
+    "nutrition": {
+      "Energie": "377 kJ / 90 kcal",
+      "Vetten": "4,3 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "4,4 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "8,5 g",
+      "Zout": "0,915 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "51 mg",
+      "Natrium": "366 mg"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/196bd31d-e9a3-4c22-a0a8-0b2ff930f1b8.jpg"
+    ]
   },
   {
     "id": 45,
@@ -1287,7 +1806,25 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "14d4e0ea-ebca-416a-93b5-a2a8f2651d9e.jpg"
     ],
-    "warning": "Kan visgraten bevatten."
+    "warning": "Kan visgraten bevatten.",
+    "nutrition": {
+      "Energie": "351 kJ / 84 kcal",
+      "Vetten": "1,7 g",
+      "Waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "9,5 g",
+      "Waarvan suikers": "4,3 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,89 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "48 mg",
+      "Natrium": "356 mg",
+      "Suiker (theelepels)": "1"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/a50af891-0bee-495d-beb3-b783bd98c67c.jpg"
+    ]
   },
   {
     "id": 46,
@@ -1332,7 +1869,25 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "84091c23-7606-47e4-bc57-5e470298585e.jpg"
     ],
-    "warning": "Kan visgraten bevatten."
+    "warning": "Kan visgraten bevatten.",
+    "nutrition": {
+      "Energie": "364 kJ / 87 kcal",
+      "Vetten": "2,7 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "9,1 g",
+      "Waarvan suikers": "2,1 g",
+      "Eiwitten": "6,7 g",
+      "Zout": "0,875 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "30 mg",
+      "Natrium": "350 mg",
+      "Suiker (theelepels)": "0,5"
+    },
+    "nutritionUnit": "per 100 g uitgelekt product",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/e7c1e326-4abc-4031-9640-4d6881000246.jpg"
+    ]
   },
   {
     "id": 38,
@@ -1368,6 +1923,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "KP",
       "Badatz Agudat Harabanim"
+    ],
+    "nutrition": {
+      "Energie": "1473 kJ / 356 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "8 g",
+      "Koolhydraten": "0,5 g",
+      "Waarvan suikers": "< 0,1 g",
+      "Eiwitten": "17 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/8f61b14e-5b7f-45d0-bd94-970743a22715.jpg"
     ]
   },
   {
@@ -1399,7 +1968,37 @@ window.KPI_PRODUCTS = [
       1,
       0.98798
     ],
-    "ingredientSource": "Gebruikersfoto etiket: db005554-87e9-4a44-9207-e51f1cb3572c.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: db005554-87e9-4a44-9207-e51f1cb3572c.jpg",
+    "nutrition": {
+      "Energie": "822 kJ / 196,43 kcal",
+      "Vetten": "10,71 g",
+      "Waarvan verzadigde vetzuren": "1,79 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0 g",
+      "Eiwitten": "23,21 g",
+      "Zout": "0,89 g",
+      "Cholesterol": "53,57 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 56 g",
+      "kcal": 110,
+      "fat": 6,
+      "saturated": 1,
+      "cholesterolMg": 30,
+      "salt": 0.5,
+      "protein": 13,
+      "carbohydrates": 0,
+      "sugars": 0,
+      "fibre": 0
+    },
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/02d618ab-0f5b-489e-8d33-dd5d8d0bac9f.jpg",
+      "source-labels/20261105-nutrition/40c1b54c-7ab6-4682-8fee-a4d19ed7291b.jpg",
+      "source-labels/20261105-nutrition/a780d68c-aba1-4f64-b562-d09ae0c579ae.jpg"
+    ]
   },
   {
     "id": 40,
@@ -1462,6 +2061,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "CRC Hisachdus Harabonim",
       "OU (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "754 kJ / 180 kcal",
+      "Vetten": "8,82 g",
+      "Waarvan verzadigde vetzuren": "1,058 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "23,97 g",
+      "Zout": "1,02 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/c7007b6d-b839-4ba2-afe3-0cc8895691a6.jpg",
+      "source-labels/20261105-nutrition/2b856fdf-a681-490f-a7b1-e4e8f5ba3881.jpg"
     ]
   },
   {
@@ -1496,6 +2110,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "CRC Hisachdus Harabonim",
       "OU (KLP) (Parve)"
+    ],
+    "nutrition": {
+      "Energie": "461 kJ / 110 kcal",
+      "Vetten": "1,01 g",
+      "Waarvan verzadigde vetzuren": "0,17 g",
+      "Koolhydraten": "0,1 g",
+      "Waarvan suikers": "0,1 g",
+      "Eiwitten": "22,99 g",
+      "Zout": "1,02 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/82c73bc8-b9ed-4e18-8a57-118db909cea7.jpg",
+      "source-labels/20261105-nutrition/3bec8f9e-1c7d-4551-84d9-b28f836074b7.jpg"
     ]
   },
   {
@@ -1527,6 +2156,20 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "labelSources": [
       "88ae0280-263a-424d-a4ef-39bc8e468e79.jpg"
+    ],
+    "nutrition": {
+      "Energie": "922 kJ / 224 kcal",
+      "Vetten": "12,9 g",
+      "Waarvan verzadigde vetzuren": "3,3 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "26,4 g",
+      "Zout": "0,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/85d43ee0-c4de-4c3f-b108-7fec01a81361.jpg"
     ]
   },
   {
@@ -1604,6 +2247,23 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: 02ed3280-23fb-4e8e-9f24-6452e265ea9f.jpg",
     "reviewNotes": [
       "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ],
+    "nutrition": {
+      "Energie": "3048 kJ / 728 kcal",
+      "Vetten": "80 g",
+      "Waarvan verzadigde vetzuren": "5,6 g",
+      "Koolhydraten": "0,5 g",
+      "Waarvan suikers": "0,3 g",
+      "Vezels": "0 g",
+      "Eiwitten": "1,5 g",
+      "Zout": "1,1 g",
+      "Enkelvoudig onverzadigde vetzuren": "51,2 g",
+      "Meervoudig onverzadigde vetzuren": "22,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/ccf897f5-14cb-4601-b00f-37b787896d59.jpg"
     ]
   },
   {
@@ -1642,7 +2302,22 @@ window.KPI_PRODUCTS = [
       0.9817
     ],
     "mayContain": "Kan glutenbevattende granen, soja, melk (inclusief lactose) en selderij bevatten.",
-    "ingredientSource": "Gebruikersfoto etiket: 90dcee60-9a08-4b72-b4ae-7c7ac03a08ec.jpg"
+    "ingredientSource": "Gebruikersfoto etiket: 90dcee60-9a08-4b72-b4ae-7c7ac03a08ec.jpg",
+    "nutrition": {
+      "Energie": "1143 kJ / 277 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "9,8 g",
+      "Waarvan suikers": "3,5 g",
+      "Vezels": "1,1 g",
+      "Eiwitten": "0,7 g",
+      "Zout": "1,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/65c144d6-c43c-4dda-a125-590517cf8f4e.jpg"
+    ]
   },
   {
     "id": 19,
@@ -1675,6 +2350,21 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: 7ba54e30-4b91-4425-8c2a-becf19dff2f0.jpg",
     "reviewNotes": [
       "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ],
+    "nutrition": {
+      "Energie": "3071 kJ / 747 kcal",
+      "Vetten": "82 g",
+      "Waarvan verzadigde vetzuren": "6,7 g",
+      "Koolhydraten": "1 g",
+      "Waarvan suikers": "0,9 g",
+      "Vezels": "0 g",
+      "Eiwitten": "1,4 g",
+      "Zout": "0,86 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/13a526c9-33e3-4e81-ac8a-67a5fc31a1cf.jpg"
     ]
   },
   {
@@ -1710,6 +2400,20 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: 5817ea63-3742-4025-9a2c-c3be2c368a27.jpg",
     "reviewNotes": [
       "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ],
+    "nutrition": {
+      "Energie": "3071 kJ / 747 kcal",
+      "Vetten": "82 g",
+      "Waarvan verzadigde vetzuren": "6,7 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,4 g",
+      "Zout": "0,86 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/5ac86995-61c5-4e31-913f-3c1f8bd6e20b.jpg"
     ]
   },
   {
@@ -1745,6 +2449,23 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: cbaf28d2-468d-4723-897a-016257b07c1c.jpg",
     "reviewNotes": [
       "Volledige ingrediënten en allergeneninformatie overgenomen van het aangeleverde etiket."
+    ],
+    "nutrition": {
+      "Energie": "3054 kJ / 742 kcal",
+      "Vetten": "80 g",
+      "Waarvan verzadigde vetzuren": "6,6 g",
+      "Koolhydraten": "3,4 g",
+      "Waarvan suikers": "0,3 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "1,7 g",
+      "Zout": "1,1 g",
+      "Enkelvoudig onverzadigde vetzuren": "51,2 g",
+      "Meervoudig onverzadigde vetzuren": "22,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/180f63bc-14d5-4a6d-9f06-c7404edc389d.jpg"
     ]
   },
   {
@@ -1777,7 +2498,22 @@ window.KPI_PRODUCTS = [
     ],
     "kosherSource": "https://www.osem-nestleusa.com/osem-sauces/ketchup-264-oz",
     "kosherChecked": "2026-09-18",
-    "allergenSource": "Door gebruiker bevestigd: geen allergenen."
+    "allergenSource": "Door gebruiker bevestigd: geen allergenen.",
+    "nutrition": {
+      "Energie": "473 kJ / 111 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "26 g",
+      "Waarvan suikers": "23 g",
+      "Eiwitten": "1,8 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/d648e465-6a3e-4dee-9836-8a67bb51f146.jpg",
+      "source-labels/20261105-nutrition/a790e75c-6403-40a3-8da6-4f2950fdef89.jpg"
+    ]
   },
   {
     "id": 52,
@@ -1800,36 +2536,17 @@ window.KPI_PRODUCTS = [
       "Vetten": "0 g",
       "Koolhydraten": "30 g",
       "Waarvan suikers": "14 g",
-      "Vezels": "3,5 g",
       "Eiwitten": "0 g",
-      "Natrium": "604 mg"
+      "Zout": "1,51 g",
+      "Natrium": "604 mg",
+      "Suiker (theelepels)": "3,5"
     },
     "sourcePhotos": [
       "source-labels/0b281c61-4021-4152-9f25-a5882b19e296.jpg",
       "source-labels/5fca67aa-7c74-4f37-9efd-3a2a2b441856.jpg",
-      "source-labels/e260533a-0353-44a5-be3b-46fa3522a445.jpg"
-    ]
+      "source-labels/e260533a-0353-44a5-be3b-46fa3522a445.jpg",
+      "source-labels/20261105-nutrition/e6259fb5-d5df-4ea5-934f-6dade7ee12d0.jpg"
+    ],
+    "nutritionChecked": "2026-11-05"
   }
 ];
-
-// Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
-(function () {
-  const corrections = {
-  "52": {
-    "nutrition": {
-      "Energie": "502 kJ / 120 kcal",
-      "Vetten": "0 g",
-      "Koolhydraten": "30 g",
-      "Waarvan suikers": "14 g",
-      "Vezels": "3,5 g",
-      "Eiwitten": "0 g",
-      "Natrium": "604 mg",
-      "Zout": "1,51 g"
-    },
-    "nutritionUnit": "per 100 ml"
-  }
-};
-  for (const product of window.KPI_PRODUCTS) {
-    if (corrections[product.id]) Object.assign(product, corrections[product.id]);
-  }
-}());

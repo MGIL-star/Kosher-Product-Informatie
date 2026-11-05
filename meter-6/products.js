@@ -16,7 +16,8 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       1,
       2,
-      3
+      3,
+      "source-labels/20261105-nutrition/06bf8fe3-644e-438b-a86e-3446125c17b9.jpg"
     ],
     "imageSource": "https://sabeny.com/product/food-cupboard/matzos-crackers-rice-cakes/matzos/yehuda-chometz-matzos/",
     "sourcePdfPhotos": [
@@ -36,7 +37,19 @@ window.KPI_PRODUCTS = [
       "OU",
       "Opperrabbinaat Jeruzalem",
       "Beth Zedek van de orthodox joodse gemeenschap (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1528 kJ / 365 kcal",
+      "Vetten": "1 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "3,7 g",
+      "Eiwitten": "11,4 g",
+      "Zout": "0,025 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05"
   },
   {
     "id": 2,
@@ -55,7 +68,8 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       4,
       5,
-      6
+      6,
+      "source-labels/20261105-nutrition/7b523846-01c0-48f1-b32e-e4572b86949f.jpg"
     ],
     "imageSource": "https://panzers.co.uk/product/yehuda-spelt-matzos/",
     "sourcePdfPhotos": [
@@ -75,7 +89,19 @@ window.KPI_PRODUCTS = [
       "OU",
       "Opperrabbinaat Jeruzalem",
       "Beth Zedek van de orthodox joodse gemeenschap (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1435 kJ / 343 kcal",
+      "Vetten": "2,3 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "76 g",
+      "Waarvan suikers": "2 g",
+      "Vezels": "11 g",
+      "Eiwitten": "16 g",
+      "Zout": "0,02 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05"
   },
   {
     "id": 3,
@@ -93,7 +119,8 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       7,
       8,
-      10
+      10,
+      "source-labels/20261105-nutrition/7dc197b5-3652-4e85-b19d-6aa94f73d1ac.jpg"
     ],
     "imageSource": "Door gebruiker aangeleverde juiste verpakking, op verzoek digitaal opgeknapt.",
     "sourcePdfPhotos": [
@@ -111,7 +138,18 @@ window.KPI_PRODUCTS = [
       0.981658692185008
     ],
     "kosherSource": "Eigen etiketfoto’s 7 en 8: keurmerk Rav Schlesinger, Straatsburg; kosher parve en Afiyat Yisrael.",
-    "mayContain": "Kan sporen van ei bevatten."
+    "mayContain": "Kan sporen van ei bevatten.",
+    "nutrition": {
+      "Energie": "2236 kJ / 537 kcal",
+      "Vetten": "35,7 g",
+      "Waarvan verzadigde vetzuren": "19,8 g",
+      "Koolhydraten": "44,3 g",
+      "Waarvan suikers": "0,9 g",
+      "Eiwitten": "8,6 g",
+      "Zout": "0,79 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05"
   },
   {
     "id": 4,
@@ -129,7 +167,8 @@ window.KPI_PRODUCTS = [
     "image": "./images/shneiders-original-front.png",
     "sourcePhotos": [
       11,
-      12
+      12,
+      "source-labels/20261105-nutrition/514e6cf6-0dba-4dc8-9bf0-cbadf88a6788.jpg"
     ],
     "imageSource": "https://shneiders.fr/fr/pains-biscottes-et-toasts/135-toast-rounds-original.html",
     "sourcePdfPhotos": [
@@ -150,7 +189,68 @@ window.KPI_PRODUCTS = [
       "Rabbi E.L. Schneebalg",
       "STAR-K - Afiyat Yisrael (Parve)"
     ],
-    "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt."
+    "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt.",
+    "nutrition": {
+      "Energie": "1674 kJ / 400,0 kcal",
+      "Vetten": "6,667 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "73,333 g",
+      "Waarvan suikers": "6,667 g",
+      "Vezels": "3,333 g",
+      "Eiwitten": "13,333 g",
+      "Zout": "1,25 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Toegevoegde suikers": "6,667 g",
+      "Calcium": "253,333 mg",
+      "IJzer": "13,333 mg",
+      "Kalium": "2206,667 mg",
+      "Natrium": "500,0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 15 g",
+      "kcal": 60,
+      "fat": 1,
+      "saturated": 0,
+      "carbohydrates": 11,
+      "sugars": 1,
+      "fibre": 0.5,
+      "protein": 2,
+      "sodiumMg": 75,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          1,
+          "g"
+        ],
+        "Calcium": [
+          38,
+          "mg"
+        ],
+        "IJzer": [
+          2,
+          "mg"
+        ],
+        "Kalium": [
+          331,
+          "mg"
+        ]
+      }
+    }
   },
   {
     "id": 5,
@@ -168,7 +268,8 @@ window.KPI_PRODUCTS = [
     "image": "./images/shneiders-whole-grain-front.png",
     "sourcePhotos": [
       13,
-      14
+      14,
+      "source-labels/20261105-nutrition/426126c7-f90b-405d-bebe-5c7b1a06ac0c.jpg"
     ],
     "imageSource": "https://shneiders.fr/fr/pains-biscottes-et-toasts/136-toast-rounds-whole-wheat.html",
     "sourcePdfPhotos": [
@@ -189,7 +290,68 @@ window.KPI_PRODUCTS = [
       "Rabbi E.L. Schneebalg",
       "STAR-K - Afiyat Yisrael (Parve)"
     ],
-    "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt."
+    "mayContain": "Geproduceerd in een fabriek waar ook soja en mosterd worden verwerkt.",
+    "nutrition": {
+      "Energie": "1618 kJ / 386,67 kcal",
+      "Vetten": "6,667 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "73,333 g",
+      "Waarvan suikers": "6,667 g",
+      "Vezels": "6,667 g",
+      "Eiwitten": "13,333 g",
+      "Zout": "1,0 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Toegevoegde suikers": "6,667 g",
+      "Calcium": "26,667 mg",
+      "IJzer": "2,0 mg",
+      "Kalium": "3093,333 mg",
+      "Natrium": "400,0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 15 g",
+      "kcal": 58,
+      "fat": 1,
+      "saturated": 0,
+      "carbohydrates": 11,
+      "sugars": 1,
+      "fibre": 1,
+      "protein": 2,
+      "sodiumMg": 60,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Toegevoegde suikers": [
+          1,
+          "g"
+        ],
+        "Calcium": [
+          4,
+          "mg"
+        ],
+        "IJzer": [
+          0.3,
+          "mg"
+        ],
+        "Kalium": [
+          464,
+          "mg"
+        ]
+      }
+    }
   },
   {
     "id": 12,
@@ -211,7 +373,9 @@ window.KPI_PRODUCTS = [
       32,
       33,
       35,
-      44
+      44,
+      "source-labels/20261105-nutrition/9af481bb-d23c-472d-a410-7d3c6723ddb1.jpg",
+      "source-labels/20261105-nutrition/b093d9e7-f95c-4ea6-98d0-de29645b796a.jpg"
     ],
     "imageSource": "https://www.tesco.com/shop/en-GB/products/263386406",
     "sourcePdfPhotos": [
@@ -234,7 +398,68 @@ window.KPI_PRODUCTS = [
     "imageBeforeTextCleanup": "./images/osem-cream.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
-    "mayContain": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room."
+    "mayContain": "Kan sesamzaad en noten bevatten. Bevat volgens de verpakking geen room.",
+    "nutrition": {
+      "Energie": "2155 kJ / 515,15 kcal",
+      "Vetten": "24,242 g",
+      "Waarvan verzadigde vetzuren": "4,545 g",
+      "Koolhydraten": "63,636 g",
+      "Waarvan suikers": "6,061 g",
+      "Vezels": "3,03 g",
+      "Eiwitten": "9,091 g",
+      "Zout": "0,985 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "6,061 g",
+      "Natrium": "393,939 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 33 g",
+      "kcal": 170,
+      "fat": 8,
+      "saturated": 1.5,
+      "carbohydrates": 21,
+      "sugars": 2,
+      "fibre": 1,
+      "protein": 3,
+      "sodiumMg": 130,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Calcium": [
+          0,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          0,
+          "mg"
+        ],
+        "Toegevoegde suikers": [
+          2,
+          "g"
+        ]
+      }
+    }
   },
   {
     "id": 11,
@@ -254,7 +479,8 @@ window.KPI_PRODUCTS = [
     "image": "./images/osem-11-clean-front.png",
     "sourcePhotos": [
       30,
-      31
+      31,
+      "source-labels/20261105-nutrition/dd09fcf6-fe8f-4410-a2a3-44b98ca049bc.jpg"
     ],
     "imageSource": "https://www.tesco.com/shop/en-GB/products/263385279",
     "sourcePdfPhotos": [
@@ -272,7 +498,68 @@ window.KPI_PRODUCTS = [
     "imageBeforeTextCleanup": "./images/osem-sesame-front.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
-    "mayContain": "Kan soja en noten bevatten."
+    "mayContain": "Kan soja en noten bevatten.",
+    "nutrition": {
+      "Energie": "1943 kJ / 464,29 kcal",
+      "Vetten": "17,857 g",
+      "Waarvan verzadigde vetzuren": "3,571 g",
+      "Koolhydraten": "67,857 g",
+      "Waarvan suikers": "3,571 g",
+      "Vezels": "3,571 g",
+      "Eiwitten": "10,714 g",
+      "Zout": "0,982 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "3,571 g",
+      "Natrium": "392,857 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 28 g",
+      "kcal": 130,
+      "fat": 5,
+      "saturated": 1,
+      "carbohydrates": 19,
+      "sugars": 1,
+      "fibre": 1,
+      "protein": 3,
+      "sodiumMg": 110,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Calcium": [
+          0,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          0,
+          "mg"
+        ],
+        "Toegevoegde suikers": [
+          1,
+          "g"
+        ]
+      }
+    }
   },
   {
     "id": 9,
@@ -293,7 +580,8 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       24,
       25,
-      26
+      26,
+      "source-labels/20261105-nutrition/457e879d-13d1-456a-8d56-430f3f22fdf8.jpg"
     ],
     "imageSource": "https://www.tesco.com/shop/en-GB/products/266651017",
     "sourcePdfPhotos": [
@@ -311,7 +599,68 @@ window.KPI_PRODUCTS = [
     "imageBeforeTextCleanup": "./images/osem-wheaten.jpg",
     "imageEditNote": "Op verzoek verticale kleine tekst verwijderd via image_gen. Illustratief bewerkt beeld, etiketgegevens staan los hiervan.",
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
-    "mayContain": "Kan sesamzaad en noten bevatten."
+    "mayContain": "Kan sesamzaad en noten bevatten.",
+    "nutrition": {
+      "Energie": "1793 kJ / 428,57 kcal",
+      "Vetten": "12,5 g",
+      "Waarvan verzadigde vetzuren": "3,571 g",
+      "Koolhydraten": "71,429 g",
+      "Waarvan suikers": "< 3,571 g",
+      "Vezels": "< 3,571 g",
+      "Eiwitten": "10,714 g",
+      "Zout": "1,964 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "< 3,571 g",
+      "Natrium": "785,714 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 28 g",
+      "kcal": 120,
+      "fat": 3.5,
+      "saturated": 1,
+      "carbohydrates": 20,
+      "sugars": "<1",
+      "fibre": "<1",
+      "protein": 3,
+      "sodiumMg": 220,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Calcium": [
+          0,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          0,
+          "mg"
+        ],
+        "Toegevoegde suikers": [
+          "<1",
+          "g"
+        ]
+      }
+    }
   },
   {
     "id": 6,
@@ -331,7 +680,9 @@ window.KPI_PRODUCTS = [
     "sourcePhotos": [
       15,
       16,
-      17
+      17,
+      "source-labels/20261105-nutrition/10a7ccc4-a489-49b1-992d-318276f4ecf0.jpg",
+      "source-labels/20261105-nutrition/4ac10a69-847e-4f71-a56d-2ac48cf78b42.jpg"
     ],
     "imageSource": "Door gebruiker aangeleverde verpakking, digitaal opgeknapt op verzoek.",
     "sourcePdfPhotos": [
@@ -350,7 +701,19 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeTextCleanup": "./images/osem-sea-salt-clean.png",
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
-    "mayContain": "Kan noten, sesamzaad en soja bevatten."
+    "mayContain": "Kan noten, sesamzaad en soja bevatten.",
+    "nutrition": {
+      "Energie": "2176 kJ / 520 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "3,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "7,5 g",
+      "Vezels": "2,3 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "1,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05"
   },
   {
     "id": 7,
@@ -535,7 +898,71 @@ window.KPI_PRODUCTS = [
       0.68
     ],
     "kosherSource": "Laatste gebruikersbevestiging: uitsluitend Badatz Edah HaChareidis (Parve) voor Kalamata-crackers.",
-    "mayContain": "Kan sesam, noten en soja bevatten."
+    "mayContain": "Kan sesam, noten en soja bevatten.",
+    "nutrition": {
+      "Energie": "1902 kJ / 454,55 kcal",
+      "Vetten": "18,182 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "68,182 g",
+      "Waarvan suikers": "4,545 g",
+      "Vezels": "4,545 g",
+      "Eiwitten": "13,636 g",
+      "Zout": "1,023 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "0,0 g",
+      "Natrium": "409,091 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 22 g",
+      "kcal": 100,
+      "fat": 4,
+      "saturated": 0,
+      "carbohydrates": 15,
+      "sugars": 1,
+      "fibre": 1,
+      "protein": 3,
+      "sodiumMg": 90,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Calcium": [
+          0,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          0,
+          "mg"
+        ],
+        "Toegevoegde suikers": [
+          0,
+          "g"
+        ]
+      }
+    },
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/9c442195-c910-4e73-96ff-7daa7f5d302a.jpg"
+    ]
   },
   {
     "id": 14,
@@ -567,7 +994,22 @@ window.KPI_PRODUCTS = [
       0.726
     ],
     "kosherSource": "Gebruikersbevestiging: alle Osem-crackers Badatz Edah HaChareidis (Parve).",
-    "mayContain": "Kan noten en soja bevatten."
+    "mayContain": "Kan noten en soja bevatten.",
+    "nutrition": {
+      "Energie": "1940 kJ / 458 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "1,7 g",
+      "Koolhydraten": "64 g",
+      "Waarvan suikers": "8,8 g",
+      "Vezels": "6,5 g",
+      "Eiwitten": "12 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/4d1bcd66-ff6e-4e2f-8d21-5ff82b1b0fac.jpg"
+    ]
   },
   {
     "id": 15,
@@ -597,7 +1039,22 @@ window.KPI_PRODUCTS = [
     "imageBeforeRefinement": "./images/elisha-15.jpg",
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: recht vooraanzicht karton.",
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
-    "mayContain": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt."
+    "mayContain": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt.",
+    "nutrition": {
+      "Energie": "1645 kJ / 388 kcal",
+      "Vetten": "3 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "80,7 g",
+      "Waarvan suikers": "0,9 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "7,9 g",
+      "Zout": "0,28 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/e7ced9ba-6a08-4060-9dc8-deb22a802f63.jpg"
+    ]
   },
   {
     "id": 16,
@@ -627,7 +1084,22 @@ window.KPI_PRODUCTS = [
     "imageBeforeRefinement": "./images/elisha-16.jpg",
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: recht vooraanzicht karton.",
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
-    "mayContain": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt."
+    "mayContain": "Gemaakt in een bedrijf waar ook sesam wordt verwerkt.",
+    "nutrition": {
+      "Energie": "1636 kJ / 385 kcal",
+      "Vetten": "0,7 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "86,2 g",
+      "Waarvan suikers": "0,6 g",
+      "Vezels": "0,4 g",
+      "Eiwitten": "8 g",
+      "Zout": "0,28 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/03907c6a-e0de-4a9e-a2b8-4a47ea559405.jpg"
+    ]
   },
   {
     "id": 17,
@@ -658,7 +1130,22 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeRefinement": "./images/elisha-17.jpg",
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: scherpte en helderheid verbeterd. Kleine tekst blijft uitsluitend illustratief.",
-    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher."
+    "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
+    "nutrition": {
+      "Energie": "1672 kJ / 394 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "89 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "5,6 g",
+      "Zout": "0,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/5adcb7da-1b5b-4205-b622-e6a17c49cb0a.jpg"
+    ]
   },
   {
     "id": 18,
@@ -689,7 +1176,22 @@ window.KPI_PRODUCTS = [
     "imageEditNote": "Illustratieve AI bewerking van Elisha websitefoto: scherpte en helderheid verbeterd. Kleine tekst blijft uitsluitend illustratief.",
     "kosherSource": "Gebruikersbevestiging: Machsike Hadass Antwerpen (Parve) voor Ronde Rijstwafels met Zout.",
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
-    "mayContain": "Kan sesam bevatten."
+    "mayContain": "Kan sesam bevatten.",
+    "nutrition": {
+      "Energie": "1619 kJ / 382 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "82,6 g",
+      "Waarvan suikers": "0,4 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,28 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/3da095b8-a734-4316-a218-9a6b251f50dd.jpg"
+    ]
   },
   {
     "id": 19,
@@ -716,7 +1218,22 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeRefinement": "./images/elisha-19.jpg",
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
-    "mayContain": "Kan sesam bevatten."
+    "mayContain": "Kan sesam bevatten.",
+    "nutrition": {
+      "Energie": "1441 kJ / 340 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "0,6 g",
+      "Vezels": "3,2 g",
+      "Eiwitten": "5,4 g",
+      "Zout": "0,49 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/3099d1c7-93eb-46e0-8e3c-16f2a55cdec0.jpg"
+    ]
   },
   {
     "id": 20,
@@ -743,7 +1260,22 @@ window.KPI_PRODUCTS = [
     ],
     "imageBeforeRefinement": "./images/elisha-20.jpg",
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
-    "mayContain": "Kan sesam bevatten."
+    "mayContain": "Kan sesam bevatten.",
+    "nutrition": {
+      "Energie": "1500 kJ / 354 kcal",
+      "Vetten": "2,3 g",
+      "Waarvan verzadigde vetzuren": "0,3 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1 g",
+      "Vezels": "4,9 g",
+      "Eiwitten": "6,9 g",
+      "Zout": "0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/6fb918ef-86d3-47c1-953d-b6b4db675842.jpg"
+    ]
   },
   {
     "id": 21,
@@ -771,7 +1303,23 @@ window.KPI_PRODUCTS = [
       0.984
     ],
     "kosherSourceNote": "Gebruikersbevestiging: deze vermelding toepassen op alle Elisha-wafels met dezelfde Antwerpse hechsher.",
-    "mayContain": "Kan melk en sesam bevatten."
+    "mayContain": "Kan melk en sesam bevatten.",
+    "nutrition": {
+      "Energie": "2005 kJ / 479 kcal",
+      "Vetten": "22 g",
+      "Waarvan verzadigde vetzuren": "13 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "27 g",
+      "Vezels": "6,1 g",
+      "Eiwitten": "6,2 g",
+      "Zout": "0,01 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/391af593-5863-4ef4-a80f-e5db5b68d76e.jpg",
+      "source-labels/20261105-nutrition/5f53eb67-2956-4134-a3dc-c3c6769e5f83.jpg"
+    ]
   },
   {
     "id": 47,
@@ -802,7 +1350,21 @@ window.KPI_PRODUCTS = [
       "2884471f-868b-4ded-9bca-86ab1b8a6c45.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 48,
@@ -829,7 +1391,21 @@ window.KPI_PRODUCTS = [
     "ingredientsSource": "https://www.wtea.com/product/ginger-lemongrass/",
     "kosherSource": "Gebruikersbevestiging: bij alle thee OU P (Parve).",
     "barcodeStatus": "Bevestigd in leveranciers-/winkelproductgegevens voor deze theevariant.",
-    "barcodeSource": "https://www.kayco.com/product/wissotzky-ginger-lemongrass-green-tea/"
+    "barcodeSource": "https://www.kayco.com/product/wissotzky-ginger-lemongrass-green-tea/",
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 46,
@@ -860,7 +1436,21 @@ window.KPI_PRODUCTS = [
       "9ae1ed67-a1f7-4245-9283-03a4750baea1.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 43,
@@ -891,7 +1481,21 @@ window.KPI_PRODUCTS = [
       "8c1da54e-680f-42a4-ac21-0e2c78d4e0a2.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 42,
@@ -922,7 +1526,21 @@ window.KPI_PRODUCTS = [
       "63e27cd5-8633-45c2-950c-680abbe14062.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 45,
@@ -954,7 +1572,21 @@ window.KPI_PRODUCTS = [
       "511bbb2f-3f9e-4af6-b37d-60c522b1761b.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 34,
@@ -992,7 +1624,21 @@ window.KPI_PRODUCTS = [
     "kosherForPassover": true,
     "ingredientsSource": "Etiketfoto gebruiker: 7efc197d-16d3-4c1a-b15f-5e49394a13ba.jpg",
     "ingredientsPartial": false,
-    "kosherNote": "OU: Parve en KLP."
+    "kosherNote": "OU: Parve en KLP.",
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 49,
@@ -1023,7 +1669,21 @@ window.KPI_PRODUCTS = [
       "21aee5a9-5e00-4f43-b517-4ada4021fb44.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 50,
@@ -1054,7 +1714,21 @@ window.KPI_PRODUCTS = [
       "747e09c0-6685-445d-84cd-4dda4367b112.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 51,
@@ -1084,7 +1758,21 @@ window.KPI_PRODUCTS = [
       "95504359-1d5c-4f68-bc28-ad7d40be5b7c.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 41,
@@ -1114,7 +1802,21 @@ window.KPI_PRODUCTS = [
       "a10420d5-a09d-44f7-a77b-c607442d0b6f.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 44,
@@ -1145,7 +1847,21 @@ window.KPI_PRODUCTS = [
       "23c57e1b-0903-470e-84d6-3bd81754d8c1.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 29,
@@ -1178,7 +1894,21 @@ window.KPI_PRODUCTS = [
       "18debbca-a88f-42e1-8c4b-f3bf33f065ee.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 30,
@@ -1212,7 +1942,21 @@ window.KPI_PRODUCTS = [
       "0e7f4784-95a6-4c1c-9210-a67fa4e4c0ac.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherReview": "Op de nieuwe foto staat OU zonder P; KLP niet bevestigd voor deze verpakking."
+    "kosherReview": "Op de nieuwe foto staat OU zonder P; KLP niet bevestigd voor deze verpakking.",
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 31,
@@ -1245,7 +1989,21 @@ window.KPI_PRODUCTS = [
       "c6f1d0e7-0062-49d7-984d-07bc692fdeb7.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 32,
@@ -1278,7 +2036,21 @@ window.KPI_PRODUCTS = [
       "f5ab8c27-62bb-4077-9c98-662654b75d00.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 33,
@@ -1311,7 +2083,21 @@ window.KPI_PRODUCTS = [
       "5d074ef2-d8a9-4a29-a43c-c0192b391d6b.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 52,
@@ -1349,7 +2135,21 @@ window.KPI_PRODUCTS = [
       "553dd6b9-24e7-4dd6-a7e9-f4840c40985c.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 35,
@@ -1382,7 +2182,21 @@ window.KPI_PRODUCTS = [
       "bda09a6b-6fb2-4f10-9569-d17389a7dead.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 36,
@@ -1415,7 +2229,21 @@ window.KPI_PRODUCTS = [
       "fd89dfde-fcf1-44f7-abc5-7819f0add0af.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 37,
@@ -1448,7 +2276,21 @@ window.KPI_PRODUCTS = [
       "7e29190b-ca02-4322-8e06-3cf4346eec6f.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 38,
@@ -1481,7 +2323,21 @@ window.KPI_PRODUCTS = [
       "dd27789f-692f-4cab-ab6c-e81b9aca5e8c.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 39,
@@ -1514,7 +2370,21 @@ window.KPI_PRODUCTS = [
       "8699dc19-9ab5-457b-b4b5-2ef6abc370bf.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 40,
@@ -1547,7 +2417,21 @@ window.KPI_PRODUCTS = [
       "451503a6-2dc7-4798-8fbf-ac85942003c3.jpg"
     ],
     "kosherChecked": "2026-10-09",
-    "kosherForPassover": true
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0 g",
+      "Eiwitten": "0,06 g",
+      "Zout": "0 g",
+      "Natrium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Gebruiker bevestigt deze aangeleverde theewaarden voor alle thee, 5 november 2026.",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/f110125c-7217-47e5-938a-20741e62fd99.jpg"
+    ]
   },
   {
     "id": 28,
@@ -1732,6 +2616,70 @@ window.KPI_PRODUCTS = [
       0,
       1,
       1
+    ],
+    "nutrition": {
+      "Energie": "1743 kJ / 416,67 kcal",
+      "Vetten": "0,0 g",
+      "Waarvan verzadigde vetzuren": "0,0 g",
+      "Koolhydraten": "91,667 g",
+      "Waarvan suikers": "83,333 g",
+      "Vezels": "< 8,333 g",
+      "Eiwitten": "< 8,333 g",
+      "Zout": "0,0 g",
+      "Transvetten": "0,0 g",
+      "Cholesterol": "0,0 mg",
+      "Vitamine D": "0,0 µg",
+      "Calcium": "0,0 mg",
+      "IJzer": "0,0 mg",
+      "Kalium": "0,0 mg",
+      "Toegevoegde suikers": "83,333 g",
+      "Natrium": "0,0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "nutritionOriginal": {
+      "unit": "per 12 g",
+      "kcal": 50,
+      "fat": 0,
+      "saturated": 0,
+      "carbohydrates": 11,
+      "sugars": 10,
+      "fibre": "<1",
+      "protein": "<1",
+      "sodiumMg": 0,
+      "extra": {
+        "Transvetten": [
+          0,
+          "g"
+        ],
+        "Cholesterol": [
+          0,
+          "mg"
+        ],
+        "Vitamine D": [
+          0,
+          "µg"
+        ],
+        "Calcium": [
+          0,
+          "mg"
+        ],
+        "IJzer": [
+          0,
+          "mg"
+        ],
+        "Kalium": [
+          0,
+          "mg"
+        ],
+        "Toegevoegde suikers": [
+          10,
+          "g"
+        ]
+      }
+    },
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/4fb24e7c-95a6-445a-8c8a-45b386697620.jpg"
     ]
   },
   {
@@ -1760,6 +2708,20 @@ window.KPI_PRODUCTS = [
       0.786,
       0.92
     ],
-    "kosherSource": "Gebruikersbevestiging: Chocolit Pesek Zman uitsluitend Badatz Edah HaChareidis (Parve)."
+    "kosherSource": "Gebruikersbevestiging: Chocolit Pesek Zman uitsluitend Badatz Edah HaChareidis (Parve).",
+    "nutrition": {
+      "Energie": "1657 kJ / 396 kcal",
+      "Vetten": "2 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "90 g",
+      "Waarvan suikers": "82 g",
+      "Eiwitten": "4,5 g",
+      "Zout": "0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-05",
+    "sourcePhotos": [
+      "source-labels/20261105-nutrition/4e7b8755-f239-4aef-b908-57ffdd5637b1.jpg"
+    ]
   }
 ];
