@@ -854,3 +854,21 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
   product.nutrition = ordered;
  }
 }());
+(function () {
+  // Barcode and recipe checked against the manufacturer and published retail data.
+  const product = window.KPI_PRODUCTS.find(p => p.ean === '7290002057048');
+  if (!product) return;
+  product.nutrition = {
+    'Energie': '870 kJ / 208 kcal',
+    'Vetten': '20,7 g',
+    'Koolhydraten': '3,8 g',
+    'Eiwitten': '1,8 g',
+    'Natrium': '1090 mg',
+    'Zout': '2,73 g',
+    'Omrekening zout': 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)'
+  };
+  product.nutritionUnit = 'per 100 g';
+  product.nutritionChecked = '2026-11-06';
+  product.nutritionSource = 'https://foodiepedia.co.il/מחירים/זיתים-סורי-מבוקע-קבוצת-יבנה-540-גרם-7290002057048/';
+  product.nutritionReview = 'EAN verified; ingredients checked with pickles.co.il/en/product/syrian-cracked-olives/. Only supplied nutrients included. kJ calculated from kcal × 4.184; salt calculated from sodium × 2.5 and rounded half up.';
+}());

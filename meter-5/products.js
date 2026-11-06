@@ -2594,3 +2594,21 @@ window.KPI_PRODUCTS = [
   product.nutrition = ordered;
  }
 }());
+
+(function () {
+  const product = window.KPI_PRODUCTS.find(p => p.ean === '7290000061108');
+  if (!product) return;
+  product.nutrition = {
+    'Vetten': '0 g',
+    'Koolhydraten': '54 g',
+    'Waarvan suikers': '45 g',
+    'Eiwitten': '2 g',
+    'Natrium': '1500 mg',
+    'Zout': '3,75 g',
+    'Omrekening zout': 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)'
+  };
+  product.nutritionUnit = 'per 100 g';
+  product.nutritionChecked = '2026-11-06';
+  product.nutritionSource = 'https://www.sekershook.com/p/7290000061108?chain=7290027600007&promo=4646870';
+  product.nutritionReview = 'Exact barcode and ingredient list match. Source supplies no energy; zero energy from other aggregators rejected. Current manufacturer recipe differs. Salt converted from sodium × 2.5.';
+}());
