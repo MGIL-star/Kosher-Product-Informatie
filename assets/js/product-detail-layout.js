@@ -139,10 +139,11 @@
       const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
       const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
       if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
+      const keepParve = /chocola|chocolate|cake|babka/i.test(`${product.name || ''} ${product.category || ''}`);
       line.classList.add('notranslate');
       line.setAttribute('translate', 'no');
       line.replaceChildren();
-      names.map(text => window.KPI_formatHechsher(text)).sort((a, b) => b.length - a.length).forEach((text, index) => {
+      names.map(text => window.KPI_formatHechsher(keepParve ? text : text.replace(/\s*\(parve\)|\bparve\b/gi, '').trim())).filter(Boolean).sort((a, b) => b.length - a.length).forEach((text, index) => {
         if (index) line.append(document.createElement('br'));
         line.append(document.createTextNode(text));
       });
