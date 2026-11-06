@@ -43,7 +43,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6852459016393443
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Yokneam (Parve)"
     ]
   },
@@ -187,7 +187,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6862745098039216
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Yokneam (Parve)"
     ]
   },
@@ -385,7 +385,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/61.jpg",
     "kosherChecked": "2026-10-09",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbijn Shmuel Eliezer Stern (Parve)"
     ]
   },
@@ -525,7 +525,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6378737541528239
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam (Parve)"
     ]
@@ -572,7 +572,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7700934579439253
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah Hachareidis (Parve)"
     ]
   },
@@ -629,7 +629,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/63.jpg",
     "kosherChecked": "2026-10-09",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbijn Shmuel Eliezer Stern",
       "Badatz Edah HaChareidis (Parve)"
     ]
@@ -1256,7 +1256,7 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.605
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Safed (Parve)"
     ]
   },

@@ -3486,7 +3486,7 @@ window.KPI_PRODUCTS = [
     "kosher": "OU / Rabbi Binyomin Gruber",
     "kosherStatus": "Parve",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbi Binyomin Gruber",
       "Monsey, New York",
       "Parve"

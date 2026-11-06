@@ -393,7 +393,7 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan soja, sesam en tarwe (gluten) bevatten.",
     "kosher": "OU / Opperrabbinaat Sderot (Parve)",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "kosherSource": "Op gebruikersverzoek dezelfde hechsjer als de overige bouillon.",
@@ -457,7 +457,7 @@ window.KPI_PRODUCTS = [
     "ingredientsPartial": false,
     "barcodeSource": "Etiketfoto gebruiker: 6681e301-62e1-40ad-ab12-38e5ca8e99cd.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {
@@ -542,7 +542,7 @@ window.KPI_PRODUCTS = [
     "ingredientsVerification": "label",
     "ingredientsPartial": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {
@@ -698,7 +698,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {
@@ -1536,7 +1536,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
     ],
@@ -1641,7 +1641,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Opperrabbinaat Sderot (Parve)"
     ],
@@ -1886,7 +1886,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {
@@ -2046,7 +2046,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {
@@ -2151,7 +2151,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-09-27",
     "kosherVerification": "label",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Matte Asher (Parve)"
     ],
@@ -2396,7 +2396,7 @@ window.KPI_PRODUCTS = [
     "kosherVerification": "label",
     "imageEdited": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Sderot (Parve)"
     ],
     "nutrition": {

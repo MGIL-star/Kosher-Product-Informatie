@@ -121,7 +121,7 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "182 g",
     "category": "Oliën",
-    "ingredients": "100% geraffineerde zonnebloemolie. Het drijfgas is perslucht.",
+    "ingredients": "100% geraffineerde zonnebloemolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -153,7 +153,7 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "182 g",
     "category": "Oliën",
-    "ingredients": "100% extra vierge olijfolie. Het drijfgas is perslucht.",
+    "ingredients": "100% extra vierge olijfolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],

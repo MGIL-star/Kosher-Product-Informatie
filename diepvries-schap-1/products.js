@@ -61,7 +61,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/02-gepaneerde-tilapianuggets.jpg",
     "ean": "732973000809",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
@@ -99,7 +99,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/03-tilapiafilets.jpg",
     "ean": "732973000120",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {

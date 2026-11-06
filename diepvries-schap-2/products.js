@@ -1113,7 +1113,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {

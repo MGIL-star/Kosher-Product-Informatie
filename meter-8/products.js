@@ -340,7 +340,7 @@ window.KPI_PRODUCTS = [
     "ean": "0811962010255",
     "ingredients": "Bessenmix (51%: aardbeien 17%, zwarte bessen 17%, kersen 17%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/aunt-67018.jpg",
     "imageBounds": [
       0.14784,
@@ -674,7 +674,7 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/39.jpg",
     "barcodeChecked": "2026-10-09",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbijn Weissmandl (Parve)"
     ]
   },
@@ -973,7 +973,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-02.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Petach Tikva (Parve)"
     ]
   },
@@ -1022,7 +1022,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-04.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1070,7 +1070,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-06.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1120,7 +1120,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-08.jpg",
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
     ]
@@ -1170,7 +1170,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-10.jpg",
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
     ]
@@ -1218,7 +1218,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1266,7 +1266,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1314,7 +1314,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1364,7 +1364,7 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
@@ -1510,7 +1510,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-b-14.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1560,7 +1560,7 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
@@ -1608,7 +1608,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1655,7 +1655,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1702,7 +1702,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1749,7 +1749,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1797,7 +1797,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1811,7 +1811,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290014217522",
     "ingredients": "Knoflook (74%), zout, kruiden, specerijen.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/67165.jpg",
     "productInfo": {
       "Kenmerken": "Natuurlijke ingrediënten. Glutenvrij"
@@ -1924,7 +1924,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -2227,7 +2227,7 @@ window.KPI_PRODUCTS = [
     "ean": "7290002490562",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/dates-king-straight.png",
     "productInfo": {
       "Bewaren": "Koel en droog"
@@ -2266,7 +2266,7 @@ window.KPI_PRODUCTS = [
     "ean": "8719326034072",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/dates-palma-straight.png",
     "productInfo": {
       "Bewaren": "Koel en droog"

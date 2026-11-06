@@ -137,7 +137,7 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "Aangeleverde verpakkingsfoto: 029b6c10-fc26-43a8-8bd7-d7cfc47133f1.jpg",
     "ingredientsSource": "Engelse ingrediënten- en allergenenverklaring op ebc0a185-812e-424a-82da-3ba676184ffe.jpg, vertaald naar het Nederlands.",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Nof HaGalil (Parve)"
     ]
   },

@@ -34,7 +34,7 @@ window.KPI_PRODUCTS = [
       0.966
     ],
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Jeruzalem",
       "Beth Zedek van de orthodox joodse gemeenschap (Parve)"
     ],
@@ -86,7 +86,7 @@ window.KPI_PRODUCTS = [
       0.90993
     ],
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Opperrabbinaat Jeruzalem",
       "Beth Zedek van de orthodox joodse gemeenschap (Parve)"
     ],

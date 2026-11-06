@@ -454,7 +454,7 @@ window.KPI_PRODUCTS = [
     "ingredientSource": "Gebruikersfoto etiket: dcca337b-589e-4d16-8087-156a45b5393b.jpg",
     "allergenSource": "Geen allergenen volgens gebruiker; geen allergenen vermeld op aangeleverd etiket.",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Zichron Yaakov (Parve)"
     ],
     "nutrition": {
