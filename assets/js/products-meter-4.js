@@ -802,3 +802,15 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
   if (updates[product.id]) Object.assign(product, updates[product.id]);
  }
 }());
+
+// Op expliciet gebruikersverzoek dezelfde voedingswaarden voor deze varianten.
+(function () {
+ const source = window.KPI_PRODUCTS.find(p => p.id === 19);
+ for (const id of [21, 25]) {
+  const product = window.KPI_PRODUCTS.find(p => p.id === id);
+  product.nutrition = { ...source.nutrition };
+  product.nutritionUnit = 'per 100 g';
+  product.nutritionChecked = '2026-11-06';
+  product.nutritionSource = 'Gebruiker verzoekt dezelfde voedingswaarden als Kvuzat Yavne 10/12 en 7/9 op 6 november 2026.';
+ }
+}());
