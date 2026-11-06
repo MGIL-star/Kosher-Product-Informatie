@@ -848,7 +848,6 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
    ordered[key] = value;
    if (/^(natrium|sodium)$/i.test(key)) {
     ordered[saltKey] = saltById[product.id];
-    ordered['Omrekening zout'] = 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)';
    }
   }
   product.nutrition = ordered;
@@ -865,7 +864,6 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
     'Eiwitten': '1,8 g',
     'Natrium': '1090 mg',
     'Zout': '2,73 g',
-    'Omrekening zout': 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)'
   };
   product.nutritionUnit = 'per 100 g';
   product.nutritionChecked = '2026-11-06';

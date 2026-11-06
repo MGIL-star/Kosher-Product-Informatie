@@ -921,7 +921,6 @@ window.KPI_PRODUCTS.find(p => p.id === 14).nutrition['Suiker (theelepels)'] = '2
    ordered[key] = value;
    if (/^(natrium|sodium)$/i.test(key)) {
     ordered[saltKey] = saltById[product.id];
-    ordered['Omrekening zout'] = 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)';
    }
   }
   product.nutrition = ordered;

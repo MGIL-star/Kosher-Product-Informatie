@@ -2724,7 +2724,6 @@ window.KPI_PRODUCTS = [
    ordered[key] = value;
    if (/^(natrium|sodium)$/i.test(key)) {
     ordered[saltKey] = saltById[product.id];
-    ordered['Omrekening zout'] = 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)';
    }
   }
   product.nutrition = ordered;

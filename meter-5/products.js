@@ -2588,7 +2588,6 @@ window.KPI_PRODUCTS = [
    ordered[key] = value;
    if (/^(natrium|sodium)$/i.test(key)) {
     ordered[saltKey] = saltById[product.id];
-    ordered['Omrekening zout'] = 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)';
    }
   }
   product.nutrition = ordered;
@@ -2605,7 +2604,6 @@ window.KPI_PRODUCTS = [
     'Eiwitten': '2 g',
     'Natrium': '1500 mg',
     'Zout': '3,75 g',
-    'Omrekening zout': 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)'
   };
   product.nutritionUnit = 'per 100 g';
   product.nutritionChecked = '2026-11-06';
