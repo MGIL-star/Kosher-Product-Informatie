@@ -763,3 +763,42 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
   delete p.nutritionRoundingSource;
  }
 }());
+
+// Online voedingswaarden gekoppeld op exacte barcode; Nederlandse weergave.
+(function () {
+ const updates = {
+  "19": {
+    "nutrition": {
+      "Energie": "35 kJ / 8 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1080 mg",
+      "Zout": "2,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-06",
+    "nutritionSource": "https://cheapersal.co.il/product/7290002057369",
+    "nutritionSodiumConversion": "Zout berekend uit natrium: 1080 mg × 2,5 / 1000. Energie berekend uit 8,4 kcal en afgerond op hele getallen."
+  },
+  "22": {
+    "nutrition": {
+      "Energie": "35 kJ / 8 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1080 mg",
+      "Zout": "2,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-06",
+    "nutritionSource": "https://cheapersal.co.il/product/7290002057352",
+    "nutritionSodiumConversion": "Zout berekend uit natrium: 1080 mg × 2,5 / 1000. Energie berekend uit 8,4 kcal en afgerond op hele getallen."
+  }
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (updates[product.id]) Object.assign(product, updates[product.id]);
+ }
+}());
