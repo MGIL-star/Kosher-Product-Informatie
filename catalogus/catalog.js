@@ -5,7 +5,7 @@
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const normalize = s => String(s ?? '').toLocaleLowerCase('nl').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',refrigerated:'Koeling',frozen:'Diepvries'};
-  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261104-meter3-nutrition':i===3?'assets/js/products-meter-4.js?v=20261104-nutrition':i===4?'meter-5/products.js?v=20261106-salt-conversion':i===8?'meter-9/products.js?v=20261104-babka':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===13?'meter-14/products.js?v=20261104-bamba-placement':i===14?'meter-15/products.js?v=20261104-bamba-placement':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
+  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261104-meter3-nutrition':i===3?'assets/js/products-meter-4.js?v=20261104-nutrition':i===4?'meter-5/products.js?v=20261106-salt-order':i===8?'meter-9/products.js?v=20261104-babka':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===13?'meter-14/products.js?v=20261104-bamba-placement':i===14?'meter-15/products.js?v=20261104-bamba-placement':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js?v=20261031-tilapiafilets-voedingswaarden`});
   for (const source of sources) {
     if (['meter-1', 'meter-2', 'diepvries-schap-2', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=' + (source.folder === 'meter-2' ? '20261102-advocaat-voedingswaarden' : '20261102-etiket-voedingswaarden');
@@ -31,7 +31,7 @@
       source.data = source.data.split('?')[0] + '?v=20261103-energie';
     }
   }
-  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261106-salt-conversion';
+  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261106-salt-order';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

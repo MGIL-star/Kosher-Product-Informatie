@@ -2718,7 +2718,15 @@ window.KPI_PRODUCTS = [
  for (const product of window.KPI_PRODUCTS) {
   if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
   const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
-  product.nutrition[saltKey] = saltById[product.id];
-  product.nutrition["Omrekening zout"] = "Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+    ordered['Omrekening zout'] = 'Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)';
+   }
+  }
+  product.nutrition = ordered;
  }
 }());
