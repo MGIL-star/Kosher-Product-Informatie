@@ -3,6 +3,7 @@
   // Display only supplied places/statuses, separated consistently from the name.
   window.KPI_formatHechsher = function (value) {
     let text = String(value).trim()
+      .replace(/\bOU\b(?![-\w]|\s*\(Orthodox Union\))/g, 'OU (Orthodox Union)')
       .replace(/\b(?:Badatz\s+)?Cha(?:tam|sam) Sofer\b/gi, 'Badatz Chatam Sofer')
       .replace(/\bBne[i ]*Brak\b/gi, 'Bnei Brak')
       .replace(/\s*[,·]\s*/g, ' - ');
