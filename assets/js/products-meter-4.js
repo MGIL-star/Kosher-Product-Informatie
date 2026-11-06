@@ -420,7 +420,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,3 g",
       "Natrium": "1280 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "0,5–7,7 mg",
+      "Cholesterol": "0,5 - 7,7 mg",
       "Zout": "3,2 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
@@ -503,7 +503,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,2 g",
       "Natrium": "1200 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "0,5–7,7 mg",
+      "Cholesterol": "0,5 - 7,7 mg",
       "Zout": "3 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
@@ -518,7 +518,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,2 g",
       "Natrium": "1200 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "0,5–7,7 mg",
+      "Cholesterol": "0,5 - 7,7 mg",
       "Zout": "3 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
@@ -732,7 +732,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,1 g",
       "Natrium": "1300 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "25–100 mg",
+      "Cholesterol": "25 - 100 mg",
       "Zout": "3,25 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
