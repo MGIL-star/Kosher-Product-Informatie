@@ -3745,3 +3745,21 @@ window.KPI_PRODUCTS = [
 }());
 
 (function () { const p = window.KPI_PRODUCTS.find(p => p.id === 76); p.nutrition = {Energie: '2989 kJ / 715 kcal', ...p.nutrition}; delete p.nutrition['Calorieën']; }());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "42": "1,5 g",
+  "75": "3 g",
+  "76": "0 g",
+  "85": "0,06 g",
+  "87": "0,75 g",
+  "89": "0 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  product.nutrition[saltKey] = saltById[product.id];
+  product.nutrition["Omrekening zout"] = "Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)";
+ }
+}());

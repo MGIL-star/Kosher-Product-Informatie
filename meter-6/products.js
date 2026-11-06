@@ -2775,3 +2775,47 @@ window.KPI_PRODUCTS = [
     ]
   }
 ];
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "4": "1,25 g",
+  "5": "1 g",
+  "9": "1,96 g",
+  "11": "0,98 g",
+  "12": "0,98 g",
+  "13": "1,02 g",
+  "23": "0 g",
+  "29": "0 g",
+  "30": "0 g",
+  "31": "0 g",
+  "32": "0 g",
+  "33": "0 g",
+  "34": "0 g",
+  "35": "0 g",
+  "36": "0 g",
+  "37": "0 g",
+  "38": "0 g",
+  "39": "0 g",
+  "40": "0 g",
+  "41": "0 g",
+  "42": "0 g",
+  "43": "0 g",
+  "44": "0 g",
+  "45": "0 g",
+  "46": "0 g",
+  "47": "0 g",
+  "48": "0 g",
+  "49": "0 g",
+  "50": "0 g",
+  "51": "0 g",
+  "52": "0 g",
+  "53": "1 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  product.nutrition[saltKey] = saltById[product.id];
+  product.nutrition["Omrekening zout"] = "Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)";
+ }
+}());

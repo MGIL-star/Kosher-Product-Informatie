@@ -898,3 +898,24 @@ window.KPI_PRODUCTS = [
 // Energiewaarden bevestigd door gebruiker na etiketvergroting.
 window.KPI_PRODUCTS.find(p => p.id === 2).nutrition.Energie = '108 kJ / 25 kcal';
 window.KPI_PRODUCTS.find(p => p.id === 14).nutrition['Suiker (theelepels)'] = '2,75';
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "7": "0 g",
+  "9": "0 g",
+  "10": "0 g",
+  "14": "0,13 g",
+  "15": "0,16 g",
+  "17": "0,01 g",
+  "18": "0,05 g",
+  "19": "0 g",
+  "20": "0,13 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  product.nutrition[saltKey] = saltById[product.id];
+  product.nutrition["Omrekening zout"] = "Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)";
+ }
+}());

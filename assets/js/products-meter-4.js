@@ -814,3 +814,35 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
   product.nutritionSource = 'Gebruiker verzoekt dezelfde voedingswaarden als Kvuzat Yavne 10/12 en 7/9 op 6 november 2026.';
  }
 }());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "1": "0,95 g",
+  "2": "0,83 g",
+  "6": "0,06 g",
+  "7": "0,5 g",
+  "8": "1,03 g",
+  "9": "1 g",
+  "10": "3,2 g",
+  "11": "4,5 g",
+  "12": "4,33 g",
+  "14": "3 g",
+  "15": "3 g",
+  "17": "3,59 g",
+  "18": "3,25 g",
+  "19": "2,7 g",
+  "20": "3,25 g",
+  "21": "2,7 g",
+  "22": "2,7 g",
+  "25": "2,7 g",
+  "26": "0,93 g",
+  "27": "3,25 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  product.nutrition[saltKey] = saltById[product.id];
+  product.nutrition["Omrekening zout"] = "Natrium × 2,5 (mg natrium ÷ 1.000 × 2,5 = g zout)";
+ }
+}());
