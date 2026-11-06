@@ -92,6 +92,15 @@
     if (direction) navigate(direction);
   });
 
+  document.addEventListener('keydown', event => {
+    if (!dialog.open || event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+    if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
+    const target = event.target;
+    if (target instanceof Element && target.closest('input, textarea, select, [contenteditable]:not([contenteditable="false"]), [role="textbox"], [role="slider"]')) return;
+    event.preventDefault();
+    navigate(event.key === 'ArrowRight' ? 'next' : 'previous');
+  });
+
   let touchStart = null;
   dialog.addEventListener('touchstart', event => {
     if (!window.matchMedia('(max-width: 639px)').matches || !event.target.closest('.dialog-product')) return;
