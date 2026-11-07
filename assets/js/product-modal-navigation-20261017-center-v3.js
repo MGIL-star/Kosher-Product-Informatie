@@ -6,6 +6,7 @@
   if (!dialog || !host) return;
 
   let activeKey = null;
+  let hoveredKey = null;
   let navigating = false;
   const cardsSelector = '#product-grid [data-product-id], #products .product-open[data-product]';
   const nav = document.createElement('nav');
@@ -43,6 +44,15 @@
     activeKey = keyOf(button);
     requestAnimationFrame(update);
   }, true);
+
+  document.addEventListener('pointerover', event => {
+    const card = event.target instanceof Element ? event.target.closest(cardsSelector) : null;
+    if (card) hoveredKey = keyOf(card);
+  });
+  document.addEventListener('pointerout', event => {
+    const card = event.target instanceof Element ? event.target.closest(cardsSelector) : null;
+    if (card && !card.contains(event.relatedTarget)) hoveredKey = null;
+  });
 
   function navigate(direction) {
     if (navigating) return;
@@ -92,14 +102,20 @@
     if (direction) navigate(direction);
   });
 
-  document.addEventListener('keydown', event => {
-    if (!dialog.open || event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
+  window.addEventListener('keydown', event => {
+    if (event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return;
     if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
     const target = event.target;
     if (target instanceof Element && target.closest('input, textarea, select, [contenteditable]:not([contenteditable="false"]), [role="textbox"], [role="slider"]')) return;
+    if (!dialog.open) {
+      const focusedCard = target instanceof Element ? target.closest(cardsSelector) : null;
+      const key = keyOf(focusedCard) || hoveredKey;
+      if (!key) return;
+      activeKey = key;
+    }
     event.preventDefault();
     navigate(event.key === 'ArrowRight' ? 'next' : 'previous');
-  });
+  }, true);
 
   let touchStart = null;
   dialog.addEventListener('touchstart', event => {
