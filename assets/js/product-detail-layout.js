@@ -315,7 +315,7 @@
         const notice = document.createElement('section');
         notice.className = 'trace-allergen-notice';
         const heading = document.createElement('h3');
-        heading.textContent = 'LET OP:';
+        heading.textContent = 'LET OP';
         notice.append(heading);
         noticeTexts.forEach(value => {
           const paragraph = document.createElement('p');
@@ -331,7 +331,9 @@
       heading.textContent = heading.textContent
         .replace(/^Bekende ingrediënten$/, 'Ingrediënten')
         .replace('Productinformatie / wijnstijl', 'Productinformatie & wijnstijl')
-        .replace('Barcode / EAN', 'Barcode & EAN');
+        .replace('Barcode / EAN', 'Barcode & EAN')
+        // The shared stylesheet supplies the single, spaced colon.
+        .replace(/[\s:：]+$/, '');
       if (/^Ingrediënten(?: \(INCI\))?$/.test(heading.textContent)) heading.classList.add('ingredient-heading');
     }
     for (const label of root.querySelectorAll('section > p > strong:first-child')) {
