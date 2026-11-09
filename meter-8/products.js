@@ -1213,6 +1213,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "name": "Italiaanse Mediterrane Kruidenmix",
+    "nutrition": {
+      "Energie": "1121 kJ / 268 kcal",
+      "Vetten": "5,8 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "20,7 g",
+      "Waarvan suikers": "2,2 g",
+      "Vezels": "39,5 g",
+      "Eiwitten": "13,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "54,3 mg",
+      "Zout": "0,14 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "30 g",
@@ -1260,6 +1273,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 2,
     "name": "Za’atar Kruidenmix",
+    "nutrition": {
+      "Energie": "1904 kJ / 455 kcal",
+      "Vetten": "33,7 g",
+      "Waarvan verzadigde vetzuren": "4,8 g",
+      "Koolhydraten": "14 g",
+      "Waarvan suikers": "1,4 g",
+      "Vezels": "18,1 g",
+      "Eiwitten": "14,9 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "3164 mg",
+      "Zout": "7,91 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1310,6 +1336,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "name": "Rash El Hanut",
+    "nutrition": {
+      "Energie": "1209 kJ / 289 kcal",
+      "Vetten": "12,9 g",
+      "Waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "19,3 g",
+      "Waarvan suikers": "0,9 g",
+      "Vezels": "27,5 g",
+      "Eiwitten": "10,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "6698 mg",
+      "Zout": "16,75 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1458,6 +1497,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "name": "Baharat",
+    "nutrition": {
+      "Energie": "1166 kJ / 279 kcal",
+      "Vetten": "9,5 g",
+      "Waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "25,8 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "30,5 g",
+      "Eiwitten": "7,2 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "5856,6 mg",
+      "Zout": "14,64 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "80 g",
@@ -1506,6 +1558,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "name": "Gehaktbal Hamburger & Kebab Kruidenmix",
+    "nutrition": {
+      "Energie": "1176 kJ / 281 kcal",
+      "Vetten": "6,3 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "38,8 g",
+      "Waarvan suikers": "12,2 g",
+      "Vezels": "14,6 g",
+      "Eiwitten": "10 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "7446 mg",
+      "Zout": "18,62 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1602,6 +1667,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "name": "Hawaij Soepkruiden",
+    "nutrition": {
+      "Energie": "1249 kJ / 299 kcal",
+      "Vetten": "11,5 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "33 g",
+      "Waarvan suikers": "2,1 g",
+      "Vezels": "15,2 g",
+      "Eiwitten": "11,3 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "5892,9 mg",
+      "Zout": "14,73 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1753,6 +1831,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "name": "Shoarmakruiden",
+    "nutrition": {
+      "Energie": "1038 kJ / 248 kcal",
+      "Vetten": "7,7 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "27,1 g",
+      "Waarvan suikers": "3,8 g",
+      "Vezels": "18,7 g",
+      "Eiwitten": "9,5 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "9727 mg",
+      "Zout": "24,32 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1798,6 +1889,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "name": "Shish Kebab Kruidenmix",
+    "nutrition": {
+      "Energie": "1255 kJ / 300 kcal",
+      "Vetten": "7,8 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "41,9 g",
+      "Waarvan suikers": "23,6 g",
+      "Vezels": "12,5 g",
+      "Eiwitten": "5,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "6532 mg",
+      "Zout": "16,33 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -2037,6 +2141,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "name": "Kruiden voor Gebakken Aardappelen",
+    "nutrition": {
+      "Energie": "1393 kJ / 333 kcal",
+      "Vetten": "4 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "61,9 g",
+      "Waarvan suikers": "47,1 g",
+      "Vezels": "13,5 g",
+      "Eiwitten": "5,6 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "3141 mg",
+      "Zout": "7,85 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -2085,6 +2202,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "name": "Knoflookbrood Kruidenmix",
+    "nutrition": {
+      "Energie": "1259 kJ / 301 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "52 g",
+      "Waarvan suikers": "2,4 g",
+      "Vezels": "11,7 g",
+      "Eiwitten": "16,7 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "3945 mg",
+      "Zout": "9,86 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -2114,6 +2244,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "name": "Toscaanse Kruidenmix",
+    "nutrition": {
+      "Energie": "1079 kJ / 258 kcal",
+      "Vetten": "4 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "39,3 g",
+      "Waarvan suikers": "2,1 g",
+      "Vezels": "10,2 g",
+      "Eiwitten": "11,1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "9786 mg",
+      "Zout": "24,47 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "120 g",
