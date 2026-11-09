@@ -31,7 +31,7 @@
       source.data = source.data.split('?')[0] + '?v=20261103-energie';
     }
   }
-  for (const source of sources) source.data = source.data.split('?')[0] + (source.folder === 'meter-8' ? '?v=20261109-meter8-nutrition' : '?v=20261106-salt-clean');
+  for (const source of sources) source.data = source.data.split('?')[0] + (source.folder === 'meter-8' ? '?v=20261109-meter8-fruit' : '?v=20261106-salt-clean');
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

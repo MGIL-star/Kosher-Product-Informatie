@@ -452,6 +452,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 58,
     "name": "Bessenmix Fruitpasta",
+    "nutrition": {
+      "Energie": "942 kJ / 225 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "54 g",
+      "Waarvan suikers": "52 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "1 g",
+      "Zout": "0,02 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
@@ -486,6 +496,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 57,
     "name": "Aardbeien Fruitpasta",
+    "nutrition": {
+      "Energie": "1021 kJ / 244 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "55 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,05 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
@@ -531,6 +551,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 56,
     "name": "Perzik Fruitpasta",
+    "nutrition": {
+      "Energie": "933 kJ / 223 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "55 g",
+      "Waarvan suikers": "54 g",
+      "Vezels": "0,9 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
@@ -576,6 +606,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 55,
     "name": "Aardbeienjam",
+    "nutrition": {
+      "Energie": "1038 kJ / 248 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "1 g",
+      "Eiwitten": "0,6 g",
+      "Zout": "0,01 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -611,6 +651,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 54,
     "name": "Kersenjam",
+    "nutrition": {
+      "Energie": "1038 kJ / 248 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "1 g",
+      "Eiwitten": "0,6 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -645,6 +695,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 53,
     "name": "Vijgenjam",
+    "nutrition": {
+      "Energie": "1051 kJ / 251 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "1,6 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -680,6 +740,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 52,
     "name": "Appel & Kaneel",
+    "nutrition": {
+      "Energie": "1047 kJ / 250 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "61 g",
+      "Vezels": "1,2 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -715,6 +785,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 59,
     "name": "Dadelstroop 100% Dadels",
+    "nutrition": {
+      "Energie": "1335 kJ / 319 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "77 g",
+      "Waarvan suikers": "64 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "1,9 g",
+      "Zout": "0,02 g"
+    },
     "brand": "Aunt Berta",
     "category": "Dadelproducten",
     "variant": "340 g",
@@ -978,6 +1058,15 @@ window.KPI_PRODUCTS = [
   {
     "id": 50,
     "name": "Harosset",
+    "nutrition": {
+      "Energie": "1266 kJ / 303 kcal",
+      "Vetten": "2,9 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "68,3 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "0,9 g",
+      "Zout": "0 g"
+    },
     "brand": "Beit Yitzhak Natural Products",
     "category": "Spreads & Pasta’s",
     "variant": "250 g",
@@ -1012,6 +1101,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 51,
     "name": "Charoset Dadelpasta",
+    "nutrition": {
+      "Energie": "1227 kJ / 293 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "61 g",
+      "Vezels": "4,7 g",
+      "Eiwitten": "1,3 g",
+      "Zout": "0,02 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "240 g",
