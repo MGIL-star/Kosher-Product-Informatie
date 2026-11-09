@@ -2016,6 +2016,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 40,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1088 kJ / 260 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "3,5 g",
+      "Koolhydraten": "4 g",
+      "Waarvan suikers": "2 g",
+      "Vezels": "1 g",
+      "Eiwitten": "15 g",
+      "Zout": "1,35 g"
+    },
     "brand": "King of the Ocean",
     "name": "Tonijnspread",
     "variant": "160 g",

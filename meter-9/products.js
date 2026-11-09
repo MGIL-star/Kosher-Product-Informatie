@@ -1,6 +1,20 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1590 kJ / 380 kcal",
+      "Vetten": "19 g",
+      "Waarvan verzadigde vetzuren": "8 g",
+      "Koolhydraten": "48 g",
+      "Waarvan suikers": "24 g",
+      "Vezels": "1 g",
+      "Eiwitten": "4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg",
+      "Natrium": "263 mg",
+      "Zout": "0,66 g"
+    },
     "brand": "Spitzer",
     "name": "Vanillegebak met Chocoladestukjes",
     "variant": "400 g",
@@ -24,6 +38,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1556 kJ / 372 kcal",
+      "Vetten": "13 g",
+      "Waarvan verzadigde vetzuren": "5,6 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "29 g",
+      "Vezels": "0 g",
+      "Eiwitten": "3,7 g",
+      "Zout": "0,9 g"
+    },
     "brand": "Agadata",
     "name": "Klassieke Briochecake met Chocolade",
     "variant": "350 g",
@@ -49,6 +74,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1556 kJ / 372 kcal",
+      "Vetten": "13 g",
+      "Waarvan verzadigde vetzuren": "5,6 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "29 g",
+      "Vezels": "0 g",
+      "Eiwitten": "3,7 g",
+      "Zout": "0,9 g"
+    },
     "brand": "Agadata",
     "name": "Opgerolde Chocoladecake",
     "variant": "350 g",
@@ -74,6 +110,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1577 kJ / 377 kcal",
+      "Vetten": "15 g",
+      "Waarvan verzadigde vetzuren": "9 g",
+      "Koolhydraten": "55 g",
+      "Waarvan suikers": "26 g",
+      "Vezels": "1,4 g",
+      "Eiwitten": "4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "8 mg",
+      "Natrium": "127 mg",
+      "Zout": "0,32 g"
+    },
     "brand": "Spitzer",
     "name": "Kaneelrolletjes",
     "variant": "400 g",
@@ -98,6 +148,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1577 kJ / 377 kcal",
+      "Vetten": "15 g",
+      "Waarvan verzadigde vetzuren": "9 g",
+      "Koolhydraten": "55 g",
+      "Waarvan suikers": "26 g",
+      "Vezels": "1,4 g",
+      "Eiwitten": "4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "8 mg",
+      "Natrium": "127 mg",
+      "Zout": "0,32 g"
+    },
     "brand": "Spitzer",
     "name": "Kaneelvlechtcake",
     "variant": "400 g",
@@ -125,6 +189,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1870 kJ / 447 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "9 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "26 g",
+      "Vezels": "1,4 g",
+      "Eiwitten": "7 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "8 mg",
+      "Natrium": "290 mg",
+      "Zout": "0,73 g"
+    },
     "brand": "Spitzer",
     "name": "Chocoladevlechtcake",
     "variant": "400 g",
@@ -153,6 +231,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 7,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1870 kJ / 447 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "9 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "26 g",
+      "Vezels": "1,4 g",
+      "Eiwitten": "7 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "8 mg",
+      "Natrium": "290 mg",
+      "Zout": "0,73 g"
+    },
     "brand": "Spitzer",
     "name": "Chocoladerolletjes",
     "variant": "400 g",
@@ -177,6 +269,16 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 8,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1923 kJ / 460 kcal",
+      "Vetten": "25,8 g",
+      "Waarvan verzadigde vetzuren": "11,5 g",
+      "Koolhydraten": "49,4 g",
+      "Waarvan suikers": "30,6 g",
+      "Eiwitten": "8,5 g",
+      "Zout": "0,88 g"
+    },
     "brand": "Rimon",
     "name": "Vanillewafels met Chocolade",
     "variant": "252 g (8 stuks)",
@@ -203,7 +305,7 @@ window.KPI_PRODUCTS = [
     "brand": "Rimon",
     "name": "Babka Cake",
     "variant": "400 g",
-    "ean": "7290004033405",
+    "ean": "7290004033415",
     "ingredients": "Tarwebloem (gluten), witte suiker, sojaolie, water, cacaopoeder, rijstmeel, palmvet, emulgatoren (E322, E476, E471, E481), maïszetmeel, sojameel, aardappelzetmeel, bevochtigingsmiddelen (E422, E1520), zout, gist, tarwegluten, dadelpasta, zuurteregelaars (E330, E338), conserveermiddelen (E282, E200, E202), calciumcarbonaat (E170), dextrose, aroma’s, antioxidant (E300), enzymen, vulstof (E460).",
     "allergens": [
       "Tarwe (gluten)",
@@ -223,17 +325,28 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "4,58 g",
       "Koolhydraten": "51,7 g",
       "Waarvan suikers": "26,2 g",
-      "Zout": "761 mg"
+      "Zout": "0,26 g"
     },
     "sourcePhotos": [
       "source-labels/cf6826a6-480f-481e-afef-e1721c667954.jpg",
       "source-labels/9e6c163b-938b-4d9f-993d-404d427008a9.jpg",
       "source-labels/e690afec-5bbc-4610-8b7b-7905c8ed6a37.jpg"
     ],
-    "barcodeSource": "Door gebruiker bevestigd op 4 november 2026."
+    "barcodeSource": "Afgelezen van het nieuwe verpakkingsetiket."
   },
   {
     "id": 9,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1891 kJ / 452 kcal",
+      "Vetten": "23,5 g",
+      "Waarvan verzadigde vetzuren": "9,3 g",
+      "Koolhydraten": "54,1 g",
+      "Waarvan suikers": "21,3 g",
+      "Eiwitten": "5,3 g",
+      "Natrium": "334 mg",
+      "Zout": "0,84 g"
+    },
     "brand": "Rimon",
     "name": "Kaneelcake",
     "variant": "400 g",
@@ -257,6 +370,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 10,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1803 kJ / 431 kcal",
+      "Vetten": "21,3 g",
+      "Waarvan verzadigde vetzuren": "9,7 g",
+      "Koolhydraten": "49,2 g",
+      "Waarvan suikers": "19,3 g",
+      "Eiwitten": "5,4 g",
+      "Natrium": "312 mg",
+      "Zout": "0,78 g"
+    },
     "brand": "Rimon",
     "name": "Vanillecake",
     "variant": "400 g",
@@ -278,10 +402,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 11,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1761 kJ / 421 kcal",
+      "Vetten": "21,2 g",
+      "Waarvan verzadigde vetzuren": "6,9 g",
+      "Koolhydraten": "51,7 g",
+      "Waarvan suikers": "26,2 g",
+      "Eiwitten": "4,58 g",
+      "Zout": "0,26 g"
+    },
     "brand": "Rimon",
     "name": "Chocoladecake",
     "variant": "400 g",
-    "ean": "7290020012203",
+    "ean": "7290004033422",
     "ingredients": "Witte tarwebloem (gluten), witte suiker, geraffineerde sojaolie, water, palmvet, cacao, emulgatoren (E322, E471, E481, E475), glucosestroop, bevochtigingsmiddelen (E422, E1520), keukenzout, verdikkingsmiddelen (E466, E1414, E1442), maïszetmeel, gist, tarwegluten, zuurteregelaars (E330, E270, E336, E331, E327), conserveermiddelen (E202, E282), rijst, stabilisatoren (E412, E466, E410), calciumcarbonaat (E170), sojameel, rijsmiddel (E500), smaakstoffen, aardappelzetmeel, dextrose, tapiocazetmeel, antioxidant (E300), enzymen, smaakstoffen.",
     "allergens": [
       "Tarwe (gluten)",
@@ -325,6 +459,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1952 kJ / 465 kcal",
+      "Vetten": "17,2 g",
+      "Waarvan verzadigde vetzuren": "9,9 g",
+      "Koolhydraten": "68,8 g",
+      "Waarvan suikers": "29,8 g",
+      "Vezels": "4,2 g",
+      "Eiwitten": "6,6 g",
+      "Transvetten": "0,1 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,84 g"
+    },
     "brand": "Shneider’s",
     "name": "Koekrolletjes met Chocoladevulling",
     "variant": "300 g",
@@ -348,6 +495,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2133 kJ / 510 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "13 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "31 g",
+      "Vezels": "0 g",
+      "Eiwitten": "5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,41 g"
+    },
     "brand": "Shneider’s",
     "name": "Assortiment Koekjes in Blik",
     "variant": "340 g",
@@ -371,6 +531,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1599 kJ / 378 kcal",
+      "Vetten": "3,8 g",
+      "Waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "77 g",
+      "Waarvan suikers": "42 g",
+      "Vezels": "0 g",
+      "Eiwitten": "8,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,25 g"
+    },
     "brand": "Shneider’s",
     "name": "Lange Vingers",
     "variant": "400 g · 4 × 8",
@@ -395,6 +568,25 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1902 kJ / 455 kcal",
+      "Vetten": "13,64 g",
+      "Waarvan verzadigde vetzuren": "4,55 g",
+      "Koolhydraten": "75,76 g",
+      "Waarvan suikers": "36,36 g",
+      "Vezels": "0 g",
+      "Eiwitten": "3,03 g",
+      "Toegevoegde suikers": "36,36 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "60,61 mg",
+      "Zout": "0,15 g",
+      "Vitamine D": "0 µg",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
     "brand": "Osem",
     "name": "Koekjes met Chocoladevulling",
     "variant": "300 g",
@@ -418,6 +610,25 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1775 kJ / 424 kcal",
+      "Vetten": "12,12 g",
+      "Waarvan verzadigde vetzuren": "4,55 g",
+      "Koolhydraten": "75,76 g",
+      "Waarvan suikers": "39,39 g",
+      "Vezels": "0 g",
+      "Eiwitten": "3,03 g",
+      "Toegevoegde suikers": "36,36 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "45,45 mg",
+      "Zout": "0,11 g",
+      "Vitamine D": "0 µg",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
     "brand": "Osem",
     "name": "Koekjes met Aardbeienvulling",
     "variant": "300 g",
@@ -441,6 +652,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2145 kJ / 515 kcal",
+      "Vetten": "29,3 g",
+      "Waarvan verzadigde vetzuren": "18,9 g",
+      "Koolhydraten": "49,7 g",
+      "Waarvan suikers": "17,4 g",
+      "Vezels": "11,4 g",
+      "Eiwitten": "7,4 g",
+      "Zout": "0,22 g"
+    },
     "brand": "Loacker",
     "name": "Grote Wafels met Hazelnootvulling",
     "variant": "200 g",
@@ -466,6 +688,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 19,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2098 kJ / 503 kcal",
+      "Vetten": "27,7 g",
+      "Waarvan verzadigde vetzuren": "23,4 g",
+      "Koolhydraten": "51,2 g",
+      "Waarvan suikers": "18,1 g",
+      "Vezels": "11,4 g",
+      "Eiwitten": "6,6 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,21 g"
+    },
     "brand": "Loacker",
     "name": "Grote Wafels met Chocoladevulling",
     "variant": "200 g",
@@ -515,6 +750,16 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 20,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2130 kJ / 509 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "22 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "26 g",
+      "Eiwitten": "8,8 g",
+      "Zout": "0,38 g"
+    },
     "brand": "Loacker",
     "name": "Wafelblokjes met Chocoladevulling",
     "variant": "125 g",
@@ -543,6 +788,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 22,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1682 kJ / 402 kcal",
+      "Vetten": "8,7 g",
+      "Waarvan verzadigde vetzuren": "0,7 g",
+      "Koolhydraten": "77,3 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "1,1 g",
+      "Eiwitten": "9 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "183 mg",
+      "Zout": "0,46 g"
+    },
     "brand": "Aviva",
     "name": "Suikervrije Koekjes met Cappuccinosmaak",
     "variant": "200 g",
