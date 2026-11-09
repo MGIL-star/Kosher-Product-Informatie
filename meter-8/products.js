@@ -838,6 +838,15 @@ window.KPI_PRODUCTS = [
   {
     "id": 37,
     "name": "Chocoladepasta Origineel",
+    "nutrition": {
+      "Energie": "2289 kJ / 547 kcal",
+      "Vetten": "31 g",
+      "Waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "65 g",
+      "Eiwitten": "4 g",
+      "Zout": "0,08 g",
+      "Cholesterol": "< 2,5 mg"
+    },
     "brand": "Hatov",
     "category": "Spreads & Pasta’s",
     "variant": "400 g",
@@ -879,6 +888,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 38,
     "name": "Delinut Melk",
+    "nutrition": {
+      "Energie": "2473 kJ / 595 kcal",
+      "Vetten": "43 g",
+      "Waarvan verzadigde vetzuren": "7,1 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "39 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "6,2 g",
+      "Zout": "0,08 g"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -916,6 +935,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 39,
     "name": "Delinut Origineel",
+    "nutrition": {
+      "Energie": "2459 kJ / 591 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "7 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "46 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "3,7 g",
+      "Zout": "0,01 g"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -951,6 +980,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 40,
     "name": "Delinut Duo",
+    "nutrition": {
+      "Energie": "2400 kJ / 576 kcal",
+      "Vetten": "37 g",
+      "Waarvan verzadigde vetzuren": "6,5 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "56 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "1,8 g",
+      "Zout": "0,01 g"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -986,6 +1025,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 41,
     "name": "Pindakaas Romig",
+    "nutrition": {
+      "Energie": "2585 kJ / 624 kcal",
+      "Vetten": "50,8 g",
+      "Waarvan verzadigde vetzuren": "8,7 g",
+      "Koolhydraten": "9,9 g",
+      "Waarvan suikers": "6,1 g",
+      "Vezels": "8,1 g",
+      "Eiwitten": "27,7 g",
+      "Zout": "0,4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -1022,6 +1073,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 42,
     "name": "Pindakaas met Stukjes",
+    "nutrition": {
+      "Energie": "2609 kJ / 627 kcal",
+      "Vetten": "52 g",
+      "Waarvan verzadigde vetzuren": "9,3 g",
+      "Koolhydraten": "12 g",
+      "Waarvan suikers": "8,5 g",
+      "Vezels": "6,7 g",
+      "Eiwitten": "25 g",
+      "Zout": "0,4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
