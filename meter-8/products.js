@@ -2355,6 +2355,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "name": "Amba",
+    "nutrition": {
+      "Energie": "163 kJ / 39 kcal",
+      "Vetten": "0,9 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "6,5 g",
+      "Waarvan suikers": "1,1 g",
+      "Vezels": "2,8 g",
+      "Eiwitten": "2 g",
+      "Zout": "6 g"
+    },
     "brand": "Albadya",
     "category": "Sauzen",
     "variant": "380 g",
@@ -2644,6 +2654,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "name": "Natuurlijke Medjoul Dadels",
+    "nutrition": {
+      "Energie": "1189 kJ / 284 kcal",
+      "Vetten": "0,3 g",
+      "Waarvan verzadigde vetzuren": "0,16 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "65,5 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Magnesium": "50 mg",
+      "Kalium": "600 mg"
+    },
     "brand": "King Solomon",
     "category": "Dadelproducten",
     "variant": "1 kg",
@@ -2725,6 +2747,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 65,
     "name": "Natuurlijke Medjoul Dadels",
+    "nutrition": {
+      "Energie": "1189 kJ / 284 kcal",
+      "Vetten": "0,3 g",
+      "Waarvan verzadigde vetzuren": "0,16 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "65,5 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Magnesium": "50 mg",
+      "Kalium": "600 mg"
+    },
     "brand": "La Palma",
     "category": "Dadelproducten",
     "variant": "1 kg",
@@ -2759,6 +2793,17 @@ window.KPI_PRODUCTS = [
   {
     "id": 66,
     "name": "Natuurlijke Medjoul Dadels",
+    "nutrition": {
+      "Energie": "1189 kJ / 284 kcal",
+      "Vetten": "0,3 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "66 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Kalium": "600 mg"
+    },
     "brand": "Myjool",
     "category": "Dadelproducten",
     "variant": "200 g",
@@ -2794,6 +2839,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 34,
     "name": "Dadelpasta",
+    "nutrition": {
+      "Energie": "1046 kJ / 250 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "53,7 g",
+      "Theelepels suiker": "13,5",
+      "Vezels": "5,2 g",
+      "Eiwitten": "1,5 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Magnesium": "15 mg",
+      "Kalium": "193 mg"
+    },
     "brand": "Hadiklaim / Tzur Farm",
     "category": "Dadelproducten",
     "variant": "450 g",
@@ -2836,6 +2894,17 @@ window.KPI_PRODUCTS = [
   {
     "id": 60,
     "name": "Medjoul Dadelpasta",
+    "nutrition": {
+      "Energie": "1247 kJ / 294 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "65 g",
+      "Vezels": "5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Kalium": "760 mg"
+    },
     "brand": "Mehadrin",
     "category": "Dadelproducten",
     "variant": "450 g",
@@ -2877,6 +2946,17 @@ window.KPI_PRODUCTS = [
   {
     "id": 35,
     "name": "Silan 100% Dadels",
+    "nutrition": {
+      "Energie": "1272 kJ / 304 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "73 g",
+      "Vezels": "2 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Kalium": "480 mg"
+    },
     "brand": "Ta’amei Haglil",
     "category": "Dadelproducten",
     "variant": "900 g",
@@ -2922,6 +3002,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 36,
     "name": "Dadelstroop met Toegevoegde Suiker",
+    "nutrition": {
+      "Energie": "1335 kJ / 319 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "79 g",
+      "Waarvan suikers": "73 g",
+      "Theelepels suiker": "18,25",
+      "Vezels": "1,5 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Kalium": "280 mg"
+    },
     "brand": "Ta’amei Haglil",
     "category": "Dadelproducten",
     "variant": "900 g",
