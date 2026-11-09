@@ -2,6 +2,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 43,
     "name": "Bloemenhoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -30,6 +40,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 44,
     "name": "Lindehoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -57,6 +77,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 45,
     "name": "Lavendelhoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -84,6 +114,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 46,
     "name": "Tijmhoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -111,6 +151,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 47,
     "name": "Acaciahoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -138,6 +188,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 48,
     "name": "Kastanjehoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -165,6 +225,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 62,
     "name": "Chimichurri",
+    "nutrition": {
+      "Energie": "464 kJ / 111 kcal",
+      "Vetten": "7,7 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "8,5 g",
+      "Waarvan suikers": "3,5 g",
+      "Eiwitten": "2 g",
+      "Natrium": "350 mg",
+      "Zout": "0,88 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Bnei Darom",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -181,7 +253,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "mayContain": "Kan cashewnoten bevatten.",
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Voedingswaarden aangevuld met de aangeleverde etiketfoto van 9 november 2026.",
     "sources": [
       {
         "label": "Fabrikantcatalogus",
@@ -200,6 +272,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 63,
     "name": "Basilicumpesto",
+    "nutrition": {
+      "Energie": "1264 kJ / 302 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "1,9 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,6 g",
+      "Natrium": "583 mg",
+      "Zout": "1,46 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Bnei Darom",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -229,6 +313,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 61,
     "name": "Knoflookpasta",
+    "nutrition": {
+      "Energie": "1243 kJ / 297 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "1,5 g",
+      "Koolhydraten": "22 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "4,9 g",
+      "Natrium": "385 mg",
+      "Zout": "0,96 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Kvuzat Yavne",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -259,6 +355,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 64,
     "name": "Gedroogde Tomatenpasta",
+    "nutrition": {
+      "Energie": "1720 kJ / 411 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "8,5 g",
+      "Waarvan suikers": "5 g",
+      "Eiwitten": "2 g",
+      "Natrium": "1243 mg",
+      "Zout": "3,11 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Bnei Darom",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -289,6 +397,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 49,
     "name": "Za’atar met Olijfolie",
+    "nutrition": {
+      "Energie": "1473 kJ / 352 kcal",
+      "Vetten": "28 g",
+      "Waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "21,8 g",
+      "Waarvan suikers": "11 g",
+      "Vezels": "0,1 g",
+      "Eiwitten": "3,5 g",
+      "Zout": "1,4 g"
+    },
     "brand": "Neptune",
     "category": "Spreads & Pasta’s",
     "variant": "180 g",
