@@ -424,7 +424,7 @@ window.KPI_PRODUCTS = [
     "mayContain": "Kan rogge, gerst, haver, sesam, hazelnoten en ei bevatten.",
     "kosher": "OU (Parve)",
     "category": "Cake en gebak",
-    "image": "images/11.png",
+    "image": "images/rimon-chocoladekrans-front.png",
     "imageEdited": true,
     "productInfo": {},
     "sourcePhotos": [

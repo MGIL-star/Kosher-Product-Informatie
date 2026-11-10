@@ -1,6 +1,20 @@
 window.KPI_PRODUCTS = [
   {
     "id": 1,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1854 kJ / 443 kcal",
+      "Vetten": "11,6 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "76,6 g",
+      "Waarvan suikers": "23,5 g",
+      "Theelepels suiker": "5,75",
+      "Eiwitten": "8 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "355 mg",
+      "Zout": "0,89 g"
+    },
     "name": "Biscuitjes met Chocolade",
     "brand": "Osem",
     "category": "Koekjes",
@@ -45,6 +59,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1949 kJ / 463 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "76 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,73 g"
+    },
     "name": "Naturel Biscuitjes",
     "brand": "Osem",
     "category": "Koekjes",
@@ -92,6 +117,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 33,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1954 kJ / 467 kcal",
+      "Vetten": "17,1 g",
+      "Waarvan verzadigde vetzuren": "12,8 g",
+      "Koolhydraten": "72,5 g",
+      "Waarvan suikers": "35 g",
+      "Eiwitten": "4,8 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "234 mg",
+      "Zout": "0,59 g"
+    },
     "name": "Tirosh Half Omhulde Biscuitjes",
     "brand": "Hadar",
     "category": "Koekjes",
@@ -143,6 +181,21 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1825 kJ / 434 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "4,8 g",
+      "Koolhydraten": "75,5 g",
+      "Waarvan suikers": "22 g",
+      "Theelepels suiker": "5,5",
+      "Vezels": "2,9 g",
+      "Eiwitten": "6,8 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "256 mg",
+      "Zout": "0,64 g"
+    },
     "name": "Dierenkoekjes",
     "brand": "Hadar",
     "category": "Koekjes",
@@ -190,6 +243,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1824 kJ / 436 kcal",
+      "Vetten": "9 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "8 g",
+      "Natrium": "360 mg",
+      "Zout": "0,9 g",
+      "Theelepels suiker": "5,5"
+    },
     "name": "Biscuitjes met Vanille",
     "brand": "Hadar",
     "category": "Koekjes",
@@ -235,10 +301,23 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1824 kJ / 436 kcal",
+      "Vetten": "9 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "8 g",
+      "Natrium": "360 mg",
+      "Zout": "0,9 g",
+      "Theelepels suiker": "5,5"
+    },
     "name": "Biscuitjes met Chocolade",
     "brand": "Hadar",
     "category": "Koekjes",
-    "variant": "110 g",
+    "variant": "120 g",
     "ean": "7290011489625",
     "ingredients": "Tarwebloem, suikers (suiker, invertsuiker), plantaardig vet, maïszetmeel, cacaopoeder (2%), rijsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat, dinatriumdifosfaat), zout, emulgator (sojalecithine), kunstmatige aroma’s, meelverbeteraar (natriummetabisulfiet), antioxidant (rozemarijnextract).",
     "allergens": [
@@ -280,6 +359,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1824 kJ / 436 kcal",
+      "Vetten": "9 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "8 g",
+      "Natrium": "360 mg",
+      "Zout": "0,9 g"
+    },
     "name": "Theekoekjes met Chocoladesmaak",
     "brand": "Hadar",
     "category": "Koekjes",
@@ -326,6 +417,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 7,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1824 kJ / 436 kcal",
+      "Vetten": "9 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "8 g",
+      "Natrium": "360 mg",
+      "Zout": "0,9 g"
+    },
     "name": "Traditionele Theekoekjes",
     "brand": "Hadar",
     "category": "Koekjes",
@@ -372,6 +475,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 8,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1824 kJ / 436 kcal",
+      "Vetten": "9 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "8 g",
+      "Natrium": "360 mg",
+      "Zout": "0,9 g"
+    },
     "name": "Theekoekjes met Vanillesmaak",
     "brand": "Hadar",
     "category": "Koekjes",
@@ -418,6 +533,21 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 9,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2053 kJ / 489 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "9,5 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "32 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "5,5 g",
+      "Natrium": "279 mg",
+      "Zout": "0,7 g",
+      "Theelepels suiker": "8",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "name": "Knapperige Koekjes met Suiker",
     "brand": "Gross & Co",
     "category": "Koekjes",
@@ -461,6 +591,21 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 10,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2261 kJ / 541 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "23 g",
+      "Vezels": "2,3 g",
+      "Eiwitten": "4,6 g",
+      "Natrium": "192 mg",
+      "Zout": "0,48 g",
+      "Theelepels suiker": "5,75",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "name": "Ringkoekjes",
     "brand": "Gross & Co",
     "category": "Koekjes",
@@ -504,6 +649,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 11,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2223 kJ / 533 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "4,7 g",
+      "Zout": "0,5 g",
+      "Theelepels suiker": "5,5"
+    },
     "name": "Vanillespritsen met Pure Chocolade",
     "brand": "Gross & Co",
     "category": "Koekjes",
@@ -547,6 +704,21 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 12,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2263 kJ / 542 kcal",
+      "Vetten": "33 g",
+      "Waarvan verzadigde vetzuren": "17 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "22 g",
+      "Vezels": "2,2 g",
+      "Eiwitten": "5 g",
+      "Natrium": "220 mg",
+      "Zout": "0,55 g",
+      "Theelepels suiker": "5,5",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "name": "Chocoladespritsen met Pure Chocolade",
     "brand": "Gross & Co",
     "category": "Koekjes",
@@ -590,6 +762,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2266 kJ / 544 kcal",
+      "Vetten": "34 g",
+      "Waarvan verzadigde vetzuren": "16 g",
+      "Koolhydraten": "51 g",
+      "Waarvan suikers": "28 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "7 g",
+      "Natrium": "172 mg",
+      "Zout": "0,43 g",
+      "Theelepels suiker": "7",
+      "Cholesterol": "0 mg"
+    },
     "name": "Ringkoekjes met Chocolade",
     "brand": "Gross & Co",
     "category": "Koekjes",
@@ -633,6 +819,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2065 kJ / 494 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "14 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "33 g",
+      "Vezels": "3,9 g",
+      "Eiwitten": "7,2 g",
+      "Zout": "0,62 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "40 mg"
+    },
     "name": "Chocoladekoekjes met Chocoladestukjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -682,6 +881,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "14 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "33 g",
+      "Vezels": "2,9 g",
+      "Eiwitten": "6,1 g",
+      "Zout": "0,63 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "17 mg"
+    },
     "name": "Koekjes met Chocoladestukjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -731,6 +943,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2145 kJ / 513 kcal",
+      "Vetten": "28 g",
+      "Waarvan verzadigde vetzuren": "12 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "33 g",
+      "Vezels": "3,2 g",
+      "Eiwitten": "6,7 g",
+      "Zout": "0,59 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "15 mg"
+    },
     "name": "Koekjes met Hazelnoten en Chocoladestukjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -782,6 +1007,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 34,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2150 kJ / 513 kcal",
+      "Vetten": "27,2 g",
+      "Waarvan verzadigde vetzuren": "12,9 g",
+      "Koolhydraten": "60,2 g",
+      "Waarvan suikers": "35,1 g",
+      "Vezels": "3,3 g",
+      "Eiwitten": "5,3 g",
+      "Zout": "0,52 g",
+      "Transvetten": "0,5 g"
+    },
     "name": "Koekjes met 25% Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -831,6 +1068,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1966 kJ / 468 kcal",
+      "Vetten": "18 g",
+      "Waarvan verzadigde vetzuren": "9 g",
+      "Koolhydraten": "70 g",
+      "Waarvan suikers": "29 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "6,5 g",
+      "Zout": "0,94 g"
+    },
     "name": "Franse Vanillekoekjes",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -881,6 +1129,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2232 kJ / 535 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "12 g",
+      "Koolhydraten": "56,4 g",
+      "Waarvan suikers": "24 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "6,52 g",
+      "Zout": "1,37 g",
+      "Transvetten": "0,05 g",
+      "Cholesterol": "0,98 mg"
+    },
     "name": "Bladerdeegkoekjes met Framboos en Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -930,6 +1191,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 19,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2121 kJ / 507 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "12,9 g",
+      "Koolhydraten": "61,9 g",
+      "Waarvan suikers": "16,9 g",
+      "Vezels": "2,3 g",
+      "Eiwitten": "5,9 g",
+      "Zout": "1,2 g",
+      "Transvetten": "< 0,1 g",
+      "Cholesterol": "< 1 mg"
+    },
     "name": "Bladerdeegvlinders Naturel",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -979,6 +1253,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 20,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2119 kJ / 507 kcal",
+      "Vetten": "26,1 g",
+      "Waarvan verzadigde vetzuren": "13,7 g",
+      "Koolhydraten": "60,7 g",
+      "Waarvan suikers": "14,2 g",
+      "Vezels": "2,7 g",
+      "Eiwitten": "5,9 g",
+      "Zout": "1,2 g",
+      "Transvetten": "0,05 g",
+      "Cholesterol": "0,98 mg"
+    },
     "name": "Langwerpige Bladerdeegkoekjes Naturel",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -1028,6 +1315,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 21,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2073 kJ / 496 kcal",
+      "Vetten": "23,3 g",
+      "Waarvan verzadigde vetzuren": "13,3 g",
+      "Koolhydraten": "64,9 g",
+      "Waarvan suikers": "30 g",
+      "Vezels": "4,4 g",
+      "Eiwitten": "5,1 g",
+      "Zout": "0,34 g",
+      "Transvetten": "< 0,1 g",
+      "Cholesterol": "< 1 mg"
+    },
     "name": "Biscuitjes met Pure Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -1077,6 +1377,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 22,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2164 kJ / 517 kcal",
+      "Vetten": "26,5 g",
+      "Waarvan verzadigde vetzuren": "15,5 g",
+      "Koolhydraten": "61,5 g",
+      "Waarvan suikers": "32,9 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "7,6 g",
+      "Zout": "0,45 g",
+      "Transvetten": "< 0,1 g",
+      "Cholesterol": "0 mg"
+    },
     "name": "Biscuitjes met Melkchocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -1126,6 +1439,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 23,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1988 kJ / 475 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "9,7 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "28 g",
+      "Vezels": "6 g",
+      "Eiwitten": "6,8 g",
+      "Zout": "0,55 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "name": "Viergranen Ontbijtkoekjes met Pure Chocolade",
     "brand": "Shneider’s",
     "category": "Koekjes",
@@ -1180,6 +1506,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 24,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2043 kJ / 488 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "9,5 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "27 g",
+      "Vezels": "4,5 g",
+      "Eiwitten": "6,9 g",
+      "Zout": "0,46 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "name": "Viergranen Ontbijtkoekjes met Hazelnoten en Chocolade",
     "shortName": "Viergranenkoekjes Hazelnoot & Chocolade",
     "brand": "Shneider’s",
@@ -1235,6 +1574,16 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 35,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1593 kJ / 378 kcal",
+      "Vetten": "8,3 g",
+      "Waarvan verzadigde vetzuren": "4,8 g",
+      "Koolhydraten": "68 g",
+      "Waarvan suikers": "42 g",
+      "Eiwitten": "4,7 g",
+      "Zout": "0,08 g"
+    },
     "name": "Gevulde Peperkoek met Abrikozenvulling in Pure Chocolade",
     "brand": "Kopernik",
     "category": "Koekjes",
@@ -1272,6 +1621,16 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 36,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1691 kJ / 402 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "6,7 g",
+      "Koolhydraten": "68 g",
+      "Waarvan suikers": "45 g",
+      "Eiwitten": "5 g",
+      "Zout": "0,14 g"
+    },
     "name": "Gevulde Peperkoek met Zwartebessenvulling in Witte Chocolade",
     "brand": "Kopernik",
     "category": "Koekjes",
@@ -1354,6 +1713,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 26,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2071 kJ / 495 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "67 g",
+      "Waarvan suikers": "32 g",
+      "Eiwitten": "5 g",
+      "Zout": "0,2 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg"
+    },
     "name": "Gezichtjeskoekjes met Chocoladesmaaklaag",
     "brand": "BERMAN",
     "category": "Koekjes",
@@ -1399,6 +1770,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 27,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2081 kJ / 497 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "17 g",
+      "Eiwitten": "9,5 g",
+      "Zout": "0,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg"
+    },
     "name": "Koekjes met Chocoladesmaakvulling",
     "brand": "BERMAN",
     "category": "Koekjes",
@@ -1488,6 +1871,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 29,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1921 kJ / 459 kcal",
+      "Vetten": "23,9 g",
+      "Waarvan verzadigde vetzuren": "13,9 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "28,2 g",
+      "Eiwitten": "4,2 g",
+      "Zout": "0,2 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg"
+    },
     "name": "Ringkoekjes met Chocoladesmaaklaag",
     "brand": "BERMAN",
     "category": "Koekjes",
@@ -1623,6 +2018,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 32,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1930 kJ / 461 kcal",
+      "Vetten": "24,2 g",
+      "Waarvan verzadigde vetzuren": "9,6 g",
+      "Koolhydraten": "55,8 g",
+      "Waarvan suikers": "23,6 g",
+      "Eiwitten": "4,4 g",
+      "Zout": "0,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg"
+    },
     "name": "Koekjes met Pretzelcrèmevulling",
     "brand": "BERMAN",
     "category": "Koekjes",
@@ -1666,5 +2073,59 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6676528599605522
     },
     "barcodeSource": "Aangeleverde verpakkingsfoto: aa2fafb9-a721-4f01-bd93-ff3dd41cacde.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Carmel Koekjes met Chocoladesmaaklaag",
+    "brand": "BERMAN",
+    "category": "Koekjes",
+    "variant": "200 g",
+    "image": "images/berman-carmel-studio.png",
+    "ingredients": "Tarwemeel (bevat gluten), laag met chocoladesmaak (20%) (gehydrogeneerd palmvet, witte suiker, vetarm cacaopoeder, emulgatoren (sojalecithine, E476), vanillinepoeder), witte suiker, niet-gehydrogeneerd palmvet, water, zout, rijsmiddelen (E450(i), E500(ii)), vanillearoma, zuurteregelaar (citroenzuur, E330).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Soja"
+    ],
+    "mayContain": "Kan eieren, sesam, noten (amandelen, hazelnoten, kokosnoot, walnoten) en pinda’s bevatten.",
+    "kosher": "Badatz Edah HaChareidis",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2071 kJ / 495 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "15 g",
+      "Koolhydraten": "67 g",
+      "Waarvan suikers": "32 g",
+      "Eiwitten": "5 g",
+      "Zout": "0,2 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Crown Koekjes met Aardbeienvulling",
+    "brand": "BERMAN",
+    "category": "Koekjes",
+    "variant": "180 g",
+    "image": "images/berman-crown-packshot.jpg",
+    "ingredients": "Tarwemeel (bevat gluten), aardbeiensmaakvulling 20% (suiker, appels (bevat conserveermiddel zwaveldioxide), antioxidant (E300), water, verdikkingsmiddel (E440), zuurteregelaars (E330, E331), kleurstoffen (E163, E124), aardbeienaroma, verstevigingsmiddel (E341)), suiker, niet-gehydrogeneerd palmvet, water, gluten, zout, vanillearoma, zuurteregelaar (E330), rijsmiddelen (E500, E450).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Sulfieten"
+    ],
+    "mayContain": "Kan eieren, soja, sesam en pinda’s bevatten.",
+    "kosher": "Badatz Edah HaChareidis",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1850 kJ / 442 kcal",
+      "Vetten": "16,9 g",
+      "Waarvan verzadigde vetzuren": "11,8 g",
+      "Koolhydraten": "65,1 g",
+      "Waarvan suikers": "35 g",
+      "Eiwitten": "6,6 g",
+      "Zout": "0,2 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "< 2,5 mg"
+    }
   }
 ];
