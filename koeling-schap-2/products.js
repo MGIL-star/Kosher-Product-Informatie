@@ -1143,6 +1143,31 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 92,
+    "name": "Opgeklopte Roomkaas om te Bakken",
+    "brand": "Shefa",
+    "category": "Roomkaas",
+    "variant": "500 g",
+    "ean": "8711162013358",
+    "ingredients": "Gepasteuriseerde MELK, ROOM, verdikkingsmiddel (E410), zuursel (MELK), microbieel stremsel, conserveermiddel (E200).",
+    "ingredientsComplete": true,
+    "allergens": ["MELK"],
+    "kosher": "Machsike Hadas Antwerpen",
+    "kosherLines": ["Machsike Hadas Antwerpen", "Chalav Yisrael"],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1161 kJ / 281 kcal",
+      "Vetten": "27 g",
+      "waarvan verzadigde vetzuren": "17 g",
+      "Koolhydraten": "3 g",
+      "waarvan suikers": "3 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,1 g"
+    },
+    "image": "./images/shefa-bakroomkaas-500g.png",
+    "imageEdited": true
+  },
+  {
     "id": 49,
     "name": "Roomkaas Naturel",
     "brand": "Samson",

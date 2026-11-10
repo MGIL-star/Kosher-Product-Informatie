@@ -825,145 +825,200 @@ window.KPI_PRODUCTS = [
     "warning": "Overmatig gebruik kan een laxerend effect hebben."
   },
   {
-    "id": 23,
-    "brand": "Presteez",
-    "name": "Reep met Framboos en Amandel",
-    "variant": "35 g",
-    "ean": "0796554370569",
-    "ingredients": "Gedroogde mango, amandelen (21%), gedroogde abrikozen, gedroogde frambozen (8%), gedroogde appels, zonnebloemolie, gedroogde aardbeien, cichoreiwortelvezel, gedroogde rode bieten, maïsvezel, vanille, vitamine C, zout, tapiocazetmeel.",
+    "id": 29,
+    "brand": "Gross & Co",
+    "name": "Chocoladeblaadjes Melkchocolade",
+    "variant": "100 g",
+    "ean": "712963006288",
+    "image": "images/chocolate-leaves-milk.jpg",
+    "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)).",
     "allergens": [
-      "Amandelen"
+      "Melk",
+      "Soja",
+      "Tarwe (gluten)",
+      "Gerst (gluten)"
     ],
-    "mayContain": "Kan andere noten, pinda’s, sesam, soja en melk bevatten.",
-    "kosher": "K",
-    "category": "Repen",
-    "image": "images/23.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "sourcePhotos": [
-      "source-labels/cb70e543-121f-4269-ba03-5d52eca79d7f.jpg",
-      "source-labels/b1cd1a3d-73eb-43da-9413-f21e050c990e.jpg"
+    "mayContain": "Geproduceerd in een bedrijf dat noten verwerkt.",
+    "kosher": "OU (Orthodox Union)",
+    "kosherLines": [
+      "Rav M. Weissmandl Nitra Monsey",
+      "OU (Orthodox Union) (Dairy)"
     ],
-    "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar."
+    "category": "Chocolade",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2242 kJ / 536 kcal",
+      "Vetten": "29,7 g",
+      "Waarvan verzadigde vetzuren": "17,9 g",
+      "Koolhydraten": "59,8 g",
+      "Waarvan suikers": "49,8 g",
+      "Vezels": "1,1 g",
+      "Eiwitten": "6,9 g",
+      "Zout": "0,3 g"
+    }
   },
   {
-    "id": 24,
-    "brand": "Presteez",
-    "name": "Reep met Vijg en Pistache",
-    "variant": "35 g",
-    "ean": "0796554370521",
-    "ingredients": "Gedroogde abrikozen, pistachenoten (20%), amandelen, gedroogde rode bieten, gedroogde mango, gedroogde vijgen (5%), gedroogde ananas, cichoreiwortelvezel, maïsvezel, zonnebloemolie, zout, vitamine C, tapiocazetmeel.",
+    "id": 30,
+    "brand": "Gross & Co",
+    "name": "Chocoladeblaadjes Pure Chocolade met Sinaasappel",
+    "variant": "100 g",
+    "ean": "712963006332",
+    "image": "images/chocolate-leaves-orange-front.png",
+    "ingredients": "Chocolade (suiker, cacaomassa, cacaoboter, aroma (vanille), emulgator (sojalecithine)), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)), aroma (sinaasappel).",
     "allergens": [
-      "Pistachenoten",
-      "Amandelen"
+      "Soja",
+      "Tarwe (gluten)",
+      "Gerst (gluten)"
     ],
-    "mayContain": "Kan andere noten, pinda’s, sesam, soja en melk bevatten.",
-    "kosher": "K",
-    "category": "Repen",
-    "image": "images/24.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "sourcePhotos": [
-      "source-labels/088170c5-299c-4cfc-ba8e-1060285dec38.jpg",
-      "source-labels/fe122daf-b9aa-486f-979a-ad1b54249659.jpg"
+    "mayContain": "Geproduceerd in een bedrijf dat melk en noten verwerkt.",
+    "kosher": "OU (Orthodox Union)",
+    "kosherLines": [
+      "Rav M. Weissmandl Nitra Monsey",
+      "OU (Orthodox Union) (Parve)"
     ],
-    "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar."
+    "category": "Chocolade",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2209 kJ / 528 kcal",
+      "Vetten": "32,6 g",
+      "Waarvan verzadigde vetzuren": "20,3 g",
+      "Koolhydraten": "50,7 g",
+      "Waarvan suikers": "39,6 g",
+      "Vezels": "6,6 g",
+      "Eiwitten": "5,1 g",
+      "Zout": "0,12 mg"
+    }
   },
   {
-    "id": 25,
-    "brand": "Presteez",
-    "name": "Eiwitreep met Pinda en Banaan",
-    "variant": "50 g",
-    "ean": "0796554370606",
-    "ingredients": "Pinda’s (56%), rozijnen, cichoreiwortelvezel, gedroogde abrikozen, gedroogde bananen (6%), wei-eiwitconcentraat (melk), zout, vitamine C, vanille.",
+    "id": 31,
+    "brand": "Gross & Co",
+    "name": "Chocoladeblaadjes Melkchocolade met Karamel",
+    "variant": "100 g",
+    "ean": "712963006318",
+    "image": "images/chocolate-leaves-caramel.jpg",
+    "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)), aroma (karamel).",
     "allergens": [
-      "Pinda’s",
-      "Melk"
+      "Melk",
+      "Soja",
+      "Tarwe (gluten)",
+      "Gerst (gluten)"
     ],
-    "mayContain": "Kan andere noten, sesam en soja bevatten.",
-    "kosher": "K-D",
-    "category": "Repen",
-    "image": "images/25.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "sourcePhotos": [
-      "source-labels/1320337d-71f7-4e3b-a206-0a25321d98a4.jpg",
-      "source-labels/c43cf13e-aece-46e6-8dc2-faf50925301e.jpg"
+    "mayContain": "Geproduceerd in een bedrijf dat noten verwerkt.",
+    "kosher": "OU (Orthodox Union)",
+    "kosherLines": [
+      "Rav M. Weissmandl Nitra Monsey",
+      "OU (Orthodox Union) (Dairy)"
     ],
-    "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar."
+    "category": "Chocolade",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2263 kJ / 541 kcal",
+      "Vetten": "29,7 g",
+      "Waarvan verzadigde vetzuren": "17,9 g",
+      "Koolhydraten": "59,8 g",
+      "Waarvan suikers": "49,8 g",
+      "Vezels": "1 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,3 g"
+    }
   },
   {
-    "id": 26,
-    "brand": "Presteez",
-    "name": "Reep met Olijven en Zaden",
-    "variant": "35 g",
-    "ean": "0796554370583",
-    "ingredients": "Amandelen, rozijnen, gedroogde olijven (15%), gedroogde appels, pompoenpitten (8%), cichoreiwortelvezel, maïsvezel, zonnebloemolie, sesamzaad, nigellazaad, vitamine C, zout, tapiocazetmeel.",
+    "id": 32,
+    "brand": "Gross & Co",
+    "name": "Chocoladeblaadjes Melkchocolade met Hazelnoten",
+    "variant": "100 g",
+    "ean": "712963006295",
+    "image": "images/chocolate-leaves-hazelnuts.jpg",
+    "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 8% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)), hazelnoten (2%), suiker, aroma (hazelnoot).",
     "allergens": [
-      "Amandelen",
-      "Sesam"
+      "Melk",
+      "Soja",
+      "Tarwe (gluten)",
+      "Gerst (gluten)",
+      "Hazelnoten"
     ],
-    "mayContain": "Kan andere noten, pinda’s, soja en melk bevatten.",
-    "kosher": "K",
-    "category": "Repen",
-    "image": "images/26.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "sourcePhotos": [
-      "source-labels/6bf56c4d-d299-45f3-9eb8-02ae2a69986e.jpg",
-      "source-labels/c84236ef-694f-4ced-a92a-ba79c0564a5c.jpg",
-      "source-labels/f3922bfa-1f54-4ffe-a153-226a30bfe99f.jpg"
+    "mayContain": "Geproduceerd in een bedrijf dat andere noten verwerkt.",
+    "kosher": "OU (Orthodox Union)",
+    "kosherLines": [
+      "Rav M. Weissmandl Nitra Monsey",
+      "OU (Orthodox Union) (Dairy)"
     ],
-    "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar."
+    "category": "Chocolade",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2263 kJ / 541 kcal",
+      "Vetten": "30,6 g",
+      "Waarvan verzadigde vetzuren": "17,7 g",
+      "Koolhydraten": "59,1 g",
+      "Waarvan suikers": "51 g",
+      "Vezels": "1 g",
+      "Eiwitten": "6,8 g",
+      "Zout": "0,3 g"
+    }
   },
   {
-    "id": 27,
-    "brand": "Presteez",
-    "name": "Eiwitreep met Amandel en Appel",
-    "variant": "50 g",
-    "ean": "0796554370507",
-    "ingredients": "Amandelen (44%), rozijnen, gedroogde abrikozen, cichoreiwortelvezel, pompoenpitten, wei-eiwitconcentraat (melk), gedroogde appels (4%), vitamine C, kaneel, vanille, zout.",
+    "id": 33,
+    "brand": "Gross & Co",
+    "name": "Chocoladeblaadjes Pure Chocolade",
+    "variant": "100 g",
+    "ean": "712963006325",
+    "image": "images/chocolate-leaves-dark.jpg",
+    "ingredients": "Chocolade (suiker, cacaomassa, cacaoboter, aroma (vanille), emulgator (sojalecithine)), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)).",
     "allergens": [
-      "Amandelen",
-      "Melk"
+      "Soja",
+      "Tarwe (gluten)",
+      "Gerst (gluten)"
     ],
-    "mayContain": "Kan andere noten, pinda’s, sesam en soja bevatten.",
-    "kosher": "K-D",
-    "category": "Repen",
-    "image": "images/27.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "sourcePhotos": [
-      "source-labels/1eeb80b6-c959-481b-b64d-4bd03c5058ba.jpg",
-      "source-labels/235bfd3d-eb60-4c5f-abe4-a00084ce8765.jpg",
-      "source-labels/76642a32-2f0e-4632-9b9e-5e747d51ec24.jpg",
-      "source-labels/8bad99f1-1a9e-4ef9-ad09-8ef7e0277b03.jpg"
+    "mayContain": "Geproduceerd in een bedrijf dat melk en noten verwerkt.",
+    "kosher": "OU (Orthodox Union)",
+    "kosherLines": [
+      "Rav M. Weissmandl Nitra Monsey",
+      "OU (Orthodox Union) (Parve)"
     ],
-    "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar.",
-    "barcodeNeedsCheck": false,
-    "barcodeConfirmedBy": "Verpakkingsfoto gebruiker, 27-09-2026"
+    "category": "Chocolade",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2209 kJ / 528 kcal",
+      "Vetten": "32,6 g",
+      "Waarvan verzadigde vetzuren": "20,3 g",
+      "Koolhydraten": "50,7 g",
+      "Waarvan suikers": "39,6 g",
+      "Vezels": "6,6 g",
+      "Eiwitten": "5,1 g",
+      "Zout": "0,12 g"
+    }
   },
   {
-    "id": 28,
-    "brand": "Presteez",
-    "name": "Reep met Banaan en Kokos",
-    "variant": "35 g",
-    "ean": "0796554370507",
-    "ingredients": "Gedroogde bananen (21%), gedroogde abrikozen, gedroogde mango, amandelen, pecannoten, gedroogde kokosnoot (8%), gedroogde bosbessen, cichoreiwortelvezel, maïsvezel, zonnebloemolie, vitamine C, tapiocazetmeel, zout, kaneel, kardemom, gember.",
+    "id": 34,
+    "brand": "Gross & Co",
+    "name": "Chocoladeblaadjes Melkchocolade met Karamel en Zeezout",
+    "variant": "100 g",
+    "ean": "712963006301",
+    "image": "images/chocolate-leaves-caramel-with-sea-salt.jpg",
+    "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, stabilisator (E170i), koolzaadolie, emulgator (sojalecithine)), zeezout (0,6%), aroma (karamel).",
     "allergens": [
-      "Amandelen",
-      "Pecannoten"
+      "Melk",
+      "Soja",
+      "Tarwe (gluten)",
+      "Gerst (gluten)"
     ],
-    "mayContain": "Kan andere noten, pinda’s, sesam, soja en melk bevatten.",
-    "kosher": "K",
-    "category": "Repen",
-    "image": "images/28.png",
-    "imageEdited": true,
-    "productInfo": {},
-    "sourcePhotos": [
-      "source-labels/f9e2b276-ec75-4a50-82e0-3695fa93dda1.jpg",
-      "source-labels/9204208c-42f0-43d9-9f67-02098c088df9.jpg"
+    "mayContain": "Geproduceerd in een bedrijf dat noten verwerkt.",
+    "kosher": "OU (Orthodox Union)",
+    "kosherLines": [
+      "Rav M. Weissmandl Nitra Monsey",
+      "OU (Orthodox Union) (Dairy)"
     ],
-    "warning": "Kan notendoppen bevatten. Niet geschikt voor kinderen jonger dan 5 jaar."
+    "category": "Chocolade",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2239 kJ / 536 kcal",
+      "Vetten": "29,9 g",
+      "Waarvan verzadigde vetzuren": "17,2 g",
+      "Koolhydraten": "58,5 g",
+      "Waarvan suikers": "45,6 g",
+      "Vezels": "0 g",
+      "Eiwitten": "8,1 g",
+      "Zout": "0,9 g"
+    }
   }
 ];
