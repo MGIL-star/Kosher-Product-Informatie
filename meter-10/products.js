@@ -2080,7 +2080,8 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "200 g",
-    "image": "images/berman-carmel-studio.png",
+    "image": "images/berman-carmel-front.webp",
+    "productInfo": {},
     "ingredients": "Tarwemeel (bevat gluten), laag met chocoladesmaak (20%) (gehydrogeneerd palmvet, witte suiker, vetarm cacaopoeder, emulgatoren (sojalecithine, E476), vanillinepoeder), witte suiker, niet-gehydrogeneerd palmvet, water, zout, rijsmiddelen (E450(i), E500(ii)), vanillearoma, zuurteregelaar (citroenzuur, E330).",
     "allergens": [
       "Tarwe (gluten)",
@@ -2107,7 +2108,8 @@ window.KPI_PRODUCTS = [
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
-    "image": "images/berman-crown-packshot.jpg",
+    "image": "images/berman-crown-front.webp",
+    "productInfo": {},
     "ingredients": "Tarwemeel (bevat gluten), aardbeiensmaakvulling 20% (suiker, appels (bevat conserveermiddel zwaveldioxide), antioxidant (E300), water, verdikkingsmiddel (E440), zuurteregelaars (E330, E331), kleurstoffen (E163, E124), aardbeienaroma, verstevigingsmiddel (E341)), suiker, niet-gehydrogeneerd palmvet, water, gluten, zout, vanillearoma, zuurteregelaar (E330), rijsmiddelen (E500, E450).",
     "allergens": [
       "Tarwe (gluten)",
