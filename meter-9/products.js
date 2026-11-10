@@ -830,7 +830,7 @@ window.KPI_PRODUCTS = [
     "name": "Chocoladeblaadjes Melkchocolade",
     "variant": "100 g",
     "ean": "712963006288",
-    "image": "images/chocolate-leaves-milk.jpg",
+    "image": "images/chocolate-leaves-milk-front.png",
     "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)).",
     "allergens": [
       "Melk",
@@ -895,7 +895,7 @@ window.KPI_PRODUCTS = [
     "name": "Chocoladeblaadjes Melkchocolade met Karamel",
     "variant": "100 g",
     "ean": "712963006318",
-    "image": "images/chocolate-leaves-caramel.jpg",
+    "image": "images/chocolate-leaves-caramel-front.png",
     "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)), aroma (karamel).",
     "allergens": [
       "Melk",
@@ -928,7 +928,7 @@ window.KPI_PRODUCTS = [
     "name": "Chocoladeblaadjes Melkchocolade met Hazelnoten",
     "variant": "100 g",
     "ean": "712963006295",
-    "image": "images/chocolate-leaves-hazelnuts.jpg",
+    "image": "images/chocolate-leaves-hazelnuts-front.png",
     "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 8% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)), hazelnoten (2%), suiker, aroma (hazelnoot).",
     "allergens": [
       "Melk",
@@ -962,7 +962,7 @@ window.KPI_PRODUCTS = [
     "name": "Chocoladeblaadjes Pure Chocolade",
     "variant": "100 g",
     "ean": "712963006325",
-    "image": "images/chocolate-leaves-dark.jpg",
+    "image": "images/chocolate-leaves-dark-front.png",
     "ingredients": "Chocolade (suiker, cacaomassa, cacaoboter, aroma (vanille), emulgator (sojalecithine)), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, emulgator (sojalecithine), niet-gehydrogeneerde plantaardige olie, stabilisator (E170i)).",
     "allergens": [
       "Soja",
@@ -994,7 +994,7 @@ window.KPI_PRODUCTS = [
     "name": "Chocoladeblaadjes Melkchocolade met Karamel en Zeezout",
     "variant": "100 g",
     "ean": "712963006301",
-    "image": "images/chocolate-leaves-caramel-with-sea-salt.jpg",
+    "image": "images/chocolate-leaves-caramel-with-sea-salt-front.png",
     "ingredients": "Melkchocolade (suiker, cacaoboter, volle melkpoeder, cacaomassa, magere melk, emulgator (sojalecithine), vanilline-aroma), gepofte rijst 11% (rijstmeel, suiker, moutextract (gerst), zout, stabilisator (E170i), koolzaadolie, emulgator (sojalecithine)), zeezout (0,6%), aroma (karamel).",
     "allergens": [
       "Melk",
