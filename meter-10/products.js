@@ -2104,7 +2104,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 38,
-    "name": "Crown Koekjes met Aardbeienvulling",
+    "name": "Kroon Koekjes met Aardbeienvulling",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",
