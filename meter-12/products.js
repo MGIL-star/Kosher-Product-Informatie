@@ -1520,6 +1520,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.47
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2060 kJ / 498 kcal",
+      "Vetten": "36 g",
+      "Waarvan verzadigde vetzuren": "22 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "10 g",
+      "Vezels": "< 0,1 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,28 g",
+      "Waarvan polyolen": "43 g"
     }
   },
   {
@@ -1566,7 +1578,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.8925750394944707
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2470 kJ / 593 kcal",
+      "Vetten": "42 g",
+      "Waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "46 g",
+      "Waarvan suikers": "44 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "7,4 g",
+      "Zout": "0,18 g",
+      "Cholesterol": "19 mg"
+    }
   },
   {
     "id": 28,
@@ -1613,7 +1637,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.950479233226837
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2440 kJ / 586 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "46 g",
+      "Waarvan suikers": "43 g",
+      "Vezels": "2,8 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "0,15 g",
+      "Cholesterol": "15 mg"
+    }
   },
   {
     "id": 29,
@@ -1659,7 +1695,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.8842592592592593
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2480 kJ / 596 kcal",
+      "Vetten": "43 g",
+      "Waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "45 g",
+      "Waarvan suikers": "43 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "7,4 g",
+      "Zout": "0,15 g",
+      "Cholesterol": "15 mg"
+    }
   },
   {
     "id": 30,
@@ -1704,6 +1752,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.5239043824701195
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2470 kJ / 593 kcal",
+      "Vetten": "42 g",
+      "Waarvan verzadigde vetzuren": "26 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "46 g",
+      "Vezels": "0,3 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "0,28 g",
+      "Cholesterol": "28 mg"
     }
   },
   {
@@ -1745,6 +1805,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.49182561307901906
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2400 kJ / 574 kcal",
+      "Vetten": "40 g",
+      "Waarvan verzadigde vetzuren": "22 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "41 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "5,4 g",
+      "Zout": "< 0,01 g",
+      "Cholesterol": "1 mg"
     }
   },
   {
@@ -1789,6 +1861,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.47
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2480 kJ / 595 kcal",
+      "Vetten": "43 g",
+      "Waarvan verzadigde vetzuren": "24 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "44 g",
+      "Vezels": "0,6 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,25 g",
+      "Cholesterol": "26 mg"
     }
   },
   {
@@ -1832,6 +1916,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.47
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2470 kJ / 593 kcal",
+      "Vetten": "42 g",
+      "Waarvan verzadigde vetzuren": "26 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "47 g",
+      "Vezels": "0 g",
+      "Eiwitten": "7,2 g",
+      "Zout": "0,28 g",
+      "Cholesterol": "29 mg"
     }
   },
   {
@@ -1875,6 +1971,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.4930966469428008
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2450 kJ / 588 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "25 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "46 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "0,25 g",
+      "Cholesterol": "26 mg"
     }
   },
   {
@@ -1917,7 +2025,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.4634146341463415
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2460 kJ / 595 kcal",
+      "Vetten": "46 g",
+      "Waarvan verzadigde vetzuren": "29 g",
+      "Koolhydraten": "32 g",
+      "Waarvan suikers": "28 g",
+      "Vezels": "10 g",
+      "Eiwitten": "8,4 g",
+      "Zout": "0,03 g",
+      "Cholesterol": "1 mg"
+    }
   },
   {
     "id": 35,
@@ -1959,7 +2079,18 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.49022892238972643
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2330 kJ / 563 kcal",
+      "Vetten": "44 g",
+      "Waarvan verzadigde vetzuren": "28 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "13 g",
+      "Vezels": "16 g",
+      "Eiwitten": "13 g",
+      "Zout": "0,03 g"
+    }
   },
   {
     "id": 36,

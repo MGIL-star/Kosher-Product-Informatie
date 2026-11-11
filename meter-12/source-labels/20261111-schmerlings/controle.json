@@ -1,0 +1,173 @@
+{
+  "basis": "Oorspronkelijke tabel per 100 g, niet de Amerikaanse portietabel",
+  "products": [
+    {
+      "id": 26,
+      "source": "95fdbaa3-6c90-44be-bbf6-c9b246033472",
+      "nutrition": {
+        "Energie": "2060 kJ / 498 kcal",
+        "Vetten": "36 g",
+        "Waarvan verzadigde vetzuren": "22 g",
+        "Koolhydraten": "53 g",
+        "Waarvan suikers": "10 g",
+        "Vezels": "< 0,1 g",
+        "Eiwitten": "7 g",
+        "Zout": "0,28 g",
+        "Waarvan polyolen": "43 g"
+      }
+    },
+    {
+      "id": 27,
+      "source": "09d21cfa-9f68-4d9a-a3da-2b92c31e86bc",
+      "nutrition": {
+        "Energie": "2470 kJ / 593 kcal",
+        "Vetten": "42 g",
+        "Waarvan verzadigde vetzuren": "20 g",
+        "Koolhydraten": "46 g",
+        "Waarvan suikers": "44 g",
+        "Vezels": "1,8 g",
+        "Eiwitten": "7,4 g",
+        "Zout": "0,18 g",
+        "Cholesterol": "19 mg"
+      }
+    },
+    {
+      "id": 28,
+      "source": "b810b818-50a9-4c3b-8e78-ace375b971e7",
+      "nutrition": {
+        "Energie": "2440 kJ / 586 kcal",
+        "Vetten": "41 g",
+        "Waarvan verzadigde vetzuren": "20 g",
+        "Koolhydraten": "46 g",
+        "Waarvan suikers": "43 g",
+        "Vezels": "2,8 g",
+        "Eiwitten": "7,3 g",
+        "Zout": "0,15 g",
+        "Cholesterol": "15 mg"
+      }
+    },
+    {
+      "id": 29,
+      "source": "37a394c0-e1df-42e0-a86e-69693a0ca8c6",
+      "nutrition": {
+        "Energie": "2480 kJ / 596 kcal",
+        "Vetten": "43 g",
+        "Waarvan verzadigde vetzuren": "20 g",
+        "Koolhydraten": "45 g",
+        "Waarvan suikers": "43 g",
+        "Vezels": "2,4 g",
+        "Eiwitten": "7,4 g",
+        "Zout": "0,15 g",
+        "Cholesterol": "15 mg"
+      }
+    },
+    {
+      "id": 30,
+      "source": "ddf5861f-a5fc-45e6-882a-c9095d592de5",
+      "nutrition": {
+        "Energie": "2470 kJ / 593 kcal",
+        "Vetten": "42 g",
+        "Waarvan verzadigde vetzuren": "26 g",
+        "Koolhydraten": "47 g",
+        "Waarvan suikers": "46 g",
+        "Vezels": "0,3 g",
+        "Eiwitten": "7,3 g",
+        "Zout": "0,28 g",
+        "Cholesterol": "28 mg"
+      }
+    },
+    {
+      "id": 63,
+      "source": "aa05d725-ff5f-471b-a4c9-290eb6d6a3bd",
+      "nutrition": {
+        "Energie": "2400 kJ / 574 kcal",
+        "Vetten": "40 g",
+        "Waarvan verzadigde vetzuren": "22 g",
+        "Koolhydraten": "44 g",
+        "Waarvan suikers": "41 g",
+        "Vezels": "7,1 g",
+        "Eiwitten": "5,4 g",
+        "Zout": "< 0,01 g",
+        "Cholesterol": "1 mg"
+      }
+    },
+    {
+      "id": 31,
+      "source": "6be649f8-78f4-4808-bcd2-75bf6695f176",
+      "nutrition": {
+        "Energie": "2480 kJ / 595 kcal",
+        "Vetten": "43 g",
+        "Waarvan verzadigde vetzuren": "24 g",
+        "Koolhydraten": "44 g",
+        "Waarvan suikers": "44 g",
+        "Vezels": "0,6 g",
+        "Eiwitten": "8,2 g",
+        "Zout": "0,25 g",
+        "Cholesterol": "26 mg"
+      }
+    },
+    {
+      "id": 32,
+      "source": "15b391ea-f6e2-40e9-8be8-82385dffc72d",
+      "nutrition": {
+        "Energie": "2470 kJ / 593 kcal",
+        "Vetten": "42 g",
+        "Waarvan verzadigde vetzuren": "26 g",
+        "Koolhydraten": "47 g",
+        "Waarvan suikers": "47 g",
+        "Vezels": "0 g",
+        "Eiwitten": "7,2 g",
+        "Zout": "0,28 g",
+        "Cholesterol": "29 mg"
+      }
+    },
+    {
+      "id": 33,
+      "source": "945bdafa-6a05-46c3-aee9-613c12dad26e",
+      "nutrition": {
+        "Energie": "2450 kJ / 588 kcal",
+        "Vetten": "41 g",
+        "Waarvan verzadigde vetzuren": "25 g",
+        "Koolhydraten": "47 g",
+        "Waarvan suikers": "46 g",
+        "Vezels": "1,5 g",
+        "Eiwitten": "7,5 g",
+        "Zout": "0,25 g",
+        "Cholesterol": "26 mg"
+      }
+    },
+    {
+      "id": 34,
+      "source": "057f54a4-6c03-4160-ab03-03616b059d6f",
+      "nutrition": {
+        "Energie": "2460 kJ / 595 kcal",
+        "Vetten": "46 g",
+        "Waarvan verzadigde vetzuren": "29 g",
+        "Koolhydraten": "32 g",
+        "Waarvan suikers": "28 g",
+        "Vezels": "10 g",
+        "Eiwitten": "8,4 g",
+        "Zout": "0,03 g",
+        "Cholesterol": "1 mg"
+      }
+    },
+    {
+      "id": 35,
+      "source": "76a8f158-32f4-4174-9632-6b7ccb5f4474",
+      "nutrition": {
+        "Energie": "2330 kJ / 563 kcal",
+        "Vetten": "44 g",
+        "Waarvan verzadigde vetzuren": "28 g",
+        "Koolhydraten": "20 g",
+        "Waarvan suikers": "13 g",
+        "Vezels": "16 g",
+        "Eiwitten": "13 g",
+        "Zout": "0,03 g"
+      }
+    }
+  ],
+  "pending": [
+    "097643083859: variant nog te identificeren",
+    "097643044553: cholesterol tegenstrijdig, bevestiging gevraagd"
+  ]
+}
