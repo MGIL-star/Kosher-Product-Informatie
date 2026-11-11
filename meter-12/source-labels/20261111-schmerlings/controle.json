@@ -162,12 +162,13 @@
         "Waarvan suikers": "13 g",
         "Vezels": "16 g",
         "Eiwitten": "13 g",
-        "Zout": "0,03 g"
+        "Zout": "0,03 g",
+        "Cholesterol": "0,15 g"
       }
     }
   ],
   "pending": [
-    "097643083859: variant nog te identificeren",
-    "097643044553: cholesterol tegenstrijdig, bevestiging gevraagd"
-  ]
+    "097643083859: variant nog te identificeren"
+  ],
+  "confirmation85": "Gebruiker bevestigt cholesterol 0,15 g per 100 g uit de 100g-tabel."
 }

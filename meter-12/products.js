@@ -2089,7 +2089,8 @@ window.KPI_PRODUCTS = [
       "Waarvan suikers": "13 g",
       "Vezels": "16 g",
       "Eiwitten": "13 g",
-      "Zout": "0,03 g"
+      "Zout": "0,03 g",
+      "Cholesterol": "0,15 g"
     }
   },
   {
