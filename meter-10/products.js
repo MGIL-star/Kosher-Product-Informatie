@@ -2105,6 +2105,8 @@ window.KPI_PRODUCTS = [
   {
     "id": 38,
     "name": "Kroon Koekjes met Aardbeienvulling",
+    "ean": "7290004267216",
+    "barcodeSource": "Door gebruiker opgegeven",
     "brand": "BERMAN",
     "category": "Koekjes",
     "variant": "180 g",

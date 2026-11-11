@@ -46,6 +46,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "431 kJ / 100 kcal",
+      "Vetten": "3,5 g",
+      "waarvan verzadigde vetzuren": "2,13 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "11,8 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa aardbei 500 g-etiket, ontvangen 11 november 2026; op gebruikersverzoek ook voor 125 g. Bron: source-labels/20261111-shefa-aardbei/.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-aardbei-500.webp?v=9abd0539e0d7",
     "imageEdited": true,
@@ -302,6 +313,17 @@ window.KPI_PRODUCTS = [
     "allergens": [
       "MELK"
     ],
+    "nutrition": {
+      "Energie": "431 kJ / 100 kcal",
+      "Vetten": "3,5 g",
+      "waarvan verzadigde vetzuren": "2,13 g",
+      "Koolhydraten": "13 g",
+      "waarvan suikers": "11,8 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "Fysiek Shefa aardbei 500 g-etiket, ontvangen 11 november 2026; op gebruikersverzoek ook voor 125 g. Bron: source-labels/20261111-shefa-aardbei/.",
     "kosher": "Machsike Hadas Antwerpen",
     "image": "./images/shefa-aardbei-125-deksel.png",
     "imageEdited": true,
