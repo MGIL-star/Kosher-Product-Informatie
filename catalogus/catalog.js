@@ -35,6 +35,7 @@
   for (const source of sources) if (['diepvries-schap-2','meter-10'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-aanvulling';
   for (const source of sources) if (['meter-10','meter-12'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-packshots-snap';
   for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261112-meter13-batch4';
+  for (const source of sources) if (source.folder === 'meter-14') source.data = 'meter-14/products.js?v=20261112-meter14-batch1';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

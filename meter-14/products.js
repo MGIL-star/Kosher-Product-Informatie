@@ -1,4 +1,3 @@
-// Etiketgegevens uit de fysieke productfoto’s; bronkoppeling en controles: CONTROLE.md.
 window.KPI_PRODUCTS = [
   {
     "id": 14,
@@ -27,7 +26,20 @@ window.KPI_PRODUCTS = [
       0.856,
       0.976
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_SNACK_100_GR..jpg?v=1759095118"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_SNACK_100_GR..jpg?v=1759095118",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2147 kJ / 514 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "6 g",
+      "Eiwitten": "17 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 13,
@@ -58,7 +70,20 @@ window.KPI_PRODUCTS = [
       0.982
     ],
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_SNACK_25_GR..jpg?v=1759095121",
-    "imageDisclaimer": "Illustratieve afbeelding: gewicht digitaal aangepast van 28 g naar 25 g."
+    "imageDisclaimer": "Illustratieve afbeelding: gewicht digitaal aangepast van 28 g naar 25 g.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2147 kJ / 514 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "6 g",
+      "Eiwitten": "17 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 15,
@@ -88,7 +113,19 @@ window.KPI_PRODUCTS = [
       0.825,
       0.949
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_WITH_HAZELNUT_CREAM_FILLING_60_GR._8424ab1b-13aa-4a36-aafd-62075b47689f.jpg?v=1777505259"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_WITH_HAZELNUT_CREAM_FILLING_60_GR._8424ab1b-13aa-4a36-aafd-62075b47689f.jpg?v=1777505259",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2204 kJ / 527 kcal",
+      "Vetten": "29 g",
+      "Waarvan verzadigde vetzuren": "5,2 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "26 g",
+      "Eiwitten": "9,5 g",
+      "Zout": "0,52 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 26,
@@ -123,7 +160,19 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Etiketvermelding": "Bevat een genetisch gemodificeerd voedselingrediënt."
     },
-    "previousProductUrl": "../meter-15/?product=2"
+    "previousProductUrl": "../meter-15/?product=2",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2226 kJ / 532 kcal",
+      "Vetten": "28 g",
+      "Waarvan verzadigde vetzuren": "5 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "27 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,46 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 12,
@@ -203,7 +252,22 @@ window.KPI_PRODUCTS = [
     ],
     "imageSource": "https://www.nestleprofessional.co.il/sm/prwpw-tywbs-hmwz-hryp",
     "reviewNote": "Soja expliciet als aanwezig vermeld in het allergenenkader op foto 52.",
-    "warning": "Consumptie door jonge kinderen alleen zittend en onder toezicht van een volwassene."
+    "warning": "Consumptie door jonge kinderen alleen zittend en onder toezicht van een volwassene.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2218 kJ / 530 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "4,2 g",
+      "Eiwitten": "5 g",
+      "Natrium": "560 mg",
+      "Zout": "1,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 11,
@@ -264,7 +328,19 @@ window.KPI_PRODUCTS = [
       "61a956f9-0934-44eb-a471-f998088194b6.jpg",
       "c87afe71-6b2f-44e8-bb20-efc47f688fd8.jpg"
     ],
-    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket."
+    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1946 kJ / 462 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "45 g",
+      "Eiwitten": "4 g",
+      "Zout": "0 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/12.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 20,
@@ -291,7 +367,20 @@ window.KPI_PRODUCTS = [
       0.0797,
       0.72676,
       0.90607
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2368 kJ / 566 kcal",
+      "Vetten": "45 g",
+      "Waarvan verzadigde vetzuren": "5 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "3,3 g",
+      "Vezels": "10 g",
+      "Eiwitten": "19,8 g",
+      "Zout": "5 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/14.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 19,
