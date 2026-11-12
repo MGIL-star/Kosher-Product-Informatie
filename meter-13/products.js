@@ -2515,7 +2515,21 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
-    "quantitySource": "Foto van 10 oktober 2026 bevestigt 30 stuks; nettogewicht niet zichtbaar."
+    "quantitySource": "Foto van 10 oktober 2026 bevestigt 30 stuks; nettogewicht niet zichtbaar.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1700 kJ / 401 kcal",
+      "Vetten": "3,8 g",
+      "Waarvan verzadigde vetzuren": "1,9 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "0,5 g",
+      "Waarvan meervoudig onverzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "84 g",
+      "Waarvan suikers": "23 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "0,48 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 102,
@@ -2555,7 +2569,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.61
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1493 kJ / 353 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "0,72 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "12,5 g",
+      "Vezels": "7,7 g",
+      "Eiwitten": "5,3 g",
+      "Zout": "0,38 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 105,
@@ -2610,7 +2637,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbijn Pinchas Avraham Meyers (Den Haag)",
       "Machsike Hadas Antwerpen · Pat Yisrael (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1330 kJ / 315 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "2,5 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "9,8 g",
+      "Zout": "0,75 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 107,
@@ -2651,6 +2691,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.9820359281437125
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1330 kJ / 315 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "2,5 g",
+      "Eiwitten": "9,8 g",
+      "Zout": "0,75 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/8.jpg",
+    "nutritionChecked": "2026-11-12"
   }
 ];
