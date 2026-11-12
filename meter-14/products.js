@@ -637,7 +637,19 @@ window.KPI_PRODUCTS = [
       0.135,
       0.659,
       0.878
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2126 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "10 g",
+      "Zout": "0,56 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 5,
@@ -667,7 +679,19 @@ window.KPI_PRODUCTS = [
       0.72,
       0.922
     ],
-    "kosherSource": "https://groceries.morrisons.com/products/Osem-Bissli-Pizza/114855040"
+    "kosherSource": "https://groceries.morrisons.com/products/Osem-Bissli-Pizza/114855040",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2169 kJ / 518 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "8 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 1,
@@ -698,7 +722,19 @@ window.KPI_PRODUCTS = [
       0.84
     ],
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_BARBECUE_OSEM_70_GR..jpg?v=1759095113",
-    "imageDisclaimer": "Officiële Osem-foto van de opgegeven 2.5 oz-productpagina. Op de afgebeelde zak staat 35 g; de productgegevens hieronder horen bij de 70 g-verpakking."
+    "imageDisclaimer": "Officiële Osem-foto van de opgegeven 2.5 oz-productpagina. Op de afgebeelde zak staat 35 g; de productgegevens hieronder horen bij de 70 g-verpakking.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2126 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "10 g",
+      "Zout": "0,56 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 4,
@@ -728,7 +764,19 @@ window.KPI_PRODUCTS = [
       0.722,
       0.943
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_PIZZA_SNACK_OSEM_70_GR..jpg?v=1759095134"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_PIZZA_SNACK_OSEM_70_GR..jpg?v=1759095134",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2118 kJ / 506 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "1,4 g",
+      "Eiwitten": "9 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/9.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 9,
@@ -758,7 +806,19 @@ window.KPI_PRODUCTS = [
       0.875,
       1
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_ONION_SNACK_OSEM_70_GR..jpg?v=1759095129"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_ONION_SNACK_OSEM_70_GR..jpg?v=1759095129",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2112 kJ / 504 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,8 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/11.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 7,
@@ -787,7 +847,19 @@ window.KPI_PRODUCTS = [
       0.721,
       0.933
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_FALAFEL_SNACK_OSEM_70_GR..jpg?v=1759095127"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_FALAFEL_SNACK_OSEM_70_GR..jpg?v=1759095127",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2152 kJ / 514 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "1,3 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,86 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/13.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 10,
@@ -843,7 +915,19 @@ window.KPI_PRODUCTS = [
       0.017,
       0.993,
       0.993
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2126 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "10 g",
+      "Zout": "0,56 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/15.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 6,
@@ -872,7 +956,19 @@ window.KPI_PRODUCTS = [
       0.99,
       0.99
     ],
-    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack."
+    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2169 kJ / 518 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "8 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/17.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 8,
@@ -929,6 +1025,18 @@ window.KPI_PRODUCTS = [
       0.994,
       0.968
     ],
-    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack."
+    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1958 kJ / 468 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "78 g",
+      "Waarvan suikers": "35 g",
+      "Eiwitten": "3 g",
+      "Zout": "0,05 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/19.jpg",
+    "nutritionChecked": "2026-11-12"
   }
 ];
