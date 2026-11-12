@@ -348,7 +348,22 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.6395511921458625
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "1678 kJ / 401 kcal",
+      "Vetten": "5,3 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "76,8 g",
+      "Waarvan suikers": "3,1 g",
+      "Eiwitten": "11,6 g",
+      "Natrium": "906 mg",
+      "Zout": "2,27 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 18,
@@ -396,7 +411,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Safed (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1803 kJ / 431 kcal",
+      "Vetten": "9,1 g",
+      "Waarvan verzadigde vetzuren": "2,9 g",
+      "Koolhydraten": "73,6 g",
+      "Waarvan suikers": "1,6 g",
+      "Eiwitten": "13,7 g",
+      "Natrium": "854 mg",
+      "Zout": "2,13 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 21,
@@ -452,7 +482,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Rabbijn Shmuel Eliezer Stern (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1592 kJ / 380 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "2,6 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "11,2 g",
+      "Natrium": "1157 mg",
+      "Zout": "2,89 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 24,
@@ -499,7 +543,44 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "23,33 g",
+      "Waarvan verzadigde vetzuren": "3,33 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "6,67 g",
+      "Vezels": "3,33 g",
+      "Eiwitten": "6,67 g",
+      "Natrium": "1000 mg",
+      "Zout": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "6,67 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/8.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per portie (30 g)",
+      "values": {
+        "Energie": "150 kcal",
+        "Vetten": "7 g",
+        "Waarvan verzadigde vetzuren": "1 g",
+        "Koolhydraten": "18 g",
+        "Waarvan suikers": "2 g",
+        "Vezels": "1 g",
+        "Eiwitten": "2 g",
+        "Natrium": "300 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "2 g"
+      }
+    }
   },
   {
     "id": 27,
@@ -546,7 +627,44 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "26,67 g",
+      "Waarvan verzadigde vetzuren": "3,33 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "6,67 g",
+      "Vezels": "3,33 g",
+      "Eiwitten": "6,67 g",
+      "Natrium": "1000 mg",
+      "Zout": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "6,67 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/10.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per portie (30 g)",
+      "values": {
+        "Energie": "150 kcal",
+        "Vetten": "8 g",
+        "Waarvan verzadigde vetzuren": "1 g",
+        "Koolhydraten": "18 g",
+        "Waarvan suikers": "2 g",
+        "Vezels": "1 g",
+        "Eiwitten": "2 g",
+        "Natrium": "300 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "2 g"
+      }
+    }
   },
   {
     "id": 30,
@@ -593,7 +711,44 @@ window.KPI_PRODUCTS = [
       "OU (Orthodox Union)",
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1953 kJ / 467 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "73,33 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "1000 mg",
+      "Zout": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "0 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/12.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per portie (30 g)",
+      "values": {
+        "Energie": "140 kcal",
+        "Vetten": "6 g",
+        "Waarvan verzadigde vetzuren": "3 g",
+        "Koolhydraten": "22 g",
+        "Waarvan suikers": "0 g",
+        "Vezels": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "300 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "0 g"
+      }
+    }
   },
   {
     "id": 33,
@@ -639,7 +794,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Badatz Edah Hachareidis (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1706 kJ / 403 kcal",
+      "Vetten": "4,4 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "78 g",
+      "Waarvan suikers": "2,6 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "12 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/14.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 36,
@@ -697,7 +865,19 @@ window.KPI_PRODUCTS = [
       "OU (Orthodox Union)",
       "Rabbijn Shmuel Eliezer Stern",
       "Badatz Edah HaChareidis (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1763 kJ / 419 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "2,5 g",
+      "Eiwitten": "14 g",
+      "Zout": "2,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/16.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 39,
