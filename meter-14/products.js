@@ -407,7 +407,20 @@ window.KPI_PRODUCTS = [
       0.05806,
       0.75968,
       0.90323
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "43,3 g",
+      "Waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "12,3 g",
+      "Eiwitten": "23 g",
+      "Zout": "7,8 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 21,
@@ -434,7 +447,22 @@ window.KPI_PRODUCTS = [
       0.06357,
       0.76091,
       0.90892
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2494 kJ / 596 kcal",
+      "Vetten": "47 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "15,4 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "28 g",
+      "Natrium": "2160 mg",
+      "Zout": "5,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 22,
@@ -467,7 +495,23 @@ window.KPI_PRODUCTS = [
       1
     ],
     "imageSource": "Tijdelijke voorbeeldfoto door gebruiker aangeleverd op 16 september 2026. Ander merk (Kliyat Gat), op expliciet verzoek.",
-    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama."
+    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1925 kJ / 460 kcal",
+      "Vetten": "16,2 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "68 g",
+      "Waarvan suikers": "16,7 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "12,2 g",
+      "Natrium": "630 mg",
+      "Zout": "1,58 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 23,
@@ -501,7 +545,23 @@ window.KPI_PRODUCTS = [
       0.877
     ],
     "imageSource": "Tijdelijke voorbeeldfoto door gebruiker aangeleverd op 16 september 2026. Ander merk (Kliyat Gat), op expliciet verzoek. Diagonale winkeltekst digitaal verwijderd op verzoek.",
-    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama."
+    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2121 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "14,2 g",
+      "Vezels": "4,7 g",
+      "Eiwitten": "14 g",
+      "Natrium": "630 mg",
+      "Zout": "1,58 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 24,
@@ -532,7 +592,23 @@ window.KPI_PRODUCTS = [
       0.966
     ],
     "imageSource": "Door gebruiker aangeleverde Kliyat Gat-foto; op verzoek bewerkt naar één zakje.",
-    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk en formaat (150 g). De productgegevens hieronder horen bij Hamama 100 g."
+    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk en formaat (150 g). De productgegevens hieronder horen bij Hamama 100 g.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2820 kJ / 674 kcal",
+      "Vetten": "58 g",
+      "Waarvan verzadigde vetzuren": "5,7 g",
+      "Koolhydraten": "27 g",
+      "Waarvan suikers": "25 g",
+      "Vezels": "4,3 g",
+      "Eiwitten": "8,6 g",
+      "Natrium": "5 mg",
+      "Zout": "0,01 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 2,
