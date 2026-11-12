@@ -227,7 +227,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) (Parve)",
-    "image": "images/liel-pains-au-chocolat-packshot-20261112.png",
+    "image": "images/liel-chocoladebroodjes-360g-langwerpig-20261112.png",
     "imageEdited": true,
     "sourcePhotos": [
       "source-labels/20261112-meter15/3.jpg"
