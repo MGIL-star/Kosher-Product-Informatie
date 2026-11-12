@@ -39,6 +39,7 @@
   for (const source of sources) if (['meter-15','diepvries-schap-1'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-doritos-formaat';
   for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261112-schmerlings-liggend';
   for (const source of sources) if (['meter-15','diepvries-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-fotocorrecties';
+  for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261112-doritos-kleiner';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

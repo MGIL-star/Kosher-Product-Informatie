@@ -54,7 +54,7 @@ window.KPI_PRODUCTS = [
       "OU (Parve)"
     ],
     "image": "https://www.kroger.com/product/images/large/front/0081587101768",
-    "imageScale": 0.82,
+    "imageScale": 0.75,
     "sourcePhotos": [
       "source-photos/doritos-bbq-front.jpg",
       "source-photos/doritos-bbq-weight.jpg",
@@ -202,7 +202,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) - Afiyat Yisrael (Parve)",
-    "image": "images/liel-chocoladebroodjes-elisha-packshot-20261112.png",
+    "image": "images/liel-chocoladebroodjes-goedgekeurd-20261112.png",
     "sourcePhotos": [
       7
     ],
@@ -266,7 +266,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
-    "image": "images/liel-croissants-elisha-packshot-20261112.png",
+    "image": "images/liel-croissants-goedgekeurd-20261112.png",
     "sourcePhotos": [
       9
     ],
@@ -303,7 +303,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
-    "image": "images/liel-broodjes-elisha-packshot-20261112.png",
+    "image": "images/liel-broodjes-goedgekeurd-20261112.png",
     "sourcePhotos": [
       8
     ],
@@ -328,7 +328,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) - Afiyat Yisrael (Parve)",
-    "image": "images/liel-chocoladebrioche-elisha-packshot-20261112.png",
+    "image": "images/liel-chocoladebrioche-goedgekeurd-20261112.png",
     "sourcePhotos": [
       11
     ],
@@ -353,7 +353,7 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
-    "image": "images/liel-brioche-elisha-packshot-20261112.png",
+    "image": "images/liel-brioche-goedgekeurd-20261112.png",
     "sourcePhotos": [
       10
     ],
