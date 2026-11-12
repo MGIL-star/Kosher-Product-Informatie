@@ -45,7 +45,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Rabbinaat Yokneam (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1689 kJ / 404 kcal",
+      "Vetten": "6,4 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "7,4 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "10 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 6,
@@ -90,7 +103,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6870967741935484
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1804 kJ / 428 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "67 g",
+      "Waarvan suikers": "5 g",
+      "Vezels": "4,4 g",
+      "Eiwitten": "12 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 3,
@@ -141,7 +167,20 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/57.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1951 kJ / 464 kcal",
+      "Vetten": "15 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "68 g",
+      "Waarvan suikers": "2,3 g",
+      "Vezels": "4,5 g",
+      "Eiwitten": "12 g",
+      "Zout": "2 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 9,
@@ -189,7 +228,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "OU (Orthodox Union)",
       "Rabbinaat Yokneam (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1659 kJ / 392 kcal",
+      "Vetten": "4,6 g",
+      "Waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "11 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 12,
@@ -239,7 +291,20 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/59.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1723 kJ / 408 kcal",
+      "Vetten": "7 g",
+      "Waarvan verzadigde vetzuren": "2,9 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1,2 g",
+      "Vezels": "4,5 g",
+      "Eiwitten": "10 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 15,
