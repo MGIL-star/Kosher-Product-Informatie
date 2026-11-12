@@ -178,7 +178,9 @@ window.KPI_PRODUCTS = [
     ],
     "kosher": "Kedassia",
     "note": "",
-    "image": "./images/05-runderburgers-recht.png",
+    "image": "./images/05-runderburgers-packshot-20261112.png",
+    "imageEdited": true,
+    "imageSource": "source-labels/20261112-burger/prime-cut-burger.jpg",
     "ean": "5060199311610",
     "nutrition": {
       "Energie": "1575 kJ / 378 kcal",

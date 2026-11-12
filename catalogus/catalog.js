@@ -36,6 +36,7 @@
   for (const source of sources) if (['meter-10','meter-12'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-packshots-snap';
   for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261112-meter13-batch4';
   for (const source of sources) if (source.folder === 'meter-14') source.data = 'meter-14/products.js?v=20261112-meter14-batch3';
+  for (const source of sources) if (['meter-15','diepvries-schap-1'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-meter15-burger';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

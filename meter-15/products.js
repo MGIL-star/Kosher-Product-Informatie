@@ -24,7 +24,19 @@ window.KPI_PRODUCTS = [
     ],
     "imageSourcePage": "https://minimarketuri.com/Catalog.asp?PRodID=2232957&Page=NewShowProd.asp",
     "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
-    "ingredientsComplete": true
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2159 kJ / 516 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "1,3 g",
+      "Eiwitten": "8,7 g",
+      "Zout": "0,97 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 13,
@@ -50,7 +62,19 @@ window.KPI_PRODUCTS = [
     ],
     "imageSourcePage": "https://www.kroger.com/p/doritos-large-bbq-tortilla-chips/0081587101768",
     "ingredientsSource": "Online etiketgegevens van de verpakking met UPC 815871017688 (Kroger).",
-    "ingredientsComplete": true
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2226 kJ / 532 kcal",
+      "Vetten": "27 g",
+      "Waarvan verzadigde vetzuren": "2,9 g",
+      "Koolhydraten": "64 g",
+      "Waarvan suikers": "2,8 g",
+      "Eiwitten": "8,5 g",
+      "Zout": "0,99 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 12,
@@ -77,7 +101,19 @@ window.KPI_PRODUCTS = [
     ],
     "imageSourcePage": "https://www.kroger.com/p/doritos-spicy-sour-flavored-tortilla-chips/0081587101767",
     "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
-    "ingredientsComplete": true
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2209 kJ / 528 kcal",
+      "Vetten": "27 g",
+      "Waarvan verzadigde vetzuren": "2,9 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,4 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/12.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 1,
@@ -100,7 +136,20 @@ window.KPI_PRODUCTS = [
       3
     ],
     "imageSource": "https://www.tesco.com/groceries/en-GB/products/287614819",
-    "reviewNote": "Chief Rabbinate en het keurmerk van Badatz Edah HaChareidis op de fysieke voorzijde. Plaatsnaam van het opperrabbinaat valt onder de vouw en is niet aangevuld."
+    "reviewNote": "Chief Rabbinate en het keurmerk van Badatz Edah HaChareidis op de fysieke voorzijde. Plaatsnaam van het opperrabbinaat valt onder de vouw en is niet aangevuld.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2147 kJ / 514 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "6 g",
+      "Eiwitten": "17 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 2,
@@ -168,6 +217,45 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 14,
+    "brand": "Liel",
+    "name": "Pains au Chocolat",
+    "variant": "360 g (6 stuks)",
+    "category": "Brood & brioche",
+    "ean": "3662444003312",
+    "ingredients": "Tarwebloem, plantaardige olie en vet (palm en koolzaad), chocolade (12%) (suiker, cacaomassa, cacaoboter, emulgator (lecithinen uit zonnebloem en koolzaad)), water, suiker, gist, vers heel ei, zout, tarwegluten, emulgatoren (E471, E472e), natuurlijk aroma (bevat alcohol), gedeactiveerde gist, verdikkingsmiddel (cellulosegom), kleurstof (bètacaroteen).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Ei"
+    ],
+    "mayContain": "Kan melk bevatten.",
+    "kosher": "North West Kosher (NWK) (Parve)",
+    "image": "images/liel-pains-au-chocolat-packshot-20261112.png",
+    "imageEdited": true,
+    "sourcePhotos": [
+      "source-labels/20261112-meter15/3.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261112-meter15/3.jpg"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1753 kJ / 419 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "9,4 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "15 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,99 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/3.jpg",
+    "nutritionChecked": "2026-11-12",
+    "ingredientsSource": "source-labels/20261112-meter15/3.jpg",
+    "ingredientsChecked": "2026-11-12",
+    "barcodeSource": "source-labels/20261112-meter15/3.jpg",
+    "barcodeChecked": "2026-11-12"
+  },
+  {
     "id": 5,
     "brand": "Liel",
     "name": "Croissants",
@@ -194,7 +282,19 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {
       "Kenmerken": "8 stuks · Mezonot"
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1752 kJ / 412 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "48 g",
+      "Waarvan suikers": "10 g",
+      "Eiwitten": "6,8 g",
+      "Zout": "0,91 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 4,
@@ -343,7 +443,20 @@ window.KPI_PRODUCTS = [
     "ingredientsChecked": "2026-10-09",
     "ingredientsPartial": false,
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/83.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1791 kJ / 425 kcal",
+      "Vetten": "10 g",
+      "Waarvan verzadigde vetzuren": "4,5 g",
+      "Koolhydraten": "76 g",
+      "Waarvan suikers": "1 g",
+      "Vezels": "2,3 g",
+      "Eiwitten": "6,5 g",
+      "Zout": "0,63 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 10,
@@ -370,6 +483,19 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "ingredientsPartial": false,
     "ingredientsChecked": "2026-10-09",
-    "ingredientsSource": "Gebruiker bevestigt op 9 oktober 2026 dat Gusto 45 g en 85 g dezelfde samenstelling hebben; ingrediënten en sporenvermelding overgenomen van het gecontroleerde 85 g-etiket."
+    "ingredientsSource": "Gebruiker bevestigt op 9 oktober 2026 dat Gusto 45 g en 85 g dezelfde samenstelling hebben; ingrediënten en sporenvermelding overgenomen van het gecontroleerde 85 g-etiket.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1791 kJ / 425 kcal",
+      "Vetten": "10 g",
+      "Waarvan verzadigde vetzuren": "4,5 g",
+      "Koolhydraten": "76 g",
+      "Waarvan suikers": "1 g",
+      "Vezels": "2,3 g",
+      "Eiwitten": "6,5 g",
+      "Zout": "0,63 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter15/2.jpg",
+    "nutritionChecked": "2026-11-12"
   }
 ];
