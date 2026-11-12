@@ -36,8 +36,9 @@
   for (const source of sources) if (['meter-10','meter-12'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-packshots-snap';
   for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261112-meter13-batch4';
   for (const source of sources) if (source.folder === 'meter-14') source.data = 'meter-14/products.js?v=20261112-meter14-batch3';
-  for (const source of sources) if (['meter-15','diepvries-schap-1'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-meter15-burger';
+  for (const source of sources) if (['meter-15','diepvries-schap-1'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-doritos-formaat';
   for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261112-schmerlings-liggend';
+  for (const source of sources) if (['meter-15','diepvries-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-fotocorrecties';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
@@ -117,7 +118,7 @@
     // Existing product files are the only source; there is no separate catalogue copy.
     renderCategories();render();const picks=[products.find(p=>p.key==='meter-8:56'),products.find(p=>p.key==='meter-6:48'),products.find(p=>p.key==='meter-13:1')].filter(p=>p?.image);if($('#hero-products'))$('#hero-products').innerHTML=picks.map(p=>image(p)).join('');
     for(const key of Object.keys(cart))if(!products.some(p=>p.key===key)&&!failures.length)delete cart[key];save();
-    await sharedScript(new URL('photo-layout.js?v=20261010-cart-space',location.href).href);
+    await sharedScript(new URL('photo-layout.js?v=20261112-doritos-formaat',location.href).href);
     window.catalogPreview={get products(){return products;},get cart(){return {...cart};},failures};
   }
   load();

@@ -54,6 +54,7 @@ window.KPI_PRODUCTS = [
       "OU (Parve)"
     ],
     "image": "https://www.kroger.com/product/images/large/front/0081587101768",
+    "imageScale": 0.82,
     "sourcePhotos": [
       "source-photos/doritos-bbq-front.jpg",
       "source-photos/doritos-bbq-weight.jpg",
@@ -201,25 +202,21 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) - Afiyat Yisrael (Parve)",
-    "image": "images/liel-chocoladebroodjes-elisha.jpg",
+    "image": "images/liel-chocoladebroodjes-elisha-packshot-20261112.png",
     "sourcePhotos": [
       7
     ],
     "imageSource": "https://elisha.be/en/chocolate-chip-breads-rolls",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ],
     "productInfo": {
       "Kenmerken": "8 stuks · Mezonot"
-    }
+    },
+    "previousProductImage": "images/liel-chocoladebroodjes-elisha.jpg",
+    "imageEdited": true
   },
   {
     "id": 14,
     "brand": "Liel",
-    "name": "Pains au Chocolat",
+    "name": "Chocoladebroodjes",
     "variant": "360 g (6 stuks)",
     "category": "Brood & brioche",
     "ean": "3662444003312",
@@ -269,17 +266,11 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
-    "image": "images/liel-croissants-elisha.jpg",
+    "image": "images/liel-croissants-elisha-packshot-20261112.png",
     "sourcePhotos": [
       9
     ],
     "imageSource": "https://elisha.be/en/french-croissants",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ],
     "productInfo": {
       "Kenmerken": "8 stuks · Mezonot"
     },
@@ -294,7 +285,9 @@ window.KPI_PRODUCTS = [
       "Zout": "0,91 g"
     },
     "nutritionSource": "source-labels/20261112-meter15/4.jpg",
-    "nutritionChecked": "2026-11-12"
+    "nutritionChecked": "2026-11-12",
+    "previousProductImage": "images/liel-croissants-elisha.jpg",
+    "imageEdited": true
   },
   {
     "id": 4,
@@ -310,20 +303,16 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
-    "image": "images/liel-broodjes-elisha.jpg",
+    "image": "images/liel-broodjes-elisha-packshot-20261112.png",
     "sourcePhotos": [
       8
     ],
     "imageSource": "https://elisha.be/en/breads-rolls",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ],
     "productInfo": {
       "Kenmerken": "8 stuks · Mezonot"
-    }
+    },
+    "previousProductImage": "images/liel-broodjes-elisha.jpg",
+    "imageEdited": true
   },
   {
     "id": 7,
@@ -339,20 +328,16 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "North West Kosher (NWK) - Afiyat Yisrael (Parve)",
-    "image": "images/liel-chocoladebrioche-elisha.jpg",
+    "image": "images/liel-chocoladebrioche-elisha-packshot-20261112.png",
     "sourcePhotos": [
       11
     ],
     "imageSource": "https://elisha.be/en/sliced-french-brioche-with-chocolate-chips",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ],
     "productInfo": {
       "Kenmerken": "Mezonot"
-    }
+    },
+    "previousProductImage": "images/liel-chocoladebrioche-elisha.jpg",
+    "imageEdited": true
   },
   {
     "id": 6,
@@ -368,20 +353,16 @@ window.KPI_PRODUCTS = [
     ],
     "mayContain": "Kan melk bevatten.",
     "kosher": "Manchester Beth Din Mehadrin - Afiyat Yisrael (Parve)",
-    "image": "images/liel-brioche-elisha.jpg",
+    "image": "images/liel-brioche-elisha-packshot-20261112.png",
     "sourcePhotos": [
       10
     ],
     "imageSource": "https://elisha.be/en/sliced-french-brioche",
-    "imageBounds": [
-      0,
-      0,
-      1,
-      1
-    ],
     "productInfo": {
       "Kenmerken": "Mezonot"
-    }
+    },
+    "previousProductImage": "images/liel-brioche-elisha.jpg",
+    "imageEdited": true
   },
   {
     "id": 8,
