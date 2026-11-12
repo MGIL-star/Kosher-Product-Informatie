@@ -1725,6 +1725,10 @@ window.KPI_PRODUCTS = [
     "mayContain": "",
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/schmerlings-caramel-zeezout.png",
+    "imagePresentation": {
+      "corners": [[0.782, 0.067], [0.782, 0.904], [0.22, 0.904], [0.22, 0.067]],
+      "aspectRatio": 2.234
+    },
     "imageEdited": true,
     "sourcePhotos": [
       "source-labels/20261111-chocolade/75-etiket.jpg"
