@@ -1797,7 +1797,7 @@ window.KPI_PRODUCTS = [
       "Soja"
     ],
     "kosher": "Badatz Edah HaChareidis (Parve)",
-    "image": "images/berman-filled-benedikts.jpg",
+    "image": "images/berman-filled-packshot-20261112.png",
     "sourcePhotos": [
       "59.jpg",
       "60.jpg",
@@ -1806,28 +1806,15 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "sourceUrl": "https://benedikts.com/products/bchf",
     "mayContain": "Kan eieren, sesam, soja, noten en pinda’s bevatten.",
-    "imagePresentation": {
-      "corners": [
-        [
-          0.22,
-          0
-        ],
-        [
-          0.825,
-          0
-        ],
-        [
-          0.78,
-          0.99
-        ],
-        [
-          0.17,
-          0.96
-        ]
-      ],
-      "aspectRatio": 0.69
-    },
-    "barcodeSource": "Aangeleverde verpakkingsfoto: cf2d63f0-1d14-495d-b05f-34b9f8e7390c.jpg"
+    "barcodeSource": "source-labels/20261112-aanvulling/berman-filled-2.jpg",
+    "imageEdited": true,
+    "barcodeChecked": "2026-11-12",
+    "labelSources": [
+      "source-labels/20261112-aanvulling/berman-filled-1.jpg",
+      "source-labels/20261112-aanvulling/berman-filled-2.jpg",
+      "source-labels/20261112-aanvulling/berman-filled-3.jpg"
+    ],
+    "reviewNotes": "12 november 2026: voorzijde en barcode bevestigen de gevulde variant. Nederlandse sticker noemt Smily Cookies met coating; de afwijkende ingrediënten en voedingswaarden van die sticker zijn niet overgenomen."
   },
   {
     "id": 28,

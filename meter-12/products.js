@@ -2773,6 +2773,80 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 76,
+    "brand": "Elite",
+    "name": "Snap Wafelreep met Melkchocolade",
+    "category": "Chocoladerepen",
+    "variant": "45 g",
+    "ean": "815871015307",
+    "ingredients": "Melkchocolade (suiker, magere melkpoeder, cacaoboter, cacaomassa, melkvet, PGPR, raapzaadlecithine, kunstmatig aroma (vanilline)), tarwebloem, suiker, plantaardige vetten (palm en palmpit), plantaardige oliën (palm en palmpit), volle melkpoeder, sojameel, cacaopoeder (behandeld met alkali), melkvet, raapzaadlecithine, rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat), zout, kunstmatig aroma (vanilline), enzym (proteïnase), hazelnootpasta.",
+    "allergens": [
+      "Melk",
+      "Tarwe (gluten)",
+      "Soja",
+      "Hazelnoten"
+    ],
+    "mayContain": "Geproduceerd op apparatuur en/of in een fabriek waar ook noten, eieren en sesamzaad worden gebruikt. Niet geschikt voor mensen met bepaalde voedselallergieën.",
+    "kosher": "Badatz Edah HaChareidis (Chalav Yisroel)",
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Chalav Yisroel)",
+      "Rabbinaat Nof HaGalil"
+    ],
+    "image": "images/elite-snap-packshot-20261112.png",
+    "imageEdited": true,
+    "sourcePhotos": [
+      "source-labels/20261112-aanvulling/snap-1.jpg",
+      "source-labels/20261112-aanvulling/snap-2.jpg",
+      "source-labels/20261112-aanvulling/snap-3.jpg",
+      "source-labels/20261112-aanvulling/snap-4.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261112-aanvulling/snap-1.jpg",
+      "source-labels/20261112-aanvulling/snap-2.jpg",
+      "source-labels/20261112-aanvulling/snap-3.jpg",
+      "source-labels/20261112-aanvulling/snap-4.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261112-aanvulling/snap-3.jpg",
+    "ingredientsChecked": "2026-11-12",
+    "barcodeSource": "source-labels/20261112-aanvulling/snap-2.jpg",
+    "barcodeChecked": "2026-11-12",
+    "kosherSource": "source-labels/20261112-aanvulling/snap-4.jpg",
+    "kosherChecked": "2026-11-12",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2231 kJ / 533 kcal",
+      "Vetten": "28,89 g",
+      "Waarvan verzadigde vetzuren": "15,56 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "51,11 g",
+      "Vezels": "< 2,22 g",
+      "Eiwitten": "6,67 g",
+      "Natrium": "88,89 mg",
+      "Zout": "0,22 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "22,22 mg",
+      "Toegevoegde suikers": "51,11 g"
+    },
+    "nutritionSource": "source-labels/20261112-aanvulling/snap-3.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per reep (45 g)",
+      "values": {
+        "Energie": "240 kcal",
+        "Vetten": "13 g",
+        "Waarvan verzadigde vetzuren": "7 g",
+        "Koolhydraten": "27 g",
+        "Waarvan suikers": "23 g",
+        "Vezels": "< 1 g",
+        "Eiwitten": "3 g",
+        "Natrium": "40 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "10 mg",
+        "Toegevoegde suikers": "23 g"
+      }
+    }
+  },
+  {
     "id": 43,
     "brand": "Elite",
     "name": "Chocoladereep met Karamel en Gepofte Rijst",
