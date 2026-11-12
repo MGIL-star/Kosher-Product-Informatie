@@ -1766,7 +1766,11 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.69
     },
-    "barcodeSource": "Aangeleverde verpakkingsfoto: a9a57d41-c27f-4a1b-b1fb-1ba542c0261f.jpg"
+    "barcodeSource": "source-labels/20261112-aanvulling/berman-gezichtjes-barcode.jpg",
+    "barcodeChecked": "2026-11-12",
+    "labelSources": [
+      "source-labels/20261112-aanvulling/berman-gezichtjes-barcode.jpg"
+    ]
   },
   {
     "id": 27,

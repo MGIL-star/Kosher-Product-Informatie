@@ -1296,54 +1296,65 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Odel",
-    "name": "Calzone Margherita",
-    "englishName": "",
+    "name": "Calzone met Champignons",
+    "englishName": "Calzone Mushrooms",
     "variant": "150 g",
     "category": "Pizza",
-    "ingredients": "tarwebloem, mozzarella (23%, melk, zout, stremsel, melkzuurculturen), water, tomatenpuree, zonnebloemolie, zout, biergist, gemoute tarwebloem, suiker, oregano, zwarte peper",
+    "ingredients": "Tarwebloem, mozzarella (15%) (melk, zout, stremsel, melkzuurculturen), tomatenpuree, champignons (15%), zonnebloemolie, zout, biergist, gemoute tarwebloem, suiker, oregano, peterselie, knoflook, zwarte peper.",
     "allergens": [
-      "TARWE",
-      "MELK"
+      "Tarwe (gluten)",
+      "Melk"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Kan sporen van soja en mosterd bevatten",
-    "kosher": "Badatz Igud Harabonim",
-    "ean": "3760116200202",
-    "image": "./images/22-calzone-web.jpg",
+    "allergenNote": "Kan sporen van soja en mosterd bevatten.",
+    "kosher": "Beit Yosef Montreal (Chalav Yisroel)",
+    "ean": "",
+    "image": "./images/22-calzone-champignons.png",
     "warning": "",
     "note": "Chalav Yisrael en Pas Yisroel. Geproduceerd in Italië",
     "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 47.jpg",
+    "quantitySource": "Aangeleverde voorkant Calzone Mushrooms, 12 november 2026",
     "ingredientsComplete": true,
-    "barcodeSource": "Geen barcode zichtbaar op foto’s 47 en 48.",
+    "barcodeSource": "",
     "labelSource": {
-      "front": "47.jpg",
-      "back": "48.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
+      "back": "source-labels/20261112-aanvulling/calzone-champignons.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker",
+      "front": "images/22-calzone-champignons.png"
     },
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
-    "kosherStatus": "Dairy · Chalav Yisrael",
+    "kosherStatus": "",
     "preparation": "Laat op kamertemperatuur ontdooien. Bak 4–6 minuten in een voorverwarmde oven op 200–220 °C",
-    "imageSource": {
-      "type": "webshop",
-      "page": "https://kosherfood.it/en/products/kosher-calzone-margherita-odel-150-gr",
-      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_CALZONE_MARGHERITA_ODEL_150_GR..jpg?v=1778779161"
-    },
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 47.jpg en 48.jpg",
-    "barcodeCandidate": "3760116200202",
-    "barcodeCandidateSource": "Foodfactor noemt deze geldige code, maar Kodi Foods geeft een afwijkende foutieve code. Nog op verpakking te bevestigen.",
+    "ingredientReviewDate": "2026-11-12",
+    "kosherSource": "images/22-calzone-champignons.png",
     "nutrition": {
-      "Energie": "957 kJ / 227 kcal",
-      "Vetten": "6,1 g",
-      "waarvan verzadigde vetzuren": "2,8 g",
-      "Koolhydraten": "31 g",
-      "waarvan suikers": "2,3 g",
-      "Vezels": "2,2 g",
-      "Eiwitten": "10,8 g",
-      "Zout": "1,2 g"
+      "Energie": "897 kJ / 212 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "32 g",
+      "Waarvan suikers": "2,3 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "9,6 g"
     },
-    "nutritionUnit": "per 100 g"
+    "nutritionUnit": "per 100 g",
+    "previousVariant": {
+      "name": "Calzone Margherita",
+      "image": "./images/22-calzone-web.jpg",
+      "ean": "3760116200202",
+      "imageSource": {
+        "type": "webshop",
+        "page": "https://kosherfood.it/en/products/kosher-calzone-margherita-odel-150-gr",
+        "url": "https://kosherfood.it/cdn/shop/files/KOSHER_CALZONE_MARGHERITA_ODEL_150_GR..jpg?v=1778779161"
+      },
+      "labelSource": {
+        "front": "47.jpg",
+        "back": "48.jpg",
+        "priority": "Actuele fysieke verpakking van gebruiker"
+      }
+    },
+    "ingredientsSource": "source-labels/20261112-aanvulling/calzone-champignons.jpg",
+    "nutritionSource": "source-labels/20261112-aanvulling/calzone-champignons.jpg",
+    "nutritionChecked": "2026-11-12",
+    "kosherChecked": "2026-11-12"
   },
   {
     "id": 23,

@@ -32,6 +32,7 @@
     }
   }
   for (const source of sources) source.data = source.data.split('?')[0] + (source.folder === 'meter-12' ? '?v=20261111-laatste-voedingswaarden' : source.folder === 'meter-8' ? '?v=20261109-meter8-amba-dates' : source.folder === 'meter-9' ? '?v=20261110-rimon-front' : source.folder === 'meter-5' ? '?v=20261109-labels-5-9' : source.folder === 'meter-10' ? '?v=20261110-meter10-hadar' : '?v=20261106-salt-clean');
+  for (const source of sources) if (['diepvries-schap-2','meter-10'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-aanvulling';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
