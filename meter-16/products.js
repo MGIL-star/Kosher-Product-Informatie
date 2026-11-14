@@ -821,7 +821,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1644 kJ / 393 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "82 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "11 g",
+      "Zout": "4,3 g"
+    },
+    "nutritionSource": "source-labels/20261114-pretzels/nutrition.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Op uitdrukkelijk verzoek van gebruiker geldt deze per-100g-tabel voor alle zes Lieber’s-pretzelvarianten op meter 16."
   },
   {
     "id": 11,
@@ -867,7 +881,21 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1644 kJ / 393 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "82 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "11 g",
+      "Zout": "4,3 g"
+    },
+    "nutritionSource": "source-labels/20261114-pretzels/nutrition.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Op uitdrukkelijk verzoek van gebruiker geldt deze per-100g-tabel voor alle zes Lieber’s-pretzelvarianten op meter 16."
   },
   {
     "id": 40,
@@ -907,7 +935,21 @@ window.KPI_PRODUCTS = [
         "source-photos/pretzels-20261022/photo-03.jpg"
       ]
     },
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1644 kJ / 393 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "82 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "11 g",
+      "Zout": "4,3 g"
+    },
+    "nutritionSource": "source-labels/20261114-pretzels/nutrition.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Op uitdrukkelijk verzoek van gebruiker geldt deze per-100g-tabel voor alle zes Lieber’s-pretzelvarianten op meter 16."
   },
   {
     "id": 41,
@@ -947,7 +989,21 @@ window.KPI_PRODUCTS = [
         "source-photos/pretzels-20261022/photo-09.jpg"
       ]
     },
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1644 kJ / 393 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "82 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "11 g",
+      "Zout": "4,3 g"
+    },
+    "nutritionSource": "source-labels/20261114-pretzels/nutrition.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Op uitdrukkelijk verzoek van gebruiker geldt deze per-100g-tabel voor alle zes Lieber’s-pretzelvarianten op meter 16."
   },
   {
     "id": 42,
@@ -987,7 +1043,21 @@ window.KPI_PRODUCTS = [
         "source-photos/pretzels-20261022/photo-12.jpg"
       ]
     },
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1644 kJ / 393 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "82 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "11 g",
+      "Zout": "4,3 g"
+    },
+    "nutritionSource": "source-labels/20261114-pretzels/nutrition.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Op uitdrukkelijk verzoek van gebruiker geldt deze per-100g-tabel voor alle zes Lieber’s-pretzelvarianten op meter 16."
   },
   {
     "id": 43,
@@ -1027,7 +1097,21 @@ window.KPI_PRODUCTS = [
         "source-photos/pretzels-20261022/photo-18.jpg"
       ]
     },
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1644 kJ / 393 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "82 g",
+      "Waarvan suikers": "3,6 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "11 g",
+      "Zout": "4,3 g"
+    },
+    "nutritionSource": "source-labels/20261114-pretzels/nutrition.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Op uitdrukkelijk verzoek van gebruiker geldt deze per-100g-tabel voor alle zes Lieber’s-pretzelvarianten op meter 16."
   },
   {
     "id": 12,
