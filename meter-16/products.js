@@ -341,7 +341,20 @@ window.KPI_PRODUCTS = [
       "Rabbi E. L. Schneebalg",
       "STAR-K"
     ],
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2036 kJ / 487 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "5,8 g",
+      "Eiwitten": "8 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/4.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 38,
@@ -372,7 +385,20 @@ window.KPI_PRODUCTS = [
       "Rabbi E. L. Schneebalg",
       "STAR-K"
     ],
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2321 kJ / 557 kcal",
+      "Vetten": "36 g",
+      "Waarvan verzadigde vetzuren": "4,1 g",
+      "Koolhydraten": "51 g",
+      "Waarvan suikers": "0,6 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "5,5 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/2.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 39,
@@ -403,7 +429,20 @@ window.KPI_PRODUCTS = [
       "Rabbi E. L. Schneebalg",
       "STAR-K"
     ],
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2099 kJ / 503 kcal",
+      "Vetten": "27 g",
+      "Waarvan verzadigde vetzuren": "2,1 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "10 g",
+      "Eiwitten": "10 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/6.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 7,
@@ -455,7 +494,42 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1712 kJ / 409 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "0 g",
+      "Waarvan meervoudig onverzadigde vetzuren": "0 g",
+      "Koolhydraten": "100 g",
+      "Waarvan suikers": "100 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "100 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/18.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionOriginal": {
+      "unit": "per portie (22 g)",
+      "values": {
+        "Energie": "90 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "22 g",
+        "Waarvan suikers": "22 g",
+        "Vezels": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "22 g"
+      }
+    }
   },
   {
     "id": 8,
@@ -506,7 +580,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Star-K (Parve)",
       "Rabbi Schneebalg"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2093 kJ / 500 kcal",
+      "Vetten": "25,1 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Koolhydraten": "62,4 g",
+      "Waarvan suikers": "4,7 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "4,4 g",
+      "Zout": "0,8 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/10.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 9,
@@ -558,7 +647,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Star-K (Parve)",
       "Rabbi Schneebalg"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2082 kJ / 498 kcal",
+      "Vetten": "25,3 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "4,5 g",
+      "Vezels": "4 g",
+      "Eiwitten": "4,5 g",
+      "Zout": "1,4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/8.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 33,
@@ -583,7 +687,20 @@ window.KPI_PRODUCTS = [
       "Rabbi Schneebalg",
       "Star-K (Parve)"
     ],
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1972 kJ / 471 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "2,3 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "5,4 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/12.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 34,
@@ -608,7 +725,20 @@ window.KPI_PRODUCTS = [
       "Rabbi Schneebalg",
       "Star-K (Parve)"
     ],
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2046 kJ / 488 kcal",
+      "Vetten": "22 g",
+      "Waarvan verzadigde vetzuren": "2,3 g",
+      "Koolhydraten": "64 g",
+      "Waarvan suikers": "2,5 g",
+      "Vezels": "4,2 g",
+      "Eiwitten": "6,5 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/14.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 35,
@@ -633,7 +763,20 @@ window.KPI_PRODUCTS = [
       "Rabbi Schneebalg",
       "Star-K (Parve)"
     ],
-    "productInfo": {}
+    "productInfo": {},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1972 kJ / 471 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "2,3 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "5,4 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261114-meter16-batch1/16.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 10,
