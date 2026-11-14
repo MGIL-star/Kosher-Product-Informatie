@@ -1163,7 +1163,38 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1464 kJ / 350 kcal",
+      "Vetten": "1,25 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "40 g",
+      "Vezels": "0 g",
+      "Eiwitten": "< 2,5 g",
+      "Natrium": "237,5 mg",
+      "Zout": "0,59 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "40 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (40 g)",
+      "values": {
+        "Energie": "140 kcal",
+        "Vetten": "0.5 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "32 g",
+        "Waarvan suikers": "16 g",
+        "Vezels": "0 g",
+        "Eiwitten": "<1 g",
+        "Natrium": "95 mg",
+        "Toegevoegde suikers": "16 g"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/6.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 13,
@@ -1212,7 +1243,36 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1860 kJ / 444 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "88,89 g",
+      "Vezels": "100 g",
+      "Eiwitten": "0 g",
+      "Natrium": "55,56 mg",
+      "Zout": "0,14 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (9 g)",
+      "values": {
+        "Energie": "40 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "0 g",
+        "Waarvan suikers": "8 g",
+        "Vezels": "9 g",
+        "Eiwitten": "0 g",
+        "Natrium": "5 mg"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/8.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Etiket vermeldt 0 g koolhydraten, 9 g vezels en 8 g suikers per 9 g; alle waarden letterlijk overgenomen, zonder zelf een correctie te veronderstellen."
   },
   {
     "id": 14,
@@ -1315,7 +1375,39 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1521 kJ / 364 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "77,27 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0 g",
+      "Eiwitten": "< 4,55 g",
+      "Natrium": "204,55 mg",
+      "Zout": "0,51 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "45,45 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (22 g)",
+      "values": {
+        "Energie": "80 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "17 g",
+        "Waarvan suikers": "0 g",
+        "Vezels": "0 g",
+        "Eiwitten": "<1 g",
+        "Natrium": "45 mg",
+        "Toegevoegde suikers": "10 g"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/2.jpg",
+    "nutritionChecked": "2026-11-14",
+    "nutritionReviewNote": "Etiket vermeldt 0 g totale suikers en 10 g toegevoegde suikers per 22 g; beide letterlijk overgenomen, zonder zelf een correctie te veronderstellen."
   },
   {
     "id": 44,
@@ -1356,7 +1448,38 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1494 kJ / 357 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "85,71 g",
+      "Waarvan suikers": "85,71 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "85,71 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (7 g)",
+      "values": {
+        "Energie": "25 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "6 g",
+        "Waarvan suikers": "6 g",
+        "Vezels": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg",
+        "Toegevoegde suikers": "6 g"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/14.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 45,
@@ -1397,7 +1520,35 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1569 kJ / 375 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "87,5 g",
+      "Waarvan suikers": "87,5 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Toegevoegde suikers": "87,5 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (8 g)",
+      "values": {
+        "Energie": "30 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "7 g",
+        "Waarvan suikers": "7 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg",
+        "Toegevoegde suikers": "7 g"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/12.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 46,
@@ -1438,7 +1589,35 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1674 kJ / 400 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "100 g",
+      "Waarvan suikers": "100 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Transvetten": "0 g",
+      "Toegevoegde suikers": "100 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (6 g)",
+      "values": {
+        "Energie": "24 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "6 g",
+        "Waarvan suikers": "6 g",
+        "Eiwitten": "0 g",
+        "Natrium": "0 mg",
+        "Toegevoegde suikers": "6 g"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/10.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 47,
@@ -1485,7 +1664,38 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbi M. Weissmandl (Parve)",
       "Rav of Nitra, Monsey"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1506 kJ / 360 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "44 g",
+      "Vezels": "0 g",
+      "Eiwitten": "< 4 g",
+      "Natrium": "220 mg",
+      "Zout": "0,55 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "44 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per portie (25 g)",
+      "values": {
+        "Energie": "90 kcal",
+        "Vetten": "0 g",
+        "Waarvan verzadigde vetzuren": "0 g",
+        "Koolhydraten": "20 g",
+        "Waarvan suikers": "11 g",
+        "Vezels": "0 g",
+        "Eiwitten": "<1 g",
+        "Natrium": "55 mg",
+        "Toegevoegde suikers": "11 g"
+      }
+    },
+    "nutritionSource": "source-labels/20261114-snoep/4.jpg",
+    "nutritionChecked": "2026-11-14"
   },
   {
     "id": 16,
