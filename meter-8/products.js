@@ -2011,15 +2011,15 @@ window.KPI_PRODUCTS = [
     "category": "Kruidenmixen",
     "variant": "185 g",
     "ean": "8718781935030",
-    "ingredients": "Zout, komijn, kerrie, paprika, E621, koriander, bouillon, knoflook, anijs, kaneel, venkel, kurkuma, gember, mosterd, dextrose, laurierblad, chili.",
+    "ingredients": "Zout, zoethout wortel gemalen, peper zwart gemalen, foenigrec gemalen, komijnzaad gemalen, paprikapoeder mild, smaakversterker E621, koriander gemalen, plantaardige vet diamant goud, suiker, maiszetmeel, aardappel zetmeel, aroma, kurkuma gemalen, knoflook poeder, uienpoeder, peper wit gemalen, kiparoma, dextrose, anijszaad gemalen, kaneel gemalen, venkel gemalen, gember gemalen, mosterdzaad gemalen.",
     "allergens": [
-      "MOSTERD"
+      "Mosterd"
     ],
-    "kosher": "PIG Amsterdam - Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-shoarma-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {},
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden. Eerdere verwisseling met de ingrediënten van curry masala gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Schapkaartje uitsluitend gebruikt voor de barcode; gewicht uit eerdere gebruikersopgave behouden. Eerdere verwisseling met de ingrediënten van curry masala gecorrigeerd op basis van bij elkaar horende voor- en achteretiketten. Productspecificatie ontvangen op 16 november 2026: ingrediëntendeclaratie en voedingswaarden overgenomen. Bestaande productfoto, gewicht, barcode en sporenmelding van het etiket behouden. Allergenenmatrix in specificatie niet ingevuld; mosterd bevestigd door ingrediëntendeclaratie.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2028,13 +2028,28 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "source-labels/20261009-albadya-07.jpg",
       "source-labels/20261009-albadya-08.jpg",
-      "source-labels/20261009-albadya-09.jpg"
+      "source-labels/20261009-albadya-09.jpg",
+      "source-labels/ab23350-nl-x-6-shoarmakruiden-185-gr-albadya-productspecificatie.pdf"
     ],
-    "ingredientsSource": "source-labels/20261009-albadya-08.jpg",
-    "ingredientsChecked": "2026-10-09",
+    "ingredientsSource": "source-labels/ab23350-nl-x-6-shoarmakruiden-185-gr-albadya-productspecificatie.pdf",
+    "ingredientsChecked": "2026-11-16",
     "ingredientsPartial": false,
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutrition": {
+      "Energie": "1084 kJ / 258 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "1,0 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "8,0 g",
+      "Koolhydraten": "37 g",
+      "Waarvan suikers": "2,4 g",
+      "Vezels": "12 g",
+      "Eiwitten": "9,5 g",
+      "Zout": "26,0 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/ab23350-nl-x-6-shoarmakruiden-185-gr-albadya-productspecificatie.pdf",
+    "nutritionChecked": "2026-11-16"
   },
   {
     "id": 26,
@@ -2073,13 +2088,15 @@ window.KPI_PRODUCTS = [
     "category": "Kruidenmixen",
     "variant": "165 g",
     "ean": "8718781935429",
-    "ingredients": "100% gemengde kruiden en specerijen: paprikapoeder, komijnzaad, gember, kurkuma, witte peper.",
-    "allergens": [],
-    "kosher": "PIG Amsterdam - Rabbijn Toledano",
+    "ingredients": "Zout, paprikapoeder mild, kurkuma gemalen, tarwezetmeel meritena 200, komijnzaad gemalen, gember gemalen, peper zwart gemalen, dextrose.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-ras-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {},
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Gewicht 165 g uit eerdere gebruikersopgave behouden; nieuwe gewichtsaanduiding deels door reflectie bedekt.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Gewicht 165 g uit eerdere gebruikersopgave behouden; nieuwe gewichtsaanduiding deels door reflectie bedekt. Productspecificatie ontvangen op 16 november 2026: ingrediëntendeclaratie en voedingswaarden overgenomen. Bestaande productfoto, gewicht, barcode en sporenmelding van het etiket behouden. Vraagtekens in allergenenmatrix niet toegelicht; bestaande sporenmelding niet vervangen.",
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
@@ -2088,13 +2105,28 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "source-labels/20261009-albadya-13.jpg",
       "source-labels/20261009-albadya-14.jpg",
-      "source-labels/20261009-albadya-15.jpg"
+      "source-labels/20261009-albadya-15.jpg",
+      "source-labels/ab23364-nl-x-6-ras-el-hanout-lamsvlees-gril-165-g-productspecificatie.pdf"
     ],
-    "ingredientsSource": "source-labels/20261009-albadya-15.jpg",
-    "ingredientsChecked": "2026-10-09",
+    "ingredientsSource": "source-labels/ab23364-nl-x-6-ras-el-hanout-lamsvlees-gril-165-g-productspecificatie.pdf",
+    "ingredientsChecked": "2026-11-16",
     "ingredientsPartial": false,
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutrition": {
+      "Energie": "999 kJ / 238 kcal",
+      "Vetten": "6,1 g",
+      "Waarvan verzadigde vetzuren": "1,0 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "3,7 g",
+      "Koolhydraten": "39 g",
+      "Waarvan suikers": "1,9 g",
+      "Vezels": "7,2 g",
+      "Eiwitten": "6,0 g",
+      "Zout": "32,3 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/ab23364-nl-x-6-ras-el-hanout-lamsvlees-gril-165-g-productspecificatie.pdf",
+    "nutritionChecked": "2026-11-16"
   },
   {
     "id": 28,
@@ -2103,13 +2135,13 @@ window.KPI_PRODUCTS = [
     "category": "Pure specerijen",
     "variant": "135 g",
     "ean": "8718781233624",
-    "ingredients": "100% grove paprika.",
+    "ingredients": "Pul biber / grove peper.",
     "allergens": [],
-    "kosher": "PIG Amsterdam - Rabbijn Toledano",
+    "kosher": "PIG Amsterdam Rabbijn Toledano",
     "image": "images/albadya-pulbiber-photo-20261008.png",
     "imageIllustration": false,
     "productInfo": {},
-    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto.",
+    "reviewNotes": "Etiketfoto’s ontvangen op 9 oktober 2026. Sporenwaarschuwing en barcode rechtstreeks overgenomen. Hechser PIG Amsterdam door gebruiker bevestigd op 9 oktober 2026. Bestaande bewerkte productafbeelding behouden. Netto gewicht bevestigd op verpakkingsfoto. Productspecificatie ontvangen op 16 november 2026: ingrediëntendeclaratie en voedingswaarden overgenomen. Bestaande productfoto, gewicht, barcode en sporenmelding van het etiket behouden. Vraagtekens in allergenenmatrix niet toegelicht; bestaande sporenmelding niet vervangen. Zoutwaarde ontbreekt in specificatie en is niet toegevoegd.",
     "imageEdited": true,
     "barcodeNeedsCheck": false,
     "barcodeSource": "source-labels/20261009-albadya-17.jpg",
@@ -2117,14 +2149,28 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "source-labels/20261009-albadya-16.jpg",
       "source-labels/20261009-albadya-17.jpg",
-      "source-labels/20261009-albadya-18.jpg"
+      "source-labels/20261009-albadya-18.jpg",
+      "source-labels/ab23224-nl-x-6-pulbiber-135-gr.-albadya-productspecificatie.pdf"
     ],
     "mayContain": "Kan sporen bevatten van sesam, selderij, mosterd en gluten.",
-    "ingredientsSource": "source-labels/20261009-albadya-18.jpg",
-    "ingredientsChecked": "2026-10-09",
+    "ingredientsSource": "source-labels/ab23224-nl-x-6-pulbiber-135-gr.-albadya-productspecificatie.pdf",
+    "ingredientsChecked": "2026-11-16",
     "ingredientsPartial": false,
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutrition": {
+      "Energie": "1184 kJ / 282 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "11 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "7,2 g",
+      "Vezels": "35 g",
+      "Eiwitten": "13 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/ab23224-nl-x-6-pulbiber-135-gr.-albadya-productspecificatie.pdf",
+    "nutritionChecked": "2026-11-16"
   },
   {
     "id": 29,
