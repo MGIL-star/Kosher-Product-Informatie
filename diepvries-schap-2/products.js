@@ -461,7 +461,7 @@ window.KPI_PRODUCTS = [
       "Suikers": "3 g",
       "waarvan toegevoegde suikers": "<1 g",
       "Eiwitten": "6 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "80 mg",
       "IJzer": "0,1 mg"
     },
@@ -776,7 +776,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "nutrition": {
-      "Energie": "1060 kJ / 253,2 kcal",
+      "Energie": "1060 kJ / 254 kcal",
       "Vetten": "12,3 g",
       "waarvan verzadigde vetzuren": "3,2 g",
       "Koolhydraten": "19,5 g",
@@ -945,7 +945,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "nutrition": {
-      "Energie": "1598,29 kJ / 382 kcal",
+      "Energie": "1598 kJ / 382 kcal",
       "Vetten": "21 g",
       "waarvan verzadigde vetzuren": "8,4 g",
       "Koolhydraten": "42 g",
@@ -1113,7 +1113,7 @@ window.KPI_PRODUCTS = [
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
@@ -1296,54 +1296,66 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "brand": "Odel",
-    "name": "Calzone Margherita",
-    "englishName": "",
+    "name": "Calzone met Champignons",
+    "englishName": "Calzone Mushrooms",
     "variant": "150 g",
     "category": "Pizza",
-    "ingredients": "tarwebloem, mozzarella (23%, melk, zout, stremsel, melkzuurculturen), water, tomatenpuree, zonnebloemolie, zout, biergist, gemoute tarwebloem, suiker, oregano, zwarte peper",
+    "ingredients": "Tarwebloem, mozzarella (15%) (melk, zout, stremsel, melkzuurculturen), tomatenpuree, champignons (15%), zonnebloemolie, zout, biergist, gemoute tarwebloem, suiker, oregano, peterselie, knoflook, zwarte peper.",
     "allergens": [
-      "TARWE",
-      "MELK"
+      "Tarwe (gluten)",
+      "Melk"
     ],
     "allergensConfirmedAbsent": false,
-    "allergenNote": "Kan sporen van soja en mosterd bevatten",
-    "kosher": "Badatz Igud Harabonim",
-    "ean": "3760116200202",
-    "image": "./images/22-calzone-web.jpg",
+    "allergenNote": "Kan sporen van soja en mosterd bevatten.",
+    "kosher": "Beit Yosef Montreal (Chalav Yisroel)",
+    "ean": "3760116200219",
+    "image": "./images/22-calzone-champignons.png",
     "warning": "",
     "note": "Chalav Yisrael en Pas Yisroel. Geproduceerd in Italië",
     "reviewStatus": "label-verified",
-    "quantitySource": "Actuele fysieke verpakking; foto 47.jpg",
+    "quantitySource": "Aangeleverde voorkant Calzone Mushrooms, 12 november 2026",
     "ingredientsComplete": true,
-    "barcodeSource": "Geen barcode zichtbaar op foto’s 47 en 48.",
+    "barcodeSource": "source-labels/20261112-aanvulling/calzone-champignons-barcode.jpg",
+    "barcodeChecked": "2026-11-12",
     "labelSource": {
-      "front": "47.jpg",
-      "back": "48.jpg",
-      "priority": "Actuele fysieke verpakking van gebruiker"
+      "back": "source-labels/20261112-aanvulling/calzone-champignons.jpg",
+      "priority": "Actuele fysieke verpakking van gebruiker",
+      "front": "images/22-calzone-champignons.png"
     },
     "veganStatus": "Niet expliciet bevestigd op de verpakking",
-    "kosherStatus": "Dairy · Chalav Yisrael",
+    "kosherStatus": "",
     "preparation": "Laat op kamertemperatuur ontdooien. Bak 4–6 minuten in een voorverwarmde oven op 200–220 °C",
-    "imageSource": {
-      "type": "webshop",
-      "page": "https://kosherfood.it/en/products/kosher-calzone-margherita-odel-150-gr",
-      "url": "https://kosherfood.it/cdn/shop/files/KOSHER_CALZONE_MARGHERITA_ODEL_150_GR..jpg?v=1778779161"
-    },
-    "ingredientReviewDate": "2026-09-10",
-    "kosherSource": "Eigen verpakkingsfoto’s 47.jpg en 48.jpg",
-    "barcodeCandidate": "3760116200202",
-    "barcodeCandidateSource": "Foodfactor noemt deze geldige code, maar Kodi Foods geeft een afwijkende foutieve code. Nog op verpakking te bevestigen.",
+    "ingredientReviewDate": "2026-11-12",
+    "kosherSource": "images/22-calzone-champignons.png",
     "nutrition": {
-      "Energie": "957 kJ / 227 kcal",
-      "Vetten": "6,1 g",
-      "waarvan verzadigde vetzuren": "2,8 g",
-      "Koolhydraten": "31 g",
-      "waarvan suikers": "2,3 g",
-      "Vezels": "2,2 g",
-      "Eiwitten": "10,8 g",
-      "Zout": "1,2 g"
+      "Energie": "897 kJ / 212 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "32 g",
+      "Waarvan suikers": "2,3 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "9,6 g"
     },
-    "nutritionUnit": "per 100 g"
+    "nutritionUnit": "per 100 g",
+    "previousVariant": {
+      "name": "Calzone Margherita",
+      "image": "./images/22-calzone-web.jpg",
+      "ean": "3760116200202",
+      "imageSource": {
+        "type": "webshop",
+        "page": "https://kosherfood.it/en/products/kosher-calzone-margherita-odel-150-gr",
+        "url": "https://kosherfood.it/cdn/shop/files/KOSHER_CALZONE_MARGHERITA_ODEL_150_GR..jpg?v=1778779161"
+      },
+      "labelSource": {
+        "front": "47.jpg",
+        "back": "48.jpg",
+        "priority": "Actuele fysieke verpakking van gebruiker"
+      }
+    },
+    "ingredientsSource": "source-labels/20261112-aanvulling/calzone-champignons.jpg",
+    "nutritionSource": "source-labels/20261112-aanvulling/calzone-champignons.jpg",
+    "nutritionChecked": "2026-11-12",
+    "kosherChecked": "2026-11-12"
   },
   {
     "id": 23,
@@ -1401,7 +1413,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "1": {
     "nutrition": {
-      "Energie": "1000 kJ / 238,94 kcal",
+      "Energie": "1000 kJ / 239 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1433,7 +1445,7 @@ window.KPI_PRODUCTS = [
   },
   "2": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1465,7 +1477,7 @@ window.KPI_PRODUCTS = [
   },
   "3": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1497,7 +1509,7 @@ window.KPI_PRODUCTS = [
   },
   "4": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0,44 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1529,7 +1541,7 @@ window.KPI_PRODUCTS = [
   },
   "5": {
     "nutrition": {
-      "Energie": "1073,45 kJ / 256,64 kcal",
+      "Energie": "1073 kJ / 257 kcal",
       "Vetten": "0,44 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1561,7 +1573,7 @@ window.KPI_PRODUCTS = [
   },
   "6": {
     "nutrition": {
-      "Energie": "1000 kJ / 238,94 kcal",
+      "Energie": "1000 kJ / 239 kcal",
       "Vetten": "0 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1593,7 +1605,7 @@ window.KPI_PRODUCTS = [
   },
   "7": {
     "nutrition": {
-      "Energie": "1000 kJ / 238,94 kcal",
+      "Energie": "1000 kJ / 239 kcal",
       "Vetten": "0,88 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1625,7 +1637,7 @@ window.KPI_PRODUCTS = [
   },
   "8": {
     "nutrition": {
-      "Energie": "1037,17 kJ / 247,79 kcal",
+      "Energie": "1037 kJ / 248 kcal",
       "Vetten": "0,88 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -1657,7 +1669,7 @@ window.KPI_PRODUCTS = [
   },
   "19": {
     "nutrition": {
-      "Energie": "945,16 kJ / 225,81 kcal",
+      "Energie": "945 kJ / 226 kcal",
       "Vetten": "13,98 g",
       "waarvan verzadigde vetzuren": "11,83 g",
       "Transvetten": "0 g",
@@ -1689,7 +1701,7 @@ window.KPI_PRODUCTS = [
   },
   "24": {
     "nutrition": {
-      "Energie": "1007,41 kJ / 240,74 kcal",
+      "Energie": "1007 kJ / 241 kcal",
       "Vetten": "3,7 g",
       "waarvan verzadigde vetzuren": "1,85 g",
       "Transvetten": "0 g",
@@ -1700,7 +1712,7 @@ window.KPI_PRODUCTS = [
       "Suikers": "5,56 g",
       "waarvan toegevoegde suikers": "<1,85 g",
       "Eiwitten": "11,11 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "148,15 mg",
       "IJzer": "0,19 mg"
     },
@@ -1729,4 +1741,38 @@ window.KPI_PRODUCTS = [
   for (const product of window.KPI_PRODUCTS) {
     if (corrections[product.id]) Object.assign(product, corrections[product.id]);
   }
+}());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "1": "1,24 g",
+  "2": "1,26 g",
+  "3": "1,19 g",
+  "4": "1,24 g",
+  "5": "1,26 g",
+  "6": "1,48 g",
+  "7": "1,17 g",
+  "8": "1,24 g",
+  "14": "0,95 g",
+  "17": "0,15 g",
+  "18": "0,55 g",
+  "19": "0,26 g",
+  "20": "0,3 g",
+  "24": "0,93 g",
+  "25": "0,71 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+   }
+  }
+  product.nutrition = ordered;
+ }
 }());

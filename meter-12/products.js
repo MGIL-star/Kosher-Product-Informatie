@@ -45,6 +45,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.05
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2021 kJ / 483 kcal",
+      "Vetten": "29,3 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "30,6 g",
+      "Waarvan suikers": "9,7 g",
+      "Natrium": "14,1 mg",
+      "Zout": "0,04 g",
+      "Eiwitten": "14,2 g"
     }
   },
   {
@@ -92,6 +103,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.05
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1946 kJ / 465 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "3 g",
+      "Koolhydraten": "42,3 g",
+      "Waarvan suikers": "7,8 g",
+      "Natrium": "0,14 mg",
+      "Zout": "0 g",
+      "Eiwitten": "10,9 g"
     }
   },
   {
@@ -140,6 +162,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.05
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1702 kJ / 407 kcal",
+      "Vetten": "17,5 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "39,1 g",
+      "Waarvan suikers": "9 g",
+      "Natrium": "0,04 mg",
+      "Zout": "0 g",
+      "Eiwitten": "11 g"
     }
   },
   {
@@ -187,6 +220,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.05
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1803 kJ / 431 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "3 g",
+      "Koolhydraten": "36,4 g",
+      "Waarvan suikers": "8,5 g",
+      "Natrium": "12 mg",
+      "Zout": "0,03 g",
+      "Eiwitten": "12,8 g"
     }
   },
   {
@@ -234,6 +278,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.8825910931174089
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1895 kJ / 453 kcal",
+      "Vetten": "16,5 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "18 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,03 g",
+      "Eiwitten": "11,4 g"
     }
   },
   {
@@ -281,6 +336,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.8837837837837837
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1870 kJ / 447 kcal",
+      "Vetten": "16,6 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "9,7 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,1 g",
+      "Eiwitten": "11,9 g"
     }
   },
   {
@@ -328,6 +394,17 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.8703703703703703
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1839 kJ / 439 kcal",
+      "Vetten": "15,8 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "54 g",
+      "Waarvan suikers": "9,8 g",
+      "Cholesterol": "0 mg",
+      "Zout": "0,02 g",
+      "Eiwitten": "12,4 g"
     }
   },
   {
@@ -373,6 +450,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.40472175379426645
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutrition": {
+      "Energie": "778 kJ / 184 kcal",
+      "Vetten": "2,9 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "32 g",
+      "Waarvan suikers": "6 g",
+      "Transvetten": "0 g",
+      "Vezels": "1 g",
+      "Zout": "0,52 g",
+      "Cholesterol": "50 mg",
+      "Eiwitten": "5,7 g"
     }
   },
   {
@@ -416,6 +506,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.72
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutrition": {
+      "Energie": "527 kJ / 124 kcal",
+      "Vetten": "1,4 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "25 g",
+      "Waarvan suikers": "18 g",
+      "Transvetten": "0 g",
+      "Vezels": "< 0,5 g",
+      "Zout": "0,12 g",
+      "Cholesterol": "5 mg",
+      "Eiwitten": "2,9 g"
     }
   },
   {
@@ -462,6 +565,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.72
+    },
+    "nutritionUnit": "per 100 g bereid product",
+    "nutrition": {
+      "Energie": "1449 kJ / 346 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "9,8 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "24 g",
+      "Transvetten": "0 g",
+      "Vezels": "0,9 g",
+      "Zout": "0,75 g",
+      "Cholesterol": "105 mg",
+      "Eiwitten": "6 g"
     }
   },
   {
@@ -506,6 +622,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.72
+    },
+    "nutritionUnit": "per 100 g bereid met room (30% vet)",
+    "nutrition": {
+      "Energie": "1033 kJ / 248 kcal",
+      "Vetten": "17 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "21 g",
+      "Waarvan suikers": "17 g",
+      "Transvetten": "0,5 g",
+      "Vezels": "< 0,5 g",
+      "Zout": "0,15 g",
+      "Cholesterol": "50 mg",
+      "Eiwitten": "2,7 g"
     }
   },
   {
@@ -548,6 +677,16 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.77
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1581 kJ / 372 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "93 g",
+      "Waarvan suikers": "37 g",
+      "Zout": "0 g",
+      "Eiwitten": "0 g"
     }
   },
   {
@@ -590,6 +729,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.77
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1523 kJ / 364 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "91 g",
+      "Waarvan suikers": "40 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "1370 mg",
+      "Zout": "3,43 g",
+      "Eiwitten": "0 g"
     }
   },
   {
@@ -633,7 +785,17 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7815384615384615
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1595 kJ / 376 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "88 g",
+      "Waarvan suikers": "37 g",
+      "Zout": "0 g",
+      "Eiwitten": "2,7 g"
+    }
   },
   {
     "id": 15,
@@ -685,7 +847,17 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
     "kosherSource": "source-labels/20261009-aanvulling-42.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1632 kJ / 384 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "96 g",
+      "Waarvan suikers": "90 g",
+      "Zout": "0 g",
+      "Eiwitten": "0 g"
+    }
   },
   {
     "id": 16,
@@ -727,6 +899,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.77
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1523 kJ / 364 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "91 g",
+      "Waarvan suikers": "39 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "107 mg",
+      "Zout": "0,27 g",
+      "Eiwitten": "0 g"
     }
   },
   {
@@ -773,6 +958,25 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.0463458110516934
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1753 kJ / 419 kcal",
+      "Vetten": "18,92 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "59,46 g",
+      "Waarvan suikers": "40,54 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vezels": "8,11 g",
+      "Toegevoegde suikers": "0 g",
+      "Natrium": "10,81 mg",
+      "Zout": "0,03 g",
+      "Calcium": "89,19 mg",
+      "IJzer": "4,59 mg",
+      "Kalium": "648,65 mg",
+      "Magnesium": "216,22 mg",
+      "Eiwitten": "8,11 g"
     }
   },
   {
@@ -819,6 +1023,25 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.0463458110516934
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1741 kJ / 416 kcal",
+      "Vetten": "21,62 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "59,46 g",
+      "Waarvan suikers": "40,54 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vezels": "8,11 g",
+      "Toegevoegde suikers": "0 g",
+      "Natrium": "2,7 mg",
+      "Zout": "0,01 g",
+      "Calcium": "89,19 mg",
+      "IJzer": "3,24 mg",
+      "Kalium": "410,81 mg",
+      "Magnesium": "162,16 mg",
+      "Eiwitten": "8,11 g"
     }
   },
   {
@@ -863,6 +1086,21 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.0449640287769784
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1696 kJ / 405 kcal",
+      "Vetten": "21,62 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "54,05 g",
+      "Waarvan suikers": "37,84 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vezels": "8,11 g",
+      "Toegevoegde suikers": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Eiwitten": "8,11 g"
     }
   },
   {
@@ -907,6 +1145,25 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.06959706959707
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1764 kJ / 422 kcal",
+      "Vetten": "18,92 g",
+      "Waarvan verzadigde vetzuren": "10,81 g",
+      "Koolhydraten": "62,16 g",
+      "Waarvan suikers": "45,95 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vezels": "8,11 g",
+      "Toegevoegde suikers": "0 g",
+      "Natrium": "5,41 mg",
+      "Zout": "0,01 g",
+      "Calcium": "40,54 mg",
+      "IJzer": "2,97 mg",
+      "Kalium": "594,59 mg",
+      "Magnesium": "224,32 mg",
+      "Eiwitten": "5,41 g"
     }
   },
   {
@@ -952,6 +1209,25 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.0463458110516934
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1741 kJ / 416 kcal",
+      "Vetten": "21,62 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "59,46 g",
+      "Waarvan suikers": "40,54 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Vezels": "8,11 g",
+      "Toegevoegde suikers": "0 g",
+      "Natrium": "2,7 mg",
+      "Zout": "0,01 g",
+      "Calcium": "89,19 mg",
+      "IJzer": "2,7 mg",
+      "Kalium": "478,38 mg",
+      "Magnesium": "162,16 mg",
+      "Eiwitten": "8,11 g"
     }
   },
   {
@@ -999,6 +1275,21 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6868629671574179
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1750 kJ / 418 kcal",
+      "Vetten": "21,82 g",
+      "Waarvan verzadigde vetzuren": "1,82 g",
+      "Koolhydraten": "50,91 g",
+      "Waarvan suikers": "43,64 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Vezels": "7,27 g",
+      "Toegevoegde suikers": "0 g",
+      "Eiwitten": "7,27 g"
     }
   },
   {
@@ -1047,6 +1338,21 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6868629671574179
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1750 kJ / 418 kcal",
+      "Vetten": "21,82 g",
+      "Waarvan verzadigde vetzuren": "1,82 g",
+      "Koolhydraten": "50,91 g",
+      "Waarvan suikers": "43,64 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Vezels": "7,27 g",
+      "Toegevoegde suikers": "0 g",
+      "Eiwitten": "9,09 g"
     }
   },
   {
@@ -1108,7 +1414,22 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "barcodeSource": "source-labels/20261009-aanvulling-44.jpg",
     "barcodeChecked": "2026-10-09",
-    "barcodeNeedsCheck": false
+    "barcodeNeedsCheck": false,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1674 kJ / 400 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "1,82 g",
+      "Koolhydraten": "49,09 g",
+      "Waarvan suikers": "41,82 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Vezels": "7,27 g",
+      "Toegevoegde suikers": "0 g",
+      "Eiwitten": "9,09 g"
+    }
   },
   {
     "id": 25,
@@ -1199,6 +1520,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.47
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2060 kJ / 498 kcal",
+      "Vetten": "36 g",
+      "Waarvan verzadigde vetzuren": "22 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "10 g",
+      "Vezels": "< 0,1 g",
+      "Eiwitten": "7 g",
+      "Zout": "0,28 g",
+      "Waarvan polyolen": "43 g"
     }
   },
   {
@@ -1245,7 +1578,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.8925750394944707
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2470 kJ / 593 kcal",
+      "Vetten": "42 g",
+      "Waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "46 g",
+      "Waarvan suikers": "44 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "7,4 g",
+      "Zout": "0,18 g",
+      "Cholesterol": "19 mg"
+    }
   },
   {
     "id": 28,
@@ -1292,7 +1637,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.950479233226837
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2440 kJ / 586 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "46 g",
+      "Waarvan suikers": "43 g",
+      "Vezels": "2,8 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "0,15 g",
+      "Cholesterol": "15 mg"
+    }
   },
   {
     "id": 29,
@@ -1338,7 +1695,61 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1.8842592592592593
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2480 kJ / 596 kcal",
+      "Vetten": "43 g",
+      "Waarvan verzadigde vetzuren": "20 g",
+      "Koolhydraten": "45 g",
+      "Waarvan suikers": "43 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "7,4 g",
+      "Zout": "0,15 g",
+      "Cholesterol": "15 mg"
+    }
+  },
+  {
+    "id": 75,
+    "brand": "Schmerling’s",
+    "name": "Melkchocolade met Karamel en Zeezout",
+    "category": "Chocoladetabletten",
+    "variant": "100 g",
+    "ean": "097643083859",
+    "ingredients": "Suiker, cacaoboter, hazelnoten (19%), volle melkpoeder, cacaomassa, amandelen, zeezout, aroma (karamel), vanille-extract.",
+    "allergens": [
+      "Melk",
+      "Hazelnoten",
+      "Amandelen"
+    ],
+    "mayContain": "",
+    "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
+    "image": "images/schmerlings-caramel-zeezout.png",
+    "imagePresentation": {
+      "corners": [[0.782, 0.067], [0.782, 0.904], [0.22, 0.904], [0.22, 0.067]],
+      "aspectRatio": 2.234
+    },
+    "imageEdited": true,
+    "sourcePhotos": [
+      "source-labels/20261111-chocolade/75-etiket.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261111-chocolade/75-etiket.jpg"
+    ],
+    "productInfo": {},
+    "searchName": "Rosemarie Caramel Sea Salt",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2452 kJ / 589 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "19 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "45 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "6,6 g",
+      "Zout": "0,53 g",
+      "Cholesterol": "14 mg"
+    }
   },
   {
     "id": 30,
@@ -1383,6 +1794,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.5239043824701195
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2470 kJ / 593 kcal",
+      "Vetten": "42 g",
+      "Waarvan verzadigde vetzuren": "26 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "46 g",
+      "Vezels": "0,3 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "0,28 g",
+      "Cholesterol": "28 mg"
     }
   },
   {
@@ -1424,6 +1847,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.49182561307901906
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2400 kJ / 574 kcal",
+      "Vetten": "40 g",
+      "Waarvan verzadigde vetzuren": "22 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "41 g",
+      "Vezels": "7,1 g",
+      "Eiwitten": "5,4 g",
+      "Zout": "< 0,01 g",
+      "Cholesterol": "1 mg"
     }
   },
   {
@@ -1468,6 +1903,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.47
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2480 kJ / 595 kcal",
+      "Vetten": "43 g",
+      "Waarvan verzadigde vetzuren": "24 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "44 g",
+      "Vezels": "0,6 g",
+      "Eiwitten": "8,2 g",
+      "Zout": "0,25 g",
+      "Cholesterol": "26 mg"
     }
   },
   {
@@ -1511,6 +1958,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.47
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2470 kJ / 593 kcal",
+      "Vetten": "42 g",
+      "Waarvan verzadigde vetzuren": "26 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "47 g",
+      "Vezels": "0 g",
+      "Eiwitten": "7,2 g",
+      "Zout": "0,28 g",
+      "Cholesterol": "29 mg"
     }
   },
   {
@@ -1554,6 +2013,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.4930966469428008
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2450 kJ / 588 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "25 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "46 g",
+      "Vezels": "1,5 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "0,25 g",
+      "Cholesterol": "26 mg"
     }
   },
   {
@@ -1596,7 +2067,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.4634146341463415
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2460 kJ / 595 kcal",
+      "Vetten": "46 g",
+      "Waarvan verzadigde vetzuren": "29 g",
+      "Koolhydraten": "32 g",
+      "Waarvan suikers": "28 g",
+      "Vezels": "10 g",
+      "Eiwitten": "8,4 g",
+      "Zout": "0,03 g",
+      "Cholesterol": "1 mg"
+    }
   },
   {
     "id": 35,
@@ -1638,7 +2121,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.49022892238972643
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2330 kJ / 563 kcal",
+      "Vetten": "44 g",
+      "Waarvan verzadigde vetzuren": "28 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "13 g",
+      "Vezels": "16 g",
+      "Eiwitten": "13 g",
+      "Zout": "0,03 g",
+      "Cholesterol": "0,15 g"
+    }
   },
   {
     "id": 36,
@@ -1686,7 +2181,23 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.4018348623853211
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2372 kJ / 567 kcal",
+      "Vetten": "38 g",
+      "Waarvan verzadigde vetzuren": "23 g",
+      "Koolhydraten": "46 g",
+      "Waarvan suikers": "46 g",
+      "Eiwitten": "9,7 g",
+      "Natrium": "172 mg",
+      "Zout": "0,43 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "46 mg"
+    },
+    "labelSources": [
+      "source-labels/20261111-chocolade/36-etiket.jpg"
+    ]
   },
   {
     "id": 37,
@@ -1733,7 +2244,23 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.4018348623853211
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2310 kJ / 552 kcal",
+      "Vetten": "35 g",
+      "Waarvan verzadigde vetzuren": "19,2 g",
+      "Koolhydraten": "48 g",
+      "Waarvan suikers": "47 g",
+      "Eiwitten": "9,3 g",
+      "Natrium": "121 mg",
+      "Zout": "0,3 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "23 mg"
+    },
+    "labelSources": [
+      "source-labels/20261111-chocolade/37-etiket.jpg"
+    ]
   },
   {
     "id": 38,
@@ -1934,12 +2461,26 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-fingers/groen-ingrediënten.jpg",
-      "source-labels/20261013-fingers/groen-barcode.jpg"
+      "source-labels/20261013-fingers/groen-barcode.jpg",
+      "source-labels/20261111-chocolade/64-etiket.jpg"
     ],
     "ingredientsSource": "source-labels/20261013-fingers/groen-ingrediënten.jpg",
     "ingredientsChecked": "2026-10-13",
     "barcodeSource": "source-labels/20261013-fingers/groen-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
+    "barcodeChecked": "2026-10-13",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2280 kJ / 545 kcal",
+      "Vetten": "33 g",
+      "Waarvan verzadigde vetzuren": "16 g",
+      "Koolhydraten": "52 g",
+      "Waarvan suikers": "46 g",
+      "Eiwitten": "9,4 g",
+      "Natrium": "93 mg",
+      "Zout": "0,23 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "19 mg"
+    }
   },
   {
     "id": 65,
@@ -1988,12 +2529,27 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
-      "source-labels/20261013-fingers/melkcrème-barcode.jpg"
+      "source-labels/20261013-fingers/melkcrème-barcode.jpg",
+      "source-labels/20261111-chocolade/65-etiket.jpg"
     ],
     "ingredientsSource": "source-labels/20261013-fingers/melkcrème-ingrediënten.jpg",
     "ingredientsChecked": "2026-10-13",
     "barcodeSource": "source-labels/20261013-fingers/melkcrème-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
+    "barcodeChecked": "2026-10-13",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2226 kJ / 532 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "16,9 g",
+      "Koolhydraten": "53 g",
+      "Waarvan suikers": "47 g",
+      "Vezels": "2,1 g",
+      "Eiwitten": "10,3 g",
+      "Natrium": "166 mg",
+      "Zout": "0,42 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "36 mg"
+    }
   },
   {
     "id": 66,
@@ -2004,7 +2560,7 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "imageEdited": true,
     "name": "Fingers Witte Chocolade met Wafel en Hazelnootcrème",
-    "ean": "7290119373031",
+    "ean": "7290119370351",
     "ingredients": "Witte chocolade (28%) (suiker, cacaoboter, melkpoeder, lactose, melkvet, emulgator (raapzaadlecithine), vanilline), melkchocolade, suiker, cacaoboter, cacaomassa, hazelnootpasta, tarwebloem (gluten), plantaardige oliën en vetten, sojameel, melkvet, emulgatoren (raapzaadlecithine, E476), vanilline, rijsmiddelen (E500ii, E503ii), zout, enzym (proteïnase).",
     "allergens": [
       "Tarwe (gluten)",
@@ -2022,12 +2578,26 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-fingers/wit-ingrediënten.jpg",
-      "source-labels/20261013-fingers/wit-barcode.jpg"
+      "source-labels/20261013-fingers/wit-barcode.jpg",
+      "source-labels/20261111-chocolade/66-etiket.jpg"
     ],
     "ingredientsSource": "source-labels/20261013-fingers/wit-ingrediënten.jpg",
     "ingredientsChecked": "2026-10-13",
     "barcodeSource": "source-labels/20261013-fingers/wit-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
+    "barcodeChecked": "2026-10-13",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2318 kJ / 554 kcal",
+      "Vetten": "34 g",
+      "Waarvan verzadigde vetzuren": "16,7 g",
+      "Koolhydraten": "52 g",
+      "Waarvan suikers": "46 g",
+      "Eiwitten": "8,6 g",
+      "Natrium": "90 mg",
+      "Zout": "0,23 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "19 mg"
+    }
   },
   {
     "id": 67,
@@ -2056,12 +2626,26 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-fingers/paars-ingrediënten.jpg",
-      "source-labels/20261013-fingers/paars-barcode.jpg"
+      "source-labels/20261013-fingers/paars-barcode.jpg",
+      "source-labels/20261111-chocolade/67-etiket.jpg"
     ],
     "ingredientsSource": "source-labels/20261013-fingers/paars-ingrediënten.jpg",
     "ingredientsChecked": "2026-10-13",
     "barcodeSource": "source-labels/20261013-fingers/paars-barcode.jpg",
-    "barcodeChecked": "2026-10-13"
+    "barcodeChecked": "2026-10-13",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2264 kJ / 541 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "17,4 g",
+      "Koolhydraten": "51 g",
+      "Waarvan suikers": "45 g",
+      "Eiwitten": "9,8 g",
+      "Natrium": "150 mg",
+      "Zout": "0,38 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "43 mg"
+    }
   },
   {
     "id": 41,
@@ -2106,7 +2690,25 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 4.065
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2324 kJ / 556 kcal",
+      "Vetten": "35,56 g",
+      "Waarvan verzadigde vetzuren": "17,78 g",
+      "Koolhydraten": "51,11 g",
+      "Waarvan suikers": "46,67 g",
+      "Vezels": "2,22 g",
+      "Eiwitten": "8,89 g",
+      "Natrium": "77,78 mg",
+      "Zout": "0,19 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "11,11 mg",
+      "Toegevoegde suikers": "46,67 g"
+    },
+    "labelSources": [
+      "source-labels/20261111-chocolade/41-etiket.jpg"
+    ]
   },
   {
     "id": 42,
@@ -2154,6 +2756,98 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 4.681818181818182
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2333 kJ / 558 kcal",
+      "Vetten": "34,62 g",
+      "Waarvan verzadigde vetzuren": "17,31 g",
+      "Koolhydraten": "51,92 g",
+      "Waarvan suikers": "44,23 g",
+      "Vezels": "1,92 g",
+      "Eiwitten": "5,77 g",
+      "Natrium": "67,31 mg",
+      "Zout": "0,17 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "19,23 mg",
+      "Toegevoegde suikers": "44,23 g"
+    },
+    "labelSources": [
+      "source-labels/20261111-chocolade/42-etiket.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "brand": "Elite",
+    "name": "Snap Wafelreep met Melkchocolade",
+    "category": "Chocoladerepen",
+    "variant": "45 g",
+    "ean": "815871015307",
+    "ingredients": "Melkchocolade (suiker, magere melkpoeder, cacaoboter, cacaomassa, melkvet, PGPR, raapzaadlecithine, kunstmatig aroma (vanilline)), tarwebloem, suiker, plantaardige vetten (palm en palmpit), plantaardige oliën (palm en palmpit), volle melkpoeder, sojameel, cacaopoeder (behandeld met alkali), melkvet, raapzaadlecithine, rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat), zout, kunstmatig aroma (vanilline), enzym (proteïnase), hazelnootpasta.",
+    "allergens": [
+      "Melk",
+      "Tarwe (gluten)",
+      "Soja",
+      "Hazelnoten"
+    ],
+    "mayContain": "Geproduceerd op apparatuur en/of in een fabriek waar ook noten, eieren en sesamzaad worden gebruikt. Niet geschikt voor mensen met bepaalde voedselallergieën.",
+    "kosher": "Badatz Edah HaChareidis (Chalav Yisroel)",
+    "kosherLines": [
+      "Badatz Edah HaChareidis (Chalav Yisroel)",
+      "Rabbinaat Nof HaGalil"
+    ],
+    "image": "images/elite-snap-packshot-20261112.png",
+    "imageEdited": true,
+    "sourcePhotos": [
+      "source-labels/20261112-aanvulling/snap-1.jpg",
+      "source-labels/20261112-aanvulling/snap-2.jpg",
+      "source-labels/20261112-aanvulling/snap-3.jpg",
+      "source-labels/20261112-aanvulling/snap-4.jpg"
+    ],
+    "labelSources": [
+      "source-labels/20261112-aanvulling/snap-1.jpg",
+      "source-labels/20261112-aanvulling/snap-2.jpg",
+      "source-labels/20261112-aanvulling/snap-3.jpg",
+      "source-labels/20261112-aanvulling/snap-4.jpg"
+    ],
+    "ingredientsSource": "source-labels/20261112-aanvulling/snap-3.jpg",
+    "ingredientsChecked": "2026-11-12",
+    "barcodeSource": "source-labels/20261112-aanvulling/snap-2.jpg",
+    "barcodeChecked": "2026-11-12",
+    "kosherSource": "source-labels/20261112-aanvulling/snap-4.jpg",
+    "kosherChecked": "2026-11-12",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2231 kJ / 533 kcal",
+      "Vetten": "28,89 g",
+      "Waarvan verzadigde vetzuren": "15,56 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "51,11 g",
+      "Vezels": "< 2,22 g",
+      "Eiwitten": "6,67 g",
+      "Natrium": "88,89 mg",
+      "Zout": "0,22 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "22,22 mg",
+      "Toegevoegde suikers": "51,11 g"
+    },
+    "nutritionSource": "source-labels/20261112-aanvulling/snap-3.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per reep (45 g)",
+      "values": {
+        "Energie": "240 kcal",
+        "Vetten": "13 g",
+        "Waarvan verzadigde vetzuren": "7 g",
+        "Koolhydraten": "27 g",
+        "Waarvan suikers": "23 g",
+        "Vezels": "< 1 g",
+        "Eiwitten": "3 g",
+        "Natrium": "40 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "10 mg",
+        "Toegevoegde suikers": "23 g"
+      }
     }
   },
   {
@@ -2201,6 +2895,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.391025641025641
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2121 kJ / 507 kcal",
+      "Vetten": "27 g",
+      "Waarvan verzadigde vetzuren": "15,4 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "46 g",
+      "Eiwitten": "6,3 g",
+      "Natrium": "173 mg",
+      "Zout": "0,43 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "12,9 mg"
     }
   },
   {
@@ -2245,7 +2952,24 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 3.5555555555555554
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2259 kJ / 540 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "18 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "0 g",
+      "Eiwitten": "8 g",
+      "Natrium": "80 mg",
+      "Zout": "0,2 g",
+      "Transvetten": "0 g",
+      "Toegevoegde suikers": "60 g"
+    },
+    "labelSources": [
+      "source-labels/20261111-chocolade/44-etiket.jpg"
+    ]
   },
   {
     "id": 45,
@@ -2301,11 +3025,25 @@ window.KPI_PRODUCTS = [
     },
     "labelSources": [
       "source-labels/20261009-aanvulling-48.jpg",
-      "source-labels/20261009-aanvulling-49.jpg"
+      "source-labels/20261009-aanvulling-49.jpg",
+      "source-labels/20261111-chocolade/45-etiket.jpg"
     ],
     "reviewNotes": "Aanvullende fysieke etiketfoto’s gecontroleerd op 9 oktober 2026. Alleen zichtbare gegevens bijgewerkt; bestaande productafbeelding behouden.",
     "ingredientsSource": "source-labels/20261009-aanvulling-49.jpg",
-    "ingredientsChecked": "2026-10-09"
+    "ingredientsChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2381 kJ / 569 kcal",
+      "Vetten": "37 g",
+      "Waarvan verzadigde vetzuren": "17,5 g",
+      "Koolhydraten": "47 g",
+      "Waarvan suikers": "46 g",
+      "Eiwitten": "9,3 g",
+      "Natrium": "76 mg",
+      "Zout": "0,19 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "16,9 mg"
+    }
   },
   {
     "id": 68,
@@ -2331,11 +3069,25 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-chocolade-aanvulling/f200c0a2-ef36-40f2-8aac-5ad83145cdd4.jpg",
-      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg",
+      "source-labels/20261111-chocolade/68-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Moolada melkchocolade aardbeiencrème",
-    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/417496"
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/417496",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1958 kJ / 468 kcal",
+      "Vetten": "22 g",
+      "Waarvan verzadigde vetzuren": "13,8 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "60 g",
+      "Eiwitten": "6,6 g",
+      "Natrium": "197 mg",
+      "Zout": "0,49 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "29 mg"
+    }
   },
   {
     "id": 69,
@@ -2361,11 +3113,25 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-chocolade-aanvulling/1ae683c0-8da4-4c3d-9952-54a903782f69.jpg",
-      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg",
+      "source-labels/20261111-chocolade/69-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Moolada Levanah aardbeiencrème",
-    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%9C%D7%91%D7%A0%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%9C%D7%91%D7%9F-%D7%95%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/680355"
+    "sourceUrl": "https://shop.super-pharm.co.il/food-and-drinks/chocolate/chocolate-bars/%D7%9E%D7%9E%D7%95%D7%9C%D7%93%D7%94-%D7%9C%D7%91%D7%A0%D7%94-%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%9C%D7%91%D7%9F-%D7%95%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%97%D7%9C%D7%91-%D7%91%D7%9E%D7%99%D7%9C%D7%95%D7%99-%D7%A7%D7%A8%D7%9D-%D7%91%D7%98%D7%A2%D7%9D-%D7%AA%D7%95%D7%AA/p/680355",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2004 kJ / 479 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "12,6 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "61 g",
+      "Eiwitten": "5,6 g",
+      "Natrium": "88 mg",
+      "Zout": "0,22 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "198 mg"
+    }
   },
   {
     "id": 70,
@@ -2394,11 +3160,26 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "source-labels/20261013-chocolade-aanvulling/c45ac8c3-47b9-4d79-8f20-87e676d1b4f7.jpg",
       "source-labels/20261013-chocolade-aanvulling/3355a370-1f98-4d7c-8045-27154cac7f4c.jpg",
-      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg",
+      "source-labels/20261111-chocolade/70-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Parah Mousse koffie",
-    "sourceUrl": "https://www.eati.co.il/coffee-chocolate/"
+    "sourceUrl": "https://www.eati.co.il/coffee-chocolate/",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2335 kJ / 558 kcal",
+      "Vetten": "35 g",
+      "Waarvan verzadigde vetzuren": "19,6 g",
+      "Koolhydraten": "52 g",
+      "Waarvan suikers": "51 g",
+      "Vezels": "2,8 g",
+      "Eiwitten": "9 g",
+      "Natrium": "113 mg",
+      "Zout": "0,28 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "33 mg"
+    }
   },
   {
     "id": 71,
@@ -2421,11 +3202,25 @@ window.KPI_PRODUCTS = [
     ],
     "labelSources": [
       "source-labels/20261013-chocolade-aanvulling/77b7b214-7f13-469a-9a2c-2bcb36e37a32.jpg",
-      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg"
+      "source-labels/20261013-chocolade-aanvulling/209ec527-7cfd-45df-bb59-619a6f148b8a.jpg",
+      "source-labels/20261111-chocolade/71-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Shokolad Parah melkchocolade 100 g",
-    "sourceUrl": "https://www.foodsdictionary.co.il/Products/19/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93%20%D7%97%D7%9C%D7%91"
+    "sourceUrl": "https://www.foodsdictionary.co.il/Products/19/%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93%20%D7%97%D7%9C%D7%91",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2230 kJ / 533 kcal",
+      "Vetten": "31 g",
+      "Waarvan verzadigde vetzuren": "16,6 g",
+      "Koolhydraten": "54 g",
+      "Waarvan suikers": "53 g",
+      "Eiwitten": "9,75 g",
+      "Natrium": "130 mg",
+      "Zout": "0,33 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "29 mg"
+    }
   },
   {
     "id": 72,
@@ -2433,7 +3228,7 @@ window.KPI_PRODUCTS = [
     "name": "Black & White Biscuit Crunch",
     "category": "Chocoladerepen",
     "variant": "100 g",
-    "ean": "0815871012256",
+    "ean": "0815871015448",
     "ingredients": "Suiker, palmolie en palmpitolie, biscuit (tarwebloem (gluten), suiker, palmolie, maïszetmeel, rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat, natriumzuurpyrofosfaat), zout, sojalecithine, aroma, conserveermiddel (natriummetabisulfiet), rozemarijnextract), cacaoboter, magere melk, wei-eiwitconcentraat, cacaomassa, melkvet, inuline, sojameel, gealkaliseerd cacaopoeder, raapzaadlecithine, PGPR, aroma’s, zout.",
     "allergens": [
       "Tarwe (gluten)",
@@ -2453,7 +3248,8 @@ window.KPI_PRODUCTS = [
     "labelSources": [
       "source-labels/20261014-missing-chocolate-products/black-white-crunch-back.jpg",
       "source-labels/20261014-missing-chocolate-products/black-white-crunch-ingredients.jpg",
-      "source-labels/20261014-missing-chocolate-products/black-white-crunch-kosher.jpg"
+      "source-labels/20261014-missing-chocolate-products/black-white-crunch-kosher.jpg",
+      "source-labels/20261111-chocolade/72-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Black & White Biscuit Crunch",
@@ -2467,6 +3263,21 @@ window.KPI_PRODUCTS = [
         "source-labels/20261014-missing-chocolate-products/black-white-crunch-kosher.jpg"
       ],
       "edit": "Rechtopstaande packshot op witte achtergrond"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2282 kJ / 545 kcal",
+      "Vetten": "30,3 g",
+      "Waarvan verzadigde vetzuren": "18,18 g",
+      "Koolhydraten": "51,52 g",
+      "Waarvan suikers": "45,45 g",
+      "Vezels": "3,03 g",
+      "Eiwitten": "9,09 g",
+      "Natrium": "196,97 mg",
+      "Zout": "0,49 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "30,3 mg",
+      "Toegevoegde suikers": "45,45 g"
     }
   },
   {
@@ -2494,7 +3305,8 @@ window.KPI_PRODUCTS = [
       "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg"
     ],
     "labelSources": [
-      "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg"
+      "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg",
+      "source-labels/20261111-chocolade/73-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Pesek Zman wit met wafel en hazelnootcrème",
@@ -2507,6 +3319,19 @@ window.KPI_PRODUCTS = [
         "source-labels/20261014-missing-chocolate-products/pesek-zman-white-back.jpg"
       ],
       "edit": "Rechtopstaande packshot op witte achtergrond"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2351 kJ / 562 kcal",
+      "Vetten": "35 g",
+      "Waarvan verzadigde vetzuren": "18,2 g",
+      "Koolhydraten": "52 g",
+      "Waarvan suikers": "47 g",
+      "Eiwitten": "7,5 g",
+      "Natrium": "105 mg",
+      "Zout": "0,26 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "16,6 mg"
     }
   },
   {
@@ -2531,11 +3356,27 @@ window.KPI_PRODUCTS = [
       "source-labels/20261015-biscuit-crunch-back-label-crop.png"
     ],
     "labelSources": [
-      "source-labels/20261015-biscuit-crunch-back-label-crop.png"
+      "source-labels/20261015-biscuit-crunch-back-label-crop.png",
+      "source-labels/20261111-chocolade/74-etiket.jpg"
     ],
     "productInfo": {},
     "searchName": "Elite Biscuit Crunch",
-    "reviewNotes": "De verpakking toont UPC-A 815871012256, dezelfde cijferreeks als product 72; voor de EAN-weergave is een voorloopnul toegevoegd. De achteretiketbron is een uitsnede van de aangeleverde foto."
+    "reviewNotes": "De verpakking toont UPC-A 815871012256, dezelfde cijferreeks als product 72; voor de EAN-weergave is een voorloopnul toegevoegd. De achteretiketbron is een uitsnede van de aangeleverde foto.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2282 kJ / 545 kcal",
+      "Vetten": "33,33 g",
+      "Waarvan verzadigde vetzuren": "18,18 g",
+      "Koolhydraten": "51,52 g",
+      "Waarvan suikers": "48,48 g",
+      "Vezels": "< 3,03 g",
+      "Eiwitten": "9,09 g",
+      "Natrium": "196,97 mg",
+      "Zout": "0,49 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "30,3 mg",
+      "Toegevoegde suikers": "48,48 g"
+    }
   },
   {
     "id": 46,
@@ -2580,7 +3421,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.7111486486486487
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2029 kJ / 485 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "13,1 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "39 g",
+      "Eiwitten": "6,4 g",
+      "Natrium": "63 mg",
+      "Zout": "0,16 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "14 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/6.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 47,
@@ -2625,7 +3481,22 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7382875605815832
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2059 kJ / 492 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "13 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "39 g",
+      "Eiwitten": "6,9 g",
+      "Natrium": "233 mg",
+      "Zout": "0,58 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "14 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/4.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 48,
@@ -2671,7 +3542,22 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7617124394184168
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2088 kJ / 499 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "13,9 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "39 g",
+      "Eiwitten": "6,3 g",
+      "Natrium": "66 mg",
+      "Zout": "0,17 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "12 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/2.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 49,
@@ -2716,7 +3602,22 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7271255060728745
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2046 kJ / 489 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "13,9 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "43 g",
+      "Eiwitten": "6,8 g",
+      "Natrium": "72 mg",
+      "Zout": "0,18 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "10 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/8.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 50,
@@ -2765,7 +3666,22 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7271255060728745
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2117 kJ / 506 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "13,1 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "46 g",
+      "Eiwitten": "6,8 g",
+      "Natrium": "73 mg",
+      "Zout": "0,18 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "9 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/10.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 60,
@@ -2820,7 +3736,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Kedassia (Londen)",
       "CRC Kashrus (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1911 kJ / 455 kcal",
+      "Vetten": "17 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "70 g",
+      "Waarvan suikers": "68 g",
+      "Vezels": "1 g",
+      "Eiwitten": "4 g",
+      "Zout": "30 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/15.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 61,
@@ -2876,7 +3805,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Kedassia (Londen)",
       "CRC Kashrus (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1911 kJ / 455 kcal",
+      "Vetten": "17 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "70 g",
+      "Waarvan suikers": "68 g",
+      "Vezels": "1 g",
+      "Eiwitten": "4 g",
+      "Zout": "30 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/16.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 62,
@@ -2931,7 +3873,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Kedassia (Londen)",
       "CRC Kashrus (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1849 kJ / 442 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "10,1 g",
+      "Koolhydraten": "67,9 g",
+      "Waarvan suikers": "63,3 g",
+      "Vezels": "5,2 g",
+      "Eiwitten": "3,6 g",
+      "Zout": "< 0,01 g"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/17.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 51,
@@ -2972,7 +3927,19 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.66
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1302 kJ / 313 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "6,8 g",
+      "Koolhydraten": "12,5 g",
+      "Waarvan suikers": "1 g",
+      "Eiwitten": "22 g",
+      "Zout": "75 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/18.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 52,
@@ -3015,7 +3982,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 2.900523560209424
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2285 kJ / 549 kcal",
+      "Vetten": "36,4 g",
+      "Waarvan verzadigde vetzuren": "20,9 g",
+      "Koolhydraten": "45,4 g",
+      "Waarvan suikers": "42,1 g",
+      "Vezels": "7,6 g",
+      "Eiwitten": "5,7 g",
+      "Zout": "0,1 g"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/20.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 53,
@@ -3158,7 +4138,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.56
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1065 kJ / 257 kcal",
+      "Vetten": "22 g",
+      "Waarvan verzadigde vetzuren": "19 g",
+      "Koolhydraten": "14 g",
+      "Waarvan suikers": "12 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,18 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/21.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 56,
@@ -3183,13 +4178,40 @@ window.KPI_PRODUCTS = [
     "sourceUrl": "https://elisha.be/en/shneiders/whipping-cream-spray?page=10",
     "imagePresentation": {
       "corners": [
-        [0.382, 0.038],
-        [0.618, 0.038],
-        [0.618, 0.958],
-        [0.382, 0.958]
+        [
+          0.382,
+          0.038
+        ],
+        [
+          0.618,
+          0.038
+        ],
+        [
+          0.618,
+          0.958
+        ],
+        [
+          0.382,
+          0.958
+        ]
       ],
       "aspectRatio": 0.257
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1061 kJ / 256 kcal",
+      "Vetten": "22 g",
+      "Waarvan verzadigde vetzuren": "19 g",
+      "Koolhydraten": "14 g",
+      "Waarvan suikers": "11 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,06 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/22.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 57,
@@ -3232,7 +4254,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1463 kJ / 350 kcal",
+      "Vetten": "35,5 g",
+      "Koolhydraten": "3 g",
+      "Eiwitten": "5,8 g",
+      "Natrium": "30 mg",
+      "Zout": "0,08 g"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/24.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 58,
@@ -3275,7 +4308,20 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.989935956084172
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2296 kJ / 549 kcal",
+      "Vetten": "36,1 g",
+      "Waarvan verzadigde vetzuren": "21,6 g",
+      "Koolhydraten": "46,2 g",
+      "Waarvan suikers": "43,5 g",
+      "Vezels": "8,1 g",
+      "Eiwitten": "5,1 g",
+      "Zout": "0,001 g"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/12.jpg",
+    "nutritionChecked": "2026-11-11"
   },
   {
     "id": 59,
@@ -3319,6 +4365,19 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 1
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2371.2 kJ / 569 kcal",
+      "Vetten": "37,9 g",
+      "Waarvan verzadigde vetzuren": "22,7 g",
+      "Koolhydraten": "48 g",
+      "Waarvan suikers": "46,5 g",
+      "Vezels": "3 g",
+      "Eiwitten": "7,3 g",
+      "Zout": "0,2 g"
+    },
+    "nutritionSource": "source-labels/20261111-laatste-voedingswaarden/14.jpg",
+    "nutritionChecked": "2026-11-11"
   }
 ];

@@ -121,7 +121,7 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "182 g",
     "category": "Oliën",
-    "ingredients": "100% geraffineerde zonnebloemolie. Het drijfgas is perslucht.",
+    "ingredients": "100% geraffineerde zonnebloemolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -153,7 +153,7 @@ window.KPI_PRODUCTS = [
     "englishName": "",
     "variant": "182 g",
     "category": "Oliën",
-    "ingredients": "100% extra vierge olijfolie. Het drijfgas is perslucht.",
+    "ingredients": "100% extra vierge olijfolie.",
     "allergens": [
       "Geen allergenen vermeld"
     ],
@@ -648,7 +648,7 @@ window.KPI_PRODUCTS = [
   },
   "9": {
     "nutrition": {
-      "Energie": "3346,67 kJ / 800 kcal",
+      "Energie": "3346 kJ / 800 kcal",
       "Vetten": "93,33 g",
       "Waarvan verzadigde vetzuren": "13,33 g",
       "Koolhydraten": "0 g",
@@ -673,7 +673,7 @@ window.KPI_PRODUCTS = [
   },
   "10": {
     "nutrition": {
-      "Energie": "3346,67 kJ / 800 kcal",
+      "Energie": "3346 kJ / 800 kcal",
       "Vetten": "93,33 g",
       "Waarvan verzadigde vetzuren": "13,33 g",
       "Koolhydraten": "0 g",
@@ -683,7 +683,7 @@ window.KPI_PRODUCTS = [
       "Vezels": "0 g",
       "Transvetten": "0 g",
       "Cholesterol": "0 mg",
-      "Vitamine D": "0 µg",
+      "Vitamine D": "0 microgram",
       "Calcium": "0 mg",
       "IJzer": "0 mg",
       "Kalium": "0 mg",
@@ -703,7 +703,7 @@ window.KPI_PRODUCTS = [
         "Vezels": "0 g",
         "Transvetten": "0 g",
         "Cholesterol": "0 mg",
-        "Vitamine D": "0 µg",
+        "Vitamine D": "0 microgram",
         "Calcium": "0 mg",
         "IJzer": "0 mg",
         "Kalium": "0 mg"
@@ -790,7 +790,7 @@ window.KPI_PRODUCTS = [
   },
   "17": {
     "nutrition": {
-      "Energie": "114,24 kJ / 27,27 kcal",
+      "Energie": "114 kJ / 28 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "6,97 g",
       "Waarvan suikers": "4,85 g",
@@ -869,7 +869,7 @@ window.KPI_PRODUCTS = [
     "Niacine": "7 mg",
     "Pantotheenzuur (B5)": "1,98 mg",
     "Vitamine B6": "1,4 mg",
-    "Vitamine B12": "0,5 µg"
+    "Vitamine B12": "0,5 microgram"
   },
   "15": {
     "Taurine": "400 mg",
@@ -878,7 +878,7 @@ window.KPI_PRODUCTS = [
     "Pantotheenzuur (B5)": "2 mg",
     "Vitamine B2": "0,53 mg",
     "Vitamine B6": "1,4 mg",
-    "Vitamine B12": "0,5 µg"
+    "Vitamine B12": "0,5 microgram"
   },
   "18": {
     "Azijnzuur": "5 g"
@@ -889,7 +889,7 @@ window.KPI_PRODUCTS = [
     "Niacine": "7 mg",
     "Pantotheenzuur (B5)": "1,98 mg",
     "Vitamine B6": "1,4 mg",
-    "Vitamine B12": "0,5 µg"
+    "Vitamine B12": "0,5 microgram"
   }
 };
  for (const p of window.KPI_PRODUCTS) if(values[p.id]) Object.assign(p.nutrition,values[p.id]);
@@ -898,3 +898,31 @@ window.KPI_PRODUCTS = [
 // Energiewaarden bevestigd door gebruiker na etiketvergroting.
 window.KPI_PRODUCTS.find(p => p.id === 2).nutrition.Energie = '108 kJ / 25 kcal';
 window.KPI_PRODUCTS.find(p => p.id === 14).nutrition['Suiker (theelepels)'] = '2,75';
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "7": "0 g",
+  "9": "0 g",
+  "10": "0 g",
+  "14": "0,13 g",
+  "15": "0,16 g",
+  "17": "0,01 g",
+  "18": "0,05 g",
+  "19": "0 g",
+  "20": "0,13 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+   }
+  }
+  product.nutrition = ordered;
+ }
+}());

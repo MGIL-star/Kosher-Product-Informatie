@@ -43,9 +43,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6852459016393443
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Yokneam (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1689 kJ / 404 kcal",
+      "Vetten": "6,4 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "7,4 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "10 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 6,
@@ -90,7 +103,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6870967741935484
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1804 kJ / 428 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "67 g",
+      "Waarvan suikers": "5 g",
+      "Vezels": "4,4 g",
+      "Eiwitten": "12 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 3,
@@ -141,7 +167,20 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/57.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1951 kJ / 464 kcal",
+      "Vetten": "15 g",
+      "Waarvan verzadigde vetzuren": "3,9 g",
+      "Koolhydraten": "68 g",
+      "Waarvan suikers": "2,3 g",
+      "Vezels": "4,5 g",
+      "Eiwitten": "12 g",
+      "Zout": "2 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 9,
@@ -187,9 +226,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6862745098039216
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Yokneam (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1659 kJ / 392 kcal",
+      "Vetten": "4,6 g",
+      "Waarvan verzadigde vetzuren": "2 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "11 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 12,
@@ -239,7 +291,20 @@ window.KPI_PRODUCTS = [
     ],
     "reviewNotes": "Leesbare gegevens verwerkt uit de chatbijlagen van 9 oktober 2026. Bestaande productafbeelding behouden. Schapkaartjes uitsluitend gebruikt voor barcodes.",
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/59.jpg",
-    "kosherChecked": "2026-10-09"
+    "kosherChecked": "2026-10-09",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1723 kJ / 408 kcal",
+      "Vetten": "7 g",
+      "Waarvan verzadigde vetzuren": "2,9 g",
+      "Koolhydraten": "74 g",
+      "Waarvan suikers": "1,2 g",
+      "Vezels": "4,5 g",
+      "Eiwitten": "10 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionSource": "source-labels/20261112-pretzels/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 15,
@@ -283,7 +348,22 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.6395511921458625
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "1678 kJ / 401 kcal",
+      "Vetten": "5,3 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "76,8 g",
+      "Waarvan suikers": "3,1 g",
+      "Eiwitten": "11,6 g",
+      "Natrium": "906 mg",
+      "Zout": "2,27 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 18,
@@ -331,7 +411,22 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Safed (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1803 kJ / 431 kcal",
+      "Vetten": "9,1 g",
+      "Waarvan verzadigde vetzuren": "2,9 g",
+      "Koolhydraten": "73,6 g",
+      "Waarvan suikers": "1,6 g",
+      "Eiwitten": "13,7 g",
+      "Natrium": "854 mg",
+      "Zout": "2,13 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 21,
@@ -385,9 +480,23 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/61.jpg",
     "kosherChecked": "2026-10-09",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbijn Shmuel Eliezer Stern (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1592 kJ / 380 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "2,6 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "11,2 g",
+      "Natrium": "1157 mg",
+      "Zout": "2,89 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 24,
@@ -434,7 +543,44 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "23,33 g",
+      "Waarvan verzadigde vetzuren": "3,33 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "6,67 g",
+      "Vezels": "3,33 g",
+      "Eiwitten": "6,67 g",
+      "Natrium": "1000 mg",
+      "Zout": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "6,67 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/8.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per portie (30 g)",
+      "values": {
+        "Energie": "150 kcal",
+        "Vetten": "7 g",
+        "Waarvan verzadigde vetzuren": "1 g",
+        "Koolhydraten": "18 g",
+        "Waarvan suikers": "2 g",
+        "Vezels": "1 g",
+        "Eiwitten": "2 g",
+        "Natrium": "300 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "2 g"
+      }
+    }
   },
   {
     "id": 27,
@@ -481,7 +627,44 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "26,67 g",
+      "Waarvan verzadigde vetzuren": "3,33 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "6,67 g",
+      "Vezels": "3,33 g",
+      "Eiwitten": "6,67 g",
+      "Natrium": "1000 mg",
+      "Zout": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "6,67 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/10.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per portie (30 g)",
+      "values": {
+        "Energie": "150 kcal",
+        "Vetten": "8 g",
+        "Waarvan verzadigde vetzuren": "1 g",
+        "Koolhydraten": "18 g",
+        "Waarvan suikers": "2 g",
+        "Vezels": "1 g",
+        "Eiwitten": "2 g",
+        "Natrium": "300 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "2 g"
+      }
+    }
   },
   {
     "id": 30,
@@ -525,10 +708,47 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.6378737541528239
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah Hachareidis",
       "Rabbinaat Yokneam (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1953 kJ / 467 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "73,33 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "1000 mg",
+      "Zout": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "0 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/12.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per portie (30 g)",
+      "values": {
+        "Energie": "140 kcal",
+        "Vetten": "6 g",
+        "Waarvan verzadigde vetzuren": "3 g",
+        "Koolhydraten": "22 g",
+        "Waarvan suikers": "0 g",
+        "Vezels": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "300 mg",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Toegevoegde suikers": "0 g"
+      }
+    }
   },
   {
     "id": 33,
@@ -572,9 +792,22 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.7700934579439253
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah Hachareidis (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1706 kJ / 403 kcal",
+      "Vetten": "4,4 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "78 g",
+      "Waarvan suikers": "2,6 g",
+      "Vezels": "3,4 g",
+      "Eiwitten": "12 g",
+      "Zout": "2,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/14.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 36,
@@ -629,10 +862,22 @@ window.KPI_PRODUCTS = [
     "kosherSource": "Chatbijlage 9 oktober 2026: thee/63.jpg",
     "kosherChecked": "2026-10-09",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbijn Shmuel Eliezer Stern",
       "Badatz Edah HaChareidis (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1763 kJ / 419 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "2,5 g",
+      "Eiwitten": "14 g",
+      "Zout": "2,9 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-pretzels-batch2/16.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 39,
@@ -679,7 +924,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Nof HaGalil (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1862 kJ / 445 kcal",
+      "Vetten": "6 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Koolhydraten": "79 g",
+      "Waarvan suikers": "10 g",
+      "Eiwitten": "10 g",
+      "Natrium": "880 mg",
+      "Zout": "2,2 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 42,
@@ -727,7 +985,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Badatz Edah Hachareidis",
       "Rabbinaat Nof HaGalil (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "1799 kJ / 430 kcal",
+      "Vetten": "8 g",
+      "Waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "77 g",
+      "Waarvan suikers": "10 g",
+      "Eiwitten": "11 g",
+      "Natrium": "600 mg",
+      "Zout": "1,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 58,
@@ -767,7 +1038,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.7357065803667745
-    }
+    },
+    "nutrition": {
+      "Energie": "2239 kJ / 532 kcal",
+      "Vetten": "35 g",
+      "Waarvan verzadigde vetzuren": "3,4 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "0,4 g",
+      "Vezels": "4,6 g",
+      "Eiwitten": "4,6 g",
+      "Zout": "1,9 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "< 1 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/5.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 55,
@@ -808,7 +1094,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.7357065803667745
-    }
+    },
+    "nutrition": {
+      "Energie": "2343 kJ / 565 kcal",
+      "Vetten": "32,8 g",
+      "Waarvan verzadigde vetzuren": "3,1 g",
+      "Koolhydraten": "55,6 g",
+      "Waarvan suikers": "1,8 g",
+      "Vezels": "4,4 g",
+      "Eiwitten": "8,4 g",
+      "Zout": "2 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "< 1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 52,
@@ -849,7 +1150,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.634974533106961
-    }
+    },
+    "nutrition": {
+      "Energie": "2026 kJ / 484 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "56,6 g",
+      "Waarvan suikers": "3,4 g",
+      "Vezels": "6 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "1,1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 49,
@@ -890,7 +1204,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6398659966499163
-    }
+    },
+    "nutrition": {
+      "Energie": "1920 kJ / 462 kcal",
+      "Vetten": "20 g",
+      "Waarvan verzadigde vetzuren": "3,3 g",
+      "Koolhydraten": "40 g",
+      "Waarvan suikers": "32 g",
+      "Vezels": "14 g",
+      "Eiwitten": "5,4 g",
+      "Zout": "1,08 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 45,
@@ -972,7 +1299,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6775510204081633
-    }
+    },
+    "nutrition": {
+      "Energie": "1893 kJ / 452 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "69,4 g",
+      "Waarvan suikers": "1,9 g",
+      "Vezels": "5 g",
+      "Eiwitten": "5,1 g",
+      "Zout": "2,48 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/12.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 64,
@@ -1012,7 +1352,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6445783132530121
-    }
+    },
+    "nutrition": {
+      "Energie": "1918 kJ / 456 kcal",
+      "Vetten": "15,7 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "71,7 g",
+      "Waarvan suikers": "0,5 g",
+      "Vezels": "4,5 g",
+      "Eiwitten": "4,8 g",
+      "Zout": "1,59 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/14.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 67,
@@ -1052,7 +1405,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.56
-    }
+    },
+    "nutrition": {
+      "Energie": "1791 kJ / 425 kcal",
+      "Vetten": "12,1 g",
+      "Waarvan verzadigde vetzuren": "1,9 g",
+      "Koolhydraten": "66,7 g",
+      "Waarvan suikers": "1,4 g",
+      "Vezels": "4,2 g",
+      "Eiwitten": "10,3 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/15.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 70,
@@ -1091,7 +1457,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.56
-    }
+    },
+    "nutrition": {
+      "Energie": "1784 kJ / 424 kcal",
+      "Vetten": "11,8 g",
+      "Waarvan verzadigde vetzuren": "1,7 g",
+      "Koolhydraten": "66,2 g",
+      "Waarvan suikers": "0,9 g",
+      "Vezels": "4 g",
+      "Eiwitten": "11,2 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/16.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 72,
@@ -1130,7 +1509,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.56
-    }
+    },
+    "nutrition": {
+      "Energie": "1763 kJ / 418 kcal",
+      "Vetten": "10,7 g",
+      "Waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "75,2 g",
+      "Waarvan suikers": "0,5 g",
+      "Vezels": "1,2 g",
+      "Eiwitten": "5,5 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/17.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 74,
@@ -1169,7 +1561,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.56
-    }
+    },
+    "nutrition": {
+      "Energie": "1766 kJ / 420 kcal",
+      "Vetten": "11,3 g",
+      "Waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "61,7 g",
+      "Waarvan suikers": "4,53 g",
+      "Vezels": "4,59 g",
+      "Eiwitten": "11,8 g",
+      "Zout": "1 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/18.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 76,
@@ -1209,6 +1614,38 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 1.12
+    },
+    "nutrition": {
+      "Energie": "1793 kJ / 429 kcal",
+      "Vetten": "12,5 g",
+      "Waarvan verzadigde vetzuren": "5,36 g",
+      "Koolhydraten": "67,86 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "10,71 g",
+      "Eiwitten": "10,71 g",
+      "Natrium": "464,29 mg",
+      "Zout": "1,16 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Toegevoegde suikers": "0 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/19.jpg",
+    "nutritionChecked": "2026-11-12",
+    "nutritionOriginal": {
+      "unit": "per 28 g ongepofte popcorn (4 cups gepoft)",
+      "values": {
+        "Energie": "120 kcal",
+        "Vetten": "3,5 g",
+        "Waarvan verzadigde vetzuren": "1,5 g",
+        "Koolhydraten": "19 g",
+        "Waarvan suikers": "0 g",
+        "Vezels": "3 g",
+        "Eiwitten": "3 g",
+        "Natrium": "130 mg"
+      }
     }
   },
   {
@@ -1256,9 +1693,21 @@ window.KPI_PRODUCTS = [
       "aspectRatio": 0.605
     },
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Safed (Parve)"
-    ]
+    ],
+    "nutrition": {
+      "Energie": "2035 kJ / 486 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "7 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "2,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/21.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 82,
@@ -1301,7 +1750,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6588235294117647
-    }
+    },
+    "nutrition": {
+      "Energie": "1920 kJ / 459 kcal",
+      "Vetten": "14,9 g",
+      "Waarvan verzadigde vetzuren": "6,8 g",
+      "Koolhydraten": "70,7 g",
+      "Waarvan suikers": "4,3 g",
+      "Eiwitten": "10,4 g",
+      "Natrium": "606 mg",
+      "Zout": "1,52 g",
+      "Cholesterol": "0 mg",
+      "Transvetten": "< 0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/23.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 85,
@@ -1345,7 +1809,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6101694915254238
-    }
+    },
+    "nutrition": {
+      "Energie": "2159 kJ / 516 kcal",
+      "Vetten": "25,1 g",
+      "Waarvan verzadigde vetzuren": "9,8 g",
+      "Koolhydraten": "62,7 g",
+      "Waarvan suikers": "5,5 g",
+      "Eiwitten": "9,9 g",
+      "Natrium": "339 mg",
+      "Zout": "0,85 g",
+      "Cholesterol": "0 mg",
+      "Transvetten": "< 0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/25.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 88,
@@ -1388,7 +1867,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6447368421052632
-    }
+    },
+    "nutrition": {
+      "Energie": "2155 kJ / 515 kcal",
+      "Vetten": "25,6 g",
+      "Waarvan verzadigde vetzuren": "12,2 g",
+      "Koolhydraten": "59,1 g",
+      "Waarvan suikers": "4,9 g",
+      "Eiwitten": "9,9 g",
+      "Natrium": "230 mg",
+      "Zout": "0,58 g",
+      "Cholesterol": "0 mg",
+      "Transvetten": "< 0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/27.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 91,
@@ -1431,7 +1925,22 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.6447368421052632
-    }
+    },
+    "nutrition": {
+      "Energie": "1992 kJ / 476 kcal",
+      "Vetten": "19,2 g",
+      "Waarvan verzadigde vetzuren": "8,5 g",
+      "Koolhydraten": "67,2 g",
+      "Waarvan suikers": "6,1 g",
+      "Eiwitten": "8,7 g",
+      "Natrium": "387 mg",
+      "Zout": "0,97 g",
+      "Cholesterol": "0 mg",
+      "Transvetten": "< 0,5 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/29.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 94,
@@ -1472,7 +1981,20 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.8005342831700801
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "2099 kJ / 502 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "1,5 g",
+      "Vezels": "5 g",
+      "Eiwitten": "6 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/31.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 97,
@@ -1513,7 +2035,20 @@ window.KPI_PRODUCTS = [
       ],
       "aspectRatio": 0.7731601731601732
     },
-    "imageEdited": true
+    "imageEdited": true,
+    "nutrition": {
+      "Energie": "2099 kJ / 502 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "1,5 g",
+      "Vezels": "5 g",
+      "Eiwitten": "6 g",
+      "Zout": "1,4 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionSource": "source-labels/20261112-meter13-batch3/33.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 111,
@@ -1980,7 +2515,21 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex",
       "priority": "Actuele fysieke verpakking van gebruiker"
     },
-    "quantitySource": "Foto van 10 oktober 2026 bevestigt 30 stuks; nettogewicht niet zichtbaar."
+    "quantitySource": "Foto van 10 oktober 2026 bevestigt 30 stuks; nettogewicht niet zichtbaar.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1700 kJ / 401 kcal",
+      "Vetten": "3,8 g",
+      "Waarvan verzadigde vetzuren": "1,9 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "0,5 g",
+      "Waarvan meervoudig onverzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "84 g",
+      "Waarvan suikers": "23 g",
+      "Eiwitten": "7,5 g",
+      "Zout": "0,48 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 102,
@@ -2020,7 +2569,20 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.61
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1493 kJ / 353 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "0,72 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "12,5 g",
+      "Vezels": "7,7 g",
+      "Eiwitten": "5,3 g",
+      "Zout": "0,38 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 105,
@@ -2075,7 +2637,20 @@ window.KPI_PRODUCTS = [
     "kosherLines": [
       "Rabbijn Pinchas Avraham Meyers (Den Haag)",
       "Machsike Hadas Antwerpen · Pat Yisrael (Parve)"
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1330 kJ / 315 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "2,5 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "9,8 g",
+      "Zout": "0,75 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 107,
@@ -2116,6 +2691,18 @@ window.KPI_PRODUCTS = [
         ]
       ],
       "aspectRatio": 0.9820359281437125
-    }
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1330 kJ / 315 kcal",
+      "Vetten": "4,5 g",
+      "Waarvan verzadigde vetzuren": "1,3 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "2,5 g",
+      "Eiwitten": "9,8 g",
+      "Zout": "0,75 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter13-batch4/8.jpg",
+    "nutritionChecked": "2026-11-12"
   }
 ];

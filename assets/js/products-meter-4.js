@@ -4,11 +4,11 @@ window.KPI_PRODUCTS = [
   {id:1,brand:'Kvuzat Yavne',name:'Kikkererwten',englishName:'',variant:'Netto 550 g',category:'Groenten',ingredients:'kikkererwten, water, zout.',allergens:[],ean:'7290012313875',image:'../assets/images/meter-4/kvuzat-yavne-chickpeas.jpg',"kosherStatus":"confirmed","kosher":"Badatz Beit Yosef","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=19"},
   {id:2,brand:'Kvuzat Yavne',name:'Erwten & Wortelen',englishName:'',variant:'Netto 550 g',category:'Groenten',ingredients:'groenten [wortelen 60%, tuinerwten 40%], water, zout, suiker.',allergens:[],ean:'7290012313868',image:'../assets/images/meter-4/kvuzat-yavne-garden-peas-carrots.jpg',"kosherStatus":"confirmed","kosher":"Badatz Beit Yosef","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=19"},
   {"id":26,"brand":"Kvuzat Yavne","name":"Tuinbonen Geweekt en Gekookt in Pekel","englishName":"","variant":"Netto 550 g","category":"Groenten","ingredients":"Tuinbonen, water, zout, zuurteregelaar (citroenzuur), aroma’s (knoflook), antioxidant (E385).","allergens":[],"ean":"7290012313899","image":"../assets/images/meter-4/kvuzat-yavne-fava-beans-official.png","countryOfOrigin":"Israël","packagingClaims":["Zonder conserveermiddelen","Zonder kleurstoffen"],"kosherStatus":"confirmed","kosher":"Badatz Beit Yosef","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=19"},
-  {id:4,brand:'Kvuzat Yavne',name:'Aubergines in Pekel',englishName:'',variant:'Netto 560 g',category:'Groenten',ingredients:'aubergines, water, zout, azijnzuur, suiker, aroma, kleurstof E122.',allergens:[],ean:'7290002057703',image:'../assets/images/meter-4/kvuzat-yavne-eggplants-in-brine.jpg',"kosherStatus":"confirmed","kosher":"OU (Orthodox Union)","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=17"},
-  {id:5,brand:'Shmurei Yavne',name:'Hete Pepers in Pekel',englishName:'',variant:'Netto 560 g',category:'Groenten',ingredients:'groene hete pepers, water, zout, azijnzuur, aroma.',allergens:[],ean:'7290002057291',imageMayVary:true,image:'../assets/images/meter-4/shmurei-yavne-hot-peppers-clean.png',"kosherStatus":"confirmed","kosher":"OU (Orthodox Union)","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=47"},
+  {id:4,nutritionUnit:'per 100 g uitgelekt product',nutrition:{'Energie':'67 kJ / 16 kcal','Vetten':'0 g','Koolhydraten':'1,8 g','Waarvan suikers':'0,5 g','Vezels':'2,5 g','Eiwitten':'1 g','Natrium':'1500 mg','Zout':'3,75 g'},brand:'Kvuzat Yavne',name:'Aubergines in Pekel',englishName:'',variant:'Netto 560 g',category:'Groenten',ingredients:'aubergines, water, zout, azijnzuur, suiker, aroma, kleurstof E122.',allergens:[],ean:'7290002057703',image:'../assets/images/meter-4/kvuzat-yavne-eggplants-in-brine.jpg',"kosherStatus":"confirmed","kosher":"OU (Orthodox Union)","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=17"},
+  {id:5,nutritionUnit:'per 100 g uitgelekt product',nutrition:{'Energie':'56 kJ / 13 kcal','Vetten':'0 g','Koolhydraten':'0,8 g','Waarvan suikers':'0 g','Vezels':'2,6 g','Eiwitten':'0,5 g','Natrium':'1900 mg','Zout':'4,75 g'},brand:'Shmurei Yavne',name:'Hete Pepers in Pekel',englishName:'',variant:'Netto 560 g',category:'Groenten',ingredients:'groene hete pepers, water, zout, azijnzuur, aroma.',allergens:[],ean:'7290002057291',imageMayVary:true,image:'../assets/images/meter-4/shmurei-yavne-hot-peppers-clean.png',"kosherStatus":"confirmed","kosher":"OU (Orthodox Union)","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=47"},
   {id:6,brand:'Kvuzat Yavne',name:'Zeer Geconcentreerde Tomatenpuree',englishName:'',variant:'Netto 400 g',category:'Groenten',ingredients:'100% tomaat.',allergens:[],ean:'7290020326874',imageMayVary:true,image:'../assets/images/meter-4/kvuzat-yavne-tomato-paste.webp',"kosherStatus":"confirmed","kosher":"Badatz Beit Yosef","kosherSource":"https://www.hahishook.com/product/רסק-עגבניות-28-30/"},
   {id:7,brand:'Kvuzat Yavne',name:'Zoete Maïskorrels',englishName:'',variant:'Netto 340 g',category:'Groenten',ingredients:'zoete maïskorrels, water, zout.',allergens:[],ean:'7290005113161',image:'../assets/images/meter-4/kvuzat-yavne-sweet-corn.jpg',"kosherStatus":"confirmed","kosher":"Badatz Beit Yosef","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=21"},
-  {id:8,brand:'Lieber’s',name:'Hele Palmharten',englishName:'',variant:'Netto 400 g',category:'Groenten',ingredients:'palmharten, zout, water, citroenzuur, ascorbinezuur.',allergens:[],ean:'043427201353',image:'../assets/images/meter-4/liebers-hearts-of-palm-043427201353.jpg',"kosherStatus":"verified","kosher":"OU"},
+  {id:8,brand:'Lieber’s',name:'Hele Palmharten',englishName:'',variant:'Netto 400 g',category:'Groenten',ingredients:'palmharten, zout, water, citroenzuur, ascorbinezuur.',allergens:[],ean:'043427201353',image:'../assets/images/meter-4/liebers-hearts-of-palm-043427201353.jpg',"kosherStatus":"verified","kosher":"OU (Orthodox Union)"},
   {id:9,brand:'Bnei Darom',name:'Geroosterde Aubergine',englishName:'',variant:'Netto 530 g',category:'Groenten',ingredients:'geroosterde aubergine 98%, zout, citroenzuur.',allergens:[],ean:'7290016370348',image:'../assets/images/meter-4/bnei-darom-roasted-eggplant-530g.jpg',"kosherStatus":"confirmed","kosher":"Badatz Beit Yosef","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=43"},
   {id:10,brand:'Shmurei Yavne',name:'Ontpitte Zwarte Olijven',englishName:'',variant:'Netto 560 g',category:'Olijven',ingredients:'olijven, water, zout, azijnzuur, ferrosulfaat.',allergens:[],ean:'7290005113123',warning:'Machinaal ontpit, kan pitten of pitresten bevatten.',imageMayVary:true,image:'../assets/images/meter-4/shmurei-yavne-pitted-black-olives-catalog.png',"kosherStatus":"confirmed","kosher":"OU (Orthodox Union)","kosherSource":"https://pickles.co.il/wp-content/uploads/2025/02/A4_yavne_catalog_hebrew_2024_24_digital-pages-1-compressed.pdf#page=47"},
   {id:11,brand:'Kvuzat Yavne',name:'Gebarsten Olijven met Olijfolie',englishName:'',variant:'Netto 560 g',category:'Olijven',ingredients:'olijven, water, zout, citroenzuur, azijnzuur, olijfolie 0,4%, aroma, knoflook, specerijen.',allergens:[],ean:'730127100191',imageMayVary:true,image:'../assets/images/meter-4/kvuzat-yavne-cracked-olives-original-web.png',"kosherStatus":"confirmed","kosher":"OU (Orthodox Union)"},
@@ -194,7 +194,7 @@ window.KPI_PRODUCTS = [
   "18": {
     "nutritionUnit": "per 100 g uitgelekt product",
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -206,7 +206,7 @@ window.KPI_PRODUCTS = [
   "20": {
     "nutritionUnit": "per 100 g uitgelekt product",
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -420,14 +420,14 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,3 g",
       "Natrium": "1280 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "0,5–7,7 mg",
+      "Cholesterol": "0,5 - 7,7 mg",
       "Zout": "3,2 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
   },
   "11": {
     "nutrition": {
-      "Energie": "893,33 kJ / 213,33 kcal",
+      "Energie": "893 kJ / 214 kcal",
       "Vetten": "21,33 g",
       "Waarvan verzadigde vetzuren": "4,67 g",
       "Koolhydraten": "0 g",
@@ -462,7 +462,7 @@ window.KPI_PRODUCTS = [
   },
   "12": {
     "nutrition": {
-      "Energie": "780 kJ / 186,67 kcal",
+      "Energie": "780 kJ / 187 kcal",
       "Vetten": "20 g",
       "Waarvan verzadigde vetzuren": "4 g",
       "Koolhydraten": "0 g",
@@ -503,7 +503,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,2 g",
       "Natrium": "1200 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "0,5–7,7 mg",
+      "Cholesterol": "0,5 - 7,7 mg",
       "Zout": "3 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
@@ -518,14 +518,14 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,2 g",
       "Natrium": "1200 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "0,5–7,7 mg",
+      "Cholesterol": "0,5 - 7,7 mg",
       "Zout": "3 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
   },
   "17": {
     "nutrition": {
-      "Energie": "43,59 kJ / 10,26 kcal",
+      "Energie": "43 kJ / 11 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "2,31 g",
@@ -558,7 +558,7 @@ window.KPI_PRODUCTS = [
   },
   "18": {
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -571,7 +571,7 @@ window.KPI_PRODUCTS = [
   },
   "20": {
     "nutrition": {
-      "Energie": "35 kJ / 8,4 kcal",
+      "Energie": "35 kJ / 9 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "0,7 g",
       "Waarvan suikers": "0 g",
@@ -584,7 +584,7 @@ window.KPI_PRODUCTS = [
   },
   "21": {
     "nutrition": {
-      "Energie": "<17 kJ / <3,88 kcal",
+      "Energie": "<17 kJ / <4 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0 g",
@@ -618,7 +618,7 @@ window.KPI_PRODUCTS = [
   },
   "22": {
     "nutrition": {
-      "Energie": "<44 kJ / <10,42 kcal",
+      "Energie": "<44 kJ / <11 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0 g",
@@ -677,7 +677,7 @@ window.KPI_PRODUCTS = [
   },
   "25": {
     "nutrition": {
-      "Energie": "<17 kJ / <3,85 kcal",
+      "Energie": "<17 kJ / <4 kcal",
       "Vetten": "0 g",
       "Waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "0 g",
@@ -732,7 +732,7 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1,1 g",
       "Natrium": "1300 mg",
       "Transvetten": "<0,5 g",
-      "Cholesterol": "25–100 mg",
+      "Cholesterol": "25 - 100 mg",
       "Zout": "3,25 g"
     },
     "nutritionUnit": "per 100 g uitgelekt product"
@@ -762,4 +762,111 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
   if(p.nutritionOriginal) {p.nutritionOriginal.unit = 'per '+label.grams+' g';p.nutritionOriginal.values.Natrium=label.sodium+' mg';}
   delete p.nutritionRoundingSource;
  }
+}());
+
+// Online voedingswaarden gekoppeld op exacte barcode; Nederlandse weergave.
+(function () {
+ const updates = {
+  "19": {
+    "nutrition": {
+      "Energie": "35 kJ / 8 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1080 mg",
+      "Zout": "2,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-06",
+    "nutritionSource": "https://cheapersal.co.il/product/7290002057369",
+    "nutritionSodiumConversion": "Zout berekend uit natrium: 1080 mg × 2,5 / 1000. Energie berekend uit 8,4 kcal en afgerond op hele getallen."
+  },
+  "22": {
+    "nutrition": {
+      "Energie": "35 kJ / 8 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "0,7 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1080 mg",
+      "Zout": "2,7 g"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutritionChecked": "2026-11-06",
+    "nutritionSource": "https://cheapersal.co.il/product/7290002057352",
+    "nutritionSodiumConversion": "Zout berekend uit natrium: 1080 mg × 2,5 / 1000. Energie berekend uit 8,4 kcal en afgerond op hele getallen."
+  }
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (updates[product.id]) Object.assign(product, updates[product.id]);
+ }
+}());
+
+// Op expliciet gebruikersverzoek dezelfde voedingswaarden voor deze varianten.
+(function () {
+ const source = window.KPI_PRODUCTS.find(p => p.id === 19);
+ for (const id of [21, 25]) {
+  const product = window.KPI_PRODUCTS.find(p => p.id === id);
+  product.nutrition = { ...source.nutrition };
+  product.nutritionUnit = 'per 100 g';
+  product.nutritionChecked = '2026-11-06';
+  product.nutritionSource = 'Gebruiker verzoekt dezelfde voedingswaarden als Kvuzat Yavne 10/12 en 7/9 op 6 november 2026.';
+ }
+}());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "1": "0,95 g",
+  "2": "0,83 g",
+  "6": "0,06 g",
+  "7": "0,5 g",
+  "8": "1,03 g",
+  "9": "1 g",
+  "10": "3,2 g",
+  "11": "4,5 g",
+  "12": "4,33 g",
+  "14": "3 g",
+  "15": "3 g",
+  "17": "3,59 g",
+  "18": "3,25 g",
+  "19": "2,7 g",
+  "20": "3,25 g",
+  "21": "2,7 g",
+  "22": "2,7 g",
+  "25": "2,7 g",
+  "26": "0,93 g",
+  "27": "3,25 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+   }
+  }
+  product.nutrition = ordered;
+ }
+}());
+(function () {
+  // Barcode and recipe checked against the manufacturer and published retail data.
+  const product = window.KPI_PRODUCTS.find(p => p.ean === '7290002057048');
+  if (!product) return;
+  product.nutrition = {
+    'Energie': '870 kJ / 208 kcal',
+    'Vetten': '20,7 g',
+    'Koolhydraten': '3,8 g',
+    'Eiwitten': '1,8 g',
+    'Natrium': '1090 mg',
+    'Zout': '2,73 g',
+  };
+  product.nutritionUnit = 'per 100 g';
+  product.nutritionChecked = '2026-11-06';
+  product.nutritionSource = 'https://foodiepedia.co.il/מחירים/זיתים-סורי-מבוקע-קבוצת-יבנה-540-גרם-7290002057048/';
+  product.nutritionReview = 'EAN verified; ingredients checked with pickles.co.il/en/product/syrian-cracked-olives/. Only supplied nutrients included. kJ calculated from kcal × 4.184; salt calculated from sodium × 2.5 and rounded half up.';
 }());

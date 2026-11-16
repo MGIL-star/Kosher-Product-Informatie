@@ -24,6 +24,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 2,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "987 kJ / 236 kcal",
+      "Vetten": "1,4 g",
+      "Koolhydraten": "93 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "93 g",
+      "Eiwitten": "0 g",
+      "Natrium": "79 mg",
+      "Zout": "0,2 g"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Snoepjes met Yoghurtsmaak (Aardbei en Bosbes)",
     "shortName": "MUST Yoghurt Aardbei & Bosbes (Suikervrij)",
@@ -50,6 +61,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 3,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "950 kJ / 227 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "94 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "94 g",
+      "Eiwitten": "0 g",
+      "Natrium": "93 mg",
+      "Zout": "0,23 g"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Snoepjes met de Smaak van Framboos en Citroen",
     "shortName": "MUST Framboos & Citroen (Suikervrij)",
@@ -74,6 +96,18 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 4,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "983 kJ / 235 kcal",
+      "Vetten": "1,6 g",
+      "Koolhydraten": "92 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "92 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Cafeïne": "56 mg"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Snoepjes met Koffiesmaak",
     "variant": "80 g",
@@ -99,6 +133,20 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 5,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1025 kJ / 245 kcal",
+      "Vetten": "2,5 g",
+      "Waarvan verzadigde vetzuren": "1,2 g",
+      "Koolhydraten": "93 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "93 g",
+      "Eiwitten": "0 g",
+      "Natrium": "230 mg",
+      "Zout": "0,58 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Snoepjes met de Smaak van Dulce de Leche",
     "shortName": "MUST Dulce de Leche (Suikervrij)",
@@ -125,6 +173,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 6,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "674 kJ / 161 kcal",
+      "Vetten": "0,5 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "65 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Kauwgomblokjes met Aardbeiensmaak en Vloeibare Vulling",
     "shortName": "MUST Suikervrije Aardbeikauwgom",
@@ -149,6 +208,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 7,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "686 kJ / 164 kcal",
+      "Vetten": "0,5 g",
+      "Koolhydraten": "66 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "66 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Kauwgom met de Smaak van Fruit en Munt",
     "variant": "66 g",
@@ -182,6 +252,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 8,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "632 kJ / 151 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "0 g",
+      "Polyolen": "63 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g"
+    },
     "brand": "Elite MUST",
     "name": "Suikervrije Kauwgom met Milde Muntsmaak",
     "variant": "28 g",
@@ -215,6 +296,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 22,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1357 kJ / 320 kcal",
+      "Vetten": "1,6 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "43 g",
+      "Vezels": "1,3 g",
+      "Eiwitten": "3,4 g",
+      "Zout": "1,21 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 g"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Mr Black Dropmix",
     "variant": "150 g",
@@ -247,6 +341,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 13,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Gesuikerde Colaflesjes",
     "variant": "120 g",
@@ -278,6 +385,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 14,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Bananen",
     "variant": "120 g",
@@ -309,6 +429,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 15,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Dubbele Kersen",
     "variant": "120 g",
@@ -340,6 +473,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 16,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Gladde Colaflesjes",
     "variant": "120 g",
@@ -371,6 +517,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 17,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Krokodillen",
     "variant": "120 g",
@@ -402,6 +561,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 18,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Candy Planet Gummibeertjes",
     "variant": "120 g",
@@ -467,6 +639,25 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 11,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2149 kJ / 514 kcal",
+      "Vetten": "27,03 g",
+      "Waarvan verzadigde vetzuren": "16,22 g",
+      "Koolhydraten": "59,46 g",
+      "Waarvan suikers": "51,35 g",
+      "Vezels": "< 2,7 g",
+      "Eiwitten": "8,11 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "27,03 mg",
+      "Natrium": "81,08 mg",
+      "Zout": "0,2 g",
+      "Toegevoegde suikers": "51,35 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "162,16 mg",
+      "IJzer": "1,89 mg",
+      "Kalium": "351,35 mg"
+    },
     "brand": "Elite",
     "name": "Mini Snap Melkchocoladereepjes met Wafel",
     "variant": "400 g",
@@ -501,6 +692,25 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 12,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2301 kJ / 550 kcal",
+      "Vetten": "32,5 g",
+      "Waarvan verzadigde vetzuren": "17,5 g",
+      "Koolhydraten": "52,5 g",
+      "Waarvan suikers": "47,5 g",
+      "Vezels": "2,5 g",
+      "Eiwitten": "7,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "12,5 mg",
+      "Natrium": "62,5 mg",
+      "Zout": "0,16 g",
+      "Toegevoegde suikers": "47,5 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "125 mg",
+      "IJzer": "2,25 mg",
+      "Kalium": "375 mg"
+    },
     "brand": "Elite",
     "name": "Mini Pesek Zman Classic Melkchocoladereepjes met Wafel en Hazelnootcrème",
     "shortName": "Mini Pesek Zman Classic",
@@ -534,6 +744,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 9,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2243 kJ / 536 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "17,3 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "58 g",
+      "Eiwitten": "6,6 g",
+      "Natrium": "84 mg",
+      "Zout": "0,21 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "19,9 mg"
+    },
     "brand": "Elite",
     "name": "Mini Mekupelet Melkchocolade",
     "variant": "400 g",
@@ -563,6 +786,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 19,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1360 kJ / 320 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,1 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "69 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "4,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "< 0,1 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Mini Marshmallows Wit en Roze",
     "variant": "175 g",
@@ -597,6 +833,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 20,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1360 kJ / 320 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,1 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "69 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "4,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "< 0,1 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "BBQ Marshmallows Wit",
     "variant": "175 g",
@@ -631,6 +880,19 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 21,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1360 kJ / 320 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,1 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "69 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "4,2 g",
+      "Zout": "0,02 g",
+      "Transvetten": "< 0,1 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Shneider’s",
     "name": "Marshmallow Kids",
     "variant": "175 g",

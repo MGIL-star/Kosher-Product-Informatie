@@ -33,7 +33,7 @@
     let points=p.imagePresentation?.corners, ratio=p.imagePresentation?.aspectRatio;
     if(!points) {
       const f=p.imageFrame, b=p.imageBounds;
-      const box=f?[f.x,f.y,f.x+f.width,f.y+f.height]:b;
+      const box=f?[f.x,f.y,f.x+f.width,f.y+f.height]:(b || (p.imageScale ? [0,0,1,1] : null));
       if(!box)return;
       const [l,t,r,bottom]=box;
       points=[[l,t],[r,t],[r,bottom],[l,bottom]];
@@ -41,7 +41,7 @@
     }
     if(!(ratio>0))return;
     const margin=frame.clientWidth<150?10:18;
-    const height=Math.min(frame.clientHeight-2*margin,(frame.clientWidth-2*margin)/ratio);
+    const height=Math.min(frame.clientHeight-2*margin,(frame.clientWidth-2*margin)/ratio)*(p.imageScale || 1);
     const width=height*ratio, left=(frame.clientWidth-width)/2, top=(frame.clientHeight-height)/2;
     // Render straight crops at their final size. A scaled 3D layer can soften
     // small packaging text, especially at fractional desktop/phone pixel ratios.

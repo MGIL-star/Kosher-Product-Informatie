@@ -2,6 +2,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 43,
     "name": "Bloemenhoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -30,6 +40,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 44,
     "name": "Lindehoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -57,6 +77,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 45,
     "name": "Lavendelhoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -84,6 +114,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 46,
     "name": "Tijmhoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -111,6 +151,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 47,
     "name": "Acaciahoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -138,6 +188,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 48,
     "name": "Kastanjehoning",
+    "nutrition": {
+      "Energie": "1282 kJ / 302 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "75 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "",
     "category": "Honing",
     "variant": "250 g",
@@ -165,6 +225,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 62,
     "name": "Chimichurri",
+    "nutrition": {
+      "Energie": "464 kJ / 111 kcal",
+      "Vetten": "7,7 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "8,5 g",
+      "Waarvan suikers": "3,5 g",
+      "Eiwitten": "2 g",
+      "Natrium": "350 mg",
+      "Zout": "0,88 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Bnei Darom",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -181,7 +253,7 @@ window.KPI_PRODUCTS = [
     ],
     "productInfo": {},
     "mayContain": "Kan cashewnoten bevatten.",
-    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Geen voedingswaarden opgenomen op verzoek gebruiker.",
+    "reviewNotes": "Ingrediënten en sporenwaarschuwing rechtstreeks gelezen van door gebruiker aangeleverde fysieke etiketfoto codex-clipboard-89320964-bf2c-4487-8833-9814b9e66e24.png. Peterselie 42%, witte ui 17%, rode paprika 17%, gedroogde knoflook 3%. Barcode en 190 g uit eerdere fototranscriptie. Productafbeelding vervangen door de juiste Chimichurri-foto die gebruiker aanleverde als codex-clipboard-82cc90a4-94e9-43bd-9fa1-9747b491dbfb.png. Voedingswaarden aangevuld met de aangeleverde etiketfoto van 9 november 2026.",
     "sources": [
       {
         "label": "Fabrikantcatalogus",
@@ -200,6 +272,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 63,
     "name": "Basilicumpesto",
+    "nutrition": {
+      "Energie": "1264 kJ / 302 kcal",
+      "Vetten": "32 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "1,9 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1,6 g",
+      "Natrium": "583 mg",
+      "Zout": "1,46 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Bnei Darom",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -229,6 +313,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 61,
     "name": "Knoflookpasta",
+    "nutrition": {
+      "Energie": "1243 kJ / 297 kcal",
+      "Vetten": "21 g",
+      "Waarvan verzadigde vetzuren": "1,5 g",
+      "Koolhydraten": "22 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "4,9 g",
+      "Natrium": "385 mg",
+      "Zout": "0,96 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Kvuzat Yavne",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -259,6 +355,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 64,
     "name": "Gedroogde Tomatenpasta",
+    "nutrition": {
+      "Energie": "1720 kJ / 411 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "8,5 g",
+      "Waarvan suikers": "5 g",
+      "Eiwitten": "2 g",
+      "Natrium": "1243 mg",
+      "Zout": "3,11 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Bnei Darom",
     "category": "Spreads & Pasta’s",
     "variant": "190 g",
@@ -289,6 +397,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 49,
     "name": "Za’atar met Olijfolie",
+    "nutrition": {
+      "Energie": "1473 kJ / 352 kcal",
+      "Vetten": "28 g",
+      "Waarvan verzadigde vetzuren": "2,8 g",
+      "Koolhydraten": "21,8 g",
+      "Waarvan suikers": "11 g",
+      "Vezels": "0,1 g",
+      "Eiwitten": "3,5 g",
+      "Zout": "1,4 g"
+    },
     "brand": "Neptune",
     "category": "Spreads & Pasta’s",
     "variant": "180 g",
@@ -334,13 +452,23 @@ window.KPI_PRODUCTS = [
   {
     "id": 58,
     "name": "Bessenmix Fruitpasta",
+    "nutrition": {
+      "Energie": "942 kJ / 225 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "54 g",
+      "Waarvan suikers": "52 g",
+      "Vezels": "2,4 g",
+      "Eiwitten": "1 g",
+      "Zout": "0,02 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
     "ean": "0811962010255",
     "ingredients": "Bessenmix (51%: aardbeien 17%, zwarte bessen 17%, kersen 17%), vruchtensapconcentraat (ananas, appel, peer), pectine, citroensapconcentraat.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/aunt-67018.jpg",
     "imageBounds": [
       0.14784,
@@ -368,6 +496,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 57,
     "name": "Aardbeien Fruitpasta",
+    "nutrition": {
+      "Energie": "1021 kJ / 244 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "55 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "0,5 g",
+      "Zout": "0,05 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
@@ -413,6 +551,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 56,
     "name": "Perzik Fruitpasta",
+    "nutrition": {
+      "Energie": "933 kJ / 223 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "55 g",
+      "Waarvan suikers": "54 g",
+      "Vezels": "0,9 g",
+      "Eiwitten": "0,4 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "284 g",
@@ -458,6 +606,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 55,
     "name": "Aardbeienjam",
+    "nutrition": {
+      "Energie": "1038 kJ / 248 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "1 g",
+      "Eiwitten": "0,6 g",
+      "Zout": "0,01 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -493,6 +651,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 54,
     "name": "Kersenjam",
+    "nutrition": {
+      "Energie": "1038 kJ / 248 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "1 g",
+      "Eiwitten": "0,6 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -527,6 +695,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 53,
     "name": "Vijgenjam",
+    "nutrition": {
+      "Energie": "1051 kJ / 251 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "60 g",
+      "Vezels": "1,6 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -562,6 +740,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 52,
     "name": "Appel & Kaneel",
+    "nutrition": {
+      "Energie": "1047 kJ / 250 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "62 g",
+      "Waarvan suikers": "61 g",
+      "Vezels": "1,2 g",
+      "Eiwitten": "0 g",
+      "Zout": "0 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "340 g",
@@ -597,6 +785,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 59,
     "name": "Dadelstroop 100% Dadels",
+    "nutrition": {
+      "Energie": "1335 kJ / 319 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "77 g",
+      "Waarvan suikers": "64 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "1,9 g",
+      "Zout": "0,02 g"
+    },
     "brand": "Aunt Berta",
     "category": "Dadelproducten",
     "variant": "340 g",
@@ -640,6 +838,15 @@ window.KPI_PRODUCTS = [
   {
     "id": 37,
     "name": "Chocoladepasta Origineel",
+    "nutrition": {
+      "Energie": "2289 kJ / 547 kcal",
+      "Vetten": "31 g",
+      "Waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "65 g",
+      "Eiwitten": "4 g",
+      "Zout": "0,08 g",
+      "Cholesterol": "< 2,5 mg"
+    },
     "brand": "Hatov",
     "category": "Spreads & Pasta’s",
     "variant": "400 g",
@@ -674,13 +881,23 @@ window.KPI_PRODUCTS = [
     "barcodeSource": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/39.jpg",
     "barcodeChecked": "2026-10-09",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbijn Weissmandl (Parve)"
     ]
   },
   {
     "id": 38,
     "name": "Delinut Melk",
+    "nutrition": {
+      "Energie": "2473 kJ / 595 kcal",
+      "Vetten": "43 g",
+      "Waarvan verzadigde vetzuren": "7,1 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "39 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "6,2 g",
+      "Zout": "0,08 g"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -718,6 +935,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 39,
     "name": "Delinut Origineel",
+    "nutrition": {
+      "Energie": "2459 kJ / 591 kcal",
+      "Vetten": "41 g",
+      "Waarvan verzadigde vetzuren": "7 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "46 g",
+      "Vezels": "3,6 g",
+      "Eiwitten": "3,7 g",
+      "Zout": "0,01 g"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -753,6 +980,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 40,
     "name": "Delinut Duo",
+    "nutrition": {
+      "Energie": "2400 kJ / 576 kcal",
+      "Vetten": "37 g",
+      "Waarvan verzadigde vetzuren": "6,5 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "56 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "1,8 g",
+      "Zout": "0,01 g"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -788,6 +1025,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 41,
     "name": "Pindakaas Romig",
+    "nutrition": {
+      "Energie": "2585 kJ / 624 kcal",
+      "Vetten": "50,8 g",
+      "Waarvan verzadigde vetzuren": "8,7 g",
+      "Koolhydraten": "9,9 g",
+      "Waarvan suikers": "6,1 g",
+      "Vezels": "8,1 g",
+      "Eiwitten": "27,7 g",
+      "Zout": "0,4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -824,6 +1073,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 42,
     "name": "Pindakaas met Stukjes",
+    "nutrition": {
+      "Energie": "2609 kJ / 627 kcal",
+      "Vetten": "52 g",
+      "Waarvan verzadigde vetzuren": "9,3 g",
+      "Koolhydraten": "12 g",
+      "Waarvan suikers": "8,5 g",
+      "Vezels": "6,7 g",
+      "Eiwitten": "25 g",
+      "Zout": "0,4 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg"
+    },
     "brand": "Schneider’s",
     "category": "Spreads & Pasta’s",
     "variant": "350 g",
@@ -860,6 +1121,15 @@ window.KPI_PRODUCTS = [
   {
     "id": 50,
     "name": "Harosset",
+    "nutrition": {
+      "Energie": "1266 kJ / 303 kcal",
+      "Vetten": "2,9 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "68,3 g",
+      "Vezels": "0,5 g",
+      "Eiwitten": "0,9 g",
+      "Zout": "0 g"
+    },
     "brand": "Beit Yitzhak Natural Products",
     "category": "Spreads & Pasta’s",
     "variant": "250 g",
@@ -894,6 +1164,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 51,
     "name": "Charoset Dadelpasta",
+    "nutrition": {
+      "Energie": "1227 kJ / 293 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "61 g",
+      "Vezels": "4,7 g",
+      "Eiwitten": "1,3 g",
+      "Zout": "0,02 g"
+    },
     "brand": "Aunt Berta",
     "category": "Spreads & Pasta’s",
     "variant": "240 g",
@@ -933,6 +1213,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 1,
     "name": "Italiaanse Mediterrane Kruidenmix",
+    "nutrition": {
+      "Energie": "1121 kJ / 268 kcal",
+      "Vetten": "5,8 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "20,7 g",
+      "Waarvan suikers": "2,2 g",
+      "Vezels": "39,5 g",
+      "Eiwitten": "13,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "54,3 mg",
+      "Zout": "0,14 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "30 g",
@@ -973,13 +1266,26 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-02.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Rabbinaat Petach Tikva (Parve)"
     ]
   },
   {
     "id": 2,
     "name": "Za’atar Kruidenmix",
+    "nutrition": {
+      "Energie": "1904 kJ / 455 kcal",
+      "Vetten": "33,7 g",
+      "Waarvan verzadigde vetzuren": "4,8 g",
+      "Koolhydraten": "14 g",
+      "Waarvan suikers": "1,4 g",
+      "Vezels": "18,1 g",
+      "Eiwitten": "14,9 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "3164 mg",
+      "Zout": "7,91 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1022,7 +1328,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-04.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1030,6 +1336,31 @@ window.KPI_PRODUCTS = [
   {
     "id": 3,
     "name": "Rash El Hanut",
+    "nutrition": {
+      "Energie": "999 kJ / 238 kcal",
+      "Vetten": "6,1 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "3,7 g",
+      "Koolhydraten": "39 g",
+      "Waarvan suikers": "1,9 g",
+      "Vezels": "7,2 g",
+      "Eiwitten": "6 g",
+      "Zout": "32,3 g"
+    },
+    "nutritionSource": "The Spicefactory BV, AB23364, versie 1 (9 november 2026)",
+    "nutrition": {
+      "Energie": "1209 kJ / 289 kcal",
+      "Vetten": "12,9 g",
+      "Waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "19,3 g",
+      "Waarvan suikers": "0,9 g",
+      "Vezels": "27,5 g",
+      "Eiwitten": "10,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "6698 mg",
+      "Zout": "16,75 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1070,7 +1401,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-06.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1120,7 +1451,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-08.jpg",
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
     ]
@@ -1170,7 +1501,7 @@ window.KPI_PRODUCTS = [
     "kosherSource": "source-labels/20261009-kruiden-10.jpg",
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
     ]
@@ -1178,6 +1509,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 21,
     "name": "Baharat",
+    "nutrition": {
+      "Energie": "1166 kJ / 279 kcal",
+      "Vetten": "9,5 g",
+      "Waarvan verzadigde vetzuren": "1,8 g",
+      "Koolhydraten": "25,8 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "30,5 g",
+      "Eiwitten": "7,2 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "5856,6 mg",
+      "Zout": "14,64 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "80 g",
@@ -1218,7 +1562,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1226,6 +1570,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 6,
     "name": "Gehaktbal Hamburger & Kebab Kruidenmix",
+    "nutrition": {
+      "Energie": "1176 kJ / 281 kcal",
+      "Vetten": "6,3 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "38,8 g",
+      "Waarvan suikers": "12,2 g",
+      "Vezels": "14,6 g",
+      "Eiwitten": "10 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "7446 mg",
+      "Zout": "18,62 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1266,7 +1623,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1314,7 +1671,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1322,6 +1679,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 8,
     "name": "Hawaij Soepkruiden",
+    "nutrition": {
+      "Energie": "1249 kJ / 299 kcal",
+      "Vetten": "11,5 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "33 g",
+      "Waarvan suikers": "2,1 g",
+      "Vezels": "15,2 g",
+      "Eiwitten": "11,3 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "5892,9 mg",
+      "Zout": "14,73 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1364,7 +1734,7 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
@@ -1473,6 +1843,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 11,
     "name": "Shoarmakruiden",
+    "nutrition": {
+      "Energie": "1038 kJ / 248 kcal",
+      "Vetten": "7,7 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "27,1 g",
+      "Waarvan suikers": "3,8 g",
+      "Vezels": "18,7 g",
+      "Eiwitten": "9,5 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "9727 mg",
+      "Zout": "24,32 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1510,7 +1893,7 @@ window.KPI_PRODUCTS = [
     "kosherChecked": "2026-10-09",
     "kosherSource": "source-labels/20261009-kruiden-b-14.jpg",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1518,6 +1901,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 12,
     "name": "Shish Kebab Kruidenmix",
+    "nutrition": {
+      "Energie": "1255 kJ / 300 kcal",
+      "Vetten": "7,8 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "41,9 g",
+      "Waarvan suikers": "23,6 g",
+      "Vezels": "12,5 g",
+      "Eiwitten": "5,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "6532 mg",
+      "Zout": "16,33 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1560,7 +1956,7 @@ window.KPI_PRODUCTS = [
     "barcodeNeedsCheck": false,
     "kosherForPassover": true,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Badatz Beit Yosef",
       "Rabbinaat Petach Tikva (KLP) (Parve)"
@@ -1608,7 +2004,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1655,7 +2051,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1702,7 +2098,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1749,7 +2145,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1757,6 +2153,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 17,
     "name": "Kruiden voor Gebakken Aardappelen",
+    "nutrition": {
+      "Energie": "1393 kJ / 333 kcal",
+      "Vetten": "4 g",
+      "Waarvan verzadigde vetzuren": "0,9 g",
+      "Koolhydraten": "61,9 g",
+      "Waarvan suikers": "47,1 g",
+      "Vezels": "13,5 g",
+      "Eiwitten": "5,6 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "3141 mg",
+      "Zout": "7,85 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
@@ -1797,7 +2206,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1805,13 +2214,26 @@ window.KPI_PRODUCTS = [
   {
     "id": 18,
     "name": "Knoflookbrood Kruidenmix",
+    "nutrition": {
+      "Energie": "1259 kJ / 301 kcal",
+      "Vetten": "1,3 g",
+      "Waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "52 g",
+      "Waarvan suikers": "2,4 g",
+      "Vezels": "11,7 g",
+      "Eiwitten": "16,7 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "3945 mg",
+      "Zout": "9,86 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",
     "ean": "7290014217522",
     "ingredients": "Knoflook (74%), zout, kruiden, specerijen.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/67165.jpg",
     "productInfo": {
       "Kenmerken": "Natuurlijke ingrediënten. Glutenvrij"
@@ -1834,6 +2256,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 19,
     "name": "Toscaanse Kruidenmix",
+    "nutrition": {
+      "Energie": "1079 kJ / 258 kcal",
+      "Vetten": "4 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Koolhydraten": "39,3 g",
+      "Waarvan suikers": "2,1 g",
+      "Vezels": "10,2 g",
+      "Eiwitten": "11,1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "9786 mg",
+      "Zout": "24,47 g"
+    },
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "120 g",
@@ -1924,7 +2359,7 @@ window.KPI_PRODUCTS = [
     "barcodeChecked": "2026-10-09",
     "barcodeNeedsCheck": false,
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "Badatz Edah HaChareidis",
       "Rabbinaat Petach Tikva (Parve)"
     ]
@@ -1932,6 +2367,16 @@ window.KPI_PRODUCTS = [
   {
     "id": 22,
     "name": "Amba",
+    "nutrition": {
+      "Energie": "163 kJ / 39 kcal",
+      "Vetten": "0,9 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "6,5 g",
+      "Waarvan suikers": "1,1 g",
+      "Vezels": "2,8 g",
+      "Eiwitten": "2 g",
+      "Zout": "6 g"
+    },
     "brand": "Albadya",
     "category": "Sauzen",
     "variant": "380 g",
@@ -1950,11 +2395,22 @@ window.KPI_PRODUCTS = [
   {
     "id": 23,
     "name": "Sumak",
+    "nutrition": {
+      "Energie": "1071 kJ / 255 kcal",
+      "Vetten": "11 g",
+      "Waarvan verzadigde vetzuren": "< 0,1 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "< 0,1 g",
+      "Koolhydraten": "45 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "14 g",
+      "Eiwitten": "4,2 g"
+    },
+    "nutritionSource": "The Spicefactory BV, AB23129, versie 1 (9 november 2026)",
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "155 g",
     "ean": "8718781934996",
-    "ingredients": "100% sumak.",
+    "ingredients": "Sumak.",
     "allergens": [],
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-sumak-photo-20261008.png",
@@ -2053,12 +2509,23 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 26,
+    "nutrition": {
+      "Energie": "71 kJ / 17 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,1 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "< 0,1 g",
+      "Koolhydraten": "4 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "1 g"
+    },
+    "nutritionSource": "The Spicefactory BV, AB23234, versie 1 (9 november 2026)",
     "name": "Uienpoeder",
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "125 g",
     "ean": "8718781793920",
-    "ingredients": "100% ui.",
+    "ingredients": "Uienpoeder.",
     "allergens": [],
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-ui-photo-20261008.png",
@@ -2130,6 +2597,17 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 28,
+    "nutrition": {
+      "Energie": "1184 kJ / 282 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "11 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "7,2 g",
+      "Vezels": "35 g",
+      "Eiwitten": "13 g"
+    },
+    "nutritionSource": "source-labels/ab23224-nl-x-6-pulbiber-135-gr.-albadya-productspecificatie.pdf",
     "name": "Grove Paprika",
     "brand": "Albadya",
     "category": "Pure specerijen",
@@ -2158,28 +2636,28 @@ window.KPI_PRODUCTS = [
     "ingredientsPartial": false,
     "kosherSource": "Gebruiker bevestigt op 9 oktober 2026 PIG Amsterdam – Rabbijn Toledano voor alle Albadya-kruiden en Amba.",
     "kosherChecked": "2026-10-09",
-    "nutrition": {
-      "Energie": "1184 kJ / 282 kcal",
-      "Vetten": "14 g",
-      "Waarvan verzadigde vetzuren": "2,5 g",
-      "Waarvan enkelvoudig onverzadigde vetzuren": "11 g",
-      "Koolhydraten": "50 g",
-      "Waarvan suikers": "7,2 g",
-      "Vezels": "35 g",
-      "Eiwitten": "13 g"
-    },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "source-labels/ab23224-nl-x-6-pulbiber-135-gr.-albadya-productspecificatie.pdf",
     "nutritionChecked": "2026-11-16"
   },
   {
     "id": 29,
+    "nutrition": {
+      "Energie": "1517 kJ / 361 kcal",
+      "Vetten": "12 g",
+      "Waarvan verzadigde vetzuren": "0,8 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "7,5 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "0,8 g",
+      "Vezels": "13 g",
+      "Eiwitten": "10 g"
+    },
+    "nutritionSource": "The Spicefactory BV, AB23331, versie 1 (9 november 2026)",
     "name": "Curry Masala",
     "brand": "Albadya",
     "category": "Kruidenmixen",
     "variant": "145 g",
     "ean": "8718781636098",
-    "ingredients": "Koriander, fenegriek, mosterd, komijn, nigella, kurkuma, zetmeel (maïs), peper.",
+    "ingredients": "Gemalen kurkuma, hele koriander, hele fenegriek, heel mosterdzaad, komijnzaad, zwarte komijn, gemalen zwarte peper.",
     "allergens": [
       "MOSTERD"
     ],
@@ -2206,12 +2684,23 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 30,
+    "nutrition": {
+      "Energie": "1184 kJ / 282 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "11 g",
+      "Koolhydraten": "50 g",
+      "Waarvan suikers": "7,2 g",
+      "Vezels": "35 g",
+      "Eiwitten": "13 g"
+    },
+    "nutritionSource": "The Spicefactory BV, AB23201, versie 1 (9 november 2026)",
     "name": "Chili",
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "135 g",
     "ean": "8718781936471",
-    "ingredients": "100% chili.",
+    "ingredients": "Gemalen chilipepers.",
     "allergens": [],
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-chili-photo-20261008.png",
@@ -2236,12 +2725,23 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 31,
+    "nutrition": {
+      "Energie": "1252 kJ / 298 kcal",
+      "Vetten": "18 g",
+      "Waarvan verzadigde vetzuren": "1 g",
+      "Waarvan enkelvoudig onverzadigde vetzuren": "15 g",
+      "Koolhydraten": "55 g",
+      "Waarvan suikers": "< 0,5 g",
+      "Vezels": "42 g",
+      "Eiwitten": "12 g"
+    },
+    "nutritionSource": "The Spicefactory BV, AB23215, versie 1 (9 november 2026)",
     "name": "Koriander",
     "brand": "Albadya",
     "category": "Pure specerijen",
     "variant": "115 g",
     "ean": "8718781232153",
-    "ingredients": "100% koriander.",
+    "ingredients": "Gemalen koriander.",
     "allergens": [],
     "kosher": "PIG Amsterdam - Rabbijn Toledano",
     "image": "images/albadya-koriander-photo-20261008.png",
@@ -2267,13 +2767,25 @@ window.KPI_PRODUCTS = [
   {
     "id": 32,
     "name": "Natuurlijke Medjoul Dadels",
+    "nutrition": {
+      "Energie": "1189 kJ / 284 kcal",
+      "Vetten": "0,3 g",
+      "Waarvan verzadigde vetzuren": "0,16 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "65,5 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Magnesium": "50 mg",
+      "Kalium": "600 mg"
+    },
     "brand": "King Solomon",
     "category": "Dadelproducten",
     "variant": "1 kg",
     "ean": "7290002490562",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/dates-king-straight.png",
     "productInfo": {
       "Bewaren": "Koel en droog"
@@ -2312,7 +2824,7 @@ window.KPI_PRODUCTS = [
     "ean": "8719326034072",
     "ingredients": "100% Medjoul dadels.",
     "allergens": [],
-    "kosher": "OU",
+    "kosher": "OU (Orthodox Union)",
     "image": "images/dates-palma-straight.png",
     "productInfo": {
       "Bewaren": "Koel en droog"
@@ -2348,6 +2860,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 65,
     "name": "Natuurlijke Medjoul Dadels",
+    "nutrition": {
+      "Energie": "1189 kJ / 284 kcal",
+      "Vetten": "0,3 g",
+      "Waarvan verzadigde vetzuren": "0,16 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "65,5 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Magnesium": "50 mg",
+      "Kalium": "600 mg"
+    },
     "brand": "La Palma",
     "category": "Dadelproducten",
     "variant": "1 kg",
@@ -2382,6 +2906,17 @@ window.KPI_PRODUCTS = [
   {
     "id": 66,
     "name": "Natuurlijke Medjoul Dadels",
+    "nutrition": {
+      "Energie": "1189 kJ / 284 kcal",
+      "Vetten": "0,3 g",
+      "Waarvan verzadigde vetzuren": "0,2 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "66 g",
+      "Vezels": "5,5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Kalium": "600 mg"
+    },
     "brand": "Myjool",
     "category": "Dadelproducten",
     "variant": "200 g",
@@ -2417,6 +2952,19 @@ window.KPI_PRODUCTS = [
   {
     "id": 34,
     "name": "Dadelpasta",
+    "nutrition": {
+      "Energie": "1046 kJ / 250 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "58 g",
+      "Waarvan suikers": "53,7 g",
+      "Theelepels suiker": "13,5",
+      "Vezels": "5,2 g",
+      "Eiwitten": "1,5 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Magnesium": "15 mg",
+      "Kalium": "193 mg"
+    },
     "brand": "Hadiklaim / Tzur Farm",
     "category": "Dadelproducten",
     "variant": "450 g",
@@ -2459,6 +3007,17 @@ window.KPI_PRODUCTS = [
   {
     "id": 60,
     "name": "Medjoul Dadelpasta",
+    "nutrition": {
+      "Energie": "1247 kJ / 294 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "69 g",
+      "Waarvan suikers": "65 g",
+      "Vezels": "5 g",
+      "Eiwitten": "2 g",
+      "Zout": "0 g",
+      "Kalium": "760 mg"
+    },
     "brand": "Mehadrin",
     "category": "Dadelproducten",
     "variant": "450 g",
@@ -2500,6 +3059,17 @@ window.KPI_PRODUCTS = [
   {
     "id": 35,
     "name": "Silan 100% Dadels",
+    "nutrition": {
+      "Energie": "1272 kJ / 304 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "73 g",
+      "Vezels": "2 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Kalium": "480 mg"
+    },
     "brand": "Ta’amei Haglil",
     "category": "Dadelproducten",
     "variant": "900 g",
@@ -2545,6 +3115,18 @@ window.KPI_PRODUCTS = [
   {
     "id": 36,
     "name": "Dadelstroop met Toegevoegde Suiker",
+    "nutrition": {
+      "Energie": "1335 kJ / 319 kcal",
+      "Vetten": "0 g",
+      "Koolhydraten": "79 g",
+      "Waarvan suikers": "73 g",
+      "Theelepels suiker": "18,25",
+      "Vezels": "1,5 g",
+      "Eiwitten": "0 g",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Kalium": "280 mg"
+    },
     "brand": "Ta’amei Haglil",
     "category": "Dadelproducten",
     "variant": "900 g",

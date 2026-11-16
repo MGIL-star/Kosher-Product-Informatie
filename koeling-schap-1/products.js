@@ -98,7 +98,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "nutrition": {
-      "Energie": "941,5 kJ / 224,5 kcal",
+      "Energie": "941 kJ / 225 kcal",
       "Vetten": "20,3 g",
       "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "3 g",
@@ -191,7 +191,7 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
     },
     "nutrition": {
-      "Energie": "313,3 kJ / 73,9 kcal",
+      "Energie": "313 kJ / 74 kcal",
       "Vetten": "0,6 g",
       "waarvan verzadigde vetzuren": "0,2 g",
       "Koolhydraten": "12,9 g",
@@ -204,7 +204,7 @@ window.KPI_PRODUCTS = [
   },
   {
     "nutrition": {
-      "Energie": "1557,5 kJ / 371,7 kcal",
+      "Energie": "1557 kJ / 372 kcal",
       "Vetten": "39,6 g",
       "waarvan verzadigde vetzuren": "2,8 g",
       "Koolhydraten": "2 g",
@@ -256,7 +256,7 @@ window.KPI_PRODUCTS = [
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "nutrition": {
-      "Energie": "1539,6 kJ / 367,5 kcal",
+      "Energie": "1539 kJ / 368 kcal",
       "Vetten": "38,8 g",
       "waarvan verzadigde vetzuren": "2,7 g",
       "Koolhydraten": "2,6 g",
@@ -355,7 +355,7 @@ window.KPI_PRODUCTS = [
     },
     "imageEdited": true,
     "nutrition": {
-      "Energie": "161,2 kJ / 38,2 kcal",
+      "Energie": "161 kJ / 39 kcal",
       "Vetten": "0,1 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Koolhydraten": "7,8 g",
@@ -396,7 +396,7 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
     },
     "nutrition": {
-      "Energie": "1012,2 kJ / 240,4 kcal",
+      "Energie": "1012 kJ / 241 kcal",
       "Vetten": "25,4 g",
       "waarvan verzadigde vetzuren": "1,7 g",
       "Koolhydraten": "2,5 g",
@@ -424,7 +424,7 @@ window.KPI_PRODUCTS = [
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "nutrition": {
-      "Energie": "230,3 kJ / 54,7 kcal",
+      "Energie": "230 kJ / 55 kcal",
       "Vetten": "0,4 g",
       "waarvan verzadigde vetzuren": "0,1 g",
       "Koolhydraten": "10,2 g",
@@ -494,13 +494,13 @@ window.KPI_PRODUCTS = [
     "kosherStatus": "Parve",
     "kosherSource": "Hechserfoto 1ad9c790-315e-44e8-9bf1-853c5e7afe21.jpg; op 10 oktober 2026 door gebruiker bevestigd voor de hele Tasty Food-lijn.",
     "nutrition": {
-      "Energie": "2048,9 kJ / 489,1 kcal",
+      "Energie": "2048 kJ / 490 kcal",
       "Vetten": "48,9 g",
       "waarvan verzadigde vetzuren": "3,5 g",
       "Koolhydraten": "1,9 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "10,9 g",
-      "Zout": "1,0 g"
+      "Zout": "1 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Tasty Foods Nutrition Facts (29 oktober 2026), Tuna Deluxe (code 032), per 100 g.",
@@ -537,7 +537,7 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
     },
     "nutrition": {
-      "Energie": "3110,5 kJ / 742,9 kcal",
+      "Energie": "3110 kJ / 743 kcal",
       "Vetten": "76,3 g",
       "waarvan verzadigde vetzuren": "7,5 g",
       "Koolhydraten": "4,5 g",
@@ -577,7 +577,7 @@ window.KPI_PRODUCTS = [
       "directory": "C:/Users/ellag/OneDrive/Desktop/Maor/Fotos voor Codex/"
     },
     "nutrition": {
-      "Energie": "917 kJ / 218,6 kcal",
+      "Energie": "917 kJ / 219 kcal",
       "Vetten": "19,1 g",
       "waarvan verzadigde vetzuren": "2,8 g",
       "Koolhydraten": "2,8 g",
@@ -1222,7 +1222,7 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": true,
     "allergenNote": "Kan sporen bevatten van sesam, noten en pinda.",
     "nutrition": {
-      "Energie": "159,04 kJ / 38,15 kcal",
+      "Energie": "159 kJ / 39 kcal",
       "Vetten": "2,19 g",
       "waarvan verzadigde vetzuren": "1,19 g",
       "Koolhydraten": "3,88 g",
@@ -1400,7 +1400,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "5,4 g",
       "waarvan suikers": "<0,5 g",
       "Eiwitten": "6,7 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-tarama/codex-clipboard-02c6ee83-44fd-40db-b95a-21a11ac05937.jpg.",
@@ -2400,7 +2400,7 @@ window.KPI_PRODUCTS = [
       "waarvan verzadigde vetzuren": "0,4 g",
       "Koolhydraten": "1,6 g",
       "waarvan suikers": "0,4 g",
-      "Eiwitten": "23,0 g",
+      "Eiwitten": "23 g",
       "Zout": "1,78 g"
     },
     "nutritionUnit": "per 100 g",
@@ -2458,12 +2458,12 @@ window.KPI_PRODUCTS = [
     "allergensConfirmedAbsent": false,
     "nutrition": {
       "Energie": "544 kJ / 130 kcal",
-      "Vetten": "4,0 g",
+      "Vetten": "4 g",
       "waarvan verzadigde vetzuren": "1,4 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "<0,1 g",
       "Eiwitten": "23,2 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-pastrami/codex-clipboard-4f809c74-bd05-4f6e-b196-55632a0cc622.jpg.",
@@ -2514,7 +2514,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "0,2 g",
       "waarvan suikers": "<0,1 g",
       "Eiwitten": "21,9 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-a0bc2d58-3a66-4cc3-a2e9-02714dc9c9c0.jpg."
@@ -2563,7 +2563,7 @@ window.KPI_PRODUCTS = [
     "category": "Vleeswaren",
     "variant": "80 g",
     "ean": "3760059042129",
-    "nutrition": {"Energie":"1199 kJ / 289 kcal","Vetten":"24 g","waarvan verzadigde vetzuren":"10,5 g","Koolhydraten":"1,3 g","waarvan suikers":"0,6 g","Eiwitten":"17 g","Zout":"1,9 g"},
+    "nutrition": {"Energie": "1199 kJ / 289 kcal","Vetten": "24 g","waarvan verzadigde vetzuren": "10,5 g","Koolhydraten": "1,3 g","waarvan suikers": "0,6 g","Eiwitten": "17 g","Zout": "1,9 g"},
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261031-salami-napoli/codex-clipboard-16ff6562-c5b1-422e-aedc-6c632b9a7043.jpg.",
     "ingredients": "Rundvlees (70%), rundvet (20%), water, soja-eiwit, magere melkpoeder, aardappelzetmeel, zout, conserveermiddel (natriumnitriet (E250)), dextrose, emulgatoren (E450, E451), zuurteregelaar (E575), smaakversterker (E621), specerijen, antioxidant (E316), aroma (brandewijn (cognac)).",
@@ -2638,12 +2638,12 @@ window.KPI_PRODUCTS = [
     "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
     "nutrition": {
       "Energie": "544 kJ / 130 kcal",
-      "Vetten": "4,0 g",
+      "Vetten": "4 g",
       "waarvan verzadigde vetzuren": "1,4 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "<0,1 g",
       "Eiwitten": "23,2 g",
-      "Zout": "2,0 g"
+      "Zout": "2 g"
     },
     "nutritionUnit": "per 100 g",
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-f0a902cf-ce57-4cd2-81ad-f53210dacc74.jpg."

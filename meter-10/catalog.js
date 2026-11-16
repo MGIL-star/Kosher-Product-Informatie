@@ -76,6 +76,7 @@
       <div class="dialog-heading"><h2 id="dialog-title">${escapeHtml(product.name)}</h2><p>${escapeHtml(product.brand)}${product.englishName ? ` · ${escapeHtml(product.englishName)}` : ''}</p>${product.variant ? `<span>${escapeHtml(product.variant)}</span>` : ''}</div>
       ${product.productInfo ? `<section><h3>${product.isWine ? 'Productinformatie / wijnstijl' : 'Productinformatie'}</h3>${Object.entries(product.productInfo).map(([label, value]) => `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`).join('')}</section>` : ''}
       ${product.ingredients ? `<section><h3>Ingrediënten</h3><p>${window.KPI_emphasizeAllergens(product.ingredients)}</p></section>` : ''}
+      ${product.nutrition ? `<section><h3>Voedingswaarden ${escapeHtml(product.nutritionUnit || "per 100 g")}</h3>${Object.entries(product.nutrition).map(([label, value]) => `<p><strong>${escapeHtml(label)}:</strong> ${escapeHtml(value)}</p>`).join('')}</section>` : ''}
       ${product.allergens !== null ? `<section><h3>Allergenen</h3><div class="allergen-list">${allergens}</div>${product.allergenNote ? `<p>${escapeHtml(product.allergenNote)}</p>` : ''}</section>` : ''}
       ${product.mayContain ? `<section><h3>Kan bevatten</h3><p>${escapeHtml(product.mayContain)}</p></section>` : ''}
       ${product.warning ? `<section class="product-warning"><h3>Waarschuwing</h3><p>${escapeHtml(product.warning)}</p></section>` : ''}

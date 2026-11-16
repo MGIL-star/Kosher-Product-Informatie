@@ -46,3 +46,5 @@
 - Verwijder op gebruikersverzoek bewaarvermeldingen bij diepvriesproducten, inclusief Ingevroren bewaren (Parve), bewaartemperatuur en niet opnieuw invriezen na ontdooien. Pas dit toe in catalogus en QR-productpagina’s.
 
 - Koelingen en diepvries volgen dezelfde sectie-opmaak en allergenenstijl als DKW. Sporenmeldingen en fabrieksmeldingen staan onder LET OP, met gewone schrijfwijze. Bewaaradvies vervalt ook bij koelingen. Verwijder aparte velden Zuivel: Chalav Yisroel en Verpakking: Vacuüm verpakt / 2 potjes van 100 g; gewicht blijft onder de merknaam.
+
+- Bij voedingswaarden met natrium: bereken zout met factor 2,5 op dezelfde portiebasis. Bij mg natrium: zout in g = natrium in mg ÷ 1.000 × 2,5. Toon natrium en daar direct onder zout als aparte regels, met maximaal twee decimalen. Toon geen regel Omrekening zout of uitleg van de berekening; deze blijft intern. Pas dit gelijk toe in catalogus en QR-pagina’s; producten zonder natrium blijven ongewijzigd.

@@ -3,6 +3,7 @@
   // Display only supplied places/statuses, separated consistently from the name.
   window.KPI_formatHechsher = function (value) {
     let text = String(value).trim()
+      .replace(/\bOU\b(?![-\w]|\s*\(Orthodox Union\))/g, 'OU (Orthodox Union)')
       .replace(/\b(?:Badatz\s+)?Cha(?:tam|sam) Sofer\b/gi, 'Badatz Chatam Sofer')
       .replace(/\bBne[i ]*Brak\b/gi, 'Bnei Brak')
       .replace(/\s*[,·]\s*/g, ' - ');
@@ -139,10 +140,11 @@
       const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
       const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
       if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
+      const keepParve = /chocola|chocolate|cake|babka/i.test(`${product.name || ''} ${product.category || ''}`);
       line.classList.add('notranslate');
       line.setAttribute('translate', 'no');
       line.replaceChildren();
-      names.map(text => window.KPI_formatHechsher(text)).sort((a, b) => b.length - a.length).forEach((text, index) => {
+      names.map(text => window.KPI_formatHechsher(keepParve ? text : text.replace(/\s*\(parve\)|\bparve\b/gi, '').trim())).filter(Boolean).sort((a, b) => b.length - a.length).forEach((text, index) => {
         if (index) line.append(document.createElement('br'));
         line.append(document.createTextNode(text));
       });
@@ -313,7 +315,7 @@
         const notice = document.createElement('section');
         notice.className = 'trace-allergen-notice';
         const heading = document.createElement('h3');
-        heading.textContent = 'LET OP:';
+        heading.textContent = 'LET OP';
         notice.append(heading);
         noticeTexts.forEach(value => {
           const paragraph = document.createElement('p');
@@ -329,7 +331,9 @@
       heading.textContent = heading.textContent
         .replace(/^Bekende ingrediënten$/, 'Ingrediënten')
         .replace('Productinformatie / wijnstijl', 'Productinformatie & wijnstijl')
-        .replace('Barcode / EAN', 'Barcode & EAN');
+        .replace('Barcode / EAN', 'Barcode & EAN')
+        // The shared stylesheet supplies the single, spaced colon.
+        .replace(/[\s:：]+$/, '');
       if (/^Ingrediënten(?: \(INCI\))?$/.test(heading.textContent)) heading.classList.add('ingredient-heading');
     }
     for (const label of root.querySelectorAll('section > p > strong:first-child')) {

@@ -244,7 +244,7 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "nutrition": {
-      "Energie": "1020,9 kJ / 244 kcal",
+      "Energie": "1020 kJ / 244 kcal",
       "Vetten": "7,1 g",
       "waarvan verzadigde vetzuren": "1,1 g",
       "Koolhydraten": "36,4 g",
@@ -292,7 +292,7 @@ window.KPI_PRODUCTS = [
     },
     "allergensConfirmedAbsent": false,
     "nutrition": {
-      "Energie": "878,64 kJ / 210 kcal",
+      "Energie": "878 kJ / 210 kcal",
       "Vetten": "3,3 g",
       "waarvan verzadigde vetzuren": "0,4 g",
       "Koolhydraten": "32,1 g",
@@ -350,7 +350,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "3 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "6 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "10 mg",
       "IJzer": "0,5 mg",
       "Kalium": "90 mg"
@@ -458,7 +458,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "1 g",
       "Vezels": "0,5 g",
       "Eiwitten": "2 g",
-      "Zout": "0,845 g"
+      "Zout": "0,85 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -508,7 +508,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,8 g",
       "Vezels": "4 g",
       "Eiwitten": "11 g",
-      "Zout": "0,985 g"
+      "Zout": "0,99 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -557,7 +557,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "5,7 g",
       "Vezels": "0,5 g",
       "Eiwitten": "2,5 g",
-      "Zout": "0,818 g"
+      "Zout": "0,82 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -606,7 +606,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,8 g",
       "Vezels": "0,9 g",
       "Eiwitten": "1 g",
-      "Zout": "0,978 g"
+      "Zout": "0,98 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -723,7 +723,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "5,7 g",
       "Vezels": "0,5 g",
       "Eiwitten": "2,5 g",
-      "Zout": "0,818 g"
+      "Zout": "0,82 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -773,7 +773,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "4 g",
       "Vezels": "1 g",
       "Eiwitten": "11 g",
-      "Zout": "0,985 g"
+      "Zout": "0,99 g"
     },
     "nutritionUnit": "per 100 g"
   },
@@ -1362,7 +1362,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "3": {
     "nutrition": {
-      "Energie": "598,21 kJ / 142,86 kcal",
+      "Energie": "598 kJ / 143 kcal",
       "Vetten": "6,25 g",
       "waarvan verzadigde vetzuren": "2,68 g",
       "Transvetten": "0 g",
@@ -1373,7 +1373,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "5,36 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "10,71 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "17,86 mg",
       "IJzer": "0,89 mg",
       "Kalium": "160,71 mg"
@@ -1404,4 +1404,28 @@ window.KPI_PRODUCTS = [
   for (const product of window.KPI_PRODUCTS) {
     if (corrections[product.id]) Object.assign(product, corrections[product.id]);
   }
+}());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "3": "0,98 g",
+  "4": "1,33 g",
+  "15": "1 g",
+  "20": "0,29 g",
+  "21": "0,12 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+   }
+  }
+  product.nutrition = ordered;
+ }
 }());

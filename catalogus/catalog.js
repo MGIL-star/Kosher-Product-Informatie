@@ -5,8 +5,7 @@
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const normalize = s => String(s ?? '').toLocaleLowerCase('nl').normalize('NFD').replace(/[\u0300-\u036f]/g, '');
   const icons = {all:'Alles',drinks:'Dranken',pantry:'Voorraadkast',tea:'Koffie & thee',treats:'Koek & chocolade',snacks:'Snacks',bread:'Brood & brioche',home:'Verzorging & huishouden',refrigerated:'Koeling',frozen:'Diepvries'};
-  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261104-meter3-nutrition':i===3?'assets/js/products-meter-4.js?v=20261104-nutrition':i===4?'meter-5/products.js?v=20261104-sweet-chilli':i===8?'meter-9/products.js?v=20261104-babka':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===13?'meter-14/products.js?v=20261104-bamba-placement':i===14?'meter-15/products.js?v=20261104-bamba-placement':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
-  sources.find(source => source.folder === 'meter-8').data = 'meter-8/products.js?v=20261116-albadya-specificaties';
+  const sources = Array.from({length:17}, (_, i) => ({n:i+1, folder:i===3?'meter-4-tafelzuur':`meter-${i+1}`, data:i===2?'assets/js/products-meter-3.js?v=20261104-meter3-nutrition':i===3?'assets/js/products-meter-4.js?v=20261104-nutrition':i===4?'meter-5/products.js?v=20261106-salt-clean':i===8?'meter-9/products.js?v=20261104-babka':i===9?'meter-10/products.js?v=20261022-kopernik-name-fix':i===11?'meter-12/products.js?v=20261015-para-crunch-white-biscuit':i===13?'meter-14/products.js?v=20261104-bamba-placement':i===14?'meter-15/products.js?v=20261104-bamba-placement':i===15?'meter-16/products.js?v=20261022-pretzel-name':`meter-${i+1}/products.js`}));
   for(let n=1;n<=3;n++) sources.push({n:17+n,folder:`diepvries-schap-${n}`,data:`diepvries-schap-${n}/products.js?v=20261031-tilapiafilets-voedingswaarden`});
   for (const source of sources) {
     if (['meter-1', 'meter-2', 'diepvries-schap-2', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=' + (source.folder === 'meter-2' ? '20261102-advocaat-voedingswaarden' : '20261102-etiket-voedingswaarden');
@@ -32,7 +31,16 @@
       source.data = source.data.split('?')[0] + '?v=20261103-energie';
     }
   }
-  for (const source of sources) source.data = source.data.split('?')[0] + '?v=20261104-label-zero';
+  for (const source of sources) source.data = source.data.split('?')[0] + (source.folder === 'meter-12' ? '?v=20261111-laatste-voedingswaarden' : source.folder === 'meter-8' ? '?v=20261116-albadya-specificaties' : source.folder === 'meter-9' ? '?v=20261110-rimon-front' : source.folder === 'meter-5' ? '?v=20261109-labels-5-9' : source.folder === 'meter-10' ? '?v=20261110-meter10-hadar' : '?v=20261106-salt-clean');
+  for (const source of sources) if (['diepvries-schap-2','meter-10'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-aanvulling';
+  for (const source of sources) if (['meter-10','meter-12'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-packshots-snap';
+  for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261112-meter13-batch4';
+  for (const source of sources) if (source.folder === 'meter-14') source.data = 'meter-14/products.js?v=20261112-meter14-batch3';
+  for (const source of sources) if (['meter-15','diepvries-schap-1'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-doritos-formaat';
+  for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261112-schmerlings-liggend';
+  for (const source of sources) if (['meter-15','diepvries-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-fotocorrecties';
+  for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261112-liel-formaat';
+  for (const source of sources) if (source.folder === 'meter-16') source.data = 'meter-16/products.js?v=20261114-meter16-sauzen';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
@@ -112,7 +120,7 @@
     // Existing product files are the only source; there is no separate catalogue copy.
     renderCategories();render();const picks=[products.find(p=>p.key==='meter-8:56'),products.find(p=>p.key==='meter-6:48'),products.find(p=>p.key==='meter-13:1')].filter(p=>p?.image);if($('#hero-products'))$('#hero-products').innerHTML=picks.map(p=>image(p)).join('');
     for(const key of Object.keys(cart))if(!products.some(p=>p.key===key)&&!failures.length)delete cart[key];save();
-    await sharedScript(new URL('photo-layout.js?v=20261010-cart-space',location.href).href);
+    await sharedScript(new URL('photo-layout.js?v=20261112-doritos-formaat',location.href).href);
     window.catalogPreview={get products(){return products;},get cart(){return {...cart};},failures};
   }
   load();

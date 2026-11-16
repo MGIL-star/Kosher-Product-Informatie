@@ -37,7 +37,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "1 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "13 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "35 mg",
       "IJzer": "1,9 mg",
       "Kalium": "240 mg"
@@ -61,7 +61,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/02-gepaneerde-tilapianuggets.jpg",
     "ean": "732973000809",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
@@ -76,7 +76,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "1 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "13 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "35 mg",
       "IJzer": "1,9 mg",
       "Kalium": "240 mg"
@@ -99,7 +99,7 @@ window.KPI_PRODUCTS = [
     "image": "./images/03-tilapiafilets.jpg",
     "ean": "732973000120",
     "kosherLines": [
-      "OU",
+      "OU (Orthodox Union)",
       "CRC (Central Rabbinical Congress)"
     ],
     "nutrition": {
@@ -114,7 +114,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "20 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "10 mg",
       "IJzer": "0,6 mg",
       "Kalium": "300 mg"
@@ -178,7 +178,9 @@ window.KPI_PRODUCTS = [
     ],
     "kosher": "Kedassia",
     "note": "",
-    "image": "./images/05-runderburgers-recht.png",
+    "image": "./images/05-runderburgers-packshot-20261112.png",
+    "imageEdited": true,
+    "imageSource": "source-labels/20261112-burger/prime-cut-burger.jpg",
     "ean": "5060199311610",
     "nutrition": {
       "Energie": "1575 kJ / 378 kcal",
@@ -221,7 +223,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -249,7 +251,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -277,7 +279,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -305,7 +307,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -333,7 +335,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -361,7 +363,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -389,7 +391,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -417,7 +419,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -445,7 +447,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -473,7 +475,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -501,7 +503,7 @@ window.KPI_PRODUCTS = [
     "nutrition": {
       "Energie": "694 kJ / 166 kcal",
       "Vetten": "9,5 g",
-      "waarvan verzadigde vetzuren": "3,0 g",
+      "waarvan verzadigde vetzuren": "3 g",
       "Koolhydraten": "0,3 g",
       "waarvan suikers": "0,1 g",
       "Eiwitten": "19,3 g",
@@ -520,7 +522,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "1": {
     "nutrition": {
-      "Energie": "962,83 kJ / 230,09 kcal",
+      "Energie": "962 kJ / 231 kcal",
       "Vetten": "11,5 g",
       "waarvan verzadigde vetzuren": "4,42 g",
       "Transvetten": "0 g",
@@ -531,7 +533,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,88 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "11,5 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "30,97 mg",
       "IJzer": "1,68 mg",
       "Kalium": "212,39 mg"
@@ -560,7 +562,7 @@ window.KPI_PRODUCTS = [
   },
   "2": {
     "nutrition": {
-      "Energie": "962,83 kJ / 230,09 kcal",
+      "Energie": "962 kJ / 231 kcal",
       "Vetten": "11,5 g",
       "waarvan verzadigde vetzuren": "4,42 g",
       "Transvetten": "0 g",
@@ -571,7 +573,7 @@ window.KPI_PRODUCTS = [
       "waarvan suikers": "0,88 g",
       "waarvan toegevoegde suikers": "0 g",
       "Eiwitten": "11,5 g",
-      "Vitamine D": "0 mcg",
+      "Vitamine D": "0 microgram",
       "Calcium": "30,97 mg",
       "IJzer": "1,68 mg",
       "Kalium": "212,39 mg"
@@ -600,7 +602,7 @@ window.KPI_PRODUCTS = [
   },
   "4": {
     "nutrition": {
-      "Energie": "666,37 kJ / 159,29 kcal",
+      "Energie": "666 kJ / 160 kcal",
       "Vetten": "2,21 g",
       "waarvan verzadigde vetzuren": "0 g",
       "Transvetten": "0 g",
@@ -634,4 +636,27 @@ window.KPI_PRODUCTS = [
   for (const product of window.KPI_PRODUCTS) {
     if (corrections[product.id]) Object.assign(product, corrections[product.id]);
   }
+}());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "1": "0,97 g",
+  "2": "0,97 g",
+  "3": "0,13 g",
+  "4": "0,88 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+   }
+  }
+  product.nutrition = ordered;
+ }
 }());

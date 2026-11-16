@@ -1,4 +1,3 @@
-// Etiketgegevens uit de fysieke productfoto’s; bronkoppeling en controles: CONTROLE.md.
 window.KPI_PRODUCTS = [
   {
     "id": 14,
@@ -27,7 +26,20 @@ window.KPI_PRODUCTS = [
       0.856,
       0.976
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_SNACK_100_GR..jpg?v=1759095118"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_SNACK_100_GR..jpg?v=1759095118",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2147 kJ / 514 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "6 g",
+      "Eiwitten": "17 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 13,
@@ -58,7 +70,20 @@ window.KPI_PRODUCTS = [
       0.982
     ],
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_SNACK_25_GR..jpg?v=1759095121",
-    "imageDisclaimer": "Illustratieve afbeelding: gewicht digitaal aangepast van 28 g naar 25 g."
+    "imageDisclaimer": "Illustratieve afbeelding: gewicht digitaal aangepast van 28 g naar 25 g.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2147 kJ / 514 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,8 g",
+      "Koolhydraten": "44 g",
+      "Waarvan suikers": "3,2 g",
+      "Vezels": "6 g",
+      "Eiwitten": "17 g",
+      "Zout": "0,95 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 15,
@@ -88,7 +113,19 @@ window.KPI_PRODUCTS = [
       0.825,
       0.949
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_WITH_HAZELNUT_CREAM_FILLING_60_GR._8424ab1b-13aa-4a36-aafd-62075b47689f.jpg?v=1777505259"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BAMBA_WITH_HAZELNUT_CREAM_FILLING_60_GR._8424ab1b-13aa-4a36-aafd-62075b47689f.jpg?v=1777505259",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2204 kJ / 527 kcal",
+      "Vetten": "29 g",
+      "Waarvan verzadigde vetzuren": "5,2 g",
+      "Koolhydraten": "57 g",
+      "Waarvan suikers": "26 g",
+      "Eiwitten": "9,5 g",
+      "Zout": "0,52 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 26,
@@ -123,7 +160,19 @@ window.KPI_PRODUCTS = [
     "productInfo": {
       "Etiketvermelding": "Bevat een genetisch gemodificeerd voedselingrediënt."
     },
-    "previousProductUrl": "../meter-15/?product=2"
+    "previousProductUrl": "../meter-15/?product=2",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2226 kJ / 532 kcal",
+      "Vetten": "28 g",
+      "Waarvan verzadigde vetzuren": "5 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "27 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,46 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 12,
@@ -203,7 +252,22 @@ window.KPI_PRODUCTS = [
     ],
     "imageSource": "https://www.nestleprofessional.co.il/sm/prwpw-tywbs-hmwz-hryp",
     "reviewNote": "Soja expliciet als aanwezig vermeld in het allergenenkader op foto 52.",
-    "warning": "Consumptie door jonge kinderen alleen zittend en onder toezicht van een volwassene."
+    "warning": "Consumptie door jonge kinderen alleen zittend en onder toezicht van een volwassene.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2218 kJ / 530 kcal",
+      "Vetten": "30 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "60 g",
+      "Waarvan suikers": "4,2 g",
+      "Eiwitten": "5 g",
+      "Natrium": "560 mg",
+      "Zout": "1,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 11,
@@ -264,7 +328,19 @@ window.KPI_PRODUCTS = [
       "61a956f9-0934-44eb-a471-f998088194b6.jpg",
       "c87afe71-6b2f-44e8-bb20-efc47f688fd8.jpg"
     ],
-    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket."
+    "reviewNote": "Ingrediënten, allergenen, gewicht en barcode overgenomen van fysieke 40g-verpakking. Chief Rabbinate Kiryat Gat (Parve) volgens etiket en gebruikersbevestiging. Ook OU Parve zichtbaar op fysiek etiket.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1946 kJ / 462 kcal",
+      "Vetten": "14 g",
+      "Waarvan verzadigde vetzuren": "1,4 g",
+      "Koolhydraten": "80 g",
+      "Waarvan suikers": "45 g",
+      "Eiwitten": "4 g",
+      "Zout": "0 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/12.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 20,
@@ -291,7 +367,20 @@ window.KPI_PRODUCTS = [
       0.0797,
       0.72676,
       0.90607
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2368 kJ / 566 kcal",
+      "Vetten": "45 g",
+      "Waarvan verzadigde vetzuren": "5 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "3,3 g",
+      "Vezels": "10 g",
+      "Eiwitten": "19,8 g",
+      "Zout": "5 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch1/14.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 19,
@@ -318,7 +407,20 @@ window.KPI_PRODUCTS = [
       0.05806,
       0.75968,
       0.90323
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2092 kJ / 500 kcal",
+      "Vetten": "43,3 g",
+      "Waarvan verzadigde vetzuren": "11 g",
+      "Koolhydraten": "20 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "12,3 g",
+      "Eiwitten": "23 g",
+      "Zout": "7,8 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 21,
@@ -345,7 +447,22 @@ window.KPI_PRODUCTS = [
       0.06357,
       0.76091,
       0.90892
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2494 kJ / 596 kcal",
+      "Vetten": "47 g",
+      "Waarvan verzadigde vetzuren": "10 g",
+      "Koolhydraten": "15,4 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "28 g",
+      "Natrium": "2160 mg",
+      "Zout": "5,4 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 22,
@@ -378,7 +495,23 @@ window.KPI_PRODUCTS = [
       1
     ],
     "imageSource": "Tijdelijke voorbeeldfoto door gebruiker aangeleverd op 16 september 2026. Ander merk (Kliyat Gat), op expliciet verzoek.",
-    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama."
+    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1925 kJ / 460 kcal",
+      "Vetten": "16,2 g",
+      "Waarvan verzadigde vetzuren": "2,2 g",
+      "Koolhydraten": "68 g",
+      "Waarvan suikers": "16,7 g",
+      "Vezels": "3,5 g",
+      "Eiwitten": "12,2 g",
+      "Natrium": "630 mg",
+      "Zout": "1,58 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/8.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 23,
@@ -412,7 +545,23 @@ window.KPI_PRODUCTS = [
       0.877
     ],
     "imageSource": "Tijdelijke voorbeeldfoto door gebruiker aangeleverd op 16 september 2026. Ander merk (Kliyat Gat), op expliciet verzoek. Diagonale winkeltekst digitaal verwijderd op verzoek.",
-    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama."
+    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk. De productgegevens hieronder horen bij Hamama.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2121 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "3,2 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "14,2 g",
+      "Vezels": "4,7 g",
+      "Eiwitten": "14 g",
+      "Natrium": "630 mg",
+      "Zout": "1,58 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 24,
@@ -443,7 +592,23 @@ window.KPI_PRODUCTS = [
       0.966
     ],
     "imageSource": "Door gebruiker aangeleverde Kliyat Gat-foto; op verzoek bewerkt naar één zakje.",
-    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk en formaat (150 g). De productgegevens hieronder horen bij Hamama 100 g."
+    "imageDisclaimer": "Tijdelijke voorbeeldfoto van een ander merk en formaat (150 g). De productgegevens hieronder horen bij Hamama 100 g.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2820 kJ / 674 kcal",
+      "Vetten": "58 g",
+      "Waarvan verzadigde vetzuren": "5,7 g",
+      "Koolhydraten": "27 g",
+      "Waarvan suikers": "25 g",
+      "Vezels": "4,3 g",
+      "Eiwitten": "8,6 g",
+      "Natrium": "5 mg",
+      "Zout": "0,01 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch2/10.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 2,
@@ -472,7 +637,19 @@ window.KPI_PRODUCTS = [
       0.135,
       0.659,
       0.878
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2126 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "10 g",
+      "Zout": "0,56 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/2.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 5,
@@ -502,7 +679,19 @@ window.KPI_PRODUCTS = [
       0.72,
       0.922
     ],
-    "kosherSource": "https://groceries.morrisons.com/products/Osem-Bissli-Pizza/114855040"
+    "kosherSource": "https://groceries.morrisons.com/products/Osem-Bissli-Pizza/114855040",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2169 kJ / 518 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "8 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/4.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 1,
@@ -533,7 +722,19 @@ window.KPI_PRODUCTS = [
       0.84
     ],
     "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_BARBECUE_OSEM_70_GR..jpg?v=1759095113",
-    "imageDisclaimer": "Officiële Osem-foto van de opgegeven 2.5 oz-productpagina. Op de afgebeelde zak staat 35 g; de productgegevens hieronder horen bij de 70 g-verpakking."
+    "imageDisclaimer": "Officiële Osem-foto van de opgegeven 2.5 oz-productpagina. Op de afgebeelde zak staat 35 g; de productgegevens hieronder horen bij de 70 g-verpakking.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2126 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "10 g",
+      "Zout": "0,56 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/6.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 4,
@@ -563,7 +764,19 @@ window.KPI_PRODUCTS = [
       0.722,
       0.943
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_PIZZA_SNACK_OSEM_70_GR..jpg?v=1759095134"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_PIZZA_SNACK_OSEM_70_GR..jpg?v=1759095134",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2118 kJ / 506 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "59 g",
+      "Waarvan suikers": "1,4 g",
+      "Eiwitten": "9 g",
+      "Zout": "1,2 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/9.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 9,
@@ -593,7 +806,19 @@ window.KPI_PRODUCTS = [
       0.875,
       1
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_ONION_SNACK_OSEM_70_GR..jpg?v=1759095129"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_ONION_SNACK_OSEM_70_GR..jpg?v=1759095129",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2112 kJ / 504 kcal",
+      "Vetten": "24 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,8 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/11.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 7,
@@ -622,7 +847,19 @@ window.KPI_PRODUCTS = [
       0.721,
       0.933
     ],
-    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_FALAFEL_SNACK_OSEM_70_GR..jpg?v=1759095127"
+    "imageOriginal": "https://cdn.shopify.com/s/files/1/0896/1209/1728/files/KOSHER_BISSLI_FALAFEL_SNACK_OSEM_70_GR..jpg?v=1759095127",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2152 kJ / 514 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "61 g",
+      "Waarvan suikers": "1,3 g",
+      "Eiwitten": "9 g",
+      "Zout": "0,86 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/13.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 10,
@@ -678,7 +915,19 @@ window.KPI_PRODUCTS = [
       0.017,
       0.993,
       0.993
-    ]
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2126 kJ / 507 kcal",
+      "Vetten": "23 g",
+      "Waarvan verzadigde vetzuren": "2,4 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "1,2 g",
+      "Eiwitten": "10 g",
+      "Zout": "0,56 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/15.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 6,
@@ -707,7 +956,19 @@ window.KPI_PRODUCTS = [
       0.99,
       0.99
     ],
-    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack."
+    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "2169 kJ / 518 kcal",
+      "Vetten": "26 g",
+      "Waarvan verzadigde vetzuren": "2,7 g",
+      "Koolhydraten": "63 g",
+      "Waarvan suikers": "1,1 g",
+      "Eiwitten": "8 g",
+      "Zout": "1 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/17.jpg",
+    "nutritionChecked": "2026-11-12"
   },
   {
     "id": 8,
@@ -764,6 +1025,18 @@ window.KPI_PRODUCTS = [
       0.994,
       0.968
     ],
-    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack."
+    "imageDisclaimer": "Illustratieve beeldmontage met een portiezakje voor de family pack.",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1958 kJ / 468 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "1,6 g",
+      "Koolhydraten": "78 g",
+      "Waarvan suikers": "35 g",
+      "Eiwitten": "3 g",
+      "Zout": "0,05 g"
+    },
+    "nutritionSource": "source-labels/20261112-meter14-batch3/19.jpg",
+    "nutritionChecked": "2026-11-12"
   }
 ];

@@ -199,7 +199,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "11 g",
       "waarvan suikers": "11 g",
       "Eiwitten": "0,1 g",
-      "Natrium": "0,0022 g"
+      "Natrium": "2,2 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-bac74f64-2b1f-48a1-9f63-3d8d303cc943.jpg"
@@ -250,7 +250,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "11 g",
       "waarvan suikers": "11 g",
       "Eiwitten": "0,1 g",
-      "Natrium": "0,0022 g"
+      "Natrium": "2,2 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-bac74f64-2b1f-48a1-9f63-3d8d303cc943.jpg; dezelfde tabel als helder appelsap op verzoek gebruiker."
@@ -301,7 +301,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "10 g",
       "waarvan suikers": "10 g",
       "Eiwitten": "0,7 g",
-      "Natrium": "0,0014 g"
+      "Natrium": "1,4 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-272e827a-aae5-4693-b450-1be51170a91b.jpg"
@@ -352,7 +352,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "15,6 g",
       "Eiwitten": "0,4 g",
       "Cholesterol": "0 g",
-      "Natrium": "0,025 mg"
+      "Natrium": "0,03 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-6c7c6743-f487-4825-b4e1-0e3ee0d687b7.jpg"
@@ -403,7 +403,7 @@ window.KPI_PRODUCTS = [
       "Koolhydraten": "15,6 g",
       "Eiwitten": "0,4 g",
       "Cholesterol": "0 g",
-      "Natrium": "0,025 mg"
+      "Natrium": "0,03 mg"
     },
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "Fysiek etiket 2 november 2026: meter-1/source-labels/20261102-nutrition/codex-clipboard-46b8bc2c-7b11-47a8-a824-8adf9d0db11d.jpg"
@@ -415,7 +415,7 @@ window.KPI_PRODUCTS = [
   const corrections = {
   "1": {
     "nutrition": {
-      "Energie": "58,06 kJ / 13,89 kcal",
+      "Energie": "58 kJ / 14 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "3,89 g",
       "waarvan suikers": "3,89 g",
@@ -439,7 +439,7 @@ window.KPI_PRODUCTS = [
   },
   "4": {
     "nutrition": {
-      "Energie": "58,06 kJ / 13,89 kcal",
+      "Energie": "58 kJ / 14 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "3,89 g",
       "waarvan suikers": "3,89 g",
@@ -463,7 +463,7 @@ window.KPI_PRODUCTS = [
   },
   "6": {
     "nutrition": {
-      "Energie": "58,06 kJ / 13,89 kcal",
+      "Energie": "58 kJ / 14 kcal",
       "Vetten": "0 g",
       "Koolhydraten": "3,89 g",
       "waarvan suikers": "3,89 g",
@@ -489,4 +489,31 @@ window.KPI_PRODUCTS = [
   for (const product of window.KPI_PRODUCTS) {
     if (corrections[product.id]) Object.assign(product, corrections[product.id]);
   }
+}());
+
+// Zout berekend uit vermeld natrium op dezelfde voedingswaardebasis.
+(function () {
+ const saltById = {
+  "1": "0 g",
+  "4": "0 g",
+  "6": "0 g",
+  "8": "0,01 g",
+  "11": "0,01 g",
+  "14": "0 g",
+  "17": "0 g",
+  "19": "0 g"
+};
+ for (const product of window.KPI_PRODUCTS) {
+  if (!Object.prototype.hasOwnProperty.call(saltById, product.id)) continue;
+  const saltKey = Object.keys(product.nutrition).find(key => /^zout$/i.test(key)) || "Zout";
+  const ordered = {};
+  for (const [key, value] of Object.entries(product.nutrition)) {
+   if (key === saltKey || key === 'Omrekening zout') continue;
+   ordered[key] = value;
+   if (/^(natrium|sodium)$/i.test(key)) {
+    ordered[saltKey] = saltById[product.id];
+   }
+  }
+  product.nutrition = ordered;
+ }
 }());
