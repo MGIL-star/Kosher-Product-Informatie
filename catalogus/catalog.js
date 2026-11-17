@@ -44,7 +44,7 @@
   for (const source of sources) if (source.folder === 'meter-17') source.data = 'meter-17/products.js?v=20261117-nederlandse-producttekst';
   for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261117-osem-vanille-1kg';
   for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261117-telma-kariot';
-  for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261117-dragee';
+  for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261117-zakjes-formaat';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

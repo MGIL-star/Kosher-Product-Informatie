@@ -358,7 +358,13 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "2,4 g",
       "Vezels": "5,3 g"
     },
-    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden."
+    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden.",
+    "imageBounds": [
+      0.04,
+      0.075,
+      0.96,
+      0.94
+    ]
   },
   {
     "id": 26,
@@ -424,7 +430,13 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "1 g",
       "Vezels": "0,7 g"
     },
-    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden."
+    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden.",
+    "imageBounds": [
+      0.055,
+      0.075,
+      0.945,
+      0.935
+    ]
   },
   {
     "id": 27,
@@ -485,7 +497,13 @@ window.KPI_PRODUCTS = [
       "Waarvan suikers": "54 g",
       "Eiwitten": "4 g",
       "Vezels": "6,7 g"
-    }
+    },
+    "imageBounds": [
+      0.1,
+      0.025,
+      0.89,
+      0.955
+    ]
   },
   {
     "id": 28,
@@ -547,7 +565,13 @@ window.KPI_PRODUCTS = [
       "Eiwitten": "2,4 g",
       "Vezels": "5,3 g"
     },
-    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden."
+    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden.",
+    "imageBounds": [
+      0.08,
+      0.095,
+      0.92,
+      0.905
+    ]
   },
   {
     "id": 22,
@@ -617,7 +641,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": {
       "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
       "url": "source-labels/20261117-candy-planet/codex-clipboard-55727b12-8982-4d3e-b35b-badd65b39ebc.png"
-    }
+    },
+    "imageBounds": [
+      0.04,
+      0.075,
+      0.96,
+      0.94
+    ]
   },
   {
     "id": 24,
@@ -680,7 +710,13 @@ window.KPI_PRODUCTS = [
       "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
       "url": "source-labels/20261117-candy-planet/codex-clipboard-0374c34a-4c29-46d2-8690-c2be13540855.png"
     },
-    "searchName": "Candy Planet Sour Fries Zure Snoepfrietjes"
+    "searchName": "Candy Planet Sour Fries Zure Snoepfrietjes",
+    "imageBounds": [
+      0.055,
+      0.055,
+      0.945,
+      0.91
+    ]
   },
   {
     "id": 13,
@@ -1008,7 +1044,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": {
       "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
       "url": "source-labels/20261117-shneiders-time/codex-clipboard-4abd32f5-4985-437f-b4ad-156c62358c2c.png"
-    }
+    },
+    "imageBounds": [
+      0.075,
+      0.04,
+      0.925,
+      0.95
+    ]
   },
   {
     "id": 23,
@@ -1069,7 +1111,13 @@ window.KPI_PRODUCTS = [
     "barcodeSource": {
       "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
       "url": "source-labels/20261117-shneiders-time/codex-clipboard-6815eb61-4eeb-435d-acc5-16c661cf7fd4.png"
-    }
+    },
+    "imageBounds": [
+      0.08,
+      0.04,
+      0.92,
+      0.95
+    ]
   },
   {
     "id": 11,
