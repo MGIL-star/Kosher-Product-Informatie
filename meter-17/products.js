@@ -3852,6 +3852,73 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis"
   },
   {
+    "id": 86,
+    "catalogType": "nonfood",
+    "name": "Neironim Kaarsen",
+    "brand": "Ner Mitzvah",
+    "category": "Kaarsen en accessoires",
+    "shelf": 7,
+    "variant": "72 stuks · circa 4 uur",
+    "image": "images/clean/product-86-neironim.png",
+    "allergens": null,
+    "ean": "706132260243",
+    "productInfo": {
+      "Beschrijving": "Neironim-kaarsen, verpakt per 72.",
+      "Brandduur": "Circa 4 uur per kaars."
+    },
+    "sources": [],
+    "manufacturerItem": "26024",
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-ner-mitzvah/codex-clipboard-695e60ec-ad10-424f-a955-785279bc6ee6.png",
+        "source-labels/20261117-ner-mitzvah/codex-clipboard-48a75add-7b08-46b8-9ceb-3a1772304983.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-ner-mitzvah/codex-clipboard-48a75add-7b08-46b8-9ceb-3a1772304983.png"
+    }
+  },
+  {
+    "id": 87,
+    "catalogType": "nonfood",
+    "name": "Mini Besomim",
+    "brand": "Ner Mitzvah",
+    "category": "Kaarsen en accessoires",
+    "shelf": 7,
+    "variant": "Mini",
+    "image": "images/clean/product-87-mini-besomim.png",
+    "allergens": null,
+    "ean": "706132204315",
+    "productInfo": {
+      "Beschrijving": "Geurkruiden voor havdala in een klein glazen potje met schroefdeksel."
+    },
+    "sources": [],
+    "manufacturerItem": "20431",
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-ner-mitzvah/codex-clipboard-c0795e49-8742-402b-97f3-e57576fba25f.png",
+        "source-labels/20261117-ner-mitzvah/codex-clipboard-ab8c5d0f-5b15-47e6-8836-d4790a8199c2.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-ner-mitzvah/codex-clipboard-ab8c5d0f-5b15-47e6-8836-d4790a8199c2.png"
+    }
+  },
+  {
     "id": 71,
     "catalogType": "nonfood",
     "name": "Gekleurde Chanoekakaarsen",

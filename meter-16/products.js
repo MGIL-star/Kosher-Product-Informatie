@@ -3046,5 +3046,139 @@ window.KPI_PRODUCTS = [
     "nutritionUnit": "per 100 ml",
     "nutritionSource": "source-labels/20261114-sauzen-overig/36.jpg",
     "nutritionChecked": "2026-11-14"
+  },
+  {
+    "id": 48,
+    "brand": "Rio",
+    "name": "Krembo Schuimgebak met Mokkasmaak",
+    "category": "Koek en schuimgebak",
+    "variant": "8 × 30 g (240 g)",
+    "image": "images/rio-krembo-mokka-240g.png",
+    "ingredients": "Suiker, glucose, water, albumine (eiwit), stabilisator, aroma’s, natriumbisulfiet, kleurstof (E150), cacaocoating (27%) (suiker, plantaardig vet (palmolie), cacaopoeder, sojalecithine), biscuit (17%) (tarwebloem, suiker, plantaardige vetten (palmolie), rijsmiddelen (E500, E503), zout, emulgator (sojalecithine, E322), aroma’s, rozemarijnolie).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Ei",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, noten, pinda’s en sesam bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem"
+    ],
+    "productInfo": {
+      "Beschrijving": "Opgeklopt schuim met mokkasmaak op een biscuit, met een cacaocoating."
+    },
+    "sourcePhotos": [
+      "source-labels/20261117-rio-krembo/codex-clipboard-5b71ff2c-5311-4aea-83a5-2d06ccad2d86.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-3bc8d0e8-2b55-4729-bac8-d582977d3123.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-56661fa9-6b65-4b0a-89db-fdc2bbfe39e8.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-a8ee7167-cb0a-4bca-8fe5-ba9c8690883e.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-7f1f994f-83b8-4cb8-a1f4-aa28519a3a5d.png"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "327 kcal",
+      "Vetten": "8,7 g",
+      "Waarvan verzadigde vetzuren": "6,1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "64 mg",
+      "Zout": "0,16 g",
+      "Koolhydraten": "59,6 g",
+      "Waarvan suikers": "44,1 g",
+      "Vezels": "0,2 g",
+      "Eiwitten": "2,2 g"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-rio-krembo/codex-clipboard-5b71ff2c-5311-4aea-83a5-2d06ccad2d86.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-3bc8d0e8-2b55-4729-bac8-d582977d3123.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-56661fa9-6b65-4b0a-89db-fdc2bbfe39e8.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-a8ee7167-cb0a-4bca-8fe5-ba9c8690883e.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-7f1f994f-83b8-4cb8-a1f4-aa28519a3a5d.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition",
+        "ean"
+      ]
+    },
+    "ean": "7290017978420",
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-rio-krembo/codex-clipboard-7f1f994f-83b8-4cb8-a1f4-aa28519a3a5d.png"
+    }
+  },
+  {
+    "id": 49,
+    "brand": "Rio",
+    "name": "Krembo Schuimgebak met Vanillesmaak",
+    "category": "Koek en schuimgebak",
+    "variant": "8 × 30 g (240 g)",
+    "image": "images/rio-krembo-vanille-240g.png",
+    "ingredients": "Suiker, glucose, water, albumine (eiwit), stabilisator, aroma, biscuit (17%) (tarwebloem, suiker, plantaardig vet (palmolie), rijsmiddelen (E500, E503), zout), cacaocoating (27%) (suiker, gehard plantaardig vet (palmolie), cacaopoeder, emulgator (sojalecithine)), emulgator (sojalecithine), aroma’s, rozemarijnolie.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Ei",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, noten, pinda’s en sesam bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem"
+    ],
+    "productInfo": {
+      "Beschrijving": "Opgeklopt schuim met vanillesmaak op een biscuit, met een cacaocoating."
+    },
+    "sourcePhotos": [
+      "source-labels/20261117-rio-krembo/codex-clipboard-a1c9ab68-fbdd-411f-97eb-12bd528441e0.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-11c92844-a37a-4bf2-aceb-ee408314ce15.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-83c8a670-545c-4691-af39-eaea68499c09.png",
+      "source-labels/20261117-rio-krembo/codex-clipboard-2ff56de7-c2dc-4508-bd8e-d4bdc7f0c232.png"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "327 kcal",
+      "Vetten": "8,7 g",
+      "Waarvan verzadigde vetzuren": "6,1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "64 mg",
+      "Zout": "0,16 g",
+      "Koolhydraten": "59,6 g",
+      "Waarvan suikers": "44,1 g",
+      "Vezels": "0,2 g",
+      "Eiwitten": "2,2 g"
+    },
+    "ean": "7290017978826",
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-rio-krembo/codex-clipboard-11c92844-a37a-4bf2-aceb-ee408314ce15.png"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-rio-krembo/codex-clipboard-a1c9ab68-fbdd-411f-97eb-12bd528441e0.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-11c92844-a37a-4bf2-aceb-ee408314ce15.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-83c8a670-545c-4691-af39-eaea68499c09.png",
+        "source-labels/20261117-rio-krembo/codex-clipboard-2ff56de7-c2dc-4508-bd8e-d4bdc7f0c232.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition",
+        "ean"
+      ]
+    }
   }
 ];

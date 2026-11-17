@@ -690,6 +690,66 @@ window.KPI_PRODUCTS = [
     }
   },
   {
+    "id": 77,
+    "brand": "Osem",
+    "name": "Instantpudding met Vanillesmaak",
+    "category": "Bakmixen & desserts",
+    "variant": "1 kg",
+    "ean": "7290000062129",
+    "ingredients": "Suiker, maltodextrine, zetmeel, zuurteregelaars (E450, E327, E263, E339), aroma’s, kleurstof (carotenen), plantaardige oliën.",
+    "allergens": [],
+    "mayContain": "Kan soja bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem\nRabbanut Sderot",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem",
+      "Rabbanut Sderot"
+    ],
+    "image": "images/osem-instantpudding-vanille-1kg.png",
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261117-osem-vanille-1kg/codex-clipboard-74466565-0e59-48c8-86b8-2441871ed4e0.png",
+      "source-labels/20261117-osem-vanille-1kg/codex-clipboard-528f31b1-1bee-4bbf-8e17-d9154bab7fea.png",
+      "source-labels/20261117-osem-vanille-1kg/codex-clipboard-7f66eb5f-cd03-4388-b83c-9dadf4beb01f.png",
+      "source-labels/20261117-osem-vanille-1kg/codex-clipboard-ba4e6685-b6b9-4e0d-a963-2d2c2c61adf2.png",
+      "source-labels/20261117-osem-vanille-1kg/codex-clipboard-f873a229-872b-4d60-8583-daf4112adc89.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-osem-vanille-1kg/codex-clipboard-74466565-0e59-48c8-86b8-2441871ed4e0.png",
+        "source-labels/20261117-osem-vanille-1kg/codex-clipboard-528f31b1-1bee-4bbf-8e17-d9154bab7fea.png",
+        "source-labels/20261117-osem-vanille-1kg/codex-clipboard-7f66eb5f-cd03-4388-b83c-9dadf4beb01f.png",
+        "source-labels/20261117-osem-vanille-1kg/codex-clipboard-ba4e6685-b6b9-4e0d-a963-2d2c2c61adf2.png",
+        "source-labels/20261117-osem-vanille-1kg/codex-clipboard-f873a229-872b-4d60-8583-daf4112adc89.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-osem-vanille-1kg/codex-clipboard-7f66eb5f-cd03-4388-b83c-9dadf4beb01f.png"
+    },
+    "nutritionUnit": "per 100 g poeder",
+    "nutrition": {
+      "Energie": "380 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "1350 mg",
+      "Zout": "3,38 g",
+      "Koolhydraten": "95 g",
+      "Waarvan suikers": "39 g",
+      "Eiwitten": "0 g"
+    }
+  },
+  {
     "id": 13,
     "brand": "Osem",
     "name": "Instantpudding met Franse Vanillesmaak",
@@ -1726,7 +1786,24 @@ window.KPI_PRODUCTS = [
     "kosher": "OU-D-P IRG Zürich (Chalav Yisrael)",
     "image": "images/schmerlings-caramel-zeezout.png",
     "imagePresentation": {
-      "corners": [[0.782, 0.067], [0.782, 0.904], [0.22, 0.904], [0.22, 0.067]],
+      "corners": [
+        [
+          0.782,
+          0.067
+        ],
+        [
+          0.782,
+          0.904
+        ],
+        [
+          0.22,
+          0.904
+        ],
+        [
+          0.22,
+          0.067
+        ]
+      ],
       "aspectRatio": 2.234
     },
     "imageEdited": true,

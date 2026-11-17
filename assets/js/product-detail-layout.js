@@ -2,7 +2,7 @@
   'use strict';
   // Display only supplied places/statuses, separated consistently from the name.
   window.KPI_formatHechsher = function (value) {
-    let text = String(value).trim()
+    let text = String(value).replace(/\s*\(parve\)|\b(?:kosher\s+)?parve\b/gi, '').trim()
       .replace(/\bOU\b(?![-\w]|\s*\(Orthodox Union\))/g, 'OU (Orthodox Union)')
       .replace(/\b(?:Badatz\s+)?Cha(?:tam|sam) Sofer\b/gi, 'Badatz Chatam Sofer')
       .replace(/\bBne[i ]*Brak\b/gi, 'Bnei Brak')
@@ -137,14 +137,11 @@
       const line = section.querySelector('p');
       if (!line) continue;
       const lines = (product.kosherLines || [product.kosher || line.textContent]).flatMap(text => text.split(/\s*(?: \/ | · |;|,| en |\s+[—–]\s+|\s+\.\s+)\s*(?=(?:Badatz|OU\b|OU-D|OU-P|CRC\b|STAR-K|OK\b|BIR\b|Rabbijn|Rabbi\b|Rabbinaat|Opperrabbinaat|Machsike|Manchester|Nirbater|Beth Zedek|MKL\b))|\n/i)).map(text => text.replace(/\s*\((?:KLP|Pesach[^)]*)\)/gi, '').replace(/\bKP\s*·\s*/g, '').replace(/\bOU-P\b/g, 'OU').trim()).filter(Boolean);
-      const parve = product.kosherStatus === 'Parve' || lines.some(text => /^\(?parve\)?$/i.test(text));
       const names = lines.filter(text => !/^\(?parve\)?$/i.test(text));
-      if (parve && names.length && !names.some(text => /\bparve\b/i.test(text))) names[0] += ' (Parve)';
-      const keepParve = /chocola|chocolate|cake|babka/i.test(`${product.name || ''} ${product.category || ''}`);
       line.classList.add('notranslate');
       line.setAttribute('translate', 'no');
       line.replaceChildren();
-      names.map(text => window.KPI_formatHechsher(keepParve ? text : text.replace(/\s*\(parve\)|\bparve\b/gi, '').trim())).filter(Boolean).sort((a, b) => b.length - a.length).forEach((text, index) => {
+      names.map(text => window.KPI_formatHechsher(text)).filter(Boolean).sort((a, b) => b.length - a.length).forEach((text, index) => {
         if (index) line.append(document.createElement('br'));
         line.append(document.createTextNode(text));
       });

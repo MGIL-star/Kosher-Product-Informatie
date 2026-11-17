@@ -295,49 +295,392 @@ window.KPI_PRODUCTS = [
     "reviewNotes": "Ingrediënten, gewicht en waarschuwingen gecontroleerd op fysieke etiketten, 9 oktober 2026. Eerdere onbevestigde soja-sporenvermelding verwijderd. Bestaande barcode en Hechser behouden; niet opnieuw bevestigd op deze foto’s."
   },
   {
-    "id": 22,
+    "id": 25,
+    "brand": "Gross & Co / Carletti",
+    "name": "Dragée Chocoladepastilles met Munt",
+    "category": "Chocoladesnoep",
+    "variant": "150 g",
+    "ean": "5701049326278",
+    "image": "images/dragee-munt-150g.png",
+    "ingredients": "Suiker, cacaomassa, cacaoboter, rijstzetmeel, verdikkingsmiddel (arabische gom), emulgator (lecithine), glucosestroop, aroma’s, vanille-extract, kleurstoffen (tartrazine, indigotine, bietenrood).",
+    "allergens": [],
+    "mayContain": "Geproduceerd in een fabriek waar pinda’s, melk, hazelnoten en amandelen worden gebruikt.",
+    "kosher": "Badatz Machzikei Hadas Belz\nCRC",
+    "kosherLines": [
+      "Badatz Machzikei Hadas Belz",
+      "CRC"
+    ],
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261117-dragee/codex-clipboard-f0f76312-d3c0-4d95-84f5-7f8188eb70a5.png",
+      "source-labels/20261117-dragee/codex-clipboard-c43b0735-d47f-474e-92ce-9ed733f9ce67.png",
+      "source-labels/20261117-dragee/codex-clipboard-0464203f-4464-4cbc-96c5-695c576a3cd5.png",
+      "source-labels/20261117-dragee/codex-clipboard-351fda77-b9c9-4ce2-9fe2-63e957b587cd.png",
+      "source-labels/20261117-dragee/codex-clipboard-cd8fbea3-f8ab-4ff6-b6e8-8d475a3382cf.png",
+      "source-labels/20261117-dragee/codex-clipboard-5dcf1651-e82b-470b-a684-f8cb4a815b3d.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-dragee/codex-clipboard-f0f76312-d3c0-4d95-84f5-7f8188eb70a5.png",
+        "source-labels/20261117-dragee/codex-clipboard-c43b0735-d47f-474e-92ce-9ed733f9ce67.png",
+        "source-labels/20261117-dragee/codex-clipboard-0464203f-4464-4cbc-96c5-695c576a3cd5.png",
+        "source-labels/20261117-dragee/codex-clipboard-351fda77-b9c9-4ce2-9fe2-63e957b587cd.png",
+        "source-labels/20261117-dragee/codex-clipboard-cd8fbea3-f8ab-4ff6-b6e8-8d475a3382cf.png",
+        "source-labels/20261117-dragee/codex-clipboard-5dcf1651-e82b-470b-a684-f8cb4a815b3d.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-dragee/codex-clipboard-cd8fbea3-f8ab-4ff6-b6e8-8d475a3382cf.png"
+    },
     "nutritionUnit": "per 100 g",
     "nutrition": {
-      "Energie": "1357 kJ / 320 kcal",
-      "Vetten": "1,6 g",
-      "Waarvan verzadigde vetzuren": "0,6 g",
-      "Koolhydraten": "71 g",
-      "Waarvan suikers": "43 g",
-      "Vezels": "1,3 g",
-      "Eiwitten": "3,4 g",
-      "Zout": "1,21 g",
+      "Energie": "454 kcal",
+      "Vetten": "17 g",
+      "Waarvan verzadigde vetzuren": "9,7 g",
       "Transvetten": "0 g",
-      "Cholesterol": "0 g"
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Koolhydraten": "70 g",
+      "Waarvan suikers": "69 g",
+      "Eiwitten": "2,4 g",
+      "Vezels": "5,3 g"
+    },
+    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden."
+  },
+  {
+    "id": 26,
+    "brand": "Gross & Co / Carletti",
+    "name": "Dragée Gesuikerde Dropstaafjes",
+    "category": "Drop",
+    "variant": "150 g",
+    "ean": "5701049342469",
+    "image": "images/dragee-drop-150g.png",
+    "ingredients": "Suiker, melasse, tarwebloem, glucose-fructosestroop, glucosestroop, maïszetmeel, gemodificeerd aardappelzetmeel, rijstzetmeel, emulgator (mono- en diglyceriden van eetbare vetzuren), verdikkingsmiddel (arabische gom), zout, zoethoutextract, aroma’s, glansmiddelen (carnaubawas, bijenwas), kleurstoffen (tartrazine, gemengde carotenen, indigotine, bietenrood).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "Geproduceerd in een fabriek waar pinda’s, melk, hazelnoten en amandelen worden gebruikt.",
+    "kosher": "Badatz Machzikei Hadas Belz\nCRC",
+    "kosherLines": [
+      "Badatz Machzikei Hadas Belz",
+      "CRC"
+    ],
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261117-dragee/codex-clipboard-388855aa-222d-46ae-9990-8e16ce092cad.png",
+      "source-labels/20261117-dragee/codex-clipboard-b994e319-24aa-4156-8e54-b3c09720f14e.png",
+      "source-labels/20261117-dragee/codex-clipboard-64145f89-a45c-4266-b62b-1dd85406ffa7.png",
+      "source-labels/20261117-dragee/codex-clipboard-ffb37e9b-ba36-4f1b-89b2-ae35a989e4cc.png",
+      "source-labels/20261117-dragee/codex-clipboard-863d1478-8115-4db4-9e88-73059978f4d8.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-dragee/codex-clipboard-388855aa-222d-46ae-9990-8e16ce092cad.png",
+        "source-labels/20261117-dragee/codex-clipboard-b994e319-24aa-4156-8e54-b3c09720f14e.png",
+        "source-labels/20261117-dragee/codex-clipboard-64145f89-a45c-4266-b62b-1dd85406ffa7.png",
+        "source-labels/20261117-dragee/codex-clipboard-ffb37e9b-ba36-4f1b-89b2-ae35a989e4cc.png",
+        "source-labels/20261117-dragee/codex-clipboard-863d1478-8115-4db4-9e88-73059978f4d8.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-dragee/codex-clipboard-64145f89-a45c-4266-b62b-1dd85406ffa7.png"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "363 kcal",
+      "Vetten": "0,7 g",
+      "Waarvan verzadigde vetzuren": "0,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "40 mg",
+      "Zout": "0,1 g",
+      "Koolhydraten": "88 g",
+      "Waarvan suikers": "77 g",
+      "Eiwitten": "1 g",
+      "Vezels": "0,7 g"
+    },
+    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden."
+  },
+  {
+    "id": 27,
+    "brand": "Gross & Co / Carletti",
+    "name": "Dragée Chocolade Koffieboontjes",
+    "category": "Chocoladesnoep",
+    "variant": "150 g",
+    "ean": "5701049326285",
+    "image": "images/dragee-koffie-150g.png",
+    "ingredients": "Suiker, cacaomassa, cacaoboter, koffiebonen, emulgator (lecithine), aroma, glansmiddel (arabische gom), glucosestroop, vanille-extract.",
+    "allergens": [],
+    "mayContain": "Geproduceerd in een fabriek waar pinda’s, melk, hazelnoten en amandelen worden gebruikt.",
+    "kosher": "Badatz Machzikei Hadas Belz\nCRC",
+    "kosherLines": [
+      "Badatz Machzikei Hadas Belz",
+      "CRC"
+    ],
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261117-dragee/codex-clipboard-b1365572-df60-42f5-9c5b-0938ce9c4a12.png",
+      "source-labels/20261117-dragee/codex-clipboard-a9e40222-4240-4a40-8377-c36f547a2f3e.png",
+      "source-labels/20261117-dragee/codex-clipboard-948d9f13-e2a6-464d-82d0-8652698449cf.png",
+      "source-labels/20261117-dragee/codex-clipboard-7d9a4473-e67f-46c1-ba1e-a114f5a7aec4.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-dragee/codex-clipboard-b1365572-df60-42f5-9c5b-0938ce9c4a12.png",
+        "source-labels/20261117-dragee/codex-clipboard-a9e40222-4240-4a40-8377-c36f547a2f3e.png",
+        "source-labels/20261117-dragee/codex-clipboard-948d9f13-e2a6-464d-82d0-8652698449cf.png",
+        "source-labels/20261117-dragee/codex-clipboard-7d9a4473-e67f-46c1-ba1e-a114f5a7aec4.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-dragee/codex-clipboard-a9e40222-4240-4a40-8377-c36f547a2f3e.png"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "514 kcal",
+      "Vetten": "29 g",
+      "Waarvan verzadigde vetzuren": "17 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Koolhydraten": "56 g",
+      "Waarvan suikers": "54 g",
+      "Eiwitten": "4 g",
+      "Vezels": "6,7 g"
+    }
+  },
+  {
+    "id": 28,
+    "brand": "Gross & Co / Carletti",
+    "name": "Dragée Chocoladepastilles",
+    "category": "Chocoladesnoep",
+    "variant": "150 g",
+    "ean": "5701049326254",
+    "image": "images/dragee-chocolade-150g.png",
+    "ingredients": "Suiker, cacaomassa, cacaoboter, rijstzetmeel, verdikkingsmiddel (arabische gom), emulgator (lecithine), glucosestroop, glansmiddelen (carnaubawas, bijenwas), kleurstoffen (tartrazine, gemengde carotenen, indigotine, bietenrood), vanille-extract.",
+    "allergens": [],
+    "mayContain": "Geproduceerd in een fabriek waar pinda’s, melk, hazelnoten en amandelen worden gebruikt.",
+    "kosher": "Badatz Machzikei Hadas Belz\nCRC",
+    "kosherLines": [
+      "Badatz Machzikei Hadas Belz",
+      "CRC"
+    ],
+    "productInfo": {},
+    "sourcePhotos": [
+      "source-labels/20261117-dragee/codex-clipboard-f976226e-4cb3-4379-88f3-40284efc4d63.png",
+      "source-labels/20261117-dragee/codex-clipboard-5fc76ae1-481a-4571-8433-f65f42df5412.png",
+      "source-labels/20261117-dragee/codex-clipboard-88128fc9-ba60-4747-8fb2-c2780c7b2814.png",
+      "source-labels/20261117-dragee/codex-clipboard-e6667d9f-d6e8-4f02-9225-420e9328df9d.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-dragee/codex-clipboard-f976226e-4cb3-4379-88f3-40284efc4d63.png",
+        "source-labels/20261117-dragee/codex-clipboard-5fc76ae1-481a-4571-8433-f65f42df5412.png",
+        "source-labels/20261117-dragee/codex-clipboard-88128fc9-ba60-4747-8fb2-c2780c7b2814.png",
+        "source-labels/20261117-dragee/codex-clipboard-e6667d9f-d6e8-4f02-9225-420e9328df9d.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-dragee/codex-clipboard-5fc76ae1-481a-4571-8433-f65f42df5412.png"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "453 kcal",
+      "Vetten": "17 g",
+      "Waarvan verzadigde vetzuren": "9,7 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Koolhydraten": "71 g",
+      "Waarvan suikers": "69 g",
+      "Eiwitten": "2,4 g",
+      "Vezels": "5,3 g"
+    },
+    "warning": "Kan de activiteit en het concentratievermogen van kinderen negatief beïnvloeden."
+  },
+  {
+    "id": 22,
+    "nutritionUnit": "per 30 g",
+    "nutrition": {
+      "Energie": "103 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "0 mg",
+      "Zout": "0 g",
+      "Koolhydraten": "25 g",
+      "Vezels": "0 g",
+      "Waarvan suikers": "20 g",
+      "Waarvan toegevoegde suikers": "0 g",
+      "Eiwitten": "2 g",
+      "Vitamine D": "0 microgram",
+      "Calcium": "0 mg",
+      "IJzer": "0 mg",
+      "Kalium": "0 mg"
     },
     "brand": "Shneider’s",
-    "name": "Candy Planet Mr Black Dropmix",
+    "name": "Candy Planet All Black Dropmix",
     "variant": "150 g",
     "ean": "194961003085",
-    "ingredients": "Rietsuikermelasse (sulfieten), tarwebloem, glucosestroop (tarwe), zout, zoethoutextract, suiker, carnaubawas, zonnebloemolie, aroma’s, kleurstoffen (paprikaoleohars, groentesap, kurkumaoleohars), palmvet, arabische gom, gehydrolyseerd erwteneiwit.",
+    "ingredients": "Rietsuikermelasse (sulfieten), tarwebloem, suiker, glucosestroop, zout, zonnebloemolie, zoethoutextract, arabische gom, gehydrolyseerd erwteneiwit, carnaubawas, natuurlijk steranijsaroma, kleurstoffen (paprika-extract, curcumine), natuurlijk vanillearoma met andere natuurlijke aroma’s, natuurlijk aroma, kleurende levensmiddelen (wortel- en zwartebessenconcentraat), natuurlijk sinaasappelaroma, voedingszuur (citroenzuur).",
     "allergens": [
       "Tarwe (gluten)",
       "Sulfieten"
     ],
     "mayContain": "",
-    "kosher": "Rabbi E.L Schneebalg en STAR-K (Parve)",
+    "kosher": "STAR-K",
     "category": "Drop",
-    "image": "images/22-web.jpg",
-    "imageEdited": false,
-    "imageSource": "https://elisha.be/en/shneiders/Licorice-Coloured?page=2",
-    "productInfo": {},
+    "image": "images/shneiders-candy-planet-all-black-20261117.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Beschrijving": "Assortiment snoepjes met zoethoutsmaak."
+    },
     "sourcePhotos": [
-      "source-labels/e56be4b1-c875-4d60-9944-39d8cc6ebfe5.jpg",
-      "source-labels/86d28601-ba6c-4100-8222-4496a1e7cabd.jpg"
-    ],
-    "sourcePhotoIds": [
-      "e56be4b1-c875-4d60-9944-39d8cc6ebfe5",
-      "86d28601-ba6c-4100-8222-4496a1e7cabd"
+      "source-labels/20261117-candy-planet/codex-clipboard-08a323e6-2731-4ce1-bea7-6101509a4f49.png",
+      "source-labels/20261117-candy-planet/codex-clipboard-55727b12-8982-4d3e-b35b-badd65b39ebc.png",
+      "source-labels/20261117-candy-planet/codex-clipboard-485fcb84-5da5-4a3c-a953-b18482a81c2c.png",
+      "source-labels/20261117-candy-planet/codex-clipboard-901ae7e8-8993-40a0-88b3-f7370bea805e.png"
     ],
     "warning": "Bevat zoethout.",
     "kosherLines": [
-      "Rabbi E.L Schneebalg",
-      "STAR-K (Parve)"
-    ]
+      "STAR-K"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-candy-planet/codex-clipboard-08a323e6-2731-4ce1-bea7-6101509a4f49.png",
+        "source-labels/20261117-candy-planet/codex-clipboard-55727b12-8982-4d3e-b35b-badd65b39ebc.png",
+        "source-labels/20261117-candy-planet/codex-clipboard-485fcb84-5da5-4a3c-a953-b18482a81c2c.png",
+        "source-labels/20261117-candy-planet/codex-clipboard-901ae7e8-8993-40a0-88b3-f7370bea805e.png"
+      ],
+      "fields": [
+        "name",
+        "ean",
+        "ingredients",
+        "allergens",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-candy-planet/codex-clipboard-55727b12-8982-4d3e-b35b-badd65b39ebc.png"
+    }
+  },
+  {
+    "id": 24,
+    "brand": "Shneider’s",
+    "name": "Candy Planet Zure Snoepfrietjes",
+    "variant": "120 g",
+    "ean": "194961003344",
+    "category": "Snoepjes",
+    "ingredients": "Glucosestroop (tarwe), suiker, gemodificeerd zetmeel, carrageen, appelzuur, natriummalaten, citroenzuur, natriumcitraten, natuurlijke aroma’s, kleurende levensmiddelen (appelsap, spirulina-extract, kurkumaoleohars, zwart wortelsap, paprikaoleohars), tarwezetmeel.",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "",
+    "kosher": "STAR-K",
+    "kosherLines": [
+      "STAR-K"
+    ],
+    "image": "images/shneiders-candy-planet-sour-fries-20261117.png",
+    "imageEdited": true,
+    "sourcePhotos": [
+      "source-labels/20261117-candy-planet/codex-clipboard-e60b96d7-6bc6-417f-941c-07f3876d2caa.png",
+      "source-labels/20261117-candy-planet/codex-clipboard-0374c34a-4c29-46d2-8690-c2be13540855.png",
+      "source-labels/20261117-candy-planet/codex-clipboard-7f834d9b-979e-4c7f-9de4-4db9f77ba77e.png",
+      "source-labels/20261117-candy-planet/codex-clipboard-6cee653e-d173-431e-9727-61f8c91ddce5.png"
+    ],
+    "productInfo": {
+      "Beschrijving": "Gesuikerde zure snoepjes met fruitsmaken in de vorm van frietjes."
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1380 kJ / 325 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "< 0,5 g",
+      "Transvetten": "0 g",
+      "Koolhydraten": "75 g",
+      "Waarvan suikers": "62 g",
+      "Vezels": "< 0,5 g",
+      "Eiwitten": "5,2 g",
+      "Zout": "0,02 g",
+      "Cholesterol": "0 g"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-candy-planet/codex-clipboard-e60b96d7-6bc6-417f-941c-07f3876d2caa.png",
+        "source-labels/20261117-candy-planet/codex-clipboard-0374c34a-4c29-46d2-8690-c2be13540855.png",
+        "source-labels/20261117-candy-planet/codex-clipboard-7f834d9b-979e-4c7f-9de4-4db9f77ba77e.png",
+        "source-labels/20261117-candy-planet/codex-clipboard-6cee653e-d173-431e-9727-61f8c91ddce5.png"
+      ],
+      "fields": [
+        "name",
+        "ean",
+        "ingredients",
+        "allergens",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-candy-planet/codex-clipboard-0374c34a-4c29-46d2-8690-c2be13540855.png"
+    },
+    "searchName": "Candy Planet Sour Fries Zure Snoepfrietjes"
   },
   {
     "id": 13,
@@ -611,31 +954,122 @@ window.KPI_PRODUCTS = [
     "ean": "194961000961",
     "ingredients": "Suiker, glucosestroop, kokosolie, verdikkingsmiddel (arabische gom), voedingszuur (citroenzuur), aroma’s, zout.",
     "allergens": [],
-    "mayContain": "Kan melk en hazelnoten bevatten.",
-    "kosher": "Rabbi E.L Schneebalg en STAR-K (Parve)",
+    "mayContain": "Vervaardigd in een fabriek waar melk en hazelnoten worden verwerkt.",
+    "kosher": "Rabbi E.L. Schneebalg Edgware",
     "category": "Toffees",
-    "image": "images/10-web.jpg",
-    "imageEdited": false,
-    "imageSource": "https://elisha.be/en/all-products/taffy-time",
+    "image": "images/shneiders-taffy-time-800g-20261117.png",
+    "imageEdited": true,
     "productInfo": {
       "Smaken": "Aardbei, citroen, groene appel, bosbes, kers en sinaasappel"
     },
     "sourcePhotos": [
-      "source-labels/10f08052-7678-4a1a-b19b-b4d4b74e4809.jpg",
-      "source-labels/b14c403c-646a-4654-aa16-21dffd469a70.jpg",
-      "source-labels/aa125430-cc02-47f6-b497-6018b9b976ed.jpg"
-    ],
-    "sourcePhotoIds": [
-      "10f08052-7678-4a1a-b19b-b4d4b74e4809",
-      "b14c403c-646a-4654-aa16-21dffd469a70",
-      "aa125430-cc02-47f6-b497-6018b9b976ed"
+      "source-labels/20261117-shneiders-time/codex-clipboard-53026b1a-8b98-4527-a99f-89afab34de20.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-d52b006e-798a-4858-8c4e-2d428e182c53.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-a2ab8f2a-6f8e-4ad4-9134-f9285c112a49.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-51e97226-1f57-45d4-be70-b99e4c65ed00.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-4abd32f5-4985-437f-b4ad-156c62358c2c.png"
     ],
     "warning": "",
-    "allergenNote": "Vervaardigd in een fabriek waar melk en hazelnoten worden verwerkt.",
     "kosherLines": [
-      "Rabbi E.L Schneebalg",
-      "STAR-K (Parve)"
-    ]
+      "Rabbi E.L. Schneebalg Edgware"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1690 kJ / 398 kcal",
+      "Vetten": "5,1 g",
+      "Waarvan verzadigde vetzuren": "4,3 g",
+      "Transvetten": "< 0,1 g",
+      "Koolhydraten": "88 g",
+      "Waarvan suikers": "65 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0,07 g",
+      "Cholesterol": "0 mg"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-shneiders-time/codex-clipboard-53026b1a-8b98-4527-a99f-89afab34de20.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-d52b006e-798a-4858-8c4e-2d428e182c53.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-a2ab8f2a-6f8e-4ad4-9134-f9285c112a49.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-51e97226-1f57-45d4-be70-b99e4c65ed00.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-4abd32f5-4985-437f-b4ad-156c62358c2c.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-shneiders-time/codex-clipboard-4abd32f5-4985-437f-b4ad-156c62358c2c.png"
+    }
+  },
+  {
+    "id": 23,
+    "brand": "Shneider’s",
+    "name": "Happy Time Gevulde Snoepjes met Fruitsmaken",
+    "variant": "800 g",
+    "ean": "194961004198",
+    "category": "Snoep",
+    "ingredients": "Glucosestroop, suiker, zuur (citroenzuur), sinaasappelsap en -pulp, smaakstoffen.",
+    "allergens": [],
+    "mayContain": "Vervaardigd in een fabriek waar melk en hazelnoten worden verwerkt.",
+    "kosher": "Rabbi E.L. Schneebalg Edgware",
+    "kosherLines": [
+      "Rabbi E.L. Schneebalg Edgware"
+    ],
+    "image": "images/shneiders-happy-time-800g-20261117.png",
+    "imageEdited": true,
+    "productInfo": {
+      "Smaken": "Aardbei, ananas, citroen, sinaasappel en appel"
+    },
+    "sourcePhotos": [
+      "source-labels/20261117-shneiders-time/codex-clipboard-c490424d-5603-452d-8ae3-49d4e863bfe1.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-6815eb61-4eeb-435d-acc5-16c661cf7fd4.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-5371834c-c2e4-4645-92e4-42a5623b7d1b.png",
+      "source-labels/20261117-shneiders-time/codex-clipboard-9b731648-f92c-4a10-a146-54ad4ce4340b.png"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1630 kJ / 384 kcal",
+      "Vetten": "< 0,5 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Transvetten": "< 0,1 g",
+      "Koolhydraten": "96 g",
+      "Waarvan suikers": "66 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Zout": "0,08 g",
+      "Cholesterol": "0 mg"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-shneiders-time/codex-clipboard-c490424d-5603-452d-8ae3-49d4e863bfe1.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-6815eb61-4eeb-435d-acc5-16c661cf7fd4.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-5371834c-c2e4-4645-92e4-42a5623b7d1b.png",
+        "source-labels/20261117-shneiders-time/codex-clipboard-9b731648-f92c-4a10-a146-54ad4ce4340b.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-shneiders-time/codex-clipboard-6815eb61-4eeb-435d-acc5-16c661cf7fd4.png"
+    }
   },
   {
     "id": 11,

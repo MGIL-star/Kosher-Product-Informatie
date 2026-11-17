@@ -886,6 +886,62 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 67,
+    "brand": "Hashachar Haole",
+    "name": "Chocoladepasta",
+    "category": "Spreads & Pasta’s",
+    "variant": "500 g",
+    "ean": "7290000416021",
+    "image": "images/hashachar-chocoladepasta-500g.png",
+    "ingredients": "Suiker, plantaardige oliën, cacaopoeder (7,4%), weipoeder (melk), magere melkpoeder, emulgator (sojalecithine), aroma’s.",
+    "allergens": [
+      "Melk",
+      "Soja"
+    ],
+    "mayContain": "",
+    "productInfo": {
+      "Beschrijving": "Smeerpasta met cacao, voor gebak en brood."
+    },
+    "sourcePhotos": [
+      "source-labels/20261117-hashachar-500g/codex-clipboard-79dc6eca-db5a-4f09-8b71-7fe8f09ef3d3.png",
+      "source-labels/20261117-hashachar-500g/codex-clipboard-0eaa402d-ccef-4412-bf20-7d95d516f96d.png",
+      "source-labels/20261117-hashachar-500g/codex-clipboard-acb47610-0e0a-46ac-8a5a-0b2034ec1625.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "source-labels/20261117-hashachar-500g/codex-clipboard-79dc6eca-db5a-4f09-8b71-7fe8f09ef3d3.png",
+        "source-labels/20261117-hashachar-500g/codex-clipboard-0eaa402d-ccef-4412-bf20-7d95d516f96d.png",
+        "source-labels/20261117-hashachar-500g/codex-clipboard-acb47610-0e0a-46ac-8a5a-0b2034ec1625.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "nutrition"
+      ]
+    },
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "source-labels/20261117-hashachar-500g/codex-clipboard-0eaa402d-ccef-4412-bf20-7d95d516f96d.png"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "504 kcal",
+      "Vetten": "25,5 g",
+      "Waarvan verzadigde vetzuren": "7,3 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "60 mg",
+      "Zout": "0,15 g",
+      "Koolhydraten": "65 g",
+      "Waarvan suikers": "57 g",
+      "Eiwitten": "3,6 g"
+    }
+  },
+  {
     "id": 38,
     "name": "Delinut Melk",
     "nutrition": {
@@ -1337,18 +1393,6 @@ window.KPI_PRODUCTS = [
     "id": 3,
     "name": "Rash El Hanut",
     "nutrition": {
-      "Energie": "999 kJ / 238 kcal",
-      "Vetten": "6,1 g",
-      "Waarvan verzadigde vetzuren": "1 g",
-      "Waarvan enkelvoudig onverzadigde vetzuren": "3,7 g",
-      "Koolhydraten": "39 g",
-      "Waarvan suikers": "1,9 g",
-      "Vezels": "7,2 g",
-      "Eiwitten": "6 g",
-      "Zout": "32,3 g"
-    },
-    "nutritionSource": "The Spicefactory BV, AB23364, versie 1 (9 november 2026)",
-    "nutrition": {
       "Energie": "1209 kJ / 289 kcal",
       "Vetten": "12,9 g",
       "Waarvan verzadigde vetzuren": "1,6 g",
@@ -1361,6 +1405,7 @@ window.KPI_PRODUCTS = [
       "Natrium": "6698 mg",
       "Zout": "16,75 g"
     },
+    "nutritionSource": "The Spicefactory BV, AB23364, versie 1 (9 november 2026)",
     "brand": "Ta’am Vareach",
     "category": "Kruidenmixen",
     "variant": "100 g",

@@ -31,7 +31,7 @@
       source.data = source.data.split('?')[0] + '?v=20261103-energie';
     }
   }
-  for (const source of sources) source.data = source.data.split('?')[0] + (source.folder === 'meter-12' ? '?v=20261111-laatste-voedingswaarden' : source.folder === 'meter-8' ? '?v=20261116-albadya-specificaties' : source.folder === 'meter-9' ? '?v=20261110-rimon-front' : source.folder === 'meter-5' ? '?v=20261109-labels-5-9' : source.folder === 'meter-10' ? '?v=20261110-meter10-hadar' : '?v=20261106-salt-clean');
+  for (const source of sources) source.data = source.data.split('?')[0] + (source.folder === 'meter-12' ? '?v=20261111-laatste-voedingswaarden' : source.folder === 'meter-8' ? '?v=20261117-hashachar' : source.folder === 'meter-9' ? '?v=20261110-rimon-front' : source.folder === 'meter-5' ? '?v=20261109-labels-5-9' : source.folder === 'meter-10' ? '?v=20261110-meter10-hadar' : '?v=20261106-salt-clean');
   for (const source of sources) if (['diepvries-schap-2','meter-10'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-aanvulling';
   for (const source of sources) if (['meter-10','meter-12'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-packshots-snap';
   for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261112-meter13-batch4';
@@ -40,7 +40,11 @@
   for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261112-schmerlings-liggend';
   for (const source of sources) if (['meter-15','diepvries-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261112-fotocorrecties';
   for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261112-liel-formaat';
-  for (const source of sources) if (source.folder === 'meter-16') source.data = 'meter-16/products.js?v=20261114-meter16-sauzen';
+  for (const source of sources) if (source.folder === 'meter-16') source.data = 'meter-16/products.js?v=20261117-rio-krembo';
+  for (const source of sources) if (source.folder === 'meter-17') source.data = 'meter-17/products.js?v=20261117-nederlandse-producttekst';
+  for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261117-osem-vanille-1kg';
+  for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261117-telma-kariot';
+  for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261117-dragee';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
@@ -84,9 +88,8 @@
     const info=Object.entries(p.productInfo||{}).map(([label,value])=>'<p><strong>'+esc(label)+':</strong> '+esc(value)+'</p>').join('')
       +(p.preparation?'<p><strong>Bereiding:</strong> '+esc(p.preparation)+'</p>':'')
       +(p.note?'<p>'+esc(p.note)+'</p>':'');
-    const parve=(p.kosherStatus==='Parve'||/\(Parve\)/i.test(p.note||''))&&!/parve/i.test(p.kosher||'');
-    const kosherLines=Array.isArray(p.kosherLines)&&p.kosherLines.length?p.kosherLines:(p.kosher?[String(p.kosher).concat(parve?' (Parve)':'')]:[]);
-    const kosher=kosherLines.map(line=>String(line).replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim()).filter(Boolean).map(esc).join('<br>');
+    const kosherLines=Array.isArray(p.kosherLines)&&p.kosherLines.length?p.kosherLines:(p.kosher?[String(p.kosher)]:[]);
+    const kosher=kosherLines.map(line=>String(line).replace(/\s*\(parve\)|\b(?:kosher\s+)?parve\b/gi,'').replace(/^Kosher Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/^Parve\s*·\s*([^·.]+)/i,'$1 (Parve)').replace(/\s*·\s*Parve\b/gi,' (Parve)').replace(/\s*[·,]\s*/g,' ').replace(/\.$/,'').trim()).filter(Boolean).map(esc).join('<br>');
     $('#product-detail').innerHTML='<div class="dialog-product">'
       +'<div class="product-visual product-visual-large">'+image(p,'detail-image')+'</div>'
       +'<p class="image-disclaimer">Afbeelding kan afwijken van de actuele verpakking.</p>'
