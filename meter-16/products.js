@@ -3418,3 +3418,8 @@ window.KPI_PRODUCTS = [
 };
   product.nutritionUnit = "per 100 g";
 }());
+
+// Verplaatst naar meter 15; oude ID’s blijven beschikbaar voor bestaande QR-adressen.
+for (const product of window.KPI_PRODUCTS) {
+  if ([48, 49, 50, 51, 52].includes(product.id)) product.temporarilyHidden = true;
+}

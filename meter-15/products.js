@@ -480,3 +480,353 @@ window.KPI_PRODUCTS = [
     "nutritionChecked": "2026-11-12"
   }
 ];
+
+// Gecorrigeerde meter volgens gebruiker: deze producten staan op meter 15.
+(function () {
+  const products = window.KPI_PRODUCTS;
+  const additions = [
+  {
+    "id": 15,
+    "brand": "Rio",
+    "name": "Krembo Schuimgebak met Mokkasmaak",
+    "category": "Koek en schuimgebak",
+    "variant": "8 × 30 g (240 g)",
+    "image": "../meter-16/images/rio-krembo-mokka-240g.png",
+    "ingredients": "Suiker, glucose, water, albumine (eiwit), stabilisator, aroma’s, natriumbisulfiet, kleurstof (E150), cacaocoating (27%) (suiker, plantaardig vet (palmolie), cacaopoeder, sojalecithine), biscuit (17%) (tarwebloem, suiker, plantaardige vetten (palmolie), rijsmiddelen (E500, E503), zout, emulgator (sojalecithine, E322), aroma’s, rozemarijnolie).",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Ei",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, noten, pinda’s en sesam bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem"
+    ],
+    "productInfo": {
+      "Beschrijving": "Opgeklopt schuim met mokkasmaak op een biscuit, met een cacaocoating."
+    },
+    "sourcePhotos": [
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-5b71ff2c-5311-4aea-83a5-2d06ccad2d86.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-3bc8d0e8-2b55-4729-bac8-d582977d3123.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-56661fa9-6b65-4b0a-89db-fdc2bbfe39e8.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-a8ee7167-cb0a-4bca-8fe5-ba9c8690883e.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-7f1f994f-83b8-4cb8-a1f4-aa28519a3a5d.png"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "327 kcal",
+      "Vetten": "8,7 g",
+      "Waarvan verzadigde vetzuren": "6,1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "64 mg",
+      "Zout": "0,16 g",
+      "Koolhydraten": "59,6 g",
+      "Waarvan suikers": "44,1 g",
+      "Vezels": "0,2 g",
+      "Eiwitten": "2,2 g"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-5b71ff2c-5311-4aea-83a5-2d06ccad2d86.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-3bc8d0e8-2b55-4729-bac8-d582977d3123.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-56661fa9-6b65-4b0a-89db-fdc2bbfe39e8.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-a8ee7167-cb0a-4bca-8fe5-ba9c8690883e.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-7f1f994f-83b8-4cb8-a1f4-aa28519a3a5d.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition",
+        "ean"
+      ]
+    },
+    "ean": "7290017978420",
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-7f1f994f-83b8-4cb8-a1f4-aa28519a3a5d.png"
+    }
+  },
+  {
+    "id": 16,
+    "brand": "Rio",
+    "name": "Krembo Schuimgebak met Vanillesmaak",
+    "category": "Koek en schuimgebak",
+    "variant": "8 × 30 g (240 g)",
+    "image": "../meter-16/images/rio-krembo-vanille-240g.png",
+    "ingredients": "Suiker, glucose, water, albumine (eiwit), stabilisator, aroma, biscuit (17%) (tarwebloem, suiker, plantaardig vet (palmolie), rijsmiddelen (E500, E503), zout), cacaocoating (27%) (suiker, gehard plantaardig vet (palmolie), cacaopoeder, emulgator (sojalecithine)), emulgator (sojalecithine), aroma’s, rozemarijnolie.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Ei",
+      "Soja"
+    ],
+    "mayContain": "Kan amandelen, noten, pinda’s en sesam bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem"
+    ],
+    "productInfo": {
+      "Beschrijving": "Opgeklopt schuim met vanillesmaak op een biscuit, met een cacaocoating."
+    },
+    "sourcePhotos": [
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-a1c9ab68-fbdd-411f-97eb-12bd528441e0.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-11c92844-a37a-4bf2-aceb-ee408314ce15.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-83c8a670-545c-4691-af39-eaea68499c09.png",
+      "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-2ff56de7-c2dc-4508-bd8e-d4bdc7f0c232.png"
+    ],
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "327 kcal",
+      "Vetten": "8,7 g",
+      "Waarvan verzadigde vetzuren": "6,1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "64 mg",
+      "Zout": "0,16 g",
+      "Koolhydraten": "59,6 g",
+      "Waarvan suikers": "44,1 g",
+      "Vezels": "0,2 g",
+      "Eiwitten": "2,2 g"
+    },
+    "ean": "7290017978826",
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-11c92844-a37a-4bf2-aceb-ee408314ce15.png"
+    },
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-a1c9ab68-fbdd-411f-97eb-12bd528441e0.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-11c92844-a37a-4bf2-aceb-ee408314ce15.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-83c8a670-545c-4691-af39-eaea68499c09.png",
+        "../meter-16/source-labels/20261117-rio-krembo/codex-clipboard-2ff56de7-c2dc-4508-bd8e-d4bdc7f0c232.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition",
+        "ean"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "brand": "Sterilgarda",
+    "name": "Halfvolle Houdbare Melk",
+    "variant": "1 liter",
+    "ean": "8002795001417",
+    "ingredients": "Halfvolle melk.",
+    "allergens": [
+      "Melk"
+    ],
+    "mayContain": "",
+    "kosher": "Rabbijn Yermian Cohen · Chalav Yisrael (KLP)",
+    "category": "Melk en koffie",
+    "image": "../meter-7/images/product-39-online.jpg",
+    "imageNeedsCheck": false,
+    "productInfo": {},
+    "sourcePhotos": [
+      "../meter-7/source-labels/9e2b1dd7-66fb-41a6-8654-b2e43ec91319.jpg",
+      "../meter-7/source-labels/22ce7ea2-a498-4f7c-8298-76eaa676764d.jpg"
+    ],
+    "kosherNeedsCheck": false,
+    "imageSource": "https://www.spesaonline.unes.it/u2/p/152966",
+    "imageSourceUrl": "https://unesretailprod.blob.core.windows.net/retail/FRESCHI/SALUMI%20/%20LATTICINI/152966/51E4CC6F-4E60-4A64-986F-ADC31E382551_1_FULL.Jpg",
+    "imageSourceChecked": "2026-09-27",
+    "imageFrame": {
+      "x": 0.325,
+      "y": 0.032,
+      "width": 0.35,
+      "height": 0.942,
+      "aspectRatio": 0.37154989384288745
+    },
+    "kosherChecked": "2026-10-09",
+    "kosherVerification": "label",
+    "kosherSources": [
+      "https://www.sterilgarda.it/en/milk/"
+    ],
+    "labelSources": [
+      "C:/Users/ellag/OneDrive/Desktop/thee/13.jpg",
+      "C:/Users/ellag/OneDrive/Desktop/thee/14.jpg"
+    ],
+    "kosherSource": "Chalav Yisrael en KLP bevestigd op aangeleverde melkverpakking; gebruiker noemt op 9 oktober 2026 de toezichthouder Yermian Cohen.",
+    "kosherForPassover": true,
+    "nutrition": {
+      "Energie": "202 kJ / 48 kcal",
+      "Vetten": "1,6 g",
+      "Waarvan verzadigde vetzuren": "1,1 g",
+      "Koolhydraten": "5 g",
+      "Waarvan suikers": "5 g",
+      "Eiwitten": "3,3 g",
+      "Zout": "0,13 g"
+    },
+    "nutritionUnit": "per 100 ml",
+    "nutritionChecked": "2026-11-05",
+    "nutritionSource": "Aangeleverd melketiket; gebruiker bevestigt koppeling aan bestaande melk op 5 november 2026."
+  },
+  {
+    "id": 18,
+    "brand": "Telma",
+    "name": "Kariot Ontbijtgranen met Nougatcrème",
+    "category": "Ontbijtgranen",
+    "variant": "348 g",
+    "ean": "0810065170286",
+    "image": "../meter-13/images/telma-kariot-nougat-348g.png",
+    "ingredients": "Nougatcrème (48%) (suiker, sojaolie (genetisch gemodificeerd), hazelnoten (8%), magere cacao, maltodextrine, geheel geharde palmolie, emulgator (koolzaadlecithine)), tarwemeel, suiker, maïsgriesmeel, maïsmeel, volkoren tarwemeel, maltodextrine, magere cacao, koolzaadolie, zout, antiklontermiddel (E504 (i)), emulgator (E471). Granen: 40%.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Hazelnoten"
+    ],
+    "mayContain": "Kan pistachenoten, pinda’s, soja, amandelen, pecannoten, gerst, rogge en haver bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem\nOU",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem",
+      "OU"
+    ],
+    "productInfo": {},
+    "sourcePhotos": [
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-c49d28e2-a5af-47dc-88ec-bbddd06349c7.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-6c35ee59-c7d1-4dff-85eb-a02c7b4a2b72.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-4a881d64-b28d-429a-b0bb-5f1ec2a8e719.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-0a79c8b3-d7eb-4bf3-a353-d83a6439d788.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-97a64ae5-d1d3-4da8-b8c1-62caba6eaccd.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-c49d28e2-a5af-47dc-88ec-bbddd06349c7.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-6c35ee59-c7d1-4dff-85eb-a02c7b4a2b72.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-4a881d64-b28d-429a-b0bb-5f1ec2a8e719.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "ingredientsSource": "Aangeleverde Nederlandse ingrediëntenfoto van de 348 g-verpakking; overeenkomstige gegevens gedeeld tussen beide formaten op aanwijzing van gebruiker.",
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1938 kJ / 461 kcal",
+      "Vetten": "16 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Koolhydraten": "72 g",
+      "Waarvan suikers": "39 g",
+      "Vezels": "1,8 g",
+      "Eiwitten": "5,7 g",
+      "Zout": "0,54 g"
+    }
+  },
+  {
+    "id": 19,
+    "brand": "Telma",
+    "name": "Kariot Ontbijtgranen met Nougatcrème",
+    "category": "Ontbijtgranen",
+    "variant": "686 g",
+    "ean": "084685000883",
+    "image": "../meter-13/images/telma-kariot-nougat-686g.png",
+    "ingredients": "Nougatcrème (48%) (suiker, sojaolie (genetisch gemodificeerd), hazelnoten (8%), magere cacao, maltodextrine, geheel geharde palmolie, emulgator (koolzaadlecithine)), tarwemeel, suiker, maïsgriesmeel, maïsmeel, volkoren tarwemeel, maltodextrine, magere cacao, koolzaadolie, zout, antiklontermiddel (E504 (i)), emulgator (E471). Granen: 40%.",
+    "allergens": [
+      "Tarwe (gluten)",
+      "Hazelnoten"
+    ],
+    "mayContain": "Kan pistachenoten, pinda’s, soja, amandelen, pecannoten, gerst, rogge en haver bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jeruzalem\nOU",
+    "kosherLines": [
+      "Badatz Edah HaChareidis Jeruzalem",
+      "OU"
+    ],
+    "productInfo": {},
+    "sourcePhotos": [
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-0a79c8b3-d7eb-4bf3-a353-d83a6439d788.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-97a64ae5-d1d3-4da8-b8c1-62caba6eaccd.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png"
+    ],
+    "labelVerification": {
+      "date": "2026-11-17",
+      "photos": [
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-0a79c8b3-d7eb-4bf3-a353-d83a6439d788.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-97a64ae5-d1d3-4da8-b8c1-62caba6eaccd.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-c49d28e2-a5af-47dc-88ec-bbddd06349c7.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-6c35ee59-c7d1-4dff-85eb-a02c7b4a2b72.png",
+        "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-4a881d64-b28d-429a-b0bb-5f1ec2a8e719.png"
+      ],
+      "fields": [
+        "name",
+        "variant",
+        "ean",
+        "ingredients",
+        "allergens",
+        "mayContain",
+        "kosher",
+        "nutrition"
+      ]
+    },
+    "ingredientsSource": "Aangeleverde Nederlandse ingrediëntenfoto van de 348 g-verpakking; overeenkomstige gegevens gedeeld tussen beide formaten op aanwijzing van gebruiker.",
+    "barcodeSource": {
+      "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+      "url": "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png"
+    },
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "466,67 kcal",
+      "Vetten": "16,67 g",
+      "Waarvan verzadigde vetzuren": "2,5 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "216,67 mg",
+      "Zout": "0,54 g",
+      "Koolhydraten": "73,33 g",
+      "Vezels": "1,67 g",
+      "Waarvan suikers": "38,33 g",
+      "Waarvan toegevoegde suikers": "38,33 g",
+      "Eiwitten": "5 g",
+      "IJzer": "7,5 mg"
+    },
+    "nutritionOriginal": {
+      "unit": "per 60 g",
+      "values": {
+        "Energie": "280 kcal",
+        "Vetten": "10 g",
+        "Waarvan verzadigde vetzuren": "1,5 g",
+        "Transvetten": "0 g",
+        "Cholesterol": "0 mg",
+        "Natrium": "130 mg",
+        "Zout": "0,33 g",
+        "Koolhydraten": "44 g",
+        "Vezels": "1 g",
+        "Waarvan suikers": "23 g",
+        "Waarvan toegevoegde suikers": "23 g",
+        "Eiwitten": "3 g",
+        "IJzer": "4,5 mg"
+      }
+    }
+  }
+];
+  const index = products.findIndex(p => p.id === 9);
+  products.splice(index < 0 ? products.length : index, 0, ...additions);
+}());

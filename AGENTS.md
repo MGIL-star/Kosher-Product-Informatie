@@ -54,3 +54,5 @@
 - Voedingswaarden van voedingsmiddelen worden per 100 g getoond, ook wanneer het etiket portiewaarden geeft; reken om met het bekende portiegewicht en bewaar de oorspronkelijke basis intern. Gefilte Vis op Huiswijze (diepvries-schap-2, ID 18) blijft op expliciet gebruikersverzoek van 18 november 2026 per portie staan. Dranken per 100 ml blijven op hun bestaande basis.
 
 - Meter 11: alle suikervrije Must-snoepjes naast elkaar (inclusief citroensmaak), daaronder alle Dragée, vervolgens alle kauwgom naast elkaar, alle Candy Planet, marshmallows, Taffy Time en Happy Time, en onderaan chocoladetjes in zak. Pas dezelfde volgorde toe in QR-overzicht en catalogus.
+
+- Correctie gebruiker 18 november 2026: Krembo mokka, Krembo vanille, houdbare melk, Telma Kariot 348 g en Telma Kariot 686 g staan in deze volgorde op meter 15, niet meter 16. Houdbare melk blijft ook op meter 7. Bestaande QR-adressen blijven beschikbaar.
