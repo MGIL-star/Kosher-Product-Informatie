@@ -2658,7 +2658,7 @@ window.KPI_PRODUCTS = [
 // Schapfoto gebruiker 18 november 2026: per plank links naar rechts, boven naar beneden.
 // Uitverkochte producten die ontbreken op de foto blijven bij hun productfamilie.
 (function () {
-  const order = [3, 4, 5, 53, 1, 2, 6, 50, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 26, 27, 14, 52, 51, 29, 30, 31, 32, 44, 45, 46, 33, 34, 37, 35, 36, 49, 38, 39, 40, 41, 42, 43, 47, 48];
+  const order = [3, 4, 5, 53, 1, 2, 6, 50, 7, 8, 9, 10, 11, 12, 13, 15, 16, 22, 23, 24, 25, 28, 26, 27, 14, 52, 51, 29, 30, 31, 32, 44, 45, 46, 33, 34, 37, 35, 36, 49, 38, 39, 40, 41, 42, 43, 47, 48, 17, 18, 19, 20, 21];
   const rank = new Map(order.map((id, i) => [id, i]));
   window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
 }());

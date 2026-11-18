@@ -59,4 +59,4 @@
 
 - Meter 15 volgt van boven naar beneden: Bamba 200 g, alle broodjes, Krembo mokka, Krembo vanille, melk, Kariot kleine doos, Kariot grote doos, Gusto 85 g en kleine Gusto. Overige bestaande producten blijven achter dit blok behouden.
 
-- Meter 5 volgt de schapfoto per plank van links naar rechts, van boven naar beneden. Producten die niet op de foto staan zijn uitverkocht: behoud ze bij dezelfde productfamilie, niet apart achteraan. Mayonaises blijven bij elkaar naast mosterd, de Osem-sauzen blijven bij elkaar en gefilte fish blijft bij de visproducten.
+- Meter 5 volgt de schapfoto per plank van links naar rechts, van boven naar beneden. Producten die niet op de foto staan zijn uitverkocht: behoud ze bij dezelfde productfamilie. De Osem-sauzen blijven bij elkaar en gefilte fish blijft bij de visproducten. Expliciete correctie gebruiker: alle mayonaises staan helemaal onderaan meter 5, niet naast mosterd. De foto en concrete gebruikersaanwijzingen gaan vóór een afgeleide indeling op productsoort.
