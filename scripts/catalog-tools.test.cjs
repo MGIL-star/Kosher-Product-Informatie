@@ -93,3 +93,8 @@ test('fallback tries centre crop and rotation after full frame has no barcode',a
 test('camera opens full-screen dialog and close releases the stream',async()=>{
  const h=cameraHarness();await h.start();assert.equal(h.element('#scanner-dialog').open,true);h.element('#camera-close').onclick();assert.equal(h.element('#scanner-dialog').open,false);assert.equal(h.stops,1);assert.equal(h.element('#cart-dialog').open,true);
 });
+test('search keeps Hebrew words and recognizes translated grocery phrases',()=>{
+ for(const query of ['appelsap','apple juice','jus de pomme','מיץ תפוחים']){assert(matches({name:'Helder Appelsap'},query),query);assert(!matches({name:'Witte Azijn'},query),query);}
+ assert.equal(context.window.CatalogSearch.normalize('חָלָב'),'חלב');assert(matches({name:'Houdbare Melk'},'חלב'));assert(!matches({name:'Brood'},'מטוס'));
+ context.window.KPI_searchMatches=()=>true;assert(!matches({name:'Brood'},'מטוס'));delete context.window.KPI_searchMatches;
+});

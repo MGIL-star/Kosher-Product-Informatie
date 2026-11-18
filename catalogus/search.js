@@ -1,17 +1,21 @@
 (() => {
   'use strict';
-  const norm = value => String(value || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+  const norm = value => String(value || '').toLowerCase().normalize('NFD').replace(/\p{M}/gu, '').replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
   const families = [
-    ['snoep', 'snoepjes', 'snoepgoed', 'candy', 'candies', 'kauwgom', 'gum', 'marshmallow', 'marshmallows', 'taffy', 'dragee', 'lolly', 'lollies', 'toffee', 'must', 'happy time'],
-    ['koek', 'koekjes', 'koeken', 'biscuit', 'biscuits', 'cookies', 'cookie', 'wafel', 'wafels', 'wafer', 'wafers', 'babka', 'cake', 'ontbijtkoek', 'speculaas'],
+    ['snoep', 'bonbon', 'bonbons', 'sucreries', 'ממתקים', 'סוכריות', 'snoepjes', 'snoepgoed', 'candy', 'candies', 'kauwgom', 'gum', 'marshmallow', 'marshmallows', 'taffy', 'dragee', 'lolly', 'lollies', 'toffee', 'must', 'happy time'],
+    ['koek', 'עוגיות', 'עוגה', 'עוגות', 'gateau', 'gateaux', 'gaufres', 'koekjes', 'koeken', 'biscuit', 'biscuits', 'cookies', 'cookie', 'wafel', 'wafels', 'wafer', 'wafers', 'babka', 'cake', 'ontbijtkoek', 'speculaas'],
     ['chips', 'crisps', 'bamba', 'bissli', 'pretzels', 'zoutjes'],
     ['chocolade', 'chocolate', 'chocoladereep', 'chocoladerepen'],
-    ['brood', 'broodjes', 'brioche', 'pita', 'challe', 'challah'],
-    ['kaas', 'cheese', 'roomkaas', 'smeerkaas'],
-    ['yoghurt', 'yogurt', 'yoghurtjes'],
-    ['sap', 'vruchtensap', 'juice'],
+    ['brood', 'pain', 'pains', 'לחם', 'לחמניות', 'broodjes', 'brioche', 'pita', 'challe', 'challah'],
+    ['kaas', 'fromage', 'גבינה', 'גבינות', 'cheese', 'roomkaas', 'smeerkaas'],
+    ['yoghurt', 'yogurt', 'yaourt', 'יוגורט', 'yoghurtjes'],
+    ['appelsap','apple juice','jus de pomme','מיץ תפוחים'],
+    ['druivensap','grape juice','jus de raisin','מיץ ענבים'],
+    ['sinaasappelsap','orange juice','jus d orange','מיץ תפוזים'],
+    ['melk','milk','lait','חלב'],
+    ['sap', 'vruchtensap', 'juice', 'jus', 'מיץ'],
     ['pasta', 'spaghetti', 'macaroni', 'penne', 'fusilli'],
-    ['koffie', 'coffee'], ['thee', 'tea']
+    ['koffie', 'coffee', 'cafe', 'קפה'], ['thee', 'tea', 'the', 'תה']
   ];
   // One edit, including swapped adjacent letters, for short queries; two for long words.
   function distance(a, b) {
@@ -25,14 +29,19 @@
     return rows[a.length][b.length];
   }
   const close = (a,b) => a.length>=4 && Math.abs(a.length-b.length)<= (a.length>=8?2:1) && distance(a,b)<=(a.length>=8?2:1);
+  const expandedQueries=new Map();
   function matches(product, query, translation='') {
-    const q=norm(query); if(!q)return true;
+    let q=norm(query);
+    // Recognize whole translated phrases before splitting query words.
+    if(expandedQueries.has(q))q=expandedQueries.get(q);
+    else{const original=q;for(const group of families){for(const alias of group.slice(1).sort((a,b)=>b.length-a.length)){const phrase=norm(alias);q=(' '+q+' ').split(' '+phrase+' ').join(' '+norm(group[0])+' ').trim();}}if(expandedQueries.size>100)expandedQueries.clear();expandedQueries.set(original,q);}
+     if(!q)return true;
     const barcode=String(product.ean||'').replace(/\D/g,'');
     if(/^\d[\d\s-]*$/.test(query))return barcode.includes(query.replace(/\D/g,''));
     // Shelf headings are deliberately excluded: a chocolate shelf also contains baking powder.
     const text=norm([product.name,product.searchName,product.englishName,product.brand,product.variant,product.category,...(Array.isArray(product.aliases)?product.aliases:[product.aliases]),translation].join(' '));
     const words=text.split(' ');
-    return Boolean(window.KPI_searchMatches?.(text,q)) || q.split(' ').every(term => {
+    return (!/[^\x00-\x7F]/.test(q)&&Boolean(window.KPI_searchMatches?.(text,q))) || q.split(' ').every(term => {
       if(text.includes(term))return true;
       const family=families.find(group=>group.some(alias=>alias===term || close(term,alias)));
       if(family && family.some(alias=>words.some(word=>word===alias || word.startsWith(alias)) || (alias.includes(' ')&&text.includes(alias))))return true;

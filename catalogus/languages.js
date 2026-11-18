@@ -9,7 +9,10 @@
   status.className = 'translation-status'; status.setAttribute('role','status');
   nav.after(status);
   let loading, active = 'nl', translated = false, refreshTimer;
+  const productNamesByLanguage=new Map();
+  function captureProductNames(code){let names=productNamesByLanguage.get(code);if(!names){names=new Map();productNamesByLanguage.set(code,names);}document.querySelectorAll('.product-open[data-product]').forEach(el=>{const title=el.querySelector('h3')?.textContent;if(title)names.set(el.dataset.product,title);});return names;}
   function cleanProductTitles(code) {
+    captureProductNames(code);
     if (!['en','fr','iw'].includes(code)) return;
     document.querySelectorAll('[data-source-title]').forEach(el => {
       // Preserve punctuation already present in the Dutch name and never alter
@@ -44,8 +47,11 @@
   });
   document.querySelector('#search')?.addEventListener('input', () => window.CatalogTranslation?.refresh());
   window.CatalogTranslation = {
+    get language(){return active;},
+    getProductNames(){if(translated||active==='nl')captureProductNames(active);return new Map(productNamesByLanguage.get(active)||[]);},
     beforeUpdate() {
       clearTimeout(refreshTimer);
+      if(translated)captureProductNames(active);
       if (translated && window.__GT?.translator?.libReady) window.__GT.translator.revert();
       translated = false;
     },
@@ -112,6 +118,7 @@
         cleanProductTitles(code);
         active = code;
         select(code);
+        window.dispatchEvent(new CustomEvent('catalog:language-changed',{detail:{language:code}}));
         document.documentElement.dir = code === 'iw' ? 'rtl' : 'ltr';
         if (code === 'nl') status.textContent = '';
       } catch {status.textContent = 'Vertalen is tijdelijk niet beschikbaar. Vernieuw de pagina om het opnieuw te proberen.';}

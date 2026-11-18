@@ -20,3 +20,8 @@ test('local recorder transcribes through worker and releases microphone',async()
 test('cancel closes microphone and terminates local worker',async()=>{
  const h=harness(),engine=new h.Class();await engine.load(()=>{});await engine.start({onStart(){},onStatus(){},onResult:()=>assert.fail('cancelled result'),onError:()=>assert.fail('cancelled error')});engine.cancel();await settle();assert(h.tracks[0].stopped);assert(h.workers[0].terminated);assert.equal(engine.ready,false);assert.equal(engine.listening,false);assert.equal(h.timers.size,0);
 });
+test('recorded audio is sent to worker with the selected recognition language',async()=>{
+ for(const language of ['nl','fr','en','iw']){
+  const h=harness(),engine=new h.Class();await engine.load(()=>{});await engine.start({language,onStart(){},onStatus(){},onResult(){},onError:message=>assert.fail(message)});engine.finish();await settle();await new Promise(r=>setImmediate(r));await settle();assert.equal(h.workers[0].messages.find(m=>m.type==='transcribe').language,language);engine.cancel();
+ }
+});

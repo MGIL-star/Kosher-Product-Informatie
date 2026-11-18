@@ -10,7 +10,7 @@
       this.loading=new Promise((resolve,reject)=>{
         const timer=setTimeout(()=>{this.cancel();reject(Error('load-timeout'));},180000);
         this.loadReject=reject;
-        this.worker=new Worker(new URL('speech-worker.js?v=20261118-1',document.baseURI),{type:'module'});
+        this.worker=new Worker(new URL('speech-worker.js?v=20261118-multilingual-2',document.baseURI),{type:'module'});
         this.worker.onmessage=event=>{
           if(job!==this.generation)return;
           const message=event.data;
@@ -26,7 +26,7 @@
       return this.loading;
     }
     fail(error){const rejectLoad=this.loadReject,rejectText=this.transcribeReject;this.loadReject=this.transcribeReject=null;rejectLoad?.(error);rejectText?.(error);this.cancel();}
-    async start({onStart,onStatus,onResult,onError}){
+    async start({onStart,onStatus,onResult,onError,language='nl'}){
       if(!this.ready||this.listening||this.busy)return;
       const token=this.generation;this.listening=true;
       try{
@@ -52,7 +52,7 @@
             const text=await new Promise((resolve,reject)=>{
               this.transcribeResolve=resolve;this.transcribeReject=reject;
               this.inferenceTimer=setTimeout(()=>this.fail(Error('inference-timeout')),90000);
-              this.worker.postMessage({type:'transcribe',audio},[audio.buffer]);
+              this.worker.postMessage({type:'transcribe',audio,language},[audio.buffer]);
             });
             clearTimeout(this.inferenceTimer);if(token===this.generation)onResult(text);
           }catch(error){if(error?.message!=='cancelled')onError('De extra spraakherkenning kon uw opname niet verwerken. Probeer opnieuw of gebruik de dicteerknop op uw toetsenbord.');}
