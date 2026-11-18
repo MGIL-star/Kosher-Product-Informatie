@@ -3182,3 +3182,200 @@ window.KPI_PRODUCTS = [
     }
   }
 ];
+
+// Schapvolgorde volgens gebruikersfoto 18 november 2026; bestaande ID’s blijven behouden.
+(function () {
+  const products = window.KPI_PRODUCTS;
+  products.push({
+  "id": 50,
+  "brand": "Sterilgarda",
+  "name": "Halfvolle Houdbare Melk",
+  "variant": "1 liter",
+  "ean": "8002795001417",
+  "ingredients": "Halfvolle melk.",
+  "allergens": [
+    "Melk"
+  ],
+  "mayContain": "",
+  "kosher": "Rabbijn Yermian Cohen · Chalav Yisrael (KLP)",
+  "category": "Melk en koffie",
+  "image": "../meter-7/images/product-39-online.jpg",
+  "imageNeedsCheck": false,
+  "productInfo": {},
+  "sourcePhotos": [
+    "../meter-7/source-labels/9e2b1dd7-66fb-41a6-8654-b2e43ec91319.jpg",
+    "../meter-7/source-labels/22ce7ea2-a498-4f7c-8298-76eaa676764d.jpg"
+  ],
+  "kosherNeedsCheck": false,
+  "imageSource": "https://www.spesaonline.unes.it/u2/p/152966",
+  "imageSourceUrl": "https://unesretailprod.blob.core.windows.net/retail/FRESCHI/SALUMI%20/%20LATTICINI/152966/51E4CC6F-4E60-4A64-986F-ADC31E382551_1_FULL.Jpg",
+  "imageSourceChecked": "2026-09-27",
+  "imageFrame": {
+    "x": 0.325,
+    "y": 0.032,
+    "width": 0.35,
+    "height": 0.942,
+    "aspectRatio": 0.37154989384288745
+  },
+  "kosherChecked": "2026-10-09",
+  "kosherVerification": "label",
+  "kosherSources": [
+    "https://www.sterilgarda.it/en/milk/"
+  ],
+  "labelSources": [
+    "C:/Users/ellag/OneDrive/Desktop/thee/13.jpg",
+    "C:/Users/ellag/OneDrive/Desktop/thee/14.jpg"
+  ],
+  "kosherSource": "Chalav Yisrael en KLP bevestigd op aangeleverde melkverpakking; gebruiker noemt op 9 oktober 2026 de toezichthouder Yermian Cohen.",
+  "kosherForPassover": true,
+  "nutrition": {
+    "Energie": "202 kJ / 48 kcal",
+    "Vetten": "1,6 g",
+    "Waarvan verzadigde vetzuren": "1,1 g",
+    "Koolhydraten": "5 g",
+    "Waarvan suikers": "5 g",
+    "Eiwitten": "3,3 g",
+    "Zout": "0,13 g"
+  },
+  "nutritionUnit": "per 100 ml",
+  "nutritionChecked": "2026-11-05",
+  "nutritionSource": "Aangeleverd melketiket; gebruiker bevestigt koppeling aan bestaande melk op 5 november 2026."
+},
+{
+  "id": 51,
+  "brand": "Telma",
+  "name": "Kariot Ontbijtgranen met Nougatcrème",
+  "category": "Ontbijtgranen",
+  "variant": "348 g",
+  "ean": "0810065170286",
+  "image": "../meter-13/images/telma-kariot-nougat-348g.png",
+  "ingredients": "Nougatcrème (48%) (suiker, sojaolie (genetisch gemodificeerd), hazelnoten (8%), magere cacao, maltodextrine, geheel geharde palmolie, emulgator (koolzaadlecithine)), tarwemeel, suiker, maïsgriesmeel, maïsmeel, volkoren tarwemeel, maltodextrine, magere cacao, koolzaadolie, zout, antiklontermiddel (E504 (i)), emulgator (E471). Granen: 40%.",
+  "allergens": [
+    "Tarwe (gluten)",
+    "Hazelnoten"
+  ],
+  "mayContain": "Kan pistachenoten, pinda’s, soja, amandelen, pecannoten, gerst, rogge en haver bevatten.",
+  "kosher": "Badatz Edah HaChareidis Jeruzalem\nOU",
+  "kosherLines": [
+    "Badatz Edah HaChareidis Jeruzalem",
+    "OU"
+  ],
+  "productInfo": {},
+  "sourcePhotos": [
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-c49d28e2-a5af-47dc-88ec-bbddd06349c7.png",
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png",
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-6c35ee59-c7d1-4dff-85eb-a02c7b4a2b72.png",
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-4a881d64-b28d-429a-b0bb-5f1ec2a8e719.png"
+  ],
+  "labelVerification": {
+    "date": "2026-11-17",
+    "photos": [
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-0a79c8b3-d7eb-4bf3-a353-d83a6439d788.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-97a64ae5-d1d3-4da8-b8c1-62caba6eaccd.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-c49d28e2-a5af-47dc-88ec-bbddd06349c7.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-6c35ee59-c7d1-4dff-85eb-a02c7b4a2b72.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-4a881d64-b28d-429a-b0bb-5f1ec2a8e719.png"
+    ],
+    "fields": [
+      "name",
+      "variant",
+      "ean",
+      "ingredients",
+      "allergens",
+      "mayContain",
+      "kosher",
+      "nutrition"
+    ]
+  },
+  "ingredientsSource": "Aangeleverde Nederlandse ingrediëntenfoto van de 348 g-verpakking; overeenkomstige gegevens gedeeld tussen beide formaten op aanwijzing van gebruiker.",
+  "barcodeSource": {
+    "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+    "url": "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png"
+  },
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "1938 kJ / 461 kcal",
+    "Vetten": "16 g",
+    "Waarvan verzadigde vetzuren": "2,6 g",
+    "Koolhydraten": "72 g",
+    "Waarvan suikers": "39 g",
+    "Vezels": "1,8 g",
+    "Eiwitten": "5,7 g",
+    "Zout": "0,54 g"
+  }
+},
+{
+  "id": 52,
+  "brand": "Telma",
+  "name": "Kariot Ontbijtgranen met Nougatcrème",
+  "category": "Ontbijtgranen",
+  "variant": "686 g",
+  "ean": "084685000883",
+  "image": "../meter-13/images/telma-kariot-nougat-686g.png",
+  "ingredients": "Nougatcrème (48%) (suiker, sojaolie (genetisch gemodificeerd), hazelnoten (8%), magere cacao, maltodextrine, geheel geharde palmolie, emulgator (koolzaadlecithine)), tarwemeel, suiker, maïsgriesmeel, maïsmeel, volkoren tarwemeel, maltodextrine, magere cacao, koolzaadolie, zout, antiklontermiddel (E504 (i)), emulgator (E471). Granen: 40%.",
+  "allergens": [
+    "Tarwe (gluten)",
+    "Hazelnoten"
+  ],
+  "mayContain": "Kan pistachenoten, pinda’s, soja, amandelen, pecannoten, gerst, rogge en haver bevatten.",
+  "kosher": "Badatz Edah HaChareidis Jeruzalem\nOU",
+  "kosherLines": [
+    "Badatz Edah HaChareidis Jeruzalem",
+    "OU"
+  ],
+  "productInfo": {},
+  "sourcePhotos": [
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-0a79c8b3-d7eb-4bf3-a353-d83a6439d788.png",
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-97a64ae5-d1d3-4da8-b8c1-62caba6eaccd.png",
+    "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png"
+  ],
+  "labelVerification": {
+    "date": "2026-11-17",
+    "photos": [
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-0a79c8b3-d7eb-4bf3-a353-d83a6439d788.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-97a64ae5-d1d3-4da8-b8c1-62caba6eaccd.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-c49d28e2-a5af-47dc-88ec-bbddd06349c7.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-b8499e6f-81db-4210-b4b5-7f05d75878cb.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-6c35ee59-c7d1-4dff-85eb-a02c7b4a2b72.png",
+      "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-4a881d64-b28d-429a-b0bb-5f1ec2a8e719.png"
+    ],
+    "fields": [
+      "name",
+      "variant",
+      "ean",
+      "ingredients",
+      "allergens",
+      "mayContain",
+      "kosher",
+      "nutrition"
+    ]
+  },
+  "ingredientsSource": "Aangeleverde Nederlandse ingrediëntenfoto van de 348 g-verpakking; overeenkomstige gegevens gedeeld tussen beide formaten op aanwijzing van gebruiker.",
+  "barcodeSource": {
+    "label": "Fysieke verpakking, etiketfoto gebruiker — 17 november 2026",
+    "url": "../meter-13/source-labels/20261117-telma-kariot/codex-clipboard-e14dae9c-c705-4385-9b41-7e355c8f0218.png"
+  },
+  "nutritionUnit": "per 60 g",
+  "nutrition": {
+    "Energie": "280 kcal",
+    "Vetten": "10 g",
+    "Waarvan verzadigde vetzuren": "1,5 g",
+    "Transvetten": "0 g",
+    "Cholesterol": "0 mg",
+    "Natrium": "130 mg",
+    "Zout": "0,33 g",
+    "Koolhydraten": "44 g",
+    "Vezels": "1 g",
+    "Waarvan suikers": "23 g",
+    "Waarvan toegevoegde suikers": "23 g",
+    "Eiwitten": "3 g",
+    "IJzer": "4,5 mg"
+  }
+});
+  const order = [48, 49, 50, 51, 52];
+  const rank = new Map(order.map((id, i) => [id, i]));
+  products.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
+}());

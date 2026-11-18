@@ -2840,3 +2840,8 @@ window.KPI_PRODUCTS = [
     "nutritionChecked": "2026-11-12"
   }
 ];
+
+// Verplaatst naar meter 16. Oude ID’s en QR-productadressen blijven beschikbaar.
+for (const product of window.KPI_PRODUCTS) {
+  if ([120, 121].includes(product.id)) product.temporarilyHidden = true;
+}
