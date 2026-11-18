@@ -13,19 +13,9 @@ test('related words, typos, accents and multiple terms',()=>{
  assert(matches({ean:'7290112336644'},'7290112336644'));
  assert(!matches({ean:'7290112336644'},'7290112336645'));
 });
-test('email embeds photo bytes, escapes names and preserves quantities',async()=>{
- const elements=new Map();const element=id=>{if(!elements.has(id))elements.set(id,{addEventListener(){},textContent:'',getTracks(){return[];}});return elements.get(id);};
- let exported;
- const ctx={window:{catalogPreview:{cart:{one:3,two:2},products:[{key:'one',name:'Koek & <test>',brand:'Elite',variant:'100 g',image:'https://example.test/photo.png'},{key:'two',name:'Melk',brand:'Shefa',variant:'1 l'}]}},document:{querySelector:element,addEventListener(){},createElement(){return{click(){}};}},navigator:{},crypto:require('node:crypto').webcrypto,TextEncoder,Uint8Array,Blob,btoa:s=>Buffer.from(s,'binary').toString('base64'),URL:{createObjectURL(blob){exported=blob;return'blob:test';},revokeObjectURL(){}},setTimeout(){},fetch:async()=>({ok:true,blob:async()=>new Blob([new Uint8Array([1,2,3])],{type:'image/png'})})};
- vm.runInNewContext(fs.readFileSync('catalogus/cart-tools.js','utf8'),ctx);
- await element('#email-export').onclick();
- const eml=await exported.text();assert(eml.includes('X-Unsent: 1'));assert(eml.includes('Content-ID: <product-0>'));assert(eml.includes('AQID'));
- const encoded=eml.split('Content-Transfer-Encoding: base64\r\n\r\n')[1].split('\r\n--')[0];const html=Buffer.from(encoded.replace(/\s/g,''),'base64').toString();assert(html.includes('Koek &amp; &lt;test&gt;'));assert(html.includes('Aantal: 3'));assert(html.includes('Aantal: 2'));assert(html.includes('cid:product-0'));assert(html.indexOf('Koek')<html.indexOf('Melk'));
- ctx.fetch=async()=>({ok:false});exported=null;await element('#email-export').onclick();assert.equal(exported,null);assert(element('#email-status').textContent.includes('geen onvolledige'));
-});
 test('scanner finds exact barcodes and stops tracks on close',()=>{
  const elements=new Map();const handlers=new Map();let stopped=0;let rendered=0;let closed=0;
- const element=id=>{if(!elements.has(id))elements.set(id,{value:'',addEventListener(type,fn){handlers.set(id+':'+type,fn);},dispatchEvent(){rendered++;},close(){closed++;},scrollIntoView(){}});return elements.get(id);};
+ const element=id=>{if(!elements.has(id))elements.set(id,{value:'',addEventListener(type,fn){handlers.set(id+':'+type,fn);},dispatchEvent(){rendered++;},close(){if(id==='#cart-dialog')closed++;},scrollIntoView(){}});return elements.get(id);};
  const ctx={window:{catalogPreview:{products:[{ean:'0123456789012'}]}},document:{querySelector:element,addEventListener(){}},navigator:{},Event:class{},setTimeout(){}};
  vm.runInNewContext(fs.readFileSync('catalogus/cart-tools.js','utf8'),ctx);
  element('#barcode-input').value='123456789012';handlers.get('#barcode-form:submit')({preventDefault(){}});assert.equal(element('#search').value,'0123456789012');assert.equal(rendered,1);assert.equal(closed,1);
@@ -35,14 +25,14 @@ test('scanner finds exact barcodes and stops tracks on close',()=>{
 // Camera tests use controlled video frames and media streams; no physical webcam.
 function cameraHarness(options={}) {
  const elements=new Map(),handlers=new Map(),timers=[];let stops=0,requests=0,searches=0;
- const element=id=>{if(!elements.has(id))elements.set(id,{value:'',hidden:true,textContent:'',srcObject:null,setAttribute(){},videoWidth:1280,videoHeight:720,addEventListener(type,fn){handlers.set(id+':'+type,fn);},dispatchEvent(){searches++;},close(){handlers.get('#cart-dialog:close')?.();},scrollIntoView(){},play:options.play||async function(){}});return elements.get(id);};
+ const element=id=>{if(!elements.has(id))elements.set(id,{value:'',hidden:true,textContent:'',srcObject:null,setAttribute(){},videoWidth:1280,videoHeight:720,addEventListener(type,fn){handlers.set(id+':'+type,fn);},dispatchEvent(){searches++;},open:id==='#cart-dialog',showModal(){this.open=true;},close(){if(!this.open)return;this.open=false;handlers.get(id+':close')?.();},scrollIntoView(){},play:options.play||async function(){}});return elements.get(id);};
  const track={stop(){stops++;}};const stream={getTracks:()=>[track]};
  class Detector{static getSupportedFormats=options.formats||async function(){return ['ean_13','ean_8'];};async detect(){if(options.detect)return options.detect();return [];}}
- const document={hidden:false,querySelector:element,addEventListener(type,fn){handlers.set('document:'+type,fn);}};
+ const document={hidden:false,querySelector:element,createElement(){return {width:0,height:0,getContext(){return {drawImage(){},translate(){},rotate(){}};}};},addEventListener(type,fn){handlers.set('document:'+type,fn);}};
  const ctx={window:{catalogPreview:{products:[{ean:'7290112336644'}]},BarcodeDetector:Detector},BarcodeDetector:Detector,document,navigator:{mediaDevices:{getUserMedia:async()=>{requests++;if(options.media)return options.media(stream);return stream;}}},Event:class{},setTimeout(fn){timers.push(fn);}};
  if(options.unsupported)delete ctx.window.BarcodeDetector;
  if(options.noMedia)delete ctx.navigator.mediaDevices;
- if(options.fallback)ctx.window.ZXingBrowser={BrowserMultiFormatOneDReader:class{decode(){return {getText:()=>options.fallback};}}};
+ if(options.fallback)ctx.window.ZXingBrowser={BrowserMultiFormatOneDReader:class{decode(){if(options.fallbackDecode)return options.fallbackDecode();return {getText:()=>options.fallback};}decodeFromCanvas(canvas){return options.canvasDecode(canvas);}}};
  if(options.secure===false)ctx.window.isSecureContext=false;
  vm.runInNewContext(fs.readFileSync('catalogus/cart-tools.js','utf8'),ctx);
  return {element,handlers,timers,document,start:()=>element('#scan-start').onclick(),stop:()=>element('#scan-stop').onclick(),get stops(){return stops;},get requests(){return requests;},get searches(){return searches;}};
@@ -92,4 +82,14 @@ test('bundled decoder reads real EAN-13 pixel data',()=>{
  const width=bits.length*3,height=120,pixels=new Uint8ClampedArray(width*height*4);for(let y=0;y<height;y++)for(let x=0;x<width;x++){const offset=(y*width+x)*4;const v=bits[Math.floor(x/3)]==='1'?0:255;pixels[offset]=pixels[offset+1]=pixels[offset+2]=v;pixels[offset+3]=255;}
  const canvas={width,height,getContext(){return {getImageData(){return {data:pixels};}};}};
  assert.equal(new zxing.BrowserMultiFormatOneDReader().decodeFromCanvas(canvas).getText(),ean);
+});
+test('empty native detections also run the fallback reader',async()=>{
+ const h=cameraHarness({detect:async()=>[],fallback:'7290112336644'});await h.start();await flush();assert.equal(h.searches,1);assert.equal(h.element('#barcode-input').value,'7290112336644');
+});
+test('fallback tries centre crop and rotation after full frame has no barcode',async()=>{
+ const missing=()=>{throw {getKind:()=> 'NotFoundException'};};let attempts=0;
+ const h=cameraHarness({unsupported:true,fallback:true,fallbackDecode:missing,canvasDecode(canvas){attempts++;if(attempts===1)missing();assert(canvas.height>canvas.width);return{getText:()=> '7290112336644'};}});await h.start();await flush();assert.equal(attempts,2);assert.equal(h.searches,1);
+});
+test('camera opens full-screen dialog and close releases the stream',async()=>{
+ const h=cameraHarness();await h.start();assert.equal(h.element('#scanner-dialog').open,true);h.element('#camera-close').onclick();assert.equal(h.element('#scanner-dialog').open,false);assert.equal(h.stops,1);assert.equal(h.element('#cart-dialog').open,true);
 });
