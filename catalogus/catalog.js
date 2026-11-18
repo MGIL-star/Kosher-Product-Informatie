@@ -53,7 +53,7 @@
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-productfamilies';
   for (const source of sources) if (source.folder === 'meter-5') source.data = 'meter-5/products.js?v=20261118-schap-ingezoomd';
   for (const source of sources) if (['meter-15', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-meter15-correctie';
-  for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261118-meter15-definitief';
+  for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261118-meter15-zonder-doritos';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

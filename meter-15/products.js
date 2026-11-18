@@ -837,3 +837,8 @@ window.KPI_PRODUCTS = [
   const rank = new Map(order.map((id, index) => [id, index]));
   window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
 }());
+
+// Doritos verwijderd uit deze meter; bestaande ID’s blijven gereserveerd.
+for (const product of window.KPI_PRODUCTS) {
+  if ([11, 12, 13].includes(product.id)) product.temporarilyHidden = true;
+}
