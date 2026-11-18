@@ -52,3 +52,5 @@
 - Laat op de nieuwste gebruikersafspraak van 17 november 2026 de vermelding Parve achter alle hechsjernamen weg, in catalogus en QR-productpagina’s. Dit vervangt de eerdere voorbeelden met (Parve).
 
 - Voedingswaarden van voedingsmiddelen worden per 100 g getoond, ook wanneer het etiket portiewaarden geeft; reken om met het bekende portiegewicht en bewaar de oorspronkelijke basis intern. Gefilte Vis op Huiswijze (diepvries-schap-2, ID 18) blijft op expliciet gebruikersverzoek van 18 november 2026 per portie staan. Dranken per 100 ml blijven op hun bestaande basis.
+
+- Meter 11: alle suikervrije Must-snoepjes naast elkaar (inclusief citroensmaak), daaronder alle Dragée, vervolgens alle kauwgom naast elkaar, alle Candy Planet, marshmallows, Taffy Time en Happy Time, en onderaan chocoladetjes in zak. Pas dezelfde volgorde toe in QR-overzicht en catalogus.

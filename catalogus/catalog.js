@@ -50,6 +50,7 @@
   for (const source of sources) if (source.folder === 'koeling-schap-1') source.data = 'koeling-schap-1/products.js?v=20261118-hotdogs-correctie';
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-schapvolgorde';
   for (const source of sources) if (['meter-5', 'meter-11', 'meter-13', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-per100g';
+  for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-productfamilies';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
