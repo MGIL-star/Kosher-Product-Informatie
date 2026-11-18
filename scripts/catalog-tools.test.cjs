@@ -109,3 +109,21 @@ test('real catalogue examples without the group word are still found',()=>{
 test('crisps query excludes sweet pretzel cookies and chocolate bars',()=>{
  assert(!matches({name:'Koekjes met Pretzelcrèmevulling',category:'Koekjes'},'chips'));assert(!matches({name:'Melkchocolade met Pretzels',category:'Chocolade'},'chips'));assert(matches({name:'Dunne Pretzels met Zeezout',category:'Zoute snacks'},'chips'));
 });
+test('ice lolly concepts find real Ice Li freezer pops on meter 16',()=>{
+ const c={window:{}};vm.runInNewContext(fs.readFileSync('meter-16/products.js','utf8'),c);const product={...c.window.KPI_PRODUCTS.find(p=>p.id===32),meter:'meter-16'};assert.equal(product.name,'Fruitijsjes om in te Vriezen');
+ for(const query of ['ijslolly','IJslollies','ijs lolly','ijs lollie','ijsloly','waterijs','fruitijsje','ijs','ijsjes om zelf in te vriezen','ijsjes voor de vriezer','iets om zelf in te vriezen','ik zoek een ijslolly','hebben jullie waterijs','laat me ijslolly zien','ice pops','popsicles','glace à l’eau','ארטיק'])assert(matches(product,query),query);
+ assert(matches(product,'ijslolly op meter 16'));assert(!matches(product,'ijslolly op meter 15'));assert(matches(product,'meter 16'));
+});
+test('ice intent does not confuse rice, iced tea, empty cones or candy lollies',()=>{
+ const notIce=[{name:'Basmatirijst',category:'Rijst'},{name:'Rijstwafels',category:'Wafels'},{name:'Ijsthee met Perzik',category:'Dranken'},{name:'Lege IJshoorntjes',englishName:'Ice Cream Cones',category:'Koekjes'},{name:'Ball Lollypops',category:'Snoepjes'},{name:'Gezichtswater Ice',catalogType:'nonfood',group:'home'}];
+ for(const product of notIce)assert(!matches(product,'ijslolly'),product.name);
+ context.window.KPI_searchMatches=()=>true;assert(!matches({name:'Rijst'},'ijs'));delete context.window.KPI_searchMatches;
+ assert(matches({name:'Mini Ijsjes Vanille en Aardbei',category:'IJs'},'ijs'));assert(matches({name:'Basmatirijst',category:'Rijst'},'rijst'));
+});
+test('natural requests and broader suggestions help without ignoring requested flavours',()=>{
+ assert(matches({name:'Witte Chocolade',category:'Chocolade'},'ik zoek iets met chocolade'));
+ assert(matches({name:'Tortillachips Naturel',category:'Chips'},'toon chips alsjeblieft'));
+ assert(!matches({name:'Fruitijsjes om in te Vriezen',category:'IJsjes'},'ijslolly mango'));
+ const suggestions=context.window.CatalogSearch.suggestions('ijslolly mango');assert.equal(suggestions[0].query,'ijs');assert(suggestions[0].label.includes('ijslolly'));
+ assert.equal(context.window.CatalogSearch.suggestions('chips kaas')[0].query,'chips');
+});

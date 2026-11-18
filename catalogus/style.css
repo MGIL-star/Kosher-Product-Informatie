@@ -130,3 +130,5 @@ html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}
 
 
 #voice-text{font-size:16px}#voice-keyboard-help{line-height:1.5}#voice-keyboard{margin-bottom:8px}
+
+.search-suggestions{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:12px}.search-suggestions:empty{display:none}#voice-results>[data-voice-suggest]{margin:0 8px 8px 0}

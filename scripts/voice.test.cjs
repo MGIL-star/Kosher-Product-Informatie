@@ -41,3 +41,8 @@ test('invalid quantity or unknown word never adds an arbitrary product',()=>{
 test('production page does not load the rejected speech model',()=>{
  const html=fs.readFileSync('catalogus/index.html','utf8');assert(!html.includes('local-speech.js'));assert(!html.includes('voice-local'));assert(html.includes('voice-keyboard'));assert(!fs.readFileSync('catalogus/voice.js','utf8').includes('new Recognition'));
 });
+test('dictated ice lolly finds meter 16 product and offers a broader search for unknown flavours',()=>{
+ const h=harness();h.products.push({key:'meter-16:32',meter:'meter-16',name:'Fruitijsjes om in te Vriezen',brand:'Ice Li',category:'IJsjes',variant:'8 × 100 ml',image:''});h.open();h.input('ijslolly');h.flush();assert(h.element('#voice-results').innerHTML.includes('Fruitijsjes om in te Vriezen'));assert.equal(h.added.length,0);
+ h.input('twee ijslolly mango');h.flush();assert(h.element('#voice-results').innerHTML.includes('data-voice-suggest="ijs"'));
+ const b={dataset:{voiceSuggest:'ijs'}};h.handlers.get('document:click')({target:{closest:selector=>selector==='[data-voice-suggest]'?b:null}});assert(h.element('#voice-results').innerHTML.includes('Fruitijsjes om in te Vriezen'));assert.equal(h.element('#voice-quantity').value,2);assert.equal(h.added.length,0);
+});

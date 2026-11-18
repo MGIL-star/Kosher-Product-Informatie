@@ -30,12 +30,14 @@
     });
     status(choices.length?ui().found(choices.length):ui().none);
     $('#voice-results').innerHTML=choices.map((p,i)=>`<article class="voice-result">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:'<span></span>'}<div><span class="brand notranslate" translate="no">${esc(p.brand)}</span><h3 data-source-title="${esc(p.name)}">${esc(p.name)}</h3><p>${esc(p.variant)}</p><button type="button" class="outline" data-voice-choice="${i}">Toevoegen</button></div></article>`).join('');
+    if(!choices.length)$('#voice-results').innerHTML=window.CatalogSearch.suggestions(request.query).map(item=>'<button type="button" class="outline" data-voice-suggest="'+esc(item.query)+'">'+esc(item.label)+'</button>').join('');
     window.CatalogTranslation?.refresh?.();
   }
   function openKeyboard(){showLanguage();field.focus({preventScroll:true});status('');}
   function schedule(){stop();if(composing||!dialog.open)return;timer=setTimeout(()=>{if(dialog.open)search(field.value);},650);}
   document.addEventListener('click',event=>{
     if(event.target.closest('[data-voice-open]')){if(!dialog.open)dialog.showModal();openKeyboard();return;}
+    const suggestion=event.target.closest('[data-voice-suggest]');if(suggestion){field.value=$('#voice-quantity').value+' '+suggestion.dataset.voiceSuggest;field.blur();search(field.value);return;}
     const choice=event.target.closest('[data-voice-choice]');if(!choice||choice.disabled)return;
     const p=choices[Number(choice.dataset.voiceChoice)],amount=$('#voice-quantity');
     if(!p||!amount.reportValidity()||!window.catalogActions)return;
