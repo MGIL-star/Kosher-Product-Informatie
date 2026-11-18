@@ -51,7 +51,7 @@
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-schapvolgorde';
   for (const source of sources) if (['meter-5', 'meter-11', 'meter-13', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-per100g';
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-productfamilies';
-  for (const source of sources) if (source.folder === 'meter-5') source.data = 'meter-5/products.js?v=20261118-meter5-mayonaise-onderaan';
+  for (const source of sources) if (source.folder === 'meter-5') source.data = 'meter-5/products.js?v=20261118-meter5-planken';
   for (const source of sources) if (['meter-15', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-meter15-correctie';
   for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261118-meter15-zonder-doritos';
   let products=[], active='all', failures=[];
@@ -75,7 +75,7 @@
     }
     window.CatalogTranslation?.beforeUpdate();
     const query=normalize($('#search').value);
-    const filtered=products.filter(p=>(active==='all'||p.group===active)&&window.CatalogSearch.matches(p,query,translatedSearch.get(p.key)||''));
+    const filtered=products.filter(p=>(active==='all'||p.group===active)&&window.KPI_searchMatches(`${p.name} ${p.searchName||''} ${Array.isArray(p.aliases)?p.aliases.join(' '):p.aliases||''} ${translatedSearch.get(p.key)||''} ${p.englishName||''} ${p.brand} ${p.variant} ${p.category} ${p.meterTitle}`,query));
     $('#result-title').textContent='Ons assortiment';
     $('#result-count').textContent=`${filtered.length} ${filtered.length===1?'product':'producten'}`;
     $('#products').innerHTML=sources.map(source=>{
