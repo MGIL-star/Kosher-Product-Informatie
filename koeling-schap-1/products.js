@@ -2651,7 +2651,9 @@ window.KPI_PRODUCTS = [
     "allergens": [],
     "allergensConfirmedAbsent": false,
     "kosher": "London Board for Shechita",
-    "kosherLines": ["London Board for Shechita"],
+    "kosherLines": [
+      "London Board for Shechita"
+    ],
     "kosherSource": "London Board for Shechita-logo zichtbaar op de aangeleverde verpakking; overige Hebreeuwse zegels zijn niet voldoende leesbaar.",
     "image": "./images/eden-american-hot-dogs-350g.png",
     "imageEdited": true,
@@ -2659,22 +2661,34 @@ window.KPI_PRODUCTS = [
     "productInfo": {},
     "barcodeSource": "Afgelezen op fysieke verpakking: 3760059042020.",
     "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
-      "photos": ["codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "codex-clipboard-290e88f0-c419-4725-a8e9-ed238c19f29d.jpg", "codex-clipboard-85d7c90a-642e-4e77-9a20-9673e67380fb.jpg"]
+      "date": "2026-11-18",
+      "directory": "koeling-schap-1/source-labels/20261118-hotdogs",
+      "photos": [
+        "eden-front-original.png",
+        "eden-label-original.png"
+      ]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-da5c729a-c71a-4de1-b4f2-8ae0646b0452.jpg",
+      "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."
+    },
     "nutrition": {
-      "Energie": "544 kJ / 130 kcal",
-      "Vetten": "4 g",
-      "waarvan verzadigde vetzuren": "1,4 g",
-      "Koolhydraten": "0,3 g",
+      "Energie": "1115 kJ / 266 kcal",
+      "Vetten": "23,2 g",
+      "waarvan verzadigde vetzuren": "9,3 g",
+      "Koolhydraten": "0,2 g",
       "waarvan suikers": "<0,1 g",
-      "Eiwitten": "23,2 g",
-      "Zout": "2 g"
+      "Eiwitten": "14,2 g",
+      "Zout": "1,8 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-f0a902cf-ce57-4cd2-81ad-f53210dacc74.jpg."
+    "nutritionSource": "Fysiek etiket op gebruikersfoto: source-labels/20261118-hotdogs/eden-label-original.png",
+    "sourcePhotos": [
+      "source-labels/20261118-hotdogs/eden-front-original.png",
+      "source-labels/20261118-hotdogs/eden-label-original.png"
+    ],
+    "nutritionChecked": "2026-11-18"
   },
   {
     "id": 73,
@@ -2705,29 +2719,38 @@ window.KPI_PRODUCTS = [
   },
   {
     "id": 74,
-    "name": "Jumbo Beef Frankfurters",
+    "name": "Jumbo Runderfrankfurters",
     "brand": "Chicago's Best",
     "category": "Worstjes",
     "variant": "566 g (5 stuks)",
     "ean": "3760059042037",
-    "ingredients": "Rundvlees, water, maïssiroop, zout, smaakstoffen, gemodificeerd maïszetmeel, natriumfosfaat, natriumerythorbaat, natriumnitriet, rookaroma.",
+    "ingredients": "Rundvlees (70%), water, zout, suiker, stabilisatoren (natriumdi- en -trifosfaten (E450, E451)), zuurteregelaar (appelzuur (E296)), knoflookpoeder, antioxidant (natriumerythorbaat (E316)), aroma’s (paprika, specerijenextracten), conserveermiddel (natriumnitriet (E250)).",
     "ingredientsComplete": true,
-    "allergens": ["Soja", "Melk", "Tarwe (gluten)", "Mosterd"],
+    "allergens": [],
     "allergensConfirmedAbsent": false,
-    "kosher": "MK",
-    "kosherLines": ["MK"],
-    "kosherSource": "MK-keurmerk zichtbaar op het fysieke etiket.",
+    "kosher": "London Board for Shechita",
+    "kosherLines": [
+      "London Board for Shechita"
+    ],
+    "kosherSource": "London Board for Shechita-logo zichtbaar op de gebruikersfoto van 18 november 2026.",
     "image": "./images/chicagos-best-jumbo-beef-frankfurters-566g.png",
     "imageEdited": true,
-    "ingredientsSource": "Fysiek etiket op de aangeleverde foto.",
+    "ingredientsSource": "Fysiek etiket op gebruikersfoto: source-labels/20261118-hotdogs/chicago-front-original.png en source-labels/20261118-hotdogs/chicago-label-original.png",
     "productInfo": {},
     "barcodeSource": "Afgelezen op fysieke verpakking: 3760059042037.",
     "supplementalLabelSource": {
-      "date": "2026-10-14",
-      "directory": "koeling-schap-1/source-labels/20261014-eden-vleeswaren",
-      "photos": ["codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg", "codex-clipboard-c75e194a-cb5b-4663-add0-13249814b702.jpg", "codex-clipboard-d86df5c2-4264-4d78-81d7-aea0e356e5d7.jpg"]
+      "date": "2026-11-18",
+      "directory": "koeling-schap-1/source-labels/20261118-hotdogs",
+      "photos": [
+        "chicago-front-original.png",
+        "chicago-label-original.png"
+      ]
     },
-    "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg", "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."},
+    "imageSource": {
+      "type": "Bewerkte fysieke verpakkingsfoto",
+      "photo": "codex-clipboard-3af3d654-ed4c-41e2-a0df-8b62c5bf138b.jpg",
+      "edit": "Gesloten verpakking op witte achtergrond; datum verwijderd."
+    },
     "nutrition": {
       "Energie": "937 kJ / 226 kcal",
       "Vetten": "19 g",
@@ -2738,7 +2761,12 @@ window.KPI_PRODUCTS = [
       "Zout": "1,8 g"
     },
     "nutritionUnit": "per 100 g",
-    "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-5b61217d-3631-40ae-a8b1-1841c025c66e.jpg."
+    "nutritionSource": "Fysiek etiket op gebruikersfoto: source-labels/20261118-hotdogs/chicago-label-original.png",
+    "sourcePhotos": [
+      "source-labels/20261118-hotdogs/chicago-front-original.png",
+      "source-labels/20261118-hotdogs/chicago-label-original.png"
+    ],
+    "nutritionChecked": "2026-11-18"
   },
   {
     "brand": "Gulliver",
