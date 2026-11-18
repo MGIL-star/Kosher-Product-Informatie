@@ -51,7 +51,7 @@
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-schapvolgorde';
   for (const source of sources) if (['meter-5', 'meter-11', 'meter-13', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-per100g';
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-productfamilies';
-  for (const source of sources) if (source.folder === 'meter-5') source.data = 'meter-5/products.js?v=20261118-foto-volgorde';
+  for (const source of sources) if (source.folder === 'meter-5') source.data = 'meter-5/products.js?v=20261118-schap-zonder-mayonaise';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
