@@ -58,3 +58,5 @@
 - Correctie gebruiker 18 november 2026: Krembo mokka, Krembo vanille, houdbare melk, Telma Kariot 348 g en Telma Kariot 686 g staan in deze volgorde op meter 15, niet meter 16. Houdbare melk blijft ook op meter 7. Bestaande QR-adressen blijven beschikbaar.
 
 - Meter 15 volgt van boven naar beneden: Bamba 200 g, alle broodjes, Krembo mokka, Krembo vanille, melk, Kariot kleine doos, Kariot grote doos, Gusto 85 g en kleine Gusto. Overige bestaande producten blijven achter dit blok behouden.
+
+- Meter 5 volgt de schapfoto per plank van links naar rechts, van boven naar beneden. Producten die niet op de foto staan zijn uitverkocht: behoud ze bij dezelfde productfamilie, niet apart achteraan. Mayonaises blijven bij elkaar naast mosterd, de Osem-sauzen blijven bij elkaar en gefilte fish blijft bij de visproducten.
