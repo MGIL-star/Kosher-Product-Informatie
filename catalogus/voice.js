@@ -19,9 +19,9 @@
   }
   window.CatalogVoice={parse};
   const dialog=$('#voice-dialog');
-  let recognition=null,session=0,choices=[];
+  let recognition=null,session=0,choices=[],local=null,localMode=false;
   const status=message=>$('#voice-status').textContent=message;
-  function stop(){session++;const active=recognition;recognition=null;if(active){active.onresult=active.onerror=active.onend=active.onstart=null;try{active.abort();}catch{}}$('#voice-listen').textContent='Opnieuw inspreken';}
+  function stop(){session++;local?.cancel();$('#voice-listen').disabled=false;const active=recognition;recognition=null;if(active){active.onresult=active.onerror=active.onend=active.onstart=null;try{active.abort();}catch{}}$('#voice-listen').textContent='Opnieuw inspreken';}
   function search(value){
     const request=parse(value);$('#voice-quantity').value=request.quantity;
     const catalog=window.catalogPreview;
@@ -35,10 +35,39 @@
     status(choices.length?'Kies het juiste product en controleer het aantal.':'Geen producten gevonden. Pas de tekst aan of spreek opnieuw in.');
     $('#voice-results').innerHTML=choices.map((p,i)=>`<article class="voice-result">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:'<span></span>'}<div><span class="brand">${esc(p.brand)}</span><h3>${esc(p.name)}</h3><p>${esc(p.variant)}</p><button type="button" class="outline" data-voice-choice="${i}">Toevoegen</button></div></article>`).join('');
   }
+  async function prepareLocal(){
+    stop();localMode=true;
+    const Local=window.CatalogLocalSpeech;
+    if(!Local||!(local ||= new Local()).supported()){
+      status('Deze browser kan geen spraakherkenner starten. U kunt de productnaam typen of de dicteerknop op uw toetsenbord gebruiken.');$('#voice-text').focus?.();return;
+    }
+    const token=session;const progressFiles=new Map();$('#voice-listen').disabled=true;$('#voice-listen').textContent='Spraakherkenning laden…';
+    status('De extra spraakherkenning wordt op uw toestel geladen. Dit kan de eerste keer even duren. Uw opname blijft op uw toestel.');
+    try{
+      await local.load(progress=>{
+        if(token!==session)return;
+        if(progress.status==='progress'&&progress.file){progressFiles.set(progress.file,progress.loaded||0);const mb=Math.floor([...progressFiles.values()].reduce((a,b)=>a+b,0)/1048576);status('Extra spraakherkenning laden… '+mb+' MB ontvangen. Bij de eerste keer kan dit even duren.');}
+      });
+      if(token!==session)return;$('#voice-listen').disabled=false;$('#voice-listen').textContent='Inspreken op dit toestel';status('De extra spraakherkenning is klaar. Klik op Inspreken op dit toestel, spreek uw product in en klik daarna op Klaar met inspreken.');
+    }catch{if(token===session){local.cancel();$('#voice-listen').disabled=false;$('#voice-listen').textContent='Opnieuw laden';status('De extra spraakherkenning kon niet laden. Controleer uw internetverbinding en probeer opnieuw, of gebruik de dicteerknop op uw toetsenbord.');}}
+  }
+  function listenLocal(){
+    if(!local?.ready){prepareLocal();return;}
+    if(local.listening){local.finish();return;}
+    if(local.busy){status('Uw opname wordt nog herkend. Even geduld.');return;}
+    const token=++session;
+    local.start({
+      onStart:()=>{if(token===session){$('#voice-listen').textContent='Klaar met inspreken';status('Ik luister. Noem één product en een aantal. Klik daarna op Klaar met inspreken.');}},
+      onStatus:message=>{if(token===session){$('#voice-listen').textContent='Even geduld…';status(message);}},
+      onResult:text=>{if(token===session){$('#voice-listen').textContent='Opnieuw inspreken';$('#voice-text').value=text;search(text);}},
+      onError:message=>{if(token===session){$('#voice-listen').textContent='Opnieuw inspreken';status(message);}}
+    });
+  }
   function listen(){
+    if(localMode){listenLocal();return;}
     if(recognition){recognition.stop();return;}
     const Recognition=window.SpeechRecognition||window.webkitSpeechRecognition;
-    if(!Recognition){status('Deze browser ondersteunt geen inspreken. U kunt de productnaam hieronder typen of de dicteerknop op uw toetsenbord gebruiken.');return;}
+    if(!Recognition){prepareLocal();return;}
     const token=++session;const active=new Recognition();recognition=active;
     active.lang='nl-NL';active.continuous=false;active.interimResults=false;active.maxAlternatives=1;
     active.onstart=()=>{if(token===session){status('Ik luister. Noem één product en eventueel een aantal.');$('#voice-listen').textContent='Klaar met inspreken';}};
@@ -47,7 +76,7 @@
       const text=event.results?.[0]?.[0]?.transcript||'';
       $('#voice-text').value=text;search(text);
     };
-    active.onerror=event=>{if(token!==session)return;status(({'not-allowed':'Microfoontoegang is geblokkeerd. Sta de microfoon toe voor deze website.','service-not-allowed':'Spraakherkenning is niet beschikbaar in deze browser. Gebruik het tekstveld.','audio-capture':'Geen microfoon beschikbaar. Controleer de microfoon op uw toestel.','no-speech':'Ik heb niets verstaan. Probeer opnieuw of typ de productnaam.','network':'De spraakherkenning kon geen verbinding maken. Probeer opnieuw of typ de productnaam.','aborted':'Inspreken gestopt.'})[event.error]||'Inspreken is niet gelukt. Probeer opnieuw of typ de productnaam.');};
+    active.onerror=event=>{if(token!==session)return;if(['service-not-allowed','network','language-not-supported'].includes(event.error)){prepareLocal();return;}status(({'not-allowed':'Microfoontoegang is geblokkeerd. Sta de microfoon toe voor deze website.','service-not-allowed':'Spraakherkenning is niet beschikbaar in deze browser. Gebruik het tekstveld.','audio-capture':'Geen microfoon beschikbaar. Controleer de microfoon op uw toestel.','no-speech':'Ik heb niets verstaan. Probeer opnieuw of typ de productnaam.','network':'De spraakherkenning kon geen verbinding maken. Probeer opnieuw of typ de productnaam.','aborted':'Inspreken gestopt.'})[event.error]||'Inspreken is niet gelukt. Probeer opnieuw of typ de productnaam.');};
     active.onend=()=>{if(token===session){recognition=null;$('#voice-listen').textContent='Opnieuw inspreken';}};
     try{status('Microfoon starten…');active.start();}catch{stop();status('De microfoon kon niet starten. Probeer opnieuw of gebruik het tekstveld.');}
   }
@@ -61,6 +90,7 @@
     stop();window.catalogActions.addToCart(p.key,Number(amount.value));status(amount.value+' × '+p.name+' toegevoegd aan uw boodschappenlijst.');choice.textContent='Toegevoegd';choice.disabled=true;
   });
   $('#voice-listen').onclick=listen;
+  const localButton=$('#voice-local');if(localButton)localButton.onclick=prepareLocal;
   $('#voice-search').addEventListener('submit',event=>{event.preventDefault();stop();search($('#voice-text').value);});
   dialog.addEventListener('close',stop);
   document.addEventListener('visibilitychange',()=>{if(document.hidden)stop();});

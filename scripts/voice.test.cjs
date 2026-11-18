@@ -7,9 +7,10 @@ function harness(options={}){
  const document={hidden:false,querySelector:element,addEventListener(type,fn){handlers.set('document:'+type,fn);}};
  const window={catalogPreview:{products},catalogActions:{addToCart:(...args)=>added.push(args)}};
  if(!options.unsupported)window.SpeechRecognition=Speech;
+ const locals=[];if(options.local)window.CatalogLocalSpeech=class{constructor(){locals.push(this);this.ready=false;}supported(){return true;}cancel(){this.ready=false;this.cancelled=true;}async load(progress){progress({status:'progress',file:'model',loaded:1048576});if(options.loadError)throw Error('model');this.ready=true;}start(callbacks){this.callbacks=callbacks;this.listening=true;callbacks.onStart();}finish(){this.listening=false;this.callbacks.onStatus('Uw gesproken boodschappen worden herkend…');this.callbacks.onResult('twee pakken melk');}};
  const context={window,document};vm.runInNewContext(fs.readFileSync('catalogus/search.js','utf8'),context);vm.runInNewContext(fs.readFileSync('catalogus/voice.js','utf8'),context);
  const clickOpen=()=>handlers.get('document:click')({target:{closest:s=>s==='[data-voice-open]'?{}:null}});
- return{window,document,element,handlers,instances,added,open:clickOpen,parse:window.CatalogVoice.parse,speak(text){instances.at(-1).onresult?.({results:[[{transcript:text}]]});},choose(index){const button={dataset:{voiceChoice:String(index)}};handlers.get('document:click')({target:{closest:s=>s==='[data-voice-choice]'?button:null}});return button;}};
+ return{window,document,element,handlers,instances,locals,added,open:clickOpen,parse:window.CatalogVoice.parse,speak(text){instances.at(-1).onresult?.({results:[[{transcript:text}]]});},choose(index){const button={dataset:{voiceChoice:String(index)}};handlers.get('document:click')({target:{closest:s=>s==='[data-voice-choice]'?button:null}});return button;}};
 }
 test('Dutch voice quantities and polite phrases are recognized',()=>{
  const h=harness();for(const [text,query,quantity] of [['voeg twee pakken melk toe','melk',2],['Ik wil graag drie flessen druivensap','druivensap',3],['één pak melk','melk',1],['4x koekjes','koekjes',4],['brood','brood',1],['7 Days cake','7 Days cake',1]]){const parsed=h.parse(text);assert.equal(parsed.query,query,text);assert.equal(parsed.quantity,quantity,text);}
@@ -28,4 +29,14 @@ test('unsupported speech keeps manual text search available',()=>{
 });
 test('permission errors explain microphone access and close aborts listening',()=>{
  const h=harness();h.open();h.instances[0].onerror({error:'not-allowed'});assert(h.element('#voice-status').textContent.includes('Microfoontoegang'));h.handlers.get('#voice-dialog:close')();assert.equal(h.instances[0].aborted,true);h.speak('melk');assert.equal(h.added.length,0);
+});
+const settle=async()=>{for(let i=0;i<6;i++)await Promise.resolve();};
+test('blocked browser speech switches to local model and still requires product choice',async()=>{
+ const h=harness({local:true});h.open();h.instances[0].onerror({error:'service-not-allowed'});await settle();assert.equal(h.locals[0].ready,true);assert(h.element('#voice-status').textContent.includes('extra spraakherkenning is klaar'));assert.equal(h.element('#voice-listen').disabled,false);h.element('#voice-listen').onclick();assert(h.locals[0].listening);h.element('#voice-listen').onclick();assert(h.element('#voice-results').innerHTML.includes('Houdbare Melk'));assert.equal(h.added.length,0);h.choose(0);assert.deepEqual(h.added,[['milk-a',2]]);
+});
+test('local model loads when browser has no recognition API',async()=>{
+ const h=harness({unsupported:true,local:true});h.open();await settle();assert.equal(h.locals[0].ready,true);assert.equal(h.instances.length,0);
+});
+test('failed model download shows retry and never leaves the button disabled',async()=>{
+ const h=harness({unsupported:true,local:true,loadError:true});h.open();await settle();assert(h.element('#voice-status').textContent.includes('kon niet laden'));assert.equal(h.element('#voice-listen').disabled,false);assert.equal(h.added.length,0);
 });
