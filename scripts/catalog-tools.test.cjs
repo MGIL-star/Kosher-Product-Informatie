@@ -35,12 +35,15 @@ test('scanner finds exact barcodes and stops tracks on close',()=>{
 // Camera tests use controlled video frames and media streams; no physical webcam.
 function cameraHarness(options={}) {
  const elements=new Map(),handlers=new Map(),timers=[];let stops=0,requests=0,searches=0;
- const element=id=>{if(!elements.has(id))elements.set(id,{value:'',hidden:true,textContent:'',srcObject:null,addEventListener(type,fn){handlers.set(id+':'+type,fn);},dispatchEvent(){searches++;},close(){handlers.get('#cart-dialog:close')?.();},scrollIntoView(){},play:options.play||async function(){}});return elements.get(id);};
+ const element=id=>{if(!elements.has(id))elements.set(id,{value:'',hidden:true,textContent:'',srcObject:null,setAttribute(){},videoWidth:1280,videoHeight:720,addEventListener(type,fn){handlers.set(id+':'+type,fn);},dispatchEvent(){searches++;},close(){handlers.get('#cart-dialog:close')?.();},scrollIntoView(){},play:options.play||async function(){}});return elements.get(id);};
  const track={stop(){stops++;}};const stream={getTracks:()=>[track]};
  class Detector{static getSupportedFormats=options.formats||async function(){return ['ean_13','ean_8'];};async detect(){if(options.detect)return options.detect();return [];}}
  const document={hidden:false,querySelector:element,addEventListener(type,fn){handlers.set('document:'+type,fn);}};
  const ctx={window:{catalogPreview:{products:[{ean:'7290112336644'}]},BarcodeDetector:Detector},BarcodeDetector:Detector,document,navigator:{mediaDevices:{getUserMedia:async()=>{requests++;if(options.media)return options.media(stream);return stream;}}},Event:class{},setTimeout(fn){timers.push(fn);}};
  if(options.unsupported)delete ctx.window.BarcodeDetector;
+ if(options.noMedia)delete ctx.navigator.mediaDevices;
+ if(options.fallback)ctx.window.ZXingBrowser={BrowserMultiFormatOneDReader:class{decode(){return {getText:()=>options.fallback};}}};
+ if(options.secure===false)ctx.window.isSecureContext=false;
  vm.runInNewContext(fs.readFileSync('catalogus/cart-tools.js','utf8'),ctx);
  return {element,handlers,timers,document,start:()=>element('#scan-start').onclick(),stop:()=>element('#scan-stop').onclick(),get stops(){return stops;},get requests(){return requests;},get searches(){return searches;}};
 }
@@ -52,8 +55,8 @@ test('unknown camera barcode does not navigate and camera can be stopped',async(
  const h=cameraHarness({detect:async()=>[{rawValue:'9999999999999'}]});await h.start();await flush();assert.equal(h.searches,0);assert(h.element('#scan-status').textContent.includes('Geen product'));h.stop();assert.equal(h.stops,1);assert.equal(h.element('#barcode-video').hidden,true);
 });
 test('unsupported camera and denied access show useful messages',async()=>{
- const h=cameraHarness({unsupported:true});await h.start();assert.equal(h.requests,0);assert(h.element('#scan-status').textContent.includes('ondersteunt geen'));
- const denied=cameraHarness({media:async()=>{throw Error('NotAllowedError');}});await denied.start();assert(denied.element('#scan-status').textContent.includes('cameratoegang'));assert.equal(denied.element('#barcode-video').hidden,true);
+ const h=cameraHarness({noMedia:true});await h.start();assert.equal(h.requests,0);assert(h.element('#scan-status').textContent.includes('geen cameratoegang'));
+ const denied=cameraHarness({media:async()=>{throw Object.assign(Error('denied'),{name:'NotAllowedError'});}});await denied.start();assert(denied.element('#scan-status').textContent.toLowerCase().includes('cameratoegang'));assert.equal(denied.element('#barcode-video').hidden,true);
 });
 test('closing during format check never requests camera',async()=>{
  let resolve;const pending=new Promise(r=>resolve=r);const h=cameraHarness({formats:()=>pending});const start=h.start();h.handlers.get('#cart-dialog:close')();resolve(['ean_13']);await start;assert.equal(h.requests,0);
@@ -67,4 +70,26 @@ test('late video play completion does not restart a closed scanner',async()=>{
 test('hiding page stops camera and repeated decoder failures report error',async()=>{
  const h=cameraHarness();await h.start();h.document.hidden=true;h.handlers.get('document:visibilitychange')();assert.equal(h.stops,1);
  const failing=cameraHarness({detect:async()=>{throw Error('frame error');}});await failing.start();await flush();await failing.timers.shift()();await failing.timers.shift()();assert.equal(failing.stops,1);assert(failing.element('#scan-status').textContent.includes('niet uitlezen'));
+});
+test('camera opens without native barcode API using bundled fallback',async()=>{
+ const h=cameraHarness({unsupported:true,fallback:'7290112336644'});await h.start();await flush();assert.equal(h.requests,1);assert.equal(h.searches,1);assert.equal(h.stops,1);
+});
+test('native API unavailable formats still fall back to camera decoding',async()=>{
+ const h=cameraHarness({formats:async()=>[],fallback:'7290112336644'});await h.start();await flush();assert.equal(h.requests,1);assert.equal(h.searches,1);
+});
+test('insecure pages never request camera',async()=>{
+ const h=cameraHarness({secure:false});await h.start();assert.equal(h.requests,0);assert(h.element('#scan-status').textContent.includes('https'));
+});
+test('camera error explains blocked permission or missing device',async()=>{
+ for(const [name,message] of [['NotAllowedError','geblokkeerd'],['NotFoundError','Geen camera'],['NotReadableError','al in gebruik']]){
+  const h=cameraHarness({media:async()=>{throw Object.assign(Error(name),{name});}});await h.start();assert(h.element('#scan-status').textContent.includes(message),name);
+ }
+});
+test('bundled decoder reads real EAN-13 pixel data',()=>{
+ const zxing=require('../assets/vendor/zxing/zxing-browser-0.1.5.min.js');
+ const ean='7290112336644';const odd=['0001101','0011001','0010011','0111101','0100011','0110001','0101111','0111011','0110111','0001011'];const even=['0100111','0110011','0011011','0100001','0011101','0111001','0000101','0010001','0001001','0010111'];const right=odd.map(s=>s.replace(/[01]/g,b=>b==='0'?'1':'0'));const parity=['OOOOOO','OOEOEE','OOEEOE','OOEEEO','OEOOEE','OEEOOE','OEEEOO','OEOEOE','OEOEEO','OEEOEO'][+ean[0]];
+ let bits='0'.repeat(12)+'101';for(let i=1;i<=6;i++)bits+=(parity[i-1]==='O'?odd:even)[+ean[i]];bits+='01010';for(let i=7;i<13;i++)bits+=right[+ean[i]];bits+='101'+'0'.repeat(12);
+ const width=bits.length*3,height=120,pixels=new Uint8ClampedArray(width*height*4);for(let y=0;y<height;y++)for(let x=0;x<width;x++){const offset=(y*width+x)*4;const v=bits[Math.floor(x/3)]==='1'?0:255;pixels[offset]=pixels[offset+1]=pixels[offset+2]=v;pixels[offset+3]=255;}
+ const canvas={width,height,getContext(){return {getImageData(){return {data:pixels};}};}};
+ assert.equal(new zxing.BrowserMultiFormatOneDReader().decodeFromCanvas(canvas).getText(),ean);
 });
