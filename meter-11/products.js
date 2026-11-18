@@ -1408,3 +1408,11 @@ window.KPI_PRODUCTS = [
     ]
   }
 ];
+
+// Gebruikersfoto 18 november 2026: per plank van links naar rechts, boven naar beneden.
+// Niet zichtbare producten blijven behouden in hun onderlinge volgorde achteraan.
+(function () {
+  const order = [2, 3, 4, 5, 27, 25, 28, 26, 22, 13, 14, 15, 16, 17, 18, 19, 20, 21, 10, 23, 9, 12, 11];
+  const rank = new Map(order.map((id, i) => [id, i]));
+  window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
+}());

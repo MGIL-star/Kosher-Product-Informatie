@@ -48,6 +48,7 @@
   for (const source of sources) if (['meter-5', 'koeling-schap-1', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-producten';
   for (const source of sources) if (['meter-13', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-schapvolgorde';
   for (const source of sources) if (source.folder === 'koeling-schap-1') source.data = 'koeling-schap-1/products.js?v=20261118-hotdogs-correctie';
+  for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261118-schapvolgorde';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
