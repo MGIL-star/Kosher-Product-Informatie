@@ -2587,6 +2587,34 @@ window.KPI_PRODUCTS = [
     "imageSource": {"type": "Bewerkte fysieke verpakkingsfoto", "photo": "codex-clipboard-67f39d25-7d20-4e76-8800-ec942c59c794.jpg", "edit": "Gesloten verpakking op witte achtergrond."}
   },
   {
+    "id": 77,
+    "brand": "Gilbert’s",
+    "name": "Rundersalami",
+    "variant": "454 g",
+    "ean": "3760059042051",
+    "category": "Vleeswaren",
+    "ingredients": "Rundvlees (66%), water, aardappelzetmeel, zout, stabilisatoren (di-, tri- en polyfosfaten van natrium (E450, E451, E452)), zuurteregelaar (glucono-delta-lacton (E575)), specerijen, smaakversterker (mononatriumglutamaat (E621)), uipoeder, antioxidant (natriumascorbaat (E301)), specerijenextracten, conserveermiddel (natriumnitriet (E250)), kleurstof (rode bietenconcentraat).",
+    "allergens": [],
+    "ingredientsComplete": true,
+    "kosher": "London Board for Shechita",
+    "kosherSource": "Logo op de fysieke verpakking; overige zegels intern bewaard op de originele bronfoto.",
+    "image": "./images/gilberts-rundersalami-454g.png",
+    "imageEdited": true,
+    "productInfo": {"Herkomst rundvlees": "Verenigd Koninkrijk"},
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "806 kJ / 195 kcal",
+      "Vetten": "15,8 g",
+      "Waarvan verzadigde vetzuren": "6,3 g",
+      "Koolhydraten": "0,2 g",
+      "Waarvan suikers": "0,1 g",
+      "Eiwitten": "12,8 g",
+      "Zout": "1,8 g"
+    },
+    "nutritionChecked": "2026-11-18",
+    "sourcePhotos": ["source-labels/20261118-gilberts/package-original.png", "source-labels/20261118-gilberts/ingredients-original.png", "source-labels/20261118-gilberts/barcode-original.png"]
+  },
+  {
     "ingredients": "Rundvlees (herkomst EU), zout, suikers, specerijen, conserveermiddel E252.",
     "allergens": [],
     "allergensConfirmedAbsent": true,

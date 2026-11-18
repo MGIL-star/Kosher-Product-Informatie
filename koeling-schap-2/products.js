@@ -3747,7 +3747,40 @@ window.KPI_PRODUCTS = [
       "directory": "tmp/melkkost-bron-20261010"
     },
     "notice": "Bereiden in de koekenpan of oven. Niet rauw eten. De scheidingsvellen niet als bakpapier gebruiken."
-  }
+  },
+{
+  "id": 93,
+  "brand": "Fontcouvertin",
+  "name": "Raclette Naturel",
+  "variant": "300 g",
+  "ean": "3705445000017",
+  "category": "Kaas",
+  "ingredients": "Rauwe koemelk, melkzuurculturen, zout, plantaardig stremsel.",
+  "allergens": [
+    "Melk"
+  ],
+  "ingredientsComplete": true,
+  "kosher": "Beth Din de Paris",
+  "kosherSource": "BDP K Beth din de Paris op de fysieke verpakking; overige zegels bewaard op bronfoto.",
+  "image": "./images/fontcouvertin-raclette-300g.png",
+  "imageEdited": true,
+  "productInfo": {},
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "1490 kJ / 356 kcal",
+    "Vetten": "27 g",
+    "Waarvan verzadigde vetzuren": "18 g",
+    "Koolhydraten": "2 g",
+    "Waarvan suikers": "2 g",
+    "Eiwitten": "25 g",
+    "Zout": "1,8 g"
+  },
+  "nutritionChecked": "2026-11-18",
+  "sourcePhotos": [
+    "source-labels/20261118-raclette/front-original.png",
+    "source-labels/20261118-raclette/label-original.png"
+  ]
+}
 ];
 
 // Etiketcontrole en omrekening per 100 g/ml, 4 november 2026.
@@ -3816,4 +3849,11 @@ window.KPI_PRODUCTS = [
   }
   product.nutrition = ordered;
  }
+}());
+
+(function () {
+  const products = window.KPI_PRODUCTS;
+  const index = products.findIndex(p => p.id === 93);
+  const [raclette] = products.splice(index, 1);
+  products.splice(products.findIndex(p => p.id === 37), 0, raclette);
 }());

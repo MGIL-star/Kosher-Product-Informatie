@@ -250,6 +250,39 @@ window.KPI_PRODUCTS = [
     ]
   },
   {
+    "id": 53,
+    "brand": "Har Bracha",
+    "name": "Tahini",
+    "variant": "1 kg",
+    "ean": "7290011723309",
+    "ingredients": "100% gemalen sesamzaad.",
+    "allergens": ["Sesam"],
+    "category": "Tahini",
+    "image": "images/53-har-bracha.png",
+    "imageEdited": true,
+    "productInfo": {},
+    "nutritionUnit": "per 28 g (2 eetlepels)",
+    "nutrition": {
+      "Energie": "192 kcal",
+      "Vetten": "17,6 g",
+      "Waarvan verzadigde vetzuren": "2,6 g",
+      "Transvetten": "0 g",
+      "Cholesterol": "0 mg",
+      "Natrium": "60 mg",
+      "Zout": "0,15 g",
+      "Koolhydraten": "4 g",
+      "Vezels": "2 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "6 g",
+      "Calcium": "36 mg",
+      "IJzer": "2 mg",
+      "Kalium": "129 mg"
+    },
+    "nutritionChecked": "2026-11-18",
+    "sourcePhotos": ["source-labels/20261118-har-bracha/front-original.png", "source-labels/20261118-har-bracha/label-original.png"],
+    "reviewNotes": ["Gegevens van de fysieke verpakking. Hechsjernaam niet leesbaar op de aangeleverde foto's; geen naam afgeleid van het algemene kosher-logo."]
+  },
+  {
     "id": 6,
     "brand": "Mighty Sesame Co.",
     "name": "Biologische Tahini",
@@ -2620,4 +2653,12 @@ window.KPI_PRODUCTS = [
   product.nutritionChecked = '2026-11-06';
   product.nutritionSource = 'https://www.sekershook.com/p/7290000061108?chain=7290027600007&promo=4646870';
   product.nutritionReview = 'Exact barcode and ingredient list match. Source supplies no energy; zero energy from other aggregators rejected. Current manufacturer recipe differs. Salt converted from sodium × 2.5.';
+}());
+
+// Schapfoto gebruiker 18 november 2026: per plank links naar rechts, boven naar beneden.
+// Bestaande producten zonder herkenbare plek op deze foto blijven behouden achteraan.
+(function () {
+  const order = [4, 5, 53, 17, 18, 19, 20, 21, 6, 9, 10, 7, 8, 11, 12, 13, 15, 16, 22, 23, 24, 50, 25, 28, 26, 27, 14, 52, 51, 29, 30, 31, 32, 44, 45, 46, 33, 34, 37, 35, 36, 49, 38, 39, 40, 41, 42, 43, 47, 48];
+  const rank = new Map(order.map((id, i) => [id, i]));
+  window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
 }());

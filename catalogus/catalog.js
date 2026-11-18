@@ -45,6 +45,7 @@
   for (const source of sources) if (source.folder === 'meter-12') source.data = 'meter-12/products.js?v=20261117-osem-vanille-1kg';
   for (const source of sources) if (source.folder === 'meter-13') source.data = 'meter-13/products.js?v=20261117-telma-kariot';
   for (const source of sources) if (source.folder === 'meter-11') source.data = 'meter-11/products.js?v=20261117-zakjes-formaat';
+  for (const source of sources) if (['meter-5', 'koeling-schap-1', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-producten';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
