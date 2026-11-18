@@ -46,6 +46,8 @@
     if(expandedQueries.has(q))q=expandedQueries.get(q);
     else{const original=q;for(const group of families){for(const alias of group.slice(1).sort((a,b)=>b.length-a.length)){const phrase=norm(alias);q=(' '+q+' ').split(' '+phrase+' ').join(' '+norm(group[0])+' ').trim();}}if(expandedQueries.size>100)expandedQueries.clear();expandedQueries.set(original,q);}
      if(!q)return true;
+    // A sweet cookie with pretzel filling is not a bag of crisps.
+    if(q.split(' ').includes('chips')&&/koek|biscuit|chocol|cake|gebak/.test(norm(product.category))&&!/aardappelchips|tortillachips|maischips/.test(norm(product.name)))return false;
     const barcode=String(product.ean||'').replace(/\D/g,'');
     if(/^\d[\d\s-]*$/.test(query))return barcode.includes(query.replace(/\D/g,''));
     // Shelf headings are deliberately excluded: a chocolate shelf also contains baking powder.

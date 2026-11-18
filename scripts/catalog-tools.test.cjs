@@ -106,3 +106,6 @@ test('generic food groups include named variants and exclude unrelated baking wo
 test('real catalogue examples without the group word are still found',()=>{
  for(const [file,id,query]of [['meter-12/products.js',67,'koekjes'],['meter-13/products.js',94,'chips'],['meter-13/products.js',67,'chips'],['meter-16/products.js',6,'chips'],['meter-15/products.js',9,'chips']]){const c={window:{}};vm.runInNewContext(fs.readFileSync(file,'utf8'),c);const product=c.window.KPI_PRODUCTS.find(p=>p.id===id);assert(product,file+':'+id);assert(matches(product,query),query+': '+product.name);}
 });
+test('crisps query excludes sweet pretzel cookies and chocolate bars',()=>{
+ assert(!matches({name:'Koekjes met Pretzelcrèmevulling',category:'Koekjes'},'chips'));assert(!matches({name:'Melkchocolade met Pretzels',category:'Chocolade'},'chips'));assert(matches({name:'Dunne Pretzels met Zeezout',category:'Zoute snacks'},'chips'));
+});

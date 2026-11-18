@@ -32,7 +32,7 @@
     $('#voice-results').innerHTML=choices.map((p,i)=>`<article class="voice-result">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:'<span></span>'}<div><span class="brand notranslate" translate="no">${esc(p.brand)}</span><h3 data-source-title="${esc(p.name)}">${esc(p.name)}</h3><p>${esc(p.variant)}</p><button type="button" class="outline" data-voice-choice="${i}">Toevoegen</button></div></article>`).join('');
     window.CatalogTranslation?.refresh?.();
   }
-  function openKeyboard(){showLanguage();field.focus({preventScroll:true});status(ui().help);}
+  function openKeyboard(){showLanguage();field.focus({preventScroll:true});status('');}
   function schedule(){stop();if(composing||!dialog.open)return;timer=setTimeout(()=>{if(dialog.open)search(field.value);},650);}
   document.addEventListener('click',event=>{
     if(event.target.closest('[data-voice-open]')){if(!dialog.open)dialog.showModal();openKeyboard();return;}
