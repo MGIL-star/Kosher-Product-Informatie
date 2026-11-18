@@ -2662,3 +2662,44 @@ window.KPI_PRODUCTS = [
   const rank = new Map(order.map((id, i) => [id, i]));
   window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
 }());
+
+// Portiewaarden omgerekend naar 100 g volgens gebruikersafspraak 18 november 2026.
+(function () {
+  const product = window.KPI_PRODUCTS.find(p => p.id === 53);
+  product.nutritionOriginal = {
+  "unit": "per 28 g (2 eetlepels)",
+  "values": {
+    "Energie": "192 kcal",
+    "Vetten": "17,6 g",
+    "Waarvan verzadigde vetzuren": "2,6 g",
+    "Transvetten": "0 g",
+    "Cholesterol": "0 mg",
+    "Natrium": "60 mg",
+    "Zout": "0,15 g",
+    "Koolhydraten": "4 g",
+    "Vezels": "2 g",
+    "Waarvan suikers": "0 g",
+    "Eiwitten": "6 g",
+    "Calcium": "36 mg",
+    "IJzer": "2 mg",
+    "Kalium": "129 mg"
+  }
+};
+  product.nutrition = {
+  "Energie": "685,71 kcal",
+  "Vetten": "62,86 g",
+  "Waarvan verzadigde vetzuren": "9,29 g",
+  "Transvetten": "0 g",
+  "Cholesterol": "0 mg",
+  "Natrium": "214,29 mg",
+  "Zout": "0,54 g",
+  "Koolhydraten": "14,29 g",
+  "Vezels": "7,14 g",
+  "Waarvan suikers": "0 g",
+  "Eiwitten": "21,43 g",
+  "Calcium": "128,57 mg",
+  "IJzer": "7,14 mg",
+  "Kalium": "460,71 mg"
+};
+  product.nutritionUnit = "per 100 g";
+}());

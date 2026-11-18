@@ -3379,3 +3379,42 @@ window.KPI_PRODUCTS = [
   const rank = new Map(order.map((id, i) => [id, i]));
   products.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
 }());
+
+// Portiewaarden omgerekend naar 100 g volgens gebruikersafspraak 18 november 2026.
+(function () {
+  const product = window.KPI_PRODUCTS.find(p => p.id === 52);
+  product.nutritionOriginal = {
+  "unit": "per 60 g",
+  "values": {
+    "Energie": "280 kcal",
+    "Vetten": "10 g",
+    "Waarvan verzadigde vetzuren": "1,5 g",
+    "Transvetten": "0 g",
+    "Cholesterol": "0 mg",
+    "Natrium": "130 mg",
+    "Zout": "0,33 g",
+    "Koolhydraten": "44 g",
+    "Vezels": "1 g",
+    "Waarvan suikers": "23 g",
+    "Waarvan toegevoegde suikers": "23 g",
+    "Eiwitten": "3 g",
+    "IJzer": "4,5 mg"
+  }
+};
+  product.nutrition = {
+  "Energie": "466,67 kcal",
+  "Vetten": "16,67 g",
+  "Waarvan verzadigde vetzuren": "2,5 g",
+  "Transvetten": "0 g",
+  "Cholesterol": "0 mg",
+  "Natrium": "216,67 mg",
+  "Zout": "0,54 g",
+  "Koolhydraten": "73,33 g",
+  "Vezels": "1,67 g",
+  "Waarvan suikers": "38,33 g",
+  "Waarvan toegevoegde suikers": "38,33 g",
+  "Eiwitten": "5 g",
+  "IJzer": "7,5 mg"
+};
+  product.nutritionUnit = "per 100 g";
+}());

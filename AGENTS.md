@@ -50,3 +50,5 @@
 - Bij voedingswaarden met natrium: bereken zout met factor 2,5 op dezelfde portiebasis. Bij mg natrium: zout in g = natrium in mg ÷ 1.000 × 2,5. Toon natrium en daar direct onder zout als aparte regels, met maximaal twee decimalen. Toon geen regel Omrekening zout of uitleg van de berekening; deze blijft intern. Pas dit gelijk toe in catalogus en QR-pagina’s; producten zonder natrium blijven ongewijzigd.
 
 - Laat op de nieuwste gebruikersafspraak van 17 november 2026 de vermelding Parve achter alle hechsjernamen weg, in catalogus en QR-productpagina’s. Dit vervangt de eerdere voorbeelden met (Parve).
+
+- Voedingswaarden van voedingsmiddelen worden per 100 g getoond, ook wanneer het etiket portiewaarden geeft; reken om met het bekende portiegewicht en bewaar de oorspronkelijke basis intern. Gefilte Vis op Huiswijze (diepvries-schap-2, ID 18) blijft op expliciet gebruikersverzoek van 18 november 2026 per portie staan. Dranken per 100 ml blijven op hun bestaande basis.

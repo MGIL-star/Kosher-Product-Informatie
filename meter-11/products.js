@@ -1416,3 +1416,48 @@ window.KPI_PRODUCTS = [
   const rank = new Map(order.map((id, i) => [id, i]));
   window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
 }());
+
+// Portiewaarden omgerekend naar 100 g volgens gebruikersafspraak 18 november 2026.
+(function () {
+  const product = window.KPI_PRODUCTS.find(p => p.id === 22);
+  product.nutritionOriginal = {
+  "unit": "per 30 g",
+  "values": {
+    "Energie": "103 kcal",
+    "Vetten": "0 g",
+    "Waarvan verzadigde vetzuren": "0 g",
+    "Transvetten": "0 g",
+    "Cholesterol": "0 mg",
+    "Natrium": "0 mg",
+    "Zout": "0 g",
+    "Koolhydraten": "25 g",
+    "Vezels": "0 g",
+    "Waarvan suikers": "20 g",
+    "Waarvan toegevoegde suikers": "0 g",
+    "Eiwitten": "2 g",
+    "Vitamine D": "0 microgram",
+    "Calcium": "0 mg",
+    "IJzer": "0 mg",
+    "Kalium": "0 mg"
+  }
+};
+  product.nutrition = {
+  "Energie": "343,33 kcal",
+  "Vetten": "0 g",
+  "Waarvan verzadigde vetzuren": "0 g",
+  "Transvetten": "0 g",
+  "Cholesterol": "0 mg",
+  "Natrium": "0 mg",
+  "Zout": "0 g",
+  "Koolhydraten": "83,33 g",
+  "Vezels": "0 g",
+  "Waarvan suikers": "66,67 g",
+  "Waarvan toegevoegde suikers": "0 g",
+  "Eiwitten": "6,67 g",
+  "Vitamine D": "0 microgram",
+  "Calcium": "0 mg",
+  "IJzer": "0 mg",
+  "Kalium": "0 mg"
+};
+  product.nutritionUnit = "per 100 g";
+}());
