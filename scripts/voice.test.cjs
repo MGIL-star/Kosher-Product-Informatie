@@ -1,69 +1,43 @@
 const {test}=require('node:test'),assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
 function harness(options={}){
- const elements=new Map(),handlers=new Map(),instances=[],added=[];
- const element=id=>{if(!elements.has(id))elements.set(id,{value:id==='#voice-quantity'?'1':'',open:false,textContent:'',innerHTML:'',disabled:false,showModal(){this.open=true;},reportValidity(){const q=Number(this.value);return Number.isInteger(q)&&q>=1&&q<=999;},addEventListener(type,fn){handlers.set(id+':'+type,fn);}});return elements.get(id);};
- class Speech{constructor(){instances.push(this);}start(){this.onstart?.();}abort(){this.aborted=true;}stop(){this.onend?.();}}
- const products=[{key:'milk-a',name:'Houdbare Melk',brand:'A',variant:'1 l',image:''},{key:'milk-b',name:'Houdbare Melk',brand:'B',variant:'1 l',image:''},{key:'bread',name:'Brood',brand:'C',variant:'500 g',image:''}];
- const document={hidden:false,querySelector:element,addEventListener(type,fn){handlers.set('document:'+type,fn);}};
- const window={catalogPreview:{products},catalogActions:{addToCart:(...args)=>added.push(args)},CatalogTranslation:{language:options.language||'nl',getProductNames:()=>new Map(options.translations||[])},addEventListener(type,fn){handlers.set('window:'+type,fn);}};
- if(!options.unsupported)window.SpeechRecognition=Speech;
- const locals=[];if(options.local)window.CatalogLocalSpeech=class{constructor(){locals.push(this);this.ready=false;}supported(){return true;}cancel(){this.ready=false;this.cancelled=true;}async load(progress){progress({status:'progress',file:'model',loaded:1048576});if(options.loadError)throw Error('model');this.ready=true;}start(callbacks){this.requestedLanguage=callbacks.language;this.callbacks=callbacks;this.listening=true;callbacks.onStart();}finish(){this.listening=false;this.callbacks.onStatus('Uw gesproken boodschappen worden herkend…');this.callbacks.onResult('twee pakken melk');}};
- const context={window,document};vm.runInNewContext(fs.readFileSync('catalogus/search.js','utf8'),context);vm.runInNewContext(fs.readFileSync('catalogus/voice-languages.js','utf8'),context);vm.runInNewContext(fs.readFileSync('catalogus/voice.js','utf8'),context);
- const clickOpen=()=>handlers.get('document:click')({target:{closest:s=>s==='[data-voice-open]'?{}:null}});
- return{window,document,products,element,handlers,instances,locals,added,open:clickOpen,parse:window.CatalogVoice.parse,speak(text){instances.at(-1).onresult?.({results:[[{transcript:text}]]});},choose(index){const button={dataset:{voiceChoice:String(index)}};handlers.get('document:click')({target:{closest:s=>s==='[data-voice-choice]'?button:null}});return button;}};
+ const elements=new Map(),handlers=new Map(),added=[],timers=new Map();let clock=0;
+ const document={activeElement:null,hidden:false,querySelector:selector=>element(selector),addEventListener(type,fn){handlers.set('document:'+type,fn);}};
+ function element(id){if(!elements.has(id))elements.set(id,{value:id==='#voice-quantity'?'1':'',textContent:'',innerHTML:'',open:false,showModal(){this.open=true;},focus(){document.activeElement=this;},blur(){if(document.activeElement===this)document.activeElement=null;},reportValidity(){const q=Number(this.value);return Number.isInteger(q)&&q>=1&&q<=999;},addEventListener(type,fn){handlers.set(id+':'+type,fn);}});return elements.get(id);}
+ const products=[{key:'milk-a',name:'Houdbare Melk',brand:'A',variant:'1 l',image:''},{key:'milk-b',name:'Houdbare Melk',brand:'B',variant:'1 l',image:''},{key:'bread',name:'Brood',brand:'C',variant:'500 g',image:''},{key:'apple',name:'Helder Appelsap',brand:'A',variant:'1 l',image:''},{key:'chips-a',name:'Pufuleti Maïssnacks met Zout',brand:'Gusto',category:'Snacks',image:''},{key:'chips-b',name:'Barbecueringen Gezinsverpakking',brand:'Lieber’s',category:'Snacks',image:''},{key:'cookie',name:'Fingers met Cacaowafel en Vanillecrème',brand:'Elite',category:'Chocoladesnacks',image:''}];
+ const window={catalogPreview:{products},catalogActions:{addToCart:(...args)=>added.push(args)},CatalogTranslation:{language:options.language||'nl',getProductNames:()=>new Map(options.translations||[]),refresh(){}},addEventListener(type,fn){handlers.set('window:'+type,fn);},SpeechRecognition:class{constructor(){assert.fail('Browser speech must not start');}},CatalogLocalSpeech:class{constructor(){assert.fail('Local model must not load');}}};
+ const context={window,document,setTimeout(fn){const id=++clock;timers.set(id,fn);return id;},clearTimeout(id){timers.delete(id);}};
+ for(const file of ['catalogus/search.js','catalogus/voice-languages.js','catalogus/voice.js'])vm.runInNewContext(fs.readFileSync(file,'utf8'),context);
+ const open=()=>handlers.get('document:click')({target:{closest:s=>s==='[data-voice-open]'?{}:null}});
+ return{window,document,products,element,handlers,timers,added,open,parse:window.CatalogVoice.parse,input(text){element('#voice-text').value=text;handlers.get('#voice-text:input')();},flush(){for(const [id,fn]of [...timers]){timers.delete(id);fn();}},choose(index){const b={dataset:{voiceChoice:String(index)}};handlers.get('document:click')({target:{closest:s=>s==='[data-voice-choice]'?b:null}});return b;}};
 }
-test('Dutch voice quantities and polite phrases are recognized',()=>{
- const h=harness();for(const [text,query,quantity] of [['voeg twee pakken melk toe','melk',2],['Ik wil graag drie flessen druivensap','druivensap',3],['één pak melk','melk',1],['4x koekjes','koekjes',4],['brood','brood',1],['7 Days cake','7 Days cake',1]]){const parsed=h.parse(text);assert.equal(parsed.query,query,text);assert.equal(parsed.quantity,quantity,text);}
+test('opening speech input focuses device keyboard without requesting a recorder or model',()=>{
+ const h=harness();h.open();assert(h.element('#voice-dialog').open);assert.equal(h.document.activeElement,h.element('#voice-text'));assert(h.element('#voice-keyboard-help').textContent.includes('microfoontje'));assert.equal(h.added.length,0);
 });
-test('speech shows product choices and adds only the selected product',()=>{
- const h=harness();h.open();assert.equal(h.element('#voice-dialog').open,true);assert.equal(h.instances[0].lang,'nl-NL');h.speak('twee pakken melk');assert.equal(h.added.length,0);assert(h.element('#voice-results').innerHTML.includes('milk')===false);assert(h.element('#voice-results').innerHTML.includes('Houdbare Melk'));assert.equal(h.element('#voice-quantity').value,2);h.choose(1);assert.deepEqual(h.added,[['milk-b',2]]);
+test('dictated text searches automatically and adds only after a product choice',()=>{
+ const h=harness();h.open();h.input('twee pakken melk');h.flush();assert(h.element('#voice-results').innerHTML.includes('Houdbare Melk'));assert.equal(h.element('#voice-quantity').value,2);assert.equal(h.added.length,0);h.choose(1);assert.deepEqual(h.added,[['milk-b',2]]);assert.equal(h.document.activeElement,null);
 });
-test('user can correct the spoken quantity before adding',()=>{
- const h=harness();h.open();h.speak('twee pakken melk');h.element('#voice-quantity').value='5';h.choose(0);assert.deepEqual(h.added,[['milk-a',5]]);
+test('dictation updates use the latest text and never add intermediate results',()=>{
+ const h=harness();h.open();h.input('melk');h.input('appelsap');assert.equal(h.timers.size,1);h.flush();assert(h.element('#voice-results').innerHTML.includes('Helder Appelsap'));assert(!h.element('#voice-results').innerHTML.includes('Houdbare Melk'));assert.equal(h.added.length,0);
 });
-test('unknown product and invalid quantity never add an arbitrary product',()=>{
- const h=harness();h.open();h.speak('ruimtevoertuig');assert(h.element('#voice-status').textContent.includes('Geen producten'));h.choose(0);assert.equal(h.added.length,0);h.speak('melk');h.element('#voice-quantity').value='0';h.choose(0);assert.equal(h.added.length,0);
+test('chips and koekjes show complete related product families',()=>{
+ const h=harness();h.open();h.input('chips');h.flush();assert(h.element('#voice-results').innerHTML.includes('Pufuleti'));assert(h.element('#voice-results').innerHTML.includes('Barbecueringen'));h.input('koekjes');h.flush();assert(h.element('#voice-results').innerHTML.includes('Cacaowafel'));assert.equal(h.added.length,0);
 });
-test('unsupported speech keeps manual text search available',()=>{
- const h=harness({unsupported:true});h.open();assert(h.element('#voice-status').textContent.includes('typen'));h.element('#voice-text').value='twee pakken melk';h.handlers.get('#voice-search:submit')({preventDefault(){}});assert(h.element('#voice-results').innerHTML.includes('Houdbare Melk'));assert.equal(h.added.length,0);
+test('catalogue language controls the parser and explains matching keyboard language',()=>{
+ for(const [language,locale]of [['nl','nl-NL'],['fr','fr-FR'],['en','en-GB'],['iw','he-IL']]){const h=harness({language});h.open();assert.equal(h.element('#voice-text').lang,locale);assert(h.element('#voice-keyboard-help').textContent);}
+ const h=harness();for(const [language,text,query,count]of [['nl','voeg twee flessen appelsap toe','appelsap',2],['fr','ajoute deux bouteilles de jus de pomme','jus de pomme',2],['en','please add three bottles of apple juice','apple juice',3],['iw','תוסיף שני בקבוקי מיץ תפוחים','מיץ תפוחים',2]]){const p=h.parse(text,language);assert.equal(p.query,query);assert.equal(p.quantity,count);}
 });
-test('permission errors explain microphone access and close aborts listening',()=>{
- const h=harness();h.open();h.instances[0].onerror({error:'not-allowed'});assert(h.element('#voice-status').textContent.includes('Microfoontoegang'));h.handlers.get('#voice-dialog:close')();assert.equal(h.instances[0].aborted,true);h.speak('melk');assert.equal(h.added.length,0);
+test('French and Hebrew dictated product groups find actual products',()=>{
+ for(const [language,text]of [['fr','deux bouteilles de jus de pomme'],['iw','שני בקבוקי מיץ תפוחים'],['en','two bottles of apple juice']]){const h=harness({language});h.open();h.input(text);h.flush();assert(h.element('#voice-results').innerHTML.includes('Helder Appelsap'));assert.equal(h.element('#voice-quantity').value,2);assert.equal(h.added.length,0);}
 });
-const settle=async()=>{for(let i=0;i<6;i++)await Promise.resolve();};
-test('blocked browser speech switches to local model and still requires product choice',async()=>{
- const h=harness({local:true});h.open();h.instances[0].onerror({error:'service-not-allowed'});await settle();assert.equal(h.locals[0].ready,true);assert(h.element('#voice-status').textContent.includes('extra spraakherkenning is klaar'));assert.equal(h.element('#voice-listen').disabled,false);h.element('#voice-listen').onclick();assert(h.locals[0].listening);h.element('#voice-listen').onclick();assert(h.element('#voice-results').innerHTML.includes('Houdbare Melk'));assert.equal(h.added.length,0);h.choose(0);assert.deepEqual(h.added,[['milk-a',2]]);
+test('changing language cancels pending dictation search and clears stale choices',()=>{
+ const h=harness();h.open();h.input('melk');h.window.CatalogTranslation.language='fr';h.handlers.get('window:catalog:language-changed')();h.flush();assert.equal(h.element('#voice-text').lang,'fr-FR');assert.equal(h.element('#voice-text').value,'');assert.equal(h.element('#voice-results').innerHTML,'');assert.equal(h.added.length,0);
 });
-test('local model loads when browser has no recognition API',async()=>{
- const h=harness({unsupported:true,local:true});h.open();await settle();assert.equal(h.locals[0].ready,true);assert.equal(h.instances.length,0);
+test('composition and closing prevent premature searches',()=>{
+ const h=harness();h.open();h.handlers.get('#voice-text:compositionstart')();h.input('מיץ');assert.equal(h.timers.size,0);h.element('#voice-text').value='מיץ תפוחים';h.handlers.get('#voice-text:compositionend')();h.flush();assert(h.element('#voice-results').innerHTML.includes('Helder Appelsap'));h.input('melk');h.element('#voice-dialog').open=false;h.handlers.get('#voice-dialog:close')();assert.equal(h.timers.size,0);
 });
-test('failed model download shows retry and never leaves the button disabled',async()=>{
- const h=harness({unsupported:true,local:true,loadError:true});h.open();await settle();assert(h.element('#voice-status').textContent.includes('kon niet laden'));assert.equal(h.element('#voice-listen').disabled,false);assert.equal(h.added.length,0);
+test('invalid quantity or unknown word never adds an arbitrary product',()=>{
+ const h=harness();h.open();h.input('ruimtevoertuig');h.flush();assert(h.element('#voice-status').textContent.includes('Geen passende'));h.choose(0);assert.equal(h.added.length,0);h.input('melk');h.flush();h.element('#voice-quantity').value='0';h.choose(0);assert.equal(h.added.length,0);
 });
-test('speech locale follows each language button in the catalogue',()=>{
- for(const [language,locale,label] of [['nl','nl-NL','Nederlands'],['fr','fr-FR','Français'],['en','en-GB','English'],['iw','he-IL','עברית']]){
-  const h=harness({language});h.open();assert.equal(h.instances[0].lang,locale);assert(h.element('#voice-language').textContent.includes(label));assert.equal(h.element('#voice-text').lang,locale);
- }
-});
-test('counts, containers and commands work in all four selected languages',()=>{
- const h=harness();for(const [language,text,query,quantity] of [['nl','voeg twee flessen appelsap toe','appelsap',2],['fr','ajoute deux bouteilles de jus de pomme','jus de pomme',2],['en','please add three bottles of apple juice','apple juice',3],['iw','תוסיף שני בקבוקי מיץ תפוחים','מיץ תפוחים',2]]){const parsed=h.parse(text,language);assert.equal(parsed.query,query,language);assert.equal(parsed.quantity,quantity,language);}
-});
-test('local recognizer receives the selected catalogue language',async()=>{
- for(const language of ['nl','fr','en','iw']){
-  const h=harness({language,local:true,unsupported:true});h.open();await settle();h.element('#voice-listen').onclick();assert.equal(h.locals[0].requestedLanguage,language);
- }
-});
-test('language switch aborts earlier speech and clears obsolete choices',()=>{
- const h=harness();h.open();h.speak('melk');assert(h.element('#voice-results').innerHTML);h.window.CatalogTranslation.language='fr';h.handlers.get('window:catalog:language-changed')();assert.equal(h.instances[0].aborted,true);assert.equal(h.element('#voice-results').innerHTML,'');h.element('#voice-listen').onclick();assert.equal(h.instances.at(-1).lang,'fr-FR');
-});
-test('known product alternative wins over misheard Opel without adding automatically',()=>{
- const h=harness();h.products.push({key:'apple-clear',name:'Helder Appelsap',brand:'A',variant:'1 l',image:''},{key:'apple-cloudy',name:'Troebel Appelsap',brand:'B',variant:'1 l',image:''});h.open();h.instances[0].onresult({results:[[{transcript:'Opel'},{transcript:'appelsap'}]]});assert.equal(h.element('#voice-text').value,'appelsap');assert(h.element('#voice-results').innerHTML.includes('Helder Appelsap'));assert(h.element('#voice-results').innerHTML.includes('Troebel Appelsap'));assert.equal(h.added.length,0);
-});
-test('French and Hebrew spoken apple juice find the actual Dutch product',()=>{
- for(const [language,text] of [['fr','deux bouteilles de jus de pomme'],['iw','שני בקבוקי מיץ תפוחים'],['en','two bottles of apple juice']]){
-  const h=harness({language});h.products.push({key:'apple',name:'Helder Appelsap',brand:'A',variant:'1 l',image:''});h.open();h.speak(text);assert(h.element('#voice-results').innerHTML.includes('Helder Appelsap'),language);assert.equal(h.element('#voice-quantity').value,2);assert.equal(h.added.length,0);
- }
-});
-test('translated displayed product names are searched in the spoken language',()=>{
- const h=harness({language:'fr',translations:[['bread','Pain complet au levain']]});h.open();h.speak('pain complet au levain');assert(h.element('#voice-results').innerHTML.includes('Brood'));assert.equal(h.added.length,0);
+test('production page does not load the rejected speech model',()=>{
+ const html=fs.readFileSync('catalogus/index.html','utf8');assert(!html.includes('local-speech.js'));assert(!html.includes('voice-local'));assert(html.includes('voice-keyboard'));assert(!fs.readFileSync('catalogus/voice.js','utf8').includes('new Recognition'));
 });

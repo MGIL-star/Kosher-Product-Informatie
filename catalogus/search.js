@@ -4,8 +4,8 @@
   const families = [
     ['snoep', 'bonbon', 'bonbons', 'sucreries', 'ממתקים', 'סוכריות', 'snoepjes', 'snoepgoed', 'candy', 'candies', 'kauwgom', 'gum', 'marshmallow', 'marshmallows', 'taffy', 'dragee', 'lolly', 'lollies', 'toffee', 'must', 'happy time'],
     ['koek', 'עוגיות', 'עוגה', 'עוגות', 'gateau', 'gateaux', 'gaufres', 'koekjes', 'koeken', 'biscuit', 'biscuits', 'cookies', 'cookie', 'wafel', 'wafels', 'wafer', 'wafers', 'babka', 'cake', 'ontbijtkoek', 'speculaas'],
-    ['chips', 'crisps', 'bamba', 'bissli', 'pretzels', 'zoutjes'],
-    ['chocolade', 'chocolate', 'chocoladereep', 'chocoladerepen'],
+    ['chips', 'crisps', 'bamba', 'bissli', 'pretzels', 'zoutjes', 'popcorn', 'pufuleti', 'doritos', 'pringles', 'maissnacks', 'aardappelsnack', 'barbecueringen', 'tortillarolletjes', 'croustilles', 'חטיפים', 'ציפס', 'צ יפס'],
+    ['chocolade', 'chocolate', 'chocolat', 'chocola', 'choco', 'cacao', 'cocoa', 'שוקולד', 'chocoladereep', 'chocoladerepen'],
     ['brood', 'pain', 'pains', 'לחם', 'לחמניות', 'broodjes', 'brioche', 'pita', 'challe', 'challah'],
     ['kaas', 'fromage', 'גבינה', 'גבינות', 'cheese', 'roomkaas', 'smeerkaas'],
     ['yoghurt', 'yogurt', 'yaourt', 'יוגורט', 'yoghurtjes'],
@@ -15,7 +15,12 @@
     ['melk','milk','lait','חלב'],
     ['sap', 'vruchtensap', 'juice', 'jus', 'מיץ'],
     ['pasta', 'spaghetti', 'macaroni', 'penne', 'fusilli'],
-    ['koffie', 'coffee', 'cafe', 'קפה'], ['thee', 'tea', 'the', 'תה']
+    ['koffie', 'coffee', 'cafe', 'קפה'], ['thee', 'tea', 'the', 'תה'],
+    ['soep','soepen','soup','soups','soupe','מרק'],
+    ['saus','sauzen','sauce','sauces','רוטב','רטבים'],
+    ['rijst','rice','riz','אורז'],
+    ['vis','fish','poisson','דג','דגים'],
+    ['kip','chicken','poulet','עוף']
   ];
   // One edit, including swapped adjacent letters, for short queries; two for long words.
   function distance(a, b) {
@@ -29,6 +34,11 @@
     return rows[a.length][b.length];
   }
   const close = (a,b) => a.length>=4 && Math.abs(a.length-b.length)<= (a.length>=8?2:1) && distance(a,b)<=(a.length>=8?2:1);
+  const relatedPatterns={
+    chips:/chips|bamba|bissli|pretzel|pufuleti|maissnack|aardappelsnack|barbecuering|tortillarol|popcorn|doritos|pringles/,
+    koek:/koek|biscuit|wafel|wafer|sprits|babka|cake/,
+    chocolade:/chocol|choco|cacao|cocoa/
+  };
   const expandedQueries=new Map();
   function matches(product, query, translation='') {
     let q=norm(query);
@@ -39,11 +49,14 @@
     const barcode=String(product.ean||'').replace(/\D/g,'');
     if(/^\d[\d\s-]*$/.test(query))return barcode.includes(query.replace(/\D/g,''));
     // Shelf headings are deliberately excluded: a chocolate shelf also contains baking powder.
-    const text=norm([product.name,product.searchName,product.englishName,product.brand,product.variant,product.category,...(Array.isArray(product.aliases)?product.aliases:[product.aliases]),translation].join(' '));
+    // Mixed category labels can join unrelated families, e.g. coffee and cocoa.
+    const category=/[&·]/.test(product.category||'')?'':product.category;
+    const text=norm([product.name,product.searchName,product.englishName,product.brand,product.variant,category,...(Array.isArray(product.aliases)?product.aliases:[product.aliases]),translation].join(' '));
     const words=text.split(' ');
     return (!/[^\x00-\x7F]/.test(q)&&Boolean(window.KPI_searchMatches?.(text,q))) || q.split(' ').every(term => {
       if(text.includes(term))return true;
       const family=families.find(group=>group.some(alias=>alias===term || close(term,alias)));
+      if(family&&relatedPatterns[family[0]]?.test(text))return true;
       if(family && family.some(alias=>words.some(word=>word===alias || word.startsWith(alias)) || (alias.includes(' ')&&text.includes(alias))))return true;
       return words.some(word=>close(term,word));
     });

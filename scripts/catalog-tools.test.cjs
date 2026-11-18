@@ -98,3 +98,11 @@ test('search keeps Hebrew words and recognizes translated grocery phrases',()=>{
  assert.equal(context.window.CatalogSearch.normalize('חָלָב'),'חלב');assert(matches({name:'Houdbare Melk'},'חלב'));assert(!matches({name:'Brood'},'מטוס'));
  context.window.KPI_searchMatches=()=>true;assert(!matches({name:'Brood'},'מטוס'));delete context.window.KPI_searchMatches;
 });
+test('generic food groups include named variants and exclude unrelated baking words',()=>{
+ const p={chips:[{name:'Pufuleti Maïssnacks met Zout',category:'Snacks'},{name:'Tortillarolletjes Hot & Spicy',category:'Rijst- en maïssnacks'},{name:'Barbecueringen Gezinsverpakking',category:'Snacks'}],koekjes:[{name:'Fingers met Cacaowafel en Vanillecrème',category:'Chocoladesnacks'},{name:'Vanillespritsen',category:'Koekjes'}],chocolade:[{name:'Cacaopoeder',category:'Bakingrediënten'},{name:'Instant Chocolit',category:'Koffie & Chocolit'},{name:'Witte Chocolade',category:'Chocolade'}]};
+ for(const [query,products]of Object.entries(p))for(const product of products)assert(matches(product,query),query+': '+product.name);
+ assert(!matches({name:'Kruiden voor Gebakken Aardappelen',category:'Kruidenmixen'},'koekjes'));assert(!matches({name:'Ketelgebakken Chips Naturel',category:'Snacks'},'koekjes'));assert(!matches({name:'Instant Koffie',category:'Koffie & Chocolit'},'chocolade'));
+});
+test('real catalogue examples without the group word are still found',()=>{
+ for(const [file,id,query]of [['meter-12/products.js',67,'koekjes'],['meter-13/products.js',94,'chips'],['meter-13/products.js',67,'chips'],['meter-16/products.js',6,'chips'],['meter-15/products.js',9,'chips']]){const c={window:{}};vm.runInNewContext(fs.readFileSync(file,'utf8'),c);const product=c.window.KPI_PRODUCTS.find(p=>p.id===id);assert(product,file+':'+id);assert(matches(product,query),query+': '+product.name);}
+});
