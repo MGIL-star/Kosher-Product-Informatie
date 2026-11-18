@@ -64,7 +64,7 @@
   function save(){try{localStorage.setItem('kosher-catalog-cart',JSON.stringify(cart));}catch{}updateCount();}
   function updateCount(){window.CatalogTranslation?.beforeUpdate();const count=Object.values(cart).reduce((a,b)=>a+b,0);$('#cart-count').textContent=`${count} ${count===1?'artikel':'artikelen'}`;window.CatalogTranslation?.refresh();}
   function toast(message){window.CatalogTranslation?.beforeUpdate();$('#toast').textContent=message;$('#toast').classList.add('visible');clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').classList.remove('visible'),2200);window.CatalogTranslation?.refresh();}
-  function add(key){cart[key]=Math.min((cart[key]||0)+1,999);save();toast('Toegevoegd aan uw boodschappenlijst');if($('#cart-dialog').open)renderCart();}
+  function add(key,quantity=1){if(!products.some(p=>p.key===key))return;const amount=Number.isInteger(quantity)?Math.max(1,Math.min(999,quantity)):1;cart[key]=Math.min((cart[key]||0)+amount,999);save();toast('Toegevoegd aan uw boodschappenlijst');if($('#cart-dialog').open)renderCart();}
   function selectCategory(key){active=key;renderCategories();render();}
   function renderCategories(){const counts={};for(const p of products)counts[p.group]=(counts[p.group]||0)+1;$('#categories').innerHTML=Object.entries(icons).filter(([k])=>k==='all'||counts[k]).map(([k,label])=>`<button data-group="${k}" aria-pressed="${active===k}">${label}<span>${k==='all'?products.length:counts[k]}</span></button>`).join('');}
   function card(p){return `<article class="product-card"><button class="product-open" data-product="${esc(p.key)}" aria-label="Bekijk ${esc(p.name)}"><div class="photo${p.image?'':' placeholder'}">${p.image?image(p):'Foto volgt'}</div><div class="card-copy"><h3 data-source-title="${esc(p.name)}">${esc(p.name)}</h3><span class="brand notranslate" translate="no">${esc(p.brand)}</span><p class="weight">${esc(p.variant)}</p></div></button><button class="cart-icon-add" data-add="${esc(p.key)}" aria-label="${esc(p.name)} toevoegen aan boodschappenlijst" title="Toevoegen aan boodschappenlijst"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h2l2.5 12h11l2-8H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></svg></button></article>`;}
@@ -133,6 +133,7 @@
     renderCategories();render();const picks=[products.find(p=>p.key==='meter-8:56'),products.find(p=>p.key==='meter-6:48'),products.find(p=>p.key==='meter-13:1')].filter(p=>p?.image);if($('#hero-products'))$('#hero-products').innerHTML=picks.map(p=>image(p)).join('');
     for(const key of Object.keys(cart))if(!products.some(p=>p.key===key)&&!failures.length)delete cart[key];save();
     await sharedScript(new URL('photo-layout.js?v=20261112-doritos-formaat',location.href).href);
+    window.catalogActions={addToCart:add};
     window.catalogPreview={get products(){return products;},get cart(){return {...cart};},failures};if($('#cart-dialog').open)renderCart();
   }
   load();
