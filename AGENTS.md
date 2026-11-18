@@ -56,3 +56,5 @@
 - Meter 11: alle suikervrije Must-snoepjes naast elkaar (inclusief citroensmaak), daaronder alle Dragée, vervolgens alle kauwgom naast elkaar, alle Candy Planet, marshmallows, Taffy Time en Happy Time, en onderaan chocoladetjes in zak. Pas dezelfde volgorde toe in QR-overzicht en catalogus.
 
 - Correctie gebruiker 18 november 2026: Krembo mokka, Krembo vanille, houdbare melk, Telma Kariot 348 g en Telma Kariot 686 g staan in deze volgorde op meter 15, niet meter 16. Houdbare melk blijft ook op meter 7. Bestaande QR-adressen blijven beschikbaar.
+
+- Meter 15 volgt van boven naar beneden: Bamba 200 g, alle broodjes, Krembo mokka, Krembo vanille, melk, Kariot kleine doos, Kariot grote doos, Gusto 85 g en kleine Gusto. Overige bestaande producten blijven achter dit blok behouden.

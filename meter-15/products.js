@@ -830,3 +830,10 @@ window.KPI_PRODUCTS = [
   const index = products.findIndex(p => p.id === 9);
   products.splice(index < 0 ? products.length : index, 0, ...additions);
 }());
+
+// Gebruikersvolgorde: boven naar beneden, binnen iedere plank links naar rechts.
+(function () {
+  const order = [1, 3, 14, 5, 4, 7, 6, 8, 15, 16, 17, 18, 19, 9, 10];
+  const rank = new Map(order.map((id, index) => [id, index]));
+  window.KPI_PRODUCTS.sort((a, b) => (rank.get(a.id) ?? order.length) - (rank.get(b.id) ?? order.length));
+}());
