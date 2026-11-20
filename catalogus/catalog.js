@@ -54,6 +54,7 @@
   for (const source of sources) if (source.folder === 'meter-5') source.data = 'meter-5/products.js?v=20261118-meter5-vis-mayonaise';
   for (const source of sources) if (['meter-15', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-meter15-correctie';
   for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261118-meter15-zonder-doritos';
+  for (const source of sources) if (['meter-5', 'meter-14'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261120-nieuwe-producten';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

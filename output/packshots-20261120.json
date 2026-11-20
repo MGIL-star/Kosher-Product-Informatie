@@ -1,0 +1,14 @@
+{
+  "tool": "imagegen ingebouwd",
+  "date": "2026-11-20",
+  "assets": [
+    {
+      "file": "meter-5/images/54-aunt-berta-shakshuka-375g.png",
+      "prompt": "Use case: precise-object-edit. Edit target is this exact real CLOSED Aunt Berta Red Shakshuka Sauce glass jar 375g with red screw lid. Create a faithful retail catalog packshot: upright, frontal camera at jar midpoint, correct perspective, entire jar including lid and base centered with 8% margins on pure white #FFFFFF background. Remove hand, shop, floor and distracting glare. Preserve exact original jar shape and proportions, sauce contents, red lid, cream paper label, AUNT BERTA red logo, From Berta with Love, Red Shakshuka Sauce, original weight 375g, original food artwork, all existing text layout and certification marks. Do not invent words, change label design or translate physical packaging. Remove visible expiry, manufacturing dates and lot/batch codes only. Even realistic studio illumination, sharp clean edges, no cast shadow."
+    },
+    {
+      "file": "meter-14/images/27-hahoch-doppindas-200g.png",
+      "prompt": "Use case: precise-object-edit. Edit target is this exact real CLOSED clear plastic HAHOCH Inshell Peanuts 200g bag. Faithful retail catalog packshot: stand bag upright in original portrait orientation, straight-on camera at label center, correct perspective, entire sealed bag with original top and bottom seams visible, center with 8% margins on solid white #FFFFFF background. Remove hand, person, warehouse and floor, reduce glare without obscuring transparent plastic. Preserve exact bag proportions, full natural unpeeled peanuts inside, the original small centered blue/cream label, Inshell Peanuts title, Product of Israel, 200g, original peanut illustration and circular HAHOCH logo. Do not redesign, invent marks, alter text layout or translate physical packaging. Keep genuine closed packaging, no loose peanuts outside bag. Remove expiry/production/lot codes only if present. Sharp photorealistic even studio light, no cast shadow."
+    }
+  ]
+}

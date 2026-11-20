@@ -281,6 +281,7 @@
       ].flatMap(value => Array.isArray(value) ? value : [value])
         .filter(value => typeof value === 'string' && value.trim())
         .map(value => value.trim())
+        .filter(value => value !== product.warning || !/\b(?:pitten|pitdeeltjes|graten|notendoppen)\b/i.test(value))
         .filter(value => /\b(?:kan|may)\b[\s\S]*\b(?:bevatten|contain)\b/i.test(value) || /\b(?:verwerkt|gebruikt|vervaardigd|process(?:es|ed)?)\b[\s\S]*\b(?:bedrijf|fabriek|productielijn|facility|plant)\b|\b(?:bedrijf|fabriek|productielijn|facility|plant)\b[\s\S]*\b(?:verwerkt|gebruikt|vervaardigd|process(?:es|ed)?)\b/i.test(value))
       )];
       const allowed = section => {
@@ -290,7 +291,8 @@
           || /^(?:kan bevatten|let op)\s*:?[\s]*$/i.test(title)
           || /^hechser$/i.test(title)
           || /^barcode\s*[\/&]\s*ean$/i.test(title)
-          || /^voedingswaarden/i.test(title);
+          || /^voedingswaarden/i.test(title)
+          || /^waarschuwing$/i.test(title);
       };
       for (const section of [...root.children].filter(el => el.tagName === 'SECTION')) {
         if (!allowed(section)) { section.remove(); continue; }

@@ -1040,3 +1040,46 @@ window.KPI_PRODUCTS = [
     "nutritionChecked": "2026-11-12"
   }
 ];
+
+// Nieuw product van fysiek etiket; plaatsing volgens gebruiker 20 november 2026.
+(function () {
+  const products = window.KPI_PRODUCTS;
+  const product = {
+  "id": 27,
+  "brand": "Hahoch",
+  "name": "Geroosterde Doppinda’s",
+  "variant": "200 g",
+  "ean": "8009750932656",
+  "category": "Hahoch",
+  "ingredients": "Aardnoten (pinda’s).",
+  "allergens": [
+    "Pinda’s"
+  ],
+  "mayContain": "Kan noten bevatten.",
+  "ingredientsComplete": true,
+  "image": "images/27-hahoch-doppindas-200g.png",
+  "imageEdited": true,
+  "productInfo": {
+    "Herkomst": "Israël"
+  },
+  "nutritionUnit": "per 100 g gepeld product",
+  "nutrition": {
+    "Energie": "2532 kJ / 611 kcal",
+    "Vetten": "49 g",
+    "Waarvan verzadigde vetzuren": "9,1 g",
+    "Koolhydraten": "8 g",
+    "Waarvan suikers": "4,8 g",
+    "Vezels": "9,1 g",
+    "Eiwitten": "30 g",
+    "Zout": "0,05 g"
+  },
+  "nutritionChecked": "2026-11-20",
+  "ingredientsSource": "Fysiek Nederlands etiket, source-labels/20261120-doppindas/label-original.png",
+  "sourcePhotos": [
+    "source-labels/20261120-doppindas/front-original.png",
+    "source-labels/20261120-doppindas/label-original.png"
+  ]
+};
+  const index = products.findIndex(p => p.id === 24);
+  products.splice(index + 1, 0, product);
+}());

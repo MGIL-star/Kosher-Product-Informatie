@@ -2703,3 +2703,46 @@ window.KPI_PRODUCTS = [
 };
   product.nutritionUnit = "per 100 g";
 }());
+
+// Nieuw product van fysiek etiket; plaatsing volgens gebruiker 20 november 2026.
+(function () {
+  const products = window.KPI_PRODUCTS;
+  const product = {
+  "id": 54,
+  "brand": "Aunt Berta",
+  "name": "Rode Shakshukasaus",
+  "variant": "375 g",
+  "ean": "859782001671",
+  "category": "Sauzen & Dressings",
+  "ingredients": "Tomaten (50%), water, tomatenconcentraat (9%), rode paprika, suiker, koolzaadolie, specerijenmix (zoete paprika, knoflook, peterselie, zwarte peper), zout, tomatenpoeder, ui, verstevigingsmiddel (calciumchloride).",
+  "allergens": [],
+  "ingredientsComplete": true,
+  "warning": "Kan deeltjes van pitten bevatten.",
+  "kosher": "OU",
+  "kosherSource": "Omcirkelde U op de fysieke ingrediëntenfoto van 20 november 2026.",
+  "image": "images/54-aunt-berta-shakshuka-375g.png",
+  "imageEdited": true,
+  "productInfo": {},
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "368 kJ / 88 kcal",
+    "Vetten": "3,1 g",
+    "Waarvan verzadigde vetzuren": "0,2 g",
+    "Koolhydraten": "12 g",
+    "Waarvan suikers": "8,5 g",
+    "Vezels": "2 g",
+    "Eiwitten": "2 g",
+    "Zout": "2,2 g"
+  },
+  "nutritionChecked": "2026-11-20",
+  "ingredientsSource": "Fysiek Nederlands etiket, source-labels/20261120-shakshuka/ingredients-original.png",
+  "sourcePhotos": [
+    "source-labels/20261120-shakshuka/front-original.png",
+    "source-labels/20261120-shakshuka/barcode-original.png",
+    "source-labels/20261120-shakshuka/nutrition-original.png",
+    "source-labels/20261120-shakshuka/ingredients-original.png"
+  ]
+};
+  const index = products.findIndex(p => p.id === 8);
+  products.splice(index + 1, 0, product);
+}());
