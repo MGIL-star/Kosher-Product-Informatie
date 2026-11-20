@@ -3103,3 +3103,28 @@ window.KPI_PRODUCTS = [
     window.KPI_PRODUCTS.find(p => p.id === Number(id)).imageScale = scale;
   }
 }());
+
+// Op expliciet gebruikersverzoek: bakje op de bodem, dekselsticker aan de zijkant.
+(function () {
+  const updates = [
+  {
+    "id": 35,
+    "image": "./images/eden-35-chou-rouge-mayonnaise-20261120-zijetiket.png"
+  },
+  {
+    "id": 61,
+    "image": "./images/eden-61-pois-chiches-orientale-20261120-zijetiket.png"
+  },
+  {
+    "id": 33,
+    "image": "./images/eden-33-tehina-20261120-zijetiket.png"
+  }
+];
+  for (const update of updates) {
+    const product = window.KPI_PRODUCTS.find(p => p.id === update.id);
+    product.previousImage = product.image;
+    product.image = update.image;
+    product.imageScale = 0.72;
+    product.imageSource.edit = "Op expliciet gebruikersverzoek van 20 november 2026: gesloten bakje op de bodem in dezelfde kijkhoek als de andere salades, bestaand deksel-etiket verplaatst naar de zijkant, inhoud zichtbaar, witte achtergrond.";
+  }
+}());

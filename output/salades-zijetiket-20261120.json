@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "id": 35,
+      "slug": "chou-rouge-mayonnaise",
+      "name": "Rodekool met Mayonaise",
+      "label": "CHOU ROUGE À LA MAYONNAISE",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-573b7dfd-d002-4300-8f02-08e423687ef0.png",
+      "destination": "koeling-schap-1/images/eden-35-chou-rouge-mayonnaise-20261120-zijetiket.png",
+      "prompt": "Use case: precise-object-edit. User corrects the last result: this tub looks too big and too tall. Image 1 is the product identity/content/artwork authority to edit. Image 2 is the desired SMALL SHALLOW 200g TUB PROPORTIONS and CAMERA ANGLE reference only. Make image 1 a low shallow small 200g salad tub like image 2, NOT a tall bucket. Reduce the visible front side wall height by roughly half compared to image 1, retain circular wide base, show top and front in same high three-quarter view as image 2. Spread the existing front label elements HORIZONTALLY across the width of the shallow front side: EDEN logo toward left, existing exact product name \"CHOU ROUGE À LA MAYONNAISE\" across middle, existing food illustration toward right, weight 200g small below. Preserve their existing real fonts/colors/artwork, especially existing title style; do NOT invent a new colored label background or new slogan. Transparent label. User explicitly says not everything needs to fit: leave all small technical text (ingredients, nutrition, storage, distributor), barcode and certification on the rear OUT OF VIEW rather than cramming it onto the front. Do not invent text. Remove all print from the closed clear lid. Preserve actual food color and texture of image 1, no recipe additions. Do NOT transfer image 2's hummus, name or brown label. Small shallow closed real plastic 200g tub on its base, white background, centered, studio photography. The package itself must be visibly shallower, not merely scaled down in the canvas."
+    },
+    {
+      "id": 61,
+      "slug": "pois-chiches-orientale",
+      "name": "Oosterse Kikkererwtensalade",
+      "label": "Pois Chiches à l’Orientale",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-8378d695-a0fc-4708-bacd-e19692cebd50.png",
+      "destination": "koeling-schap-1/images/eden-61-pois-chiches-orientale-20261120-zijetiket.png",
+      "prompt": "Use case: precise-object-edit. User corrects the last result: this tub looks too big and too tall. Image 1 is the product identity/content/artwork authority to edit. Image 2 is the desired SMALL SHALLOW 200g TUB PROPORTIONS and CAMERA ANGLE reference only. Make image 1 a low shallow small 200g salad tub like image 2, NOT a tall bucket. Reduce the visible front side wall height by roughly half compared to image 1, retain circular wide base, show top and front in same high three-quarter view as image 2. Spread the existing front label elements HORIZONTALLY across the width of the shallow front side: EDEN logo toward left, existing exact product name \"Pois Chiches à l’Orientale\" across middle, existing food illustration toward right, weight 200g small below. Preserve their existing real fonts/colors/artwork, especially existing title style; do NOT invent a new colored label background or new slogan. Transparent label. User explicitly says not everything needs to fit: leave all small technical text (ingredients, nutrition, storage, distributor), barcode and certification on the rear OUT OF VIEW rather than cramming it onto the front. Do not invent text. Remove all print from the closed clear lid. Preserve actual food color and texture of image 1, no recipe additions. Do NOT transfer image 2's hummus, name or brown label. Small shallow closed real plastic 200g tub on its base, white background, centered, studio photography. The package itself must be visibly shallower, not merely scaled down in the canvas."
+    },
+    {
+      "id": 33,
+      "slug": "tehina",
+      "name": "Thina",
+      "label": "Téhina Pâte de Sésame",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-ec5308a8-e43e-4d04-b75d-6d520be45718.png",
+      "destination": "koeling-schap-1/images/eden-33-tehina-20261120-zijetiket.png",
+      "prompt": "Use case: precise-object-edit. User corrects the last result: this tub looks too big and too tall. Image 1 is the product identity/content/artwork authority to edit. Image 2 is the desired SMALL SHALLOW 200g TUB PROPORTIONS and CAMERA ANGLE reference only. Make image 1 a low shallow small 200g salad tub like image 2, NOT a tall bucket. Reduce the visible front side wall height by roughly half compared to image 1, retain circular wide base, show top and front in same high three-quarter view as image 2. Spread the existing front label elements HORIZONTALLY across the width of the shallow front side: EDEN logo toward left, existing exact product name \"Téhina Pâte de Sésame\" across middle, existing food illustration toward right, weight 200g small below. Preserve their existing real fonts/colors/artwork, especially existing title style; do NOT invent a new colored label background or new slogan. Transparent label. User explicitly says not everything needs to fit: leave all small technical text (ingredients, nutrition, storage, distributor), barcode and certification on the rear OUT OF VIEW rather than cramming it onto the front. Do not invent text. Remove all print from the closed clear lid. Preserve actual food color and texture of image 1, no recipe additions. Do NOT transfer image 2's hummus, name or brown label. Small shallow closed real plastic 200g tub on its base, white background, centered, studio photography. The package itself must be visibly shallower, not merely scaled down in the canvas."
+    }
+  ]
+}
