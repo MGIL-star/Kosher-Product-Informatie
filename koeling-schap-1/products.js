@@ -3095,3 +3095,11 @@ window.KPI_PRODUCTS = [
     product.imageSource.edit += " Topping gecorrigeerd op gebruikersaanwijzing: " + update.description;
   }
 }());
+
+// Grote hummusbakken blijven zichtbaar groter dan de 200g-bakjes.
+(function () {
+  const sizes = {32: 0.72, 66: 0.72, 46: 0.72, 45: 0.72, 50: 0.94, 48: 1.06, 47: 1.06, 49: 0.94, 51: 0.94};
+  for (const [id, scale] of Object.entries(sizes)) {
+    window.KPI_PRODUCTS.find(p => p.id === Number(id)).imageScale = scale;
+  }
+}());
