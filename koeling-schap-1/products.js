@@ -2861,3 +2861,180 @@ window.KPI_PRODUCTS = [
     "nutritionSource": "Fysiek etiket; bronfoto: source-labels/20261029-nutrition-batch/codex-clipboard-2f6d3dc0-867b-4c7e-89ef-4c8fdcd0ad7b.jpg."
   }
 ];
+
+// Nieuwe fysieke verpakkingsfoto’s op gebruikersverzoek, 20 november 2026.
+(function () {
+  const updates = [
+  {
+    "id": 32,
+    "image": "./images/eden-32-authentique-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-000824c3-286c-4bf8-a42b-048fc49deca7.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-1e15e4b1-afa0-4972-a703-a878a0e46f82.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-7db36f0d-1c7e-4ad1-b3b3-11bc4ba212de.png"
+    ]
+  },
+  {
+    "id": 66,
+    "image": "./images/eden-66-carmel-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-ae433ce4-129b-4e3b-b85d-9e320c9ac200.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-3de15511-8c30-46e9-bc3b-49bd73e03221.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-58d4485b-a87f-452a-94ba-fc07c82feb1d.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-44e416d7-bf9b-45e6-a12b-df6fb3d1a0c2.png"
+    ]
+  },
+  {
+    "id": 46,
+    "image": "./images/eden-46-gourmet-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-6ad101c2-0355-4cc2-9547-b157be0a0564.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-a66fbdf7-6ce9-47b3-aa3e-d561ed930cab.png"
+    ]
+  },
+  {
+    "id": 45,
+    "image": "./images/eden-45-pois-chiches-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-64ec9130-c7d4-4b70-a1c2-1bfad2178d58.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-68521a18-141a-4c03-b3a8-b6c110ef0201.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-f3017dfa-0018-48f5-acd6-27d34c1ba3dc.png"
+    ]
+  },
+  {
+    "id": 50,
+    "image": "./images/eden-50-tradition-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-a1b3a3ff-efb0-46d7-a9b4-f173cedeabd6.png"
+    ]
+  },
+  {
+    "id": 48,
+    "image": "./images/eden-48-zaatar-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-347f74ff-ece6-4a1b-9623-f13f3d530b63.png"
+    ]
+  },
+  {
+    "id": 47,
+    "image": "./images/eden-47-masbacha-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-d2890898-0df2-4977-97ad-ce47702515a7.png"
+    ]
+  },
+  {
+    "id": 49,
+    "image": "./images/eden-49-picanti-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-dcd3dc34-7949-4ca1-bbc3-b465f2532fb5.png"
+    ]
+  },
+  {
+    "id": 51,
+    "image": "./images/eden-51-pignons-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-2f897f74-eac7-441a-999f-36eeb3559cd2.png"
+    ]
+  },
+  {
+    "id": 34,
+    "image": "./images/eden-34-aubergine-mayonnaise-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-061200b7-16f3-401c-9250-f6e813572931.png"
+    ]
+  },
+  {
+    "id": 37,
+    "image": "./images/eden-37-aubergine-tranchees-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-a0abfdf7-878d-403c-923e-048e553d7706.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-4431fb72-0d2c-417f-bfca-dd899c224f09.png"
+    ]
+  },
+  {
+    "id": 36,
+    "image": "./images/eden-36-aubergine-braisees-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-745810d1-418b-4cba-a086-5c9258a1802c.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-09225afd-822a-45a4-b8e7-deb2e34448b7.png"
+    ]
+  },
+  {
+    "id": 38,
+    "image": "./images/eden-38-aubergine-caviar-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-feb8cab4-5ae1-4659-8885-9bdd36067e5f.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-c3479534-b03e-4e00-8440-962583f9930c.png"
+    ]
+  },
+  {
+    "id": 40,
+    "image": "./images/eden-40-carottes-marocaine-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-8cdfd321-9148-47f3-8533-de60de6e449d.png",
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-db24fcb4-d9ec-4b5f-b19b-93ca71e805b0.png"
+    ]
+  },
+  {
+    "id": 68,
+    "image": "./images/eden-68-salade-turque-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-0e3ba060-c45e-4ab9-9ce5-3ee7bce728a9.png"
+    ]
+  },
+  {
+    "id": 35,
+    "image": "./images/eden-35-chou-rouge-mayonnaise-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-9e1d0c4f-d911-436e-bb5f-2a6ed4aa47b5.png"
+    ]
+  },
+  {
+    "id": 61,
+    "image": "./images/eden-61-pois-chiches-orientale-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-09998768-6971-44ee-8829-5fe222bf6d88.png"
+    ]
+  },
+  {
+    "id": 33,
+    "image": "./images/eden-33-tehina-20261120.png",
+    "photos": [
+      "source-labels/20261120-eden-verpakkingen/codex-clipboard-fdd2e3fb-9402-447c-be94-e88d5b33c0ac.png"
+    ]
+  }
+];
+  for (const update of updates) {
+    const product = window.KPI_PRODUCTS.find(p => p.id === update.id);
+    product.previousImage = product.image;
+    product.image = update.image;
+    product.imageEdited = true;
+    product.imageSource = {type: "Bewerkte fysieke verpakkingsfoto", photo: update.photos[0], edit: "Gesloten bakje schuin van boven volgens door gebruiker goedgekeurde kijkhoek; echt etiket behouden, witte achtergrond, datum- en batchcodes verwijderd."};
+    product.sourcePhotos = [...new Set([...(product.sourcePhotos || []), ...update.photos])];
+    product.imageChecked = "2026-11-20";
+    delete product.imageBounds;
+    delete product.imageFrame;
+  }
+}());
+
+// Ontbrekende etiketgegevens van de juiste fysieke varianten.
+(function () {
+  const products = window.KPI_PRODUCTS;
+  const hummus = products.find(p => p.id === 32);
+  hummus.nutrition = {"Energie":"857 kJ / 206 kcal","Vetten":"11 g","Waarvan verzadigde vetzuren":"1,7 g","Koolhydraten":"16 g","Waarvan suikers":"3,6 g","Eiwitten":"7,8 g","Zout":"1,2 g"};
+  hummus.nutritionUnit = "per 100 g";
+  hummus.nutritionChecked = "2026-11-20";
+  hummus.nutritionSource = "Fysiek etiket: source-labels/20261120-eden-verpakkingen/codex-clipboard-7db36f0d-1c7e-4ad1-b3b3-11bc4ba212de.png";
+  const thina = products.find(p => p.id === 33);
+  thina.ingredients = "Sesampasta (57,9%), water, zout, zuurteregelaar (citroenzuur), conserveermiddelen (E202, E211).";
+  thina.ingredientsSource = "Fysiek etiket: source-labels/20261120-eden-verpakkingen/codex-clipboard-fdd2e3fb-9402-447c-be94-e88d5b33c0ac.png";
+  thina.allergenNote = "Kan sporen bevatten van selderij, pinda’s en mosterd.";
+  thina.nutrition = {"Energie":"1829 kJ / 443 kcal","Vetten":"42 g","Waarvan verzadigde vetzuren":"6,6 g","Koolhydraten":"1,2 g","Waarvan suikers":"0,99 g","Eiwitten":"11,5 g","Zout":"0,4 g"};
+  thina.nutritionUnit = "per 100 g";
+  thina.nutritionChecked = "2026-11-20";
+  thina.nutritionSource = thina.ingredientsSource;
+  for (const id of [45, 66]) {
+    const product = products.find(p => p.id === id);
+    product.labelChecked = "2026-11-20";
+  }
+}());

@@ -55,6 +55,7 @@
   for (const source of sources) if (['meter-15', 'meter-16'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261118-meter15-correctie';
   for (const source of sources) if (source.folder === 'meter-15') source.data = 'meter-15/products.js?v=20261118-meter15-zonder-doritos';
   for (const source of sources) if (['meter-5', 'meter-14'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261120-nieuwe-producten';
+  for (const source of sources) if (['koeling-schap-1', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261120-verpakkingen-schuin';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

@@ -3857,3 +3857,55 @@ window.KPI_PRODUCTS = [
   const [raclette] = products.splice(index, 1);
   products.splice(products.findIndex(p => p.id === 37), 0, raclette);
 }());
+
+// Nieuwe fysieke verpakkingsfoto’s op gebruikersverzoek, 20 november 2026.
+(function () {
+  const updates = [
+  {
+    "id": 68,
+    "image": "./images/vebo-68-mimolette-20261120.png",
+    "photos": [
+      "source-labels/20261120-vebo-verpakkingen/codex-clipboard-f05f1439-014d-478c-931c-c2144d66b65b.png"
+    ]
+  },
+  {
+    "id": 69,
+    "image": "./images/vebo-69-havarti-20261120.png",
+    "photos": [
+      "source-labels/20261120-vebo-verpakkingen/codex-clipboard-152d20af-bfe2-498a-b41f-ea778dc3362a.png"
+    ]
+  },
+  {
+    "id": 70,
+    "image": "./images/vebo-70-light-20261120.png",
+    "photos": [
+      "source-labels/20261120-vebo-verpakkingen/codex-clipboard-8d19a237-d73d-4fff-84b6-0f21bbe5a567.png"
+    ]
+  },
+  {
+    "id": 71,
+    "image": "./images/vebo-71-edam-20261120.png",
+    "photos": [
+      "source-labels/20261120-vebo-verpakkingen/codex-clipboard-ab003469-4a26-4580-a806-524781957db2.png"
+    ]
+  },
+  {
+    "id": 72,
+    "image": "./images/vebo-72-gouda-20261120.png",
+    "photos": [
+      "source-labels/20261120-vebo-verpakkingen/codex-clipboard-70576b4e-81f1-48ab-ae49-426ea5576a96.png"
+    ]
+  }
+];
+  for (const update of updates) {
+    const product = window.KPI_PRODUCTS.find(p => p.id === update.id);
+    product.previousImage = product.image;
+    product.image = update.image;
+    product.imageEdited = true;
+    product.imageSource = {type: "Bewerkte fysieke verpakkingsfoto", photo: update.photos[0], edit: "Echte gesloten verpakking rechtop in de lengte op wit, volgens expliciet verzoek van 20 november 2026; originele voorkant behouden."};
+    product.sourcePhotos = [...new Set([...(product.sourcePhotos || []), ...update.photos])];
+    product.imageChecked = "2026-11-20";
+    delete product.imageBounds;
+    delete product.imageFrame;
+  }
+}());

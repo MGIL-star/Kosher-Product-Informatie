@@ -1,0 +1,368 @@
+{
+  "approvedAngle": "C:/Users/maor_/.codex/generated_images/01a1ef10-6609-7080-b5be-2b9db6703d65/exec-bfe67ad7-008b-46c0-b833-17d2d77be9dc.png",
+  "assets": [
+    {
+      "id": 32,
+      "slug": "authentique",
+      "label": "HOUMOUS AUTHENTIQUE",
+      "weight": "200 G",
+      "color": "dark brown",
+      "front": "000824c3-286c-4bf8-a42b-048fc49deca7",
+      "refs": [
+        "1e15e4b1-afa0-4972-a703-a878a0e46f82"
+      ],
+      "photos": [
+        "000824c3-286c-4bf8-a42b-048fc49deca7",
+        "1e15e4b1-afa0-4972-a703-a878a0e46f82",
+        "7db36f0d-1c7e-4ad1-b3b3-11bc4ba212de"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS AUTHENTIQUE, weight 200 G, dark brown. Actual contents: plain smooth hummus with NO topping; do not add any garnish.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-a160399b-b403-4649-b5f4-95b71ad7d02a.png",
+      "destination": "koeling-schap-1/images/eden-32-authentique-20261120.png"
+    },
+    {
+      "id": 66,
+      "slug": "carmel",
+      "label": "HOUMOUS CARMEL",
+      "weight": "200 G",
+      "color": "navy blue",
+      "front": "ae433ce4-129b-4e3b-b85d-9e320c9ac200",
+      "refs": [
+        "3de15511-8c30-46e9-bc3b-49bd73e03221"
+      ],
+      "photos": [
+        "ae433ce4-129b-4e3b-b85d-9e320c9ac200",
+        "3de15511-8c30-46e9-bc3b-49bd73e03221",
+        "58d4485b-a87f-452a-94ba-fc07c82feb1d",
+        "44e416d7-bf9b-45e6-a12b-df6fb3d1a0c2"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Image1 is the REAL EDEN GOURMET HOUMOUS CARMEL tub and LABEL authority. Image2 shows real red topping from above, same tub. Image3 is ONLY camera-angle reference from older catalog, NOT packaging or label reference. Create new packshot in the SAME HIGH THREE-QUARTER VIEW as image3: camera looking down about 40 degrees, tub resting normally on its base so the LARGE OVAL TOP SURFACE and contents are prominently visible, front side label also visible below. NOT a straight-on frontal portrait. Keep this tub CLOSED with its genuine flat clear snap-on lid visibly fitted tightly on rim: no open container. Through the transparent lid show actual red central topping and hummus exactly from image2. Preserve exact real navy-blue side label with EDEN GOURMET at left, HOUMOUS CARMEL, POIDS NET : 200 G, original little picture at right and small curved text SALADE TRAITEUR. Preserve real wide shallow 200g tub, no taller jar, do not copy the older reference label. White #FFFFFF background with full tub centered and margins, even photoreal studio light, remove hand, store, cast shadow, glare, printed expiry and batch code only. Product side and ellipse top both clearly visible, lid closed, label never relocated to lid.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-bfe67ad7-008b-46c0-b833-17d2d77be9dc.png",
+      "destination": "koeling-schap-1/images/eden-66-carmel-20261120.png"
+    },
+    {
+      "id": 46,
+      "slug": "gourmet",
+      "label": "HOUMOUS GOURMET",
+      "weight": "200 G",
+      "color": "dark teal",
+      "front": "6ad101c2-0355-4cc2-9547-b157be0a0564",
+      "refs": [
+        "a66fbdf7-6ce9-47b3-aa3e-d561ed930cab"
+      ],
+      "photos": [
+        "6ad101c2-0355-4cc2-9547-b157be0a0564",
+        "a66fbdf7-6ce9-47b3-aa3e-d561ed930cab"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS GOURMET, weight 200 G, dark teal. Actual contents: herb sauce and whole chickpea topping exactly as top reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-2bdffdbf-c024-4314-8f78-6d2967aeedae.png",
+      "destination": "koeling-schap-1/images/eden-46-gourmet-20261120.png"
+    },
+    {
+      "id": 45,
+      "slug": "pois-chiches",
+      "label": "HOUMOUS POIS CHICHES",
+      "weight": "200 G",
+      "color": "ochre olive brown",
+      "front": "64ec9130-c7d4-4b70-a1c2-1bfad2178d58",
+      "refs": [
+        "68521a18-141a-4c03-b3a8-b6c110ef0201"
+      ],
+      "photos": [
+        "64ec9130-c7d4-4b70-a1c2-1bfad2178d58",
+        "68521a18-141a-4c03-b3a8-b6c110ef0201",
+        "f3017dfa-0018-48f5-acd6-27d34c1ba3dc"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS POIS CHICHES, weight 200 G, ochre olive brown. Actual contents: whole chickpea topping exactly as top reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-3f5f48fd-8ec1-4ed8-aad0-a93b2a691f6d.png",
+      "destination": "koeling-schap-1/images/eden-45-pois-chiches-20261120.png"
+    },
+    {
+      "id": 50,
+      "slug": "tradition",
+      "label": "HOUMOUS TRADITION",
+      "weight": "400 G",
+      "color": "brown",
+      "front": "a1b3a3ff-efb0-46d7-a9b4-f173cedeabd6",
+      "refs": [],
+      "photos": [
+        "a1b3a3ff-efb0-46d7-a9b4-f173cedeabd6"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS TRADITION, weight 400 G, brown. Actual hummus texture from image2, no red topping; retain herbs only if actual target has them. Preserve larger 400 G tub proportions.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-70b1dda2-2e85-4ed2-afbc-1c9bc91dbe83.png",
+      "destination": "koeling-schap-1/images/eden-50-tradition-20261120.png"
+    },
+    {
+      "id": 48,
+      "slug": "zaatar",
+      "label": "HOUMOUS ZAATAR",
+      "weight": "500 G",
+      "color": "olive green",
+      "front": "347f74ff-ece6-4a1b-9623-f13f3d530b63",
+      "refs": [],
+      "photos": [
+        "347f74ff-ece6-4a1b-9623-f13f3d530b63"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS ZAATAR, weight 500 G, olive green. Actual hummus texture from image2, no red topping; retain herbs only if actual target has them. Preserve larger 500 G tub proportions.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-7699473e-2723-4e40-959e-a9102ec8e758.png",
+      "destination": "koeling-schap-1/images/eden-48-zaatar-20261120.png"
+    },
+    {
+      "id": 47,
+      "slug": "masbacha",
+      "label": "HOUMOUS MASBACHA",
+      "weight": "500 G",
+      "color": "dark green",
+      "front": "d2890898-0df2-4977-97ad-ce47702515a7",
+      "refs": [],
+      "photos": [
+        "d2890898-0df2-4977-97ad-ce47702515a7"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS MASBACHA, weight 500 G, dark green. Actual hummus texture from image2, no red topping; retain herbs only if actual target has them. Preserve larger 500 G tub proportions.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-84918d46-3856-48ac-8aa2-9b6b5ca59ab0.png",
+      "destination": "koeling-schap-1/images/eden-47-masbacha-20261120.png"
+    },
+    {
+      "id": 49,
+      "slug": "picanti",
+      "label": "HOUMOUS PICANTI",
+      "weight": "400 G",
+      "color": "dark red brown",
+      "front": "dcd3dc34-7949-4ca1-bbc3-b465f2532fb5",
+      "refs": [],
+      "photos": [
+        "dcd3dc34-7949-4ca1-bbc3-b465f2532fb5"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS PICANTI, weight 400 G, dark red brown. Actual hummus texture from image2, do not copy red topping of reference. For PIGNONS preserve genuine pine nuts if visible in actual hummus; for PICANTI preserve actual texture. Preserve larger 400 G tub proportions.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-48a43b20-e0b9-4959-b6ae-5e46f4b0a7c0.png",
+      "destination": "koeling-schap-1/images/eden-49-picanti-20261120.png"
+    },
+    {
+      "id": 51,
+      "slug": "pignons",
+      "label": "HOUMOUS PIGNONS",
+      "weight": "400 G",
+      "color": "mustard gold",
+      "front": "2f897f74-eac7-441a-999f-36eeb3559cd2",
+      "refs": [],
+      "photos": [
+        "2f897f74-eac7-441a-999f-36eeb3559cd2"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label HOUMOUS PIGNONS, weight 400 G, mustard gold. Actual hummus texture from image2, do not copy red topping of reference. For PIGNONS preserve genuine pine nuts if visible in actual hummus; for PICANTI preserve actual texture. Preserve larger 400 G tub proportions.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-ef271a6b-af67-4d3a-8c82-3c7cae04ec28.png",
+      "destination": "koeling-schap-1/images/eden-51-pignons-20261120.png"
+    },
+    {
+      "id": 34,
+      "slug": "aubergine-mayonnaise",
+      "label": "AUBERGINES À LA MAYONNAISE",
+      "weight": "200 G",
+      "color": "lavender purple",
+      "front": "061200b7-16f3-401c-9250-f6e813572931",
+      "refs": [],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label AUBERGINES À LA MAYONNAISE, weight 200 G, lavender purple. Actual aubergine salad as in original, NO hummus or red topping copied from angle reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-2efc9c51-a1d0-4db0-9609-b6781b6094e5.png",
+      "destination": "koeling-schap-1/images/eden-34-aubergine-mayonnaise-20261120.png"
+    },
+    {
+      "id": 37,
+      "slug": "aubergine-tranchees",
+      "label": "AUBERGINES TRANCHÉES",
+      "weight": "250 G",
+      "color": "magenta purple",
+      "front": "a0abfdf7-878d-403c-923e-048e553d7706",
+      "refs": [
+        "4431fb72-0d2c-417f-bfca-dd899c224f09"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label AUBERGINES TRANCHÉES, weight 250 G, magenta purple. Actual aubergine salad as in original, NO hummus or red topping copied from angle reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-0d351244-21b1-4212-b63b-e65146be9f36.png",
+      "destination": "koeling-schap-1/images/eden-37-aubergine-tranchees-20261120.png"
+    },
+    {
+      "id": 36,
+      "slug": "aubergine-braisees",
+      "label": "AUBERGINES BRAISÉES",
+      "weight": "250 G",
+      "color": "deep violet blue",
+      "front": "745810d1-418b-4cba-a086-5c9258a1802c",
+      "refs": [
+        "09225afd-822a-45a4-b8e7-deb2e34448b7"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label AUBERGINES BRAISÉES, weight 250 G, deep violet blue. Actual aubergine salad as in original, NO hummus or red topping copied from angle reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-f0cf8bd4-d059-409c-8b99-91b819692834.png",
+      "destination": "koeling-schap-1/images/eden-36-aubergine-braisees-20261120.png"
+    },
+    {
+      "id": 38,
+      "slug": "aubergine-caviar",
+      "label": "CAVIAR D’AUBERGINES",
+      "weight": "250 G",
+      "color": "yellow mustard",
+      "front": "feb8cab4-5ae1-4659-8885-9bdd36067e5f",
+      "refs": [
+        "c3479534-b03e-4e00-8440-962583f9930c"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label CAVIAR D’AUBERGINES, weight 250 G, yellow mustard. Actual salad as in original (aubergine caviar / sliced cooked carrots / Turkish vegetable salad as applicable), NO hummus or red topping copied from angle reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-145ee1c4-5828-484b-a928-8f816029e0e1.png",
+      "destination": "koeling-schap-1/images/eden-38-aubergine-caviar-20261120.png"
+    },
+    {
+      "id": 40,
+      "slug": "carottes-marocaine",
+      "label": "CAROTTES À LA MAROCAINE",
+      "weight": "250 G",
+      "color": "orange",
+      "front": "8cdfd321-9148-47f3-8533-de60de6e449d",
+      "refs": [
+        "db24fcb4-d9ec-4b5f-b19b-93ca71e805b0"
+      ],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label CAROTTES À LA MAROCAINE, weight 250 G, orange. Actual salad as in original (aubergine caviar / sliced cooked carrots / Turkish vegetable salad as applicable), NO hummus or red topping copied from angle reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-954068c4-be79-4cfe-a3ad-226446ed50f3.png",
+      "destination": "koeling-schap-1/images/eden-40-carottes-marocaine-20261120.png"
+    },
+    {
+      "id": 68,
+      "slug": "salade-turque",
+      "label": "SALADE À LA TURQUE",
+      "weight": "200 G",
+      "color": "red",
+      "front": "0e3ba060-c45e-4ab9-9ce5-3ee7bce728a9",
+      "refs": [],
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Produce one CLOSED product packshot in the USER-APPROVED HIGH THREE-QUARTER camera view: image3 is the CAMERA ANGLE ONLY, with the tub resting on its base and camera looking down about40degrees, prominent large oval top and contents visible THROUGH tightly fitted transparent closed lid, front side label below also legible. NOT a flat frontal eye-level view, NOT an open container. Image1 is the existing packshot as LABEL/artwork authority (do not keep its flat angle); image2 is actual original physical package. Copy EXACT original label design/colors/font/brand/variant/weight/artwork, small curved text SALADE TRAITEUR, no new wording. Match camera framing and product scale to image3, but NEVER copy image3's blue label or red topping unless that is the actual target. Preserve genuine shallow round tub and sealed clear lid. Solid white #FFFFFF background, soft even photo lighting, full tub with white margins. Remove hands/shop, date, lot markings only; no redesigned packaging, invented graphics or certification. Additional images, if any, show actual top contents of target and take priority over angle-reference contents. Target EXACT label SALADE À LA TURQUE, weight 200 G, red. Actual salad as in original (aubergine caviar / sliced cooked carrots / Turkish vegetable salad as applicable), NO hummus or red topping copied from angle reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-75bd4fcd-95f2-4fc7-82d3-9bcdae382342.png",
+      "destination": "koeling-schap-1/images/eden-68-salade-turque-20261120.png"
+    },
+    {
+      "id": 35,
+      "slug": "chou-rouge-mayonnaise",
+      "label": "CHOU ROUGE À LA MAYONNAISE",
+      "weight": "200g",
+      "front": "9e1d0c4f-d911-436e-bb5f-2a6ed4aa47b5",
+      "refs": [],
+      "top": true,
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Image1 REAL CLOSED CHOU ROUGE À LA MAYONNAISE tub is the absolute package/label/content authority. Image2 is CAMERA ANGLE ONLY approved by user. Show actual closed tub resting on its base, viewed from above about40degrees like image2, so you see prominent elliptical TOP LID LABEL and contents through genuine transparent lid, plus plain clear lower side. The ORIGINAL LABEL IS ON THE TOP LID. DO NOT create any side label. Keep real photographed label design, original logo/title CHOU ROUGE À LA MAYONNAISE, weight200g, original illustration, barcode digits 3760059041436, real certification symbol, microtext layout EXACTLY from image1. Do NOT make up new readable ingredients/nutritional values/addresses or marks. Retain source microtext blur and low contrast where source is indistinct rather than inventing crisp new text. Keep actual product food from image1, not red hummus from reference2. Pure white background #FFFFFF, full sealed tub centered with margins, even studio light. Remove hand, store, floor and date/batch codes only. No opening lid, no packaging redesign.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-3cdc4eba-9687-4138-81b3-5890d4a90b79.png",
+      "destination": "koeling-schap-1/images/eden-35-chou-rouge-mayonnaise-20261120.png"
+    },
+    {
+      "id": 61,
+      "slug": "pois-chiches-orientale",
+      "label": "Pois Chiches à l’Orientale",
+      "weight": "200g",
+      "front": "09998768-6971-44ee-8829-5fe222bf6d88",
+      "refs": [],
+      "top": true,
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Image1 REAL CLOSED Pois Chiches à l’Orientale tub is the absolute package/label/content authority. Image2 is CAMERA ANGLE ONLY approved by user. Show actual closed tub resting on its base, viewed from above about40degrees like image2, so you see prominent elliptical TOP LID LABEL and contents through genuine transparent lid, plus plain clear lower side. The ORIGINAL LABEL IS ON THE TOP LID. DO NOT create any side label. Keep real photographed label design, original logo/title Pois Chiches à l’Orientale, weight200g, original illustration, barcode digits 3760059041078, real certification symbol, microtext layout EXACTLY from image1. Do NOT make up new readable ingredients/nutritional values/addresses or marks. Retain source microtext blur and low contrast where source is indistinct rather than inventing crisp new text. Keep actual product food from image1, not red hummus from reference2. Pure white background #FFFFFF, full sealed tub centered with margins, even studio light. Remove hand, store, floor and date/batch codes only. No opening lid, no packaging redesign.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-6178ad8c-4374-4cd4-bcf5-dd28c7c95dcd.png",
+      "destination": "koeling-schap-1/images/eden-61-pois-chiches-orientale-20261120.png"
+    },
+    {
+      "id": 33,
+      "slug": "tehina",
+      "label": "Téhina Pâte de Sésame",
+      "weight": "200g",
+      "front": "fdd2e3fb-9402-447c-be94-e88d5b33c0ac",
+      "refs": [],
+      "top": true,
+      "group": "koeling-schap-1",
+      "prefix": "eden",
+      "prompt": "Precise-object-edit. Image1 REAL CLOSED Téhina Pâte de Sésame tub is the absolute package/label/content authority. Image2 is CAMERA ANGLE ONLY approved by user. Show actual closed tub resting on its base, viewed from above about40degrees like image2, so you see prominent elliptical TOP LID LABEL and contents through genuine transparent lid, plus plain clear lower side. The ORIGINAL LABEL IS ON THE TOP LID. DO NOT create any side label. Keep real photographed label design, original logo/title Téhina Pâte de Sésame, weight200g, original illustration, barcode digits 3760059041443, real certification symbol, microtext layout EXACTLY from image1. Do NOT make up new readable ingredients/nutritional values/addresses or marks. Retain source microtext blur and low contrast where source is indistinct rather than inventing crisp new text. Keep actual product food from image1, not red hummus from reference2. Pure white background #FFFFFF, full sealed tub centered with margins, even studio light. Remove hand, store, floor and date/batch codes only. No opening lid, no packaging redesign.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-149872fa-0a16-45da-a26e-d6e2e4febd32.png",
+      "destination": "koeling-schap-1/images/eden-33-tehina-20261120.png"
+    },
+    {
+      "id": 68,
+      "slug": "mimolette",
+      "label": "mimolette",
+      "color": "purple",
+      "front": "f05f1439-014d-478c-931c-c2144d66b65b",
+      "group": "koeling-schap-2",
+      "prefix": "vebo",
+      "prompt": "Precise-object-edit. Image1 is target generated cheese packshot; image2 REAL package is authoritative. Preserve full upright portrait closed packaging, colors, layout, original big \"mimolette\" lettering, cheese slices, Hebrew words, marks, and white background. Correct only incorrect small English print to match real source: small line at top of red shield must say \"VEBO Wierden Holland\"; tiny black bottom English line must say \"UNDER SUPERVISION OF THE CHIEF RABBINATE OF HOLLAND\". Do NOT replace HOLLAND with Israel or Jerusalem or add a different certifier. Small fat text at right above dotted divider must read \"M.F./M.G.32%\". Keep the real source small typography and layout. No other alterations, no added claims or changed artwork. All Hebrew stays as reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-79d70030-260b-4944-b1b5-a2477522ee0b.png",
+      "destination": "koeling-schap-2/images/vebo-68-mimolette-20261120.png"
+    },
+    {
+      "id": 69,
+      "slug": "havarti",
+      "label": "havarti style cheese light",
+      "color": "teal green",
+      "front": "152d20af-bfe2-498a-b41f-ea778dc3362a",
+      "group": "koeling-schap-2",
+      "prefix": "vebo",
+      "prompt": "Precise-object-edit. Image1 is target generated cheese packshot; image2 REAL package is authoritative. Preserve full upright portrait closed packaging, colors, layout, original big \"havarti style cheese light\" lettering, cheese slices, Hebrew words, marks, and white background. Correct only incorrect small English print to match real source: small line at top of red shield must say \"VEBO Wierden Holland\"; tiny black bottom English line must say \"UNDER SUPERVISION OF THE CHIEF RABBINATE OF HOLLAND\". Do NOT replace HOLLAND with Israel or Jerusalem or add a different certifier. Small fat text at right above dotted divider must read \"M.F./M.G.24%\". Keep the real source small typography and layout. No other alterations, no added claims or changed artwork. All Hebrew stays as reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-526321d5-5836-40e4-a2bf-5eba68682dbb.png",
+      "destination": "koeling-schap-2/images/vebo-69-havarti-20261120.png"
+    },
+    {
+      "id": 70,
+      "slug": "light",
+      "label": "light extra light",
+      "color": "light blue",
+      "front": "8d19a237-d73d-4fff-84b6-0f21bbe5a567",
+      "group": "koeling-schap-2",
+      "prefix": "vebo",
+      "prompt": "Precise-object-edit. Image1 is target generated cheese packshot; image2 REAL package is authoritative. Preserve full upright portrait closed packaging, colors, layout, original big \"light extra light\" lettering, cheese slices, Hebrew words, marks, and white background. Correct only incorrect small English print to match real source: small line at top of red shield must say \"VEBO Wierden Holland\"; tiny black bottom English line must say \"UNDER SUPERVISION OF THE CHIEF RABBINATE OF HOLLAND\". Do NOT replace HOLLAND with Israel or Jerusalem or add a different certifier. Small fat text at right above dotted divider must read \"M.F./M.G.17%\". Keep the real source small typography and layout. No other alterations, no added claims or changed artwork. All Hebrew stays as reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-92320a20-0a84-4d55-81d1-fa198b17d6f7.png",
+      "destination": "koeling-schap-2/images/vebo-70-light-20261120.png"
+    },
+    {
+      "id": 71,
+      "slug": "edam",
+      "label": "edam",
+      "color": "red",
+      "front": "ab003469-4a26-4580-a806-524781957db2",
+      "group": "koeling-schap-2",
+      "prefix": "vebo",
+      "prompt": "Precise-object-edit. Image1 is target generated cheese packshot; image2 REAL package is authoritative. Preserve full upright portrait closed packaging, colors, layout, original big \"edam\" lettering, cheese slices, Hebrew words, marks, and white background. Correct only incorrect small English print to match real source: small line at top of red shield must say \"VEBO Wierden Holland\"; tiny black bottom English line must say \"UNDER SUPERVISION OF THE CHIEF RABBINATE OF HOLLAND\". Do NOT replace HOLLAND with Israel or Jerusalem or add a different certifier. Small fat text at right above dotted divider must read \"M.F./M.G.24%\". Keep real source small typography and layout. No other alterations, no added claims or changed artwork. All Hebrew stays as reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-75066e12-90cb-4060-bc94-c93a4ee2cc0e.png",
+      "destination": "koeling-schap-2/images/vebo-71-edam-20261120.png"
+    },
+    {
+      "id": 72,
+      "slug": "gouda",
+      "label": "gouda",
+      "color": "green",
+      "front": "70576b4e-81f1-48ab-ae49-426ea5576a96",
+      "group": "koeling-schap-2",
+      "prefix": "vebo",
+      "prompt": "Precise-object-edit. Image1 is target generated cheese packshot; image2 REAL package is authoritative. Preserve full upright portrait closed packaging, colors, layout, original big \"gouda\" lettering, cheese slices, Hebrew words, marks, and white background. Correct only incorrect small English print to match real source: small line at top of red shield must say \"VEBO Wierden Holland\"; tiny black bottom English line must say \"UNDER SUPERVISION OF THE CHIEF RABBINATE OF HOLLAND\". Do NOT replace HOLLAND with Israel or Jerusalem or add a different certifier. Small fat text at right above dotted divider must read \"M.F./M.G.28%\". Keep real source small typography and layout. No other alterations, no added claims or changed artwork. All Hebrew stays as reference.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-5b411bf0-10bd-450b-8db1-34936db756b3.png",
+      "destination": "koeling-schap-2/images/vebo-72-gouda-20261120.png"
+    }
+  ]
+}
