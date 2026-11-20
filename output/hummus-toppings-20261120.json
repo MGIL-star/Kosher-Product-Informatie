@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "id": 48,
+      "slug": "zaatar",
+      "description": "Egale lichte hummusbasis zonder spikkels, met zichtbare za’atar bovenop.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-bbdd35e3-5fc9-45f5-994d-6a7593ef48e6.png",
+      "destination": "koeling-schap-1/images/eden-48-zaatar-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Add a clearly visible natural layer of green-brown za’atar herb and sesame seasoning on the TOP surface of the hummus. It must read as za’atar sprinkled generously on top, not tiny flecks mixed into the hummus. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 47,
+      "slug": "masbacha",
+      "description": "Egale lichte hummusbasis zonder spikkels, met kikkererwten bovenop.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-d79f4523-3bd8-4eb4-ab15-c3786ceed6e0.png",
+      "destination": "koeling-schap-1/images/eden-47-masbacha-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Place clearly visible whole cooked chickpeas on TOP of the hummus, a generous natural central cluster of chickpeas (hummus beans), lightly nestled into the hummus. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 49,
+      "slug": "picanti",
+      "description": "Egale lichte hummusbasis zonder spikkels, met een gevuld rood rondje pittige saus en een hummusrand rondom.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-8c67a756-2813-46ff-ac9a-4570264a66af.png",
+      "destination": "koeling-schap-1/images/eden-49-picanti-20261120-toppings.png",
+      "prompt": "Precise product photo edit. Change ONLY the size of the solid filled red spicy sauce circle on top. Enlarge it substantially to about 2.5 times its current size/area, roughly 55–60% of the hummus top diameter. Keep a clearly visible broad ivory hummus border all around it; do NOT cover the entire hummus. A fully filled red disk, including center, NOT a hollow ring, NOT a spiral. Keep smooth uniformly ivory hummus base without speckles. Keep absolutely everything else unchanged: exact packaging, closed transparent lid, every label letter, logo, 400 G weight, red label, angle, white background, lighting and framing. No extra toppings."
+    },
+    {
+      "id": 51,
+      "slug": "pignons",
+      "description": "Egale lichte hummusbasis zonder spikkels, met duidelijk herkenbare pijnboompitten bovenop.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-7765f322-62ff-481e-9020-2088f0ab0855.png",
+      "destination": "koeling-schap-1/images/eden-51-pignons-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Make the pine nuts on TOP clearly visible: a generous natural cluster of distinct elongated ivory pine nuts with subtle toasted golden tips, clearly recognizable pine nuts rather than indistinct beige lumps. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 32,
+      "slug": "authentique",
+      "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-d2559095-fc0b-4ce7-af8a-fdeac17bc46f.png",
+      "destination": "koeling-schap-1/images/eden-32-authentique-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Keep exactly the existing topping if any, with no additions. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 66,
+      "slug": "carmel",
+      "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-80460f04-966b-43d1-b4d0-9d95c4b8c12f.png",
+      "destination": "koeling-schap-1/images/eden-66-carmel-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Keep exactly the existing topping if any, with no additions. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 46,
+      "slug": "gourmet",
+      "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-c7515bd8-1c77-4400-bbe3-94e552f7fe28.png",
+      "destination": "koeling-schap-1/images/eden-46-gourmet-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Keep exactly the existing topping if any, with no additions. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 45,
+      "slug": "pois-chiches",
+      "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-34af078a-e926-4524-bf4f-f75415a996d3.png",
+      "destination": "koeling-schap-1/images/eden-45-pois-chiches-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Keep exactly the existing topping if any, with no additions. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    },
+    {
+      "id": 50,
+      "slug": "tradition",
+      "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden.",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-cf57530d-58fb-4363-9f95-60e210aba353.png",
+      "destination": "koeling-schap-1/images/eden-50-tradition-20261120-toppings.png",
+      "prompt": "Use case: precise-object-edit. Edit the supplied existing packaged hummus packshot. User correction: ALL of the HUMMUS BASE must be smooth uniform pale creamy ivory/off-white, natural classic hummus, WITHOUT any green/brown/black speckles, dots, herb fragments or seasoning mixed into the base. Remove those speckles everywhere in the hummus base, also at sides visible through the plastic. Do not bleach the label or packaging. TOPPING instruction only: Keep exactly the existing topping if any, with no additions. The specified topping is separate and on top of the smooth off-white base. No other invented garnishes or ingredients. Preserve EXACT existing label artwork, every printed word, logos, colors, weight, container shape, closed transparent lid and rim, high three-quarter camera angle, white background, lighting, framing. Only correct the food surface/base and specified topping. Photorealistic closed packaged food. No dates, added text or props."
+    }
+  ]
+}

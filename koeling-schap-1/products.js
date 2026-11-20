@@ -3038,3 +3038,60 @@ window.KPI_PRODUCTS = [
     product.labelChecked = "2026-11-20";
   }
 }());
+
+// Zichtbare toppings gecorrigeerd volgens gebruikersaanwijzing, 20 november 2026.
+(function () {
+  const updates = [
+  {
+    "id": 48,
+    "image": "./images/eden-48-zaatar-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels, met zichtbare za’atar bovenop."
+  },
+  {
+    "id": 47,
+    "image": "./images/eden-47-masbacha-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels, met kikkererwten bovenop."
+  },
+  {
+    "id": 49,
+    "image": "./images/eden-49-picanti-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels, met een gevuld rood rondje pittige saus en een hummusrand rondom."
+  },
+  {
+    "id": 51,
+    "image": "./images/eden-51-pignons-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels, met duidelijk herkenbare pijnboompitten bovenop."
+  },
+  {
+    "id": 32,
+    "image": "./images/eden-32-authentique-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden."
+  },
+  {
+    "id": 66,
+    "image": "./images/eden-66-carmel-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden."
+  },
+  {
+    "id": 46,
+    "image": "./images/eden-46-gourmet-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden."
+  },
+  {
+    "id": 45,
+    "image": "./images/eden-45-pois-chiches-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden."
+  },
+  {
+    "id": 50,
+    "image": "./images/eden-50-tradition-20261120-toppings.png",
+    "description": "Egale lichte hummusbasis zonder spikkels; bestaande topping behouden."
+  }
+];
+  for (const update of updates) {
+    const product = window.KPI_PRODUCTS.find(p => p.id === update.id);
+    product.previousImage = product.image;
+    product.image = update.image;
+    product.imageSource.edit += " Topping gecorrigeerd op gebruikersaanwijzing: " + update.description;
+  }
+}());
