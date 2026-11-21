@@ -3128,3 +3128,12 @@ window.KPI_PRODUCTS = [
     product.imageSource.edit = "Op expliciet gebruikersverzoek van 20 november 2026: gesloten bakje op de bodem in dezelfde kijkhoek als de andere salades, bestaand deksel-etiket verplaatst naar de zijkant, inhoud zichtbaar, witte achtergrond.";
   }
 }());
+
+// Gebruikerscorrectie 21 november 2026: alle Eden-saladebakjes dezelfde layout als aubergine met mayonaise.
+(function () {
+  for (const product of window.KPI_PRODUCTS) {
+    if (product.brand === "Eden Gourmet" && product.category === "Salades & dips") {
+      delete product.imageScale;
+    }
+  }
+}());

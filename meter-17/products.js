@@ -3964,3 +3964,9 @@ window.KPI_PRODUCTS = [
     "kosher": "Badatz Edah HaChareidis"
   }
 ];
+
+// De packshot van ID 58 bevat witte marges; gebruik de flesuitsnede zonder vervorming.
+(function () {
+  const shampoo = window.KPI_PRODUCTS.find(p => p.id === 58);
+  shampoo.imageFrame = {x: 0.239, y: 0.033, width: 0.52, height: 0.934, aspectRatio: (0.52 * 1086) / (0.934 * 1448)};
+}());
