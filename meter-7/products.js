@@ -2598,7 +2598,7 @@ window.KPI_PRODUCTS = [
     "brand": "Sterilgarda",
     "name": "Halfvolle Houdbare Melk",
     "variant": "1 liter",
-    "ean": "8002795001417",
+    "ean": "800795001431",
     "ingredients": "Halfvolle melk.",
     "allergens": [
       "Melk"
