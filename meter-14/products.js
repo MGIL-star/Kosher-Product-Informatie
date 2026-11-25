@@ -1127,3 +1127,12 @@ window.KPI_PRODUCTS = [
  const index=window.KPI_PRODUCTS.findIndex(p=>p.id===26);
  window.KPI_PRODUCTS.splice(index+1,0,product);
 }());
+
+// Verwijder de zwarte achtergrond uit de Bissli BBQ-productfoto, 25 november 2026.
+(function () {
+ const p=window.KPI_PRODUCTS.find(p=>p.id===1);
+ p.previousImage=p.image;
+ p.image="images/bissli-bbq-white-20261125.png";
+ p.imageEdited=true;
+ for(const key of ["imageBounds","imageFrame","imagePresentation","imageScale"])delete p[key];
+}());

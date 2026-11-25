@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Bissli BBQ 70 g – witte achtergrond",
+  "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-84883f9d-f162-40a8-98ca-9b3b60b26549.png",
+  "destination": "meter-14/images/bissli-bbq-white-20261125.png",
+  "prompt": "Use case: background-extraction. Edit this existing product image ONLY to remove the black outer canvas/frame and all screenshot padding, replacing it with a clean PURE WHITE background. Isolate the exact orange Bissli BBQ bag, center the entire closed bag upright on white with modest margins. Preserve every actual pixel-design element of the bag as closely as possible: Osem logo, Bissli BBQ name, snack illustrations, existing printed small text and existing printed weight unchanged. Do NOT change the printed weight, do NOT redesign or enhance label wording, do NOT invent a 70g print. Only background/crop/centering, faithful real bag proportions, no other objects. White background out to all four image edges, no black border anywhere."
+}
