@@ -59,6 +59,7 @@
   for (const source of sources) if (['koeling-schap-1', 'koeling-schap-2'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261120-verpakkingen-schuin';
   for (const source of sources) if (source.folder === 'koeling-schap-1') source.data = source.data.split('?')[0] + '?v=20261121-salades-gelijke-layout';
   for (const source of sources) if (source.folder === "meter-17") source.data = source.data.split("?")[0] + "?v=20261121-hawaii-flesvorm";
+  for (const source of sources) if (['meter-4-tafelzuur','meter-14'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261125-augurken-bamba';
   let products=[], active='all', failures=[];
   const translatedSearch = new Map();
   let cart={};

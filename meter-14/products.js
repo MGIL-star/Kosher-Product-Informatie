@@ -1083,3 +1083,47 @@ window.KPI_PRODUCTS = [
   const index = products.findIndex(p => p.id === 24);
   products.splice(index + 1, 0, product);
 }());
+
+// Bamba Cheddar direct naast Bamba Marshmallow, volgens gebruiker.
+(function () {
+ const product = {
+  "id": 28,
+  "brand": "Osem",
+  "name": "Bamba met Cheddarsmaak",
+  "variant": "28 g",
+  "category": "Snacks",
+  "ean": "077544006652",
+  "ingredients": "Pindakaas (gemalen pinda’s), maïsgries, zonnebloemolie, maltodextrine, suiker, zout, glucosestroop, kunstmatige aroma’s, uienpoeder, citroenzuur, paprika-extract, ascorbinezuur, rozemarijnextract.",
+  "allergens": [
+    "Pinda’s"
+  ],
+  "mayContain": "Kan soja bevatten.",
+  "warning": "Jonge kinderen alleen zittend en onder toezicht laten eten.",
+  "kosher": "Chief Rabbinate Kiryat Gat\nOU",
+  "image": "images/bamba-cheddar-28g-20261125.png",
+  "imageEdited": true,
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "2232 kJ / 534 kcal",
+    "Vetten": "30 g",
+    "Waarvan verzadigde vetzuren": "3,7 g",
+    "Koolhydraten": "50 g",
+    "Waarvan suikers": "4,6 g",
+    "Eiwitten": "16 g",
+    "Zout": "1,8 g"
+  },
+  "nutritionSource": "Fysieke voedingswaardetabel per 100 g: source-labels/20261125-bamba-cheddar/codex-clipboard-c47e2b73-bf17-4d5a-a24d-9e8828fd5c53.png",
+  "nutritionChecked": "2026-11-25",
+  "ingredientsChecked": "2026-11-25",
+  "ingredientsComplete": true,
+  "sourcePhotos": [
+    "source-labels/20261125-bamba-cheddar/codex-clipboard-5d699220-092e-435c-92f0-47c749bbd6a4.png",
+    "source-labels/20261125-bamba-cheddar/codex-clipboard-7cf005de-1a49-417b-b750-5207e36ab422.png",
+    "source-labels/20261125-bamba-cheddar/codex-clipboard-c47e2b73-bf17-4d5a-a24d-9e8828fd5c53.png",
+    "source-labels/20261125-bamba-cheddar/codex-clipboard-5d57c4c3-d084-45da-8b82-5bd2e9c900a0.png",
+    "source-labels/20261125-bamba-cheddar/codex-clipboard-3a908c7c-13dc-47b3-b384-cb8f00d33fc5.png"
+  ]
+};
+ const index=window.KPI_PRODUCTS.findIndex(p=>p.id===26);
+ window.KPI_PRODUCTS.splice(index+1,0,product);
+}());

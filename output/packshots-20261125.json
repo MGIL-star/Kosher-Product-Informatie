@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "id": 20,
+      "name": "Augurken 18-25",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-efc5f09d-3486-4d4e-bfcd-95be2d4b4eba.png",
+      "destination": "assets/images/meter-4/kvuzat-yavne-18-25-20261125.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. Make a clean studio packshot of the EXACT closed metal can in supplied two photos. Image 1 and image 2 show the SAME product from two angles; use them together to preserve its actual wraparound label. Remove hand, people, shop and all surroundings; upright straight vertical can on pure white with subtle contact shadow, realistic corrugated metal, true closed top and bottom, preserve height/width proportions. Face oriented so both the main cucumber photograph/brand and purple size panel are clearly visible, slight natural turn, not rear technical label. Keep EXACT real packaging design, colors, lettering, logo, label food photograph, no redesign, no translation. Important actual visible label text: 18-25 MINI, Net Wt. 19 oz. (560g), Pickled Cucumbers in Brine. Keep Hebrew brand exactly as in source. Preserve existing NO PRESERVATIVES/NO FOOD COLORING if printed; don't invent extra claims. Remove any visible dates/lot codes only, retain all normal packaging text. One can centered, entire can visible, crisp product photograph."
+    },
+    {
+      "id": 21,
+      "name": "Augurken 13-17",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-1300c9f1-4851-46f3-8220-cdbf0c339dd3.png",
+      "destination": "assets/images/meter-4/kvuzat-yavne-13-17-20261125.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. Make a clean studio packshot of the EXACT closed metal can in supplied two photos. Image 1 and image 2 show the SAME product from two angles; use them together to preserve its actual wraparound label. Remove hand, people, shop and all surroundings; upright straight vertical can on pure white with subtle contact shadow, realistic corrugated metal, true closed top and bottom, preserve height/width proportions. Face oriented so both the main cucumber photograph/brand and blue size panel are clearly visible, slight natural turn, not rear technical label. Keep EXACT real packaging design, colors, lettering, logo, label food photograph, no redesign, no translation. Important actual visible label text: 13-17 SMALL, Net Wt. 19 oz. (560g), Pickled Cucumbers in Brine. Keep Hebrew brand exactly as in source. Preserve existing NO PRESERVATIVES/NO FOOD COLORING if printed; don't invent extra claims. Remove any visible dates/lot codes only, retain all normal packaging text. One can centered, entire can visible, crisp product photograph."
+    },
+    {
+      "id": 19,
+      "name": "Augurken 10-12",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-c02f41cc-cdad-40bb-b4a4-8c6de96bf0a9.png",
+      "destination": "assets/images/meter-4/kvuzat-yavne-10-12-20261125.png",
+      "prompt": "Use case: background-extraction / precise-object-edit. Make a clean studio packshot of the EXACT closed metal can in supplied two photos. Image 1 and image 2 show the SAME product from two angles; use them together to preserve its actual wraparound label. Remove hand, people, shop and all surroundings; upright straight vertical can on pure white with subtle contact shadow, realistic corrugated metal, true closed top and bottom, preserve height/width proportions. Face oriented so both the main cucumber photograph/brand and green size panel are clearly visible, slight natural turn, not rear technical label. Keep EXACT real packaging design, colors, lettering, logo, label food photograph, no redesign, no translation. Important actual visible label text: KVUZAT YAVNE, Cornichons salés, 10-12 MIDDEL GROOT, POIDS NET:540g, NET ÉGOUTTÉ:320g, Sans Conservateur. Retain French version shown in the source, do not translate. Preserve existing NO PRESERVATIVES/NO FOOD COLORING if printed; don't invent extra claims. Remove any visible dates/lot codes only, retain all normal packaging text. One can centered, entire can visible, crisp product photograph."
+    },
+    {
+      "id": 28,
+      "name": "Bamba met Cheddarsmaak",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-e69bb4a1-a91e-4616-a610-bb7cdf4a8021.png",
+      "destination": "meter-14/images/bamba-cheddar-28g-20261125.png",
+      "prompt": "Use case: background-extraction. Produce a studio packshot by isolating the EXACT closed Osem BAMBA CHEDDAR bag shown in the source photo. Remove hand and shop background, straighten upright on pure white with subtle natural shadow. Preserve EXACT actual sealed crimped black-and-orange bag, proportions, OSEM oval logo, big red BAMBA letters, PEANUT BUTTER PUFFS, CHEDDAR ARTIFICIAL FLAVOR, orange snack illustration and real printed label design and typography. Bottom text NET WEIGHT 1oz (28g e). Do not add claims, change language or redesign any artwork. Entire closed package visible, front view, crisp realistic glossy bag with gentle natural folds. Remove visible dates/lot codes only if any; no added text or props."
+    }
+  ]
+}

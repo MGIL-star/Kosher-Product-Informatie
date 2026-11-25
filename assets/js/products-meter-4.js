@@ -870,3 +870,132 @@ window.KPI_PRODUCTS.find(p => p.id === 18).nutrition.Vezels = '12 g';
   product.nutritionSource = 'https://foodiepedia.co.il/מחירים/זיתים-סורי-מבוקע-קבוצת-יבנה-540-גרם-7290002057048/';
   product.nutritionReview = 'EAN verified; ingredients checked with pickles.co.il/en/product/syrian-cracked-olives/. Only supplied nutrients included. kJ calculated from kcal × 4.184; salt calculated from sodium × 2.5 and rounded half up.';
 }());
+
+// Nieuwe fysieke verpakkingen, 25 november 2026; bestaande product-ID’s behouden.
+(function () {
+ const updates = [
+  {
+    "id": 20,
+    "brand": "Kvuzat Yavne",
+    "image": "../assets/images/meter-4/kvuzat-yavne-18-25-20261125.png",
+    "imageEdited": true,
+    "imageMayVary": false,
+    "ean": "730127100030",
+    "variant": "18/25 Mini · Netto 560 g",
+    "ingredients": "Augurken, water, zout, zuur (azijnzuur), kunstmatig aroma, knoflook.",
+    "allergens": [],
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "kosherSource": "Fysiek etiket, bronfoto 99c7a370-6f1e-4450-8800-eb359ec28a07",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "28 kJ / 6,67 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0,67 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "1,2 g",
+      "Eiwitten": "0,8 g",
+      "Natrium": "1300 mg",
+      "Zout": "3,25 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per 15 g",
+      "values": {
+        "Energie": "1 kcal",
+        "Vetten": "0 g",
+        "Koolhydraten": "0,1 g",
+        "Vezels": "0,18 g",
+        "Eiwitten": "0,12 g",
+        "Natrium": "195 mg"
+      }
+    },
+    "nutritionSource": "Fysiek etiket: source-labels/20261125-augurken/codex-clipboard-99c7a370-6f1e-4450-8800-eb359ec28a07.png",
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-augurken/codex-clipboard-84d5888c-3e78-4199-91bf-88f52ffc0ef3.png",
+      "source-labels/20261125-augurken/codex-clipboard-ef3aaef4-9ead-4a62-9ea8-4e01ccae5432.png",
+      "source-labels/20261125-augurken/codex-clipboard-99c7a370-6f1e-4450-8800-eb359ec28a07.png"
+    ]
+  },
+  {
+    "id": 21,
+    "brand": "Kvuzat Yavne",
+    "image": "../assets/images/meter-4/kvuzat-yavne-13-17-20261125.png",
+    "imageEdited": true,
+    "imageMayVary": false,
+    "ean": "730127100023",
+    "variant": "13/17 Klein · Netto 560 g",
+    "ingredients": "Augurken, water, zout, zuur (azijnzuur), kunstmatig aroma, knoflook.",
+    "allergens": [],
+    "kosher": "Badatz Edah HaChareidis Jerusalem\nOU",
+    "kosherSource": "Fysiek etiket, bronfoto fb97366d-81f4-48de-9d8e-90292392e97a",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "0 kJ / 0 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "0 g",
+      "Waarvan suikers": "0 g",
+      "Vezels": "0 g",
+      "Eiwitten": "0 g",
+      "Natrium": "1300 mg",
+      "Zout": "3,25 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per 21 g",
+      "values": {
+        "Energie": "0 kcal",
+        "Vetten": "0 g",
+        "Koolhydraten": "0 g",
+        "Vezels": "0 g",
+        "Eiwitten": "0 g",
+        "Natrium": "273 mg"
+      }
+    },
+    "nutritionSource": "Fysiek etiket: source-labels/20261125-augurken/codex-clipboard-fb97366d-81f4-48de-9d8e-90292392e97a.png",
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-augurken/codex-clipboard-0038a047-4965-4c4d-8649-31d532b9e5be.png",
+      "source-labels/20261125-augurken/codex-clipboard-26ed13b7-afb9-4e20-9f76-f6d14834afd7.png",
+      "source-labels/20261125-augurken/codex-clipboard-fb97366d-81f4-48de-9d8e-90292392e97a.png"
+    ]
+  },
+  {
+    "id": 19,
+    "brand": "Kvuzat Yavne",
+    "image": "../assets/images/meter-4/kvuzat-yavne-10-12-20261125.png",
+    "imageEdited": true,
+    "imageMayVary": false,
+    "ean": "7290002057369",
+    "variant": "10/12 Middelgroot · Netto 540 g",
+    "ingredients": "Augurken (57%), water, zout, azijn, specerijen.",
+    "allergens": [],
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "kosherSource": "Fysiek etiket, bronfoto 80916b86-9498-40ad-8a8e-fbb7a791c153",
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "50 kJ / 12 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "2 g",
+      "Waarvan suikers": "0 g",
+      "Eiwitten": "1 g",
+      "Zout": "3 g"
+    },
+    "nutritionOriginal": {
+      "unit": "per 100 g"
+    },
+    "nutritionSource": "Fysiek etiket: source-labels/20261125-augurken/codex-clipboard-80916b86-9498-40ad-8a8e-fbb7a791c153.png",
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-augurken/codex-clipboard-15b0c004-aaa7-430c-a2b5-577540275cb8.png",
+      "source-labels/20261125-augurken/codex-clipboard-9244150d-7437-4b3a-8e83-3b507dbe295c.png",
+      "source-labels/20261125-augurken/codex-clipboard-80916b86-9498-40ad-8a8e-fbb7a791c153.png"
+    ]
+  }
+];
+ for(const update of updates){const p=window.KPI_PRODUCTS.find(p=>p.id===update.id);p.previousImage=p.image;Object.assign(p,update);for(const key of ["imageFrame","imageBounds","imagePresentation","imageScale","nutritionSodiumConversion"])delete p[key];}
+}());
