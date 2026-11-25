@@ -2746,3 +2746,128 @@ window.KPI_PRODUCTS = [
   const index = products.findIndex(p => p.id === 8);
   products.splice(index + 1, 0, product);
 }());
+
+// Nieuwe Osem-sauzen naast het bestaande Osem-sauzenblok, 25 november 2026.
+(function () {
+ const additions = [
+  {
+    "id": 55,
+    "brand": "Osem",
+    "name": "Soja-Honingmarinade voor de Airfryer",
+    "variant": "360 g",
+    "ean": "7290122784374",
+    "category": "Sauzen",
+    "ingredients": "Water, suiker, gehydrolyseerd soja-eiwit (11,4%), azijn, tomatenconcentraat, zetmeel, honing (1,5%), gistextract, gebrande suiker, gedroogde knoflook, zout, specerijen, specerijenextracten.",
+    "allergens": [
+      "Soja"
+    ],
+    "mayContain": "Kan ei en mosterd bevatten.",
+    "kosher": "Rabbanut Sderot",
+    "image": "images/osem-soja-honing-20261125.png",
+    "imageEdited": true,
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "874 kJ / 209 kcal",
+      "Vetten": "0 g",
+      "Waarvan verzadigde vetzuren": "0 g",
+      "Koolhydraten": "49,5 g",
+      "Waarvan suikers": "43 g",
+      "Eiwitten": "2,7 g",
+      "Natrium": "1100 mg",
+      "Zout": "2,75 g"
+    },
+    "nutritionSource": "Fysiek etiket per 100 g. kJ berekend uit kcal × 4,184; zout uit natrium × 2,5.",
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-osem-sauzen/codex-clipboard-5d4c5899-0b07-4662-b9cd-be26db03eed8.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-18e8e7e9-c659-4143-b839-29a5bce419fa.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-c7ed9ffe-f2e9-4df2-94a9-1737ab4d4546.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-955e1cde-96b9-41e6-9fa3-aa3aef572d62.png"
+    ]
+  },
+  {
+    "id": 56,
+    "brand": "Osem",
+    "name": "Caesarsaus",
+    "variant": "295 g",
+    "ean": "7290112964434",
+    "category": "Sauzen",
+    "ingredients": "Water, plantaardige oliën, azijn, suiker, soja-eiwit, gemodificeerd zetmeel (E1422), gehydrolyseerde soja- en tarwe-eiwitten (bevat gluten), specerijen (knoflookpoeder, zwarte peper), zout, zoutvervanger (kaliumzout), tarwemeel, stabilisator (xanthaangom), conserveermiddel (kaliumsorbaat), aroma’s, maltodextrine, gist, antioxidanten (rozemarijnextract, E385).",
+    "allergens": [
+      "Soja",
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "Kan ei en mosterd bevatten.",
+    "kosher": "Rabbanut Sderot",
+    "image": "images/osem-caesar-20261125.png",
+    "imageEdited": true,
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1155 kJ / 276 kcal",
+      "Vetten": "25 g",
+      "Waarvan verzadigde vetzuren": "4 g",
+      "Koolhydraten": "11 g",
+      "Waarvan suikers": "9 g",
+      "Vezels": "2,25 g",
+      "Eiwitten": "1,8 g",
+      "Natrium": "395 mg",
+      "Zout": "0,99 g"
+    },
+    "nutritionSource": "Fysiek etiket per 100 g. kJ berekend uit kcal × 4,184; zout uit natrium × 2,5.",
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-osem-sauzen/codex-clipboard-b4f14a38-9036-48de-87d2-e2352a156ec4.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-65b2ad1a-ce2c-48cf-988b-a21ef232b9a2.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-1d6fb5d4-fe46-4dab-9980-c976c9639d33.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-c0cabb4f-b9e4-458c-b5d3-ff33b77e6415.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-edceacc4-5077-4512-9a3d-8fb5b43cfb11.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-be7cccf8-f0d3-4bb4-9d5e-c9b3e87a409e.png"
+    ]
+  },
+  {
+    "id": 57,
+    "brand": "Osem",
+    "name": "Grillmarinade voor de Airfryer",
+    "variant": "350 g",
+    "ean": "7290122784022",
+    "category": "Sauzen",
+    "ingredients": "Water, suiker, azijn, gehydrolyseerd soja-eiwit (bevat gluten), zetmeel, zout, sojaolie, zoete paprika, gedroogde knoflook, tomatenconcentraat, gebakken ui (ui, zonnebloemolie), specerijen, kruiden, gerookte suiker, specerijenextracten, rozemarijnextract.",
+    "allergens": [
+      "Soja",
+      "Gluten"
+    ],
+    "mayContain": "Kan ei en mosterd bevatten.",
+    "kosher": "Rabbanut Sderot",
+    "image": "images/osem-grill-20261125.png",
+    "imageEdited": true,
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "837 kJ / 200 kcal",
+      "Vetten": "2,7 g",
+      "Waarvan verzadigde vetzuren": "0,4 g",
+      "Koolhydraten": "42 g",
+      "Waarvan suikers": "36 g",
+      "Eiwitten": "2 g",
+      "Natrium": "1600 mg",
+      "Zout": "4 g"
+    },
+    "nutritionSource": "Fysiek etiket per 100 g. kJ berekend uit kcal × 4,184; zout uit natrium × 2,5.",
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-osem-sauzen/codex-clipboard-2e863205-b609-43d4-9752-0023f62a7d39.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-6f26d4fa-09d2-419a-8652-bbef157ab709.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-d7c6fd42-93ba-46e7-bbc9-c25a80cbaaa9.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-ca2cfbd9-65a5-4cb6-8556-0f92ed737d7d.png",
+      "source-labels/20261125-osem-sauzen/codex-clipboard-79f84a0f-3e41-453f-ac64-be89127b244e.png"
+    ]
+  }
+];
+ const index=window.KPI_PRODUCTS.findIndex(p=>p.id===13);
+ window.KPI_PRODUCTS.splice(index+1,0,...additions);
+}());

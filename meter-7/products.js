@@ -2821,3 +2821,49 @@ window.KPI_PRODUCTS = [
  const index=window.KPI_PRODUCTS.findIndex(p=>p.id===1);
  window.KPI_PRODUCTS.splice(index+1,0,...additions);
 }());
+
+// Driekleurige parelcouscous direct vóór Pasta Stars.
+(function () {
+ const product = {
+  "id": 47,
+  "brand": "Osem",
+  "name": "Parelcouscous Driekleurig",
+  "variant": "500 g",
+  "category": "Pasta en couscous",
+  "ean": "7290000061450",
+  "ingredients": "Tarwemeel (gluten), gedroogde spinazie, kleurstof (paprika-extract).",
+  "allergens": [
+    "Tarwe (gluten)"
+  ],
+  "mayContain": "Kan soja bevatten.",
+  "kosher": "Badatz Edah HaChareidis Jerusalem",
+  "image": "images/osem-parelcouscous-driekleurig-500g-20261125.png",
+  "imageEdited": true,
+  "ingredientsComplete": true,
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "1510 kJ / 361 kcal",
+    "Vetten": "1,5 g",
+    "Waarvan verzadigde vetzuren": "0,3 g",
+    "Koolhydraten": "74 g",
+    "Waarvan suikers": "1,8 g",
+    "Vezels": "3,5 g",
+    "Eiwitten": "11 g",
+    "Natrium": "8 mg",
+    "Zout": "0,02 g",
+    "Transvetten": "< 0,5 g",
+    "Cholesterol": "0 mg"
+  },
+  "nutritionSource": "Fysiek etiket: kolom per 100 g ongekookt product. kJ berekend uit kcal × 4,184; zout uit natrium × 2,5.",
+  "nutritionChecked": "2026-11-25",
+  "ingredientsChecked": "2026-11-25",
+  "sourcePhotos": [
+    "source-labels/20261125-couscous/codex-clipboard-40261f21-565b-47df-a98e-8073a5279e9e.png",
+    "source-labels/20261125-couscous/codex-clipboard-c37cf3b9-fb01-4fc8-809f-a580f550eccf.png",
+    "source-labels/20261125-couscous/codex-clipboard-e27603f2-c546-44e5-a198-546278d3b4df.png",
+    "source-labels/20261125-couscous/codex-clipboard-e7fa93cc-1aef-4d8e-922c-4e178120d5ff.png"
+  ]
+};
+ const index=window.KPI_PRODUCTS.findIndex(p=>p.id===22);
+ window.KPI_PRODUCTS.splice(index,0,product);
+}());

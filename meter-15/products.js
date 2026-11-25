@@ -842,3 +842,50 @@ window.KPI_PRODUCTS = [
 for (const product of window.KPI_PRODUCTS) {
   if ([11, 12, 13].includes(product.id)) product.temporarilyHidden = true;
 }
+
+// Nieuwe Liel-briochehotdogbroodjes, 25 november 2026.
+(function () {
+ const product = {
+  "id": 20,
+  "brand": "Liel",
+  "name": "Briochehotdogbroodjes",
+  "variant": "270 g (6 stuks)",
+  "category": "Brood & brioche",
+  "ean": "3662444005446",
+  "ingredients": "Tarwebloem, vers heel ei, water, koolzaadolie, invertsuikerstroop, zout, gist, natuurlijk aroma (bevat alcohol), tarwegluten, gedeactiveerde gist, emulgator (mono- en diglyceriden van vetzuren), geroosterd gemout roggemeel, kleurstof (bètacaroteen).",
+  "allergens": [
+    "Tarwe (gluten)",
+    "Ei",
+    "Rogge (gluten)"
+  ],
+  "mayContain": "Kan sesam en melk bevatten.",
+  "kosher": "Manchester Beth Din",
+  "image": "images/liel-brioche-hotdogbroodjes-270g-20261125.png",
+  "imageEdited": true,
+  "ingredientsComplete": true,
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "1356 kJ / 321 kcal",
+    "Vetten": "7,1 g",
+    "Waarvan verzadigde vetzuren": "0,3 g",
+    "Koolhydraten": "54 g",
+    "Waarvan suikers": "11 g",
+    "Eiwitten": "9,3 g",
+    "Zout": "1,6 g"
+  },
+  "nutritionChecked": "2026-11-25",
+  "ingredientsChecked": "2026-11-25",
+  "sourcePhotos": [
+    "source-labels/20261125-liel/codex-clipboard-c3896204-ccc4-438c-80e5-113275e3ac54.png",
+    "source-labels/20261125-liel/codex-clipboard-d6359678-01ea-4144-9280-7872c31385ea.png"
+  ]
+};
+ let last=-1;window.KPI_PRODUCTS.forEach((p,i)=>{if(p.brand==='Liel')last=i;});
+ window.KPI_PRODUCTS.splice(last<0?window.KPI_PRODUCTS.length:last+1,0,product);
+}());
+
+// Oude Doritos-ID behouden; de schapplaats is nu meter 13.
+(function () {
+ const product=window.KPI_PRODUCTS.find(p=>p.id===12);
+ product.movedTo="../meter-13/?product=122";
+}());

@@ -2884,3 +2884,49 @@ for (const product of window.KPI_PRODUCTS) {
 };
   product.nutritionUnit = "per 100 g";
 }());
+
+// Doritos Spicy Sour vóór Mr. Hipster zeezout, volgens schapfoto gebruiker.
+(function () {
+ const product = {
+  "id": 122,
+  "brand": "Doritos",
+  "name": "Pittig Zure Tortillachips",
+  "variant": "185 g",
+  "category": "Chips",
+  "ean": "815871017671",
+  "ingredients": "Maïs (70%), zonnebloemolie, maltodextrine, gehydrolyseerd maïseiwit, specerijen, kaliumchloride, zuurteregelaars (appelzuur, natriumdiacetaat), kleurstoffen (paprika-extract, curcumine), smaakversterkers (dinatriumguanylaat, dinatriuminosinaat), zoetstof (sucralose), aroma’s.",
+  "allergens": [],
+  "mayContain": "",
+  "warning": "",
+  "kosherLines": [
+    "Badatz Edah HaChareidis",
+    "OU"
+  ],
+  "image": "https://www.kroger.com/product/images/large/front/0081587101767",
+  "sourcePhotos": [
+    "../meter-15/source-photos/doritos-spicy-sour-front.jpg",
+    "../meter-15/source-photos/doritos-spicy-sour-weight.jpg",
+    "../meter-15/source-photos/doritos-spicy-sour-ingredients.jpg",
+    "../meter-15/source-photos/doritos-spicy-sour-certification.jpg",
+    "../meter-15/source-photos/doritos-spicy-sour-barcode.jpg"
+  ],
+  "imageSourcePage": "https://www.kroger.com/p/doritos-spicy-sour-flavored-tortilla-chips/0081587101767",
+  "ingredientsSource": "Etiketfoto, aangeleverd op 2026-10-22.",
+  "ingredientsComplete": true,
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "2209 kJ / 528 kcal",
+    "Vetten": "27 g",
+    "Waarvan verzadigde vetzuren": "2,9 g",
+    "Koolhydraten": "63 g",
+    "Waarvan suikers": "1,4 g",
+    "Eiwitten": "8,2 g",
+    "Zout": "0,95 g"
+  },
+  "nutritionSource": "../meter-15/source-labels/20261112-meter15/12.jpg",
+  "nutritionChecked": "2026-11-12",
+  "previousProductUrl": "../meter-15/?product=12"
+};
+ const index=window.KPI_PRODUCTS.findIndex(p=>p.id===58);
+ window.KPI_PRODUCTS.splice(index,0,product);
+}());
