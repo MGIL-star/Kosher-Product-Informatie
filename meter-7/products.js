@@ -2867,3 +2867,11 @@ window.KPI_PRODUCTS = [
  const index=window.KPI_PRODUCTS.findIndex(p=>p.id===22);
  window.KPI_PRODUCTS.splice(index,0,product);
 }());
+
+// Gebruikerscorrectie: driekleurige parelcouscous tussen sterrenpasta en middelgrove couscous.
+(function () {
+ const products=window.KPI_PRODUCTS;
+ const index=products.findIndex(p=>p.id===47);
+ const [product]=products.splice(index,1);
+ products.splice(products.findIndex(p=>p.id===23),0,product);
+}());
