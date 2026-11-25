@@ -2729,3 +2729,95 @@ window.KPI_PRODUCTS = [
   product.nutrition = ordered;
  }
 }());
+
+// Twee airfryer-varianten direct naast klassiek Osem-paneermeel.
+(function () {
+ const additions = [
+  {
+    "id": 45,
+    "brand": "Osem",
+    "name": "Krokant Paneermeel voor de Airfryer Italiaanse Stijl",
+    "variant": "200 g",
+    "category": "Paneermeel",
+    "ean": "7290118428633",
+    "ingredients": "Tarwemeel (gluten), knoflookpoeder, specerijen en kruiden, gist, zout, palmolie, kleurstof (paprika-extract).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "Kan soja en sesam bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "image": "images/osem-airfryer-paneermeel-italiaans-200g-20261125.png",
+    "imageEdited": true,
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1573 kJ / 376 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0,6 g",
+      "Koolhydraten": "78 g",
+      "Waarvan suikers": "5 g",
+      "Vezels": "1,25 g",
+      "Eiwitten": "12 g",
+      "Natrium": "400 mg",
+      "Zout": "1 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "Fysiek etiket per 100 g; kJ berekend uit kcal × 4,184; zout uit natrium × 2,5.",
+    "nutritionOriginalPortionWeight": 25,
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-airfryer/codex-clipboard-efc2c908-535b-49a0-ac58-5b2f366ec320.png",
+      "source-labels/20261125-airfryer/codex-clipboard-fbcd5a95-4fc1-481f-b154-1296e23ee5d7.png",
+      "source-labels/20261125-airfryer/codex-clipboard-9c064f2f-42f0-422d-a9b8-206c2d3e71c9.png",
+      "source-labels/20261125-airfryer/codex-clipboard-432db628-a761-4c5f-b5f7-0c0c30f45c1b.png",
+      "source-labels/20261125-airfryer/codex-clipboard-3b7c3a2b-8d7e-43af-94c9-0604d70582a5.png"
+    ]
+  },
+  {
+    "id": 46,
+    "brand": "Osem",
+    "name": "Krokant Paneermeel voor de Airfryer",
+    "variant": "200 g",
+    "category": "Paneermeel",
+    "ean": "7290118424314",
+    "ingredients": "Tarwemeel (gluten), gist, zout, palmolie, kleurstof (paprika-extract).",
+    "allergens": [
+      "Tarwe (gluten)"
+    ],
+    "mayContain": "Kan soja en sesam bevatten.",
+    "kosher": "Badatz Edah HaChareidis Jerusalem",
+    "image": "images/osem-airfryer-paneermeel-naturel-200g-20261125.png",
+    "imageEdited": true,
+    "ingredientsComplete": true,
+    "nutritionUnit": "per 100 g",
+    "nutrition": {
+      "Energie": "1615 kJ / 386 kcal",
+      "Vetten": "1,8 g",
+      "Waarvan verzadigde vetzuren": "0,5 g",
+      "Koolhydraten": "80,3 g",
+      "Waarvan suikers": "4,3 g",
+      "Vezels": "1 g",
+      "Eiwitten": "12 g",
+      "Natrium": "250 mg",
+      "Zout": "0,63 g",
+      "Transvetten": "< 0,5 g",
+      "Cholesterol": "0 mg"
+    },
+    "nutritionSource": "Fysiek etiket per 100 g; kJ berekend uit kcal × 4,184; zout uit natrium × 2,5.",
+    "nutritionOriginalPortionWeight": 25,
+    "nutritionChecked": "2026-11-25",
+    "ingredientsChecked": "2026-11-25",
+    "sourcePhotos": [
+      "source-labels/20261125-airfryer/codex-clipboard-eec0d499-3e3e-48f4-b498-116ad0857549.png",
+      "source-labels/20261125-airfryer/codex-clipboard-3733cd0e-20ca-4f37-bedb-94489b7394f5.png",
+      "source-labels/20261125-airfryer/codex-clipboard-017114b8-4a7e-49de-9345-ef14ab2b83a5.png",
+      "source-labels/20261125-airfryer/codex-clipboard-6c6c44c5-2a97-473a-b5c6-aee1f6f1a87f.png",
+      "source-labels/20261125-airfryer/codex-clipboard-bfc5106b-ee5b-43b3-b1ed-149e42cbc434.png"
+    ]
+  }
+];
+ const index=window.KPI_PRODUCTS.findIndex(p=>p.id===1);
+ window.KPI_PRODUCTS.splice(index+1,0,...additions);
+}());

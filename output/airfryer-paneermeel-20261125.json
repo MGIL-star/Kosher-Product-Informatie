@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "id": 45,
+      "name": "Krokant Paneermeel voor de Airfryer Italiaanse Stijl",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-b77e9b2a-f42a-4a29-b801-885c0779a4a0.png",
+      "destination": "meter-7/images/osem-airfryer-paneermeel-italiaans-200g-20261125.png",
+      "prompt": "Use case: background-extraction. Make an accurate clean studio packshot of this EXACT closed Osem AIR FRYER breadcrumbs bag, italiaans variant. Remove the hand, person and shop. Straight upright FRONT view on pure white, subtle contact shadow, entire sealed bag visible, preserve real 200g small pouch proportions. Keep the EXACT original teal wrapper, Osem Hebrew logo, AIR FRYER black title/icon, Hebrew text verbatim and pink bordered panel, original coated food photograph, transparent breadcrumb area, 200 gram print and actual certification mark. Do not redesign, translate, alter artwork or substitute the other variant. Remove dates/lot codes if visible only. Crisp realistic packshot with natural gentle folds, no added text or props.",
+      "correctionPrompt": "Precise-object-edit of generated packshot image 1. Image 2 is the ACTUAL physical package authority. Correct ONLY the small certification text at the bottom to match the actual physical package: preserve 200 gram weight; the certification should be the small original Badatz Edah HaChareidis Jerusalem Hebrew mark (בהשגחת הבד״ץ העדה החרדית ירושלים), NOT Chief Rabbinate of Israel, and do not add a different certification. Remove any invented הרבנות הראשית לישראל text from lower corners. Use the original photo to match layout/marks. Keep kosher-parve text only where actually printed. Keep all other main label text, artwork, AIR FRYER title, product title, teal bag, food illustration, proportions, white background and framing unchanged. No new claims, no dates. Only correct the certification area, not a redesign."
+    },
+    {
+      "id": 46,
+      "name": "Krokant Paneermeel voor de Airfryer",
+      "generated": "C:\\Users\\maor_\\.codex\\generated_images\\01a1ef10-6609-7080-b5be-2b9db6703d65\\exec-7c326a65-9b95-469f-8216-0c19a3d8ae6a.png",
+      "destination": "meter-7/images/osem-airfryer-paneermeel-naturel-200g-20261125.png",
+      "prompt": "Use case: background-extraction. Make an accurate clean studio packshot of this EXACT closed Osem AIR FRYER breadcrumbs bag, naturel variant. Remove the hand, person and shop. Straight upright FRONT view on pure white, subtle contact shadow, entire sealed bag visible, preserve real 200g small pouch proportions. Keep the EXACT original teal wrapper, Osem Hebrew logo, AIR FRYER black title/icon, Hebrew text verbatim and green bordered panel, original coated food photograph, transparent breadcrumb area, 200 gram print and actual certification mark. Do not redesign, translate, alter artwork or substitute the other variant. Remove dates/lot codes if visible only. Crisp realistic packshot with natural gentle folds, no added text or props.",
+      "correctionPrompt": "Precise-object-edit of generated packshot image 1. Image 2 is the ACTUAL physical package authority. Correct ONLY the small certification text at the bottom to match the actual physical package: preserve 200 gram weight; the certification should be the small original Badatz Edah HaChareidis Jerusalem Hebrew mark (בהשגחת הבד״ץ העדה החרדית ירושלים), NOT Chief Rabbinate of Israel, and do not add a different certification. Remove any invented הרבנות הראשית לישראל text from lower corners. Use the original photo to match layout/marks. Keep kosher-parve text only where actually printed. Keep all other main label text, artwork, AIR FRYER title, product title, teal bag, food illustration, proportions, white background and framing unchanged. No new claims, no dates. Only correct the certification area, not a redesign."
+    }
+  ]
+}
