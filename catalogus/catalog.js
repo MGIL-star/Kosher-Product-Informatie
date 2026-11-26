@@ -60,7 +60,7 @@
   for (const source of sources) if (source.folder === 'koeling-schap-1') source.data = source.data.split('?')[0] + '?v=20261121-salades-gelijke-layout';
   for (const source of sources) if (source.folder === "meter-17") source.data = source.data.split("?")[0] + "?v=20261121-hawaii-flesvorm";
   for (const source of sources) if (['meter-4-tafelzuur','meter-14'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261125-bissli-wit';
-  for (const source of sources) if (source.folder === 'meter-7') source.data = source.data.split('?')[0] + '?v=20261125-couscous-volgorde';
+  for (const source of sources) if (source.folder === 'meter-7') source.data = source.data.split('?')[0] + '?v=20261126-klassieke-noedels';
   for (const source of sources) if (source.folder === 'meter-5') source.data = source.data.split('?')[0] + '?v=20261125-osem-sauzen';
   for (const source of sources) if (source.folder === 'meter-15') source.data = source.data.split('?')[0] + '?v=20261125-liel-hotdogbroodjes';
   for (const source of sources) if (['meter-13','meter-15'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261125-doritos-plaatsing';

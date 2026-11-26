@@ -2875,3 +2875,50 @@ window.KPI_PRODUCTS = [
  const [product]=products.splice(index,1);
  products.splice(products.findIndex(p=>p.id===23),0,product);
 }());
+
+// Klassieke Osem-noedels naast de andere 400g-noedelzakken, 26 november 2026.
+(function () {
+ const product = {
+  "id": 48,
+  "brand": "Osem",
+  "name": "Klassieke Noedels",
+  "variant": "400 g",
+  "category": "Pasta en couscous",
+  "ean": "7290118423140",
+  "ingredients": "Tarwemeel (gluten), kurkuma (voor de kleur).",
+  "allergens": [
+    "Tarwe (gluten)"
+  ],
+  "mayContain": "Kan ei, mosterd, lupine en soja bevatten.",
+  "image": "images/osem-klassieke-noedels-400g-20261126.png",
+  "imageEdited": true,
+  "ingredientsComplete": true,
+  "nutritionUnit": "per 100 g",
+  "nutrition": {
+    "Energie": "1498 kJ / 358 kcal",
+    "Vetten": "1,2 g",
+    "Waarvan verzadigde vetzuren": "0 g",
+    "Koolhydraten": "73 g",
+    "Waarvan suikers": "2 g",
+    "Vezels": "3,4 g",
+    "Eiwitten": "12 g",
+    "Natrium": "0,5 mg",
+    "Zout": "0 g"
+  },
+  "nutritionSource": "Fysiek etiket: kolom per 100 g ongekookt product. kJ berekend uit kcal × 4,184. Zout berekend uit natrium × 2,5 en getoond met maximaal twee decimalen.",
+  "nutritionSodiumConversion": {
+    "sodiumMg": 0.5,
+    "saltGrams": 0.00125
+  },
+  "nutritionChecked": "2026-11-26",
+  "ingredientsChecked": "2026-11-26",
+  "sourcePhotos": [
+    "source-labels/20261126-noedels/codex-clipboard-25dfee7f-d2ca-4e37-a84f-28a52ff2711e.png",
+    "source-labels/20261126-noedels/codex-clipboard-4195b1ef-403e-4fa7-b96e-bb1f1a6394a9.png",
+    "source-labels/20261126-noedels/codex-clipboard-0ca4c9eb-aca0-4b1c-bd94-4cb4cd6b4b32.png",
+    "source-labels/20261126-noedels/codex-clipboard-2d23ebc5-4acc-4163-87d2-63edac1acdf4.png"
+  ]
+};
+ const index=window.KPI_PRODUCTS.findIndex(p=>p.id===19);
+ window.KPI_PRODUCTS.splice(index+1,0,product);
+}());
