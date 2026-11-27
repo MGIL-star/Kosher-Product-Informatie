@@ -64,7 +64,7 @@
   for (const source of sources) if (source.folder === 'meter-5') source.data = source.data.split('?')[0] + '?v=20261125-osem-sauzen';
   for (const source of sources) if (source.folder === 'meter-15') source.data = source.data.split('?')[0] + '?v=20261125-liel-hotdogbroodjes';
   for (const source of sources) if (['meter-13','meter-15'].includes(source.folder)) source.data = source.data.split('?')[0] + '?v=20261125-doritos-plaatsing';
-  let products=[], active='all', failures=[];
+  let products=[], active='all', activeMeter='all', failures=[];
   const translatedSearch = new Map();
   let cart={};
   try {const saved=JSON.parse(localStorage.getItem('kosher-catalog-cart') || '{}');for(const [k,v] of Object.entries(saved))if(Number.isInteger(v)&&v>0)cart[k]=Math.min(v,999);}catch{}
@@ -77,6 +77,22 @@
   function add(key,quantity=1){if(!products.some(p=>p.key===key))return;const amount=Number.isInteger(quantity)?Math.max(1,Math.min(999,quantity)):1;cart[key]=Math.min((cart[key]||0)+amount,999);save();toast('Toegevoegd aan uw boodschappenlijst');if($('#cart-dialog').open)renderCart();}
   function selectCategory(key){active=key;renderCategories();render();}
   function renderCategories(){const counts={};for(const p of products)counts[p.group]=(counts[p.group]||0)+1;$('#categories').innerHTML=Object.entries(icons).filter(([k])=>k==='all'||counts[k]).map(([k,label])=>`<button data-group="${k}" aria-pressed="${active===k}">${label}<span>${k==='all'?products.length:counts[k]}</span></button>`).join('');}
+  function renderMenu(){
+    const query=normalize($('#catalog-menu-search').value).trim();
+    const choices=[{folder:'all',title:'Alle producten'},...sources.filter(source=>products.some(p=>p.meter===source.folder))];
+    const visible=choices.filter(source=>!query||normalize(source.title).includes(query));
+    $('#catalog-menu-items').innerHTML=visible.map(source=>'<button type="button" data-catalog-section="'+esc(source.folder)+'" aria-current="'+(activeMeter===source.folder?'true':'false')+'">'+esc(source.title)+'</button>').join('');
+    $('#catalog-menu-empty').hidden=visible.length>0;
+    window.CatalogTranslation?.refresh();
+  }
+  $('#store-route-open').addEventListener('click',()=>$('#store-route').showModal());
+  $('#catalog-menu-open').addEventListener('click',()=>{$('#catalog-menu-search').value='';renderMenu();$('#catalog-menu').showModal();});
+  $('#catalog-menu-search').addEventListener('input',renderMenu);
+  $('#catalog-menu-items').addEventListener('click',event=>{
+    const button=event.target.closest('[data-catalog-section]');if(!button)return;
+    activeMeter=button.dataset.catalogSection;active='all';$('#search').value='';renderCategories();render();
+    $('#catalog-menu').close();$('#assortiment').scrollIntoView({block:'start'});
+  });
   function card(p){return `<article class="product-card"><button class="product-open" data-product="${esc(p.key)}" aria-label="Bekijk ${esc(p.name)}"><div class="photo${p.image?'':' placeholder'}">${p.image?image(p):'Foto volgt'}</div><div class="card-copy"><h3 data-source-title="${esc(p.name)}">${esc(p.name)}</h3><span class="brand notranslate" translate="no">${esc(p.brand)}</span><p class="weight">${esc(p.variant)}</p></div></button><button class="cart-icon-add" data-add="${esc(p.key)}" aria-label="${esc(p.name)} toevoegen aan boodschappenlijst" title="Toevoegen aan boodschappenlijst"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3h2l2.5 12h11l2-8H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></svg></button></article>`;}
   function render(){
     for (const card of document.querySelectorAll('.product-open[data-product]')) {
@@ -85,15 +101,15 @@
     }
     window.CatalogTranslation?.beforeUpdate();
     const query=normalize($('#search').value);
-    const filtered=products.filter(p=>(active==='all'||p.group===active)&&window.CatalogSearch.matches(p,query,translatedSearch.get(p.key)||''));
+    const filtered=products.filter(p=>(active==='all'||p.group===active)&&(activeMeter==='all'||p.meter===activeMeter)&&window.CatalogSearch.matches(p,query,translatedSearch.get(p.key)||''));
     $('#result-title').textContent='Ons assortiment';
-    $('#result-count').textContent=`${filtered.length} ${filtered.length===1?'product':'producten'}`;
+    $('#result-count').textContent=(activeMeter==='all'?'':sources.find(source=>source.folder===activeMeter).title+' · ')+`${filtered.length} ${filtered.length===1?'product':'producten'}`;
     const suggestions=filtered.length?[]:window.CatalogSearch.suggestions(query);
     $('#search-suggestions').innerHTML=suggestions.length?'<span>Probeer breder te zoeken:</span> '+suggestions.map(item=>'<button type="button" class="outline" data-search-suggestion="'+esc(item.query)+'">'+esc(item.label)+'</button>').join(''):'';
     $('#products').innerHTML=sources.map(source=>{
       const items=filtered.filter(p=>p.meter===source.folder);
       if(!items.length)return '';
-      return `<section class="meter-section" aria-labelledby="meter-${source.n}"><div class="meter-heading"><h2 id="meter-${source.n}">${esc(source.title)}</h2><span>${items.length} ${items.length===1?'product':'producten'}</span></div><div class="product-grid">${items.map(card).join('')}</div></section>`;
+      return `<section class="meter-section" aria-label="${esc(source.title)}"><div class="product-grid">${items.map(card).join('')}</div></section>`;
     }).join('')||'<p class="no-results">Geen producten gevonden. Probeer een andere zoekterm.</p>';
     window.CatalogTranslation?.refresh();
   }
