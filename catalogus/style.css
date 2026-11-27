@@ -143,11 +143,11 @@ html[dir="rtl"] .hebrew-blessing{font-family:'Assistant',Arial,sans-serif}
 
 /* Twee korte veegbewegingen naast de eerste productfoto. */
 .product-swipe-hint{inset:0;bottom:auto;height:100%;align-items:center;justify-content:space-between;padding:0 16px;direction:ltr}
-.product-swipe-hint>.swipe-side{position:relative;display:flex;flex-direction:column;align-items:center;gap:2px;width:48px;padding:0;border:0;border-radius:0;background:none;color:#285b46;box-shadow:none;font-size:22px;filter:drop-shadow(0 1px 2px #ffffff);animation:swipe-out-right 1.35s ease-in-out 2}
+.product-swipe-hint>.swipe-side{position:relative;display:flex;flex-direction:column;align-items:center;gap:2px;width:48px;padding:0;border:0;border-radius:0;background:none;color:#285b46;box-shadow:none;font-size:22px;filter:drop-shadow(0 1px 2px #ffffff);animation:swipe-out-right 1.35s ease-in-out 3}
 .product-swipe-hint>.swipe-side-left{animation-name:swipe-out-left}
 .swipe-side svg{display:block;width:34px;height:42px;fill:#f6f5ee;stroke:#285b46;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
 .swipe-side-left svg{transform:scaleX(-1)}
 .swipe-side-arrow{line-height:1;font-size:24px;opacity:.75}
-@keyframes swipe-out-left{0%,100%{transform:translateX(5px);opacity:.45}25%{opacity:1}65%{transform:translateX(-9px);opacity:1}85%{transform:translateX(-9px);opacity:.45}}
-@keyframes swipe-out-right{0%,100%{transform:translateX(-5px);opacity:.45}25%{opacity:1}65%{transform:translateX(9px);opacity:1}85%{transform:translateX(9px);opacity:.45}}
+@keyframes swipe-out-left{0%,100%{transform:translateX(5px);opacity:.8}25%{opacity:1}65%{transform:translateX(-9px);opacity:1}85%{transform:translateX(-9px);opacity:.8}}
+@keyframes swipe-out-right{0%,100%{transform:translateX(-5px);opacity:.8}25%{opacity:1}65%{transform:translateX(9px);opacity:1}85%{transform:translateX(9px);opacity:.8}}
 @media(prefers-reduced-motion:reduce){.product-swipe-hint>.swipe-side{animation:none}}

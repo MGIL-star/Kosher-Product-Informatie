@@ -33,7 +33,7 @@
       hideTimer = setTimeout(() => {
         hint?.classList.add('is-leaving');
         hideTimer = setTimeout(dismiss, 250);
-      }, 3000);
+      }, 4500);
     }, 350);
   }
   dialog.addEventListener('close', () => { dismiss(); timer = null; });
